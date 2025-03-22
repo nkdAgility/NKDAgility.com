@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:45:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:12:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS upgrade and permissions management, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical issue related to managing group memberships in TFS after an upgrade, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and does not provide any depth on these topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T19:46:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:12:04",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to permissions and group management in TFS, which does not align with the core principles of DevOps.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on a specific issue related to permissions in TFS (Team Foundation Server) after an upgrade, which is more of a technical troubleshooting guide rather than a discussion on DevOps principles. While it touches on aspects of team collaboration and permissions, it lacks a broader discussion on the cultural and philosophical aspects of DevOps, such as automation, shared accountability, or continuous improvement. Therefore, it only marginally aligns with the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -317,7 +323,7 @@
     "reasoning": "Content primarily discusses technical issues related to TFS upgrade and permissions management, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:46:36",
     "ai_confidence": 0,
@@ -328,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:46:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:12:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to permissions and security in TFS, which is not relevant to the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS permissions and does not mention or align with the Agile Product Operating Model. It focuses on a specific problem and solution regarding user permissions in TFS, which is unrelated to agile methodologies or product management principles.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -406,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:12:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to permissions and group membership in Team Foundation Server (TFS) rather than Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a specific issue related to permissions in TFS after an upgrade, which does not directly address Continuous Delivery principles or practices. There are no explicit mentions of Continuous Delivery, and the discussion lacks depth in terms of relevant themes such as automation, rapid feedback, or cultural aspects of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1452,6 +1464,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses issues related to permissions and user management in TFS after an upgrade, with no explicit mention of integrating testing, security, or compliance earlier in the software development lifecycle. It does not align with the core themes of the Shift-Left Strategy, which focuses on proactive measures in software development. The discussion is more about troubleshooting and administrative tasks rather than strategic development practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:12:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific issue related to TFS upgrades, with minimal reference to Continuous Improvement principles. While it discusses a solution to a problem, it lacks a broader context of ongoing reflection, adaptation, or empirical evidence that characterises Continuous Improvement. The mention of 'solution improvement' is too vague and does not align with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:12:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical issue related to permissions in TFS after an upgrade, with no discussion of shared objectives, alignment, or strategic goals. It lacks any reference to Agile or DevOps principles, making it irrelevant to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:12:13",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on a technical issue related to permissions in TFS after an upgrade, with no explicit discussion on competence or continuous skill development. While it touches on the need for proper permissions, it does not delve into the broader themes of competence, such as continuous learning or fostering a culture of competence.",
     "level": "Ignored"
   }
 }

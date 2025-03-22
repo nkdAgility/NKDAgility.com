@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:22:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:28:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the installation of TFS (Team Foundation Server) without discussing DevOps principles, practices, or related topics.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation process of TFS 2013 on Windows Server 2012 R2, which is more aligned with system administration and setup rather than the core principles of DevOps. While it touches on aspects of configuration and setup that could be relevant in a DevOps context, it lacks explicit discussions on collaboration, automation, or cultural shifts that are central to DevOps. Therefore, the confidence score reflects a minimal alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -241,11 +244,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T12:23:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:28:57",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installing TFS (Team Foundation Server) and does not address Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on the installation process of TFS 2013, detailing steps for setting up a virtual machine and configuring the server. While TFS can be related to Continuous Delivery practices, the content does not explicitly discuss Continuous Delivery principles, automation, or any of the key topics outlined for this category. The mention of TFS is incidental and does not delve into its role in Continuous Delivery, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -377,7 +383,7 @@
     "reasoning": "Content focuses on installing TFS and does not discuss Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-18T12:23:47",
     "ai_confidence": 0,
@@ -1141,11 +1147,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T12:23:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a TFS installation guide and does not relate to Agile principles or product operating models.",
+    "calculated_at": "2025-03-22T07:28:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content focuses exclusively on the technical process of installing TFS 2013 on Windows Server 2012 R2, with no discussion of agile methodologies, product management principles, or the Agile Product Operating Model. It does not address any of the key topics outlined in the category description, such as transitioning to a product ethos or operational stability in product delivery.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1348,11 +1357,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T12:23:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:28:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of TFS (Team Foundation Server) rather than Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical steps for installing TFS 2013 on Windows Server 2012 R2, with no direct mentions or discussions related to Evidence-Based Management principles or metrics. It lacks any alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and provides minimal depth on any relevant topics.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1425,6 +1437,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation process of TFS 2013 and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. The content is strictly about setup and configuration, making it irrelevant to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:28:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical steps for installing TFS 2013 on Windows Server 2012 R2, with no explicit discussion of Continuous Improvement principles or practices. While there is a mention of the author's reflection on past documentation, it does not delve into the core themes of Continuous Improvement such as empirical evidence, team effectiveness, or a culture of experimentation. Overall, the content lacks depth and alignment with the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:28:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical steps for installing TFS 2013 on Windows Server 2012 R2, with no discussion of Common Goals, Agile, or DevOps principles. It lacks any mention of shared objectives or alignment strategies, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:28:52",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the technical steps for installing TFS 2013, with no explicit discussion on competence, continuous learning, or skill development. While it demonstrates a level of technical capability, it does not engage with the core themes of competence as defined in the category. The mention of ensuring a smooth setup could be tangentially related to competence, but it lacks depth and direct relevance to the principles of professionalism and quality delivery.",
     "level": "Ignored"
   }
 }

@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:30:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:53:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a training course for Scrum developers, detailing course structure, modules, and logistics, without a clear emphasis on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a Scrum training course, discussing roles, practices, and tools without any explicit mention of Evidence-Based Management principles or metrics. While it touches on Agile practices, it lacks a direct connection to data-informed decision-making or empirical evidence, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T15:02:46",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-22T08:53:31",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content primarily focuses on a Scrum training course, which is more aligned with Agile methodologies than DevOps. While it mentions concepts like Continuous Integration and self-organising teams, the overall emphasis is on Scrum practices rather than the broader DevOps principles of collaboration between development and operations, automation, and continuous delivery. Therefore, while there are relevant elements, they are not the primary focus of the content.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a Scrum training course, which is more aligned with Agile methodologies than DevOps principles. While there are mentions of collaboration and self-organising teams, the core themes of DevOps, such as automation, continuous integration, and shared accountability across development and operations, are not adequately addressed. The discussion lacks depth in terms of DevOps practices and does not explore the cultural shifts necessary for effective DevOps implementation.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -335,7 +338,7 @@
     "reasoning": "Content primarily focuses on the Professional Scrum Developer course, detailing its structure, modules, and Scrum practices, without a clear emphasis on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:31:19",
     "ai_confidence": 0,
@@ -346,12 +349,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T08:53:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content primarily focuses on a Scrum training course, which is a component of Agile methodologies, but does not extensively discuss the Agile Product Operating Model as a central theme.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on a specific training course for Professional Scrum Developers, which is more aligned with Scrum practices than the broader Agile Product Operating Model. While it mentions Agile practices and Scrum, it does not delve into the principles of the Agile Product Operating Model or discuss transitioning to a product-oriented mindset. The depth of discussion on Scrum roles and events is significant, but it lacks a direct connection to the APOM framework, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -424,11 +430,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T08:53:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses implementation of Scrum, which includes practices related to continuous integration, automated builds, and creating potentially shippable increments. However, the primary focus is on training in Scrum methodologies rather than a direct discussion of Continuous Delivery as a standalone concept.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on a Scrum training course, which is related to Agile methodologies but does not explicitly discuss Continuous Delivery principles. While it mentions concepts like 'potentially shippable increments' and 'continuous integration', these are secondary to the main focus on Scrum roles and practices. The depth of discussion on Continuous Delivery is minimal, lacking detailed exploration of its principles, automation, or cultural aspects.",
     "level": "Tertiary"
   },
   "Strategic Goals": {
@@ -1537,5 +1546,41 @@
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on a Scrum training course, discussing roles, practices, and tools within the Scrum framework. While it touches on aspects of software development processes, such as testing and team collaboration, it does not explicitly address the Shift-Left Strategy or its principles. The mention of testing and quality attributes is too general and does not delve into integrating these processes earlier in the development lifecycle, which is central to the Shift-Left concept.",
     "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:53:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on a training course for Scrum developers, which includes elements of Agile practices and team collaboration. While it mentions retrospectives and improving processes, these concepts are not explored in depth or framed within a broader context of Continuous Improvement. The course details are more about the structure and content of the training rather than a discussion on Continuous Improvement as a philosophy or practice.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:53:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on a specific training course for Scrum developers, detailing the course structure, modules, and expected outcomes. While it mentions team collaboration and self-organisation, which are relevant to Common Goals, it lacks a direct discussion on the significance of aligning strategy with execution or the broader implications of Common Goals within Agile and DevOps frameworks. The depth of discussion on these themes is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:53:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on a training course designed to enhance skills in Scrum and .NET development. It discusses the importance of self-organising teams and the necessity for participants to commit to collaborative work, which aligns with the principles of competence. However, while it mentions skill development and teamwork, it lacks a deeper exploration of continuous learning and the broader implications of competence in Agile methodologies. The discussion is more promotional than analytical, which limits its depth.",
+    "level": "Secondary"
   }
 }

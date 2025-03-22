@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T10:40:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:22:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses managing multiple email aliases with a Microsoft ID, which is unrelated to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on managing email aliases with a Microsoft ID and does not discuss Evidence-Based Management or its key topics. There are no direct mentions of empirical decision-making, current value, or any other relevant concepts from the EBM framework.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -139,11 +142,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T10:42:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:21:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses managing email aliases with Microsoft ID, which is unrelated to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses managing multiple email aliases with a Microsoft ID, which is unrelated to DevOps principles or practices. There are no direct mentions of DevOps concepts, and the discussion lacks any alignment with the core themes of collaboration, automation, or shared accountability that define the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -308,7 +314,7 @@
     "reasoning": "Content primarily discusses managing multiple email aliases with a Microsoft ID, which does not relate to Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T10:43:17",
     "ai_confidence": 0,
@@ -319,11 +325,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T10:43:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:22:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses managing multiple email aliases with Microsoft ID, which is unrelated to Agile Product Operating Model principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on managing email aliases with a Microsoft ID, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any relevant topics outlined in the APOM definition. The discussion is purely technical and administrative, lacking any connection to the core themes of the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -391,11 +400,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T11:09:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:22:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses managing email aliases with Microsoft ID, which is not related to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses managing email aliases with a Microsoft ID, which is unrelated to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the themes of automation, incremental improvements, or software quality are absent. The discussion lacks depth and relevance to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1416,6 +1428,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses managing multiple email aliases with a Microsoft ID, which is unrelated to software development processes or the Shift-Left Strategy. There are no direct mentions of testing, security, or compliance integration in the software development lifecycle, nor does it provide any relevant techniques, case studies, or tools that support a Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:21:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on managing email aliases with a Microsoft ID, which does not relate to Continuous Improvement principles. There are no direct mentions of Continuous Improvement concepts, nor does it discuss any strategies or techniques for enhancing processes or team effectiveness. The content lacks depth in relation to the category, making it largely irrelevant.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:21:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on managing email aliases with a Microsoft ID, which is unrelated to the principles of Common Goals in Agile and DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth in these areas.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:22:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on managing email aliases with a Microsoft ID, which does not directly relate to the principles of competence in Agile, Scrum, DevOps, or Lean methodologies. While there is a brief mention of managing accounts and simplifying online experiences, it lacks a discussion on continuous learning, skill development, or the importance of competence in delivering quality outcomes. The content does not provide depth or detail on fostering a culture of competence or inspecting and adapting skills over time.",
     "level": "Ignored"
   }
 }

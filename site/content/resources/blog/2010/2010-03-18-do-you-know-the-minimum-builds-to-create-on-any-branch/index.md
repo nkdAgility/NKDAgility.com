@@ -36,7 +36,6 @@ tags:
 - Engineering Practices
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
-- DevOps
 - Engineering Excellence
 
 ---

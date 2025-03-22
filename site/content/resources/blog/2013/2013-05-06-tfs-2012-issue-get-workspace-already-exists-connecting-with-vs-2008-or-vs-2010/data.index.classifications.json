@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:52:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:52:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Visual Studio and Team Foundation Server, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to Visual Studio and Team Foundation Server, with no direct mentions or alignment to Evidence-Based Management principles. It focuses on troubleshooting rather than data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T18:52:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:51:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Visual Studio and Team Foundation Server, without a focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to Visual Studio and Team Foundation Server, which does not align with the core principles of DevOps. While it touches on aspects of workflow, it lacks a broader discussion on collaboration, automation, or cultural shifts inherent to DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses a technical issue related to Visual Studio and Team Foundation Server, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:52:59",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:53:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:51:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Visual Studio and Team Foundation Server, with no relevance to Agile Product Operating Model principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to Visual Studio and Team Foundation Server, with no direct mentions or alignment to the Agile Product Operating Model. It focuses on resolving a specific error rather than discussing agile methodologies or product management principles.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:48:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:52:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to Visual Studio and Team Foundation Server, which do not pertain to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily addresses a specific technical issue related to Visual Studio and Team Foundation Server, focusing on resolving a workspace error. It does not discuss Continuous Delivery principles, practices, or any related topics. The mention of TFS and Visual Studio is tangential and does not align with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1446,6 +1458,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a technical issue related to Visual Studio and Team Foundation Server, with no mention of the Shift-Left Strategy or its principles. It does not address testing, security, or compliance in the software development lifecycle, nor does it provide any insights into integrating these processes early in development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:51:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily addresses a technical issue related to Visual Studio and TFS, focusing on resolving a specific error rather than discussing Continuous Improvement principles. There are no direct mentions of Continuous Improvement concepts, and the content lacks depth in relation to the category's themes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:51:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical issue related to Visual Studio and Team Foundation Server, providing a workaround for a specific error. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:51:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to Visual Studio and TFS, with no explicit discussion on competence, continuous learning, or skill development. While it may indirectly touch on the need for technical proficiency, it does not align with the core themes of competence as defined in the category.",
     "level": "Ignored"
   }
 }

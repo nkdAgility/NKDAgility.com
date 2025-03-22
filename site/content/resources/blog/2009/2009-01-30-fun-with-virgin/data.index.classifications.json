@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T10:32:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:26:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with home entertainment setup and troubleshooting, with no relevance to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on personal experiences related to setting up a Virgin+ box and does not discuss any DevOps principles, practices, or cultural shifts. There are no mentions of collaboration, automation, or shared accountability, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T10:32:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:26:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about personal experiences with home entertainment setup and does not discuss Agile principles or product operating models.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal anecdotes related to setting up Virgin+ and does not mention or align with any principles of the Agile Product Operating Model. There is no discussion of agile methodologies, product management, or any related concepts.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -169,11 +175,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T10:32:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:26:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with home improvement and technology troubleshooting, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal anecdotes and technical troubleshooting related to setting up Virgin+, with no mention or discussion of Evidence-Based Management principles or metrics. It lacks any alignment with the core themes of EBM, such as data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -239,7 +248,7 @@
     "reasoning": "Content primarily discusses personal experiences with setting up a Virgin+ box and does not relate to metrics, learning, or Agile/DevOps principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T10:32:27",
     "ai_confidence": 0,
@@ -880,11 +889,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:10:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:26:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is a personal anecdote about installing a Virgin+ box and troubleshooting HDMI and SCART connections, with no relevance to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences related to setting up Virgin+ and does not discuss Continuous Delivery principles, practices, or any related topics. There are no direct mentions or relevant themes that align with Continuous Delivery.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1419,6 +1431,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is a personal anecdote about home improvement and technology troubleshooting, with no relevance to software development or the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:26:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal anecdotes and troubleshooting a technical issue with Virgin+, lacking any discussion on Continuous Improvement principles, methodologies, or practices. It does not align with the core themes of Continuous Improvement, such as data-driven decision-making or fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:26:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal anecdotes related to setting up Virgin+ and does not discuss any concepts related to Common Goals, Agile, or DevOps. There are no mentions of shared objectives or alignment strategies, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:26:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal anecdotes related to setting up Virgin+ and does not discuss competence, skill development, or any related themes. There are no direct mentions of competence or its importance in professional settings, and the depth of discussion is minimal, focusing instead on a personal experience.",
     "level": "Ignored"
   }
 }

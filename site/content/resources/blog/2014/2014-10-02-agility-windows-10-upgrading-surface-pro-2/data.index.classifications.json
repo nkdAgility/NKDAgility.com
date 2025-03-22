@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T09:02:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:14:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and technical aspects of upgrading to Windows 10, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses personal experiences with upgrading to Windows 10 and touches on agility and user feedback, but it lacks a direct focus on Evidence-Based Management principles. While there are mentions of organisational culture and the importance of user feedback, these are not explored in the context of empirical decision-making or the specific metrics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -133,14 +136,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T04:21:11",
+    "calculated_at": "2025-03-22T07:13:52",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses the transition of Windows to a continuous delivery model, which aligns with DevOps principles. However, the primary focus is on personal experiences with Windows 10 and the Technical Preview, rather than a comprehensive exploration of DevOps practices, tools, or cultural shifts. While there are mentions of agility and continuous delivery, the depth of discussion on DevOps-specific topics is limited.",
+    "reasoning": "The content discusses aspects of agility and continuous delivery in the context of Windows 10, which aligns with some DevOps principles. However, it primarily focuses on personal experiences and technical details of upgrading a device rather than a comprehensive exploration of DevOps as a philosophy or practice. The mention of continuous delivery and user feedback is relevant but not deeply explored, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -350,7 +353,7 @@
     "reasoning": "Content primarily discusses the upgrade process to Windows 10 and personal experiences with technology, with minimal focus on Systems Thinking principles or organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T09:03:29",
     "ai_confidence": 0,
@@ -361,14 +364,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T04:22:11",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "calculated_at": "2025-03-22T07:14:03",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the transition to a continuous delivery model at Microsoft, which aligns with Agile principles. However, it primarily focuses on the Windows 10 Technical Preview and personal experiences rather than a structured discussion on the Agile Product Operating Model. While there are mentions of agility and feedback loops, the depth of discussion on product-centric development and value delivery is limited.",
+    "final_score": 26.0,
+    "reasoning": "The content briefly touches on agility and user feedback in the context of Windows 10 but does not focus on the Agile Product Operating Model or its principles. While it mentions continuous delivery, it lacks a detailed discussion on product management practices or the transition from project to product ethos, which are core to the APOM framework.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -442,14 +445,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-11T17:56:46",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-22T07:14:08",
+    "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses Microsoft's shift towards continuous delivery for Windows, highlighting the principles of rapid deployment and user feedback. However, the primary focus is on personal experiences with the Windows 10 Technical Preview rather than a comprehensive exploration of Continuous Delivery principles. While it mentions key aspects like user engagement and the need for an agile process, the depth of discussion on Continuous Delivery practices is limited.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Microsoft's shift towards continuous delivery for Windows, highlighting the importance of user feedback and rapid feature releases. It mentions the cultural challenges and successes of implementing agile practices, which aligns with the principles of Continuous Delivery. However, the focus is more on personal experiences and anecdotes rather than a deep exploration of Continuous Delivery principles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Strategic Goals": {
@@ -1530,6 +1533,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the upgrade to Windows 10 and the experiences of early adopters, with no explicit mention of integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on agile processes and user feedback, it does not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:13:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the transition of Windows to a continuous delivery model and the importance of user feedback, which aligns with the principles of Continuous Improvement. However, the focus is more on personal experiences and technical details rather than a structured discussion on Continuous Improvement practices or strategies. The mention of agility and user feedback is relevant but not deeply explored, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:13:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the author's personal experience with upgrading to Windows 10 and does not explicitly discuss Common Goals within Agile or DevOps frameworks. While it touches on themes of agility and user feedback, these are not connected to shared objectives or strategic alignment, which are central to the Common Goals category. The discussion lacks depth and detail on how these concepts relate to team alignment or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:14:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the transition to agile processes at Microsoft and the importance of user feedback, which touches on competence in terms of continuous learning and adaptation. However, it primarily focuses on the technical aspects of upgrading to Windows 10 and personal experiences rather than a deep exploration of competence as a foundational principle in Agile or DevOps methodologies.",
     "level": "Ignored"
   }
 }

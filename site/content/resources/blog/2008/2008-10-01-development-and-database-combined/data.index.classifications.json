@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:42:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:41:33",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the combination of development tools without addressing DevOps principles, practices, or related topics.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the merger of Visual Studio Team Editions for Developers and Database Developers, which does not directly address DevOps principles or practices. While it mentions development tools, it lacks explicit references to DevOps concepts such as collaboration, automation, or shared accountability. The focus is on product features rather than the cultural and philosophical aspects of DevOps.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:42:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:41:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the combination of two Microsoft products without any reference to Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the merger of Visual Studio Team Editions for Developers and Database Developers, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM framework. The focus is on product features rather than the operational model itself.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -166,11 +172,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:42:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:41:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the combination of software products and does not address Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the merger of Visual Studio Team Editions and does not mention Evidence-Based Management or its key topics. There is no alignment with the core themes of EBM, and the depth of discussion is minimal, focusing instead on product features rather than data-informed decision-making.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -239,7 +248,7 @@
     "reasoning": "Content primarily discusses the combination of two Visual Studio products without any focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:42:32",
     "ai_confidence": 0,
@@ -886,11 +895,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:01:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:41:46",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a product announcement regarding Visual Studio editions and does not discuss Continuous Delivery principles or practices.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses the merger of Visual Studio Team Editions for Developers and Database Developers, which does not directly address Continuous Delivery principles or practices. There are no explicit mentions of Continuous Delivery, and the discussion lacks depth on relevant topics such as automation, incremental improvements, or user feedback. Overall, the content is more focused on product features rather than the Continuous Delivery methodology.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1422,6 +1434,42 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily discusses the combination of Visual Studio products without any explicit mention or discussion of the Shift-Left Strategy. It lacks alignment with the core themes of integrating testing, security, or compliance early in the development process, and does not provide any depth on the topic. Overall, it is tangentially related to software development but does not address the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:41:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the announcement of a product merger rather than discussing Continuous Improvement principles. There are no explicit mentions of Continuous Improvement, and the themes of empirical evidence, experimentation, or team effectiveness are absent. The content lacks depth and does not provide any strategies or frameworks related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:41:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the merger of two software products without addressing the concept of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth on how this merger impacts team collaboration or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:41:41",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the merger of Visual Studio Team Editions without any explicit mention of competence, continuous learning, or skill development. While it may imply some enhancement in development experience, it lacks a direct focus on the principles of competence as defined in Agile and DevOps contexts.",
     "level": "Ignored"
   }
 }

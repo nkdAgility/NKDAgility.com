@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:23:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:39:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on an unboxing review of a product, which is unrelated to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on unboxing a product, which is unrelated to DevOps principles, practices, or discussions. There are no mentions of DevOps concepts, and the content does not align with any of the key topics outlined for the DevOps category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -238,11 +241,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:35:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:39:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is about an unboxing review of a product and does not discuss Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on unboxing a product, which is unrelated to Continuous Delivery principles or practices. There are no mentions of software delivery, automation, or any relevant topics that align with the category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -371,7 +377,7 @@
     "reasoning": "Content is focused on unboxing a product and does not relate to Value Stream Management or its principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-18T11:35:50",
     "ai_confidence": 0,
@@ -1132,11 +1138,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:35:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:39:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on unboxing a product and does not discuss Agile principles or product operating models.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on unboxing a product, with no mention or discussion of agile methodologies, product management principles, or any related topics that align with the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1339,11 +1348,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:35:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:39:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on unboxing and reviewing a product, which does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on unboxing a product and does not mention or align with any principles of Evidence-Based Management. There are no discussions on metrics, decision-making, or value delivery.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1413,6 +1425,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is unrelated to software development processes and does not discuss the Shift-Left Strategy or its principles, techniques, or benefits.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:39:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on unboxing a product and does not discuss any principles or practices related to Continuous Improvement. There are no mentions of business agility, empirical evidence, or any related strategies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:39:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on unboxing a product and does not mention or align with the principles of Common Goals in Agile or DevOps. There are no discussions on shared objectives, strategic alignment, or team collaboration.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:39:27",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content focuses solely on unboxing a product and does not discuss any aspects related to competence, continuous learning, or professional development.",
     "level": "Ignored"
   }
 }

@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:32:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:31:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS and does not address Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS 2013 and does not focus on Evidence-Based Management principles. While it touches on problem-solving and process improvement, it lacks explicit references to empirical decision-making, metrics, or the core themes of EBM. The discussion is more about troubleshooting a specific error rather than applying data-informed strategies in management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T11:33:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:31:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific technical issue related to TFS and work item tracking, without a focus on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error in TFS 2013 related to work item tracking and does not discuss DevOps principles, practices, or cultural shifts. While it touches on aspects of process customisation, it lacks a direct connection to the core themes of DevOps such as collaboration, automation, or shared accountability. The discussion is technical and specific to a tool rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +326,7 @@
     "reasoning": "Content primarily discusses a technical issue related to Team Foundation Server and does not address Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T11:33:36",
     "ai_confidence": 0,
@@ -331,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T11:33:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:31:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS and does not focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error in TFS 2013 related to work item tracking and does not discuss the Agile Product Operating Model or its principles. While it mentions Agile Planning tools, it does not delve into the broader concepts of product management or the transition from project to product ethos, which are central to the APOM framework.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -406,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T11:53:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:31:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an issue with Team Foundation Server customization and work item tracking, which is unrelated to Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a specific error encountered in TFS 2013 related to work item tracking and does not address Continuous Delivery principles, practices, or tools. While it touches on aspects of software development, it lacks a focus on Continuous Delivery as defined in the category, making it largely irrelevant to the topic.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1461,6 +1473,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a specific technical issue related to a custom process template in TFS, focusing on a bug encountered during work item tracking. While it touches on aspects of testing and debugging, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or methodologies. The discussion lacks depth in relation to integrating testing or security early in the development process, which is central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:31:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error in TFS 2013 and does not discuss Continuous Improvement principles or practices. While it mentions a solution to a problem, it lacks a broader context of ongoing reflection, adaptation, or empirical evidence that characterises Continuous Improvement. The discussion is technical and problem-specific, with no emphasis on learning or process enhancement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:31:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical issue related to TFS 2013 and does not discuss Common Goals or their significance in Agile or DevOps. While it mentions team fields and work item tracking, these references are not connected to the overarching themes of alignment, shared objectives, or strategic goals. The discussion is more about troubleshooting and technical fixes rather than fostering collaboration or accountability within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:31:46",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical error in TFS 2013, detailing the steps taken to resolve the issue. While it does touch on aspects of problem-solving and knowledge sharing, it lacks a direct discussion on competence as defined in the category. The emphasis is on technical fixes rather than continuous learning, skill development, or fostering a culture of competence. Therefore, the alignment with the category is minimal.",
     "level": "Ignored"
   }
 }

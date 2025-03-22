@@ -76,15 +76,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:49:49",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 30,
-    "ai_depth": 25,
+    "calculated_at": "2025-03-22T09:38:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
-    "reasoning": "The content discusses automation in the context of building and deploying Business Intelligence solutions, which aligns with DevOps principles. It explicitly mentions automation of deployment and testing, which are key aspects of DevOps practices. However, while it touches on relevant topics, it lacks a broader discussion on cultural shifts, tools, or metrics that would provide a more comprehensive view of DevOps. The focus is primarily on specific technical challenges rather than the overarching DevOps philosophy.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses challenges related to automating Business Intelligence builds, which touches on automation—a key principle of DevOps. However, it primarily focuses on specific tools and problems rather than the broader DevOps philosophy or practices. The mention of automation is relevant but not deeply explored, and the overall discussion lacks a comprehensive alignment with the core themes of DevOps.",
+    "level": "Tertiary"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -115,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:29:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:39:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses challenges related to automated builds and testing of Business Intelligence solutions, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the challenges of automating Business Intelligence builds and does not discuss the Agile Product Operating Model or its principles. While it touches on automation and testing, these topics are not aligned with the core themes of APOM, such as product management or agile methodologies. The discussion lacks depth regarding the Agile Product Operating Model, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -175,11 +178,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:29:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:39:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses challenges and solutions related to automated builds and testing of Business Intelligence packages, without a focus on evidence-based management principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the challenges of automating Business Intelligence builds and does not explicitly mention Evidence-Based Management or its core themes. While it touches on issues related to performance testing and deployment, it lacks a focus on empirical decision-making or metrics that align with EBM principles.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -248,7 +254,7 @@
     "reasoning": "Content primarily discusses challenges related to automated builds and deployment of Business Intelligence solutions, without a focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:29:47",
     "ai_confidence": 0,
@@ -919,14 +925,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T07:27:28",
+    "calculated_at": "2025-03-22T09:39:08",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
     "final_score": 56.0,
-    "reasoning": "The content discusses challenges related to automating the build and deployment of Business Intelligence solutions, which touches on aspects of Continuous Delivery, such as automation and deployment processes. However, it lacks explicit discussions on the principles of Continuous Delivery and does not provide in-depth exploration of the methodologies or practices associated with it. The focus is more on specific technical issues rather than a comprehensive view of Continuous Delivery as a whole.",
+    "reasoning": "The content discusses challenges and solutions related to automating the deployment and testing of Business Intelligence packages, which aligns with the principles of Continuous Delivery, particularly in terms of automation and delivering incremental improvements. However, it does not explicitly mention Continuous Delivery as a concept, which affects the direct mentions score. The depth of discussion is significant as it explores various aspects of automation and testing, but it lacks a broader context of Continuous Delivery practices.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
@@ -1488,6 +1494,42 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses challenges related to automated testing and deployment of Business Intelligence solutions, which touches on aspects of the Shift-Left Strategy. However, it lacks explicit mention of the Shift-Left concept and does not provide a comprehensive exploration of integrating testing and security early in the development process. The focus is more on specific technical issues rather than a strategic overview.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:38:58",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses challenges and solutions related to automating Business Intelligence builds, which does not directly address Continuous Improvement principles. While there are mentions of problems and potential solutions, the focus is more on specific technical issues rather than a broader commitment to ongoing improvement or a culture of experimentation. The depth of discussion on Continuous Improvement concepts is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:39:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical challenges of automating Business Intelligence builds and does not explicitly discuss Common Goals or their significance in Agile or DevOps. While it touches on issues related to project management and automation, it lacks a clear connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:39:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses challenges in automating Business Intelligence builds and highlights the need for solutions, which indirectly relates to competence in terms of skill development and problem-solving. However, it lacks a direct focus on continuous learning or the broader implications of competence in Agile or DevOps contexts. The depth of discussion is primarily technical and does not explore the cultural or strategic aspects of competence.",
     "level": "Ignored"
   }
 }

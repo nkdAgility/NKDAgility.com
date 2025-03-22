@@ -34,14 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-10T14:48:00",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 30,
+    "calculated_at": "2025-03-22T07:39:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses the importance of quality enablement in achieving predictable delivery, which aligns with the principles of Evidence-Based Management by emphasising the need for empirical measures such as Definition of Done and Acceptance Criteria. It highlights the necessity of quantifying quality to improve predictability, which is a core theme of EBM. The depth of discussion on specific practices and their impact on organisational performance further supports its relevance to EBM, although it does not explicitly mention EBM or its founders, which slightly lowers the confidence score.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of quality enablement in achieving predictable software delivery, which aligns with the principles of Evidence-Based Management. It highlights the need for empirical evidence in measuring quality and delivery predictability, touching on metrics like Definition of Done and Acceptance Criteria. However, while it mentions the need for data-driven decision-making, the primary focus is on quality assurance practices rather than a comprehensive exploration of EBM principles. The discussion lacks depth in terms of broader EBM concepts such as current value, unrealised value, and outcome management.",
     "level": "Secondary"
   },
   "Code and Complexity": {
@@ -133,14 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:58:38",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
+    "calculated_at": "2025-03-22T07:39:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
-    "reasoning": "The content discusses quality enablement in software delivery, which aligns closely with DevOps principles, particularly in relation to Continuous Integration (CI) and Continuous Delivery (CD). It highlights the importance of automated builds and deployments, which are key DevOps practices. The mention of the Definition of Done and Acceptance Criteria reflects the cultural shifts and collaboration necessary for successful DevOps implementation. However, while it touches on these topics, the primary focus is on quality management rather than a comprehensive exploration of DevOps as a whole, which slightly lowers the confidence score.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses quality enablement in software delivery, which aligns with DevOps principles such as automation and shared accountability. However, it primarily focuses on quality management rather than the broader DevOps philosophy. While it mentions automation and the importance of defining quality metrics, it lacks a comprehensive exploration of DevOps culture, collaboration, and continuous improvement, which are central to the category.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -341,7 +341,7 @@
     "reasoning": "The content discusses quality enablement and its impact on predictable delivery in software development, touching on interconnected factors like acceptance criteria and automated processes. However, it primarily focuses on linear problem-solving approaches and does not delve deeply into Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T09:08:54",
     "ai_confidence": 50,
@@ -352,12 +352,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T07:39:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses quality enablement and predictability in software delivery, which are relevant to Agile principles, but it primarily focuses on quality management rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses quality enablement and predictable delivery, which are relevant to agile practices but does not explicitly mention the Agile Product Operating Model or its core principles. While it touches on aspects like acceptance criteria and definitions of done, which are important in agile methodologies, the primary focus is on quality assurance rather than the broader product-oriented mindset and operational frameworks of APOM.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -430,14 +433,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T04:55:51",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "calculated_at": "2025-03-22T07:40:01",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses quality enablement and its impact on predictable delivery, which aligns with Continuous Delivery principles. It mentions the importance of automated builds and deployments, which are key aspects of CD. However, the primary focus is on quality management rather than the broader Continuous Delivery practices, leading to a moderate confidence score.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of quality enablement in achieving predictable software delivery, which aligns closely with Continuous Delivery principles. It explicitly mentions key aspects such as the Definition of Done, Acceptance Criteria, and the role of automated builds and deployments, all of which are critical components of Continuous Delivery practices. The depth of discussion is substantial, providing detailed strategies for improving quality and predictability in software delivery, which are central themes in Continuous Delivery. Overall, the content is focused on enhancing delivery processes through quality measures, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Strategic Goals": {
@@ -1536,6 +1539,42 @@
     "non_ai_confidence": 0,
     "final_score": 70.0,
     "reasoning": "The content discusses quality enablement and its impact on predictable delivery, which aligns with the Shift-Left Strategy by emphasising the importance of defining quality early in the development process. It mentions key concepts like Definition of Done and Acceptance Criteria, which are relevant to integrating quality measures earlier. However, the primary focus is on quality management rather than explicitly on the Shift-Left Strategy, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:39:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of quality enablement in achieving predictable software delivery, which aligns with the principles of Continuous Improvement. It highlights the need for empirical evidence, such as a Definition of Done and Acceptance Criteria, to enhance processes and reduce bugs. However, while it touches on Continuous Improvement concepts, the primary focus is on quality assurance rather than a broader discussion of Continuous Improvement practices. The depth of discussion on Continuous Improvement techniques and strategies is somewhat limited, leading to a moderately high confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:39:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses quality enablement and its importance for predictable software delivery, which indirectly relates to the concept of Common Goals. However, it primarily focuses on quality assurance techniques and does not explicitly address shared objectives or alignment within Agile and DevOps frameworks. While it touches on the need for a Definition of Done and acceptance criteria, these are more tactical discussions rather than strategic alignment with overarching goals. Therefore, the confidence score reflects a moderate alignment with the category, but it lacks depth in discussing Common Goals specifically.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:39:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of quality enablement in achieving predictable software delivery, which directly relates to competence in Agile and DevOps. It highlights the need for clear definitions of quality, such as the Definition of Done and Acceptance Criteria, which are essential for maintaining trust and delivering quality outcomes. The depth of discussion on strategies to improve quality and the impact of competence on delivery timelines further supports its alignment with the category. However, while competence is a significant theme, the primary focus is on quality enablement rather than competence itself, which slightly lowers the confidence score.",
     "level": "Secondary"
   }
 }

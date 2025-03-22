@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:04:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:26:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the management of Live IDs and their integration with Visual Studio 2012 Team Foundation Service, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses managing Live IDs for Visual Studio 2012 Team Foundation Service, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and provides minimal depth on any related topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T21:04:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:26:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the management of Live IDs and their integration with Visual Studio 2012 Team Foundation Service, which does not align with core DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on managing Live IDs for Visual Studio 2012 Team Foundation Service, which is more about user authentication and domain management rather than discussing DevOps principles or practices. There are no direct mentions of DevOps concepts, and the discussion lacks depth in relation to the core themes of DevOps such as collaboration, automation, or continuous improvement.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -317,7 +323,7 @@
     "reasoning": "Content primarily discusses the management of Live IDs and their integration with Visual Studio 2012 Team Foundation Service, without any focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:04:49",
     "ai_confidence": 0,
@@ -328,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T21:04:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:26:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses managing Live IDs and their integration with Visual Studio 2012 Team Foundation Service, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses managing Live IDs for Visual Studio 2012 Team Foundation Service, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM category. The focus is on user authentication and domain management, which does not align with the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:54:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:26:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on using Corporate IDs with Visual Studio 2012 Team Foundation Service and does not address Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses managing Live IDs for Visual Studio 2012 Team Foundation Service, which is focused on user authentication rather than Continuous Delivery practices. There are no direct mentions of Continuous Delivery principles, automation, or related strategies. The discussion lacks depth in any relevant Continuous Delivery topics, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1437,6 +1449,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses managing Live IDs and their integration with Visual Studio 2012 Team Foundation Service, with no mention of testing, security, or compliance processes. It does not align with the core themes of the Shift-Left Strategy, which focuses on early integration of critical processes in software development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:26:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on managing Live IDs for Visual Studio 2012 Team Foundation Service, with no explicit discussion of Continuous Improvement principles. While it touches on user management and authentication, it lacks alignment with the core themes of Continuous Improvement, such as empirical evidence, experimentation, or team effectiveness. The depth of discussion is minimal and does not provide insights into strategies or frameworks related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:26:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on managing Live IDs for Visual Studio 2012 Team Foundation Service, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on user management, it lacks alignment with the core themes of shared objectives and strategic alignment, and does not provide depth on how these concepts relate to team collaboration or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:26:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on managing Live IDs for Visual Studio 2012 Team Foundation Service, which does not directly address the principles of competence in Agile, Scrum, DevOps, or Lean methodologies. While there are mentions of user management and authentication, these do not align with the core themes of continuous learning, skill development, or fostering a culture of competence. The discussion lacks depth and does not provide substantial insights into competence as defined in the category.",
     "level": "Ignored"
   }
 }

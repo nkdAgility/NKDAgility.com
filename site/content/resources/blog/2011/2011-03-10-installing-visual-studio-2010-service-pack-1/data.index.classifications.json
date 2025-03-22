@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T23:37:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:44:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2010 Service Pack 1, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the installation process of Visual Studio 2010 Service Pack 1, with no references to Evidence-Based Management principles or metrics. It does not discuss data-informed decision-making or any of the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T23:38:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:44:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2010 Service Pack 1, which does not align with DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Service Pack 1, with no direct mentions of DevOps principles or practices. While it touches on aspects of software development, it lacks discussion on collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The content does not provide depth or detail relevant to DevOps, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -317,7 +323,7 @@
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2010 Service Pack 1, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T23:38:30",
     "ai_confidence": 0,
@@ -328,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T23:38:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:44:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2010 Service Pack 1, with no relevance to Agile principles or product operating models.",
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on the installation process of Visual Studio 2010 Service Pack 1, with no references to agile methodologies, product management principles, or the Agile Product Operating Model. It does not discuss any relevant topics such as product delivery, operational stability, or continuous improvement, which are core to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T23:44:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:44:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2010 Service Pack 1, which is not related to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Service Pack 1, with no direct mentions or discussions related to Continuous Delivery principles, practices, or benefits. While it touches on software updates, it lacks depth in discussing automation, incremental improvements, or user feedback, which are core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1440,6 +1452,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Service Pack 1, with no direct mentions or discussions related to the Shift-Left Strategy. While it touches on software updates, it does not address integrating testing, security, or compliance earlier in the development lifecycle, which are core themes of the Shift-Left Strategy. The discussion lacks depth and relevance to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:44:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Service Pack 1, providing personal insights and experiences. While it touches on the idea of documenting the installation for the benefit of others, it lacks a direct discussion on Continuous Improvement principles, empirical evidence, or strategies for enhancing processes. The content does not align with the core themes of Continuous Improvement, such as fostering a culture of experimentation or integrating improvement into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:44:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Service Pack 1, providing personal insights and experiences. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment within teams. The mention of Team Foundation Server is tangential and does not contribute to the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:44:24",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Service Pack 1, providing practical tips and personal experiences. It does not explicitly discuss competence, continuous learning, or skill development, which are central to the category. While there is a minor implication of enhancing the development experience, it lacks depth and direct relevance to the principles of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

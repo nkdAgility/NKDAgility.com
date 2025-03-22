@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T22:17:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:39:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between Scrum and Kanban, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a discussion of Scrum and Kanban methodologies without any explicit mention of Evidence-Based Management principles or metrics. While it touches on iterative development and value-driven approaches, it does not provide empirical evidence or data-informed decision-making insights that are central to EBM. Therefore, the confidence score reflects a very low alignment with the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T22:17:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:38:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Kanban methodologies, which are not central to DevOps principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on comparing Scrum and Kanban, which are methodologies rather than discussing DevOps principles. While there is a brief mention of iterative development, it does not align with the core themes of DevOps such as collaboration, automation, or shared accountability. The depth of discussion is limited to the differences between the two methodologies, with no significant exploration of DevOps concepts.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,7 +335,7 @@
     "reasoning": "Content heavily discusses Scrum and Kanban methodologies without addressing Systems Thinking principles or their applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T22:18:09",
     "ai_confidence": 0,
@@ -340,11 +346,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T22:18:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:38:59",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses the differences between Scrum and Kanban, which are specific frameworks rather than a comprehensive discussion on the Agile Product Operating Model.",
+    "final_score": 16.0,
+    "reasoning": "The content primarily focuses on comparing Scrum and Kanban, which are agile methodologies, but does not discuss the Agile Product Operating Model or its principles. While it mentions agile practices, it does not align with the core themes of the APOM, such as product management or continuous delivery. The depth of discussion is limited to the differences between two agile frameworks, lacking any exploration of product-oriented mindsets or governance in product delivery.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -421,11 +430,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:42:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:39:03",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Kanban methodologies, which are not related to Continuous Delivery.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on comparing Scrum and Kanban methodologies, which are not directly related to Continuous Delivery. While it discusses iterative development, it does not address Continuous Delivery principles, practices, or the role of automation in testing and deployment. The mention of software development practices is too general and does not delve into the specifics of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1482,6 +1494,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on comparing Scrum and Kanban methodologies without any mention of the Shift-Left Strategy. It does not discuss integrating testing, security, or compliance early in the development process, nor does it provide any insights into the principles or benefits of the Shift-Left approach. Therefore, it lacks direct relevance and depth regarding the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:38:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on comparing Scrum and Kanban methodologies without discussing Continuous Improvement principles. While it touches on Agile concepts, it lacks direct mentions or in-depth exploration of Continuous Improvement practices, making it only tangentially related.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:38:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a webcast discussing the differences between Scrum and Kanban, which does not directly address the concept of Common Goals. While it mentions Agile methodologies, it lacks a clear discussion on shared objectives or alignment within teams, which are central to the Common Goals category. The content is more about the comparison of two frameworks rather than their strategic alignment or operationalisation of goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:38:55",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on a webcast discussing the differences between Scrum and Kanban, which are frameworks rather than direct discussions on competence. While it mentions the effectiveness of these methodologies, it does not delve into continuous learning, skill development, or the importance of competence in delivering quality outcomes. The discussion lacks depth and does not provide substantial insights into fostering a culture of competence or inspecting and adapting competence over time.",
     "level": "Ignored"
   }
 }

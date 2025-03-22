@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:06:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:42:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical solutions and troubleshooting for TFS 2013, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to TFS and InRelease, with no direct mention of Evidence-Based Management principles or metrics. While it discusses solutions and troubleshooting, it lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,15 +127,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:46:05",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-22T07:41:54",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 45.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses a specific issue related to Team Foundation Server (TFS) and provides solutions, including a PowerShell script for configuration. While it touches on aspects of DevOps, such as automation and tools, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The focus is primarily on troubleshooting and specific technical solutions rather than the integration of development and operations or continuous delivery practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to Team Foundation Server (TFS) and InRelease, which is more about troubleshooting and technical solutions rather than discussing DevOps principles or practices. While it mentions TFS, which is a tool often used in DevOps environments, it does not engage with the broader philosophy of DevOps, such as collaboration, automation, or shared accountability. The discussion lacks depth in terms of DevOps culture or practices, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -323,7 +326,7 @@
     "reasoning": "Content primarily discusses troubleshooting and solutions related to Team Foundation Server (TFS) and InRelease, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:07:26",
     "ai_confidence": 0,
@@ -334,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:07:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:42:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues and solutions related to Team Foundation Server (TFS) and InRelease, without any focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical error related to Team Foundation Server (TFS) and InRelease, with no direct discussion of agile methodologies, product management principles, or the Agile Product Operating Model. While it mentions TFS, which is often used in agile environments, it does not align with the core themes of the Agile Product Operating Model, such as continuous delivery or customer-centric value. The depth of discussion is entirely technical and does not touch on any principles or practices related to agile product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -412,11 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T18:50:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:42:14",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting connection issues with Team Foundation Server (TFS) and does not focus on Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to Team Foundation Server (TFS) and InRelease, with detailed solutions and PowerShell scripts. While it touches on aspects of software deployment, it does not explicitly discuss Continuous Delivery principles, practices, or the broader context of software delivery cycles. The mention of TFS and deployment issues is too narrow and lacks the depth required to align with Continuous Delivery discussions.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1470,6 +1479,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses troubleshooting a specific error related to Team Foundation Server (TFS) and provides solutions for connecting InRelease to TFS. It does not address the Shift-Left Strategy, nor does it integrate testing, security, or compliance early in the development process. The focus is on resolving a technical issue rather than on proactive software development practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:41:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to TFS 2013 and provides solutions, but it does not discuss Continuous Improvement principles or practices. While there are mentions of updates and solutions, they do not reflect a commitment to ongoing improvement or a culture of experimentation. The content lacks depth in discussing Continuous Improvement as a strategic approach, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:41:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to TFS and does not discuss the concept of Common Goals or their significance in Agile or DevOps. While it mentions TFS and provides solutions, it lacks any discussion on shared objectives, alignment, or strategic goals, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:42:04",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical error related to TFS and InRelease, providing solutions and PowerShell scripts. While it demonstrates some level of technical competence in troubleshooting, it does not engage with the broader themes of continuous learning, skill development, or the professional principles of competence as outlined in the category definition. The discussion lacks depth in exploring how competence impacts quality outcomes or team trust, which are key aspects of the category.",
     "level": "Ignored"
   }
 }

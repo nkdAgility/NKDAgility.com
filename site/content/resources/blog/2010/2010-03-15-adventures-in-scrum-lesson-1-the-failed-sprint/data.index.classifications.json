@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:24:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:02:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without a focus on evidence-based management principles or empirical data.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum practices and challenges without a focus on evidence-based management principles. While it touches on team dynamics and decision-making, it lacks explicit references to empirical evidence or metrics that are central to Evidence-Based Management. The discussion is more about Scrum methodology than data-informed decision-making.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -133,11 +136,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T01:24:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:01:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum, which is an Agile framework, rather than focusing on DevOps principles. While there are mentions of team collaboration and accountability, these are framed within the context of Scrum practices rather than the broader DevOps philosophy. The discussion lacks depth in DevOps concepts such as automation, continuous delivery, or shared accountability across development and operations, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -335,7 +341,7 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:25:13",
     "ai_confidence": 0,
@@ -346,12 +352,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T09:02:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and challenges, which are relevant to Agile methodologies, but it primarily focuses on Scrum rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum practices and challenges rather than the Agile Product Operating Model as a whole. While it touches on aspects of team dynamics and product ownership, it lacks a comprehensive exploration of the APOM principles and does not focus on transitioning from project to product ethos or the broader implications of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -421,11 +430,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T01:51:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:02:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum practices and challenges, focusing on team dynamics and roles rather than Continuous Delivery principles. While it touches on the importance of producing potentially shippable software, it does not delve into the automation, incremental improvements, or cultural aspects central to Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1531,5 +1543,41 @@
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum practices and team dynamics, with no explicit mention of the Shift-Left Strategy or its principles. While it touches on the importance of team collaboration and communication, it does not address integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
     "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:01:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses challenges faced during a Scrum implementation and reflects on lessons learned, which aligns with the principles of Continuous Improvement. However, the primary focus is on Scrum practices rather than a broader discussion of Continuous Improvement methodologies. While there are mentions of learning from mistakes and adapting, the depth of discussion on Continuous Improvement concepts is limited, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:01:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the challenges faced during a Scrum Sprint and the importance of team collaboration, which indirectly relates to Common Goals. However, it primarily focuses on specific Scrum practices and issues rather than explicitly addressing the concept of Common Goals or their significance in aligning strategy with execution. The discussion lacks depth in exploring how shared objectives guide decision-making or enhance accountability across teams.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:02:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the challenges faced during a Scrum implementation, highlighting the importance of team collaboration and the need for a competent team structure. However, while it touches on aspects of competence, such as the necessity for skilled team members and the implications of poor decisions on team performance, it does not delve deeply into continuous learning or strategies for fostering competence. The primary focus remains on Scrum practices rather than a thorough exploration of competence as a foundational principle.",
+    "level": "Tertiary"
   }
 }

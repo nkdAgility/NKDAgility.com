@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:05:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:27:10",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a Scrum Health Check and does not focus on Evidence-Based Management principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on a Scrum Health Check, which is more about assessing Scrum practices rather than discussing Evidence-Based Management principles. While it mentions identifying improvement opportunities, it lacks a strong emphasis on empirical evidence or data-informed decision-making, which are core to EBM. The discussion is superficial and does not delve into metrics or outcomes that align with EBM themes.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T21:05:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:26:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum, a specific framework, rather than discussing DevOps principles or practices. While it touches on team improvement and efficiency, it does not align with the core themes of DevOps such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,7 +335,7 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:05:54",
     "ai_confidence": 0,
@@ -340,11 +346,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T21:05:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:27:08",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on Scrum practices and a health check for Scrum implementation, which does not align with the Agile Product Operating Model's emphasis on product management principles and continuous delivery. While it mentions improvement opportunities, it lacks a direct discussion on transitioning to a product-oriented mindset or the broader principles of APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -415,11 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:09:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:27:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices and health checks, which are not directly related to Continuous Delivery. While there are mentions of improvement opportunities, they do not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or deployment strategies.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1488,6 +1500,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum practices and a Scrum Health Check, with no direct mention or alignment to the Shift-Left Strategy. It focuses on team dynamics and Scrum implementation rather than integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:27:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses a Scrum Health Check, which implies a focus on identifying improvement opportunities. However, it primarily centres on Scrum practices rather than a broader discussion of Continuous Improvement principles. While there are mentions of improvement and direction, the depth of discussion on Continuous Improvement concepts is limited, and the content does not provide substantial empirical evidence or strategies for fostering a culture of experimentation.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:27:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a Scrum Health Check, which is more about assessing Scrum practices rather than discussing Common Goals. While it mentions improvement opportunities and direction, it lacks a clear connection to shared objectives or strategic alignment within Agile or DevOps frameworks. The discussion is more operational and tactical, without delving into the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:27:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses a Scrum Health Check, which indirectly relates to competence by identifying improvement opportunities. However, it lacks explicit discussions on continuous learning or skill development, and the depth of discussion on competence is minimal.",
     "level": "Ignored"
   }
 }

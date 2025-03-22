@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:07:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:55:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of connecting a Test Controller to Team Foundation Service, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for connecting a Test Controller to Team Foundation Service, lacking any explicit discussion or alignment with Evidence-Based Management principles. It does not address metrics, empirical decision-making, or value delivery, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,15 +127,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:49:35",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
+    "calculated_at": "2025-03-22T07:54:59",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
-    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which relates to automation and deployment in a DevOps context. However, it lacks a comprehensive exploration of DevOps principles, practices, or cultural shifts. The mention of automated deployment hints at DevOps practices, but the overall focus is more on technical setup rather than a broader discussion of DevOps concepts.",
-    "level": "Secondary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which relates to automated deployment and testing, key aspects of DevOps. However, it primarily focuses on the technical steps and configuration rather than the broader DevOps philosophy or principles. While there are mentions of automation and configuration, the depth of discussion does not fully explore the cultural or collaborative aspects of DevOps, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -323,7 +326,7 @@
     "reasoning": "Content primarily discusses the technical process of connecting a Test Controller to Team Foundation Service, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:07:54",
     "ai_confidence": 0,
@@ -334,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:07:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:55:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses connecting a Test Controller to Team Foundation Service, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on connecting a Test Controller to Team Foundation Service, which is a technical setup rather than a discussion on the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or the key topics outlined in the APOM definition. The content lacks depth in discussing any relevant agile methodologies or frameworks, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -412,11 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:10:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:55:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses connecting a Test Controller to Team Foundation Service, focusing on setup and configuration rather than Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which relates to automated deployment and testing. However, it lacks a comprehensive exploration of Continuous Delivery principles, such as rapid feedback, incremental improvements, or cultural aspects. The focus is more on configuration and troubleshooting rather than the broader practices and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1479,6 +1488,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses connecting a Test Controller to Team Foundation Service, focusing on configuration and troubleshooting rather than integrating testing, security, or compliance early in the development process. While it touches on automated testing, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:55:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of connecting a Test Controller to Team Foundation Service, with no explicit discussion of Continuous Improvement principles. While it touches on configuration and deployment, it lacks depth in exploring themes such as empirical evidence, experimentation, or team effectiveness, which are central to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:55:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of connecting a Test Controller to Team Foundation Service, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on deployment and testing, it lacks depth in aligning these activities with shared objectives or strategic goals, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:55:07",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical process of connecting a Test Controller to Team Foundation Service, with minimal discussion on competence or skill development. While it touches on configuration and troubleshooting, it lacks a deeper exploration of continuous learning or the importance of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T03:08:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:26:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation issues related to Microsoft Document Explorer 2008 and Visual Studio 2008, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on the installation of Microsoft Document Explorer 2008 on Windows 7 and does not discuss Evidence-Based Management or its key topics. There are no direct mentions or relevant concepts related to EBM, and the depth of discussion is entirely technical and unrelated.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T03:08:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:25:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation issues related to Visual Studio 2008 on Windows 7, which is not relevant to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on installing Microsoft Document Explorer 2008 on Windows 7, which is unrelated to DevOps principles or practices. There are no direct mentions of DevOps concepts, and the discussion lacks any alignment with the core themes of collaboration, automation, or continuous value delivery. The depth of discussion is minimal and does not engage with any relevant DevOps topics.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -308,7 +314,7 @@
     "reasoning": "Content primarily discusses installation issues related to Visual Studio 2008 on Windows 7, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T03:08:43",
     "ai_confidence": 0,
@@ -319,11 +325,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T03:08:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:25:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about installing software and troubleshooting, with no relevance to Agile principles or product operating models.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the installation of Microsoft Document Explorer 2008 on Windows 7, with no references to agile methodologies, product management principles, or any related topics that align with the Agile Product Operating Model. It does not discuss any of the key topics outlined in the category description.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -391,11 +400,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:26:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on installation issues related to Microsoft Document Explorer 2008 and Visual Studio 2008, which are not relevant to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation of Microsoft Document Explorer 2008 on Windows 7, with no direct mention or discussion of Continuous Delivery principles, practices, or related topics. It lacks any alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or user feedback. The depth of discussion is also minimal, as it only addresses a specific installation issue without exploring broader software delivery practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1425,6 +1437,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses an installation issue related to Visual Studio 2008 on Windows 7, with no mention of the Shift-Left Strategy or its principles. It does not align with the core themes of integrating testing, security, or compliance early in the software development lifecycle, nor does it provide any depth on the topic.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:25:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting the installation of Microsoft Document Explorer 2008 on Windows 7, which does not relate to Continuous Improvement principles. There are no direct mentions of Continuous Improvement, nor does it align with the core themes such as empirical evidence, team effectiveness, or a culture of experimentation. The discussion lacks depth and detail on any relevant Continuous Improvement strategies or practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:25:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting the installation of Microsoft Document Explorer 2008 on Windows 7, with no direct mention of Common Goals, Agile, or DevOps principles. It lacks any discussion on shared objectives or alignment within teams, which are central to the category of Common Goals. The content is more technical and practical in nature, making it irrelevant to the specified category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:25:56",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on the installation process of Microsoft Document Explorer 2008 on Windows 7, with no explicit discussion of competence, continuous learning, or skill development. While it may imply some level of technical capability, it does not align with the core themes of competence as defined in Agile, Scrum, DevOps, or Lean methodologies.",
     "level": "Ignored"
   }
 }

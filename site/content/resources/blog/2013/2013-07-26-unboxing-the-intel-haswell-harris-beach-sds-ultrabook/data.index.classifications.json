@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T17:59:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:39:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on reviewing a hardware device and does not discuss Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on reviewing a specific hardware product, the Intel Haswell Harris Beach SDS Ultrabook, without any discussion of Evidence-Based Management principles or metrics. There are no direct mentions of data-informed decision-making, current value, or any other key topics related to EBM. The review is more about personal experience and product features rather than empirical evidence or management strategies.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T17:59:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:38:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on reviewing a developer Ultrabook and its specifications, with no discussion of DevOps principles, practices, or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on reviewing a specific hardware device, the Intel Haswell Harris Beach SDS Ultrabook, and does not discuss any DevOps principles, practices, or cultural shifts. While it mentions development in the context of using the device, it lacks any explicit connection to the core themes of DevOps such as collaboration, automation, or shared accountability. The discussion is more aligned with product review and personal experience rather than the philosophy of DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -311,7 +317,7 @@
     "reasoning": "Content primarily focuses on reviewing a developer Ultrabook and its specifications, with no discussion of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T17:59:47",
     "ai_confidence": 0,
@@ -322,11 +328,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T17:59:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:39:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on reviewing a developer Ultrabook and its specifications, with no discussion on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on reviewing a developer Ultrabook and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related topics. The content lacks alignment with the core themes of the category and provides minimal detail relevant to APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -400,11 +409,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:38:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:39:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on reviewing a developer ultrabook, detailing its specifications and performance, rather than discussing principles or practices of Continuous Delivery.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on reviewing a developer Ultrabook and does not discuss Continuous Delivery principles, practices, or related topics. There are no direct mentions of Continuous Delivery, automation, or software delivery cycles, and the discussion lacks depth in any relevant areas.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1434,6 +1446,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on reviewing a hardware device, specifically an Ultrabook, and does not discuss any aspects of the Shift-Left Strategy in software development. There are no direct mentions of testing, security, or compliance processes, nor does it explore the integration of these elements early in the development lifecycle. The discussion is centred around the device's specifications and user experience, which is unrelated to the principles or practices of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:39:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on reviewing a specific product, the Intel Haswell Harris Beach SDS Ultrabook, and does not discuss Continuous Improvement principles or practices. There are no direct mentions of Continuous Improvement, nor does the content align with its core themes such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The review lacks depth in discussing any strategies or frameworks related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:39:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on reviewing a specific developer Ultrabook, detailing its features and performance. There are no direct mentions of Common Goals, Agile, or DevOps principles. The discussion lacks alignment with the core themes of shared objectives or strategic alignment, and it does not provide any depth on these topics. Overall, the content is unrelated to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:39:07",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on reviewing a developer Ultrabook, discussing its features and performance rather than addressing competence in Agile, Scrum, DevOps, or Lean methodologies. While it mentions the device's suitability for developers, it lacks explicit discussions on continuous learning, skill development, or the importance of competence in professional settings.",
     "level": "Ignored"
   }
 }

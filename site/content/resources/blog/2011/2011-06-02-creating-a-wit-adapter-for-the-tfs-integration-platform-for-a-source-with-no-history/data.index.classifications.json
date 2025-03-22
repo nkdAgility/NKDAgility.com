@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T23:01:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:41:52",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the technical implementation of a TFS Integration Platform Adapter, focusing on code and configuration details, rather than the principles or practices of Evidence-Based Management.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on technical implementation details of a TFS Integration Platform Adapter, with no explicit discussion or alignment with Evidence-Based Management principles or metrics. It lacks references to data-informed decision-making, current value metrics, or empirical decision-making, which are central to the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,14 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T06:35:30",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-22T08:41:35",
+    "ai_confidence": 25.0,
     "ai_mentions": 5,
-    "ai_alignment": 25,
-    "ai_depth": 20,
+    "ai_alignment": 15,
+    "ai_depth": 5,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter, which is related to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, it lacks a comprehensive exploration of DevOps principles, cultural shifts, or metrics for success, focusing instead on technical implementation details and specific coding challenges.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on creating a WIT adapter for the TFS Integration Platform, which is more aligned with software development and integration rather than the core principles of DevOps. While it touches on aspects of automation and integration, it lacks a broader discussion on collaboration, shared accountability, or cultural shifts that are central to DevOps. The depth of technical detail is present, but it does not sufficiently engage with the DevOps philosophy or practices.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,7 +332,7 @@
     "reasoning": "Content primarily discusses the technical implementation of a TFS Integration Platform Adapter, focusing on code and configuration details, rather than exploring Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T23:03:34",
     "ai_confidence": 0,
@@ -340,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T23:03:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:41:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of a TFS Integration Platform Adapter and technical details related to code and migration processes, with no clear focus on Agile Product Operating Model principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on creating a WIT adapter for the TFS Integration Platform, which is more aligned with technical implementation details rather than discussions on the Agile Product Operating Model. There are no direct mentions of agile principles, product management practices, or the key topics outlined in the APOM definition. The content does not engage with the core themes of transitioning to a product-oriented mindset or continuous delivery, thus demonstrating minimal relevance to the specified category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,11 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T23:41:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:41:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content mainly focuses on the technical implementation of a TFS Integration Platform Adapter and does not substantively discuss Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating a WIT adapter for the TFS Integration Platform, which is more about integration and migration rather than Continuous Delivery practices. While it touches on aspects of software delivery, such as handling work items and updates, it lacks a direct discussion on Continuous Delivery principles, automation, or rapid feedback mechanisms that are central to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1464,6 +1473,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter and does not focus on integrating testing, security, or compliance earlier in the software development lifecycle, which are key aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:41:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical implementation details and troubleshooting of a TFS Integration Platform Adapter, with minimal reference to Continuous Improvement principles. While there are mentions of problem-solving and iterative development, these are not the main focus of the content, which is more about specific coding challenges and solutions rather than a broader discussion on Continuous Improvement methodologies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:41:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to creating a WIT adapter for TFS Integration Platform, with no explicit discussion of Common Goals, Agile, or DevOps principles. While there are mentions of work items and migration processes, these do not connect to the overarching themes of shared objectives or strategic alignment within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:41:46",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on technical implementation details and troubleshooting of a TFS Integration Platform Adapter, with minimal direct discussion on competence, continuous learning, or skill development. While there are some references to problem-solving and adapting code, these are not framed within the context of competence as defined in Agile or DevOps methodologies.",
     "level": "Ignored"
   }
 }

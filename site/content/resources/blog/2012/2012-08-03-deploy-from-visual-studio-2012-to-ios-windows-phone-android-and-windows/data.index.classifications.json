@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:59:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:14:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses application development and deployment across multiple platforms, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on deploying applications across multiple platforms using Visual Studio, with no explicit discussion of Evidence-Based Management principles. While it touches on aspects of value delivery and efficiency, it lacks a direct connection to empirical decision-making or the specific metrics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:54:43",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "calculated_at": "2025-03-22T08:14:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses application deployment and development processes, touching on aspects of automation and integration, which are relevant to DevOps. However, it lacks a focused discussion on core DevOps principles, cultural shifts, or specific tools and metrics associated with DevOps practices. The primary emphasis is on application development across platforms rather than on the collaborative and operational aspects of DevOps.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on deploying applications across multiple platforms using Visual Studio, which is more aligned with software development and application lifecycle management (ALM) rather than the core principles of DevOps. While it touches on aspects like automation in the build process and the importance of a unified technology platform, it lacks a comprehensive discussion on collaboration, shared accountability, or cultural shifts that are central to DevOps. Therefore, the confidence score reflects a low primary focus on DevOps, with some alignment to its themes.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -338,7 +341,7 @@
     "reasoning": "Content primarily discusses application development and deployment across multiple platforms, focusing on technical aspects rather than Systems Thinking principles or organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-03-15T05:49:34",
     "ai_confidence": 62.0,
@@ -352,11 +355,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:00:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:14:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses application development and deployment across multiple platforms, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on deploying applications across multiple platforms using Visual Studio, with no direct mention of the Agile Product Operating Model or its principles. While it touches on aspects of application lifecycle management (ALM) and delivering value to customers, it does not align with the core themes of APOM, such as product-oriented mindsets or agile methodologies in product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -436,11 +442,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T05:48:44",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-22T08:14:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses deployment capabilities and build processes in a general context but does not focus specifically on Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses deployment processes and tools related to Visual Studio, which touches on aspects of Continuous Delivery, such as automation and deployment. However, it lacks a focused discussion on the principles and practices of Continuous Delivery itself, such as rapid feedback, incremental improvements, or cultural aspects. The primary emphasis is on the capabilities of a specific tool rather than a comprehensive exploration of Continuous Delivery as a discipline.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1515,6 +1524,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the deployment of applications across multiple platforms using Visual Studio, focusing on the technical aspects of application development rather than integrating testing, security, or compliance early in the software development lifecycle. There are no explicit mentions of the Shift-Left Strategy, and the discussion lacks depth in relation to its principles or benefits.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:14:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on deploying applications across multiple platforms using Visual Studio 2012, discussing technical aspects and capabilities rather than Continuous Improvement principles. While it touches on streamlining development processes, it lacks explicit discussions on empirical evidence, data-driven decision-making, or fostering a culture of experimentation, which are core to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:14:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical aspects of deploying applications across multiple platforms using Visual Studio 2012. While it touches on the benefits of standardisation and efficiency in development, it does not explicitly discuss Common Goals within Agile or DevOps frameworks. The mention of delivering value to customers is vague and does not connect to the principles of shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:14:23",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical aspects of deploying applications across multiple platforms using Visual Studio 2012. While it touches on the need for trained developers and mentions the benefits of a holistic build process, it lacks a direct discussion on continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The depth of discussion on competence-related themes is minimal, making it a secondary focus rather than a primary one.",
     "level": "Ignored"
   }
 }

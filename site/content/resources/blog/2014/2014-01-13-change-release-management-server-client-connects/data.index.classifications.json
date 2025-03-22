@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:17:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:29:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical instructions for changing server connections in a Release Management Client, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on technical instructions for changing a Release Management Server connection, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any depth on these topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T04:42:10",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "calculated_at": "2025-03-22T07:29:02",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses changing the Release Management Server, which is related to deployment processes, but it lacks a broader discussion on DevOps principles, practices, or cultural shifts. While it touches on a specific tool and configuration aspect, it does not delve into the integration of people, processes, or the overall efficiency of software delivery, which are core to the DevOps category.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on changing the Release Management Server connection for a client, which is a specific technical task rather than a discussion on DevOps principles or practices. While it touches on aspects of release management, it lacks a broader context of collaboration, automation, or cultural shifts associated with DevOps. The mention of a utility for configuration does not align with the core themes of DevOps, such as shared accountability or continuous improvement.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +323,7 @@
     "reasoning": "Content primarily discusses technical instructions for changing a Release Management Server connection, with no focus on Systems Thinking principles or organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T11:18:12",
     "ai_confidence": 0,
@@ -331,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T11:18:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:29:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of changing server connections in a Release Management Client, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for changing a Release Management Server connection, with no direct mention or discussion of Agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any alignment with the core themes of APOM, such as continuous delivery, product-oriented mindset, or operational governance. The depth of discussion is limited to practical steps for a specific technical task, which does not relate to the broader concepts of agile product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -409,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T11:31:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:29:23",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses changing the Release Management Server configuration in a client application, which is not focused on Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on changing the Release Management Server connection for a client, which is a specific technical task rather than a discussion on Continuous Delivery principles. While it touches on aspects of release management, it lacks a broader exploration of Continuous Delivery concepts such as automation, incremental improvements, or cultural aspects. The mention of 'Release Management' is too narrow and does not align with the core themes of Continuous Delivery, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1452,6 +1461,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the technical aspects of changing the Release Management Server connection for a client application. It does not mention or align with the principles of the Shift-Left Strategy, such as integrating testing, security, or compliance earlier in the development process. The focus is on configuration management rather than proactive quality assurance or early integration of critical processes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:29:08",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on technical instructions for changing a Release Management Server connection, with no explicit discussion of Continuous Improvement principles. While it touches on the need for adaptability in client configurations, it lacks depth in exploring themes such as empirical evidence, team effectiveness, or a culture of experimentation. Overall, it does not align with the core topics of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:29:10",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on technical instructions for changing the Release Management Server connection, with no explicit discussion of Common Goals or their significance in Agile or DevOps. It lacks alignment with the core themes of shared objectives and strategic alignment, and does not provide depth on how these concepts relate to the described technical process.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:29:14",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on technical instructions for changing the Release Management Server connection, with minimal reference to competence or skill development. While it discusses a practical task relevant to a consultant's role, it lacks explicit discussions on continuous learning, quality outcomes, or fostering a culture of competence, which are central to the category. The depth of discussion is limited to procedural steps without exploring the implications for professional growth or team dynamics.",
     "level": "Ignored"
   }
 }

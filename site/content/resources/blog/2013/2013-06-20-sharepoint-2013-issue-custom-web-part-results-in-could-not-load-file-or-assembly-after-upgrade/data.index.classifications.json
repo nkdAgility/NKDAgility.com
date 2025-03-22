@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:35:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:48:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues and solutions related to SharePoint 2013, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to SharePoint upgrades and custom web parts, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and provides minimal depth on any related concepts.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T18:35:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:48:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting and solutions related to SharePoint 2013 and does not address DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving specific SharePoint upgrade issues and does not discuss DevOps principles, practices, or cultural shifts. While it touches on technical aspects of software management, it lacks any mention of collaboration, automation, or shared accountability, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -311,7 +317,7 @@
     "reasoning": "Content primarily discusses technical issues and solutions related to SharePoint upgrades, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:35:48",
     "ai_confidence": 0,
@@ -322,11 +328,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:35:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:48:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to SharePoint 2013 and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on resolving technical issues related to SharePoint upgrades and custom web parts, with no mention or discussion of agile methodologies, product management principles, or the Agile Product Operating Model. It does not align with the core themes of the category, nor does it provide any depth on the subject matter.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:29:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:48:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on resolving a SharePoint-specific upgrade issue rather than discussing Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting SharePoint upgrade issues and does not discuss Continuous Delivery principles, practices, or benefits. There are no direct mentions of Continuous Delivery, and the content lacks alignment with the core themes of the category, such as automation, rapid feedback, or cultural aspects of software delivery. The depth of discussion is limited to specific technical solutions for a particular problem, which is unrelated to Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1431,6 +1443,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses troubleshooting and solutions for a specific SharePoint upgrade issue, with no mention of integrating testing, security, or compliance earlier in the development process. It does not align with the core themes of the Shift-Left Strategy, which focuses on proactive measures in software development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:48:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting specific SharePoint upgrade issues and does not discuss Continuous Improvement principles or practices. While it provides solutions to technical problems, it lacks any mention of empirical evidence, data-driven decision-making, or a culture of experimentation, which are core to Continuous Improvement. The discussion is more about immediate fixes rather than ongoing enhancements or strategic agility.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:48:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to SharePoint upgrades and custom web parts. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment within teams. The content is strictly technical and lacks any reference to collaboration, accountability, or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:48:43",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to SharePoint upgrades and does not discuss competence, continuous learning, or skill development. While it provides detailed solutions, it lacks any reference to the principles of professionalism or quality delivery that underpin the concept of competence.",
     "level": "Ignored"
   }
 }

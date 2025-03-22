@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:58:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:58:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum practices and email communication rather than evidence-based management principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically the process of sending 'done' emails, without discussing evidence-based management principles or metrics. It lacks direct references to empirical decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,11 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T00:58:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:57:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically the process of sending 'done' emails within a Scrum framework. While it touches on aspects of team communication and task completion, it does not engage with the core principles of DevOps, such as automation, shared accountability, or continuous improvement. The discussion is narrowly centred on Scrum methodology, which is not aligned with the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -326,7 +332,7 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:58:39",
     "ai_confidence": 0,
@@ -337,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:58:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:58:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically the process of sending 'done' emails, which is a procedural aspect of Scrum rather than a discussion on the Agile Product Operating Model. While it touches on team roles and communication, it lacks a broader discussion on product management principles, operational stability, or the transition from project to product ethos, which are key themes of the APOM. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -412,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T01:39:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:58:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and practices, particularly around communication and task completion, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically the process of sending 'done' emails to communicate task completion. While it touches on aspects of team communication and task validation, it does not directly address Continuous Delivery principles, such as automation, incremental improvements, or rapid feedback. The discussion is more about Scrum roles and events rather than Continuous Delivery practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1503,6 +1515,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the process of sending 'done' emails in Scrum, which is not directly related to the Shift-Left Strategy. While it touches on aspects of quality validation within a Scrum framework, it does not address integrating testing, security, or compliance earlier in the development lifecycle, nor does it provide any techniques or tools that support a Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:58:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the procedural aspects of sending 'done' emails in Scrum, which is more about communication and task completion rather than Continuous Improvement. While it touches on team effectiveness and validation of work, it lacks a broader discussion on empirical evidence, experimentation, or strategies for integrating Continuous Improvement into processes. Therefore, it does not align closely with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:58:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the procedural aspect of sending 'done' emails in Scrum, which is a specific task rather than a discussion on Common Goals. While it touches on team communication and task completion, it lacks a direct exploration of shared objectives or strategic alignment within Agile or DevOps frameworks. The mention of Scrum roles and the importance of communication does not sufficiently connect to the broader themes of Common Goals, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:58:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the procedural aspect of sending a 'done' email in Scrum, which is more about communication than competence. While it touches on the importance of validating the quality of work completed, it does not delve deeply into continuous learning, skill development, or the broader implications of competence in Agile methodologies. The discussion lacks substantial detail on fostering a culture of competence or the impact of competence on team dynamics and decision-making.",
     "level": "Ignored"
   }
 }

@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T09:58:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:19:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses obtaining service accounts for Visual Studio Online and troubleshooting related to TFS Service Credential Viewer, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on obtaining a service account for Visual Studio Online using the TFS Service Credential Viewer. It does not discuss Evidence-Based Management principles or metrics, nor does it provide any empirical evidence or data-informed decision-making insights. The content is more technical and procedural, lacking alignment with the core themes of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T04:28:17",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "calculated_at": "2025-03-22T07:18:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses obtaining a service account for Visual Studio Online (VSO) and mentions automation through the TFS Service Credential Viewer. While it touches on automation, which is a key aspect of DevOps, the primary focus is on a specific tool and its usage rather than broader DevOps principles or practices. The discussion lacks depth in terms of DevOps culture, CI/CD practices, or metrics, leading to a moderate confidence score.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on obtaining a service account for Visual Studio Online using the TFS Service Credential Viewer, which is more about a specific tool and its usage rather than discussing the broader principles and practices of DevOps. While it touches on automation, which is a key aspect of DevOps, it lacks a comprehensive exploration of the DevOps philosophy, cultural shifts, or collaborative practices. The discussion is more technical and procedural, with limited emphasis on the collaborative and continuous improvement aspects central to DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -148,11 +151,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T10:18:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:18:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses obtaining service credentials for Visual Studio Online and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on obtaining a service account for Visual Studio Online using the TFS Service Credential Viewer. It does not discuss any principles or practices related to the Agile Product Operating Model, nor does it mention agile methodologies or product management. The content is technical and specific to automation tasks, lacking any connection to the core themes of APOM.",
     "level": "Ignored"
   },
   "Products and Books": {
@@ -194,7 +200,7 @@
     "reasoning": "Content primarily discusses obtaining service accounts for Visual Studio Online and troubleshooting related to TFS Service Credential Viewer, with no mention of BetaCodex principles or themes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T10:18:20",
     "ai_confidence": 0,
@@ -409,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T10:22:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:19:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses acquiring service credentials for Visual Studio Online (VSO) and the TFS Service Credential Viewer, which does not align with the principles and practices of Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on obtaining a service account for Visual Studio Online using the TFS Service Credential Viewer. While it touches on automation tasks, it does not explicitly discuss Continuous Delivery principles, practices, or benefits. The mention of automation is too vague and does not align with the core themes of Continuous Delivery, such as rapid feedback, incremental improvements, or cultural aspects. Overall, the content lacks depth and direct relevance to Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1473,6 +1482,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on obtaining service credentials for Visual Studio Online and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. While it mentions automated tasks and unit tests, these are not directly related to integrating testing or security earlier in the development process. The discussion lacks depth on the Shift-Left concept, making it a secondary topic at best.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:18:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on obtaining a service account for Visual Studio Online and does not discuss Continuous Improvement principles or practices. While it mentions automation, it lacks any reference to empirical evidence, data-driven decision-making, or a culture of experimentation, which are core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:18:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on obtaining a service account for Visual Studio Online using the TFS Service Credential Viewer. It does not discuss Common Goals, Agile, or DevOps principles. While it mentions automation and credentials, these topics do not align with the foundational principles of Common Goals, nor do they connect individual contributions to an overarching mission. The content lacks depth and detail on the category, making it unsuitable for classification under Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:18:53",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on obtaining a service account for Visual Studio Online using the TFS Service Credential Viewer. While it provides practical information on automation tasks, it does not explicitly discuss competence, continuous learning, or skill development. The mention of prerequisites and troubleshooting does not align with the core themes of competence, and the depth of discussion is limited to technical instructions rather than fostering a culture of competence or professional growth.",
     "level": "Ignored"
   }
 }

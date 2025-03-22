@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:27:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:07:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with blog hosting and performance improvements, lacking a focus on evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the author's experience with hosting providers and performance improvements for a blog. While it touches on aspects of responsiveness and speed, it lacks a focus on empirical evidence or data-informed decision-making that characterises Evidence-Based Management. The discussion is more anecdotal and personal rather than grounded in systematic analysis or metrics relevant to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T19:27:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:07:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with web hosting and performance improvements, lacking a focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the author's experience with hosting providers and performance improvements for a blog. While it touches on aspects of responsiveness and support, it does not explicitly discuss DevOps principles, practices, or cultural shifts. The mention of moving hosting providers and improving site speed is more aligned with web development and performance optimisation rather than the collaborative and automated processes central to DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,7 +335,7 @@
     "reasoning": "Content primarily discusses personal experiences with web hosting and performance improvements, lacking a focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:28:24",
     "ai_confidence": 0,
@@ -340,11 +346,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:28:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:07:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with web hosting and performance improvements, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the evolution of a blog and the technical aspects of hosting and performance improvements. It does not mention Agile methodologies, product management principles, or any of the key topics related to the Agile Product Operating Model. The focus is on personal experiences with web hosting rather than organisational effectiveness or customer-centric value delivery.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,11 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:48:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:07:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with blog hosting and performance issues, without focusing on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the evolution of a blog and the improvements in performance after migrating to a new hosting provider. While it touches on aspects of responsiveness and performance, it does not explicitly mention Continuous Delivery or its principles. The focus is more on personal experiences with hosting and performance rather than on the practices and benefits of Continuous Delivery. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1476,6 +1488,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the author's experience with hosting providers and performance improvements for a blog, with no explicit mention of the Shift-Left Strategy or its principles. While there are elements of improving software quality through better hosting and plugin management, these do not align with the core themes of integrating testing, security, and compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:07:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the author's journey of improving their blog's performance through various hosting changes and plugin management. While it touches on the theme of continuous improvement by highlighting measurable enhancements in loading times and responsiveness, it lacks a structured discussion on the principles of Continuous Improvement as defined in the category. The focus is more on personal experience rather than systematic strategies or frameworks that support Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:07:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the author's personal experience with migrating a blog to improve performance, which does not align with the principles of Common Goals in Agile and DevOps. While there are mentions of performance improvements, there is no discussion of shared objectives, team alignment, or strategic goals that are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:07:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the author's experience with blog hosting and performance improvements, with minimal focus on competence in terms of skill development or professional growth. While there are mentions of support and responsiveness, these do not directly relate to the core themes of competence as defined in Agile and DevOps contexts.",
     "level": "Ignored"
   }
 }

@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:19:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:30:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to adding Active Directory groups in Visual Studio, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on a technical issue related to adding Active Directory groups in Visual Studio 2013, with no direct mention of Evidence-Based Management principles or metrics. While it discusses problem-solving and error handling, it does not align with the core themes of EBM, such as data-informed decision-making or value delivery. The depth of discussion is limited to a specific technical problem, further distancing it from the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T11:19:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:29:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to adding Active Directory groups in the Release Management Client, without a focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical issue related to the Release Management Client in Visual Studio 2013, specifically addressing an error when adding Active Directory groups. While it touches on aspects of release management, it does not engage with the broader principles or cultural shifts associated with DevOps. There are no direct mentions of collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The discussion is narrowly focused on troubleshooting a specific problem rather than exploring DevOps practices or methodologies.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses a technical issue related to adding Active Directory groups in Visual Studio, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T11:20:31",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T11:20:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:29:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to adding Active Directory groups in Visual Studio 2013, with no relevance to Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a technical issue related to the Release Management Client in Visual Studio 2013, with no discussion of agile methodologies, product management principles, or the Agile Product Operating Model. It does not mention any key topics associated with APOM, nor does it provide any depth or alignment with the category's core themes.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -400,11 +409,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T11:20:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:30:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to adding Active Directory groups in the Release Management Client, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting an error related to adding Active Directory groups in the Release Management Client of Visual Studio 2013. While it mentions 'Release Management', it does not discuss Continuous Delivery principles, practices, or benefits. The content lacks depth in addressing Continuous Delivery concepts and does not provide insights into automation, incremental improvements, or user feedback, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1443,6 +1455,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a specific error encountered in the Release Management Client related to Active Directory integration. While it touches on issues that could be seen as related to testing and error handling, it does not explicitly address the Shift-Left Strategy or its principles. The focus is on a technical problem and its solution rather than on integrating testing or security earlier in the development process. Therefore, the alignment with the Shift-Left Strategy is minimal.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:29:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to Visual Studio 2013 and does not discuss Continuous Improvement principles. While there is a brief mention of a potential fix for a coding issue, it lacks a broader context of ongoing reflection, adaptation, or empirical evidence that characterises Continuous Improvement. The discussion is more about resolving a specific error rather than fostering a culture of experimentation or learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:29:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical issue related to adding Active Directory groups in Visual Studio 2013, with no discussion of Common Goals, Agile, or DevOps principles. It lacks any mention of shared objectives or alignment strategies, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:29:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical issue related to adding Active Directory groups in Visual Studio 2013, with no explicit discussion on competence, continuous learning, or skill development. While it touches on problem-solving and implementation details, these do not align with the core themes of competence as defined in Agile and DevOps contexts.",
     "level": "Ignored"
   }
 }

@@ -73,11 +73,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:46:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:42:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Windows Live Wave 3 features and installation links, with no relevance to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Windows Live Wave 3 and its features, with no direct mention of DevOps principles, practices, or cultural shifts. It lacks any discussion on collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The content does not provide any depth or relevant context that aligns with the DevOps category.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -109,11 +112,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:46:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:42:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Windows Live Wave 3 betas and related downloads, with no relevance to Agile principles or product operating models.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on Windows Live Wave 3 and its features, with no mention or discussion of the Agile Product Operating Model or its principles. It does not align with any of the key topics outlined for the category, such as product management or agile methodologies.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -166,11 +172,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:47:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:42:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Windows Live Wave 3 and its features, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the features of Windows Live Wave 3 and does not discuss Evidence-Based Management or its key topics. There are no direct mentions of empirical decision-making or metrics related to value delivery, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -236,7 +245,7 @@
     "reasoning": "Content primarily discusses the availability and features of Windows Live Wave 3, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:47:10",
     "ai_confidence": 0,
@@ -880,11 +889,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:01:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:42:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on Windows Live Wave 3 features and downloads, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the features of Windows Live Wave 3 and its applications, with no direct mention or discussion of Continuous Delivery principles, practices, or related topics. It lacks any alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or user feedback. The depth of discussion is also minimal, as it does not provide any insights into Continuous Delivery methodologies or case studies.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1416,6 +1428,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the release of Windows Live Wave 3 and its features, with no mention of software development processes, testing, security, or compliance. It does not align with the Shift-Left Strategy, which focuses on integrating these elements early in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:42:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the features of Windows Live Wave 3 and does not discuss Continuous Improvement principles or practices. There are no direct mentions of Continuous Improvement, nor does it align with the core themes such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is also minimal, as it is mainly promotional in nature.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:42:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the features of Windows Live Wave 3 and does not discuss any aspects related to Common Goals in Agile or DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth on any relevant themes.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:42:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the features of Windows Live Wave 3 and does not discuss competence, continuous learning, or any related themes. There are no direct mentions of competence or its importance in Agile or DevOps contexts, and the depth of discussion is minimal, focusing instead on software features and downloads.",
     "level": "Ignored"
   }
 }

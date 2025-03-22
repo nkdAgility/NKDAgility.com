@@ -79,11 +79,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:12:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:36:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a product related to TFS without a clear focus on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on TFS Data Manager as a tool for cloning projects and enhancing disaster recovery, which does not directly discuss DevOps principles or practices. While it may relate to development processes, it lacks explicit mentions of collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The discussion is superficial and does not delve into the cultural or strategic aspects of DevOps.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -115,11 +118,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:12:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:36:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a product related to TFS without any clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on TFS Data Manager and its features related to project cloning and disaster recovery, with no explicit discussion of Agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any relevant detail or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -169,11 +175,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:12:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:36:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a product related to TFS without any reference to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a tool for project management and disaster recovery in TFS, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks any mention of data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -242,7 +251,7 @@
     "reasoning": "Content primarily discusses a product related to TFS without focusing on metrics, data analysis, or learning principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:12:59",
     "ai_confidence": 0,
@@ -883,11 +892,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:01:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:36:14",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses a product related to TFS without any reference to Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on TFS Data Manager and its features related to project cloning and disaster recovery, which are not directly related to Continuous Delivery principles or practices. There are no explicit discussions on Continuous Delivery, automation, or the other key topics outlined in the category definition. The mention of enhancing the development process is too vague to establish a strong connection to Continuous Delivery.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1419,6 +1431,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a product related to TFS (Team Foundation Server) and its features, without any explicit mention or discussion of the Shift-Left Strategy. There is no alignment with the core themes of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:36:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting a tool for TFS and its features, with no explicit discussion on Continuous Improvement principles. While it mentions enhancing processes, it lacks depth and alignment with the core themes of Continuous Improvement, such as empirical evidence, experimentation, or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:36:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific tool (TFS Data Manager) and its features, with no explicit discussion of Common Goals, Agile, or DevOps principles. While it mentions project cloning and disaster recovery, these topics do not align with the core themes of shared objectives or strategic alignment within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:36:10",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on a tool for project management and disaster recovery in TFS, with no explicit discussion of competence, continuous learning, or skill development. While it hints at enhancing capabilities, it does not delve into the principles of professionalism or quality delivery that define the category of competence.",
     "level": "Ignored"
   }
 }

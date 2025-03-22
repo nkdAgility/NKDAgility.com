@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:11:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:11:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release and features of Windows 7, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the release of Windows 7 and compares it to Vista, lacking any focus on Evidence-Based Management principles or metrics. There are no direct mentions of data-informed decision-making or empirical evidence, and the discussion does not align with the core themes of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:11:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:11:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release and features of Windows 7, with no relevance to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the release of Windows 7 and compares it to Vista, with no mention of DevOps principles, practices, or cultural shifts. It lacks any relevant discussion on collaboration, automation, or shared accountability, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -308,7 +314,7 @@
     "reasoning": "Content primarily discusses the release and features of Windows 7, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:12:07",
     "ai_confidence": 0,
@@ -319,11 +325,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:12:08",
+    "calculated_at": "2025-03-22T09:11:54",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release and features of Windows 7, with no relevance to Agile principles or product operating models.",
+    "reasoning": "The content focuses entirely on the release of Windows 7 and does not discuss any aspects of the Agile Product Operating Model or related principles. There are no mentions of agile methodologies, product management, or any relevant themes that align with the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -394,11 +403,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:46:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:11:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on personal experiences with the Windows 7 release and does not discuss Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the release of Windows 7 and compares it to Vista, lacking any discussion on Continuous Delivery principles, practices, or related topics. There are no mentions of automation, incremental improvements, or user feedback, which are central to Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1422,6 +1434,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the release of Windows 7 and personal experiences with the operating system, with no mention of software development processes, testing, security, or compliance. It does not align with the Shift-Left Strategy in any meaningful way.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:11:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the excitement surrounding the release of Windows 7 and its comparison to Vista, with no discussion of Continuous Improvement principles, methodologies, or practices. It lacks any empirical evidence or strategies related to enhancing processes or team effectiveness, which are core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:11:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the release of Windows 7 and compares it to Vista, lacking any discussion on Common Goals, Agile, or DevOps principles. It does not address shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:11:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the release of Windows 7 and its comparison to Vista, with no discussion of competence, skill development, or related Agile and DevOps principles. It lacks any direct mention of competence and does not align with the core themes of the category.",
     "level": "Ignored"
   }
 }

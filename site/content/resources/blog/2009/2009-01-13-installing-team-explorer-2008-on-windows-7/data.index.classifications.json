@@ -73,11 +73,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T10:37:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:27:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of Team Explorer and related issues, with no focus on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation of Team Explorer 2008 on Windows 7, with troubleshooting issues related to proxies and firewalls. It does not discuss DevOps principles, practices, or cultural shifts, nor does it mention collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The content is more aligned with software installation and personal experiences rather than the broader DevOps context.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -109,11 +112,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T10:37:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:28:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of Team Explorer and related technical issues, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the installation of Team Explorer 2008 on Windows 7, with no references to agile methodologies, product management principles, or the Agile Product Operating Model. It discusses technical issues related to software installation rather than any concepts related to agile product delivery or management.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -169,11 +175,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T10:37:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:28:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Team Explorer 2008 on Windows 7, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation of Team Explorer 2008 on Windows 7, discussing technical issues and troubleshooting steps. There are no direct mentions of Evidence-Based Management principles, nor does it align with the core themes of data-informed decision-making or value delivery. The discussion lacks depth regarding any management strategies or empirical evidence.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -239,7 +248,7 @@
     "reasoning": "Content primarily discusses the installation process of Team Explorer and related issues, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T10:37:42",
     "ai_confidence": 0,
@@ -886,11 +895,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:40:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:28:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly focuses on the installation of Team Explorer and troubleshooting issues related to Visual Studio, without discussing Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation of Team Explorer 2008 on Windows 7, with no direct mention of Continuous Delivery principles or practices. While it touches on troubleshooting and enhancing the development experience, it does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or rapid feedback. The discussion lacks depth regarding Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1431,6 +1443,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation of Team Explorer 2008 on Windows 7, with no direct mention of the Shift-Left Strategy or its principles. While it touches on issues related to software development tools, it does not discuss integrating testing, security, or compliance early in the development process, nor does it provide any depth on the benefits or methodologies associated with the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:27:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Team Explorer 2008 on Windows 7, with troubleshooting tips and personal anecdotes. It does not discuss Continuous Improvement principles, nor does it align with the key topics outlined for this category. The mention of troubleshooting does not equate to a discussion on Continuous Improvement, which requires a focus on systematic enhancement and learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:27:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Team Explorer 2008 on Windows 7, discussing personal experiences and troubleshooting issues. It does not address the concept of Common Goals, nor does it relate to Agile or DevOps principles. The mention of TFS (Team Foundation Server) is too vague and does not connect to the core themes of shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:27:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Team Explorer 2008 on Windows 7, troubleshooting issues, and personal experiences with the software. There are no direct mentions of competence, continuous learning, or skill development, which are central to the category. The discussion lacks depth and does not align with the core themes of competence in Agile or DevOps environments.",
     "level": "Ignored"
   }
 }

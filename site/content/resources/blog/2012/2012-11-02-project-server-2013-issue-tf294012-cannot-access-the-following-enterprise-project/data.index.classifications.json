@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T15:13:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:02:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and Team Foundation Server, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to Project Server 2013 and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of EBM concepts, and the discussion lacks depth in relation to data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T15:14:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:01:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Project Server and Team Foundation Server, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to Project Server 2013 and Team Foundation Server, with no explicit discussion of DevOps principles, practices, or cultural shifts. While it touches on aspects of project management and permissions, it does not align with the core themes of DevOps such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses a specific technical issue related to Project Server 2013 and Team Foundation Server, focusing on error resolution and permissions management, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-14T15:14:53",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T15:14:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:02:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and Team Foundation Server, with no focus on Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to Project Server 2013 and Team Foundation Server, with no direct mention of agile methodologies, product management principles, or the Agile Product Operating Model. The discussion is centred around permissions and access management, which does not align with the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -400,11 +409,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T15:15:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:02:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an issue related to Project Server 2013 and Team Foundation Server, with no mention of Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to Project Server 2013 and Team Foundation Server, with no direct mention of Continuous Delivery principles or practices. While it discusses software management and permissions, it does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or incremental improvements. The depth of discussion is limited to troubleshooting a specific issue, which does not contribute to the understanding of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1440,6 +1452,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a specific error related to Project Server 2013 and Team Foundation Server, focusing on troubleshooting and permissions management. There are no direct mentions of the Shift-Left Strategy, nor does it align with its core themes of integrating testing, security, or compliance early in the software development lifecycle. The discussion lacks depth regarding proactive measures or methodologies that would typically be associated with a Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:02:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error in Project Server 2013 and does not discuss Continuous Improvement principles or practices. While it provides a solution to a technical issue, it lacks any mention of empirical evidence, data-driven decision-making, or a culture of experimentation, which are core to Continuous Improvement. The discussion is narrowly focused on resolving a technical problem rather than reflecting on processes or fostering team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:02:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error in Project Server 2013 and does not discuss Common Goals, Agile, or DevOps principles. It lacks any mention of shared objectives or alignment strategies, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:02:04",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to Project Server 2013 and does not discuss competence, continuous learning, or skill development. While it touches on the importance of permissions and settings, it lacks a broader discussion on competence as defined in Agile and DevOps contexts.",
     "level": "Ignored"
   }
 }

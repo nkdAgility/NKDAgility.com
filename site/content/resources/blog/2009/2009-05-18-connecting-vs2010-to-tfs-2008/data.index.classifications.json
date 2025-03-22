@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:41:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:20:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses connecting Visual Studio 2010 to Team Foundation Server 2008, with no mention of Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on connecting Visual Studio 2010 to Team Foundation Server 2008, with no direct mentions or discussions related to Evidence-Based Management principles or metrics. It lacks any alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and provides minimal detail relevant to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:42:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:20:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses connecting Visual Studio 2010 to Team Foundation Server 2008, which is not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on connecting Visual Studio 2010 to Team Foundation Server 2008, which is more about specific tools and setup rather than the broader principles and practices of DevOps. There are no direct mentions of DevOps concepts such as collaboration, automation, or shared accountability, and the discussion lacks depth in relation to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses connecting Visual Studio 2010 to Team Foundation Server 2008, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:42:30",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:42:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:20:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses connecting Visual Studio 2010 to Team Foundation Server 2008, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on connecting Visual Studio 2010 to Team Foundation Server 2008, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM framework. The discussion is technical and specific to software tools rather than the broader concepts of agile product delivery.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:20:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the connection of Visual Studio 2010 to Team Foundation Server 2008, focusing on a technical integration rather than principles or practices of Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on connecting Visual Studio 2010 to Team Foundation Server 2008, which is more about integration and setup rather than Continuous Delivery practices. There are no direct mentions of Continuous Delivery principles, automation, or related strategies. The discussion lacks depth and does not align with the core themes of Continuous Delivery, such as rapid feedback or incremental improvements.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1434,6 +1446,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on connecting Visual Studio 2010 to Team Foundation Server 2008, with no explicit discussion of the Shift-Left Strategy or its principles. It lacks any mention of integrating testing, security, or compliance early in the development process, and does not provide any depth or detail related to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:20:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on connecting Visual Studio 2010 to Team Foundation Server 2008, with no explicit discussion of Continuous Improvement principles or practices. It lacks any mention of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning. The content does not align with the core themes of Continuous Improvement, and the depth of discussion is minimal, primarily providing technical instructions rather than insights into process enhancement or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:20:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for connecting Visual Studio 2010 to Team Foundation Server 2008, with no explicit discussion of Common Goals or their significance in Agile or DevOps. It lacks any mention of shared objectives, alignment, or strategic goals, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:20:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for connecting Visual Studio 2010 to Team Foundation Server 2008. While it may imply a level of competence in using these tools, it does not explicitly discuss the concept of competence or its importance in Agile, Scrum, or DevOps methodologies. The discussion lacks depth and does not align with the core themes of continuous learning, skill development, or professionalism.",
     "level": "Ignored"
   }
 }

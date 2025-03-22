@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:13:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:26:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Release Management Server for TFS 2013, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Server for TFS 2013, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on aspects of configuration and setup, it lacks any reference to data-informed decision-making, current value metrics, or empirical decision-making, which are central to EBM. Therefore, it does not align with the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,14 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T04:40:27",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-22T07:25:59",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the installation of the Release Management Server for TFS 2013, which is a tool relevant to DevOps practices. However, it primarily focuses on the installation process rather than broader DevOps principles, practices, or cultural shifts. While it touches on aspects of automation and configuration, it lacks depth in discussing the integration of people, processes, and tools, which are core to the DevOps category. Therefore, while there is some alignment, it is not the primary focus of the content.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Server for TFS 2013, which is a specific tool rather than a discussion on DevOps principles or practices. While it touches on aspects of application lifecycle management (ALM) and configuration, it lacks a broader discussion on the cultural and collaborative aspects of DevOps. The mention of configuration and installation does not align with the core themes of DevOps, such as automation, shared accountability, or continuous improvement. Therefore, the confidence score reflects a low alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,7 +332,7 @@
     "reasoning": "Content primarily focuses on the installation and configuration of Release Management Server for TFS 2013, with no discussion of Systems Thinking principles or related topics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T11:13:50",
     "ai_confidence": 0,
@@ -340,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T11:13:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:26:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the installation and configuration of Release Management Server for TFS 2013, with no discussion on Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of the Release Management Server for TFS 2013, which is a technical guide rather than a discussion on the Agile Product Operating Model. There are no direct mentions of agile principles, product management practices, or the core themes outlined in the APOM framework. The content lacks depth in relation to the Agile Product Operating Model, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,14 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T04:40:34",
+    "calculated_at": "2025-03-22T07:26:17",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the installation process of the Release Management Server for TFS 2013, which is a tool related to Continuous Delivery. However, it lacks a thorough discussion of Continuous Delivery principles, practices, or methodologies. While it mentions aspects of configuration and installation, it does not delve into automation, deployment strategies, or the broader context of Continuous Delivery. Therefore, while there are relevant elements, they are not the primary focus, leading to a low confidence score.",
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Server for TFS 2013, which is a tool that can be part of a Continuous Delivery pipeline. However, it does not explicitly discuss Continuous Delivery principles, practices, or benefits. While it mentions aspects of configuration and setup, it lacks depth in exploring automation, rapid feedback, or cultural aspects of Continuous Delivery. Therefore, it only partially aligns with the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1479,6 +1485,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation and configuration of the Release Management Server for TFS 2013, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on aspects of application lifecycle management, it does not align with the core themes of the Shift-Left Strategy, nor does it provide any depth on the principles or benefits of such an approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:26:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Server for TFS 2013, with no explicit discussion on Continuous Improvement principles. While it touches on aspects of configuration and setup, it lacks any mention of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning. The content does not align with the core themes of Continuous Improvement, nor does it provide any depth in discussing its impact on processes or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:26:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing the Release Management Server for TFS 2013, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on aspects of configuration and setup, it lacks any connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:26:07",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Server for TFS 2013, with minimal discussion on competence or skill development. While it touches on aspects of configuration and setup, it does not delve into continuous learning, quality outcomes, or fostering a culture of competence, which are central to the category. The mention of configuration challenges is too brief and lacks depth to significantly align with the principles of competence.",
     "level": "Ignored"
   }
 }

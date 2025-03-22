@@ -79,11 +79,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:48:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:42:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and reflections on presentations, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal reflections regarding presentations and experiences in a technology consultancy role, with minimal direct mention of DevOps principles or practices. While there are references to technology and development, they do not align with the core themes of DevOps, such as collaboration, automation, or shared accountability. The discussion lacks depth in exploring DevOps concepts, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -115,11 +118,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:48:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:42:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with presentations and roles in technology consultancy, lacking focus on Agile principles or product-centric development.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal reflections regarding presentations and experiences in a technology consultancy role, with no explicit discussion of the Agile Product Operating Model or its principles. While there are mentions of technology and development, they do not align with the core themes of APOM, such as product management or agile methodologies. The content lacks depth and detail related to the category.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -169,11 +175,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:48:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:42:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and reflections on presentations, lacking focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal reflections regarding presentations and does not explicitly discuss Evidence-Based Management or its key topics. While there are mentions of preparation and delivery, these do not align with the core themes of EBM, such as data-informed decision-making or metrics related to value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -239,7 +248,7 @@
     "reasoning": "Content primarily discusses personal experiences and reflections on presentations, with no focus on metrics, data, or learning principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:48:25",
     "ai_confidence": 0,
@@ -889,11 +898,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:26:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:42:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with presentations and insights into a sales-focused technology consultancy role, without any mention of Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal reflections regarding presentations and experiences in a technology consultancy role, with no explicit discussion of Continuous Delivery principles, practices, or related topics. While there are mentions of delivery in a general sense, they do not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or user feedback.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1425,6 +1437,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on personal experiences related to presentations and a role in technology consultancy, with no explicit discussion of the Shift-Left Strategy or its principles. There are no mentions of integrating testing, security, or compliance early in the development process, nor any relevant tools or methodologies. The content does not align with the core themes of the category, and the depth of discussion regarding Shift-Left practices is virtually non-existent.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:42:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal reflections regarding presentation experiences and does not explicitly discuss Continuous Improvement principles. While there are elements of learning from past experiences, the discussion lacks depth and does not align with the core themes of Continuous Improvement, such as empirical evidence or strategies for fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:42:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal experiences and reflections regarding presentations, lacking any explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on preparation and delivery, it does not connect these themes to shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:42:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the speaker's preparation and delivery of presentations, which hints at competence in communication. However, it lacks a focused discussion on continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The reflections are more personal and anecdotal rather than providing a structured analysis of competence as a principle.",
     "level": "Ignored"
   }
 }

@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:21:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:19:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on the technical aspects of upgrading TFS and migrating data, with no clear discussion on Evidence-Based Management principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS and migrating data, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on process improvements, it lacks a clear connection to data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T14:55:39",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-22T08:19:00",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) and migrating data from Visual SourceSafe (VSS) to TFS. While it touches on some relevant DevOps practices, such as process template customisation and the importance of version control, it lacks a broader discussion on the principles of DevOps, such as Continuous Integration (CI), Continuous Delivery (CD), and cultural shifts necessary for successful DevOps implementation. The content is more of a technical guide than a discussion on DevOps as a holistic practice.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS and migrating data, which are more aligned with specific tools and processes rather than the broader DevOps philosophy. While there are mentions of collaboration and efficiency, the discussion lacks depth in core DevOps principles such as shared accountability, automation, and cultural shifts. The content does not engage with the overarching themes of DevOps, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -329,7 +332,7 @@
     "reasoning": "Content primarily focuses on the technical aspects of upgrading TFS and migrating data, with no clear discussion of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:22:53",
     "ai_confidence": 0,
@@ -340,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:22:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:19:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on upgrading TFS and migrating data, with no clear discussion on Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS and migrating data, with no substantial discussion on Agile principles or the Agile Product Operating Model. While there are brief mentions of process templates and team features, these do not align with the core themes of the Agile Product Operating Model, which emphasises customer-centric value and continuous delivery.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,11 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:31:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:19:17",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses upgrading Team Foundation Server and related migration processes, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on upgrading TFS and migrating data, which are related to software delivery but do not explicitly discuss Continuous Delivery principles or practices. While there are mentions of process template customisation and migration strategies, the overall emphasis is on technical implementation rather than the broader Continuous Delivery concepts such as automation, rapid feedback, or cultural aspects.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1494,6 +1503,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS and migrating data from VSS, with no explicit discussion of integrating testing, security, or compliance earlier in the development process. While it touches on project management and process templates, it does not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:19:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS and migrating data, with limited discussion on Continuous Improvement principles. While there are mentions of enhancing team efficiency and documenting experiences, these are not deeply tied to the core themes of Continuous Improvement such as empirical evidence, culture of experimentation, or strategies for integrating improvement into processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:19:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS and migrating data, with minimal reference to shared objectives or alignment within teams. While it discusses process templates and team features, it lacks a clear connection to the principles of Common Goals in Agile and DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:19:09",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS and migrating data, with minimal direct discussion on competence or continuous skill development. While it touches on the importance of planning and executing upgrades, it lacks a deeper exploration of how these activities contribute to team competence or professional growth.",
     "level": "Ignored"
   }
 }

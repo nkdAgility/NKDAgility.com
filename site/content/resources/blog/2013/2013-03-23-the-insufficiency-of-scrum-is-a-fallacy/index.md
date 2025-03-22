@@ -33,7 +33,7 @@ tags:
 - Software Developers
 - Team Performance
 - Pragmatic Thinking
-- Scrum Master
+- Competence
 categories:
 - Engineering Excellence
 - Scrum

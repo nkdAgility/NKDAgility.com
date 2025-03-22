@@ -73,11 +73,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T10:52:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:31:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SkyDrive and its features, with no relevance to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses SkyDrive, a cloud storage service, with no direct mentions or relevant discussions about DevOps principles, practices, or cultural shifts. The focus is on features and integration of a specific product rather than on the collaborative and automated processes central to DevOps.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -109,11 +112,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T10:52:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:31:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the features and services of SkyDrive, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on SkyDrive and its features, with no mention or discussion of the Agile Product Operating Model or its principles. It does not align with any key topics related to APOM, such as product management or agile methodologies.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -163,11 +169,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T10:52:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:31:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the features and services of SkyDrive, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses SkyDrive's features and services without any reference to Evidence-Based Management principles or metrics. There are no mentions of data-informed decision-making, current value, or any other key topics related to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -233,7 +242,7 @@
     "reasoning": "Content primarily discusses the features and services of SkyDrive, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T10:52:30",
     "ai_confidence": 0,
@@ -877,11 +886,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:04:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:31:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses SkyDrive and Windows Live services, which are unrelated to Continuous Delivery principles and practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses SkyDrive, an online storage service, with no direct mentions or relevant discussions about Continuous Delivery principles, practices, or tools. It lacks any focus on software delivery cycles, automation, or user feedback, which are essential aspects of Continuous Delivery.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1413,6 +1425,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the features and services of SkyDrive, with no direct mention or alignment to the Shift-Left Strategy. It lacks any discussion on software development processes, testing, security, or compliance, which are central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:31:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the features and functionalities of SkyDrive, with no direct mention or discussion of Continuous Improvement principles. It lacks alignment with the core themes of Continuous Improvement, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The depth of discussion is minimal, as it does not explore any strategies or case studies related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:31:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the features and benefits of SkyDrive, with no explicit mention of Common Goals, Agile, or DevOps principles. It lacks any discussion on alignment, shared objectives, or strategic frameworks, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:31:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the features and functionalities of SkyDrive, with no direct mention or discussion of competence, continuous learning, or skill development. It lacks alignment with the core themes of the competence category, focusing instead on product features and services.",
     "level": "Ignored"
   }
 }

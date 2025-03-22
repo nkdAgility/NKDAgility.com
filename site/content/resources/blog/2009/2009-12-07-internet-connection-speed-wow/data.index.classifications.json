@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:44:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:06:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with internet connection speeds and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses personal experiences with internet connection speeds and does not mention or align with the principles of Evidence-Based Management. There are no references to data-informed decision-making or metrics relevant to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T01:44:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:06:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with internet connection speeds and does not relate to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses personal experiences with internet connection speeds and does not mention or align with any DevOps principles, practices, or cultural shifts. It lacks any relevant discussion on collaboration, automation, or shared accountability, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -308,7 +314,7 @@
     "reasoning": "Content primarily discusses personal experiences with internet connection speeds and does not address Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:45:02",
     "ai_confidence": 0,
@@ -319,11 +325,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:45:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:06:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with internet connection speeds and does not relate to Agile principles or product development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on personal experiences with internet connection speeds and does not mention or align with any principles of the Agile Product Operating Model. There is no discussion of product management, agile methodologies, or related topics, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -391,11 +400,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:04:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:06:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses personal experiences with internet connection speed and upgrade history, with no relevance to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses personal experiences with internet connection speeds and does not mention Continuous Delivery or its principles. There is no alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality. The depth of discussion is also minimal, focusing solely on internet speeds rather than any relevant software delivery practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1416,6 +1428,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content focuses entirely on personal experiences with internet connection speeds and does not discuss any aspects of software development, testing, security, or compliance. There are no mentions of the Shift-Left Strategy or its principles, benefits, or methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:06:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences with internet speed improvements and does not discuss Continuous Improvement principles or practices. There are no mentions of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation, which are key aspects of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:06:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences with internet speed and does not discuss any aspects of Common Goals within Agile or DevOps frameworks. There are no direct mentions of shared objectives, alignment, or strategic goals, which are central to the category. The discussion is anecdotal and lacks depth in relation to the principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:06:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses personal experiences with internet connection speeds and does not address the concept of competence in any meaningful way. There are no direct mentions of continuous learning, skill development, or professionalism, which are key aspects of the competence category. The focus is on technical specifications and personal anecdotes rather than on the development of capabilities or quality delivery.",
     "level": "Ignored"
   }
 }

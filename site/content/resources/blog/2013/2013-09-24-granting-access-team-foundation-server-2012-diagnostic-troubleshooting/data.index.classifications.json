@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:38:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:33:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of granting access in Team Foundation Server, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for granting access to Team Foundation Server 2012 and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of EBM concepts, and the discussion lacks depth in relation to data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T11:38:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:33:19",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses granting access permissions in TFS 2012 for troubleshooting, which is not central to DevOps principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on granting access to Team Foundation Server (TFS) for diagnostic troubleshooting, which is a specific technical task rather than a discussion on DevOps principles. While it touches on efficiency and user permissions, it lacks a broader discussion on collaboration, automation, or cultural shifts associated with DevOps. The mention of efficiency is too narrow and does not align with the core themes of DevOps, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -317,7 +323,7 @@
     "reasoning": "Content primarily discusses granting access permissions in Team Foundation Server 2012 and does not address Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T11:39:11",
     "ai_confidence": 0,
@@ -328,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T11:39:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:33:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of granting access in Team Foundation Server, with no focus on Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on granting access to Team Foundation Server for diagnostic troubleshooting, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM framework. The discussion is technical and specific to TFS permissions, lacking any connection to the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T17:51:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:33:39",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses granting access in Team Foundation Server, which is related to system administration and troubleshooting, not Continuous Delivery principles or practices.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on granting access to Team Foundation Server for diagnostic troubleshooting, which is a specific administrative task rather than a discussion on Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the content does not align with the core themes such as automation, incremental improvements, or rapid feedback. The depth of discussion is limited to a technical solution without exploring broader Continuous Delivery concepts.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1443,6 +1455,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses granting access permissions in Team Foundation Server for diagnostic troubleshooting, which does not relate to the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it provide any insights into the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:33:26",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on technical instructions for granting access in TFS 2012, with minimal mention of Continuous Improvement principles. While it discusses enhancing efficiency through better access control, it lacks a broader discussion on continuous improvement methodologies, empirical evidence, or a culture of experimentation. The depth of discussion is limited to specific command line solutions without exploring the implications for team effectiveness or organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:33:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for granting access in TFS 2012 and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the depth of discussion is limited to practical troubleshooting techniques without connecting to broader organisational objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:33:31",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on technical instructions for granting access in TFS 2012, with minimal reference to competence or skill development. While it touches on efficiency and problem-solving, it lacks a direct discussion on continuous learning or the broader implications of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:22:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:37:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of Infragistics WPF controls and specific coding issues, with no mention of DevOps principles, practices, or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Infragistics WPF controls and their usage, with no direct mention or discussion of DevOps principles, practices, or cultural shifts. It does not align with the core themes of DevOps, such as collaboration, automation, or shared accountability, and lacks depth in discussing any related concepts.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:22:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:38:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of Infragistics WPF controls and specific coding issues, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Infragistics WPF controls and coding examples, with no direct mention or discussion of the Agile Product Operating Model. While there is a brief mention of challenges in documentation, it does not align with the core themes of APOM, such as product management principles or agile methodologies. The depth of discussion is limited to technical implementation details, which are unrelated to the category.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -169,11 +175,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:23:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:38:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of Infragistics WPF controls and does not address Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of using Infragistics WPF controls, specifically the Ribbon components, and does not discuss Evidence-Based Management or its principles. There are no direct mentions of data-informed decision-making, metrics, or any of the key topics associated with EBM. The discussion is centred around coding challenges and practical examples, which are not aligned with the EBM framework.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -242,7 +251,7 @@
     "reasoning": "Content primarily discusses the use of Infragistics WPF controls and specific coding issues, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:23:15",
     "ai_confidence": 0,
@@ -892,11 +901,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:25:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:38:15",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on using Infragistics WPF controls and troubleshooting specific code, which does not relate to Continuous Delivery practices or principles.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on the use of Infragistics WPF controls and does not discuss Continuous Delivery principles, practices, or related topics. There are no direct mentions of Continuous Delivery, and the discussion is centred around coding examples and documentation challenges, which are not aligned with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1434,6 +1446,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the use of Infragistics WPF controls and does not address any aspects of the Shift-Left Strategy. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any techniques, case studies, or tools related to the Shift-Left approach. The focus is entirely on UI component usage and documentation issues, which are unrelated to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:38:01",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on the use of Infragistics WPF controls and does not discuss Continuous Improvement principles. While it mentions challenges with documentation, it lacks any reference to empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning. The discussion is technical and specific to coding issues rather than reflecting on processes or improvements.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:38:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of using Infragistics WPF controls, specifically discussing challenges with documentation and coding examples. It does not address the concept of Common Goals, nor does it relate to Agile or DevOps principles. The discussion lacks any mention of shared objectives or alignment within teams, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:38:06",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the use of Infragistics WPF controls and the challenges faced with documentation. While there are mentions of coding and problem-solving, it does not explicitly discuss competence in the context of Agile, Scrum, or DevOps methodologies. The discussion lacks depth regarding continuous learning or skill development, which are key aspects of the competence category.",
     "level": "Ignored"
   }
 }

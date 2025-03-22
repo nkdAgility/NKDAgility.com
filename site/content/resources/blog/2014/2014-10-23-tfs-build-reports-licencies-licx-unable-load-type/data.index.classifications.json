@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T00:08:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:10:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to build processes and software configuration, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses technical issues related to build processes in TFS and does not focus on Evidence-Based Management principles. While it touches on the need for improved processes and automation, it lacks explicit references to empirical decision-making, metrics, or the core themes of EBM. The discussion is more about troubleshooting and practical solutions rather than data-informed management strategies.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -133,14 +136,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:43:03",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-03-22T07:10:39",
+    "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
-    "reasoning": "The content discusses issues related to configuring a build server and the challenges faced during the build process, which aligns with DevOps principles, particularly Continuous Integration (CI). However, while it touches on automation and the need for a CI build, it lacks a broader discussion on DevOps practices, cultural shifts, or tools beyond the specific context of the build server. The focus is primarily on troubleshooting specific errors rather than a comprehensive exploration of DevOps as a whole.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses issues related to CI builds and the challenges of setting up a build server, which are relevant to DevOps practices. However, it primarily focuses on specific technical problems and solutions rather than broader DevOps principles or cultural shifts. While there are mentions of automation and collaboration, the depth of discussion on these topics is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -338,7 +341,7 @@
     "reasoning": "Content primarily discusses technical issues related to build processes and software configuration, without a focus on Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T00:09:00",
     "ai_confidence": 0,
@@ -349,11 +352,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T00:09:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:10:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to build processes and software components, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to CI builds and TFS, with no direct mention of Agile methodologies, product management principles, or the Agile Product Operating Model. It focuses on troubleshooting and operational challenges rather than the core themes of APOM, such as continuous delivery or customer-centric value.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -427,14 +433,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T04:16:13",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-22T07:10:55",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses issues related to setting up a build server and the challenges faced during the build process, which are relevant to Continuous Delivery. However, it primarily focuses on specific errors and troubleshooting rather than the broader principles and practices of Continuous Delivery. While there are mentions of automation and the need for a CI build, the discussion lacks depth in terms of Continuous Delivery methodologies and strategies, leading to a lower confidence score.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses issues related to CI (Continuous Integration) builds, which is a component of Continuous Delivery, but it does not explicitly focus on Continuous Delivery principles or practices. While it touches on automation and the challenges of setting up a build server, it lacks a comprehensive exploration of Continuous Delivery concepts such as rapid feedback, incremental improvements, or cultural aspects. The discussion is more about troubleshooting specific build errors rather than a broader examination of Continuous Delivery as a practice.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1506,6 +1512,42 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content discusses issues related to build processes and the challenges faced during integration, which are tangentially related to the Shift-Left Strategy. However, it does not explicitly mention integrating testing, security, or compliance earlier in the development lifecycle. The focus is primarily on resolving build errors and managing dependencies rather than on proactive measures to enhance software quality or speed up feedback loops. Therefore, while there are some relevant points, the primary focus is not on the Shift-Left Strategy itself.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:10:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses challenges faced during the configuration of a CI build and mentions the need for improvements in the development process. However, it primarily focuses on specific technical issues and troubleshooting rather than a broader discussion on Continuous Improvement principles. While there are hints of the need for ongoing enhancements and a culture of learning, the content lacks a structured approach to Continuous Improvement and does not delve into strategies or frameworks that support it.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:10:44",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses technical issues related to build processes and error resolution in TFS, with no explicit mention of Common Goals or their significance in Agile or DevOps. While it touches on team collaboration and the need for a CI build, it lacks a focus on shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:10:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses technical challenges faced during a build process and the need for proper configuration and component management. While it touches on the importance of having a competent build environment and the skills required to resolve issues, it primarily focuses on specific technical problems rather than a broader discussion on competence as a foundational principle in Agile or DevOps. The mentions of competence are indirect and not the primary focus, leading to a lower confidence score.",
     "level": "Ignored"
   }
 }

@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:19:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:37:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a backup service and referral promotion, with no relevance to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a promotional offer for a backup service, Mozy, and does not discuss any principles, practices, or cultural shifts related to DevOps. There are no direct mentions of DevOps concepts, and the discussion lacks depth in any relevant areas such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:19:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:37:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a promotional offer for a backup service and does not discuss Agile principles or product operating models.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a promotional offer for a backup service and does not mention or align with any principles of the Agile Product Operating Model. There is no discussion of agile methodologies, product management, or related concepts.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -166,11 +172,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:19:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:37:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a promotional offer for a backup service and personal experiences, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a backup service and its referral program, with no discussion of Evidence-Based Management principles or metrics. It lacks any mention of data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -236,7 +245,7 @@
     "reasoning": "Content primarily discusses a promotional offer for a backup service and personal experiences, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:19:34",
     "ai_confidence": 0,
@@ -880,11 +889,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:24:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:37:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Mozy Backup service promotions and personal experiences with backup solutions, with no relation to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a promotional offer for Mozy Backup and does not mention Continuous Delivery or its principles. There is no alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality. The depth of discussion is minimal and focused on a specific product rather than any relevant practices or methodologies.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1416,6 +1428,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content focuses on a promotional offer for a backup service and does not discuss any aspects of software development, testing, security, or compliance. There are no mentions of the Shift-Left Strategy or its principles, making it entirely unrelated to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:37:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a backup service and its referral program, with no discussion of Continuous Improvement principles, methodologies, or practices. It lacks any mention of empirical evidence, data-driven decision-making, or strategies for enhancing processes or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:37:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a backup service and discussing personal experiences with it, with no mention of Agile, DevOps, or the concept of Common Goals. It lacks any alignment with the principles of shared objectives or strategic alignment, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:37:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a backup service and does not discuss competence, continuous learning, or skill development. There are no direct mentions of competence or its related themes, and the depth of discussion is minimal, primarily revolving around the benefits of a specific product.",
     "level": "Ignored"
   }
 }

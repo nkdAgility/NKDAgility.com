@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:40:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:31:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the roles of Project Managers, Product Owners, and Scrum Masters in Scrum, without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the roles of Project Managers within Scrum, focusing on the transition to Product Owner or Scrum Master roles. It does not engage with Evidence-Based Management principles or metrics, nor does it provide empirical evidence or data-informed decision-making insights. The discussion is centred around Agile roles rather than evidence-based practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -133,11 +136,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T21:40:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:31:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the roles and responsibilities within Scrum, which is not aligned with DevOps principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of Project Managers within the Scrum framework, which is a specific methodology rather than a discussion on DevOps principles. While it touches on aspects of team roles and collaboration, it does not address the core themes of DevOps such as automation, shared accountability, or continuous improvement. Therefore, the alignment with the DevOps category is minimal.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,7 +335,7 @@
     "reasoning": "Content primarily discusses the roles of Project Managers, Product Owners, and Scrum Masters within the Scrum framework, without a focus on Systems Thinking principles or interconnectedness.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:41:05",
     "ai_confidence": 0,
@@ -340,14 +346,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T06:15:02",
+    "calculated_at": "2025-03-22T08:31:22",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content primarily discusses the role of Project Managers within the Scrum framework, which is a specific Agile methodology. While it touches on the importance of roles like Product Owner and Scrum Master, it does not delve into the broader Agile Product Operating Model or its principles, strategies, or metrics for value delivery. The focus is more on the transition of roles rather than a comprehensive discussion on product-centric development or the Agile Product Operating Model itself.",
+    "reasoning": "The content primarily discusses the role of Project Managers within the Scrum framework, which is a specific agile practice rather than the broader Agile Product Operating Model. While it touches on the transition to roles like Product Owner and Scrum Master, it does not delve into the principles or operational aspects of the Agile Product Operating Model itself. The focus is more on individual roles rather than the integration of agile methodologies with product management principles, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,11 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:41:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:31:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the roles and responsibilities within Scrum, particularly focusing on the Project Manager, Product Owner, and Scrum Master, without addressing Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the roles of Project Managers within the Scrum framework, which is not directly related to Continuous Delivery. While it touches on aspects of software delivery, it does not explore the principles, practices, or benefits of Continuous Delivery, nor does it provide any depth on automation, incremental improvements, or rapid feedback, which are key topics in the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1524,6 +1533,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the roles of Project Managers, Product Owners, and Scrum Masters within the Scrum framework, with no direct mention or alignment to the Shift-Left Strategy. It does not address integrating testing, security, or compliance earlier in the development process, nor does it provide any techniques or case studies related to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:31:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the roles of Project Managers within the Scrum framework, focusing on the transition to Product Owner and Scrum Master roles. While it touches on aspects of change and adaptation, it lacks a direct focus on Continuous Improvement principles, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The discussion is more about role clarification than about ongoing improvement practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:31:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the roles of Project Managers, Product Owners, and Scrum Masters within Scrum, which is more focused on individual roles rather than the overarching concept of Common Goals. While it touches on the importance of roles in delivering value and managing processes, it lacks a direct discussion on shared objectives or alignment with strategic goals, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:31:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the evolving roles of Project Managers in Scrum, touching on the need for individuals to transition to roles like Product Owner or Scrum Master, which implies a need for competence in these areas. However, the primary focus is on the roles themselves rather than a deep exploration of competence as a foundational principle. The discussion lacks detailed strategies for fostering competence or continuous learning, which are key aspects of the category.",
     "level": "Ignored"
   }
 }

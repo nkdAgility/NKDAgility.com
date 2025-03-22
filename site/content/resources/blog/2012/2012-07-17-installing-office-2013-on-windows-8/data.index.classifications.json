@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:10:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:16:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and features of Office 2013, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Office 2013 on Windows 8, with no direct mentions or discussions related to Evidence-Based Management. It lacks any empirical evidence or metrics that would align with the core themes of EBM, such as current value, time to market, or outcome management. The discussion is entirely practical and technical, with no relevance to data-informed decision-making or strategic improvements.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:10:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:16:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and features of Office 2013, with no relevant focus on DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Office 2013 on Windows 8, with no direct mentions of DevOps principles or practices. While there is a brief reference to feedback mechanisms akin to those in DevOps, it lacks substantial discussion on collaboration, automation, or shared accountability, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -311,7 +317,7 @@
     "reasoning": "Content primarily discusses the installation process of Office 2013 and personal experiences with the software, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:11:03",
     "ai_confidence": 0,
@@ -322,11 +328,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:11:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:16:16",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and features of Office 2013, with no relevance to Agile principles or product operating models.",
+    "reasoning": "The content focuses entirely on the installation process of Office 2013 on Windows 8, with no references to agile methodologies, product management principles, or any related topics that align with the Agile Product Operating Model. It does not discuss transitioning from project to product ethos, operational stability, or any other key topics outlined in the category description.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:31:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:16:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and features of Office 2013, which is unrelated to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Office 2013 on Windows 8, with no direct discussion or alignment with Continuous Delivery principles. It lacks any mention of automation, incremental improvements, or software delivery practices, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1434,6 +1446,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation process of Office 2013 and does not discuss any aspects of the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance in software development, nor does it provide any relevant techniques or case studies related to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:16:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Office 2013 on Windows 8, with no substantial discussion on Continuous Improvement principles. While there is a brief mention of submitting feedback, it does not align with the core themes of Continuous Improvement, such as data-driven decision-making or fostering a culture of experimentation. Overall, the content lacks depth and relevance to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:16:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Office 2013 and does not discuss any aspects related to Common Goals in Agile or DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth in these areas.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:16:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Office 2013 on Windows 8, with no direct discussion of competence, continuous learning, or skill development. While it mentions features and user experience, it does not align with the core themes of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

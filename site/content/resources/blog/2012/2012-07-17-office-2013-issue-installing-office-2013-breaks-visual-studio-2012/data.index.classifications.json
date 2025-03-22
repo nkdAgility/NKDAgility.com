@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:07:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:16:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to software compatibility and installation, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a technical issue related to software installation and compatibility, with no discussion of Evidence-Based Management principles or metrics. It does not mention any of the key topics associated with EBM, such as data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:07:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:16:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Visual Studio and Office compatibility, with no focus on DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to the installation of Office 2013 and its impact on Visual Studio 2012. It does not mention DevOps principles, practices, or cultural shifts, nor does it address any of the key topics associated with DevOps. The focus is on troubleshooting a specific software conflict, which is unrelated to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -308,7 +314,7 @@
     "reasoning": "Content primarily discusses a technical issue related to software compatibility and installation, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:08:24",
     "ai_confidence": 0,
@@ -319,11 +325,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:08:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:16:52",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to software installation and compatibility, with no relevance to Agile principles or product operating models.",
+    "reasoning": "The content focuses entirely on a technical issue related to the installation of Office 2013 and its impact on Visual Studio 2012. There are no discussions or mentions of agile methodologies, product management principles, or any related topics that align with the Agile Product Operating Model. Therefore, it does not meet any of the classification criteria.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -394,11 +403,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:01:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:16:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a technical issue related to Visual Studio and Office, not related to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to the installation of Office 2013 and its impact on Visual Studio 2012. There are no direct mentions of Continuous Delivery principles, practices, or related topics. The focus is on troubleshooting a specific software conflict rather than exploring Continuous Delivery concepts such as automation, incremental improvements, or user feedback.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1428,6 +1440,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a technical issue related to the installation of Office 2013 and its impact on Visual Studio 2012, with no mention of the Shift-Left Strategy or its principles. It does not address any aspects of integrating testing, security, or compliance earlier in the software development lifecycle, nor does it provide any insights into the benefits or methodologies associated with the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:16:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical issue related to software compatibility and provides specific workarounds. It does not discuss Continuous Improvement principles, nor does it reflect on processes or team effectiveness. The mention of updates and patches is more about troubleshooting than about ongoing improvement practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:16:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to the installation of Office 2013 and its impact on Visual Studio 2012. It does not mention or align with the concept of Common Goals in Agile or DevOps, nor does it provide any depth on shared objectives or strategic alignment. The focus is entirely on troubleshooting a software conflict, which is unrelated to the principles outlined in the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:16:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to software installation and compatibility, with no direct mention of competence, continuous learning, or skill development. While it touches on resolving a specific problem, it does not align with the core themes of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:14:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:28:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio 2010 architecture and design concepts, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010's architecture tools and team collaboration, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and provides minimal detail relevant to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T21:14:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:28:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Visual Studio architecture and design concepts, with no clear discussion on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010 and its features related to project architecture and team collaboration. While it mentions team collaboration, it does not explicitly discuss DevOps principles or practices. The alignment with DevOps is minimal, as the content lacks depth in discussing the cultural shifts, automation, or shared accountability that are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -317,7 +323,7 @@
     "reasoning": "Content primarily focuses on Visual Studio's architecture and design concepts, without a clear emphasis on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:15:16",
     "ai_confidence": 0,
@@ -328,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T21:15:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:28:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio architecture and design concepts, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010 and its features related to project architecture and team collaboration. It does not discuss the Agile Product Operating Model or its principles, nor does it align with the key topics outlined for the category. The mention of team standards and collaboration is too vague and does not connect to the specific themes of APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -406,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:15:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:28:46",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio's architecture and design concepts, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010's architecture and tools for project management, with no direct mention or discussion of Continuous Delivery principles, practices, or benefits. It lacks alignment with the core themes of Continuous Delivery, such as automation in testing and deployment, or rapid feedback mechanisms. The depth of discussion is also minimal, as it does not delve into any relevant Continuous Delivery strategies or case studies.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1437,6 +1449,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Visual Studio's architecture and design concepts without any explicit discussion of the Shift-Left Strategy. While it mentions team standards and architecture verification, these topics do not align with the core themes of integrating testing, security, and compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:28:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the features of Visual Studio 2010 related to project architecture and does not discuss Continuous Improvement principles or practices. While it mentions team collaboration and standards enforcement, these are not explored in the context of Continuous Improvement, making the relevance very low.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:28:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010's features for project architecture and team collaboration, with no explicit discussion of Common Goals in Agile or DevOps. While it mentions team standards, it does not connect these to shared objectives or strategic alignment, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:28:38",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the features of Visual Studio 2010 and its tools for project architecture, with only a brief mention of team standards. While it touches on aspects of team collaboration and maintaining project architecture, it lacks a direct discussion on competence, continuous learning, or skill development, which are central to the category. The depth of discussion is minimal, primarily listing features rather than exploring the implications for competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

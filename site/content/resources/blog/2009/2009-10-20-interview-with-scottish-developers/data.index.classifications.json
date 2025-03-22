@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:54:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:08:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal interview and speaking engagements, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal interview and reflections on the tech scene, with no explicit discussion or alignment with Evidence-Based Management principles. It lacks any mention of data-informed decision-making or relevant metrics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T01:54:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:08:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a personal interview and does not discuss DevOps principles, practices, or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal interview with Scottish Developers and does not discuss any DevOps principles, practices, or cultural shifts. There are no direct mentions of DevOps, and the content lacks any relevant depth or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses a personal interview and speaking engagements, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:54:56",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:54:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:08:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a personal interview and does not discuss Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal interview and reflections on the tech scene, with no direct mentions or discussions related to the Agile Product Operating Model or its principles. It lacks any relevant depth or alignment with the key topics outlined in the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:46:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:08:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on an interview with Scottish Developers and personal reflections, with no discussion of Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal interview with Scottish Developers and does not discuss Continuous Delivery principles, practices, or related topics. There are no direct mentions of Continuous Delivery, and the content lacks any alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1419,6 +1431,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on a personal interview with a developer and does not discuss any aspects of the Shift-Left Strategy. There are no direct mentions of testing, security, or compliance in the software development lifecycle, nor does it align with the core themes of the category. The depth of discussion regarding Shift-Left practices is non-existent.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:08:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal interview and reflections on the tech scene, with no explicit discussion or alignment with Continuous Improvement principles. It lacks depth and detail on the category, making it irrelevant to the topic.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:08:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a personal interview and reflections rather than discussing Common Goals within Agile or DevOps frameworks. There are no explicit mentions of shared objectives or alignment strategies, and the discussion lacks depth on the principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:08:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a personal interview and reflections rather than discussing competence in Agile, Scrum, or DevOps contexts. There are no explicit mentions of continuous learning, skill development, or the importance of competence in delivering quality outcomes. The discussion lacks depth and does not align with the core themes of the category.",
     "level": "Ignored"
   }
 }

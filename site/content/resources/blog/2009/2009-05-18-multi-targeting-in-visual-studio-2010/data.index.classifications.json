@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:46:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:19:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities, with no mention of Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the technical features of Visual Studio 2010, specifically its multi-targeting capabilities. There are no direct mentions of Evidence-Based Management principles or metrics, nor does it align with the core themes of EBM such as data-informed decision-making or outcome management. The discussion lacks depth regarding any evidence-based practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:47:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:19:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities for targeting different .NET versions, with no focus on DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the features of Visual Studio 2010, specifically its multi-targeting capabilities. There is no explicit discussion of DevOps principles, practices, or cultural shifts. The mention of development tools does not align with the core themes of DevOps, such as collaboration, automation, or shared accountability. Overall, the content does not engage with the DevOps philosophy, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -305,7 +311,7 @@
     "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:47:39",
     "ai_confidence": 0,
@@ -316,11 +322,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:47:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:19:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the technical features of Visual Studio 2010, specifically its multi-targeting capabilities, without any reference to agile methodologies, product management principles, or the Agile Product Operating Model. There are no mentions of product-oriented mindsets, continuous delivery, or any of the key topics outlined in the APOM definition.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -391,11 +400,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:19:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses features of Visual Studio 2010 related to multi-targeting .NET platforms, which is not relevant to Continuous Delivery principles and practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the multi-targeting capabilities of Visual Studio 2010, which is related to software development but does not address Continuous Delivery principles, practices, or benefits. There are no direct mentions of Continuous Delivery, and the discussion lacks depth in relevant topics such as automation, incremental improvements, or user feedback.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1416,6 +1428,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses features of Visual Studio 2010, focusing on multi-targeting capabilities and does not mention or align with the principles of the Shift-Left Strategy. There is no discussion of integrating testing, security, or compliance earlier in the development process, nor any mention of related tools or methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:19:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the features of Visual Studio 2010, specifically its multi-targeting capabilities. While it briefly mentions the stability of features and the disappointment regarding project file compatibility, it does not discuss Continuous Improvement principles, nor does it provide insights into processes, team effectiveness, or empirical evidence. The discussion lacks depth and does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:19:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical features of Visual Studio 2010, specifically its multi-targeting capabilities. There is no discussion of Common Goals, Agile, or DevOps principles. The content does not align with the core themes of the category, nor does it provide any depth on the subject matter related to shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:19:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the technical features of Visual Studio 2010 and its multi-targeting capabilities. While it touches on the development process, it does not explicitly address competence in terms of continuous learning, skill development, or professionalism. The focus is on software functionality rather than the principles of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

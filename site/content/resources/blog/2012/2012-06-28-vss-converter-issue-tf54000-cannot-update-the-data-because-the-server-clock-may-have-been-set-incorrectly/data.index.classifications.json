@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:24:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:19:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to VSS import and server clock synchronisation, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to a specific error during a VSS import process, with no direct mention of Evidence-Based Management principles or metrics. While it touches on a problem-solving approach, it lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management. The depth of discussion is limited to troubleshooting a technical error, which does not contribute to the understanding of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:24:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:19:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific error related to VSS import and TFS migration, which does not align with the core principles or practices of DevOps.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a specific error related to VSS import and TFS, which does not align with the core principles of DevOps. While it touches on a technical issue that may occur during a migration process, it lacks a focus on DevOps philosophy, practices, or cultural shifts. The mention of TFS and migration processes is more aligned with project management and technical troubleshooting rather than the collaborative and automated nature of DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -308,7 +314,7 @@
     "reasoning": "Content primarily discusses a specific technical issue related to VSS import and time synchronisation, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:25:11",
     "ai_confidence": 0,
@@ -319,11 +325,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:25:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:19:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to VSS import and TFS, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a technical issue related to VSS import and a specific error message, with no mention or discussion of Agile methodologies, product management principles, or the Agile Product Operating Model. It does not align with the core themes of the category, nor does it provide any depth on the subject matter.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -391,11 +400,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:31:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:19:35",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to a specific data migration issue and does not address Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses a specific error encountered during a VSS import process, which is not directly related to Continuous Delivery principles or practices. There are no explicit mentions of Continuous Delivery, and the discussion lacks depth on relevant topics such as automation, incremental improvements, or user feedback. The focus is on troubleshooting a technical issue rather than exploring Continuous Delivery as a discipline.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1425,6 +1437,42 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily discusses a specific error related to VSS import and migration issues in Team Foundation Server, with no direct mention or alignment to the Shift-Left Strategy. It does not address testing, security, or compliance processes early in the development lifecycle, nor does it provide insights into the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:19:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily addresses a specific technical issue related to a VSS import error and provides a workaround. It does not discuss Continuous Improvement principles, nor does it reflect on processes, team effectiveness, or empirical evidence. The focus is on troubleshooting rather than fostering a culture of experimentation or learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:19:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to a specific error during a VSS import process. It does not mention or align with the principles of Common Goals in Agile or DevOps, nor does it provide any discussion on shared objectives or strategic alignment. The focus is entirely on troubleshooting a technical problem, which is outside the scope of the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:19:27",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on a technical issue related to a specific error during a VSS import process. While it discusses a workaround for the error, it does not address the principles of competence, continuous learning, or skill development in Agile or DevOps environments. The mention of a workaround does not delve into the importance of competence or professional development, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

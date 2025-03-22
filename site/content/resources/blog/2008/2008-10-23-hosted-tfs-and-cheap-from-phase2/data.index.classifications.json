@@ -79,14 +79,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T07:27:57",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-22T09:39:14",
+    "ai_confidence": 25.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses a hosted TFS service, which is related to version control and project management tools often used in DevOps. However, it lacks a direct focus on DevOps principles, practices, or cultural shifts. The mention of TFS and its features does not delve into automation, CI/CD, or the collaborative aspects of DevOps, resulting in a low confidence score.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses a hosted TFS solution and its features, which is more focused on a specific tool rather than the broader DevOps philosophy. While it mentions aspects like support and custom bundles, it lacks a discussion on key DevOps principles such as collaboration, automation, or shared accountability. The mention of TFS does not align with the core themes of DevOps, and the depth of discussion is limited to service offerings rather than the cultural or process-oriented aspects of DevOps.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -118,11 +118,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:32:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:39:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a hosted TFS service and its features, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses hosted TFS solutions and does not engage with the Agile Product Operating Model. While it mentions tools that could be used in an agile context, it lacks any direct references to agile principles, product management practices, or the core themes of the Agile Product Operating Model. The focus is on service offerings rather than the integration of agile methodologies with product management.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -178,11 +181,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:32:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:39:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a service offering related to TFS hosting and does not focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a hosted TFS service and its features, with no explicit mention of Evidence-Based Management principles or metrics. While it touches on aspects of productivity and service offerings, it lacks a focus on empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -251,7 +257,7 @@
     "reasoning": "Content primarily discusses the hosting service for TFS and related offerings, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:32:28",
     "ai_confidence": 0,
@@ -913,11 +919,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:37:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:39:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the hosting service for TFS and related features, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses hosted TFS solutions and related services, with no explicit mention of Continuous Delivery principles or practices. While it touches on aspects of software hosting and support, it lacks a focus on the core themes of Continuous Delivery, such as automation, incremental improvements, or rapid feedback. The discussion is more about service offerings than the Continuous Delivery methodology.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1461,6 +1470,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a hosted TFS service and its features, with no explicit mention of the Shift-Left Strategy or its principles. While it touches on aspects of software development, such as backup and server capabilities, it does not address integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:39:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting a hosted TFS service and does not discuss Continuous Improvement principles. While it mentions productivity and support, these are not explored in the context of Continuous Improvement methodologies or practices. There is no empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation present in the content.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:39:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a review of a hosted TFS service and does not discuss Common Goals or their significance in Agile or DevOps. While it mentions team productivity, it lacks any explicit connection to shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:39:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a hosted TFS service and its features, with minimal discussion on competence or skill development. While it mentions support and training, these are not explored in depth or connected to the broader themes of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

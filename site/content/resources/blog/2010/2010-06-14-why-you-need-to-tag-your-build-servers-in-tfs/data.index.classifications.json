@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:34:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:54:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses build server management and tagging in TFS, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical aspects of managing build servers in TFS, discussing tagging and server management without any reference to evidence-based management principles or metrics. It lacks direct mentions of EBM concepts such as current value, time to market, or empirical decision-making.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,14 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:35:56",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-03-22T08:54:22",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
-    "reasoning": "The content discusses the management of build servers and the use of tags in a continuous integration environment, which aligns with DevOps principles. However, while it touches on automation and the need for collaboration among geographically diverse teams, it lacks a broader discussion on cultural shifts, metrics, or tools that are central to DevOps. The focus is primarily on technical implementation rather than the holistic integration of people and processes.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the management of build servers in TFS, which relates to automation and efficiency in software development, key aspects of DevOps. However, it primarily focuses on specific practices and tools rather than the broader philosophy and cultural shifts of DevOps. While it touches on collaboration and complexity management, it lacks a comprehensive exploration of DevOps principles, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -329,7 +332,7 @@
     "reasoning": "Content primarily discusses the management of build servers and tagging in TFS, without a focus on Systems Thinking principles or interconnectedness within organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:35:03",
     "ai_confidence": 0,
@@ -340,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:35:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:54:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses build server management and technical practices related to TFS, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the technical aspects of managing build servers in TFS, focusing on tagging and operational efficiency. It does not address the Agile Product Operating Model or its principles, nor does it mention product management practices or agile methodologies. The discussion is more aligned with traditional project management and technical implementation rather than the core themes of APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,14 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T06:56:11",
+    "calculated_at": "2025-03-22T08:54:37",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
     "final_score": 38.0,
-    "reasoning": "The content discusses build servers and tagging in TFS, which relates to automation and managing build environments, but it lacks a direct focus on Continuous Delivery principles. While it touches on aspects of maintaining a production-ready state and the importance of build processes, it does not delve into broader Continuous Delivery methodologies or practices. The discussion is more about operational details rather than the overarching principles of Continuous Delivery.",
+    "reasoning": "The content discusses the management of build servers in TFS, which is related to Continuous Delivery practices, particularly in terms of automation and deployment efficiency. However, it lacks a direct focus on Continuous Delivery principles, such as rapid feedback, incremental improvements, or cultural aspects. The discussion is more about server management than the broader Continuous Delivery framework, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1497,6 +1503,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the management of build servers and the use of tags in a TFS environment. While it touches on aspects of software development processes, it does not explicitly address the Shift-Left Strategy or its core principles, such as early integration of testing, security, or compliance. The focus is more on operational efficiency rather than proactive quality assurance, which is central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:54:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of tagging build servers in TFS to manage complexity and improve efficiency, which aligns with the principles of Continuous Improvement. However, it primarily focuses on technical implementation rather than broader strategies or cultural aspects of Continuous Improvement. The discussion lacks depth in exploring how these practices contribute to team effectiveness or organisational processes, resulting in a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:54:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of managing build servers in TFS, discussing tagging and server management without addressing the concept of Common Goals in Agile or DevOps. While it touches on team coordination, it lacks a clear connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:54:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the technical aspects of tagging build servers in TFS, focusing on managing complexity and improving efficiency. While it touches on the need for organisation and clarity in development environments, it does not explicitly address continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The discussion lacks depth regarding the principles of professionalism and quality delivery, which are central to the competence category.",
     "level": "Ignored"
   }
 }

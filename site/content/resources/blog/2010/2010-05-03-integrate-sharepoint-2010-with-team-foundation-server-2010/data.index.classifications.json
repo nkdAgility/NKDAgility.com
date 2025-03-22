@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:44:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:55:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical integration of SharePoint 2010 with Team Foundation Server 2010, without any focus on evidence-based management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, lacking any discussion on Evidence-Based Management principles or metrics. There are no direct mentions of EBM concepts such as current value, time to market, or empirical decision-making, and the depth of discussion is entirely centred on installation and configuration processes.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T06:58:29",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "calculated_at": "2025-03-22T08:55:37",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, which is a specific implementation detail rather than a broader discussion of DevOps principles. While it touches on aspects of collaboration between tools (TFS and SharePoint), it lacks a comprehensive exploration of DevOps practices, cultural shifts, or metrics. The discussion is more about configuration and setup rather than the overarching themes of DevOps.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, which is more aligned with project management and specific tool usage rather than the broader DevOps philosophy. While it touches on collaboration aspects, it lacks a comprehensive discussion on DevOps principles such as automation, shared accountability, or cultural shifts necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +323,7 @@
     "reasoning": "Content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, lacking discussions on Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:45:30",
     "ai_confidence": 0,
@@ -331,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:45:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:55:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical integration of SharePoint 2010 with Team Foundation Server 2010, with no focus on Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, which is more aligned with traditional project management and technical setup rather than the Agile Product Operating Model. There are no direct mentions of agile principles, product management practices, or the core themes of APOM. The discussion lacks depth in relation to agile methodologies or product-oriented mindsets.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -409,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:54:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:55:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of SharePoint 2010 with Team Foundation Server 2010, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on integrating SharePoint 2010 with Team Foundation Server 2010, which is more about project management and collaboration rather than Continuous Delivery practices. While it touches on aspects of software integration, it does not discuss Continuous Delivery principles, automation, or the delivery of incremental improvements, which are central to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1446,6 +1455,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, without any discussion of integrating testing, security, or compliance earlier in the software development lifecycle. It does not address the principles, benefits, or methodologies associated with the Shift-Left Strategy, nor does it provide any case studies or metrics related to software quality and delivery speed.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:55:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, lacking any discussion on Continuous Improvement principles. There are no direct mentions of continuous improvement practices, empirical evidence, or strategies for fostering a culture of experimentation. The content does not align with the core themes of Continuous Improvement, nor does it provide any depth in this area.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:55:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, lacking any explicit discussion of Common Goals within Agile or DevOps frameworks. While it touches on project management and collaboration, it does not address shared objectives, alignment, or strategic goals, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:55:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, lacking explicit discussions on competence, continuous learning, or skill development. While it touches on configuration and installation processes, it does not delve into the importance of competence in Agile or DevOps contexts, nor does it provide strategies for fostering a culture of competence.",
     "level": "Ignored"
   }
 }

@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:24:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:52:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and opinions regarding contact syncing services, lacking a focus on evidence-based management principles or empirical data.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses strategies for syncing contacts across various platforms, focusing on personal experiences with different applications. It does not engage with the principles of Evidence-Based Management, such as data-informed decision-making or metrics related to current value, time to market, or ability to innovate. The discussion lacks empirical evidence or metrics that would align with the core themes of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T00:24:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:52:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses contact syncing solutions and personal experiences with various applications, which is unrelated to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses strategies for syncing contacts across various platforms, which is unrelated to DevOps principles or practices. There are no direct mentions of DevOps concepts, and the discussion lacks depth in any relevant areas such as automation, collaboration, or continuous improvement that are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -317,7 +323,7 @@
     "reasoning": "Content primarily discusses personal experiences and solutions related to contact syncing, lacking a focus on Systems Thinking principles or organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:25:25",
     "ai_confidence": 0,
@@ -328,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:25:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:52:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses contact syncing solutions and personal experiences with various applications, with no relevance to Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses strategies for syncing contacts across various platforms, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM definition. The focus is on personal contact management rather than organisational effectiveness or customer-centric value delivery.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T01:06:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:52:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses contact synchronization services and personal experiences with them, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses strategies for syncing contacts across various platforms, which is unrelated to Continuous Delivery. There are no direct mentions of Continuous Delivery principles, practices, or tools, and the discussion lacks depth in any relevant areas such as automation, testing, or deployment.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1440,6 +1452,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses contact syncing services and personal experiences with various applications, which is unrelated to the Shift-Left Strategy in software development. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it explore any principles or benefits associated with the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:52:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on syncing contacts across various platforms and does not explicitly discuss Continuous Improvement principles. While there are elements of seeking better solutions and improving processes, these are not framed within the context of Continuous Improvement methodologies or philosophies. The discussion lacks depth in terms of empirical evidence, data-driven decision-making, or a culture of experimentation, which are key aspects of the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:52:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses personal experiences and strategies for syncing contacts across various platforms, which does not align with the principles of Common Goals in Agile and DevOps. While it mentions the concept of a 'single point of truth,' it lacks a focus on shared objectives, team alignment, or strategic execution relevant to Agile frameworks. The discussion is more about individual technical solutions rather than collective goals or team dynamics.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:52:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses strategies for syncing contacts across various platforms, which does not directly relate to the concept of competence in Agile, Scrum, DevOps, or Lean methodologies. While there are mentions of tools and services, there is no focus on continuous learning, skill development, or the professional principles associated with competence. The discussion lacks depth and does not align with the key topics outlined in the competence category.",
     "level": "Ignored"
   }
 }

@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:49:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:33:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses enabling Google Plus Profiles for Google Apps users, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on enabling Google+ profiles for Google Apps users, with no direct mention of Evidence-Based Management or its key topics. It lacks any discussion on data-informed decision-making or empirical evidence, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T21:49:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:33:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses enabling Google+ profiles for Google Apps users, which is unrelated to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on enabling Google+ profiles for Google Apps users, which is unrelated to DevOps principles or practices. There are no direct mentions of DevOps, and the discussion does not align with any core themes of the DevOps philosophy, such as collaboration, automation, or shared accountability. The content is primarily instructional and does not delve into any relevant DevOps concepts.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -308,7 +314,7 @@
     "reasoning": "Content primarily discusses enabling Google Plus Profiles for Google Apps users, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:50:08",
     "ai_confidence": 0,
@@ -319,11 +325,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T21:50:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:33:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses enabling Google+ profiles for Google Apps users, which is unrelated to the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on enabling Google+ profiles for Google Apps users, with no mention or discussion of agile methodologies, product management principles, or the Agile Product Operating Model. It does not align with any of the key topics outlined in the category description.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -391,11 +400,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:41:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:33:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on enabling Google Plus Profiles and does not discuss any principles or practices related to Continuous Delivery.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on enabling Google+ profiles for Google Apps users, which is a specific task related to user management rather than Continuous Delivery. There are no direct mentions of Continuous Delivery principles, practices, or related topics. The content lacks any discussion on automation, incremental improvements, or software quality, which are core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1416,6 +1428,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content focuses on enabling Google+ profiles for Google Apps users and does not discuss any aspects of the Shift-Left Strategy in software development. There are no direct mentions of testing, security, or compliance processes, nor does it align with the core themes of integrating these elements earlier in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:33:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on enabling Google+ profiles for Google Apps users, providing step-by-step instructions without any discussion on Continuous Improvement principles, methodologies, or practices. There are no mentions of empirical evidence, data-driven decision-making, or a culture of experimentation, which are core to the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:33:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on enabling Google+ profiles for Google Apps users, providing step-by-step instructions without any discussion of Common Goals, Agile, or DevOps principles. There are no direct mentions of shared objectives or alignment strategies, and the content lacks depth in relation to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:33:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on enabling Google+ profiles for Google Apps users, providing step-by-step instructions without any discussion on competence, continuous learning, or skill development. There are no direct mentions of competence or its related themes, and the depth of discussion is limited to procedural guidance.",
     "level": "Ignored"
   }
 }

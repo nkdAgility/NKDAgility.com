@@ -33,8 +33,7 @@ tags:
 - Software Development
 - System Configuration
 - Continuous Integration
-categories:
-- DevOps
+categories: []
 preview: naked-alm-jenkins-logo-9-9.png
 
 ---

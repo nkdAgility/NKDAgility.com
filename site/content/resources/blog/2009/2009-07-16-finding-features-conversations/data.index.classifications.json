@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:23:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:15:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features of email conversations and personal experiences with software, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses features of Office 2010 and email conversations, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and provides minimal depth on any relevant topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:23:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:15:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features of email conversations and personal experiences with software, with no relevance to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses features of Office 2010 and email conversations, with no direct mention of DevOps principles, practices, or cultural shifts. It lacks alignment with the core themes of DevOps, such as collaboration, automation, or shared accountability, and provides minimal depth on any related topics.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -305,7 +311,7 @@
     "reasoning": "Content primarily discusses email features and personal experiences with software, lacking any focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:23:43",
     "ai_confidence": 0,
@@ -316,11 +322,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:23:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:15:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features of email conversations and personal experiences with software, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses features of Office 2010 and email conversations, with no relevant mention of agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any alignment with the core themes of APOM and does not provide any depth on the subject matter.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -388,11 +397,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T03:05:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:15:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features of email conversation management and experiences with software installation, with no relevance to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses features of Office 2010 and email conversations, with no direct mention or relevant discussion of Continuous Delivery principles, practices, or tools. It lacks any alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality. The depth of discussion is minimal and focused on user experience rather than software delivery practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1413,6 +1425,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses personal experiences with email features and does not mention or align with the Shift-Left Strategy in software development. There are no relevant discussions on testing, security, or compliance processes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:15:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on features of Office 2010 and personal experiences with email conversations, lacking any discussion on Continuous Improvement principles or practices. There are no direct mentions of Continuous Improvement, and the content does not align with the core themes such as data-driven decision-making or fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:15:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences and features of Office 2010, with no discussion of Common Goals, Agile, or DevOps principles. It lacks any strategic alignment or shared objectives, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:15:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses features of Office 2010 and email conversations, with no explicit mention of competence or related themes. It lacks depth and alignment with the principles of continuous learning, skill development, or professionalism.",
     "level": "Ignored"
   }
 }

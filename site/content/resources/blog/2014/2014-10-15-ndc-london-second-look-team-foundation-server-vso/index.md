@@ -42,8 +42,7 @@ tags:
 - Azure DevOps
 - Scrum Product Development
 - Working Software
-categories:
-- DevOps
+categories: []
 preview: metro-event-icon-7-7.png
 
 ---

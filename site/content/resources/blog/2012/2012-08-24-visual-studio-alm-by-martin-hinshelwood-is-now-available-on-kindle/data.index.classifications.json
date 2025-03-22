@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:36:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:09:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the availability of a book on Kindle and does not address Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a book about Application Lifecycle Management (ALM) without any discussion of Evidence-Based Management principles or metrics. There are no direct mentions or relevant themes related to EBM, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T19:36:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:09:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on promoting a book available on Kindle, with no relevant discussion on DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a book about Application Lifecycle Management (ALM) without any explicit discussion of DevOps principles, practices, or cultural shifts. While ALM can relate to DevOps, the content does not delve into the core themes of DevOps, such as collaboration, automation, or shared accountability, and lacks depth in discussing these concepts.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -308,7 +314,7 @@
     "reasoning": "Content primarily discusses the availability of a book on Kindle and does not address Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:37:07",
     "ai_confidence": 0,
@@ -319,11 +325,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:37:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:09:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the availability of a book on Kindle, with no relevant information on Agile principles or product operating models.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a book about Application Lifecycle Management (ALM) and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related topics that align with the APOM framework.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -394,11 +403,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:00:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:09:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a Kindle publication without reference to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily promotes a book on Application Lifecycle Management (ALM) and does not discuss Continuous Delivery principles, practices, or related topics. There are no direct mentions of Continuous Delivery, and the content lacks any depth or alignment with the key themes outlined for this category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1416,6 +1428,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on promoting a Kindle version of a blog and does not discuss any aspects of the Shift-Left Strategy, such as integrating testing or security early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:09:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a book about Visual Studio ALM and does not discuss Continuous Improvement principles, methodologies, or practices. There are no direct mentions or relevant themes related to Continuous Improvement, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:09:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a book about Application Lifecycle Management (ALM) and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth on any relevant topics.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:09:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a book about ALM (Application Lifecycle Management) without discussing competence, continuous learning, or any related themes. There are no direct mentions or relevant discussions that align with the principles of competence in Agile or DevOps.",
     "level": "Ignored"
   }
 }

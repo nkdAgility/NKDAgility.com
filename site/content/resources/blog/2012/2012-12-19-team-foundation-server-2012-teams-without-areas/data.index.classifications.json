@@ -40,15 +40,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T05:27:42",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-22T07:59:57",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the concept of Continuous Delivery in the context of using Team Foundation Server (TFS) to manage teams and products. It mentions the importance of having automated tests and deployment processes, which aligns with Continuous Delivery principles. However, the primary focus is on TFS configuration and team management rather than a comprehensive exploration of Continuous Delivery practices, resulting in a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content briefly mentions continuous delivery in the context of TFS configuration and team management, but the primary focus is on configuring teams without areas in TFS rather than exploring the principles, practices, or benefits of Continuous Delivery. While it touches on aspects like automation and team efficiency, it lacks a detailed discussion on Continuous Delivery as a disciplined practice.",
+    "level": "Tertiary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -1087,11 +1087,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:25:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:59:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on technical configurations and usage of TFS (Team Foundation Server) without discussing empirical evidence or data-driven management principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on configuring Teams in TFS without areas, which is more about technical implementation than evidence-based management practices. While it touches on aspects of team efficiency and project management, it lacks direct references to empirical decision-making, current value metrics, or any of the key topics outlined in the Evidence-Based Management category. The discussion is largely procedural and does not engage with the strategic implications of data-informed decision-making.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -1180,15 +1183,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:51:08",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "calculated_at": "2025-03-22T07:59:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the configuration of Team Foundation Server (TFS) and the use of a 'team field' in relation to managing teams and products. While it touches on aspects of team collaboration and workflow management, it lacks a direct focus on core DevOps principles such as Continuous Integration (CI), Continuous Delivery (CD), or automation practices. The discussion is more centred around project management and TFS configuration rather than the broader DevOps culture and practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on configuring Teams in TFS (Team Foundation Server) for project management, which is more aligned with project management practices than the core principles of DevOps. While it touches on aspects of team collaboration and workflow optimisation, it lacks a strong emphasis on the broader DevOps philosophy, such as automation, continuous delivery, or shared accountability. The discussion is more technical and specific to TFS configurations rather than the cultural and process-oriented aspects of DevOps.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1382,7 +1385,7 @@
     "reasoning": "Content primarily discusses technical configurations for using Teams in TFS, focusing on project management and implementation details, rather than exploring interconnected systems or holistic analysis.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-03-15T05:27:39",
     "ai_confidence": 32.0,
@@ -1396,11 +1399,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:25:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:59:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content predominantly focuses on configuring Team Foundation Server (TFS) for team management without explicitly discussing Agile Product Operating Model principles or practices related to value delivery and product-centric development.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on configuring Teams in TFS for project management, which is more aligned with traditional project management practices rather than the Agile Product Operating Model. While there are mentions of teams and workflows, the discussion lacks a clear connection to the core principles of APOM, such as continuous delivery, product-oriented mindset, or evidence-based management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -1497,6 +1503,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the configuration of Team Foundation Server (TFS) and the use of team fields without areas, which does not directly address the principles or practices of the Shift-Left Strategy. While there are mentions of testing and team configurations, the focus is on TFS setup rather than integrating testing, security, or compliance earlier in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:59:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on configuring Teams without areas in TFS, which is more about specific technical implementation rather than a broader discussion on Continuous Improvement principles. While it touches on enhancing project management and team efficiency, it lacks a strong emphasis on empirical evidence, data-driven decision-making, or a culture of experimentation and learning that are central to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:59:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on configuring Teams without areas in TFS, which is a technical implementation detail rather than a discussion on Common Goals. While it touches on team configurations, it lacks explicit discussions on shared objectives, alignment, or strategic goals that are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:59:52",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on configuring Teams without areas in TFS, which is more about technical implementation than discussions on competence. While it touches on aspects of team efficiency and workflow optimisation, it lacks a direct emphasis on continuous learning, skill development, or the professional growth of team members, which are core themes of competence. The depth of discussion is more procedural and technical rather than reflective of competence as a foundational principle.",
     "level": "Ignored"
   }
 }

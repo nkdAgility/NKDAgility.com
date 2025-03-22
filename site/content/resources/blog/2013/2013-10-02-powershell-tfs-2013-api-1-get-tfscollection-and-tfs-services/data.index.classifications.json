@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:37:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:33:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses using PowerShell to interact with the TFS 2013 API, focusing on technical implementation rather than evidence-based management principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on using PowerShell with the TFS 2013 API, detailing technical implementations and functions without any discussion on Evidence-Based Management principles or metrics. There are no direct mentions of data-informed decision-making or the key topics outlined in the EBM category. The content lacks alignment with the core themes of EBM, and the depth of discussion is entirely technical, with no reference to empirical evidence or management strategies.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T04:47:01",
+    "calculated_at": "2025-03-22T07:32:59",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, which is more aligned with software development and scripting rather than the broader principles of DevOps. While it touches on aspects of version control and project management, it lacks a comprehensive discussion on DevOps practices, automation, or cultural shifts necessary for DevOps implementation. The mention of TFS and its services does not sufficiently connect to the core themes of DevOps, leading to a low confidence score.",
+    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, which is more aligned with specific tooling and scripting rather than the broader DevOps philosophy. While it touches on aspects of automation and integration with TFS, it lacks a discussion on the cultural and collaborative principles of DevOps. The depth of technical detail is significant, but it does not engage with the core themes of DevOps such as shared accountability or continuous improvement.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +323,7 @@
     "reasoning": "Content primarily focuses on using PowerShell to interact with the TFS 2013 API, detailing specific functions and assemblies without discussing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T11:38:09",
     "ai_confidence": 0,
@@ -331,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T11:38:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:33:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses using PowerShell to interact with the TFS 2013 API, focusing on technical implementations rather than Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on using PowerShell with the TFS 2013 API, discussing technical aspects of managing TFS collections and services. It does not mention or align with the Agile Product Operating Model, its principles, or any related topics. The discussion is strictly technical and does not address product management or agile methodologies.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -409,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:30:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:33:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on using PowerShell with the TFS API, covering assembly imports and functions, rather than discussing principles or practices of Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, detailing specific functions and code snippets for managing TFS collections and services. While it touches on aspects of software development, it does not explicitly discuss Continuous Delivery principles, practices, or benefits. The mention of TFS (Team Foundation Server) and its API does not align with the core themes of Continuous Delivery, such as automation in testing and deployment, or rapid feedback from users. Overall, the content lacks depth in discussing Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1452,6 +1461,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, detailing specific functions and assemblies without discussing the Shift-Left Strategy or its principles. There are no mentions of integrating testing, security, or compliance early in the development process, nor any techniques or case studies related to Shift-Left practices. The content is more about technical implementation rather than strategic discussions relevant to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:33:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, detailing specific functions and code examples. While there is a mention of building a library of PowerShell statements, which could imply a form of iterative improvement, the overall discussion lacks a clear emphasis on Continuous Improvement principles such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The content does not provide substantial depth or alignment with the key topics outlined for Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:33:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, detailing specific functions and code snippets. It does not discuss Common Goals, Agile, or DevOps principles, nor does it address alignment or shared objectives within teams. The content is technical and instructional, lacking any connection to the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:33:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for using PowerShell with the TFS 2013 API. While it demonstrates a level of competence in programming and API interaction, it does not explicitly discuss the importance of continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The mention of building a library of PowerShell statements hints at skill development but lacks depth and direct alignment with the core themes of competence as defined in the category.",
     "level": "Ignored"
   }
 }

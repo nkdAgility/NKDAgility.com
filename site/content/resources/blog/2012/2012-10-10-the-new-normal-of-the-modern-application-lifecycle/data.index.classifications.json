@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T16:51:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:04:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the evolution of software development practices and the impact of consumerisation on IT, without a clear focus on Evidence-Based Management principles or empirical data-driven decision-making.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the evolution of software development and the importance of agility in IT, but it lacks a direct focus on Evidence-Based Management principles. While it touches on the need for organisations to adapt and deliver value, it does not provide empirical evidence or metrics that align with the key topics of EBM. The discussion is more about general trends and frustrations in the industry rather than a structured approach to data-informed decision-making.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -136,14 +139,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:14:16",
+    "calculated_at": "2025-03-22T08:04:41",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 50,
     "final_score": 65.0,
-    "reasoning": "The content discusses the evolution of software development practices, touching on concepts like continuous delivery and the importance of adapting processes and tools to meet modern demands. However, while it mentions Agile and the need for collaboration, it lacks a focused discussion on specific DevOps principles, practices, or tools, which limits its alignment with the DevOps category.",
+    "reasoning": "The content discusses the evolution of software development and the importance of adapting to new methodologies, which aligns with some DevOps principles. However, it primarily focuses on Agile practices and the changing landscape of IT rather than explicitly addressing DevOps as a philosophy or its core practices. The mention of continuous delivery and the need for collaboration hints at DevOps, but the overall emphasis is more on Agile and general software development trends.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -347,7 +350,7 @@
     "reasoning": "Content primarily discusses the evolution of software development practices and the impact of consumerisation on IT, without a clear focus on Systems Thinking principles or methodologies.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-14T16:52:16",
     "ai_confidence": 0,
@@ -358,14 +361,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T05:37:57",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-22T08:04:52",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
-    "reasoning": "The content discusses the evolution of software development practices and mentions Agile principles, but it primarily focuses on the broader context of the application lifecycle and consumerisation of IT rather than specifically addressing the Agile Product Operating Model. While there are references to agility and the need for organisations to adapt, the discussion lacks depth in terms of product-centric development and specific strategies for value delivery in product teams.",
+    "final_score": 31.0,
+    "reasoning": "The content discusses agile methodologies and the importance of adapting to a new normal in software development, but it lacks a focused exploration of the Agile Product Operating Model specifically. While it touches on agility and the evolution of IT roles, it does not delve into the principles or practices of APOM, nor does it provide a structured discussion on product management integration. The references to agile practices are more general and do not align closely with the key topics outlined for the APOM category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -445,12 +448,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T08:04:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the shift towards continuous delivery in the context of modern software development practices, particularly highlighting its importance for companies like Microsoft and Google. However, the primary focus is on broader themes of agility and the changing landscape of IT rather than a detailed exploration of Continuous Delivery principles and practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the evolution of software delivery practices, including a mention of continuous delivery as a significant change in the industry. It highlights the need for organisations to adapt their development and release processes to remain competitive, which aligns with the principles of Continuous Delivery. However, the discussion is broad and includes various aspects of software development and Agile practices, making Continuous Delivery a secondary focus rather than the primary theme.",
+    "level": "Secondary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -1536,6 +1542,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses the evolution of software development practices and the importance of adapting to new consumer demands, but it does not explicitly mention the Shift-Left Strategy or its principles. While there are references to Agile and continuous delivery, the focus is more on general trends in software development rather than on integrating testing, security, and compliance earlier in the lifecycle. Therefore, the alignment with the Shift-Left Strategy is minimal.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:04:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the evolution of software development and the necessity for organisations to adapt to the 'new normal'. While it touches on themes of change and adaptation, it lacks a focused discussion on Continuous Improvement principles, such as empirical evidence, specific techniques for fostering a culture of experimentation, or detailed strategies for integrating Continuous Improvement into processes. The mention of Agile methodologies is present but is more critical than constructive, which detracts from a positive alignment with Continuous Improvement.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:04:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the evolution of software development and the importance of adapting to changes in the industry, but it lacks a focused discussion on Common Goals as defined in the category. While it touches on Agile principles and the need for alignment in IT, it does not delve deeply into how shared objectives guide decision-making or connect individual contributions to the overall mission of the organisation. The mention of Agile practices is more about critique than about establishing a framework for Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:04:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the evolving landscape of software development and the necessity for organisations to adapt to remain relevant. While it touches on the importance of agility and the need for continuous improvement, it does not explicitly focus on competence as a primary theme. The discussion is more about the changes in the industry and the role of IT rather than a deep exploration of competence, skill development, or strategies for fostering a culture of competence.",
     "level": "Ignored"
   }
 }

@@ -79,11 +79,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T10:54:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:31:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the TFS Event Handler and its features, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the TFS Event Handler and its features, which are related to Team Foundation Server notifications. While it touches on aspects of team collaboration, it does not explicitly discuss DevOps principles or practices. The mention of improving team collaboration is too vague and does not align with the core themes of DevOps, such as automation, shared accountability, or continuous improvement. Therefore, the confidence score reflects a very low alignment with the DevOps category.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -115,11 +118,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T10:54:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:32:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the TFS Event Handler and its features, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a specific tool (TFS Event Handler) and its features, which are not directly related to the Agile Product Operating Model. There are no explicit mentions of agile principles, product management practices, or the transition from project to product ethos. The focus is on technical improvements and notifications rather than the broader concepts of APOM.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -175,11 +181,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T10:54:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:32:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the TFS Event Handler and its features, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the release of a software tool (TFS Event Handler) and its features, focusing on notifications and user collaboration. There are no explicit mentions of Evidence-Based Management principles or metrics, nor does it engage with the core themes of data-informed decision-making or empirical evidence. The discussion lacks depth regarding EBM, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -248,7 +257,7 @@
     "reasoning": "Content primarily discusses the features and updates of the TFS Event Handler, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T10:54:58",
     "ai_confidence": 0,
@@ -901,11 +910,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:56:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:32:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on TFS Event Handler and notifications for work items, without mention of Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the release of a specific tool (TFS Event Handler v1.3) and its features, focusing on notifications and user collaboration within Team Foundation Server. While it touches on aspects of software delivery, such as deployment and user notifications, it does not explicitly address Continuous Delivery principles, practices, or the broader context of delivering software in reliable cycles. The discussion lacks depth in Continuous Delivery concepts and does not provide insights into automation, rapid feedback, or cultural aspects related to Continuous Delivery.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1449,6 +1461,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the TFS Event Handler and its features, with no explicit mention of the Shift-Left Strategy or its principles. While it touches on aspects of work item management in Team Foundation Server, it does not address integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:31:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a software tool (TFS Event Handler v1.3) and its features, such as simplifying notifications and improving team collaboration. While there are elements that could contribute to team effectiveness, such as streamlining alerts, the discussion lacks a direct focus on Continuous Improvement principles, empirical evidence, or a culture of experimentation. The content does not provide substantial detail on strategies or frameworks related to Continuous Improvement, nor does it engage with the broader themes of business agility or learning. Therefore, the confidence score reflects a minimal alignment with the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:32:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of the TFS Event Handler and its features, such as simplifying notifications and improving collaboration. While it mentions team collaboration, it does not explicitly discuss the concept of Common Goals or how they align with Agile and DevOps principles. The discussion lacks depth and does not connect to strategic objectives or frameworks like OKRs, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:32:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of the TFS Event Handler and its functionalities, with no explicit discussion on competence, continuous learning, or skill development. While it mentions improving team collaboration, it does not delve into the principles of professionalism or quality delivery that are central to the concept of competence.",
     "level": "Ignored"
   }
 }

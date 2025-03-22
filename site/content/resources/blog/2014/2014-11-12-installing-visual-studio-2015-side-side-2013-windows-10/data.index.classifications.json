@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T23:59:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:03:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2015 and does not discuss Evidence-Based Management or its key topics. There are no direct mentions of empirical decision-making, current value, or any other EBM concepts. The discussion is technical and practical, lacking any alignment with the principles of data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T23:59:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:03:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related tools, with no focus on DevOps principles, practices, or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2015 and does not discuss any DevOps principles, practices, or cultural shifts. While it mentions tools like Git and touches on development environments, it lacks a direct connection to the core themes of DevOps such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,22 +320,16 @@
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related software, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T00:00:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and personal experiences with software, with no focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T00:00:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:03:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related technical details, with no focus on Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2015 and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related topics. The only slight alignment is a brief mention of Scrum training, but it is not elaborated upon or connected to the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -400,11 +400,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T00:00:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:03:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related tools, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2015 alongside an older version, with no direct discussion of Continuous Delivery principles, practices, or benefits. While it touches on software development tools, it does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or user feedback. The depth of discussion is limited to installation tips and personal experiences, which are not relevant to Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1437,6 +1440,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2015 and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. While there are mentions of development tools and environments, these are not related to integrating testing, security, or compliance earlier in the software development lifecycle. The discussion lacks depth and relevance to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:03:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2015 and does not discuss Continuous Improvement principles. While there are mentions of updates and preferences, these are not tied to a culture of experimentation or learning, nor do they provide empirical evidence or strategies for improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:03:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2015 and does not discuss Common Goals, Agile, or DevOps principles. While there are brief mentions of personal experiences and preferences, these do not connect to the foundational principles of aligning strategy with execution or shared objectives within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:03:10",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2015 and does not discuss competence in terms of continuous learning, skill development, or professionalism. While there are brief mentions of preferences and experiences, these do not align with the core themes of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-22T07:03:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2015 and does not discuss the One Engineering System framework or its principles. There are no direct mentions of 1ES, and the discussion lacks alignment with the core themes of integration, standardisation, or best practices in software development. The depth of discussion is limited to installation tips and personal experiences, which are not relevant to the 1ES category.",
     "level": "Ignored"
   }
 }

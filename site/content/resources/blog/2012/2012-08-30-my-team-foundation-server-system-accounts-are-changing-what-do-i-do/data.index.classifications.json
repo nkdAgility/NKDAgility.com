@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:31:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:08:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses managing service accounts in Team Foundation Server and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on managing service accounts for Team Foundation Server (TFS) and does not discuss Evidence-Based Management or its key topics. There are no direct mentions of data-informed decision-making or empirical evidence, and the discussion lacks depth in relation to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:44:26",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "calculated_at": "2025-03-22T08:08:00",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on managing service accounts for Team Foundation Server (TFS) and does not explicitly discuss DevOps principles or practices. While it touches on aspects of system administration that could relate to DevOps, such as service account management, it lacks a broader discussion on collaboration, automation, or continuous delivery. The content is more operational in nature and does not delve into the cultural or process-oriented aspects of DevOps.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on managing service accounts for Team Foundation Server (TFS) and does not explicitly discuss DevOps principles or practices. While it touches on aspects of operational management, it lacks a broader discussion on collaboration, automation, or cultural shifts associated with DevOps. The mention of TFS could relate to DevOps tools, but the content does not align with the core themes of DevOps as a philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -317,7 +320,7 @@
     "reasoning": "Content primarily discusses managing service accounts for Team Foundation Server and does not address Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:32:00",
     "ai_confidence": 0,
@@ -328,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:32:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:08:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses managing service accounts for Team Foundation Server, which is unrelated to the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on managing service accounts for Team Foundation Server (TFS) and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related topics that align with the APOM framework. The content is strictly technical and operational, lacking any connection to the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -406,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:53:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:08:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses service accounts and configuration management for Team Foundation Server, which is not related to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on managing service accounts for Team Foundation Server (TFS) and does not discuss Continuous Delivery principles, practices, or benefits. It lacks direct mentions of Continuous Delivery and does not align with its core themes, such as automation, rapid feedback, or software quality. The depth of discussion is limited to account management, which is unrelated to Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1446,6 +1455,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses managing service accounts for Team Foundation Server (TFS) and does not address the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. The focus is on operational tasks rather than strategic software development practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:08:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on managing service accounts for Team Foundation Server and does not discuss Continuous Improvement principles or practices. There are no direct mentions of Continuous Improvement, nor does it align with the core themes such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is limited to technical instructions, lacking any strategic insights related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:08:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on managing service accounts for Team Foundation Server (TFS) and does not discuss Common Goals, Agile, or DevOps principles. It lacks any mention of shared objectives or alignment strategies, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:08:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 2,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on managing service accounts in TFS 2012, which does not directly address the principles of competence in Agile or DevOps. While it mentions the importance of managing accounts effectively, it lacks a discussion on continuous learning, skill development, or fostering a culture of competence. The content is more operational and procedural rather than strategic or developmental.",
     "level": "Ignored"
   }
 }

@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T09:19:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:18:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of deleting work items in TFS/VSO, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for deleting work items in TFS or VSO, with no direct mention or discussion of Evidence-Based Management principles. It lacks alignment with the core themes of EBM, such as data-informed decision-making or metrics related to value delivery. The depth of discussion is limited to practical coding advice, which does not contribute to the understanding of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T09:19:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:17:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses deleting work items in TFS/VSO, which is not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on deleting work items from TFS or VSO, which is a specific task related to project management rather than discussing DevOps principles or practices. While it touches on automation through code, it lacks a broader discussion on collaboration, shared accountability, or continuous improvement that are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -317,7 +323,7 @@
     "reasoning": "Content primarily discusses the technical process of deleting work items from TFS or VSO, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T09:19:55",
     "ai_confidence": 0,
@@ -328,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T09:19:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:18:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the deletion of work items in TFS/VSO, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on deleting work items from TFS or VSO, which is a technical task related to project management rather than discussing the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or the core themes of the APOM. The discussion is narrowly focused on a specific coding solution without any broader context or alignment with agile methodologies.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T09:57:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:18:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses deleting work items from TFS/VSO and provides a code example, with no relevance to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on deleting work items from TFS or VSO, which is a specific task related to project management rather than Continuous Delivery. There are no direct mentions of Continuous Delivery principles, practices, or related topics. The discussion lacks alignment with the core themes of Continuous Delivery, such as automation, rapid feedback, or software quality. Overall, the content does not provide any depth on Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1446,6 +1458,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on deleting work items from TFS or VSO, which is a specific operational task rather than discussing the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance earlier in the software development lifecycle, nor does it provide any insights into the principles, benefits, or methodologies associated with the Shift-Left approach. The content lacks depth and relevance to the category, making it unsuitable for classification under Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:18:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical guide for deleting work items in TFS or VSO, with no explicit discussion of Continuous Improvement principles. While it touches on efficiency and streamlining project management, it lacks a clear connection to the core themes of Continuous Improvement, such as empirical evidence, culture of experimentation, or strategies for organisational processes. The depth of discussion is minimal, as it mainly provides code examples and personal anecdotes without addressing Continuous Improvement concepts.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:18:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of deleting work items from TFS or VSO, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on project management, it lacks alignment with the core themes of shared objectives, strategic alignment, or team collaboration. The depth of discussion is limited to practical coding advice, which does not connect to the principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:18:08",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on technical instructions for deleting work items in TFS or VSO, with minimal reference to competence or skill development. While there is a brief mention of the author's experience and the importance of sharing knowledge, it lacks a thorough discussion on continuous learning, quality outcomes, or fostering a culture of competence. The depth of discussion is limited to practical coding advice rather than exploring the broader implications of competence in a professional context.",
     "level": "Ignored"
   }
 }

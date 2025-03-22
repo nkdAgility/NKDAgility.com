@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:53:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:13:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues and solutions related to SharePoint 2013 configuration, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to SharePoint 2013 configuration and does not discuss Evidence-Based Management or its principles. There are no direct mentions of data-informed decision-making, metrics, or any of the key topics associated with EBM. The content lacks depth and relevance to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T19:53:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:13:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint configuration issues and solutions, which are not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific SharePoint configuration issue and does not discuss DevOps principles, practices, or cultural shifts. While it mentions using PowerShell for configuration, it lacks any broader context related to collaboration, automation, or shared accountability that characterises DevOps discussions.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -311,7 +317,7 @@
     "reasoning": "Content primarily discusses technical issues and solutions related to SharePoint 2013 configuration, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:53:59",
     "ai_confidence": 0,
@@ -322,11 +328,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:54:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:13:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint configuration issues and solutions, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on resolving a technical issue related to SharePoint 2013 configuration and does not mention or align with any principles of the Agile Product Operating Model. It lacks any discussion of agile methodologies, product management, or the key topics outlined in the category description.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:30:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:13:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on configuring SharePoint 2013 and troubleshooting issues related to domain and account settings, without discussing Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific SharePoint configuration issue and does not discuss Continuous Delivery principles, practices, or related topics. There are no direct mentions of Continuous Delivery, and the content lacks alignment with its core themes such as automation, incremental improvements, or rapid feedback.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1431,6 +1443,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a specific issue related to configuring SharePoint 2013 and does not mention or align with the principles of the Shift-Left Strategy. It focuses on troubleshooting and solutions for a particular software setup rather than integrating testing, security, or compliance earlier in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:13:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to SharePoint 2013 configuration. It does not discuss Continuous Improvement principles, nor does it provide insights into processes, team effectiveness, or empirical evidence. The mention of a solution does not align with the broader themes of Continuous Improvement, and the depth of discussion is limited to a technical guide without any reflection or adaptation elements.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:13:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to SharePoint 2013 configuration and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, and the depth of discussion is limited to technical steps without any connection to team collaboration or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:13:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to SharePoint 2013 configuration. While it provides a step-by-step guide, it does not discuss competence, continuous learning, or skill development in Agile or DevOps contexts. The mention of using PowerShell commands indicates a level of technical skill but does not align with the broader themes of competence as defined in the category.",
     "level": "Ignored"
   }
 }

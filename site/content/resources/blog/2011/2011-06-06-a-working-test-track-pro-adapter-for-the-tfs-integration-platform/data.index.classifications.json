@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T22:44:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:41:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development of a Test Track Pro Adapter for the TFS Integration Platform, focusing on technical implementation and debugging rather than evidence-based management principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the development of a Test Track Pro Adapter for the TFS Integration Platform, detailing technical aspects and debugging processes. It does not discuss Evidence-Based Management principles, metrics, or data-informed decision-making, which are central to the category. The content lacks direct mentions of EBM concepts and does not provide depth in relation to the key topics outlined for Evidence-Based Management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,14 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T06:33:45",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "calculated_at": "2025-03-22T08:40:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the development of a specific adapter for the TFS Integration Platform, detailing technical aspects and debugging processes. While it touches on aspects of integration and change management, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The mention of TFS (Team Foundation Server) and migration processes hints at DevOps-related activities, but the content does not explicitly address key DevOps topics such as CI/CD, automation, or collaboration between development and operations teams.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the development of a specific adapter for the TFS Integration Platform, detailing technical aspects and debugging processes. While it may touch on themes relevant to DevOps, such as integration and workflow, it lacks a direct discussion of DevOps principles, practices, or cultural shifts. The content does not engage with the broader DevOps philosophy or its key topics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -332,7 +335,7 @@
     "reasoning": "Content primarily focuses on the development and debugging of a TFS Integration Platform Adapter, with no clear discussion of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T22:45:59",
     "ai_confidence": 0,
@@ -343,11 +346,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T22:46:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:41:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development and debugging of a TFS Integration Platform Adapter, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical implementation of a Test Track Pro Adapter for the TFS Integration Platform, with no direct references to the Agile Product Operating Model or its principles. While it may touch on aspects of agile methodologies indirectly through the context of work item management, it does not engage with the core themes or provide any substantial discussion relevant to the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -421,11 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T23:37:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:41:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on developing a TFS Integration Platform Adapter and debugging related issues, with no explicit mention or discussion of Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the development of a Test Track Pro Adapter for the TFS Integration Platform, detailing technical aspects and debugging processes. While it touches on incremental updates and change management, it lacks a direct discussion on Continuous Delivery principles, practices, or the role of automation in deployment. The content does not explore the broader themes of Continuous Delivery, such as rapid feedback, cultural aspects, or case studies, leading to a low confidence score in this category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1482,6 +1491,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the development of a TFS Integration Platform Adapter, detailing technical aspects and debugging processes. It does not explicitly discuss the Shift-Left Strategy or its principles, benefits, or techniques. While there may be some implicit references to improving processes through integration, these are not sufficiently developed to align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:40:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the development of a Test Track Pro Adapter for the TFS Integration Platform, detailing technical aspects and debugging efforts. While there are elements of incremental updates and improvements in the code, the discussion lacks a clear emphasis on Continuous Improvement principles such as empirical evidence, team effectiveness, or a culture of experimentation. The content does not engage with the broader themes of Continuous Improvement or Agile methodologies, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:40:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical implementation of a Test Track Pro Adapter for the TFS Integration Platform, detailing code and debugging processes. It does not discuss or align with the principles of Common Goals in Agile or DevOps, such as shared objectives, alignment, or strategic goals. The mention of achieving a goal is vague and does not connect to the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:40:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical implementation details of a Test Track Pro Adapter for the TFS Integration Platform, with no explicit discussion on competence, continuous learning, or skill development. While there are mentions of debugging and problem-solving, these do not directly relate to the principles of competence as defined in Agile and DevOps contexts.",
     "level": "Ignored"
   }
 }

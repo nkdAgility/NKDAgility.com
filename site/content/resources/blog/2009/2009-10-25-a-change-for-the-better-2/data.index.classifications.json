@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:53:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:08:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal career experiences and job roles, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the author's personal career journey and experiences rather than discussing Evidence-Based Management principles. While there are mentions of productivity and rules for improvement, these do not directly relate to empirical decision-making or the key topics outlined in the EBM category. The discussion lacks depth and does not provide metrics or data-driven insights that are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,14 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T07:18:54",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-22T09:08:06",
+    "ai_confidence": 25.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on personal experiences and job transitions rather than discussing DevOps principles or practices. While it mentions tools like TFS and Visual Studio, it lacks a direct discussion on DevOps concepts such as CI/CD, automation, or cultural shifts. The alignment with DevOps themes is minimal, and the depth of discussion does not provide substantial insights into DevOps practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the author's personal career journey and experiences rather than discussing DevOps principles or practices. While there are mentions of roles and responsibilities that could relate to DevOps, such as improving productivity and collaboration, these are not explored in the context of DevOps philosophy or its core themes. The discussion lacks depth regarding automation, shared accountability, or cultural shifts necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -338,7 +341,7 @@
     "reasoning": "Content primarily discusses personal career experiences and job roles rather than Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:53:50",
     "ai_confidence": 0,
@@ -349,11 +352,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:53:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:08:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal career experiences and roles rather than the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the author's personal career journey and experiences rather than discussing the Agile Product Operating Model. While there are mentions of productivity and rules for better work, these do not directly relate to the core principles or themes of the APOM. The content lacks detailed discussion on agile methodologies, product management practices, or the transition from project to product ethos, which are essential for a higher confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -433,11 +439,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:03:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:08:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal career experiences and tasks at Aggreko and SSW, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the author's personal career journey and experiences rather than discussing Continuous Delivery principles or practices. While there are mentions of roles related to software development and productivity, there is no explicit discussion of Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback. The content lacks depth in addressing the key topics outlined for the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1509,6 +1518,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on personal experiences and job transitions rather than discussing the Shift-Left Strategy. While there are mentions of improving processes and being proactive, these concepts are not explicitly tied to the Shift-Left approach, which emphasises early integration of testing, security, and compliance in software development. The discussion lacks depth and specific techniques related to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:08:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses personal experiences and changes in roles, touching on productivity and improvement through rules and standards. However, it lacks a focused discussion on Continuous Improvement principles, empirical evidence, or structured methodologies. While there are mentions of improving oneself and the workplace, these are not deeply explored or tied to a broader framework of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:08:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the author's personal journey and experiences transitioning between jobs, with minimal discussion on Common Goals within Agile or DevOps frameworks. While there are mentions of productivity and rules that could relate to team alignment, these are not explicitly connected to the principles of Common Goals. The content lacks depth in discussing how shared objectives guide decision-making or connect individual contributions to organisational missions.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:08:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the author's transition to a new role and mentions the importance of enjoying one's job and improving oneself, which aligns with the concept of competence. However, it lacks a direct focus on continuous learning or skill development, and the depth of discussion on competence is limited, primarily revolving around personal experiences rather than broader strategies or principles.",
     "level": "Ignored"
   }
 }

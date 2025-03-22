@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:04:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:34:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the implementation of WPF controls and does not address any DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on integrating specific UI controls (XamRibbon and Composite WPF) and does not discuss any DevOps principles, practices, or cultural shifts. There are no mentions of collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The discussion is technical and specific to WPF development, making it largely irrelevant to the DevOps category.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:04:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:34:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the implementation of WPF controls and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical advice for integrating specific WPF controls and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related topics that align with the APOM framework. The content is strictly technical and does not touch upon the key themes outlined in the category description.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -172,11 +178,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:04:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:34:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details of WPF controls and does not address Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical advice for integrating specific WPF controls and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of EBM concepts, and the discussion lacks depth in relation to data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -245,7 +254,7 @@
     "reasoning": "Content primarily discusses the implementation of WPF controls and does not address metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:05:10",
     "ai_confidence": 0,
@@ -898,11 +907,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:25:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:34:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the implementation of WPF controls and programming techniques, which is unrelated to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on integrating specific WPF controls and does not discuss Continuous Delivery principles, practices, or related topics. There are no direct mentions of Continuous Delivery, and the discussion lacks depth in any relevant areas such as automation, incremental improvements, or user feedback.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1440,6 +1452,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the implementation of WPF controls and does not address any aspects of the Shift-Left Strategy. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any insights into the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:34:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical advice for integrating specific WPF controls and does not discuss Continuous Improvement principles or practices. While there is a mention of potential enhancements, it lacks a structured approach to Continuous Improvement, empirical evidence, or a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:34:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical advice for integrating specific WPF controls and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth in relation to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:34:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical advice for integrating specific WPF controls and does not discuss competence, continuous learning, or skill development. While it may imply a level of expertise in using the technologies mentioned, it lacks explicit discussions on competence as defined in the category.",
     "level": "Ignored"
   }
 }

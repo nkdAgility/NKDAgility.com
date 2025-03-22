@@ -73,11 +73,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:34:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:40:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses workflow management and permissions in SharePoint, which does not align with DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on enabling user interaction with workflows in MySite, discussing permissions and task lists. While it touches on collaboration, it lacks a direct connection to DevOps principles such as automation, shared accountability, or continuous improvement. The discussion is more aligned with SharePoint functionalities rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -109,11 +112,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:34:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:40:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses workflow management and permissions in SharePoint, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on enabling user interaction with workflows in a SharePoint environment, discussing permissions and task lists. It does not mention or align with the Agile Product Operating Model or its principles, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -169,11 +175,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:34:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:40:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses workflow management and permissions in SharePoint, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on enabling user interaction with workflows in MySite, discussing permissions and task management. It does not explicitly mention Evidence-Based Management or its key topics, nor does it provide any empirical evidence or metrics related to decision-making or value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -239,7 +248,7 @@
     "reasoning": "Content primarily discusses workflow setup and permissions in SharePoint, with no focus on metrics, data analysis, or learning principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:35:10",
     "ai_confidence": 0,
@@ -889,11 +898,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:01:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:40:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses setting up workflows and permissions in SharePoint, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on enabling user interaction with workflows in SharePoint, discussing permissions and task lists. It does not explicitly mention Continuous Delivery or its principles, nor does it align with the core themes of Continuous Delivery such as automation, rapid feedback, or software quality. The discussion is more about collaboration and task management rather than software delivery practices.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1446,6 +1458,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on setting up workflows and managing permissions in SharePoint, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. While there are mentions of security risks, they do not align with the proactive principles of the Shift-Left Strategy. Overall, the content does not address the core themes or provide depth related to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:40:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on enabling user interaction with workflows in MySite, discussing permissions and task lists. While it touches on collaboration, it lacks a direct focus on Continuous Improvement principles, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The discussion is more operational and procedural rather than reflective or strategic, which is essential for Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:40:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for enabling user interaction with workflows on MySite, discussing permissions and task lists. While it touches on collaboration, it does not explicitly address the concept of Common Goals or their significance in Agile and DevOps frameworks. The discussion lacks depth in connecting individual contributions to overarching strategic objectives, which is essential for a higher confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:40:18",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on technical instructions for enabling user interaction with workflows on MySite, which does not directly address the concept of competence. While there are implications of collaboration and permissions that could relate to team effectiveness, the discussion lacks explicit references to continuous learning, skill development, or the professional principles outlined in the competence category.",
     "level": "Ignored"
   }
 }

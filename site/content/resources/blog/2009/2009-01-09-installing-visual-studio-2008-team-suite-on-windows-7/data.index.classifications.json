@@ -73,11 +73,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T10:41:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:28:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the installation process of Visual Studio 2008 on Windows 7, with no significant discussion on DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 on Windows 7, which is a technical task related to software setup rather than a discussion on DevOps principles or practices. There are no explicit mentions of DevOps concepts such as collaboration, automation, or shared accountability. The content lacks depth in discussing any DevOps-related themes, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -109,11 +112,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T10:41:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:29:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2008 on Windows 7, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the installation process of Visual Studio 2008 on Windows 7, with no references to agile methodologies, product management principles, or the Agile Product Operating Model. It does not discuss any relevant topics such as product delivery, operational stability, or continuous improvement, which are core to the category.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -169,11 +175,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T10:41:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:29:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2008 on Windows 7, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 on Windows 7, with no direct mentions or discussions related to Evidence-Based Management principles or metrics. It lacks any alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and provides minimal depth on any relevant topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -239,7 +248,7 @@
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2008 on Windows 7, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T10:42:05",
     "ai_confidence": 0,
@@ -886,11 +895,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:11:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:29:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2008 on Windows 7, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 on Windows 7, with no direct mention of Continuous Delivery principles or practices. While it touches on aspects of software setup, it lacks any discussion on automation, testing, deployment, or the cultural aspects of Continuous Delivery. The content does not align with the core themes of Continuous Delivery and provides minimal detail relevant to the category.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1428,6 +1440,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 on Windows 7, with no direct mention of the Shift-Left Strategy or its principles. While it touches on aspects of software development, it does not discuss integrating testing, security, or compliance early in the development lifecycle, which are core themes of the Shift-Left Strategy. The discussion lacks depth and relevance to the category, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:28:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 on Windows 7, with no direct discussion or alignment with Continuous Improvement principles. It lacks any mention of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning. The content does not provide insights into enhancing processes or team effectiveness, which are core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:28:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Visual Studio 2008 on Windows 7, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it mentions working on a project related to TFS, it does not connect this to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:28:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Visual Studio 2008 on Windows 7, with no direct discussion of competence or related themes such as continuous learning or skill development. While it may imply a level of technical competence in performing the installation, it does not explicitly address the principles of professionalism, quality delivery, or the importance of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

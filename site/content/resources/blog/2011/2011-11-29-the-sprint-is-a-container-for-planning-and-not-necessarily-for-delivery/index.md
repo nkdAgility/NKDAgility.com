@@ -35,7 +35,6 @@ tags:
 - Working Software
 - Frequent Releases
 categories:
-- DevOps
 - Engineering Excellence
 - Scrum
 preview: nakedalm-logo-128-link-2-2.png

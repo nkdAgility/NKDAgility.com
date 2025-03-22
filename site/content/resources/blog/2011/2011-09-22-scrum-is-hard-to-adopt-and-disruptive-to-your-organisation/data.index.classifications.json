@@ -34,14 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T06:24:45",
+    "calculated_at": "2025-03-22T08:36:07",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content discusses Scrum adoption and its challenges, referencing Ken Schwaber's views, but it primarily focuses on the practical aspects of implementing Scrum rather than on evidence-based management principles. While it touches on the need for metrics and the importance of trust between business and IT, it lacks a thorough exploration of empirical data application or systematic evaluation of organisational performance, which are core to Evidence-Based Management.",
+    "reasoning": "The content primarily discusses the challenges of adopting Scrum and Agile methodologies, focusing on the practical aspects of implementation rather than on evidence-based management principles. While it touches on the importance of metrics and feedback loops, it does not explicitly engage with the core themes of Evidence-Based Management, such as current value metrics or empirical decision-making. The discussion is more centred on Scrum practices and the difficulties of change within organisations, which does not align closely with the EBM focus.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -139,11 +139,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T21:59:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:35:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum adoption and challenges, which are primarily related to Agile methodologies rather than DevOps principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum, an Agile framework, and discusses its challenges and adoption rather than the core principles of DevOps. While there are some mentions of collaboration and change management, these are not explored in the context of DevOps practices or philosophy. The discussion lacks depth in DevOps-specific topics such as automation, shared accountability, or continuous improvement, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -344,7 +347,7 @@
     "reasoning": "Content heavily discusses Scrum adoption and its challenges, focusing on Agile methodologies rather than Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T22:00:27",
     "ai_confidence": 0,
@@ -355,11 +358,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T08:36:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 40,
-    "final_score": 49.0,
-    "reasoning": "The content discusses Scrum adoption and its challenges, which are relevant to the Agile Product Operating Model, but the primary focus is on Scrum as a framework rather than a comprehensive discussion of the Agile Product Operating Model itself.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses the challenges of adopting Scrum, which is a specific agile framework, rather than the broader Agile Product Operating Model. While it touches on some relevant themes such as the need for training and the importance of organisational change, it lacks a comprehensive exploration of the APOM principles and does not focus on product management practices. The discussion is more centred on Scrum's implementation rather than the integration of agile methodologies with product management, which is essential for the APOM category.",
     "level": "Tertiary"
   },
   "Organisational Agility": {
@@ -430,11 +436,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:42:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:36:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum adoption and practices, which are not aligned with the principles of Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum and its challenges, focusing on Agile transformation rather than Continuous Delivery principles. While it touches on iterative and incremental development, it lacks a direct focus on Continuous Delivery practices, automation, or rapid feedback mechanisms that are central to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1534,5 +1543,41 @@
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum adoption and its challenges, with no explicit mention of integrating testing, security, or compliance earlier in the development process. While it touches on iterative development and feedback loops, it does not align with the core themes of the Shift-Left Strategy, which focuses on proactive measures in the software development lifecycle.",
     "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:35:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the challenges of adopting Scrum and the need for training and mentoring, which are related to Continuous Improvement. However, it primarily focuses on the difficulties and disruptions caused by Scrum adoption rather than on the principles of Continuous Improvement itself. While there are mentions of iterative processes and the importance of feedback, the overall emphasis is more on the struggles of implementation rather than a structured approach to continuous improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:35:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges of adopting Scrum and the need for commitment and training, which are related to the concept of Common Goals. However, it primarily focuses on the difficulties and processes of Scrum adoption rather than explicitly addressing shared objectives or alignment within teams. While there are mentions of team dynamics and the importance of understanding roles, the discussion lacks a strong emphasis on how these elements connect to overarching strategic goals, resulting in a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:36:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the challenges of adopting Scrum and highlights the importance of training, mentoring, and dedication in achieving competence within teams. It addresses the need for continuous learning and skill development, which aligns with the core themes of competence. However, while competence is a significant aspect of the discussion, it is not the primary focus, as the content also delves into broader challenges and dynamics of Scrum adoption.",
+    "level": "Secondary"
   }
 }

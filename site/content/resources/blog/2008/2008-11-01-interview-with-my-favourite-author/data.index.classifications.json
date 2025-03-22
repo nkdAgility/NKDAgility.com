@@ -73,11 +73,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:18:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:36:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a personal interview with an author and does not discuss any DevOps principles, practices, or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a personal interview with an author and discusses a literary genre, with no mention or alignment to DevOps principles, practices, or discussions.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -109,11 +112,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:18:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:37:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a personal interview with an author and does not discuss Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a personal interview with an author and does not mention or align with any aspects of the Agile Product Operating Model. There is no discussion of agile methodologies, product management principles, or any related themes, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -163,11 +169,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:18:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:37:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a personal interest in an author and does not discuss Evidence-Based Management.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a personal interview with an author and does not discuss any aspects of Evidence-Based Management or related metrics. There are no direct mentions or relevant themes present.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -233,7 +242,7 @@
     "reasoning": "Content is primarily about a personal interest in an author and does not discuss metrics, learning, or related themes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:18:25",
     "ai_confidence": 0,
@@ -874,11 +883,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:25:51",
+    "calculated_at": "2025-03-22T09:37:08",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses a personal topic about an author's interview and does not relate to Continuous Delivery principles or practices.",
+    "reasoning": "The content focuses entirely on a personal interview with an author and does not discuss any aspects of Continuous Delivery or related practices.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1410,6 +1422,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on a personal interview with an author and does not discuss any aspects of software development, testing, security, or compliance, which are essential to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:37:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a personal interview with an author and does not discuss Continuous Improvement principles or related themes. There are no direct mentions or relevant concepts, and the depth of discussion is non-existent in relation to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:37:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal interview with an author and does not discuss any aspects related to Common Goals in Agile or DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth on any relevant topics.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:37:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal interview with an author and does not discuss competence, continuous learning, or any related themes. There are no direct mentions or relevant discussions that align with the principles of competence in Agile, Scrum, DevOps, or Lean methodologies.",
     "level": "Ignored"
   }
 }

@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:16:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:13:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the implementation of error logging in Team Foundation Server using Elmah, without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to logging errors in Team Foundation Server using Elmah. While it touches on aspects of work item management, it does not explicitly discuss Evidence-Based Management principles or metrics. The discussion lacks a clear connection to data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,15 +133,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:43:15",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-03-22T09:13:06",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
-    "reasoning": "The content discusses logging errors in Team Foundation Server (TFS) and the integration of error logging with work items, which aligns with DevOps practices of continuous delivery and monitoring. However, it lacks a broader discussion on DevOps principles, cultural shifts, or automation, which limits its depth and overall alignment with the category.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on logging errors in Team Foundation Server (TFS) using Elmah, which is more aligned with software development practices rather than the broader DevOps philosophy. While it touches on aspects of automation and integration with TFS, it lacks a comprehensive discussion on key DevOps principles such as collaboration, shared accountability, or continuous improvement. The mention of TFS and work items does not sufficiently align with the core themes of DevOps, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -329,7 +332,7 @@
     "reasoning": "Content primarily discusses logging errors in Team Foundation Server using Elmah, focusing on technical implementation rather than Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:17:24",
     "ai_confidence": 0,
@@ -340,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:17:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:13:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses logging errors in Team Foundation Server and does not focus on Agile principles or product-centric development.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on logging errors in Team Foundation Server (TFS) using Elmah, which is a technical implementation detail rather than a discussion on the Agile Product Operating Model. While it mentions work items, it does not engage with the principles or practices of the Agile Product Operating Model, such as continuous delivery, product-oriented mindset, or evidence-based management. The content lacks a clear connection to the key topics outlined in the APOM definition.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,11 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T03:05:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:13:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on integrating Elmah error logging with Team Foundation Server and does not discuss Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on logging errors in Team Foundation Server (TFS) using Elmah, which is a specific implementation detail rather than a discussion on Continuous Delivery principles or practices. While it touches on aspects of error tracking and work item management, it does not address Continuous Delivery concepts such as automation, rapid feedback, or incremental improvements.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1476,6 +1485,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on logging errors in Team Foundation Server (TFS) using Elmah, without discussing the integration of testing, security, or compliance earlier in the software development lifecycle. While it touches on work items and error handling, it does not align with the core principles or benefits of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:13:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses logging errors in Team Foundation Server and methods to streamline error tracking, which can be seen as a form of process improvement. However, it lacks a strong focus on Continuous Improvement principles such as empirical evidence, culture of experimentation, or specific strategies for integrating Continuous Improvement into organisational processes. The discussion is more technical and procedural rather than reflective or adaptive, which diminishes its alignment with the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:13:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to logging errors in Team Foundation Server using Elmah. While it touches on the creation and management of work items, it does not explicitly discuss the concept of Common Goals, nor does it connect individual contributions to overarching strategic objectives within Agile or DevOps frameworks. The discussion lacks depth in terms of aligning strategy with execution, which is central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:13:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical implementation details for logging errors in Team Foundation Server using Elmah. While it touches on aspects of error tracking and development processes, it lacks a direct discussion on competence, continuous learning, or skill development. The mention of enhancing the development process is too vague to be considered a strong alignment with the principles of competence as defined in Agile and DevOps methodologies.",
     "level": "Ignored"
   }
 }

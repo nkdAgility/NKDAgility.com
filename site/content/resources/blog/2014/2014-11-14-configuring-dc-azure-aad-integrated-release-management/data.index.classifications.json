@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T23:55:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:03:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on configuring a domain controller in Azure and does not discuss Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on configuring a Domain Controller in Azure for Release Management, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide depth in these areas.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -331,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T23:56:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:02:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses configuring a domain controller in Azure and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on configuring a Domain Controller in Azure for Release Management, with no direct mention or discussion of Agile Product Operating Model principles, practices, or frameworks. It lacks any reference to product management, agile methodologies, or the transition from project to product ethos, which are core to the APOM category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -409,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T23:56:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:02:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses configuring a domain controller in Azure and does not focus on Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on configuring a Domain Controller in Azure for Active Directory, which is more about infrastructure setup than Continuous Delivery practices. While there are mentions of deployment and integration, they are not the main focus. The discussion lacks depth on Continuous Delivery principles, automation, or rapid feedback mechanisms, which are crucial to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1461,6 +1470,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on configuring a domain controller in Azure and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any case studies or tools related to Shift-Left practices. The discussion is more about practical implementation rather than strategic approaches to software development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:02:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on configuring a Domain Controller in Azure and does not discuss Continuous Improvement principles. While there are mentions of making incremental changes and adapting configurations, these are not framed within the context of Continuous Improvement or its methodologies. The discussion lacks depth and does not align with the key topics outlined for Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:02:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for configuring a Domain Controller in Azure, with no explicit discussion of Common Goals or their significance in Agile or DevOps frameworks. While it touches on aspects of project execution, it lacks a connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:02:47",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on technical instructions for configuring a Domain Controller in Azure, with minimal direct discussion on competence or continuous skill development. While it touches on aspects of capability in using Azure, it lacks a deeper exploration of competence as a foundational principle in Agile or DevOps methodologies. The mention of 'progressive' approaches and the importance of configuration choices hints at competence but does not substantively engage with the key topics outlined in the category definition.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-22T07:02:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on configuring a Domain Controller in Azure for Active Directory integrated Release Management. While it discusses aspects of cloud infrastructure and virtual machine setup, it does not explicitly mention or align with the principles of the One Engineering System (1ES). The discussion lacks depth regarding integration, standardisation, or best practices related to 1ES, making it peripheral to the category.",
     "level": "Ignored"
   }
 }

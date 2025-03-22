@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:54:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:25:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the installation process of Visual Studio 11 and does not discuss any aspects of Evidence-Based Management. There are no direct mentions of EBM concepts, and the content lacks any alignment with the key topics outlined for the category. The discussion is superficial and does not provide any depth related to data-informed decision-making or empirical evidence.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:55:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:25:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no focus on DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 11 on Windows 7, discussing its features and user interface. There are no explicit mentions of DevOps principles, practices, or cultural shifts. The discussion lacks alignment with key DevOps topics such as collaboration, automation, or shared accountability, and does not provide any depth related to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -317,7 +323,7 @@
     "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:55:39",
     "ai_confidence": 0,
@@ -328,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:55:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:25:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no relevance to Agile principles or product operating models.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the installation process of Visual Studio 11 and does not mention or align with any principles of the Agile Product Operating Model. There are no discussions on product management, agile methodologies, or related frameworks, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -406,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:31:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:25:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation and features of Visual Studio 11, without any reference to Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 11 on Windows 7, discussing its features and user interface. There are no direct mentions of Continuous Delivery principles, practices, or related topics. The discussion lacks depth and does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or user feedback.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1443,6 +1455,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation and user interface of Visual Studio 11, with no direct mention or discussion of the Shift-Left Strategy. It lacks alignment with the core themes of integrating testing, security, or compliance early in the development process, and does not provide any depth on these topics.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:25:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 11 and its features, with no substantial discussion on Continuous Improvement principles. While there are mentions of user experience and interface design, these do not align with the core themes of Continuous Improvement, such as data-driven decision-making or fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:25:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 11 and its features, with no explicit discussion of Common Goals, Agile, or DevOps principles. While there are mentions of team collaboration tools like Team Foundation Server, these are not connected to the overarching theme of aligning strategy with execution or shared objectives. The content lacks depth and relevance to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:25:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 11 and its features, with no explicit discussion on competence, continuous learning, or skill development. While it touches on user experience and interface preferences, these aspects do not align with the core themes of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

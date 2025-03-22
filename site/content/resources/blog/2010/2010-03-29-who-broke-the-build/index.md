@@ -41,7 +41,6 @@ tags:
 preview: metro-visual-studio-2010-128-link-10-10.png
 categories:
 - Engineering Excellence
-- DevOps
 
 ---
 ![BuildIcon_Large](images/114db5acbf63_EDD8-BuildIcon_Large_-1-1.png)

@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:22:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:30:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses configuring email for an application, which is not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on configuring email notifications in a release management system using Office 365. While it touches on aspects of release management, it does not engage with the core principles of DevOps, such as collaboration, automation, or shared accountability. The discussion lacks depth in DevOps-related themes and does not explicitly mention DevOps as a philosophy or practice.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -238,11 +241,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:30:25",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses configuring emails, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on configuring email notifications in a release management system using Office 365. While it touches on release management, it does not explicitly discuss Continuous Delivery principles, practices, or benefits. The discussion lacks depth in relation to Continuous Delivery concepts, such as automation, rapid feedback, or cultural aspects, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -371,7 +377,7 @@
     "reasoning": "Content discusses configuring emails for Office 365 and does not relate to Value Stream Management.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-18T13:07:36",
     "ai_confidence": 0,
@@ -1132,11 +1138,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:30:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on configuring emails for an application, which is unrelated to Agile Product Operating Model or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses exclusively on configuring email notifications in a release management system using Office 365. It does not discuss any principles or practices related to the Agile Product Operating Model, nor does it mention product management or agile methodologies. The content is entirely technical and operational, lacking any connection to the core themes of APOM.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1339,11 +1348,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about configuring emails for an application and does not discuss Evidence-Based Management or related principles.",
+    "calculated_at": "2025-03-22T07:30:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on configuring email notifications in a release management system using Office 365. It does not discuss Evidence-Based Management principles, metrics, or data-informed decision-making. The mention of effective release management is too vague and does not align with the specific themes of EBM.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1416,6 +1428,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on configuring email notifications in release management using Office 365, which is unrelated to the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it discuss any principles or benefits associated with the Shift-Left approach. The content lacks depth in relation to the category, making it clear that it does not align with the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:30:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical steps for configuring email notifications in a release management system, with no explicit discussion or alignment with Continuous Improvement principles. It lacks any mention of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning, which are central to the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:30:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of configuring email notifications in a release management system, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on team communication, it lacks depth and alignment with the core themes of shared objectives and strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:30:18",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the technical steps for configuring email notifications in a release management system, with no direct discussion of competence or its importance in Agile or DevOps contexts. While it touches on the need for effective communication within a team, it lacks depth in exploring continuous learning, skill development, or the professional standards associated with competence.",
     "level": "Ignored"
   }
 }

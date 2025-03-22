@@ -79,11 +79,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T10:30:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:26:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with purchasing and using a laptop, with no relevance to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences related to purchasing a laptop and running Windows 7, with no direct mentions or discussions of DevOps principles, practices, or cultural shifts. It lacks any alignment with the core themes of DevOps, such as collaboration, automation, or shared accountability, and provides minimal detail that could relate to the category.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -115,11 +118,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T10:30:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:26:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about personal experiences with purchasing a laptop and using Windows 7, with no relevance to Agile principles or product operating models.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on personal experiences related to purchasing a laptop and does not mention or align with any principles of the Agile Product Operating Model. There are no discussions on product management, agile methodologies, or any related topics, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -169,11 +175,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T10:30:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:26:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with purchasing a laptop and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses personal experiences with purchasing a laptop and does not mention Evidence-Based Management or its key topics. It lacks any empirical evidence or data-informed decision-making discussions, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -239,7 +248,7 @@
     "reasoning": "Content primarily discusses personal experiences with purchasing a laptop and does not relate to metrics, learning, or Agile/DevOps principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T10:30:34",
     "ai_confidence": 0,
@@ -886,11 +895,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:10:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:26:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on personal experiences with purchasing and using a laptop and has no relevance to Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses personal experiences related to purchasing a laptop and does not mention Continuous Delivery or its principles. There is no alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality. The depth of discussion is minimal and focused on personal anecdotes rather than any relevant software delivery practices.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1422,6 +1434,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses personal experiences with purchasing a laptop and running Windows 7, with no mention of software development processes, testing, security, or compliance. It does not align with the Shift-Left Strategy in any meaningful way.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:26:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience of purchasing a laptop and does not discuss Continuous Improvement principles. There are no direct mentions of Continuous Improvement, nor does it align with the core themes such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is minimal and irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:26:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal anecdote about purchasing a laptop and does not discuss any principles related to Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, which are central to the category. The discussion is entirely unrelated to the themes of collaboration, accountability, or operationalising goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:26:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the personal experience of purchasing a laptop and does not discuss competence in any meaningful way. There are no direct mentions of skill development, quality outcomes, or professional growth, which are central to the concept of competence. The discussion is casual and lacks depth regarding any relevant themes, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T12:07:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:45:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of Internet Explorer 8 Beta 2, which is unrelated to DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation of Internet Explorer 8 Beta 2, providing links and guidance for setup. There are no direct mentions of DevOps principles, practices, or cultural shifts. The discussion lacks alignment with the core themes of DevOps, such as collaboration, automation, or shared accountability, and does not delve into any relevant depth regarding DevOps concepts.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T12:07:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:45:38",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily about installing Internet Explorer 8 Beta 2 and does not discuss Agile principles or the Agile Product Operating Model.",
+    "reasoning": "The content is focused entirely on the installation of Internet Explorer 8 Beta 2, with no references to agile methodologies, product management principles, or any related topics that align with the Agile Product Operating Model. It does not discuss any of the key topics outlined in the category description.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -169,11 +175,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T12:07:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:45:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of Internet Explorer 8 Beta 2 and related updates, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the installation of Internet Explorer 8 Beta 2, providing links and guidance for setup. There are no mentions of Evidence-Based Management principles, metrics, or discussions related to data-informed decision-making. The content does not align with the core themes of EBM, nor does it provide any depth on the subject.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -239,7 +248,7 @@
     "reasoning": "Content primarily discusses the installation of Internet Explorer 8 Beta 2 and related updates, with no focus on metrics, learning, or Agile/DevOps principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T12:08:09",
     "ai_confidence": 0,
@@ -883,11 +892,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:01:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:45:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on downloading and installing Internet Explorer 8 Beta 2 with no relation to Continuous Delivery practices or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation of Internet Explorer 8 Beta 2, which is unrelated to Continuous Delivery. There are no direct mentions of Continuous Delivery principles, practices, or related topics. The discussion lacks depth and does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or user feedback.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1422,6 +1434,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the installation of Internet Explorer 8 Beta 2 and does not mention or align with the principles of the Shift-Left Strategy in software development. There are no references to testing, security, or compliance processes, nor any discussion of integrating these aspects early in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:45:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation of Internet Explorer 8 Beta 2, providing links and guidance for setup. There are no discussions or mentions related to Continuous Improvement principles, nor does it align with the core themes of the category. The content lacks depth in any relevant topics, making it irrelevant to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:45:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation of Internet Explorer 8 Beta 2, providing links and guidance for setup. There are no direct mentions of Common Goals, Agile, or DevOps principles. The discussion lacks alignment with the core themes of the category, as it does not address shared objectives, team alignment, or strategic goals. The depth of discussion is minimal, as it is purely instructional and does not explore any relevant concepts related to Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:45:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation of Internet Explorer 8 Beta 2, providing links and guidance for setup. It does not discuss competence, continuous learning, or any related themes. The mention of a computer rebuild and updates does not connect to the principles of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

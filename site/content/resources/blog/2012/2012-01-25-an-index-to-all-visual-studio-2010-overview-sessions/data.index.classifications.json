@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:35:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:30:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Visual Studio ALM features and webcasts, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on high-level overviews of Visual Studio 2010 and Team Foundation Server features, lacking any explicit discussion on Evidence-Based Management principles or metrics. While it touches on aspects of application lifecycle management (ALM), it does not provide empirical evidence or data-informed decision-making insights that are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,14 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T06:12:29",
+    "calculated_at": "2025-03-22T08:30:08",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily discusses Visual Studio 2010 and its features, with only a brief mention of ALM (Application Lifecycle Management) practices. While there are elements related to software development and management, the focus is not on DevOps principles or practices. The discussion lacks depth in terms of DevOps concepts such as CI/CD, automation, or cultural shifts, which are essential for a higher confidence score in this category.",
+    "reasoning": "The content primarily focuses on Visual Studio 2010 and its features related to Application Lifecycle Management (ALM). While it briefly touches on aspects that could relate to DevOps, such as code management and testing, it does not explicitly discuss DevOps principles or practices. The discussion lacks depth in terms of DevOps culture, collaboration, or automation, which are core to the category. Therefore, the confidence score reflects a low alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -326,7 +329,7 @@
     "reasoning": "Content primarily discusses Visual Studio 2010 and its features, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:36:17",
     "ai_confidence": 0,
@@ -337,11 +340,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T21:36:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:30:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio ALM features and webcasts, with no clear focus on Agile Product Operating Model principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010 and Team Foundation Server features, with no explicit discussion of the Agile Product Operating Model or its principles. While it touches on aspects of application lifecycle management (ALM), it does not align with the core themes of transitioning to a product-oriented mindset or integrating agile methodologies with product management. The depth of discussion is limited to high-level overviews of specific tools rather than a comprehensive exploration of APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,11 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:41:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:30:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Visual Studio ALM and webcasts related to features of Visual Studio 2010, without clear emphasis on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on high-level overviews of Visual Studio 2010 and Team Foundation Server features, which are related to application lifecycle management (ALM) but do not specifically address Continuous Delivery principles or practices. While there are mentions of testing and code management, these are not explored in the context of Continuous Delivery, and the overall discussion lacks depth in this area.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1470,6 +1479,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on high-level overviews of Visual Studio 2010 and its features, without explicitly discussing the Shift-Left Strategy or its principles. While there are mentions of testing and development processes, they are not integrated into a discussion about early integration of testing, security, or compliance, which is central to the Shift-Left concept. The content lacks depth in addressing the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:30:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on providing overviews of Visual Studio 2010 and its features, with no explicit discussion on Continuous Improvement principles. While it touches on aspects of software development and user interaction, it lacks depth in discussing empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning. The content does not align with the core themes of Continuous Improvement, making it a low-confidence classification.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:30:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on providing overviews of Visual Studio 2010 and its features, with no explicit discussion of Common Goals within Agile or DevOps frameworks. While it touches on aspects of application lifecycle management (ALM), it lacks a clear connection to shared objectives or strategic alignment, which are central to the concept of Common Goals. The depth of discussion is limited to technical features rather than the principles of collaboration and accountability that define Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:30:17",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on providing overviews of Visual Studio 2010 and its features, with limited direct discussion on competence. While it touches on aspects of skill development through the use of ALM tools, it lacks a thorough exploration of continuous learning or the importance of competence in Agile or DevOps contexts. The depth of discussion is minimal, primarily offering high-level insights rather than detailed strategies for fostering competence.",
     "level": "Ignored"
   }
 }

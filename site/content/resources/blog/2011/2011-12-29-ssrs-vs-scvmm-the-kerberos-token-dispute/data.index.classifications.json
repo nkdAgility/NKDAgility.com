@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:41:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:31:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS and SCVMM installation and configuration, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS and SCVMM installations, focusing on Kerberos authentication problems. It does not mention Evidence-Based Management or its key topics, nor does it provide any empirical evidence or data-informed decision-making insights.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T06:15:21",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
+    "calculated_at": "2025-03-22T08:31:34",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses technical issues related to TFS and SCVMM, which are tools relevant to DevOps practices. However, it primarily focuses on specific problems encountered during installation and configuration rather than broader DevOps principles or practices. While there are mentions of automation and configuration management, the depth of discussion does not sufficiently cover the core themes of DevOps, such as CI/CD, cultural shifts, or metrics for success.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS and SCVMM, focusing on Kerberos authentication problems and server configurations. While it touches on aspects of automation and collaboration in a DevOps context, these are not the main focus. The discussion lacks depth in core DevOps principles and does not explicitly address the cultural or philosophical aspects of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +323,7 @@
     "reasoning": "Content primarily discusses technical issues related to TFS and SCVMM installations, focusing on specific problems and solutions rather than exploring Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:42:19",
     "ai_confidence": 0,
@@ -331,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T21:42:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:31:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS and SCVMM installation and configuration, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS and SCVMM, focusing on Kerberos authentication problems and server configurations. It does not mention or align with the Agile Product Operating Model or its principles, nor does it provide any depth on agile methodologies or product management practices.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -406,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:41:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:31:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues and configurations related to TFS, SCVMM, and Reporting Services, with no mention of Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS and SCVMM, focusing on Kerberos authentication problems and server configurations. It does not address Continuous Delivery principles, practices, or benefits, nor does it explore automation, rapid feedback, or cultural aspects related to Continuous Delivery. The mention of TFS and Lab Management is tangential and does not constitute a primary focus on Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1443,6 +1452,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses technical issues related to TFS and SCVMM installations, focusing on authentication problems and infrastructure setup. It does not address the Shift-Left Strategy or its principles, benefits, or techniques, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:31:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical challenges and solutions related to TFS and SCVMM setups, with no explicit discussion of Continuous Improvement principles. While it touches on problem-solving, it lacks a broader context of ongoing reflection, adaptation, or a culture of experimentation that characterises Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:31:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical issues related to the installation and configuration of TFS and SCVMM, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on collaboration and problem-solving, it lacks a clear connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:31:41",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on technical issues related to Kerberos token management in SSRS and SCVMM setups, with minimal direct discussion on competence or skill development. While it touches on the need for understanding Active Directory and service configurations, it does not delve into continuous learning or the broader implications of competence in Agile or DevOps contexts. The discussion lacks depth in exploring how competence impacts team dynamics or quality outcomes, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

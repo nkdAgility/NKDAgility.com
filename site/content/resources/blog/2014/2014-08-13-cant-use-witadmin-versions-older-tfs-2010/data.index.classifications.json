@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T09:07:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:15:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS and WITADMIN, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS and WITADMIN, with no explicit mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any depth on these topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T04:23:37",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-22T07:15:19",
+    "ai_confidence": 12.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily discusses a technical issue related to TFS (Team Foundation Server) and WITADMIN commands, which is more focused on specific software tools rather than the broader principles and practices of DevOps. While there are elements of migration and tool compatibility that could relate to DevOps, the discussion lacks explicit references to DevOps practices such as CI/CD, automation, or cultural shifts. The depth of the discussion is moderate, but it does not provide a comprehensive view of DevOps as a category.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses issues related to TFS (Team Foundation Server) and WITADMIN, focusing on compatibility and migration challenges. While it touches on aspects of software management, it does not engage with the core principles of DevOps such as collaboration, automation, or shared accountability. The discussion is more technical and specific to a tool rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +323,7 @@
     "reasoning": "Content primarily discusses troubleshooting issues related to TFS and WITADMIN, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T09:07:54",
     "ai_confidence": 0,
@@ -331,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T09:07:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:15:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to TFS and WITADMIN, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS and WITADMIN, with no direct mention or alignment to the Agile Product Operating Model. It focuses on migration and compatibility rather than agile methodologies or product management principles.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -409,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T09:57:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:15:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses using WITADMIN with TFS versions, troubleshooting, and upgrade considerations, which are unrelated to Continuous Delivery principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses issues related to TFS (Team Foundation Server) and WITADMIN, focusing on compatibility and migration challenges. It does not address Continuous Delivery principles, practices, or benefits, nor does it explore automation, rapid feedback, or cultural aspects related to Continuous Delivery. The mention of migration could tangentially relate to delivery processes, but it lacks depth and direct relevance to Continuous Delivery as defined.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1461,6 +1470,42 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily discusses a technical issue related to TFS and WITADMIN, with no explicit mention of the Shift-Left Strategy or its principles. While it touches on software versioning and compatibility, it does not align with the core themes of integrating testing, security, or compliance early in the development process. The discussion lacks depth regarding Shift-Left practices, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:15:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to TFS and WITADMIN, with no explicit discussion of Continuous Improvement principles. While there is a mention of ensuring software compatibility, it does not delve into the broader themes of Continuous Improvement, such as fostering a culture of experimentation or integrating improvement strategies into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:15:25",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on a technical issue related to TFS and WITADMIN, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on migration and compatibility, it lacks alignment with the core themes of shared objectives and strategic alignment. The depth of discussion is also minimal, as it does not explore any techniques or frameworks related to Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:15:28",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses technical issues related to software compatibility and migration processes, with minimal focus on competence in terms of skill development or professional growth. While it touches on the importance of using updated software for effective tool compatibility, it lacks a deeper exploration of continuous learning or the development of capabilities within a team or organisation.",
     "level": "Ignored"
   }
 }

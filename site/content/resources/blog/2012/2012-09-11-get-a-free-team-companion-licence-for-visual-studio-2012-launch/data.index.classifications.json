@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T17:17:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:06:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a promotional offer for a software tool and does not address Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on promoting a product (Team Companion) and does not discuss Evidence-Based Management or its key topics. There are no direct mentions of empirical evidence, data-informed decision-making, or any related metrics. The discussion is centred around obtaining a free licence and the features of the product, which does not align with the principles of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T17:18:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:06:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a promotional offer for a tool called Team Companion, with no clear focus on DevOps principles, practices, or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a tool (Team Companion) related to Visual Studio and TFS, with no substantial discussion on DevOps principles, practices, or cultural shifts. While it mentions a product that could be used in a development context, it does not engage with the core themes of DevOps such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses a promotional offer for a software tool and does not address Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-14T17:18:37",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T17:18:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:06:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a promotional offer for a software tool, Team Companion, without any focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on promoting a product (Team Companion) and its licensing, with no substantial discussion on Agile methodologies, product management principles, or the Agile Product Operating Model. While it briefly mentions a product related to team collaboration, it does not align with the core themes of the APOM, such as continuous delivery or customer-centric value.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T17:18:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:06:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a promotional offer for a software tool, Team Companion, and does not address Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a product (Team Companion) and its licensing, with no direct mention or discussion of Continuous Delivery principles, practices, or related topics. While it briefly touches on enhancing TFS experience, it does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or rapid feedback. The depth of discussion is minimal and does not provide any substantial insights into Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1434,6 +1446,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a promotional offer for a software tool (Team Companion) and does not address any aspects of the Shift-Left Strategy. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any insights into the principles or benefits of the Shift-Left approach. The focus is entirely on obtaining a free licence and the features of the tool, which is unrelated to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:06:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a product and providing instructions on how to obtain a free license for Team Companion. There are no direct mentions of Continuous Improvement principles, nor does it discuss any related concepts such as empirical evidence, team effectiveness, or strategies for improvement. The content lacks depth in relation to the category, making it largely irrelevant to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:06:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a product and providing instructions on how to obtain a free licence for Team Companion. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment within teams. The mention of Team Companion is more about a promotional offer than about fostering collaboration or accountability, which are key aspects of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:06:52",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on promoting a software tool and does not discuss competence, continuous learning, or skill development. While it mentions a product that may enhance team collaboration, it lacks any substantial discussion on the principles of competence as defined in Agile and DevOps contexts.",
     "level": "Ignored"
   }
 }

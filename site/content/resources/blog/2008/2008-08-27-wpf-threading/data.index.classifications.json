@@ -73,11 +73,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T12:11:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:46:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses WPF threading issues and solutions, which are not related to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on WPF threading and multi-threading solutions in .NET, with no direct mention of DevOps principles, practices, or cultural shifts. It lacks any discussion on collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The content does not provide depth or detail related to DevOps, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -109,11 +112,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T12:11:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:46:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses WPF threading issues and solutions, with no relevance to Agile Product Operating Model principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on WPF threading solutions and multi-threading skills in .NET, with no mention or relevance to the Agile Product Operating Model or its principles. It does not discuss any aspects of product management, agile methodologies, or the transition from project to product ethos, which are central to the category.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -163,11 +169,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T12:11:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:46:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses WPF threading issues and solutions, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on WPF threading solutions and multi-threading skills in .NET, with no direct mention or discussion of Evidence-Based Management principles or metrics. It does not align with the core themes of EBM, such as data-informed decision-making or value delivery, and lacks any depth related to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -233,7 +242,7 @@
     "reasoning": "Content primarily discusses a technical issue related to WPF threading and does not address metrics, learning, or Agile/DevOps principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T12:11:52",
     "ai_confidence": 0,
@@ -880,11 +889,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:01:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:46:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses WPF multi-threading issues, not related to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on WPF threading solutions and multi-threading skills in .NET, with no direct mention or discussion of Continuous Delivery principles, practices, or related topics. It does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality. The depth of discussion is entirely centred on threading issues, making it irrelevant to the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1419,6 +1431,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a specific technical issue related to WPF threading and does not mention or align with the principles of the Shift-Left Strategy. There is no discussion of integrating testing, security, or compliance earlier in the development process, nor does it provide any insights into the benefits or methodologies associated with the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:46:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on WPF threading solutions and does not discuss Continuous Improvement principles. While it mentions learning from expert insights, it lacks a direct connection to the core themes of Continuous Improvement, such as empirical evidence, team effectiveness, or a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:46:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on WPF threading solutions and personal experiences with multi-threading in .NET, which does not relate to the concept of Common Goals in Agile or DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth on any relevant themes.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:46:34",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on WPF threading solutions and multi-threading skills in .NET, which are technical skills rather than discussions on competence in the context of Agile, Scrum, or DevOps. While there is a mention of enhancing skills, it lacks a direct discussion on continuous learning, professionalism, or the broader implications of competence within teams or organisations.",
     "level": "Ignored"
   }
 }

@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T10:48:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:30:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses test-driven development (TDD) and its impact on software development, without a clear focus on DevOps principles or practices.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses test-driven development (TDD) and its impact on software productivity, which aligns with the DevOps principle of flow efficiency over resource efficiency. However, it primarily focuses on TDD rather than the broader DevOps philosophy, making it a secondary mention rather than a primary focus. The depth of discussion on DevOps concepts is limited, as it does not address collaboration, automation, or shared accountability, which are core themes of DevOps.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T10:48:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:30:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses test-driven development and its impact on software productivity, without a clear focus on the Agile Product Operating Model.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses test-driven development (TDD) and its impact on software productivity, which is not directly related to the Agile Product Operating Model. While TDD can be a part of agile practices, the focus here is on software development techniques rather than the broader principles and frameworks of APOM. There are no explicit mentions of product management, agile principles, or the transition from project to product ethos, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -172,11 +178,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T10:48:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:30:34",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses test-driven development and its impact on software development, without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content discusses test-driven development (TDD) and its benefits for software productivity, but it does not explicitly mention Evidence-Based Management or its key topics. While it touches on concepts like reducing complexity and improving adaptability, it lacks a focus on empirical evidence or data-informed decision-making that characterises EBM. The discussion is primarily centred on TDD rather than the broader strategic approach of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -254,7 +263,7 @@
     "reasoning": "Content primarily discusses test-driven development (TDD) and its impact on software development processes, without a focus on metrics, data analysis, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T10:48:47",
     "ai_confidence": 0,
@@ -922,11 +931,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:56:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:30:31",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses test-driven development (TDD) and its impacts on software development, without a significant focus on Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses test-driven development (TDD) and its benefits in reducing complexity and rework, which are relevant to software development practices but do not specifically address Continuous Delivery principles. While TDD can contribute to a Continuous Delivery pipeline by improving code quality, the focus here is on TDD itself rather than the broader Continuous Delivery practices, such as automation, rapid feedback, or deployment strategies.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1482,6 +1494,42 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses test-driven development (TDD), which is a practice that can align with the Shift-Left Strategy by integrating testing early in the development process. However, the primary focus is on TDD itself rather than explicitly addressing the broader Shift-Left Strategy. The mention of reducing rework and improving adaptability hints at some benefits associated with Shift-Left, but the discussion lacks depth on integrating security and compliance or on the overall strategy. Therefore, while there is some conceptual alignment, it does not meet the criteria for a strong focus on the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:30:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses test-driven development (TDD) and its benefits, such as reducing complexity and rework, which aligns with the principles of Continuous Improvement. However, it does not explicitly mention Continuous Improvement as a concept or framework, nor does it delve deeply into strategies for fostering a culture of experimentation or learning. The focus is primarily on TDD rather than a broader discussion of Continuous Improvement practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:30:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses test-driven development (TDD) and its benefits for software productivity, without addressing the concept of Common Goals or their significance in Agile or DevOps frameworks. While it touches on themes of productivity and adaptability, it does not connect these to shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:30:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses test-driven development (TDD) and its impact on software productivity, which indirectly relates to competence through the lens of skill development and quality outcomes. However, it does not explicitly focus on the broader themes of competence as defined in the category, such as continuous learning or fostering a culture of competence. The discussion is more centred on TDD's benefits rather than on the development of professional capabilities or the importance of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

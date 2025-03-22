@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:00:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:26:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the launch of Visual Studio 11 and related consulting services, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the launch of Visual Studio 11 Beta and does not discuss Evidence-Based Management or its key topics. There are no direct mentions of empirical decision-making, current value, or any other relevant metrics. The discussion is centred around product support and consulting services, which does not align with the principles of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T21:00:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:26:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the launch of Visual Studio 11 and its support for production use, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the launch of Visual Studio 11 Beta and its associated support services, with no explicit discussion of DevOps principles or practices. While it mentions application lifecycle management, it does not delve into the core themes of DevOps such as collaboration, automation, or shared accountability. The content lacks depth and detail regarding DevOps, making it only tangentially related.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -317,7 +323,7 @@
     "reasoning": "Content primarily discusses the launch of Visual Studio 11 and related consulting services, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:00:55",
     "ai_confidence": 0,
@@ -328,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T21:00:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:26:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the launch of Visual Studio 11 and related consulting services, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the launch of Visual Studio 11 Beta and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related topics. The content is more aligned with software development tools rather than the principles of APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -406,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:01:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:26:38",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the launch of Visual Studio 11 and its support for production use, without a clear focus on Continuous Delivery principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the launch of Visual Studio 11 Beta and the concept of going live with the software. While it mentions the safety of going live and support for production use, it does not delve into the principles or practices of Continuous Delivery. There is a lack of discussion on automation, incremental improvements, or user feedback, which are core themes of Continuous Delivery. Overall, the content is more about a product announcement than a discussion on Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1434,6 +1446,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the launch of Visual Studio 11 and its readiness for production use, with no explicit mention of the Shift-Left Strategy or its principles. While it touches on application lifecycle management, it does not delve into integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy. The focus is more on the product launch and support rather than on proactive development practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:26:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the launch of Visual Studio 11 Beta and the associated support from Northwest Cadence. While it mentions going live with the software, it does not discuss Continuous Improvement principles, techniques, or strategies. The content lacks depth in relation to the category and does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:26:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the launch of Visual Studio 11 Beta and the associated support from Northwest Cadence. It does not discuss Common Goals, Agile, or DevOps principles. While it mentions the importance of going live with the software, it lacks any connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:26:31",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the launch of Visual Studio 11 Beta and the associated support from Northwest Cadence. While it mentions the importance of going live and offers consulting services, it does not explicitly discuss competence, continuous learning, or skill development in a meaningful way. The references to support and consulting are too vague to align with the core themes of competence, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

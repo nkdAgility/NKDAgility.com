@@ -34,14 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-10T14:45:01",
+    "calculated_at": "2025-03-22T07:23:57",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
-    "ai_alignment": 38,
-    "ai_depth": 36,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 30,
     "final_score": 86.0,
-    "reasoning": "The content extensively discusses Evidence-Based Management (EBM), detailing its principles, practices, and the importance of empirical evidence in decision-making. It provides a personal anecdote that illustrates the application of EBM in a real-world context, aligning well with the category's focus. The depth of discussion includes specific metrics and frameworks, such as the Agility Index, which are crucial for understanding EBM's application in organisations. Overall, the content is highly relevant and provides a comprehensive overview of EBM, justifying a high confidence score.",
+    "reasoning": "The content extensively discusses Evidence-Based Management (EBM), detailing its principles, historical context, and practical applications. It includes direct mentions of EBM, its metrics, and the importance of empirical decision-making, aligning closely with the core themes of the category. The depth of discussion is significant, providing examples and insights into how EBM can transform organisations, thus justifying a high confidence score.",
     "level": "Primary"
   },
   "Code and Complexity": {
@@ -136,11 +136,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T11:05:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:23:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Evidence-based Management and its application in organisational improvements, with a focus on Scrum and agility, rather than DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Evidence-based Management and its application in organisational improvement, particularly in the context of software development. While it touches on themes relevant to DevOps, such as value delivery and the importance of metrics, it does not explicitly focus on DevOps principles or practices. The discussion lacks depth in terms of DevOps culture, collaboration, and automation, which are central to the category. Therefore, while there are relevant elements, they are not the primary focus of the content.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -353,7 +356,7 @@
     "reasoning": "The content discusses Evidence-based Management, which touches on aspects of Systems Thinking, such as understanding complex organisational dynamics and the importance of metrics in decision-making. However, it primarily focuses on linear problem-solving and specific methodologies rather than a holistic analysis of interconnected systems. While there are mentions of organisational improvement and metrics, the depth of discussion on Systems Thinking principles is limited, leading to a moderate confidence score.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T11:05:39",
     "ai_confidence": 0,
@@ -364,12 +367,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T07:23:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Evidence-based Management and its relevance to organisational improvements and agility, which aligns with the Agile Product Operating Model. However, the primary focus is on Evidence-based Management rather than a direct exploration of the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Evidence-based Management (EBM) and its application in organisational improvements, which aligns with the Agile Product Operating Model's focus on data-driven measures and continuous improvement. However, while EBM is a relevant concept, the primary focus of the content is on personal anecdotes and the historical context of EBM rather than a comprehensive exploration of the Agile Product Operating Model itself. The discussion touches on key themes such as customer focus and value delivery, but lacks depth in addressing the full scope of APOM principles and practices.",
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -442,11 +448,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T11:23:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:23:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Evidence-based Management and its application in organizations, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Evidence-based Management and its application in organisational improvement, with a focus on value delivery and agility. While it touches on aspects relevant to Continuous Delivery, such as the importance of metrics and understanding customer value, it does not explicitly address Continuous Delivery principles, practices, or automation in testing and deployment. The discussion lacks depth in Continuous Delivery-specific topics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1537,5 +1546,41 @@
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Evidence-based Management and its application in organisational improvements, with only a tangential reference to software development. While it touches on metrics and practices that could relate to a Shift-Left approach, it does not explicitly focus on integrating testing, security, or compliance earlier in the development lifecycle. The discussion lacks depth in the specific principles and benefits of the Shift-Left Strategy, leading to a low confidence score.",
     "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:23:44",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content discusses Evidence-based Management and its role in improving organisational effectiveness, which aligns with Continuous Improvement principles. It highlights the importance of data-driven decision-making and the need for ongoing reflection and adaptation. However, while it touches on these themes, the primary focus is on Evidence-based Management rather than Continuous Improvement itself, leading to a slightly lower confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:23:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Evidence-based Management and its application in organisations, which indirectly relates to aligning strategies with execution. However, it primarily focuses on personal anecdotes and the author's father's experiences rather than explicitly addressing Common Goals within Agile and DevOps frameworks. While there are mentions of metrics and value delivery, the discussion lacks depth in connecting these concepts to shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:23:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of Evidence-based Management and its application in improving organisational competence. It highlights the need for continuous learning and skill development, particularly through the assessment of individuals' knowledge and the maturity of practices. The depth of discussion on metrics and the role of evidence in decision-making aligns well with the core themes of competence, although it does not focus exclusively on competence as a primary theme.",
+    "level": "Secondary"
   }
 }

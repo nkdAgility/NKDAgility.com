@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:43:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:11:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to SharePoint and TFS, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to TFS and SharePoint, with no direct mention or discussion of Evidence-Based Management principles or metrics. It lacks any alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and does not provide any depth on these topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T19:43:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:11:23",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an issue related to SharePoint and TFS deployment, without a focus on DevOps principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to TFS and SharePoint, which does not align with the core principles of DevOps. While it touches on aspects of technology integration, it lacks a discussion on collaboration, automation, or cultural shifts that are central to DevOps. The mention of TFS and SharePoint is more about troubleshooting than about the DevOps philosophy or practices.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses a technical issue related to SharePoint and TFS deployment, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:44:12",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:44:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:11:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to SharePoint and TFS, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS and SharePoint, with no direct mentions or discussions of the Agile Product Operating Model or its principles. The content does not align with the core themes of APOM, such as product management or agile methodologies, and lacks depth in discussing any relevant concepts.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:18:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:11:39",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific issue related to SharePoint and Team Foundation Server, with no focus on Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily addresses a specific error related to TFS and SharePoint reconfiguration, with no direct mention of Continuous Delivery principles or practices. It lacks discussion on automation, incremental improvements, or any cultural aspects of Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1431,6 +1443,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a specific issue related to SharePoint and TFS deployment, with no mention of the Shift-Left Strategy or its principles. It does not address testing, security, or compliance integration in the software development lifecycle, nor does it provide any techniques or case studies relevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:11:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily addresses a specific technical issue related to TFS and SharePoint, with no explicit discussion of Continuous Improvement principles or practices. It lacks any mention of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning. The focus is on resolving a particular error rather than on broader themes of continuous improvement or organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:11:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS and SharePoint, with no discussion of Common Goals, Agile, or DevOps principles. It lacks any mention of shared objectives or alignment strategies, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:11:32",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS and SharePoint, with no explicit discussion on competence, continuous learning, or skill development. While it may imply a level of competence in troubleshooting, it does not align with the core themes of the category.",
     "level": "Ignored"
   }
 }

@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:43:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:34:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses features and enhancements of Visual Studio 2013 and TFS 2013, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the features of Visual Studio 2013 and TFS 2013, with no explicit discussion on Evidence-Based Management principles or metrics. While it touches on aspects of agile improvements, it lacks a direct connection to data-informed decision-making or empirical evidence, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,14 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T04:47:12",
+    "calculated_at": "2025-03-22T07:34:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses features of Visual Studio 2013 and TFS 2013, touching on aspects of Agile methodologies and some tools that support DevOps practices, such as build management and continuous delivery. However, it lacks a focused discussion on the principles and cultural shifts of DevOps, making it more of a product overview than a dedicated exploration of DevOps concepts.",
+    "reasoning": "The content primarily discusses features of Visual Studio 2013 and TFS 2013, focusing on enhancements and tools rather than the core principles of DevOps. While there are mentions of agile practices and continuous delivery, the discussion lacks depth in terms of DevOps philosophy, automation, and shared accountability, which are central to the category. The content is more aligned with software development tools than with the broader DevOps culture and practices.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,7 +332,7 @@
     "reasoning": "Content primarily discusses new features and enhancements in Visual Studio 2013 and TFS 2013, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T11:44:01",
     "ai_confidence": 0,
@@ -340,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T11:44:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:34:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses features and enhancements of Visual Studio 2013 and TFS 2013, with no clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses features of Visual Studio 2013 and TFS 2013, with some references to agile improvements and tools. However, it primarily focuses on software development tools rather than the Agile Product Operating Model itself. While there are mentions of agile practices, they are not the primary focus, and the depth of discussion on APOM principles is minimal.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -421,14 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T04:48:03",
+    "calculated_at": "2025-03-22T07:34:36",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content discusses features of Visual Studio 2013 and TFS 2013, with a brief mention of continuous delivery in the context of build creation. However, the primary focus is on tool enhancements and user interface improvements rather than the principles and practices of Continuous Delivery. The discussion lacks depth in terms of CD methodologies, automation, or deployment strategies, which are core to the category.",
+    "reasoning": "The content discusses features of Visual Studio 2013 and TFS 2013, with a brief mention of continuous delivery in the context of build creation. However, the primary focus is on tool enhancements and user experience rather than the principles and practices of Continuous Delivery. While there are some relevant aspects, such as automation and incremental improvements, the overall discussion does not deeply engage with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1524,6 +1530,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses new features and enhancements in Visual Studio 2013 and TFS 2013, with a focus on user interface improvements and tool functionalities. There is no explicit mention of the Shift-Left Strategy or its principles, benefits, or techniques. While there are references to testing and agile practices, they do not align with the proactive integration of testing and security earlier in the development lifecycle as defined by the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:34:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on new features and enhancements in Visual Studio 2013 and TFS 2013, with some references to incremental improvements and user experience enhancements. However, it lacks a strong emphasis on the principles of Continuous Improvement, such as empirical evidence, data-driven decision-making, or a culture of experimentation. While there are mentions of enhancements and usability improvements, these are not deeply tied to the broader themes of Continuous Improvement or Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:34:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the features and enhancements of Visual Studio 2013 and TFS 2013, with little to no direct discussion on Common Goals within Agile or DevOps frameworks. While there are mentions of Agile tools and processes, they are not explored in the context of aligning strategy with execution or shared objectives. The discussion lacks depth in connecting these features to the overarching principles of Common Goals, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:34:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the features and enhancements of Visual Studio 2013 and TFS 2013, with little emphasis on the concept of competence. While there are mentions of improving development processes and tools, these do not directly address continuous learning, skill development, or the professional principles associated with competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

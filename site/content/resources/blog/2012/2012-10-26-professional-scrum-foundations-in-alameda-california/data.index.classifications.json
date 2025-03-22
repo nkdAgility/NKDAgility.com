@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T15:39:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:03:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the Professional Scrum Foundations course and its structure, focusing on Scrum roles and events rather than evidence-based management principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Professional Scrum Foundations course, discussing Scrum roles, events, and team dynamics without a clear emphasis on Evidence-Based Management principles. While there are mentions of team collaboration and iterative learning, the discussion lacks empirical evidence or metrics that align with the core themes of EBM. The content does not provide substantial detail on data-informed decision-making or the evaluation of current value, time to market, or ability to innovate.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -148,11 +151,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T16:30:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:02:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Scrum methodology rather than DevOps principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum, a framework for agile project management, rather than discussing DevOps principles or practices. While there are mentions of collaboration and team dynamics, these are framed within the context of Scrum rather than the broader DevOps philosophy. The content lacks depth in addressing key DevOps topics such as automation, shared accountability, or continuous delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -335,7 +341,7 @@
     "reasoning": "Content primarily focuses on the Professional Scrum Foundations course, discussing Scrum roles, events, and team dynamics without a clear emphasis on Systems Thinking principles or methodologies.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-14T16:30:52",
     "ai_confidence": 0,
@@ -346,12 +352,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T08:03:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles and practices, which are relevant to Agile methodologies, but it primarily focuses on the Scrum framework rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the Professional Scrum Foundations course, which is centred around Scrum practices rather than the broader Agile Product Operating Model. While it touches on some agile principles and team dynamics, it lacks a comprehensive discussion on the key topics of APOM, such as transitioning to a product ethos or integrating product management practices. The depth of discussion on Scrum roles and events is significant, but it does not sufficiently align with the core themes of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -421,12 +430,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T08:03:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Continuous Delivery as part of a broader discussion on Scrum and software delivery processes, making it a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the Professional Scrum Foundations course, with only a brief mention of Continuous Delivery as one of several strategies for delivering high-quality software. While it touches on relevant themes such as delivering working software and the importance of feedback, it lacks a comprehensive exploration of Continuous Delivery principles, practices, and tools. The discussion is more centred on Scrum methodology rather than Continuous Delivery as a distinct practice.",
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -1540,5 +1552,41 @@
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Professional Scrum Foundations course, discussing Scrum roles, sprints, and team dynamics without explicitly addressing the Shift-Left Strategy. While there are mentions of early feedback and collaboration, these concepts are not explored in the context of integrating testing, security, or compliance earlier in the development process, which is central to the Shift-Left Strategy.",
     "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:02:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the Professional Scrum Foundations course, which includes elements of Continuous Improvement through the Scrum framework. It mentions the importance of feedback, iterative learning, and adapting processes, which align with Continuous Improvement principles. However, the primary focus is on Scrum training rather than a dedicated exploration of Continuous Improvement as a standalone topic, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:02:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the Professional Scrum Foundations course, focusing on team dynamics and the Scrum framework. While it touches on concepts like self-organisation and team collaboration, it lacks a direct emphasis on aligning strategy with execution or shared objectives that guide decision-making. The mention of actionable backlogs hints at operationalising goals, but the overall discussion is more about the course structure and experiences rather than a deep exploration of Common Goals in Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:02:59",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the Professional Scrum Foundations course, which aims to enhance skills and competencies in Scrum practices. While it mentions the importance of practical experience and team collaboration, the primary focus is on the course structure and activities rather than a deep exploration of competence as a foundational principle. The discussion on learning and team dynamics is present but lacks a thorough examination of continuous development and the strategies for fostering a culture of competence.",
+    "level": "Secondary"
   }
 }

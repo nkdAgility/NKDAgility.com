@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:23:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:01:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of ownership in user stories within Scrum, without addressing evidence-based management principles or empirical data.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of ownership in Scrum management, focusing on team communication and project success. It does not engage with the principles of Evidence-Based Management, such as data-informed decision-making or empirical metrics. The discussion is centred around Scrum practices rather than evidence-based practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,11 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T01:23:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:01:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum management and the importance of having an owner for user stories, which is more aligned with Agile methodologies than DevOps principles. While there are elements of team communication and responsibility that could tangentially relate to DevOps, the core discussion does not address the key themes of DevOps such as automation, shared accountability across teams, or continuous value delivery. Therefore, the confidence score reflects a low alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -326,7 +332,7 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:24:11",
     "ai_confidence": 0,
@@ -337,14 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T07:11:13",
-    "ai_confidence": 42.0,
-    "ai_mentions": 20.0,
-    "ai_alignment": 30.0,
-    "ai_depth": 40.0,
+    "calculated_at": "2025-03-22T09:01:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses the role of a team member in managing user stories and ensuring communication with the Product Owner, which aligns with Agile principles. However, it primarily focuses on Scrum practices rather than the broader Agile Product Operating Model, leading to a moderate confidence score.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the role of ownership in Scrum, which is a specific agile practice rather than a broader discussion on the Agile Product Operating Model. While it touches on aspects of team communication and responsibility, it lacks a comprehensive exploration of the APOM principles, such as transitioning to a product ethos or integrating product management practices. The focus remains on Scrum management rather than the overarching framework of APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -415,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:02:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:01:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not related to Continuous Delivery principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of ownership in Scrum management, which is a methodology related to Agile practices. While it touches on aspects of team communication and project success, it does not explicitly address Continuous Delivery principles, practices, or benefits. The focus is on Scrum roles rather than the continuous delivery process itself, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1509,6 +1518,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the importance of having an owner for user stories in Scrum, which is more focused on team roles and responsibilities rather than the Shift-Left Strategy. There are no explicit mentions of integrating testing, security, or compliance early in the development process, nor does it provide any techniques or case studies related to the Shift-Left approach. The discussion lacks depth in relation to the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:01:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the importance of assigning ownership to user stories within Scrum, which is a specific aspect of team management rather than a broader discussion on Continuous Improvement. While it touches on improving team communication and project success, it lacks a comprehensive exploration of Continuous Improvement principles, such as empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation. The discussion is somewhat relevant but does not delve deeply into the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:01:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of having an owner for user stories in Scrum, which indirectly relates to the concept of Common Goals by promoting accountability and clarity within the team. However, it primarily focuses on Scrum management techniques rather than explicitly addressing shared objectives or strategic alignment. The discussion lacks depth in connecting these practices to broader organisational goals, resulting in a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:01:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of having an owner for user stories in Scrum, which indirectly relates to competence by emphasising responsibility and communication within the team. However, it lacks a direct focus on continuous learning, skill development, or the broader implications of competence in Agile methodologies. The discussion is more about roles and responsibilities rather than the foundational principles of competence.",
     "level": "Ignored"
   }
 }

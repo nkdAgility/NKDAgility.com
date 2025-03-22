@@ -37,8 +37,7 @@ tags:
 - Pragmatic Thinking
 - Technical Excellence
 - Technical Mastery
-categories:
-- DevOps
+categories: []
 preview: naked-alm-git-1-1.png
 
 ---

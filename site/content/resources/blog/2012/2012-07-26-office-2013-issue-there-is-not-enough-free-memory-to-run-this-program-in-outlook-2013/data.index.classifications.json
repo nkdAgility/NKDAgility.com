@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:06:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:16:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues and solutions related to Outlook 2013, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on troubleshooting issues with Outlook 2013 and does not discuss Evidence-Based Management or its key topics. There are no direct mentions or relevant concepts related to data-informed decision-making or empirical evidence.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:06:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:15:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues and solutions related to Outlook 2013 and does not address any DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting issues related to Outlook 2013 and does not discuss any principles, practices, or cultural shifts associated with DevOps. There are no direct mentions of DevOps concepts, and the discussion lacks depth in relation to the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -311,7 +317,7 @@
     "reasoning": "Content primarily discusses troubleshooting issues with Outlook 2013 and does not address Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:07:16",
     "ai_confidence": 0,
@@ -322,11 +328,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:07:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:15:59",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
     "final_score": 1.0,
-    "reasoning": "Content is focused on troubleshooting issues with Outlook 2013 and does not discuss Agile principles or product operating models.",
+    "reasoning": "The content focuses entirely on troubleshooting issues related to Outlook 2013 and does not mention or align with any principles of the Agile Product Operating Model. It discusses technical solutions and workarounds for a specific software problem, which is unrelated to agile methodologies or product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -394,11 +403,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:31:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:16:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to Microsoft Outlook, specifically memory errors and workarounds, which are unrelated to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on troubleshooting memory issues in Outlook 2013 and does not discuss Continuous Delivery principles, practices, or related topics. There are no mentions of automation, incremental improvements, or any relevant strategies that align with Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1425,6 +1437,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses troubleshooting issues related to Outlook 2013 and does not mention or align with the principles of the Shift-Left Strategy in software development. There are no discussions on integrating testing, security, or compliance earlier in the development process, nor any relevant case studies or tools related to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:15:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue with Outlook 2013, providing workarounds and solutions. It does not discuss Continuous Improvement principles, nor does it reflect on processes or team effectiveness. The mention of updates and solutions is more about resolving a problem rather than fostering a culture of continuous improvement or experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:15:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting issues related to Outlook 2013 and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no mentions of shared objectives, alignment, or strategic goals, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:15:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting technical issues with Outlook 2013 and does not discuss competence, continuous learning, or skill development. While it provides solutions to a specific problem, it lacks any reference to the principles of professionalism or quality delivery associated with the category of competence.",
     "level": "Ignored"
   }
 }

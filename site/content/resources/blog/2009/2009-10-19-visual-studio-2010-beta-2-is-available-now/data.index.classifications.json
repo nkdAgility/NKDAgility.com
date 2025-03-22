@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:57:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:09:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release and features of Visual Studio 2010, with no mention of Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the features and editions of Visual Studio 2010 Beta 2, with no direct mention of Evidence-Based Management principles or metrics. It lacks any alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and provides minimal detail relevant to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T01:57:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:09:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of Visual Studio 2010 and its features, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the features and editions of Visual Studio 2010, with no explicit discussion of DevOps principles or practices. While it mentions Team Foundation Server, which is related to DevOps, the overall emphasis is on the IDE and its capabilities rather than on collaboration, automation, or continuous delivery, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses the release and features of Visual Studio 2010, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:58:19",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:58:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:09:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release and features of Visual Studio 2010, with no focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the features and editions of Visual Studio 2010 Beta 2, with no direct mention of Agile methodologies or the Agile Product Operating Model. While there are references to Team Foundation Server and ALM, these do not align with the core principles of the Agile Product Operating Model, which emphasises a product-oriented mindset and continuous delivery. The discussion lacks depth and relevance to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:29:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:09:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio 2010 features and editions without focusing on Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the release of Visual Studio 2010 Beta 2 and its features, with no explicit discussion of Continuous Delivery principles or practices. While it mentions tools related to software development, it does not delve into automation, incremental improvements, or the cultural aspects of Continuous Delivery. Therefore, it only marginally touches on the topic, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1434,6 +1446,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the release of Visual Studio 2010 and its features, with no explicit mention of the Shift-Left Strategy. While it touches on testing elements and Team Foundation Server, it does not delve into integrating these processes earlier in the development lifecycle or the benefits of such an approach. Therefore, it lacks the necessary focus and depth on the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:09:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the release of Visual Studio 2010 Beta 2 and its features, with no explicit discussion or alignment with Continuous Improvement principles. It lacks any mention of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:09:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the features and availability of Visual Studio 2010 Beta 2, with no explicit discussion of Common Goals, Agile, or DevOps principles. While it mentions Team Foundation Server, it does not connect this to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:09:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the features and editions of Visual Studio 2010 Beta 2, with no explicit discussion on competence, continuous learning, or skill development. While it mentions tools that could be used in a development context, it does not address the principles of professionalism, quality delivery, or the importance of competence in Agile or DevOps environments.",
     "level": "Ignored"
   }
 }

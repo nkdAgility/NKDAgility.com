@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:56:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:23:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a code snippet for retrieving data from an Analysis Services cube, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a code snippet for retrieving the last processed date of SSAS cubes, which does not directly discuss Evidence-Based Management principles or metrics. While it touches on data retrieval, it lacks explicit references to empirical decision-making, current value, or any of the key topics outlined in the EBM definition. The discussion is technical and does not engage with the strategic aspects of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:56:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:22:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a code snippet for retrieving the last processed date of a cube, which is not related to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a code snippet for retrieving the last processed date of SSAS cubes, which is more aligned with data analysis and programming rather than DevOps principles. There are no direct mentions of DevOps concepts such as collaboration, automation, or shared accountability. The discussion lacks depth in relation to DevOps practices, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -308,7 +314,7 @@
     "reasoning": "Content primarily discusses a code implementation for retrieving data from an Analysis Services cube, with no focus on Systems Thinking principles or organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:57:14",
     "ai_confidence": 0,
@@ -319,11 +325,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:57:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:23:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a code function for retrieving data from an Analysis Services cube, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a code snippet for retrieving the last processed date of SSAS cubes, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or any relevant discussions that align with the core themes of the category. The content lacks depth and does not provide any insights into the Agile Product Operating Model, making it a very low confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -394,11 +403,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:23:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on retrieving last processed dates for a data cube and does not discuss Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on retrieving the last processed date for SSAS cubes, which is a specific coding task. It does not discuss Continuous Delivery principles, practices, or any related topics. There are no direct mentions of Continuous Delivery, and the content lacks depth in discussing any relevant themes such as automation, rapid feedback, or software quality. Overall, it is unrelated to the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1428,6 +1440,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on a specific code implementation for retrieving the last processed date of a cube in a database, with no direct mention or discussion of the Shift-Left Strategy. It lacks alignment with the core themes of integrating testing, security, or compliance early in the development process, and does not provide any depth on the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:22:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific code snippet for retrieving the last processed date of SSAS cubes, which does not directly discuss Continuous Improvement principles. While there is a brief mention of efficiency, it lacks a comprehensive exploration of Continuous Improvement concepts such as empirical evidence, team effectiveness, or strategies for fostering a culture of experimentation. The discussion is technical and does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:22:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical code snippet for retrieving the last processed date of SSAS cubes, which does not relate to the concept of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth in these areas. The content is more about a specific coding task rather than any collaborative or strategic framework.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:22:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical code snippet for retrieving the last processed date of SSAS cubes, which does not directly address the principles of competence in Agile, Scrum, or DevOps. While it may imply a level of technical skill, it lacks explicit discussions on continuous learning, quality outcomes, or fostering a culture of competence. The mention of performance issues is more about technical efficiency than competence in a professional context.",
     "level": "Ignored"
   }
 }

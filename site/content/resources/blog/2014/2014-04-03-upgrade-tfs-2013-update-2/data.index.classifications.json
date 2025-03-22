@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:02:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:23:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and upgrade process of TFS 2013 Update 2, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the features and benefits of upgrading to TFS 2013 Update 2, discussing specific functionalities related to backlog, test, and release management. It does not engage with the principles of Evidence-Based Management, such as data-informed decision-making or empirical metrics. While it mentions improvements that could enhance development processes, it lacks a direct connection to the core themes of EBM, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:50:29",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-22T07:23:17",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
-    "reasoning": "The content discusses various features of Team Foundation Server (TFS) 2013 Update 2, including release management and version control, which are relevant to DevOps practices. However, the focus is primarily on the specifics of the TFS update rather than broader DevOps principles or practices. While it touches on automation and release management, it lacks a comprehensive exploration of DevOps culture, metrics, or case studies, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the features and benefits of upgrading to TFS 2013 Update 2, which is a tool related to software development and project management. While it touches on aspects of release management and version control, it does not explicitly discuss the broader DevOps philosophy or principles such as collaboration, automation, or shared accountability. The mention of release management features indicates some alignment with DevOps practices, but the overall discussion lacks depth in exploring the cultural and process-oriented aspects of DevOps.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -332,7 +335,7 @@
     "reasoning": "Content primarily discusses the features and upgrade process of Team Foundation Server 2013 Update 2, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T11:03:26",
     "ai_confidence": 0,
@@ -343,11 +346,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T11:03:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:23:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the features and upgrade process of Team Foundation Server 2013 Update 2, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the features and benefits of upgrading to TFS 2013 Update 2, discussing specific functionalities related to backlog, test, and release management. While it touches on agile practices, it does not explicitly discuss the Agile Product Operating Model or its core principles, making it a secondary mention rather than a primary focus.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -424,14 +430,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T04:34:08",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-22T07:23:39",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily discusses the features and updates of Team Foundation Server (TFS) 2013 Update 2, with a focus on installation and upgrade processes. While it touches on release management features, which are relevant to Continuous Delivery, the overall emphasis is on specific functionalities rather than the principles and practices of Continuous Delivery itself. The discussion lacks depth in terms of Continuous Delivery methodologies, automation, and risk management, leading to a low confidence score in alignment with the category.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses features of TFS 2013 Update 2, including release management, which is a component of Continuous Delivery. However, the primary focus is on the upgrade process and specific features rather than a comprehensive exploration of Continuous Delivery principles or practices. While there are mentions of release management and automation, the overall discussion lacks depth in Continuous Delivery concepts and does not provide a thorough analysis of its benefits or strategies.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1524,6 +1530,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the features and updates of Team Foundation Server 2013 Update 2, focusing on installation and upgrade processes, rather than integrating testing, security, or compliance earlier in the software development lifecycle. While there are mentions of test management features, they do not align with the core principles of the Shift-Left Strategy, which emphasises early integration of critical processes. The discussion lacks depth in addressing the proactive approach of identifying issues early in development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:23:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the features and benefits of upgrading to TFS 2013 Update 2, with a strong emphasis on specific functionalities rather than discussing Continuous Improvement principles. While it touches on enhancements that could lead to better processes, it lacks a direct discussion on Continuous Improvement methodologies, empirical evidence, or a culture of experimentation. The content does not provide a comprehensive exploration of how these updates contribute to ongoing improvement or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:23:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects and features of TFS 2013 Update 2, such as backlog management, test management, and release management. While it discusses improvements that could potentially support team collaboration, it does not explicitly address the concept of Common Goals or their significance in Agile and DevOps frameworks. The discussion lacks depth in connecting these features to shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:23:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the features and benefits of upgrading to TFS 2013 Update 2, with little emphasis on competence as defined in the Agile and DevOps context. While it discusses improvements in backlog, test, and release management, it does not delve into continuous learning, skill development, or the professional growth of teams, which are central to the competence category.",
     "level": "Ignored"
   }
 }

@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:36:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:18:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to Evidence-Based Management principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, with no direct mention or relevance to Evidence-Based Management principles or metrics. It lacks any discussion on data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:36:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:18:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to DevOps principles or practices. There are no direct mentions of DevOps concepts, and the discussion lacks any alignment with the core themes of collaboration, automation, or continuous value delivery.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -305,7 +311,7 @@
     "reasoning": "Content primarily discusses the size of the VS2010 iso and the absence of MSDN documentation, which is unrelated to Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:37:41",
     "ai_confidence": 0,
@@ -316,11 +322,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:37:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:18:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the size of an ISO file and the absence of MSDN documentation, which is unrelated to the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content does not discuss the Agile Product Operating Model or any related principles. It focuses solely on the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to agile methodologies or product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -388,11 +397,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:18:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses reasons for the size of an ISO installation and absence of MSDN documentation, which are unrelated to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion does not align with any of the key topics outlined for this category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1410,6 +1422,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content does not discuss the Shift-Left Strategy or its principles, focusing instead on the size of a software installation and the absence of MSDN documentation. There are no relevant mentions or alignment with the core themes of integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:18:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to Continuous Improvement principles. There are no direct mentions of continuous improvement practices, nor does it align with the core themes of the category. The discussion lacks depth and does not provide any insights into processes, products, or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:18:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content does not discuss Common Goals or any related Agile or DevOps principles. It focuses solely on the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to the category's core themes.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:18:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, which does not relate to the principles of competence in Agile, Scrum, DevOps, or Lean methodologies. There are no direct mentions of continuous learning, skill development, or any related themes that would align with the category of competence.",
     "level": "Ignored"
   }
 }

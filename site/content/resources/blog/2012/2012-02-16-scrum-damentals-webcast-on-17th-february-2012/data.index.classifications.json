@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:07:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:27:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum methodology and its challenges, without a focus on evidence-based management principles or empirical data.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum methodologies and challenges rather than discussing Evidence-Based Management principles. While it touches on implementation strategies, it lacks direct references to empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -133,11 +136,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T21:07:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:27:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum, an agile methodology, rather than DevOps principles. While it briefly touches on challenges and strategies related to Scrum, it does not discuss the core themes of DevOps such as collaboration, automation, or shared accountability. The mention of Scrum adoption pitfalls does not align with the DevOps philosophy, which emphasises a broader integration of people, processes, and technology.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -338,7 +344,7 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:08:50",
     "ai_confidence": 0,
@@ -349,11 +355,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T21:08:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:27:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum methodology and its challenges, rather than focusing on the Agile Product Operating Model as a primary topic.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Scrum, which is an agile methodology, but does not explicitly discuss the Agile Product Operating Model or its principles. While it touches on challenges and strategies related to Scrum implementation, it lacks a direct connection to product management practices or the broader themes of the Agile Product Operating Model. The depth of discussion is moderate, focusing on Scrum challenges rather than the integration of agile methodologies with product management principles.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -427,11 +436,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:09:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:27:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum methodology and its challenges, rather than Continuous Delivery principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum, an Agile methodology, discussing its challenges and strategies rather than Continuous Delivery principles. While there may be some indirect relevance to software delivery practices, the core themes of Continuous Delivery are not addressed, and the discussion lacks depth in this area.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1524,6 +1536,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum methodology and its challenges, with no direct mention of the Shift-Left Strategy. While it discusses implementation knowledge and strategies, it does not address integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:27:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum strategies and challenges rather than Continuous Improvement. While it touches on implementation knowledge and challenges, it lacks a strong emphasis on the principles of Continuous Improvement, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The discussion is more about Scrum practices than about ongoing improvement processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:27:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a Scrum-dedicated webcast, discussing advanced strategies and challenges rather than explicitly addressing Common Goals. While it touches on Scrum adoption and challenges, it lacks a clear connection to shared objectives or alignment within Agile and DevOps frameworks. The discussion is more about implementation knowledge and individual challenges rather than the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:27:41",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses advanced Scrum strategies and challenges, which indirectly relates to competence in terms of skill development and overcoming obstacles in Scrum implementation. However, it lacks explicit discussions on continuous learning or the importance of competence as a foundational principle. The depth of discussion on challenges and strategies provides some insight into competence but does not fully align with the core themes of the category.",
     "level": "Ignored"
   }
 }

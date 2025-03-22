@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:55:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:57:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a talk on Silverlight 4, MVVM, and Test-Driven Development, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a talk about Silverlight 4, MVVM, and test-driven development, with no direct mention of Evidence-Based Management principles or metrics. While it discusses software development practices, it does not align with the core themes of EBM, such as data-informed decision-making or value delivery metrics. The depth of discussion is also minimal, as it does not provide any insights into empirical decision-making or outcome management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T00:55:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:57:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Silverlight, MVVM, and test-driven development, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a talk about Silverlight 4, MVVM, and test-driven development, which are not directly related to DevOps principles or practices. While there are mentions of development practices, they do not align with the core themes of DevOps such as collaboration, automation, or shared accountability. The discussion lacks depth in any DevOps-related topics, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +326,7 @@
     "reasoning": "Content primarily discusses Silverlight, MVVM, and Test-Driven Development, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:56:24",
     "ai_confidence": 0,
@@ -331,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:56:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:57:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Silverlight, MVVM, and test-driven development, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a talk about Silverlight 4, MVVM, and test-driven development, with no direct mention of the Agile Product Operating Model or its principles. While there are elements of agile practices like test-driven development, they are not discussed in the context of product management or the APOM framework. Therefore, the content does not align with the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -409,11 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:28:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:57:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Silverlight, MVVM, and Test-Driven Development, which are unrelated to Continuous Delivery principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a talk about Silverlight 4, MVVM, and test-driven development, with no explicit discussion of Continuous Delivery principles or practices. While it touches on software development topics, it does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or incremental improvements. The depth of discussion is minimal, as it mainly provides event details rather than exploring Continuous Delivery concepts.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1455,6 +1467,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a talk about Silverlight 4 and MVVM, with an emphasis on test-driven development. However, it does not explicitly discuss the Shift-Left Strategy or its principles, benefits, or techniques. The mention of test-driven development is relevant but does not align with the core themes of integrating testing and security early in the development process. Overall, the content lacks depth and direct relevance to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:57:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a talk about Silverlight 4, MVVM, and test-driven development, with no explicit discussion of Continuous Improvement principles. While there are mentions of coding practices like test-driven development, these do not align with the core themes of Continuous Improvement, such as empirical evidence or organisational processes. The depth of discussion is minimal, lacking any substantial exploration of Continuous Improvement strategies or frameworks.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:57:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific event related to Silverlight 4 and does not discuss Common Goals within Agile or DevOps frameworks. While it mentions concepts like MVVM and test-driven development, these are not directly related to the principles of aligning strategy with execution or shared objectives. The content lacks depth and detail on the significance of Common Goals, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:57:25",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on an event featuring a speaker discussing Silverlight 4, MVVM, and test-driven development. While there are elements related to skill enhancement and programming practices, the discussion does not explicitly address the concept of competence as defined in the category. The mention of enhancing coding skills is too vague and does not delve into continuous learning or the professional development aspects that are central to the competence category.",
     "level": "Ignored"
   }
 }

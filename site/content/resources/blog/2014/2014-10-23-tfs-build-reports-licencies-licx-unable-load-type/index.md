@@ -35,8 +35,7 @@ tags:
 - Practical Techniques and Tooling
 - Windows
 - System Configuration
-categories:
-- DevOps
+categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

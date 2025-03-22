@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T10:39:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:21:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and challenges related to blogging and technology, with no relevance to Evidence-Based Management.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences related to blogging and technology while skiing, with no direct mention or discussion of Evidence-Based Management principles or metrics. It lacks any alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and provides minimal depth on any relevant topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T10:39:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:21:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences while blogging and using various software tools, with no focus on DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences related to blogging and technology challenges while skiing, with no explicit mention of DevOps principles, practices, or cultural shifts. It lacks any discussion on collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The minimal mention of technology tools does not align with the key topics of DevOps, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -308,7 +314,7 @@
     "reasoning": "Content primarily discusses personal experiences with blogging tools and technology, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T10:40:07",
     "ai_confidence": 0,
@@ -319,11 +325,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T10:40:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:21:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences while blogging and does not relate to Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences related to blogging and technology while skiing, with no direct mentions or discussions of the Agile Product Operating Model or its principles. The themes of agile methodologies, product management, or organisational effectiveness are absent, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -391,11 +400,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T11:08:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:21:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about personal experiences while blogging and does not discuss Continuous Delivery or related principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences while blogging from the French Alps, discussing challenges with technology and writing rather than any principles or practices related to Continuous Delivery. There are no direct mentions of Continuous Delivery, and the themes discussed do not align with the core topics of the category. The depth of discussion is minimal and does not provide any relevant insights into Continuous Delivery practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1416,6 +1428,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content is a personal blog post about the author's experiences while skiing and using technology for blogging. It does not discuss software development processes, testing, security, or compliance, which are central to the Shift-Left Strategy. There are no direct mentions or relevant themes related to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:21:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal experiences while blogging from the French Alps, discussing technical challenges and preferences in blogging tools. There are no direct mentions of Continuous Improvement principles, nor does it align with the core themes of the category. The depth of discussion is minimal, as it does not explore any strategies or techniques related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:21:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences and challenges related to blogging while skiing, with no explicit discussion of Common Goals, Agile, or DevOps principles. It lacks alignment with the core themes of the category, and the depth of discussion is minimal, as it does not address shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:21:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences while blogging and skiing, with minimal reference to competence in a professional context. There are no explicit discussions on skill development, quality outcomes, or fostering a culture of competence. The mention of using OneNote and Word for blogging does not connect to the core themes of competence as defined in Agile or DevOps methodologies.",
     "level": "Ignored"
   }
 }

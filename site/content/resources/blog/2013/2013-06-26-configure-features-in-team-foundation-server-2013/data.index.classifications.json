@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:28:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:47:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, with no explicit discussion of Evidence-Based Management principles. While it touches on project management, it lacks any empirical evidence or metrics related to value delivery, decision-making, or outcomes, which are central to EBM. The discussion is more about practical steps and user experience rather than data-informed management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T18:28:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:46:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013, which is more focused on project management and tool usage rather than DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, which is more aligned with project management and tool usage rather than the core principles of DevOps. While it touches on aspects of team collaboration and configuration, it lacks a comprehensive discussion on DevOps philosophy, practices, or cultural shifts. The mention of features and process templates does not directly relate to the key topics of DevOps, such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +326,7 @@
     "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:28:54",
     "ai_confidence": 0,
@@ -331,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:28:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:46:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, which is more aligned with traditional project management and software configuration rather than the Agile Product Operating Model. While there are brief mentions of agile-related tools, the discussion does not delve into the principles or practices of APOM, nor does it address the core themes such as product-oriented mindset or continuous delivery.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -409,11 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:12:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:47:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly focuses on configuring features in Team Foundation Server 2013, which is not related to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, which is more about project management and tool usage rather than Continuous Delivery principles. There are no direct mentions of Continuous Delivery, and the discussion lacks depth in terms of automation, incremental improvements, or rapid feedback, which are key aspects of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1455,6 +1467,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, with no explicit discussion of the Shift-Left Strategy. While it touches on aspects of software development processes, it does not address integrating testing, security, or compliance earlier in the development lifecycle, which are core themes of the Shift-Left Strategy. The discussion lacks depth and relevance to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:46:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, with no explicit discussion on Continuous Improvement principles. While it touches on enhancing project management through feature configuration, it lacks depth in discussing empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The content does not align with the core themes of Continuous Improvement, making it a low-confidence evaluation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:46:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, which is a technical guide rather than a discussion on Common Goals. While it briefly touches on project management aspects, it does not explicitly discuss shared objectives, alignment, or the principles of Agile and DevOps. The content lacks depth in exploring how these configurations relate to overarching strategic goals or team collaboration.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:46:54",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, which is more about tool usage than discussions on competence, continuous learning, or skill development. While it touches on the importance of configuration for effective project management, it does not delve into the broader themes of competence as defined in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T17:05:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:05:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges and solutions related to virtual labs in application development, without a focus on evidence-based management principles or empirical data-driven decision-making.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the use of virtual labs in application development and testing, focusing on operational challenges and solutions rather than on evidence-based management principles. While it touches on aspects of efficiency and integration, it lacks explicit references to empirical decision-making, current value metrics, or outcome management, which are central to Evidence-Based Management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -145,14 +148,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:14:41",
-    "ai_confidence": 87.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 90.0,
-    "ai_depth": 85.0,
+    "calculated_at": "2025-03-22T08:05:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
-    "reasoning": "The content extensively discusses the integration of development and operations through the use of virtual labs, automation, and continuous delivery practices. It highlights the challenges faced by both Development and Operations teams in modern application lifecycles, aligning well with key DevOps principles. The depth of discussion on automation, integration points, and the need for collaboration between teams further supports a strong alignment with the DevOps category.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the role of virtual labs in the application lifecycle, touching on automation, integration, and collaboration between development and operations teams. While it aligns with some DevOps principles, such as the need for automation and the integration of development and operations, it primarily focuses on specific tools and practices rather than the broader DevOps philosophy. The mention of continuous delivery and the challenges faced by teams indicates a connection to DevOps, but the depth of discussion on core DevOps themes is limited.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -359,7 +362,7 @@
     "reasoning": "Content primarily discusses the challenges and solutions related to virtual labs in application development, focusing on technical aspects rather than the principles of Systems Thinking or interconnectedness within organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-14T17:06:07",
     "ai_confidence": 0,
@@ -370,11 +373,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T17:06:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:05:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges and solutions related to virtual labs in application development, without a clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses agile development and the challenges faced in modern application lifecycles, which aligns with some principles of the Agile Product Operating Model. However, it primarily focuses on virtual labs and operational complexities rather than explicitly addressing the core themes of APOM, such as product management principles or continuous delivery frameworks. The mention of agile development is brief and does not delve into the product-oriented mindset or governance aspects central to APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -451,14 +457,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-11T18:04:12",
+    "calculated_at": "2025-03-22T08:05:59",
     "ai_confidence": 72.0,
-    "ai_mentions": 60.0,
-    "ai_alignment": 80.0,
-    "ai_depth": 70.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
     "final_score": 67.0,
-    "reasoning": "The content discusses the challenges and solutions related to modern application development, particularly focusing on the role of virtual labs in facilitating Continuous Delivery. It mentions the need for rapid deployment and the integration of development and operations teams, which aligns with Continuous Delivery principles. However, while it touches on automation and deployment processes, it lacks a detailed exploration of Continuous Delivery methodologies and practices, which slightly lowers the confidence score.",
+    "reasoning": "The content discusses the role of virtual labs in the application lifecycle, touching on aspects of Continuous Delivery such as automation, rapid deployment, and the challenges of maintaining multiple environments. However, while it mentions Continuous Delivery and its implications, the primary focus is on virtual labs rather than a comprehensive exploration of Continuous Delivery principles and practices. The depth of discussion on Continuous Delivery is limited, focusing more on the challenges faced by teams rather than detailed strategies or case studies related to Continuous Delivery.",
     "level": "Secondary"
   },
   "Strategic Goals": {
@@ -1533,6 +1539,42 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of modern application development and the role of virtual labs in addressing these challenges. While it touches on aspects of testing and automation, it does not explicitly focus on integrating these processes earlier in the software development lifecycle, which is central to the Shift-Left Strategy. The discussion is more about operational efficiency and environment management rather than a proactive approach to quality and compliance.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:05:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the challenges and solutions related to modern application development and testing, touching on aspects of efficiency and integration that could relate to Continuous Improvement. However, it lacks a direct focus on the principles of Continuous Improvement, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The discussion is more about the technical aspects of virtual labs rather than a commitment to ongoing improvement processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:05:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges and solutions related to virtual labs in the application lifecycle, touching on aspects of Agile development and operational efficiency. However, it lacks a direct focus on shared objectives or strategic alignment, which are central to the concept of Common Goals. While it mentions the need for collaboration between Development and Operations teams, it does not delve deeply into how these efforts connect to overarching organisational goals or frameworks like OKRs.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:05:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges faced by Development and Operations teams in modern application development, touching on the need for skills and capabilities to manage complexity. However, it primarily focuses on the technical aspects of virtual labs and automation rather than explicitly addressing continuous learning or the development of competence as a foundational principle. While there are mentions of the need for skilled workers and the complexities of automation, the depth of discussion on competence itself is limited.",
     "level": "Ignored"
   }
 }

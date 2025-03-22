@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:50:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:43:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and anxieties related to preparing for a presentation on Application Lifecycle Management (ALM) and Visual Studio Team System, without a clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Application Lifecycle Management (ALM) and personal experiences related to preparing for a presentation. While ALM can be a component of DevOps, the discussion lacks explicit references to DevOps principles, practices, or cultural shifts. The content does not delve into key DevOps topics such as collaboration, automation, or shared accountability, resulting in a low confidence score for alignment with the DevOps category.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:50:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:43:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) and personal experiences related to presentations, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) and personal experiences related to preparing for a presentation. It does not explicitly mention the Agile Product Operating Model or its principles, nor does it align with the core themes of transitioning to a product-oriented mindset or integrating agile methodologies with product management. The focus is on individual preparation and experiences rather than on organisational effectiveness or agile product delivery.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -166,11 +172,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:50:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:43:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal experience related to preparing for a presentation on Application Lifecycle Management, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a personal experience related to preparing for a presentation on Application Lifecycle Management (ALM) and does not explicitly mention Evidence-Based Management or its key topics. While there is a mention of preparing for a presentation, it lacks any focus on data-informed decision-making or empirical evidence, which are central to EBM. The discussion is more anecdotal and does not provide depth or alignment with the principles of Evidence-Based Management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -236,7 +245,7 @@
     "reasoning": "Content primarily discusses the author's personal experience and anxiety regarding a presentation on Application Lifecycle Management, with no focus on metrics, data, or learning principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:50:59",
     "ai_confidence": 0,
@@ -889,11 +898,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:36:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:43:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) and personal experiences, with no clear focus on Continuous Delivery principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) and the author's personal experience preparing for a presentation. While ALM can relate to Continuous Delivery, the content does not explicitly address Continuous Delivery principles, practices, or benefits. It lacks depth in discussing automation, incremental improvements, or user feedback, which are key aspects of Continuous Delivery. Overall, the focus is on personal preparation rather than the category itself.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1425,6 +1437,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the author's personal experience preparing for a presentation on Application Lifecycle Management (ALM) and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. The content is largely anecdotal and lacks relevance to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:43:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the author's personal experience and anxiety regarding a presentation on Application Lifecycle Management (ALM). While there are elements of reflection and preparation, which could tangentially relate to Continuous Improvement, the core themes of the category are not addressed. There is no discussion of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning. The content lacks depth and does not provide insights into Continuous Improvement practices or methodologies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:43:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the author's personal experience and anxiety regarding a presentation on Application Lifecycle Management (ALM). While it mentions ALM, it does not discuss the concept of Common Goals within Agile or DevOps frameworks. There is no exploration of shared objectives, alignment, or strategic goals, which are central to the category of Common Goals. The content lacks depth and does not provide any techniques or frameworks related to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:43:18",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly touches on the author's anxiety regarding their knowledge and preparation for a presentation on Application Lifecycle Management (ALM). However, it primarily focuses on personal experiences and feelings rather than discussing competence in a structured or detailed manner. The mention of feeling unprepared and the need for improvement hints at the importance of competence, but it lacks depth and does not explore the broader implications of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

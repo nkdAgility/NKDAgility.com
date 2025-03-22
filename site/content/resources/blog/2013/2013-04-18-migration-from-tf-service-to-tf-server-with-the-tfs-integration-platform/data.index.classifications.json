@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:03:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:54:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the technical aspects of migrating from TF Service to TF Server, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TF Service to TF Server, with no direct mention of Evidence-Based Management principles or metrics. While it discusses compliance and data management, it does not align with the core themes of EBM, such as empirical decision-making or value delivery metrics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,14 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:16:28",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "calculated_at": "2025-03-22T07:53:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the migration process between Team Foundation Service and Team Foundation Server, which touches on aspects of version control and user management relevant to DevOps practices. However, it lacks a broader discussion on DevOps principles, automation, or cultural shifts, making it more focused on a specific technical task rather than the overarching themes of DevOps.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TF Service to TF Server using the TFS Integration Platform. While it touches on compliance and user account management, it lacks a direct discussion of DevOps principles such as collaboration, automation, or shared accountability. The mention of compliance could relate to DevOps, but it is not a primary focus. Overall, the content does not align well with the core themes of DevOps, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,7 +332,7 @@
     "reasoning": "Content primarily discusses the technical aspects of migrating from TF Service to TF Server, focusing on user account mapping and configuration, without addressing Systems Thinking principles or interconnectedness within organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:03:54",
     "ai_confidence": 0,
@@ -340,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:03:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:54:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects of migrating from TF Service to TF Server, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TF Service to TF Server using the TFS Integration Platform. It does not discuss the Agile Product Operating Model or its principles, nor does it touch on product management practices or agile methodologies. The content is more aligned with traditional project management and technical migration processes, which are outside the scope of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,11 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:54:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on migration from TF Service to TF Server with the TFS Integration Platform, which does not directly discuss principles or practices of Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the migration process from TF Service to TF Server using the TFS Integration Platform. While it touches on aspects of software management and data compliance, it does not explicitly discuss Continuous Delivery principles, practices, or benefits. The mention of user account mapping and data migration does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or incremental improvements. Overall, the content lacks depth and direct relevance to Continuous Delivery, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1470,6 +1479,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the technical aspects of migrating from TF Service to TF Server, focusing on user account mapping and data management. There are no explicit mentions of integrating testing, security, or compliance earlier in the development process, which are core to the Shift-Left Strategy. The discussion lacks depth in relation to the principles or benefits of the Shift-Left approach, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:54:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TF Service to TF Server, with no explicit discussion on Continuous Improvement principles. While it touches on planning and forethought, it lacks a broader context of ongoing reflection, adaptation, or empirical evidence that characterises Continuous Improvement. The discussion is more about execution rather than fostering a culture of experimentation or learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:54:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TF Service to TF Server, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on compliance and user mapping, these topics do not connect to the core themes of shared objectives or strategic alignment within teams. The discussion lacks depth regarding the principles of Common Goals, making it a secondary focus at best.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:54:05",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TF Service to TF Server, with minimal direct discussion on competence or skill development. While it touches on the need for planning and understanding user mappings, it lacks a deeper exploration of continuous learning or the role of competence in achieving quality outcomes. The mention of planning and forethought suggests some alignment with competence, but it is not the primary focus of the content.",
     "level": "Ignored"
   }
 }

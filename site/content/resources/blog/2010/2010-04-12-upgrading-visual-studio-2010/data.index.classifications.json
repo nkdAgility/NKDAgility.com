@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:03:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:58:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of upgrading Visual Studio 2010, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on upgrading Visual Studio 2010, providing installation instructions and personal experiences. It does not mention Evidence-Based Management or any related concepts, metrics, or empirical decision-making. The discussion is entirely technical and practical, lacking any alignment with the principles of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T01:04:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:58:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses upgrading Visual Studio 2010, which is not related to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on upgrading Visual Studio 2010, providing step-by-step instructions for installation and uninstallation. There are no direct mentions of DevOps principles, practices, or cultural shifts. The discussion lacks alignment with key DevOps topics such as collaboration, automation, or shared accountability, and does not delve into any depth regarding DevOps concepts.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -308,7 +314,7 @@
     "reasoning": "Content primarily discusses the process of upgrading Visual Studio 2010, focusing on installation and uninstallation procedures, without any mention of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:04:44",
     "ai_confidence": 0,
@@ -319,11 +325,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:04:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:58:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses upgrading Visual Studio 2010 and does not relate to Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on upgrading Visual Studio 2010, with no mention or discussion of agile methodologies, product management principles, or any related topics that align with the Agile Product Operating Model. It is primarily technical and instructional regarding software installation, which is unrelated to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -391,11 +400,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T01:39:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:58:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the uninstallation and installation process of Visual Studio 2010, which is unrelated to Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on upgrading Visual Studio 2010, providing step-by-step instructions for installation and uninstallation. It does not discuss Continuous Delivery principles, practices, or any related topics. There are no direct mentions of Continuous Delivery, and the content lacks alignment with the core themes of the category, such as automation, rapid feedback, or software quality. Overall, the content is unrelated to Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1425,6 +1437,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on upgrading Visual Studio 2010, detailing the uninstallation and installation process. There are no direct mentions of the Shift-Left Strategy, and the discussion does not align with its core themes of integrating testing, security, or compliance early in the software development lifecycle. The content lacks depth in addressing any related concepts, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:58:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on upgrading Visual Studio 2010, providing step-by-step instructions for installation. It does not discuss Continuous Improvement principles, nor does it reflect on processes, products, or team effectiveness. The mention of faster installation times is not sufficient to align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:58:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on the technical process of upgrading Visual Studio 2010, with no discussion of Common Goals, Agile, or DevOps principles. It lacks any mention of shared objectives or alignment strategies, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:58:42",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Visual Studio 2010, with no explicit discussion of competence, continuous learning, or skill development. While it touches on the importance of having the right tools for development, it does not delve into the broader themes of competence as defined in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

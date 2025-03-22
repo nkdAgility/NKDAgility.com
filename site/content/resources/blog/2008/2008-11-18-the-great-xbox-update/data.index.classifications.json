@@ -73,11 +73,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:06:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:34:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an Xbox update and user experience, with no relevant focus on DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses an Xbox update and its features, with no direct mention of DevOps principles, practices, or cultural shifts. It lacks any alignment with the core themes of DevOps, such as collaboration, automation, or shared accountability. The depth of discussion is also minimal, focusing solely on gaming rather than any relevant DevOps concepts.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -109,11 +112,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:06:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:34:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an Xbox update and does not relate to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses an Xbox update, focusing on features and user experience, with no mention of agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any relevant discussion on transitioning to a product ethos or operational stability, which are core themes of the category.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -163,11 +169,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:06:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:34:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an Xbox update and personal experiences, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses an Xbox update and does not mention Evidence-Based Management or its key topics. There is no alignment with the core themes of EBM, and the depth of discussion is non-existent as it focuses solely on gaming features.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -236,7 +245,7 @@
     "reasoning": "Content primarily discusses an Xbox update and personal experiences, with no focus on metrics, data, or learning principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:06:27",
     "ai_confidence": 0,
@@ -877,11 +886,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:37:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:34:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an Xbox update and user experience rather than principles or practices of Continuous Delivery.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses an Xbox update and its features, with no explicit mention of Continuous Delivery principles or practices. While it touches on the update process, it lacks depth and alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or user feedback.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1413,6 +1425,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses an Xbox update and does not mention or align with the principles of the Shift-Left Strategy in software development. There is no discussion of testing, security, or compliance processes, nor any techniques or tools related to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:34:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on an Xbox update, discussing new features and user experience improvements. There are no explicit mentions of Continuous Improvement principles, nor does it align with the core themes such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is minimal, as it lacks any detailed exploration of processes or strategies related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:34:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses an Xbox update and personal experiences related to it, with no mention of Common Goals, Agile, or DevOps principles. It lacks any alignment with the core themes of the category, focusing instead on gaming features and personal anecdotes.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:34:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses an Xbox update and does not address any aspects of competence, continuous learning, or skill development. It lacks any relevant discussion on Agile, Scrum, DevOps, or Lean methodologies.",
     "level": "Ignored"
   }
 }

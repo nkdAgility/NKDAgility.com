@@ -79,14 +79,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T07:28:21",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "calculated_at": "2025-03-22T09:40:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses issues related to source control and branching strategies, which are relevant to DevOps practices. However, it primarily focuses on a specific incident rather than broader DevOps principles or practices. While there are mentions of tools like TFS and some aspects of version control, the discussion lacks depth in terms of automation, CI/CD, or cultural shifts necessary for DevOps. Therefore, it aligns with the category but does not provide a comprehensive exploration of DevOps concepts.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses branching in TFS and the challenges faced in source control management, which are relevant to software development practices. However, it lacks a direct focus on DevOps principles such as collaboration, automation, or shared accountability. While it touches on aspects of development processes, it does not delve into the broader cultural or philosophical aspects of DevOps, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -118,11 +118,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:33:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:40:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to source control and branching strategies, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses issues related to source control and branching in TFS, which are not directly related to the Agile Product Operating Model. While there are mentions of development processes, they do not align with the core themes of APOM, such as product management principles or agile methodologies. The discussion lacks depth in terms of agile practices and does not provide insights into transitioning to a product-oriented mindset.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -178,11 +181,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:33:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:40:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to source control and branching in software development, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses issues related to source control and branching in TFS, with no explicit mention of Evidence-Based Management principles or metrics. While it touches on the challenges of managing development processes, it lacks a focus on empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -251,7 +257,7 @@
     "reasoning": "Content primarily discusses issues related to source control and branching strategies, with no focus on metrics, data utilisation, or learning methodologies.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:33:47",
     "ai_confidence": 0,
@@ -925,11 +931,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:56:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:40:44",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to source control branching and project management, diverging from the principles of Continuous Delivery.",
+    "final_score": 22.0,
+    "reasoning": "The content discusses branching in TFS and the challenges faced during source control management, which are tangentially related to Continuous Delivery. However, it lacks a direct focus on Continuous Delivery principles, automation, or the broader practices associated with it. The discussion is primarily about source control issues rather than the delivery process itself, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1482,6 +1491,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses issues related to source control and branching strategies without any explicit mention of the Shift-Left Strategy. While it touches on development processes, it does not align with the core themes of integrating testing, security, or compliance early in the software development lifecycle. The discussion lacks depth regarding the principles or benefits of the Shift-Left approach, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:40:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific issue related to branching in TFS and the steps taken to resolve it, which implies a form of process improvement. However, it lacks a broader discussion on Continuous Improvement principles, such as empirical evidence or a culture of experimentation. The focus is more on a specific incident rather than a commitment to ongoing improvement or strategic agility.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:40:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses issues related to branching in TFS and the challenges faced in source control management. While it touches on team dynamics and the need for control, it does not explicitly address the concept of Common Goals or their significance in Agile or DevOps frameworks. The focus is more on technical problems and personal experiences rather than aligning strategy with execution or fostering collaboration towards shared objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:40:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific issue related to source control management and the challenges faced in a development environment. While it touches on the importance of regaining control and streamlining processes, it does not explicitly address the concept of competence or continuous skill development. The focus is more on the technical aspects of branching and merging in TFS rather than on fostering a culture of competence or professional growth. Therefore, while there is some alignment with the themes of competence, it is not a primary focus of the content.",
     "level": "Ignored"
   }
 }

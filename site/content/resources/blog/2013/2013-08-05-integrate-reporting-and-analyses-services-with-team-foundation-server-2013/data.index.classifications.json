@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T17:55:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:38:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the technical steps for integrating reporting and analysis services with Team Foundation Server, lacking discussions on evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical integration of reporting and analysis services with Team Foundation Server 2013, lacking direct discussions on Evidence-Based Management principles. While it touches on data insights, it does not align with the core themes of EBM such as current value, empirical decision-making, or outcome management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T04:54:05",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "calculated_at": "2025-03-22T07:38:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on integrating reporting and analysis services with Team Foundation Server (TFS), which is a tool used in software development and project management. While it touches on aspects of configuration and setup that could be relevant to DevOps practices, such as enabling services and configuring environments, it lacks a direct discussion of core DevOps principles like Continuous Integration (CI), Continuous Delivery (CD), or automation. The depth of discussion is more technical and procedural rather than strategic or cultural, which is essential for a strong alignment with the DevOps category.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on integrating reporting and analysis services with Team Foundation Server 2013, which is more aligned with project management and specific tool usage rather than the broader principles of DevOps. While it touches on aspects of automation and configuration, it lacks a discussion on collaboration, shared accountability, or cultural shifts that are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -317,7 +320,7 @@
     "reasoning": "Content primarily focuses on the installation and configuration of SQL Server Reporting Services and Analysis Services with Team Foundation Server, lacking discussions on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T17:56:20",
     "ai_confidence": 0,
@@ -328,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T17:56:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:38:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on integrating reporting and analysis services with Team Foundation Server 2013, which does not align with discussions on the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on integrating reporting and analysis services with Team Foundation Server 2013, which is more aligned with traditional project management and technical setup rather than the Agile Product Operating Model. There are no direct mentions of agile principles, product management practices, or the core themes of APOM. The discussion lacks depth regarding agile methodologies or product-oriented mindsets, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -406,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:33:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:38:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on integrating reporting and analysis services with Team Foundation Server, which is unrelated to Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on integrating reporting and analysis services with Team Foundation Server 2013, which is more about project management and data insights rather than Continuous Delivery practices. There are no direct mentions of Continuous Delivery principles, automation in testing or deployment, or any of the key topics outlined for this category. The discussion lacks depth in relation to Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1449,6 +1458,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on integrating reporting and analysis services with Team Foundation Server 2013, which does not directly address the principles or practices of the Shift-Left Strategy. While there are mentions of configuration and integration, these are not related to early testing, security, or compliance in the software development lifecycle. The discussion lacks depth in terms of Shift-Left concepts and does not provide relevant techniques, case studies, or metrics associated with the strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:38:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical steps for integrating reporting and analysis services with Team Foundation Server 2013. While it touches on aspects of project management and data insights, it does not explicitly discuss Continuous Improvement principles, nor does it provide a culture of experimentation or learning. The content lacks depth in relation to Continuous Improvement strategies or empirical evidence, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:38:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical steps for integrating reporting and analysis services with Team Foundation Server 2013. It does not discuss the concept of Common Goals, nor does it connect to Agile or DevOps principles. While it may touch on project management, it lacks any mention of shared objectives or alignment with organisational strategy, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:38:08",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the technical steps for integrating reporting and analysis services with Team Foundation Server 2013. While it touches on aspects of configuration and installation, it does not explicitly discuss competence, continuous learning, or skill development. The mention of using default credentials and best practices hints at a level of competence but lacks depth and direct relevance to the core themes of the category.",
     "level": "Ignored"
   }
 }

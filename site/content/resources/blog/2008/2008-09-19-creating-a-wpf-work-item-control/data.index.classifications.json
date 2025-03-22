@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:44:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:41:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on creating a custom WPF control for Visual Studio Team System, which is not directly related to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating a custom WPF Work Item Control for Visual Studio Team System, which is more aligned with software development and UI design rather than the core principles of DevOps. While it mentions work item tracking, it does not discuss DevOps practices such as collaboration, automation, or continuous delivery, which are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:45:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:42:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of a custom WPF control for Visual Studio Team System, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on creating a custom WPF Work Item Control for Visual Studio Team System, which is more aligned with software development and technical implementation rather than discussing the Agile Product Operating Model. There are no direct mentions of agile principles, product management practices, or the transition from project to product ethos, which are core to the APOM. The content lacks depth in discussing any relevant agile methodologies or frameworks, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -175,11 +181,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:45:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:42:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the creation of a WPF Work Item Control and does not focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating a custom WPF Work Item Control for Visual Studio Team System, with no explicit discussion of Evidence-Based Management principles or metrics. While it mentions work item controls, it does not align with the core themes of EBM such as data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -248,7 +257,7 @@
     "reasoning": "Content primarily discusses the creation of a custom WPF control for work item tracking in Visual Studio, with no focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:45:36",
     "ai_confidence": 0,
@@ -916,11 +925,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:36:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:42:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the creation of a WPF control for Visual Studio Team System without any mention of Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating a custom WPF Work Item Control for Visual Studio Team System, which is more about software development and UI control implementation rather than Continuous Delivery practices. There are no direct mentions of Continuous Delivery principles, automation, or related strategies. The discussion lacks depth in terms of Continuous Delivery concepts, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1467,6 +1479,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on creating a custom WPF control for work item tracking in Visual Studio Team System. It does not discuss the principles, benefits, or techniques of the Shift-Left Strategy, nor does it address testing, security, or compliance integration early in the development process. The content is more about technical implementation rather than strategic discussions related to Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:41:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating a custom WPF Work Item Control for Visual Studio Team System, which does not directly discuss Continuous Improvement principles. While there may be an implicit suggestion of enhancing user interactions, the content lacks explicit discussions on empirical evidence, data-driven decision-making, or strategies for integrating Continuous Improvement into organisational processes. Therefore, it does not align well with the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:41:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating a custom WPF Work Item Control for Visual Studio Team System, which is a technical implementation rather than a discussion on Common Goals. While it mentions work item tracking, it does not address the alignment of strategy with execution or shared objectives that guide decision-making within Agile or DevOps frameworks. The content lacks depth in discussing the significance of Common Goals, their role in team alignment, or any techniques for ensuring alignment with strategic objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:42:00",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on technical implementation details of creating a WPF Work Item Control, with minimal reference to the concept of competence. While it discusses the development process, it lacks explicit discussions on continuous learning, skill development, or the importance of competence in Agile or DevOps contexts. The technical nature of the content does not align with the core themes of competence, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

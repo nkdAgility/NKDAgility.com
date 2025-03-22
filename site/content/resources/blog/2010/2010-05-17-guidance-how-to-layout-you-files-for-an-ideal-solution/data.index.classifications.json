@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:37:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:55:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses file layout and version control practices, with no clear focus on Evidence-Based Management principles or empirical data application.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on file layout and version control practices in TFS, with references to Scrum but lacks any discussion on evidence-based management principles or metrics. It does not provide empirical evidence or data-informed decision-making insights, which are central to the Evidence-Based Management category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,15 +133,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T13:04:48",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-22T08:55:02",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content primarily focuses on structuring files and version control practices within Team Foundation Server (TFS), which is relevant to DevOps. However, it lacks explicit discussions on core DevOps principles such as Continuous Integration (CI) and Continuous Delivery (CD). While it touches on automation and branching strategies, the depth of discussion is limited, and the primary focus is more on project management and file organisation rather than the broader DevOps culture and practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on file layout and version control practices within Team Foundation Server (TFS), which are more aligned with software development and project management than with the core principles of DevOps. While there are mentions of automated builds and branching strategies, these are presented in a context that lacks a broader discussion on collaboration, shared accountability, or cultural shifts that are central to DevOps. The depth of discussion is limited to technical practices without addressing the philosophical aspects of DevOps.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -332,7 +335,7 @@
     "reasoning": "Content primarily focuses on file organisation and version control strategies within software development, with no clear discussion of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:37:58",
     "ai_confidence": 0,
@@ -343,11 +346,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:37:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:55:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses file structure and version control practices in Team Foundation Server, with a focus on branching strategies for Scrum teams, rather than the Agile Product Operating Model.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on file layout and version control practices within Team Foundation Server (TFS), with only brief mentions of Scrum and branching strategies. It lacks a comprehensive discussion on the Agile Product Operating Model principles, such as transitioning to a product ethos or continuous delivery. The content does not delve into the core themes of APOM, making it only tangentially related.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -421,14 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T06:57:25",
+    "calculated_at": "2025-03-22T08:55:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses version control and branching strategies, which are relevant to Continuous Delivery, but it primarily focuses on file organisation and project structure rather than the principles and practices of Continuous Delivery itself. While there are mentions of automated builds and maintaining a production-ready state, the overall emphasis is on project management and setup rather than the core themes of Continuous Delivery.",
+    "reasoning": "The content primarily focuses on file layout and version control practices within Team Foundation Server (TFS), which are related to software development but do not explicitly address Continuous Delivery principles. While there are mentions of automated builds and branching strategies that could support Continuous Delivery, the overall discussion lacks a direct focus on the core themes of Continuous Delivery, such as rapid feedback, incremental improvements, or cultural aspects. The depth of discussion on relevant topics is limited, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1533,6 +1539,42 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on file organisation and version control practices within a software development context, without explicitly discussing the Shift-Left Strategy. While it touches on aspects of development processes, such as branching and release management, it does not address integrating testing, security, or compliance earlier in the development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:55:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on file layout and version control practices in TFS, with only brief mentions of maintaining solutions and improving workflows. While there are elements of process improvement, the discussion lacks a strong emphasis on Continuous Improvement principles, such as empirical evidence, culture of experimentation, or strategic business agility.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:55:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on file layout and version control practices in TFS, with only brief mentions of Scrum and branching strategies. It lacks a clear discussion on aligning team efforts with overarching strategic objectives, which is essential for the Common Goals category. The depth of discussion is more technical and procedural rather than strategic, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:55:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on file layout and version control practices in TFS, which are technical aspects of software development. While it touches on maintaining a structured approach that could imply a level of competence, it does not explicitly discuss continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The depth of discussion is limited to practical guidance without exploring the underlying principles of competence.",
     "level": "Ignored"
   }
 }

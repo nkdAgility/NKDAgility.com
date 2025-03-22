@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:36:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:32:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a personal review of a laptop and its performance, with no discussion of Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on a personal review of a laptop, discussing performance and user experience without any reference to Evidence-Based Management principles or metrics. There are no direct mentions of data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T11:36:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:32:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on personal experiences with a laptop and software, with no discussion of DevOps principles, practices, or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal review of a laptop and its performance, with no explicit discussion of DevOps principles, practices, or cultural shifts. While there are mentions of development tools like Visual Studio and TFS, these are not tied to the DevOps philosophy or its key topics. The content lacks depth in relation to DevOps, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -311,7 +317,7 @@
     "reasoning": "Content primarily discusses personal experiences and technical specifications of a laptop, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T11:36:59",
     "ai_confidence": 0,
@@ -322,11 +328,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T11:37:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:32:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal review of a laptop and its performance, with no relevance to Agile principles or product operating models.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal review of a laptop, discussing its performance and usability rather than any principles or practices related to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management, or related concepts, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T17:51:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:32:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a product review of a laptop, discussing personal experience and performance issues, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal review of a laptop and its performance, with no direct mention or discussion of Continuous Delivery principles, practices, or related topics. It does not explore automation, incremental improvements, or any strategies relevant to Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1437,6 +1449,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on a personal review of a laptop and its performance, with no discussion of software development processes, testing, security, or compliance. It does not mention the Shift-Left Strategy or its principles, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:32:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a personal review of a laptop, discussing performance and user experience rather than Continuous Improvement principles. While there are mentions of updates and improvements in drivers, these are not framed within a broader context of Continuous Improvement methodologies or strategies. The discussion lacks depth and does not align with the core themes of Continuous Improvement, such as empirical evidence or organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:32:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal review of a laptop, discussing its performance and user experience. There are no explicit mentions of Common Goals, Agile, or DevOps principles. The discussion lacks alignment with the core themes of shared objectives or strategic alignment, and it does not provide any depth on these topics. Overall, the content is unrelated to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:32:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal review of a laptop's performance and user experience, with no direct discussion of competence in terms of skill development or professional growth. While there are mentions of using development tools, they do not connect to the broader themes of competence as defined in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

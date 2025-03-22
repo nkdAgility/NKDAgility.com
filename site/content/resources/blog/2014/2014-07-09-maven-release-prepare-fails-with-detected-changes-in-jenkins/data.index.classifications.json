@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T09:14:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:17:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Jenkins and TFS integration, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses technical issues related to Maven and Jenkins integration with TFS, focusing on resolving build failures and file management. It does not explicitly mention Evidence-Based Management or its key topics, nor does it provide any empirical evidence or data-informed decision-making insights. The discussion is more about practical troubleshooting rather than strategic management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:45:40",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-22T07:17:20",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the integration of Jenkins with TFS, which is relevant to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. It addresses issues related to build processes and source control management, which are key aspects of DevOps. However, the discussion lacks depth in exploring broader DevOps principles, cultural shifts, or metrics, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses a technical issue related to Jenkins and TFS integration, focusing on resolving a specific problem with Maven release preparation. While it touches on aspects of automation and collaboration between development and operations, it lacks a broader discussion of DevOps principles or cultural shifts. The mention of tools and specific configurations does not align with the core themes of DevOps as a philosophy, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -326,7 +329,7 @@
     "reasoning": "Content primarily discusses technical issues related to Jenkins and TFS integration, focusing on specific problems and solutions rather than exploring Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T09:15:03",
     "ai_confidence": 0,
@@ -337,11 +340,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T09:15:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:17:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Jenkins and TFS integration, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to Maven and Jenkins integration with TFS, focusing on build failures and file management. It does not address any principles or practices of the Agile Product Operating Model, nor does it mention product management or agile methodologies in a relevant context. The discussion is strictly technical and does not align with the core themes of the APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -415,14 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T04:27:53",
+    "calculated_at": "2025-03-22T07:17:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses issues related to Jenkins and TFS in the context of a migration project, touching on aspects of build processes and file management. However, it lacks a direct focus on Continuous Delivery principles, practices, or methodologies. While it mentions build failures and the need for configuration, it does not delve into automation, deployment strategies, or maintaining a production-ready state, which are core themes of Continuous Delivery. The discussion is more about troubleshooting specific integration issues rather than a comprehensive exploration of Continuous Delivery.",
+    "reasoning": "The content primarily discusses resolving a specific issue related to Maven and Jenkins integration with TFS, which is more focused on troubleshooting and migration rather than the principles and practices of Continuous Delivery. While it touches on aspects of build processes and file management, it lacks a comprehensive exploration of Continuous Delivery concepts such as automation, rapid feedback, or cultural aspects. The discussion is too narrow and technical, making Continuous Delivery a secondary theme rather than a primary focus.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1482,6 +1488,42 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content discusses a specific issue related to Jenkins and TFS integration, focusing on build processes and file management. While it touches on aspects of software development, such as build failures and file handling, it does not explicitly address the Shift-Left Strategy or its principles. The mention of ignoring certain files could be seen as a minor alignment with the concept of early issue identification, but the overall focus is on troubleshooting and migration rather than proactive integration of testing or security earlier in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:17:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to Maven and Jenkins integration with TFS. While it does touch on aspects of problem-solving and incremental progress, it lacks a broader discussion on Continuous Improvement principles, such as fostering a culture of experimentation or integrating Continuous Improvement into organisational processes. The mention of creating a .tfignore file to streamline the build process indicates a minor alignment with Continuous Improvement, but the overall depth and focus on the topic are limited.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:17:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical issues related to Maven and Jenkins integration with TFS, discussing specific problems and solutions without addressing the concept of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives or alignment strategies, and the discussion lacks depth in relation to the category's key topics.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:17:29",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to Maven and Jenkins integration with TFS, which does not directly address the concept of competence. While there are brief mentions of problem-solving and progress, these are not explored in the context of continuous learning or skill development. The discussion lacks depth regarding the importance of competence in Agile or DevOps methodologies, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   }
 }

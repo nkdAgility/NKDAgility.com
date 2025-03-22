@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:44:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:34:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of upgrading Team Foundation Server, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server (TFS) from a preview version to a release candidate. It does not discuss Evidence-Based Management principles or metrics related to value delivery, innovation, or empirical decision-making. While there are mentions of processes and improvements, they are not grounded in the context of evidence-based practices or data-informed decision-making.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T04:48:19",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "calculated_at": "2025-03-22T07:34:39",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) from a preview version to a release candidate. While it touches on some relevant themes such as the importance of trial upgrades and the need for backups, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The content does not explicitly mention DevOps or its key practices like Continuous Integration or Continuous Delivery, which diminishes its alignment with the category.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server (TFS) from a preview version to a release candidate. While it touches on aspects of software delivery and mentions the importance of trial upgrades, it lacks a broader discussion on DevOps principles such as collaboration, automation, and shared accountability. The content does not engage with the cultural or philosophical aspects of DevOps, making it more of a technical guide than a discussion on DevOps as a philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -326,7 +329,7 @@
     "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server, focusing on technical details and procedures rather than Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T11:45:16",
     "ai_confidence": 0,
@@ -337,11 +340,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T11:45:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:34:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server, focusing on technical details rather than Agile principles or product-centric development.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) rather than discussing the Agile Product Operating Model. While there are mentions of agile practices, they are not central to the content, which is more about software installation and upgrade processes. The discussion lacks depth in relation to the principles and frameworks of APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,11 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T17:51:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:34:56",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses upgrading Team Foundation Server rather than principles or practices of Continuous Delivery.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) from a preview version to a release candidate. While it touches on aspects of software deployment, it lacks a comprehensive discussion on Continuous Delivery principles, practices, or benefits. The mention of upgrades and trial runs is relevant but does not delve into the broader themes of Continuous Delivery such as automation, rapid feedback, or cultural aspects. Overall, the content is more about a specific upgrade process rather than a discussion on Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1479,6 +1488,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server (TFS) and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. While it mentions the importance of trial upgrades, it lacks a clear connection to integrating testing, security, or compliance earlier in the development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:34:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading from TFS 2013 Preview to TFS 2013 RC, with minimal discussion on Continuous Improvement principles. While there are mentions of streamlining processes and the importance of trial upgrades, these are not explored in depth or connected to broader Continuous Improvement strategies. The content lacks a focus on empirical evidence, data-driven decision-making, or fostering a culture of experimentation, which are key aspects of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:34:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading from TFS 2013 Preview to TFS 2013 RC, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it mentions a customer with a large team, it does not connect this to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:34:47",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading TFS, with minimal discussion on competence or skill development. While it mentions the importance of trial upgrades and having a backup plan, these points are more about procedural knowledge than fostering a culture of competence or continuous learning. The overall emphasis is on technical execution rather than the principles of professionalism and quality delivery associated with competence.",
     "level": "Ignored"
   }
 }

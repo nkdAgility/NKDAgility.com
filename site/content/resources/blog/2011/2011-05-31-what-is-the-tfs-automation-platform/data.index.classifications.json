@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T23:16:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:43:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the TFS Automation Platform and its features, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the TFS Automation Platform and its features, focusing on automation and iteration management. It does not explicitly mention Evidence-Based Management or its key topics, nor does it provide a data-informed decision-making framework. The discussion lacks depth in relation to empirical evidence or metrics that would align with EBM principles.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -133,15 +136,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:31:18",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-22T08:42:55",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses the TFS Automation Platform, which relates to automation in DevOps practices, particularly in the context of Team Foundation Server (TFS). It mentions automation solutions and the integration of various components, which aligns with DevOps principles. However, the focus is primarily on the technical implementation of the platform rather than broader DevOps concepts such as CI/CD, cultural shifts, or collaboration between teams. Therefore, while there is a significant connection to DevOps, it does not fully encompass the category's core themes.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the TFS Automation Platform, focusing on automation within the context of TFS (Team Foundation Server). While automation is a key aspect of DevOps, the content does not explicitly address the broader DevOps philosophy, principles, or cultural shifts. It lacks direct mentions of collaboration, shared accountability, or continuous improvement, which are central to DevOps discussions. The depth of discussion is technical and specific to TFS, making it more of a tool-focused piece rather than a philosophical or strategic exploration of DevOps.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -332,7 +335,7 @@
     "reasoning": "Content primarily discusses the TFS Automation Platform and its features, focusing on automation solutions and technical architecture, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T23:17:21",
     "ai_confidence": 0,
@@ -343,11 +346,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T23:17:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:43:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the TFS Automation Platform and its features, focusing on automation and technical implementation rather than Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the TFS Automation Platform, discussing its features and functionalities related to iteration management and automation within TFS. It does not explicitly mention the Agile Product Operating Model or its principles, nor does it align with the core themes of transitioning to a product-oriented mindset or continuous delivery. The discussion is more aligned with traditional project management and automation practices rather than the agile product management framework.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -421,11 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T23:53:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:43:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the TFS Automation Platform and its components, focusing on iteration management and automation solutions within Team Foundation Server, without clear connections to Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the TFS Automation Platform, which focuses on automating processes within TFS. While it touches on automation, it does not explicitly address Continuous Delivery principles or practices. The mention of automation aligns somewhat with the role of automation in Continuous Delivery, but the overall focus is more on iteration management and TFS-specific functionalities rather than the broader Continuous Delivery concepts such as rapid feedback, incremental improvements, or cultural aspects. Therefore, the confidence score reflects a low alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1476,6 +1485,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the TFS Automation Platform and its features, focusing on automation and iteration management within TFS. There are no explicit mentions of integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy. The discussion lacks depth in relation to the principles and benefits of the Shift-Left approach, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:42:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the TFS Automation Platform and its functionalities, with minimal direct discussion on Continuous Improvement principles. While it mentions streamlining processes and enhancing automation, it lacks a clear commitment to ongoing reflection, empirical evidence, or a culture of experimentation that characterises Continuous Improvement. The depth of discussion is more technical and product-oriented rather than strategic or philosophical, leading to a low confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:42:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the TFS Automation Platform and its functionalities, with little to no explicit discussion on Common Goals within Agile or DevOps frameworks. While it touches on project management and automation, it does not align with the core themes of shared objectives or strategic alignment that define Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:43:02",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the TFS Automation Platform and its functionalities, with minimal direct discussion on competence or continuous skill development. While it touches on automation and efficiency, it lacks a clear emphasis on the importance of competence in Agile or DevOps contexts, making it only tangentially related to the category.",
     "level": "Ignored"
   }
 }

@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:44:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:22:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a tool for tracking changes in TFS Work Items, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a tool for tracking changes in TFS Work Items, with no explicit discussion of Evidence-Based Management principles or metrics. While it mentions tracking changes, it does not align with the core themes of EBM such as data-informed decision-making or outcome management. The depth of discussion is limited to tool usage and troubleshooting, lacking any substantial connection to EBM concepts.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:45:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:22:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a tool for managing TFS Work Items, with no clear focus on DevOps principles, practices, or cultural shifts.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific tool (TFS Field Annotator) for tracking changes in TFS Work Items, which does not align with the core principles of DevOps. While it mentions workflow enhancement, it lacks discussions on collaboration, automation, or shared accountability, which are central to the DevOps philosophy. The content does not provide substantial detail on DevOps practices or cultural shifts, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -317,7 +323,7 @@
     "reasoning": "Content primarily discusses a software tool for tracking changes in TFS Work Items, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:45:38",
     "ai_confidence": 0,
@@ -328,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:45:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:22:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a tool for managing TFS Work Items and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a tool for tracking changes in TFS Work Items, with no direct mention of Agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any discussion on the core themes of APOM, such as continuous delivery, product-oriented mindset, or operational stability. The content is more aligned with traditional project management tools rather than the principles of Agile product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:54:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:22:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily describes a tool for annotating TFS Work Items without any discussion of Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a tool for tracking changes in TFS Work Items, which does not directly address Continuous Delivery principles or practices. While it mentions aspects of workflow enhancement, it lacks explicit discussions on automation, incremental improvements, or rapid feedback, which are core to Continuous Delivery. The content is more about a specific application rather than the broader concepts of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1443,6 +1455,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a tool for annotating TFS Work Items and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. The content is more about a specific application rather than software development strategies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:22:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific tool (TFS Field Annotator) for tracking changes in TFS Work Items, with no explicit discussion of Continuous Improvement principles. While it mentions enhancing workflow, it lacks depth in discussing empirical evidence, experimentation, or strategies for integrating Continuous Improvement into processes. Overall, it does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:22:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a specific tool (TFS Field Annotator) for tracking changes in TFS Work Items, with no explicit discussion of Common Goals, Agile, or DevOps principles. It lacks any mention of shared objectives or alignment strategies, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:22:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific tool (TFS Field Annotator) and its functionalities, with no direct discussion on competence, continuous learning, or skill development. While it may indirectly relate to improving workflow efficiency, it does not address the core themes of competence as defined in the classification criteria.",
     "level": "Ignored"
   }
 }

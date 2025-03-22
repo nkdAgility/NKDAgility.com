@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:20:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:37:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on personal blogging and does not discuss any DevOps principles, practices, or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on personal blogging experiences and does not discuss any principles, practices, or cultural shifts related to DevOps. There are no direct mentions of DevOps concepts, and the discussion lacks depth in any relevant areas.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:20:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:37:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Agile principles, product-centric development, or any related topics; it focuses on personal blogging.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on personal blogging experiences and does not mention or align with any principles of the Agile Product Operating Model. It lacks any discussion of product management, agile methodologies, or related frameworks.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -166,11 +172,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:20:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:37:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal blogging and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on personal blogging experiences and does not discuss Evidence-Based Management or its key topics. There are no direct mentions or relevant metrics related to EBM, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -236,7 +245,7 @@
     "reasoning": "Content primarily discusses personal blogging and does not address metrics, learning, or related Agile and DevOps principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:20:47",
     "ai_confidence": 0,
@@ -877,11 +886,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:04:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:37:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on personal blogging and does not discuss Continuous Delivery or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on personal blogging experiences and does not discuss Continuous Delivery principles, practices, or related topics. There are no direct mentions or relevant themes that align with Continuous Delivery.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1413,6 +1425,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content does not discuss the Shift-Left Strategy or any related concepts. It focuses on personal blogging and does not touch upon software development processes, testing, security, or compliance.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:37:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on encouraging individuals to share their voices in the blogosphere, which does not directly relate to Continuous Improvement principles. There are no explicit discussions on processes, empirical evidence, or strategies for improvement, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:37:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal blogging experiences and encourages individual contributions without addressing the concept of Common Goals within Agile or DevOps frameworks. There are no explicit mentions of shared objectives or alignment with organisational strategies, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:37:33",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content briefly mentions blogging and encourages participation, but it does not discuss competence, skill development, or any related themes. The focus is on personal stories rather than professional growth or quality delivery.",
     "level": "Ignored"
   }
 }

@@ -73,11 +73,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:28:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:38:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal usage of an application for tracking software usage, with no clear focus on DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses an application for tracking software usage and does not engage with any core DevOps principles or practices. There are no direct mentions of DevOps concepts, and the discussion lacks depth regarding collaboration, automation, or shared accountability, which are essential to the DevOps philosophy.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -109,11 +112,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:28:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:38:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal application for tracking software usage, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses an application for tracking software usage and does not mention or align with any principles of the Agile Product Operating Model. There are no references to agile methodologies, product management, or the key topics outlined in the category description.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -163,11 +169,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:28:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:38:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal experience with an application for tracking software usage, lacking focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a software application for tracking usage statistics, which does not directly relate to Evidence-Based Management principles. While it mentions tracking and stats, it lacks explicit discussions on empirical decision-making, current value, or any of the key topics outlined in the EBM definition. The focus is more on personal usage rather than organisational value delivery or data-informed decision-making.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -233,7 +242,7 @@
     "reasoning": "Content primarily discusses personal usage of an application for tracking software usage, lacking a focus on metrics and learning principles relevant to Agile or DevOps.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:28:31",
     "ai_confidence": 0,
@@ -874,11 +883,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:37:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:38:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with an application for tracking software usage, with no clear relation to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses an application for tracking software usage and does not mention Continuous Delivery or its principles. There is no alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality. The depth of discussion is minimal and does not provide any relevant insights into Continuous Delivery practices.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1410,6 +1422,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a personal experience with an application for tracking software usage, with no mention of testing, security, compliance, or any principles related to the Shift-Left Strategy. It does not align with the core themes of the category and lacks depth in discussing any relevant topics.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:38:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a software application for tracking usage statistics, with no explicit discussion of Continuous Improvement principles. While it mentions productivity, it lacks depth in exploring how this relates to ongoing improvement processes or methodologies. The content does not align with the core themes of Continuous Improvement, such as empirical evidence or strategies for fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:38:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a software application for tracking usage and does not discuss any aspects of Common Goals within Agile or DevOps frameworks. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth in relation to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:38:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Wakoopa application for tracking software usage and does not discuss competence, continuous learning, or skill development. While it mentions productivity, it lacks a direct connection to the principles of competence as defined in Agile and DevOps contexts.",
     "level": "Ignored"
   }
 }

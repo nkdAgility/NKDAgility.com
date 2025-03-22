@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:56:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:35:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of Scrum Masters and the Professional Scrum Master certification, without a focus on evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum Masters and their role in implementing Scrum, without a focus on evidence-based practices or metrics. It lacks direct references to empirical decision-making or the key topics outlined in Evidence-Based Management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -136,11 +139,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T21:56:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:35:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and the role of Scrum Masters, which are methodologies and roles within Agile project management rather than DevOps. While there are some indirect references to change management and collaboration, these do not align closely with the core principles of DevOps, such as automation, shared accountability, or continuous value delivery.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -338,7 +344,7 @@
     "reasoning": "Content primarily discusses Scrum roles and training, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:56:53",
     "ai_confidence": 0,
@@ -349,11 +355,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T21:56:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:35:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum roles and training rather than the Agile Product Operating Model or its principles.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and the implementation of Scrum, which is more aligned with Scrum practices than the Agile Product Operating Model. While it touches on change management and the importance of understanding Scrum within an organisation, it lacks a direct discussion of the APOM principles, such as product-oriented mindsets or continuous delivery. The depth of discussion is limited to Scrum training and roles, which does not sufficiently cover the broader themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -424,11 +433,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T01:37:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:35:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of Scrum Masters in implementing Scrum methodology, which is not directly related to Continuous Delivery. While there are mentions of change and improvement, the focus is on Scrum practices rather than the principles and practices of Continuous Delivery. The content lacks depth in discussing Continuous Delivery concepts, automation, or rapid feedback mechanisms, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1531,5 +1543,41 @@
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum roles and the importance of Scrum Masters in facilitating change within organisations. While it touches on the need for understanding and implementing processes, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The focus is on Scrum methodology rather than integrating testing, security, or compliance earlier in the development lifecycle.",
     "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:35:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of Scrum Masters in driving change within organisations, which touches on aspects of Continuous Improvement. However, it primarily focuses on Scrum implementation and training rather than a comprehensive exploration of Continuous Improvement principles. The discussion lacks depth in empirical evidence, data-driven decision-making, and specific strategies for fostering a culture of experimentation and learning, which are key topics in the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:35:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of Scrum Masters and the importance of Scrum training, which is somewhat related to the concept of aligning team efforts with organisational goals. However, it lacks a direct focus on Common Goals as defined in the category, such as shared objectives or strategic alignment. The discussion is more about the implementation of Scrum rather than the foundational principles of Common Goals in Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:35:21",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 32,
+    "ai_depth": 33,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of Scrum Masters in driving change and the importance of training, which aligns with the concept of competence in Agile methodologies. It mentions the need for a firm understanding of Scrum and the value of experienced individuals in implementing change, reflecting the importance of skill development and genuine progress. However, the focus is more on Scrum implementation rather than a deep exploration of competence itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

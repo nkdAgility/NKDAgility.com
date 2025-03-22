@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:04:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:41:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses portfolio management tools in Visual Studio 2013 without a focus on Evidence-Based Management principles or empirical data.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses managing portfolio backlogs in Visual Studio 2013, focusing on organisational tools rather than evidence-based management principles. While it touches on project scope and organisation, it lacks explicit references to empirical decision-making or metrics that align with Evidence-Based Management. The discussion is more about Agile practices and tools than about data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T18:04:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:40:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses portfolio management and Agile concepts, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on managing portfolio backlogs in Visual Studio 2013, which is more aligned with project management practices rather than the core principles of DevOps. While it briefly touches on concepts like 'Epics' and 'Features', these are not directly related to DevOps philosophy, automation, or collaboration. The discussion lacks depth and does not engage with the key themes of DevOps, such as continuous delivery, shared accountability, or cultural shifts necessary for effective implementation.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -323,7 +329,7 @@
     "reasoning": "Content primarily discusses portfolio management tools in Visual Studio 2013, focusing on managing work items and does not address Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:05:11",
     "ai_confidence": 0,
@@ -334,11 +340,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:05:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:41:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses portfolio management tools in Visual Studio 2013, with a focus on managing backlogs and epics, rather than the Agile Product Operating Model.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses managing portfolio backlogs in Visual Studio 2013, which is more aligned with project management practices rather than the Agile Product Operating Model. While it mentions concepts like 'Epics' and 'Features', these are more related to agile methodologies in a project context rather than a product-oriented mindset. The discussion lacks depth on the principles of APOM and does not address key topics such as continuous delivery, operational stability, or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -415,11 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T18:25:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:41:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses portfolio management and backlog organization, which are not related to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses managing portfolio backlogs in Visual Studio 2013, which is more aligned with project management and Agile practices rather than Continuous Delivery. While it touches on concepts like 'Epics' and project scope, it does not explicitly address Continuous Delivery principles, automation, or the delivery process itself. The focus is on backlog management rather than the delivery of software in reliable cycles.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1485,6 +1497,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013, focusing on managing backlogs and organising work through Epics and Features. It does not explicitly mention the Shift-Left Strategy or its principles, nor does it delve into integrating testing, security, or compliance early in the development process. The discussion is more aligned with Agile project management rather than the proactive measures associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:40:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on managing portfolio backlogs in Visual Studio 2013, which is more about project management tools than Continuous Improvement. While it touches on the organisation of work and mentions 'Epics', it lacks a direct discussion on Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation. The alignment with Continuous Improvement themes is minimal, and the depth of discussion does not provide substantial insights into the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:40:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses managing portfolio backlogs and the concept of 'Epics' in the context of project management, which is somewhat related to aligning work with broader goals. However, it lacks a direct focus on the principles of Common Goals as defined in Agile and DevOps. The discussion is more about tools and techniques rather than the strategic alignment and ownership that characterise Common Goals. Therefore, while there are mentions of related concepts, the overall depth and alignment with the category are limited.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:40:59",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on managing portfolio backlogs in Visual Studio 2013, which is more about tool usage than on discussions of competence. While it touches on the organisation of work and project scope, it lacks explicit discussions on continuous learning, skill development, or the importance of competence in Agile methodologies. The depth of discussion is limited to tool features rather than fostering a culture of competence or professional growth.",
     "level": "Ignored"
   }
 }

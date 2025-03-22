@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:05:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:15:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects of upgrading Team Foundation Server, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) from one version to another, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on process templates and configurations, it lacks any reference to data-informed decision-making or the core themes of EBM such as current value, time to market, or empirical decision-making.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:50:39",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "calculated_at": "2025-03-22T08:15:33",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) from one version to another, which is more aligned with software version management than with the broader principles of DevOps. While it touches on aspects of configuration and process templates, it lacks a comprehensive discussion on DevOps practices such as CI/CD, automation, or cultural shifts. The mention of upgrading processes is relevant but does not delve into the collaborative and operational efficiencies that define DevOps.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) from one version to another, which is more aligned with software version management than the broader principles of DevOps. While there are mentions of configuration and process templates, these do not directly address the core themes of DevOps such as collaboration, automation, or shared accountability. The discussion lacks depth in exploring how these upgrades impact DevOps practices or culture.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -323,7 +326,7 @@
     "reasoning": "Content primarily discusses the technical aspects of upgrading Team Foundation Server, focusing on specific upgrade processes and configurations, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:06:08",
     "ai_confidence": 0,
@@ -334,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:06:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:15:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of upgrading Team Foundation Server (TFS) rather than focusing on Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) from one version to another, with no direct discussion of the Agile Product Operating Model or its principles. While it may touch on agile practices indirectly through the context of TFS, it does not align with the core themes of the APOM, such as product management principles or continuous delivery. The depth of discussion is also limited to technical upgrade processes rather than strategic product management or agile methodologies.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -412,11 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:31:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:15:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 2,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the upgrade process of TFS (Team Foundation Server) rather than Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) from one version to another, which does not directly address Continuous Delivery principles or practices. While there are brief mentions of configuration and process templates, these are not explored in the context of Continuous Delivery. The discussion lacks depth in terms of automation, incremental improvements, or user feedback, which are key themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1467,6 +1476,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) from one version to another, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on process templates and configurations, it does not align with the core themes of the Shift-Left Strategy, which emphasises proactive measures in software development. The discussion lacks depth and detail regarding Shift-Left practices, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:15:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading from TFS 2008 to TFS 2010, detailing specific steps and personal experiences. While it touches on the importance of configuration and process templates, it lacks a clear discussion on Continuous Improvement principles, such as empirical evidence, team effectiveness, or a culture of experimentation. The content does not engage with the broader themes of Continuous Improvement or Agile methodologies, making it only tangentially related.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:15:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading from TFS 2008 to TFS 2010, discussing specific steps and challenges involved in the upgrade process. It does not address the concept of Common Goals, nor does it connect individual contributions to overarching strategic objectives within Agile or DevOps frameworks. The discussion lacks any mention of shared objectives or alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:15:41",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS, with minimal direct discussion on competence or skill development. While it touches on the importance of understanding the upgrade process, it lacks a deeper exploration of continuous learning or professional growth, which are central to the competence category.",
     "level": "Ignored"
   }
 }

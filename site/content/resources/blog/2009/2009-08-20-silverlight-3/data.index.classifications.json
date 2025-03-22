@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:04:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:10:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a book review on Silverlight 3, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a programming book on Silverlight 3, with no direct mentions or alignment to Evidence-Based Management principles. It lacks any discussion on metrics, data-informed decision-making, or empirical evidence, which are central to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:04:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:10:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a book on Silverlight 3 and its features, with no mention of DevOps principles, practices, or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a book review about Silverlight 3, which is a technology related to application development. There are no direct mentions of DevOps principles, practices, or cultural shifts. The discussion does not align with the core themes of DevOps, such as collaboration, automation, or shared accountability, and lacks depth in any relevant DevOps context.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -311,7 +317,7 @@
     "reasoning": "Content primarily discusses a book review on Silverlight 3 and its features, with no mention of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:04:57",
     "ai_confidence": 0,
@@ -322,11 +328,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:04:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:10:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a book on Silverlight 3 programming, with no relevance to Agile principles or product operating models.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a book review about Silverlight 3, with no mention of agile methodologies, product management principles, or any related topics that align with the Agile Product Operating Model. It does not discuss any of the key topics outlined in the category description.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -400,11 +409,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:22:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:10:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a book on Silverlight 3 and shares personal opinions about its layout and information, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a book review about Silverlight 3, with no direct mentions or discussions related to Continuous Delivery principles, practices, or tools. It lacks any alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or user feedback. The depth of discussion is minimal and does not provide relevant insights into Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1425,6 +1437,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a book review on Silverlight 3 and does not mention or align with the Shift-Left Strategy in any meaningful way. There are no references to testing, security, or compliance processes, nor any discussion of integrating these aspects early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:10:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a book review about Silverlight 3, discussing its features and personal experiences with it. There are no direct mentions of Continuous Improvement principles, nor does it align with the core themes of the category. The discussion lacks depth regarding Continuous Improvement, making it irrelevant to the classification.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:10:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a book review about Silverlight 3, discussing its features and personal experiences with it. There are no direct mentions of Common Goals, Agile, or DevOps principles, and the discussion does not align with the core themes of the category. The content lacks depth in relation to the concept of Common Goals, making it largely irrelevant to the classification.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:10:52",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on a book review about Silverlight 3, discussing its layout and readability rather than addressing competence in Agile, Scrum, or DevOps. While it mentions enhancing coding skills, it lacks a direct discussion on continuous learning, skill development, or the professional implications of competence.",
     "level": "Ignored"
   }
 }

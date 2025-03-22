@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:43:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:19:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2010 and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on the installation process of Visual Studio 2010 Team Suite Beta 1, with no references to Evidence-Based Management principles or metrics. It lacks any discussion on data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:43:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:19:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2010, with no focus on DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Team Suite Beta 1, with no explicit discussion of DevOps principles, practices, or cultural shifts. While it mentions customization and installation options, these topics do not align with the core themes of DevOps, such as collaboration, automation, or shared accountability. The content lacks depth and detail regarding any DevOps-related concepts.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2010, with no mention of Systems Thinking principles or related topics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:43:45",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:43:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:19:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2010, with no relevance to Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content focuses solely on the installation process of Visual Studio 2010 Team Suite Beta 1, with no references to agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any discussion of the key topics outlined in the category definition, such as transitioning to a product ethos or operational stability in product delivery.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:20:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses installing Visual Studio 2010, which is unrelated to Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Team Suite Beta 1, with no direct discussion of Continuous Delivery principles, practices, or related topics. It lacks any mention of automation, testing, deployment, or the cultural aspects of Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1434,6 +1446,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 and does not discuss any aspects of the Shift-Left Strategy, such as early integration of testing, security, or compliance in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:19:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Team Suite Beta 1, with no explicit discussion of Continuous Improvement principles. While it mentions improvements in the installation process, it lacks depth and alignment with the core themes of Continuous Improvement, such as empirical evidence, team effectiveness, or strategies for fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:19:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on the installation process of Visual Studio 2010 Team Suite Beta 1, with no mention of Agile, DevOps, or the concept of Common Goals. It lacks any discussion on shared objectives, alignment, or strategic frameworks, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:19:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Team Suite Beta 1, with no direct discussion of competence, continuous learning, or skill development. While it touches on aspects of usability and installation options, these do not align with the core themes of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

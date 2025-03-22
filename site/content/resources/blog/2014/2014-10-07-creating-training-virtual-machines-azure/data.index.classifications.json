@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T08:59:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:13:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical setup and configuration of virtual machines in Azure, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on creating and managing virtual machines in Azure, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any depth in discussing how empirical evidence could enhance management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:39:07",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-22T07:13:06",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content primarily focuses on creating and managing virtual machines in Azure, which is a cloud service. While it touches on automation through PowerShell scripts, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The mention of automation is relevant, but the overall focus is more on technical implementation rather than the integration of people, processes, and tools that characterise DevOps.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on creating and managing virtual machines in Azure, which is more aligned with cloud infrastructure management than the broader principles of DevOps. While it touches on automation and some aspects of collaboration, it lacks a comprehensive discussion on the cultural and philosophical aspects of DevOps, such as shared accountability or continuous improvement.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -329,7 +332,7 @@
     "reasoning": "Content primarily focuses on creating and managing virtual machines in Azure, with no discussion of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T09:00:37",
     "ai_confidence": 0,
@@ -340,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T09:00:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:13:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical setup and configuration of virtual machines in Azure, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating and managing virtual machines in Azure, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM definition. The discussion is technical and project-oriented, lacking any connection to the product-oriented mindset or continuous delivery principles central to APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,11 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T09:56:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:13:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses creating and managing virtual machines in Azure for training purposes, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating and managing virtual machines in Azure for training purposes. While it touches on automation through PowerShell, it does not discuss Continuous Delivery principles, practices, or benefits. The discussion lacks depth in relation to Continuous Delivery, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1464,6 +1473,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on creating and managing virtual machines in Azure for a training course, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. It lacks any mention of Shift-Left principles or practices, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:13:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of creating virtual machines in Azure, with no explicit discussion of Continuous Improvement principles. While there are mentions of efficiency and automation, these are not explored in the context of Continuous Improvement methodologies or philosophies. The content lacks depth in discussing empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:13:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of creating virtual machines in Azure for a training course. While it mentions the need for multiple VMs for students, it does not discuss shared objectives, alignment, or strategic goals within Agile or DevOps frameworks. The discussion lacks depth in connecting to the principles of Common Goals, making it a secondary topic at best.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:13:19",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical process of creating virtual machines in Azure, with minimal direct discussion of competence or skill development. While it touches on the challenges of teaching technical courses, it lacks a strong emphasis on continuous learning or the development of professional capabilities, which are central to the competence category.",
     "level": "Ignored"
   }
 }

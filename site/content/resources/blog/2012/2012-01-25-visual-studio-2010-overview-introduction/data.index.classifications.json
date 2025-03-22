@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:27:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:30:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio 2010 features and ALM, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on an overview of Visual Studio 2010 and its features related to Application Lifecycle Management (ALM). It does not explicitly discuss Evidence-Based Management or its core themes such as data-informed decision-making, current value metrics, or empirical decision-making. The mention of ALM is too general and does not align with the specific requirements of the Evidence-Based Management category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T21:27:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:29:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Visual Studio 2010 and its features related to Application Lifecycle Management (ALM), without a clear emphasis on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010 and its features related to Application Lifecycle Management (ALM). While ALM can intersect with DevOps practices, the content does not explicitly discuss DevOps principles, practices, or cultural shifts. The mention of ALM is too vague and does not delve into the core themes of DevOps, such as collaboration, automation, or shared accountability. Therefore, the confidence score reflects a minimal connection to the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -250,14 +256,17 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T21:31:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:30:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio 2010 and its features related to ALM, without a focus on Agile Product Operating Model principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010 and its features related to Application Lifecycle Management (ALM), with no direct mention or discussion of the Agile Product Operating Model. While it may touch on agile principles indirectly through ALM, it does not align with the core themes of APOM, such as product-oriented mindsets or continuous delivery. The depth of discussion is minimal, lacking any substantial exploration of APOM principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:31:58",
     "ai_confidence": 0,
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:44:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:30:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on an overview of Visual Studio 2010 and its ALM features, with no clear emphasis on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on an overview of Visual Studio 2010 and its features related to Application Lifecycle Management (ALM). While ALM can be related to Continuous Delivery, the content does not explicitly discuss Continuous Delivery principles, practices, or benefits. It lacks direct mentions of automation, incremental improvements, or rapid feedback, which are core themes of Continuous Delivery. The depth of discussion is also minimal, as it serves more as an introductory overview rather than a detailed exploration of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1422,6 +1434,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on an overview of Visual Studio 2010 and its capabilities related to Application Lifecycle Management (ALM). While it may touch on aspects relevant to software development, it does not explicitly discuss the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth and does not provide any specific insights into integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:29:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on an overview of Visual Studio 2010 and its features related to Application Lifecycle Management (ALM). There is no explicit discussion of Continuous Improvement principles, nor does it align with the core themes such as empirical evidence, experimentation, or team effectiveness. The content lacks depth in addressing Continuous Improvement, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:29:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on an overview of Visual Studio 2010 and its features related to Application Lifecycle Management (ALM). While it mentions goals related to understanding capabilities and preparing for deeper sessions, it does not explicitly discuss Common Goals within Agile or DevOps frameworks. The alignment with the core themes of Common Goals is minimal, and the depth of discussion on this topic is very limited.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:29:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on an overview of Visual Studio 2010 and its features related to Application Lifecycle Management (ALM). While it may indirectly touch on aspects of competence through the mention of preparing for deeper-dive sessions, it lacks explicit discussions on continuous learning, skill development, or the core themes of competence as defined in Agile and DevOps contexts. The depth of discussion is minimal, primarily serving as an introduction rather than a comprehensive exploration of competence.",
     "level": "Ignored"
   }
 }

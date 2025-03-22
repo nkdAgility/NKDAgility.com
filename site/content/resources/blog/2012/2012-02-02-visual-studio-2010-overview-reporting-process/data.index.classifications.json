@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:10:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:28:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio and its reporting processes, lacking a focus on Evidence-Based Management principles.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses reporting and process templates in Visual Studio 2010, which relates to team collaboration and continuous improvement. However, it lacks explicit references to Evidence-Based Management principles, such as empirical decision-making or metrics focused on current value and outcomes. The discussion is more about process management and tool usage rather than data-informed decision-making, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T21:10:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:28:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses process templates and reporting in Visual Studio, which are not central to DevOps principles.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses team collaboration and continuous improvement, which are relevant to DevOps principles. However, it primarily focuses on Visual Studio 2010's reporting and process templates, lacking a direct emphasis on the broader DevOps philosophy or practices. The mention of process templates and reports does not sufficiently align with the core themes of DevOps, such as automation, shared accountability, or cultural shifts. Therefore, while there are some relevant aspects, the overall focus is more on project management and tooling rather than a comprehensive discussion of DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,7 +335,7 @@
     "reasoning": "Content primarily discusses Visual Studio and process templates, with a focus on reporting and process improvement, rather than Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:11:29",
     "ai_confidence": 0,
@@ -340,11 +346,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T21:11:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:28:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Visual Studio process templates and reporting, with no clear focus on Agile Product Operating Model principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010's reporting and process templates, which are tools for enhancing team collaboration and continuous improvement. While it mentions aspects of process improvement and customization, it does not explicitly discuss the Agile Product Operating Model or its core principles. The discussion is more aligned with traditional project management practices rather than the product-oriented mindset of APOM. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -415,11 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:11:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:28:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses process templates and reporting in Visual Studio, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions continuous improvement, which is a concept related to Continuous Delivery, but it does not explicitly discuss Continuous Delivery principles or practices. The focus is more on reporting and process templates within Visual Studio, which does not align closely with the core themes of Continuous Delivery. The depth of discussion is limited to process templates and reporting, lacking detailed exploration of Continuous Delivery concepts.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1482,6 +1494,42 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily discusses process templates and reporting within Visual Studio, which does not directly address the Shift-Left Strategy. While there are mentions of process improvement and customization, these concepts are not explicitly linked to integrating testing, security, or compliance earlier in the development lifecycle. The focus is more on team interactions and reporting rather than on proactive measures to enhance software quality.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:28:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses continuous improvement in the context of team processes and reporting within Visual Studio 2010. It explicitly mentions opportunities for continuous process improvement and the importance of adapting processes based on reports. However, while it touches on relevant themes, the discussion lacks depth and does not fully explore the broader implications or strategies of continuous improvement, which limits its overall alignment with the category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:28:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions goals related to inspecting and adapting processes, which aligns with the concept of continuous improvement. However, it primarily focuses on the technical aspects of Visual Studio 2010's reporting and process templates without a strong emphasis on shared objectives or strategic alignment within Agile or DevOps frameworks. The discussion lacks depth regarding the significance of Common Goals, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:28:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of process templates and reporting in Visual Studio, which can indirectly relate to competence through continuous improvement and team collaboration. However, it lacks direct mentions of competence as a primary focus and does not delve deeply into the themes of skill development or professionalism. The discussion is more about tools and processes rather than the development of capabilities or fostering a culture of competence.",
     "level": "Ignored"
   }
 }

@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:19:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:26:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the installation and configuration of a specific tool (Visual Studio 2013 Release Management) without discussing broader DevOps principles or practices.",
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the practical steps for setting up release management tools, which is a component of DevOps practices. However, it lacks a broader discussion on the philosophy of DevOps, such as collaboration, automation, and shared accountability. While it touches on aspects like configuration and permissions, it does not delve into the cultural shifts or principles that underpin effective DevOps implementation.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -244,11 +247,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T12:23:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:27:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and configuration of a release management suite, which is not directly aligned with the principles of Continuous Delivery.",
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of release management tools, which is a component of Continuous Delivery. However, it lacks a direct discussion on Continuous Delivery principles, automation, or the broader implications of these practices. While it touches on aspects of deployment and project management, it does not delve into the core themes of Continuous Delivery, such as rapid feedback, incremental improvements, or cultural aspects. Therefore, while there is some relevance, it does not fully align with the category's primary focus.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -380,7 +386,7 @@
     "reasoning": "Content focuses on the installation and configuration of a release management tool, which is not related to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-18T12:23:42",
     "ai_confidence": 0,
@@ -1156,11 +1162,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T12:23:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:26:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on the installation and configuration of a release management tool, which does not align with discussions about the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical setup of release management tools and does not discuss the Agile Product Operating Model or its principles. While it mentions project management, it does not align with the core themes of APOM, such as product-oriented mindsets or continuous delivery. The discussion lacks depth regarding agile methodologies or product management practices.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1363,11 +1372,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T12:23:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:27:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about installing and configuring release management tools, not about Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the practical steps for setting up release management tools, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on project management, it lacks alignment with the core themes of EBM, such as data-informed decision-making or empirical evidence. The depth of discussion is limited to installation procedures, which do not contribute to the EBM framework.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1440,6 +1452,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the installation and configuration of release management tools, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on managing permissions and configurations, it does not align with the core themes of the Shift-Left Strategy, which emphasises proactive measures in software development. The discussion lacks depth regarding the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:26:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the practical steps for setting up release management tools, with minimal direct discussion on Continuous Improvement principles. While it reflects on the ease and efficiency of the process, it lacks a deeper exploration of empirical evidence, data-driven decision-making, or a culture of experimentation. The mention of simplifying processes hints at Continuous Improvement but does not delve into its core themes or provide substantial detail on strategies or frameworks associated with it.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:26:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical steps for setting up release management tools, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on project management, it lacks depth in aligning individual contributions to organisational objectives, which is central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:26:54",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical steps for setting up release management tools, with minimal direct discussion on competence or continuous skill development. While it touches on the importance of permissions and effective management, it lacks a deeper exploration of competence as a foundational principle in Agile or DevOps methodologies.",
     "level": "Ignored"
   }
 }

@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:14:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:26:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of automated release management and testing in Visual Studio 2013, without a focus on evidence-based management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical aspects of executing tests and managing releases in Visual Studio 2013, with no explicit discussion of Evidence-Based Management principles. While it touches on automation and deployment processes, it lacks a clear connection to data-informed decision-making or the core themes of EBM such as current value, time to market, or empirical decision-making.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,14 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:51:13",
-    "ai_confidence": 82.0,
+    "calculated_at": "2025-03-22T07:26:20",
+    "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
-    "ai_depth": 36,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on the integration of automated testing and release management within a DevOps context, discussing tools like Release Management and Lab Management, which are essential for CI/CD practices. It provides detailed insights into the setup and configuration of these tools, aligning well with DevOps principles. The discussion includes specific processes and challenges related to deployment and testing, indicating a strong alignment with the core themes of DevOps. However, while it is rich in detail, it does not extensively cover cultural shifts or broader DevOps metrics, which slightly lowers the overall confidence score.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the execution of automated tests and deployment processes using Release Management for Visual Studio 2013, which aligns with DevOps principles of automation and continuous delivery. It discusses specific tools and practices related to deployment and testing, indicating a strong emphasis on automation and collaboration between development and operations. However, while it touches on relevant DevOps themes, it lacks a broader discussion on the cultural and philosophical aspects of DevOps, which slightly limits its depth of alignment with the category.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -329,7 +332,7 @@
     "reasoning": "Content primarily focuses on automated release management and testing processes in Visual Studio 2013, with no clear discussion of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-03-15T04:41:50",
     "ai_confidence": 32.0,
@@ -343,11 +346,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T11:14:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:26:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of release management and automated testing in Visual Studio, without a focus on Agile principles or product-centric development.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical aspects of executing tests and managing releases in Visual Studio 2013, with no direct mention of the Agile Product Operating Model or its principles. While it touches on automated testing and deployment processes, it does not align with the core themes of APOM, such as product-oriented mindsets or continuous delivery. The discussion lacks depth regarding agile methodologies or product management practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -421,14 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T04:41:06",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 75.0,
+    "calculated_at": "2025-03-22T07:26:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
-    "reasoning": "The content discusses automated release management and testing processes, which are integral to Continuous Delivery. It provides specific details about using Release Management in Visual Studio 2013, including deployment strategies and the configuration of automated tests. However, while it aligns well with the principles of Continuous Delivery, it lacks a broader discussion on the overarching methodologies and principles of CD as outlined by experts like Jez Humble and Dave Farley. The focus is primarily on practical implementation rather than a comprehensive exploration of Continuous Delivery concepts.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on executing tests and managing releases using Release Management for Visual Studio 2013, which aligns closely with Continuous Delivery practices. It discusses automation in testing and deployment, which are key aspects of Continuous Delivery. The depth of discussion is substantial, providing detailed steps and considerations for setting up automated tests within a release pipeline. However, while it touches on Continuous Delivery principles, it does not explicitly define them or explore broader cultural aspects or case studies, which slightly limits its alignment.",
     "level": "Secondary"
   },
   "Strategic Goals": {
@@ -1512,6 +1518,42 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses automated testing and release management, which are relevant to the Shift-Left Strategy. However, it primarily focuses on the technical implementation of these processes rather than the broader principles and benefits of integrating testing and security earlier in the development lifecycle. While there are mentions of testing within the release process, the discussion lacks depth on the strategic aspects of Shift-Left, such as collaboration, metrics, or case studies that demonstrate its effectiveness.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:26:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for executing tests with Release Management in Visual Studio 2013. While it touches on aspects of improving deployment processes, it lacks a clear discussion on Continuous Improvement principles, such as empirical evidence, culture of experimentation, or strategies for integrating Continuous Improvement into organisational processes. The mention of simplifying processes is too vague and does not delve into the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:26:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical details related to executing tests and managing releases in Visual Studio 2013. It does not explicitly discuss Common Goals or their significance in Agile or DevOps frameworks. While there are mentions of deployment processes and testing, these do not connect to the overarching themes of shared objectives or strategic alignment that define Common Goals. The discussion lacks depth in exploring how these practices contribute to organisational performance or team alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:26:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical processes related to executing tests and managing releases in Visual Studio 2013. While it touches on aspects of competence, such as the need for skill in using tools like Release Management and Microsoft Test Manager, it does not explicitly discuss continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The discussion is more about practical implementation rather than fostering a culture of competence or professional growth.",
     "level": "Ignored"
   }
 }

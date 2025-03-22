@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:23:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:51:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the proposal and voting process for a StackExchange community focused on Visual Studio ALM, with no clear connection to Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the commitment process for a community proposal on StackExchange, focusing on user voting and engagement rather than any evidence-based management principles. There are no direct mentions of metrics, empirical decision-making, or value delivery, which are central to Evidence-Based Management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T00:23:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:51:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the proposal and voting process for a StackExchange community focused on Visual Studio ALM, without addressing DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting a community for Visual Studio ALM on StackExchange, which does not directly discuss DevOps principles or practices. While it mentions ALM (Application Lifecycle Management), it lacks explicit references to DevOps as a philosophy, automation, collaboration, or shared accountability. The discussion is more about community engagement and voting rather than the core themes of DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -311,7 +317,7 @@
     "reasoning": "Content primarily discusses the proposal and voting process for a StackExchange community focused on Visual Studio ALM, with no clear connection to Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:24:27",
     "ai_confidence": 0,
@@ -322,11 +328,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:24:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:51:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the proposal and voting process for a StackExchange community focused on Visual Studio ALM, without addressing Agile principles or product-centric development.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the commitment stage of a community proposal for Visual Studio ALM on StackExchange, which does not directly address the Agile Product Operating Model or its principles. While there is a mention of ALM (Application Lifecycle Management), it lacks a focus on agile methodologies, product management practices, or the core themes outlined in the APOM definition. The discussion is more about community engagement and voting rather than product delivery or agile processes.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -400,11 +409,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:54:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:51:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the proposal and voting process for a community site related to Visual Studio ALM, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the commitment stage of a community proposal for Visual Studio ALM on StackExchange, which does not directly address Continuous Delivery principles or practices. While it mentions ALM (Application Lifecycle Management), it lacks explicit discussions on Continuous Delivery concepts such as automation, incremental improvements, or user feedback. The focus is on community engagement rather than software delivery practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1431,6 +1443,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the commitment and voting process for a StackExchange proposal related to Visual Studio ALM, with no explicit mention of the Shift-Left Strategy or its principles. While it touches on community engagement in software development, it lacks any discussion on integrating testing, security, or compliance early in the development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:51:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting a community initiative for Visual Studio ALM on StackExchange, with an emphasis on user engagement and voting. While there are elements of community-driven improvement, such as gathering votes and feedback, the content lacks a direct discussion on Continuous Improvement principles, empirical evidence, or strategies for enhancing processes. The mention of commitment and user participation is too vague and does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:51:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the need for community commitment and collaboration to achieve a specific goal (the commitment stage for the Visual Studio ALM community). However, it lacks a direct focus on the principles of Common Goals as defined in Agile and DevOps frameworks. While it touches on the importance of collective effort, it does not delve into strategic alignment, ownership within teams, or the operationalisation of goals through frameworks like OKRs. The discussion is more about community engagement than about aligning individual contributions to an overarching organisational mission.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:51:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting a community proposal for Visual Studio ALM on StackExchange, with an emphasis on user engagement and voting. While it touches on the importance of community involvement, it does not explicitly discuss competence, continuous learning, or skill development. The alignment with the core themes of competence is minimal, and the depth of discussion regarding competence is lacking, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

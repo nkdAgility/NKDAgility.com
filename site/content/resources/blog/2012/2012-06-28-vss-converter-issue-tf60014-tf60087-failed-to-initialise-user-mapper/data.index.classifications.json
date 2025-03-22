@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:23:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:19:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to VSS to TFS import and user mapping errors, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical issues related to VSS to TFS migration and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of EBM concepts, and the discussion lacks depth in relation to data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:23:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:19:38",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to VSS to TFS import and user mapping issues, which does not align with the core principles of DevOps.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on resolving specific errors related to VSS to TFS migration, which is more aligned with technical troubleshooting rather than the broader principles of DevOps. While it touches on user permissions and mapping, it lacks a discussion on collaboration, automation, or cultural shifts that are central to DevOps. The mention of user mapping issues does not sufficiently connect to the core themes of DevOps, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses a technical issue related to user mapping in VSS to TFS import, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:24:07",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:24:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:19:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to VSS to TFS import and user mapping issues, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to VSS to TFS migration, with no direct mention or discussion of Agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any alignment with the core themes of the category, such as continuous delivery or product-oriented mindsets, and provides minimal detail relevant to the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:31:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:19:55",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on issues related to user mapping in Visual Studio and Team Foundation Server, which do not align with Continuous Delivery principles or practices.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on resolving specific errors related to VSS to TFS import issues, which does not directly address Continuous Delivery principles or practices. There are no explicit mentions of Continuous Delivery, and the discussion lacks depth in terms of automation, incremental improvements, or user feedback, which are key themes of the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1434,6 +1446,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a specific error related to user mapping in the context of VSS to TFS import, with no mention of integrating testing, security, or compliance earlier in the software development lifecycle. It does not align with the core themes of the Shift-Left Strategy, nor does it provide any depth or detail on the topic.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:19:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving specific technical issues related to VSS to TFS migration, with no explicit discussion of Continuous Improvement principles. While there is a suggestion for enhancing clarity in error messaging, it lacks a broader context of ongoing reflection, adaptation, or empirical evidence that characterises Continuous Improvement. Therefore, the content does not align with the core themes or depth required for this category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:19:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical issues related to VSS to TFS migration errors, specifically addressing user mapping problems. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it mention shared objectives or strategic alignment. The discussion is strictly technical and lacks any connection to the overarching themes of collaboration or accountability within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:19:46",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on resolving specific technical issues related to VSS to TFS import errors. While it touches on user mapping and permissions, it does not explicitly discuss competence, continuous learning, or skill development. The mention of user permissions could be loosely related to competence in terms of ensuring proper access, but it lacks depth and does not align with the core themes of competence as defined in Agile and DevOps contexts.",
     "level": "Ignored"
   }
 }

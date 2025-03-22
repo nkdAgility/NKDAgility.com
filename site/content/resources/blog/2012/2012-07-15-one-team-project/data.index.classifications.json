@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:12:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:17:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the use of Team Foundation Server and Agile Planning tools, without a clear focus on Evidence-Based Management principles or empirical data-driven decision-making.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS) in managing Agile projects, focusing on configurations and team structures rather than on evidence-based management principles. While it touches on aspects of Agile methodologies, it lacks a strong emphasis on empirical decision-making or metrics that align with Evidence-Based Management. The discussion is more about practical implementation than about using data to inform strategic improvements.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:12:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:17:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Team Foundation Server and Agile Planning tools, with a focus on project management rather than DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS) in managing Agile projects, focusing on team structures and project configurations. While it touches on collaboration and efficiency, which are relevant to DevOps, it lacks a direct focus on the core principles of DevOps such as automation, shared accountability, and continuous improvement. The discussion is more aligned with Agile methodologies rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -335,7 +341,7 @@
     "reasoning": "Content primarily discusses the use of Team Foundation Server and Agile Planning tools, focusing on project management and team configurations rather than Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T09:09:05",
     "ai_confidence": 50,
@@ -346,12 +352,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T08:17:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Agile Planning tools and their application within Team Foundation Server, indicating a focus on Agile methodologies, but it primarily revolves around project management and tooling rather than a comprehensive exploration of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile methodologies and tools, particularly in the context of Team Foundation Server (TFS), but it primarily focuses on project management aspects rather than the Agile Product Operating Model itself. While it touches on collaboration and efficiency in Agile environments, it lacks a direct focus on the principles and practices specific to the Agile Product Operating Model, such as product-oriented mindsets or continuous delivery. The discussion is more about managing projects and teams within TFS rather than the broader framework of APOM.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -427,11 +436,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:31:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:17:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the management and configuration of Team Projects in Team Foundation Server and Agile Planning tools, which are not directly related to Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS) in managing Agile projects and team structures, which is more focused on project management rather than Continuous Delivery practices. While it touches on Agile methodologies, it does not delve into the principles, practices, or benefits of Continuous Delivery, nor does it discuss automation, rapid feedback, or software quality improvements that are central to the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1533,6 +1545,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the configuration and management of Team Projects within Team Foundation Server, focusing on Agile planning tools and team structures. It does not explicitly mention the Shift-Left Strategy or its principles, nor does it delve into integrating testing, security, or compliance early in the development process. The discussion is more about project management and Agile methodologies rather than the proactive measures associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:17:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the use of Team Foundation Server (TFS) to enhance collaboration and efficiency in Agile environments, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the technical aspects of project management and tooling rather than a comprehensive exploration of Continuous Improvement methodologies or strategies. The mention of Agile practices suggests some alignment, but the depth of discussion on Continuous Improvement concepts is limited.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:17:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the concept of a single Team Project in TFS and its implications for collaboration and efficiency in Agile environments. However, it primarily focuses on technical aspects and configurations rather than explicitly addressing the foundational principles of Common Goals. While there are mentions of team alignment and collaboration, the depth of discussion on shared objectives and strategic alignment is limited, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:17:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the use of Team Projects in Team Foundation Server (TFS) and touches on Agile methodologies, but it primarily focuses on project management and tooling rather than on the development of skills or continuous learning. While there are references to Agile practices, the discussion lacks depth in exploring competence as a foundational principle, making it a secondary theme rather than a primary focus.",
     "level": "Ignored"
   }
 }

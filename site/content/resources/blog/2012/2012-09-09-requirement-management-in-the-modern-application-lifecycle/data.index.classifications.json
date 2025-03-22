@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:26:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:07:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses requirement management tools and practices without a clear focus on Evidence-Based Management principles or empirical data-driven decision-making.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on requirement management tools and practices within the context of Team Foundation Server (TFS). While it touches on aspects of productivity and integration, it lacks a direct discussion on Evidence-Based Management principles such as empirical decision-making or metrics related to current value, time to market, or ability to innovate. The content does not provide substantial detail on how data informs management decisions, which is central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,14 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:42:38",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "calculated_at": "2025-03-22T08:07:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on requirement management within the context of Team Foundation Server (TFS) and does not explicitly discuss DevOps principles or practices. While it touches on aspects of Agile methodologies and mentions tools that could be part of a DevOps toolchain, the main emphasis is on managing requirements rather than the integration of development and operations or continuous delivery. Therefore, it has a low confidence score for the DevOps category.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on requirement management within the context of Team Foundation Server (TFS) and does not explicitly discuss DevOps principles or practices. While it touches on aspects of collaboration and integration, it lacks a direct connection to the core themes of DevOps such as automation, shared accountability, or continuous improvement. The discussion is more aligned with project management and tools rather than the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -344,7 +347,7 @@
     "reasoning": "Content primarily focuses on requirement management tools and processes within Team Foundation Server, lacking a central discussion on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T09:09:02",
     "ai_confidence": 50,
@@ -355,12 +358,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T08:07:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Agile Project Management tools and their integration with Team Foundation Server, indicating a major theme related to Agile practices and product development, but it primarily focuses on requirement management and specific tools rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on requirement management within the context of Team Foundation Server (TFS) and does not explicitly discuss the Agile Product Operating Model. While it touches on agile practices and tools, it lacks a direct connection to the core principles of APOM, such as continuous delivery, product-oriented mindset, or evidence-based management. The discussion is more aligned with traditional project management and tool integration rather than the agile product ethos.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -436,11 +442,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:47:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:07:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses requirement management tools and their integration with TFS, lacking a central focus on Continuous Delivery principles and practices.",
+    "final_score": 31.0,
+    "reasoning": "The content discusses requirement management and tools related to Team Foundation Server (TFS), which are tangentially related to Continuous Delivery. However, it lacks a direct focus on Continuous Delivery principles, practices, or automation in testing and deployment. While it mentions the need for agility and rapid feedback, it does not delve into Continuous Delivery as a primary topic, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1536,6 +1545,42 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses requirement management and tools related to Team Foundation Server (TFS), but it does not explicitly focus on the Shift-Left Strategy. While there are mentions of integration and traceability, which are relevant to early testing and compliance, the primary focus is on managing requirements rather than integrating testing and security earlier in the development lifecycle. The discussion lacks depth in terms of Shift-Left principles and does not provide specific techniques or case studies related to the strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:07:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses requirement management and tools within the context of Team Foundation Server (TFS), but it does not explicitly focus on Continuous Improvement principles. While there are mentions of improving processes and tools, the discussion lacks depth in terms of empirical evidence, data-driven decision-making, or a culture of experimentation. The content primarily revolves around specific tools and their functionalities rather than a broader commitment to continuous improvement practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:07:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on requirement management tools and practices within the context of Team Foundation Server (TFS). While it touches on Agile methodologies, it does not explicitly discuss the concept of Common Goals or their significance in aligning strategy with execution. The mention of Agile is brief and does not delve into how shared objectives guide decision-making or connect individual contributions to the overall mission of the organisation. Therefore, the content lacks a strong connection to the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:07:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses requirement management tools and practices within the context of Team Foundation Server (TFS) but does not explicitly focus on the concept of competence. While it touches on the need for effective requirement capture and the challenges faced, it lacks a direct emphasis on continuous learning, skill development, or fostering a culture of competence. The discussion is more about tools and processes rather than the underlying principles of professionalism and quality delivery that define competence.",
     "level": "Ignored"
   }
 }

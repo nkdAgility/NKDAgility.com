@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:53:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:34:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of the Product Owner in Scrum, without a clear focus on evidence-based management principles or empirical data application.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the role of Product Owners within Scrum, focusing on their responsibilities and challenges. While it touches on value maximisation, it lacks a strong emphasis on empirical evidence or data-informed decision-making, which are central to Evidence-Based Management. The discussion is more about Scrum practices than about using evidence to drive management decisions.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -133,11 +136,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T21:53:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:34:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in Scrum, which is not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of Product Owners within the Scrum framework, discussing their responsibilities and challenges. While it touches on aspects of team collaboration, it does not engage with the core principles of DevOps, such as automation, shared accountability, or continuous improvement. The discussion is centred around Scrum methodologies rather than the DevOps philosophy, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -338,7 +344,7 @@
     "reasoning": "Content primarily discusses the role and responsibilities of a Product Owner in Scrum, focusing on management and organisational challenges rather than Systems Thinking principles or holistic analysis.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:54:28",
     "ai_confidence": 0,
@@ -349,11 +355,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T08:34:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner within the Scrum framework, which is a key aspect of the Agile Product Operating Model. However, it primarily focuses on the challenges and nuances of the Product Owner role rather than a broader discussion on the Agile Product Operating Model itself.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner within the Scrum framework, which is a specific agile methodology. While it touches on aspects of product management, such as backlog management and value maximisation, it does not comprehensively address the broader principles of the Agile Product Operating Model. The focus is more on Scrum practices rather than the integration of agile methodologies with product management principles, which is central to the APOM. Therefore, while there are relevant mentions, the overall depth and alignment with the APOM category are limited.",
     "level": "Tertiary"
   },
   "Organisational Agility": {
@@ -427,11 +436,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T03:05:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:34:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in Scrum, which does not focus on Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of Product Owners within the Scrum framework, focusing on backlog management and team dynamics. While it touches on aspects of agile development, it does not explicitly address Continuous Delivery principles, practices, or benefits. The discussion lacks depth in Continuous Delivery topics such as automation, incremental improvements, or rapid feedback, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1534,5 +1546,41 @@
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the role of the Product Owner within the Scrum framework, focusing on backlog management and team dynamics. It does not address the Shift-Left Strategy, which involves integrating testing, security, and compliance earlier in the software development lifecycle. The discussion is centred around Scrum practices rather than proactive measures to enhance software quality or delivery speed.",
     "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:34:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in Scrum, discussing responsibilities and challenges rather than Continuous Improvement principles. While it touches on aspects of team effectiveness and the need for adaptation, it lacks a direct emphasis on Continuous Improvement methodologies or strategies. The discussion is more about Scrum roles than about ongoing improvement practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:34:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of the Product Owner in Scrum, which is related to aligning team efforts with strategic objectives. However, it primarily focuses on the responsibilities and challenges faced by Product Owners rather than explicitly addressing the concept of Common Goals. While there are mentions of backlog management and team collaboration, the depth of discussion on how these relate to overarching organisational goals is limited.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:34:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of the Product Owner in Scrum, touching on aspects of responsibility and accountability, which are related to competence. However, it primarily focuses on the challenges and dynamics of the role rather than explicitly addressing continuous learning, skill development, or fostering a culture of competence. The discussion lacks depth in exploring how competence impacts decision-making or quality outcomes, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

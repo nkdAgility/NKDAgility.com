@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T23:53:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:46:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to running multiple versions of Microsoft Project, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to running multiple versions of Microsoft Project, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and provides minimal depth on any related concepts.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T23:53:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:45:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and compatibility issues of Microsoft Project, which is unrelated to DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the challenges and workarounds for running multiple versions of Microsoft Project, which is focused on project management rather than DevOps principles. There are no direct mentions of DevOps concepts, and the discussion lacks depth in relation to the core themes of DevOps such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -311,7 +317,7 @@
     "reasoning": "Content primarily discusses technical issues related to running multiple versions of Microsoft Project, without any focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T23:54:00",
     "ai_confidence": 0,
@@ -322,11 +328,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T23:54:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:46:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects and issues related to running multiple versions of Microsoft Project, with no focus on Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses technical issues related to running multiple versions of Microsoft Project, which is focused on traditional project management rather than the Agile Product Operating Model. There are no direct mentions of agile principles, product management practices, or any of the key topics outlined in the APOM framework.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T23:56:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:46:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses managing multiple versions of Microsoft Project software, which does not relate to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the challenges of running multiple versions of Microsoft Project, which is unrelated to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion does not align with the core themes such as automation, incremental improvements, or software quality. The depth of discussion is focused on specific software issues rather than any aspect of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1431,6 +1443,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the installation and operational issues related to running multiple versions of Microsoft Project. It does not mention or align with the principles of the Shift-Left Strategy, such as early integration of testing, security, or compliance in software development. The focus is on user experience and technical limitations rather than proactive quality assurance or development methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:45:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical challenges and workarounds related to running multiple versions of Microsoft Project. It does not focus on Continuous Improvement principles, nor does it provide insights into enhancing processes or fostering a culture of experimentation. The discussion is more about troubleshooting than about systematic improvement or agile methodologies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:45:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses technical challenges and workarounds related to running multiple versions of Microsoft Project. It does not address the concept of Common Goals, nor does it connect to Agile or DevOps principles. The focus is on project management software rather than shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:45:57",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses technical challenges and workarounds related to running multiple versions of Microsoft Project. While it touches on user understanding and potential issues, it does not focus on continuous learning, skill development, or the core themes of competence as defined in Agile and DevOps contexts.",
     "level": "Ignored"
   }
 }

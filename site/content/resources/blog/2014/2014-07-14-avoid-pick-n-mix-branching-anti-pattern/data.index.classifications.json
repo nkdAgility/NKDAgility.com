@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T09:11:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:16:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses source control issues and branching models, lacking a focus on evidence-based management principles or empirical data application.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the pick-n-mix branching anti-pattern in software development, focusing on technical issues and solutions rather than evidence-based management principles. While it touches on aspects like planning and trust, it lacks a direct connection to empirical decision-making or the key topics outlined in the Evidence-Based Management category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -133,14 +136,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:45:28",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 36,
+    "calculated_at": "2025-03-22T07:16:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the pick-n-mix branching anti-pattern in detail, highlighting its implications on source control, deployment processes, and overall software delivery. It aligns well with DevOps principles by addressing the need for better planning, feature branching, and the importance of continuous delivery. The depth of discussion on branching models and their impact on collaboration and efficiency in software delivery further supports its relevance to the DevOps category.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses branching strategies in software development, which relates to DevOps principles of collaboration and continuous delivery. However, it primarily focuses on specific branching models rather than the broader DevOps philosophy, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -341,7 +344,7 @@
     "reasoning": "Content primarily discusses the pick-n-mix branching anti-pattern in software development, focusing on source control issues and branching models, rather than exploring Systems Thinking principles or their applications in organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T09:12:43",
     "ai_confidence": 0,
@@ -352,12 +355,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T07:16:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses branching models and their impact on software delivery, which relates to Agile principles, but primarily focuses on source control issues rather than a comprehensive discussion on the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the pick-n-mix branching anti-pattern in software development, focusing on source control issues and branching strategies. While it touches on agile engineering practices and the need for better planning, it does not explicitly address the Agile Product Operating Model or its core principles. The discussion is more aligned with software development practices rather than the broader framework of APOM, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -433,14 +439,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T04:26:40",
+    "calculated_at": "2025-03-22T07:16:59",
     "ai_confidence": 82.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
     "final_score": 76.0,
-    "reasoning": "The content primarily focuses on the pick-n-mix branching anti-pattern and its implications for software delivery, which directly relates to Continuous Delivery principles. It discusses the importance of maintaining a production-ready state, the role of branching strategies, and the need for effective planning and automation in the deployment process. The depth of discussion is significant, providing detailed insights into the consequences of poor branching practices and suggesting a transition to a Feature branching model, which aligns well with Continuous Delivery methodologies. Overall, the content is highly relevant to the Continuous Delivery category.",
+    "reasoning": "The content primarily focuses on the pick-n-mix branching anti-pattern and its implications for software delivery, which directly relates to Continuous Delivery principles. It discusses the importance of a structured branching model, the need for feature toggles, and the impact of poor branching on software quality and business trust. The depth of discussion is significant, providing detailed insights into the consequences of inadequate branching strategies and advocating for a shift towards more effective models that align with Continuous Delivery practices. Overall, the content aligns well with the core themes of Continuous Delivery, particularly in terms of improving software quality and responsiveness to user needs.",
     "level": "Secondary"
   },
   "Strategic Goals": {
@@ -1537,5 +1543,41 @@
     "final_score": 29.0,
     "reasoning": "The content discusses branching models and their impact on software quality, which indirectly relates to the Shift-Left Strategy. However, it primarily focuses on source control issues and does not explicitly address integrating testing, security, or compliance earlier in the development process. The mention of reducing risk and promoting stability aligns with Shift-Left principles, but the overall discussion lacks depth in terms of specific Shift-Left techniques or metrics.",
     "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:16:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the pick-n-mix branching anti-pattern and suggests moving to a Feature branching model, which implies a focus on improving processes and reducing technical debt. However, while it touches on aspects of Continuous Improvement, such as enhancing code quality and team trust, it lacks a comprehensive exploration of the broader principles and strategies associated with Continuous Improvement. The discussion is more focused on specific technical practices rather than a holistic approach to continuous improvement in an organisational context.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:16:42",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the pick-n-mix branching anti-pattern and its implications on software development practices. While it touches on issues like trust and stability, which could relate to common goals, it does not explicitly define or focus on shared objectives within Agile or DevOps frameworks. The discussion lacks a clear connection to aligning strategy with execution or fostering collaboration across teams, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:16:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the pick-n-mix branching anti-pattern and its implications on code quality and team trust, which are related to competence in software development. It highlights the need for better planning and engineering practices to enhance team capabilities and deliver quality outcomes. However, while competence is a theme, it is not the primary focus, as the content mainly revolves around branching strategies and their technical implications rather than a broader discussion on continuous learning or skill development.",
+    "level": "Secondary"
   }
 }

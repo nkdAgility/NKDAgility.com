@@ -79,14 +79,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T07:26:45",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "calculated_at": "2025-03-22T09:33:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses aspects of database development and deployment, which are relevant to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, it lacks a direct focus on broader DevOps principles, cultural shifts, or collaboration between development and operations teams. The mention of separation of build and deploy is relevant but does not constitute a comprehensive discussion of DevOps as a whole.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a specific software tool, Visual Studio Team System 2008 Database Edition, and its features. While it touches on aspects like deployment and extensibility, it does not engage with the core principles of DevOps such as collaboration, automation, or shared accountability. The discussion lacks depth in terms of DevOps philosophy and practices, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -118,11 +118,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:00:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:33:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the features and improvements of a specific software release, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the features and capabilities of Visual Studio Team System 2008 Database Edition, with no direct mention of Agile methodologies or the Agile Product Operating Model. While there are elements of product development mentioned, they do not align with the core principles of APOM, such as continuous delivery or customer-centric value. The focus is on technical specifications rather than agile product management practices.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -181,11 +184,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:00:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:33:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and improvements of a software product, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the features and capabilities of a software product, with no direct mention of Evidence-Based Management principles or metrics. While it discusses aspects of software development and deployment, it does not align with the core themes of EBM such as data-informed decision-making or value delivery metrics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -257,7 +263,7 @@
     "reasoning": "Content primarily discusses the features and improvements of Visual Studio Team System 2008 Database Edition, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:01:00",
     "ai_confidence": 0,
@@ -928,11 +934,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:43:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:33:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of a new product related to Visual Studio and database development features, without a focus on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses aspects of deployment and build separation, which are relevant to Continuous Delivery. However, it lacks a comprehensive exploration of Continuous Delivery principles, automation, or user feedback, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1479,6 +1488,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the release of a software tool and its features, with no explicit mention of the Shift-Left Strategy or its principles. While there are references to extensibility and deployment processes, these do not align with the core themes of integrating testing, security, and compliance early in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:33:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a software product and its features, with no explicit discussion of Continuous Improvement principles. While it mentions enhancements and improvements, these are not framed within the context of ongoing reflection, adaptation, or a culture of experimentation, which are central to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:33:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the features and capabilities of a specific software release, lacking any discussion on shared objectives, alignment, or strategic goals within Agile or DevOps frameworks. It does not address the principles of Common Goals, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:33:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the features and capabilities of a software release, with no explicit discussion on competence, continuous learning, or skill development. While it touches on extensibility and deployment, these aspects do not directly relate to the core themes of competence as defined in Agile and DevOps contexts.",
     "level": "Ignored"
   }
 }

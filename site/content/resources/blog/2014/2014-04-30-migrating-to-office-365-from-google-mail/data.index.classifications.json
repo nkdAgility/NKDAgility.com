@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T10:37:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:21:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects of migrating from Google Mail to Office 365, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the technical aspects of migrating from Google Mail to Office 365, focusing on practical solutions and personal experiences rather than evidence-based management principles. There are no direct mentions of EBM concepts such as current value, time to market, or empirical decision-making. The discussion lacks depth in relation to the category, as it does not engage with the strategic approach of using data to inform management decisions.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T10:37:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:20:49",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of migrating email from Google Mail to Office 365, focusing on technical challenges and solutions, without addressing DevOps principles, practices, or tools.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating email services from Google Mail to Office 365, discussing specific methods and PowerShell commands. While it touches on automation through PowerShell, it lacks a broader discussion of DevOps principles such as collaboration, shared accountability, or continuous improvement. The content does not engage with the cultural or philosophical aspects of DevOps, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +326,7 @@
     "reasoning": "Content primarily discusses the technical aspects of migrating from Google Mail to Office 365, focusing on specific methods and challenges without addressing Systems Thinking principles or organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T10:38:04",
     "ai_confidence": 0,
@@ -331,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T10:38:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:21:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects of migrating email from Google Mail to Office 365, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the technical aspects of migrating from Google Mail to Office 365, with no mention of agile methodologies, product management principles, or the Agile Product Operating Model. It discusses specific migration techniques and PowerShell commands, which are unrelated to the core themes of the APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -406,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T11:05:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:21:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on migrating email from Google Mail to Office 365, which does not relate to Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the challenges and methods of migrating email from Google Mail to Office 365, focusing on technical solutions and PowerShell commands. It does not address Continuous Delivery principles, practices, or benefits, nor does it explore automation, rapid feedback, or cultural aspects related to software delivery. The mention of migration processes is tangential and does not align with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1452,6 +1464,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the process of migrating from Google Mail to Office 365, focusing on technical challenges and solutions related to email migration. It does not address the Shift-Left Strategy, which involves integrating testing, security, and compliance earlier in the software development lifecycle. There are no direct mentions of Shift-Left principles, nor does the content align with the core themes of proactive quality assurance or early integration of critical processes in software development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:20:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical challenges and solutions related to migrating from Google Mail to Office 365. While there are mentions of personal experiences and reflections on the migration process, it lacks a clear discussion on Continuous Improvement principles, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The content does not provide strategies for integrating Continuous Improvement into organisational processes or discuss its impact on team effectiveness, which are key topics in the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:20:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from Google Mail to Office 365, discussing specific methods and challenges encountered during the process. There are no explicit discussions on Common Goals, alignment, or shared objectives within Agile or DevOps frameworks. The content lacks depth in relation to the principles of Common Goals, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:20:58",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from Google Mail to Office 365, discussing specific methods and challenges encountered during the process. While there are elements of problem-solving and technical skill involved, the discussion does not explicitly address the concept of competence as defined in the category. It lacks a focus on continuous learning, skill development, or fostering a culture of competence, which are central to the category's definition.",
     "level": "Ignored"
   }
 }

@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:04:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:54:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the use of Team Foundation Server 2012 for project management without a focus on evidence-based management principles or empirical data.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the practical use of Team Foundation Server 2012 for project management, discussing design considerations and best practices. It does not explicitly mention Evidence-Based Management or its key topics, nor does it provide a data-informed decision-making framework. The discussion is more about tool usage and project organisation rather than empirical evidence or metrics related to value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,14 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:17:18",
+    "calculated_at": "2025-03-22T07:54:16",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
     "final_score": 38.0,
-    "reasoning": "The content discusses the use of Team Foundation Server (TFS) in managing projects and teams, which touches on aspects of DevOps such as automation and team collaboration. However, it primarily focuses on project management and TFS-specific features rather than the broader principles and practices of DevOps like CI/CD, cultural shifts, or specific DevOps tools. While there are mentions of automation and team dynamics, the depth of discussion does not fully align with the core themes of DevOps, leading to a moderate confidence score.",
+    "reasoning": "The content discusses best practices for managing a Team Project in TFS 2012, which touches on collaboration and efficiency, key aspects of DevOps. However, it primarily focuses on specific tools and methodologies related to TFS rather than the broader DevOps philosophy. While there are mentions of automation and team organisation, the depth of discussion does not fully align with the core principles of DevOps, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -341,7 +344,7 @@
     "reasoning": "Content primarily discusses the use of Team Foundation Server 2012 and its features for project management, without a clear focus on Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T09:08:58",
     "ai_confidence": 50,
@@ -352,14 +355,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T05:18:31",
+    "calculated_at": "2025-03-22T07:54:27",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
     "final_score": 32.0,
-    "reasoning": "The content discusses the use of Team Foundation Server (TFS) in managing projects and teams, which touches on aspects of Agile methodologies. However, it primarily focuses on technical implementation details and design considerations rather than a holistic view of the Agile Product Operating Model. While it mentions teams and products, it lacks a strong emphasis on value delivery, customer alignment, and continuous feedback, which are core themes of the Agile Product Operating Model.",
+    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS) for managing projects and teams, focusing on technical aspects and best practices rather than the Agile Product Operating Model itself. While it touches on agile concepts like teams and iterations, it lacks a direct focus on the principles and frameworks of the Agile Product Operating Model, such as continuous delivery, customer-centric value, or evidence-based management. The discussion is more about project management within TFS rather than a comprehensive exploration of APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -436,11 +439,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:30:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:54:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on Team Foundation Server (TFS) and management of team projects, rather than discussing Continuous Delivery principles and practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses best practices for managing a single Team Project in TFS 2012, focusing on collaboration and efficiency rather than Continuous Delivery principles. While it touches on automation and project management, it lacks a direct focus on Continuous Delivery practices, such as rapid feedback, incremental improvements, or deployment strategies. The depth of discussion on related topics is present, but it does not sufficiently align with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1533,6 +1539,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the use of Team Foundation Server 2012 and its features for managing team projects, without explicitly addressing the Shift-Left Strategy. While it touches on aspects of project management and team organisation, it lacks a focus on integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:54:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses best practices for managing a Team Project in TFS 2012, which touches on aspects of efficiency and collaboration. However, it lacks a strong focus on Continuous Improvement principles such as empirical evidence, data-driven decision-making, or a culture of experimentation. While there are mentions of design considerations and workflows, the overall discussion does not deeply engage with the core themes of Continuous Improvement, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:54:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the management of a single Team Project in TFS 2012, focusing on design considerations and best practices for collaboration and efficiency. While it touches on aspects of team organisation and project management, it lacks a direct emphasis on the concept of Common Goals as defined in the category. The discussion is more about technical implementation and workflow rather than aligning strategy with execution or fostering shared objectives. Therefore, it only partially aligns with the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:54:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses best practices and design considerations for managing a Team Project in TFS 2012, which indirectly touches on competence through the need for effective organisation and workflow management. However, it lacks a direct focus on continuous learning, skill development, or the core themes of competence as defined in Agile and DevOps contexts. The depth of discussion on related topics is moderate, but it does not sufficiently explore the principles of professionalism and quality delivery.",
     "level": "Ignored"
   }
 }

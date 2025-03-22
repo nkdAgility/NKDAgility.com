@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:03:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:23:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical updates and installation procedures for Windows Server, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on technical instructions for upgrading Windows Server and does not discuss Evidence-Based Management or its key topics. There are no direct mentions of empirical decision-making or metrics related to value delivery, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T11:04:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:22:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on updating Windows Server and does not discuss DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on upgrading Windows Server and does not explicitly discuss DevOps principles or practices. While it touches on aspects of system maintenance that could relate to DevOps, such as ensuring systems are up-to-date for performance and security, it lacks a direct connection to the core themes of DevOps, such as collaboration, automation, or shared accountability. The discussion is more technical and operational rather than philosophical or cultural, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses the process of updating Windows Server and related systems, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T11:04:31",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T11:04:33",
+    "calculated_at": "2025-03-22T07:23:07",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of updating Windows Server and does not relate to Agile principles or the Agile Product Operating Model.",
+    "reasoning": "The content focuses entirely on upgrading Windows Server and does not mention or align with any principles of the Agile Product Operating Model. It discusses technical updates and installation procedures, which are unrelated to agile methodologies or product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T11:19:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:23:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on updating Windows Server and does not discuss Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on upgrading Windows Server and does not discuss Continuous Delivery principles, practices, or benefits. It lacks direct mentions of Continuous Delivery and does not align with its core themes, such as automation in deployment or rapid feedback. The discussion is more about system updates rather than software delivery practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1443,6 +1455,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the process of updating Windows Server and does not address any aspects of the Shift-Left Strategy. There are no mentions of integrating testing, security, or compliance earlier in the software development lifecycle, nor does it provide any insights into the principles, benefits, or methodologies related to Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:22:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading a server and does not discuss Continuous Improvement principles. While it mentions the importance of keeping systems up-to-date for optimal performance, it lacks a discussion on empirical evidence, data-driven decision-making, or fostering a culture of experimentation and learning. The content does not align with the core themes of Continuous Improvement, nor does it provide depth in this area.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:23:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for upgrading a server and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the depth of discussion is limited to procedural details about software updates.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:23:05",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on technical instructions for upgrading a server and does not discuss competence, continuous learning, or skill development. While it implies a level of technical capability, it does not explicitly address the principles of competence as defined in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

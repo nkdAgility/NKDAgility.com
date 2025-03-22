@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:51:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:08:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the migration process of TFS 2008 to TFS 2010, focusing on team roles and technical steps rather than evidence-based management principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific migration process related to Visual Studio Team Foundation Server, detailing the steps taken and team involvement. There are no direct mentions of Evidence-Based Management principles or metrics, and the discussion lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management. The depth of discussion is limited to procedural details without any empirical analysis or strategic insights.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T07:19:47",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "calculated_at": "2025-03-22T09:07:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses a specific migration process related to Team Foundation Server (TFS), which is relevant to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, it lacks a broader discussion on DevOps principles, cultural shifts, or tools beyond TFS. The focus is primarily on a specific project rather than the overarching themes of DevOps, leading to a moderate confidence score.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the migration process of Team Foundation Server (TFS) rather than discussing DevOps principles or practices. While it mentions team collaboration and preparation, which are relevant to DevOps, it lacks a comprehensive exploration of the DevOps philosophy, automation, or cultural shifts. The discussion is more about specific tasks and team roles in a migration context, which does not align closely with the core themes of DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,7 +332,7 @@
     "reasoning": "Content primarily discusses the migration process of TFS 2008 to TFS 2010, focusing on team roles and technical steps rather than Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:52:40",
     "ai_confidence": 0,
@@ -340,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:52:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:07:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the migration process of TFS 2008 to TFS 2010, focusing on technical steps and team roles, without addressing Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating to Visual Studio 2010 Team Foundation Server, detailing the steps taken during the migration process. There is no discussion of agile methodologies, product management principles, or the Agile Product Operating Model. The content does not align with the key topics outlined for the category, and it lacks depth in relation to the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -421,11 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:28:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:08:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the migration process of Team Foundation Server (TFS) and does not address Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the migration process to Visual Studio 2010 Team Foundation Server, detailing specific steps taken during the migration. While it touches on aspects of deployment and team collaboration, it lacks a comprehensive discussion on Continuous Delivery principles, such as automation, rapid feedback, or cultural aspects. The mention of migration and deployment is relevant but does not delve into the broader Continuous Delivery practices or benefits, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1494,6 +1503,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a specific migration process of TFS (Team Foundation Server) and does not explicitly discuss the Shift-Left Strategy or its principles. While there is a mention of testing during the migration, it lacks a broader context of integrating testing, security, or compliance early in the development lifecycle. The discussion is more about the migration steps and team roles rather than the proactive approach of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:07:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a specific migration process to Visual Studio 2010 Team Foundation Server, detailing the steps taken and the team involved. While it mentions the importance of preparation and reflects on past experiences, it lacks a direct discussion on Continuous Improvement principles. The mention of a smoother migration compared to previous experiences hints at incremental improvement, but it does not delve into broader strategies or frameworks associated with Continuous Improvement. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:07:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a personal account of a migration project involving Visual Studio Team Foundation Server, detailing the steps taken and the team members involved. While it mentions team efforts, it lacks a discussion on shared objectives or alignment with strategic goals, which are central to the concept of Common Goals in Agile and DevOps. The content does not explore the significance of these goals or their impact on organisational performance, thus failing to meet the criteria for a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:07:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a specific migration process and team efforts without explicitly discussing competence as a foundational principle. While it mentions teamwork and preparation, it lacks a detailed exploration of continuous learning, skill development, or the impact of competence on quality outcomes. The discussion is more about the execution of a project rather than the underlying principles of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

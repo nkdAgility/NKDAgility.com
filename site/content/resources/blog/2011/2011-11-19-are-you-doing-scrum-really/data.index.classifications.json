@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:47:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:33:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum practices and principles without a focus on empirical evidence or data-driven decision-making.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum practices and the evolving framework rather than focusing on Evidence-Based Management principles. While it touches on the need for measurable checklists, it lacks a strong emphasis on empirical decision-making or data-informed strategies that are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T21:47:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:32:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum, discussing its principles, practices, and recent changes. While it briefly touches on concepts like automated testing and build processes, which are relevant to DevOps, the main emphasis is on Scrum methodology rather than the broader DevOps philosophy. Therefore, it does not align closely with the core themes of DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -338,7 +344,7 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:47:52",
     "ai_confidence": 0,
@@ -349,11 +355,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T21:47:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:32:59",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on Scrum practices and principles rather than the Agile Product Operating Model. While it touches on some agile concepts, it does not discuss the transition to a product-oriented mindset or the integration of product management principles, which are central to the APOM. The depth of discussion is more about Scrum's implementation rather than the broader framework of APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -430,11 +439,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:41:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:33:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum practices and principles, with a focus on the Scrum framework rather than Continuous Delivery. While it briefly mentions the importance of delivering working software, it does not delve into Continuous Delivery principles, automation, or related strategies. The discussion is centred around Scrum roles and events, which are not directly aligned with Continuous Delivery concepts.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1536,6 +1548,42 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Scrum practices and principles, with a focus on the Scrum framework and its implementation. While it briefly mentions the importance of automated testing and builds, which could relate to a Shift-Left approach, the overall discussion does not centre on integrating testing, security, or compliance earlier in the development lifecycle. Therefore, it does not align well with the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:32:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Scrum practices and the importance of adaptability within the framework, which aligns with Continuous Improvement principles. However, it primarily focuses on Scrum's implementation rather than a broader discussion on Continuous Improvement as a concept. The mention of a checklist for assessing Scrum practices indicates some alignment with measurable advancements, but the depth of discussion on Continuous Improvement techniques and strategies is limited.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:32:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the practical aspects of implementing Scrum and the changes in its framework, rather than focusing on the alignment of common goals within Agile and DevOps. While it touches on the importance of a checklist for Scrum practices, it lacks a thorough exploration of how these practices connect to shared objectives or strategic alignment. The discussion is more about operationalising Scrum rather than establishing common goals that guide decision-making across teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:32:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of adhering to Scrum principles and provides a checklist for evaluating Scrum practices, which indirectly relates to competence in terms of skill development and quality delivery. However, the primary focus is on the Scrum framework rather than a deep exploration of competence as a standalone concept. The mention of needing to improve performance and the reference to practices that enhance Scrum effectiveness suggest a connection to competence, but it lacks a thorough examination of continuous learning or professional development.",
     "level": "Ignored"
   }
 }

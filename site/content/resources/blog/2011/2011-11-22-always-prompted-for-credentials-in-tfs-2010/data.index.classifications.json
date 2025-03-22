@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:45:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:32:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting user authentication issues in TFS 2010 and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS 2010 and Active Directory authentication, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and provides minimal depth on any related topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T21:46:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:32:30",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to TFS and Active Directory authentication, which are not central to DevOps principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on troubleshooting credential prompts in TFS 2010 and provides specific steps for resolving an Active Directory issue. While it touches on aspects of user authentication, it does not engage with the core principles of DevOps, such as collaboration, automation, or continuous improvement. The discussion lacks depth and does not align with the broader DevOps philosophy, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -311,7 +317,7 @@
     "reasoning": "Content primarily discusses troubleshooting user authentication issues in TFS 2010 and does not address Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:46:36",
     "ai_confidence": 0,
@@ -322,11 +328,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T21:46:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:32:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting user authentication issues in TFS 2010, which is unrelated to the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on troubleshooting credential prompts in TFS 2010, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related concepts. The discussion is technical and specific to a software issue, lacking any alignment with the core themes of APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:11:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:32:44",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on resolving Active Directory authentication issues with TFS 2010, without discussing Continuous Delivery principles or practices.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses issues related to user authentication in TFS 2010 and Active Directory, with no direct mention of Continuous Delivery principles, practices, or tools. It does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or software quality. The discussion is focused on a specific technical problem rather than the broader context of software delivery practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1434,6 +1446,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a specific issue related to TFS 2010 and Active Directory authentication, with no direct mention of the Shift-Left Strategy or its principles. While there is a brief mention of user authentication, it does not align with the core themes of integrating testing, security, or compliance early in the software development lifecycle. The discussion lacks depth regarding Shift-Left practices, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:32:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to TFS 2010 and Active Directory authentication. It does not discuss Continuous Improvement principles, nor does it provide insights into processes, products, or team effectiveness. The mention of improving user experience is too vague and does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:32:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting a technical issue related to TFS 2010 and Active Directory authentication. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment within teams. The mention of user experience is too vague and does not connect to the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:32:38",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on troubleshooting a technical issue related to TFS 2010 and Active Directory, with no explicit discussion of competence, continuous learning, or skill development. While it provides practical steps for resolving a problem, it does not align with the core themes of competence in Agile or DevOps environments.",
     "level": "Ignored"
   }
 }

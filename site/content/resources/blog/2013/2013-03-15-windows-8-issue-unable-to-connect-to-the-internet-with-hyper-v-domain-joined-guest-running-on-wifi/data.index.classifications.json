@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:19:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:57:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Windows 8 and Hyper-V networking, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to network connectivity in Hyper-V on Windows 8, with no direct mention or alignment to Evidence-Based Management principles. It focuses on troubleshooting and solutions for a specific technical problem rather than data-informed decision-making or metrics related to organisational value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T19:19:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:57:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a networking issue related to Hyper-V and Windows 8, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a technical issue related to network connectivity in a Hyper-V environment, which does not align with the core principles of DevOps. There are no direct mentions of DevOps practices, principles, or cultural shifts. The focus is on troubleshooting a specific problem rather than on collaboration, automation, or shared accountability, which are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -311,7 +317,7 @@
     "reasoning": "Content primarily discusses a technical issue related to networking and Hyper-V, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:19:43",
     "ai_confidence": 0,
@@ -322,11 +328,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:19:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:57:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to networking in Windows 8 and Hyper-V, with no relevance to Agile principles or product development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on troubleshooting a technical issue related to Hyper-V and network connectivity in Windows 8. It does not mention or align with any principles of the Agile Product Operating Model, nor does it discuss product management or agile methodologies. The content is strictly technical and unrelated to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:23:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:57:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical networking issues related to Windows 8 and Hyper-V rather than Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to network connectivity in Hyper-V on Windows 8, with no mention or exploration of Continuous Delivery principles, practices, or tools. It focuses on troubleshooting a specific problem rather than any aspect of software delivery or automation.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1431,6 +1443,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a technical issue related to networking in a Windows environment, specifically with Hyper-V and Wi-Fi connections. There are no direct mentions of the Shift-Left Strategy, nor does it align with its core themes of integrating testing, security, or compliance early in the software development lifecycle. The discussion is focused on troubleshooting a connectivity problem rather than proactive quality assurance or development practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:57:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to network connectivity in Hyper-V on Windows 8. While there is a mention of testing and finding solutions, it lacks a broader discussion on Continuous Improvement principles, such as empirical evidence, culture of experimentation, or strategies for integrating improvements into processes. The content does not align with the core themes of Continuous Improvement, making it a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:57:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to network connectivity in Hyper-V on Windows 8, with no mention of Common Goals, Agile, or DevOps principles. It focuses on troubleshooting and solutions for a specific problem rather than aligning strategy with execution or shared objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:57:18",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on troubleshooting a technical issue related to network connectivity in Hyper-V on Windows 8. While it demonstrates some problem-solving skills, it does not explicitly discuss competence in the context of Agile, Scrum, or DevOps methodologies. The mention of personal experience and testing does not align with the core themes of continuous learning or skill development, and the depth of discussion on competence is minimal.",
     "level": "Ignored"
   }
 }

@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:49:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:07:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2008 Team Foundation Server SP1, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, providing a detailed release and test plan. It does not discuss Evidence-Based Management principles or metrics, nor does it engage with data-informed decision-making. The mention of installation challenges and troubleshooting does not align with the core themes of EBM, which emphasises empirical evidence and strategic improvements.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T07:18:34",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-22T09:07:01",
+    "ai_confidence": 25.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, which is a specific technical task rather than a broader discussion on DevOps principles or practices. While it touches on aspects of deployment and server management, it lacks explicit discussions on CI/CD, automation, or cultural shifts in DevOps. The depth of discussion is limited to installation steps and troubleshooting, which does not align closely with the core themes of DevOps.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, which is more aligned with technical implementation rather than the broader DevOps philosophy. While it touches on aspects of collaboration and planning, it lacks a direct discussion of DevOps principles such as automation, shared accountability, or continuous improvement. The mention of a release plan and test plan indicates some alignment with DevOps practices, but the overall focus remains on installation rather than the cultural and philosophical aspects of DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -323,7 +326,7 @@
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2008 Team Foundation Server SP1, focusing on technical steps and procedures rather than Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:49:56",
     "ai_confidence": 0,
@@ -334,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:49:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:07:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2008 Team Foundation Server SP1, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, with no direct mention of Agile methodologies or the Agile Product Operating Model. While there are references to project management practices, they do not align with the core themes of APOM, such as product-oriented mindsets or continuous delivery. The discussion lacks depth regarding Agile principles, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -412,11 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:46:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:07:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on installation procedures and troubleshooting for Team Foundation Server (TFS) and does not address the principles or practices of Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, detailing steps for installation, testing, and backup plans. While it touches on aspects of software deployment, it does not explicitly discuss Continuous Delivery principles, practices, or benefits. The mention of installation and testing does not align with the core themes of Continuous Delivery, which emphasises automation, rapid feedback, and incremental improvements. Overall, the content lacks depth and direct relevance to Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1461,6 +1470,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, detailing steps and plans for installation, testing, and rollback. While it includes a test plan, it does not discuss integrating testing, security, or compliance earlier in the development lifecycle, which is central to the Shift-Left Strategy. The mention of testing is limited to post-installation checks, lacking the proactive approach characteristic of Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:07:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, providing a detailed release and test plan. While it mentions challenges faced during installation, it does not engage with the principles of Continuous Improvement, such as fostering a culture of experimentation or discussing strategies for enhancing processes. The discussion lacks depth in relation to Continuous Improvement concepts, making it only tangentially related.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:07:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing Visual Studio 2008 Team Foundation Server SP1, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While there are mentions of team dynamics and scheduling challenges, these are not connected to the core themes of Common Goals, such as alignment, ownership, or strategic objectives. The depth of discussion is limited to installation procedures and troubleshooting, which does not contribute to the understanding of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:07:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Visual Studio 2008 Team Foundation Server SP1, with no explicit discussion on competence or continuous skill development. While it touches on the challenges faced during installation, it does not align with the core themes of competence, such as professionalism, trust, or quality outcomes. The depth of discussion is limited to procedural steps rather than fostering a culture of competence or inspecting and adapting skills.",
     "level": "Ignored"
   }
 }

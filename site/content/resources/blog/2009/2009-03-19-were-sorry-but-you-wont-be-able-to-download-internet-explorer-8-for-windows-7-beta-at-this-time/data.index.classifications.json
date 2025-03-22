@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T03:03:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:25:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Internet Explorer 8 and personal experiences with web browsers, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the availability and features of Internet Explorer 8 for Windows 7 users, with no focus on Evidence-Based Management principles or metrics. While there is a brief mention of an independent study regarding browser performance, it does not relate to the core themes of EBM, such as data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T03:04:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:24:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Internet Explorer 8 and personal experiences with web browsers, with no relevance to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Internet Explorer 8 and its compatibility with Windows 7, with no mention of DevOps principles, practices, or cultural shifts. It does not align with the core themes of DevOps, such as collaboration, automation, or continuous improvement, and lacks any depth in discussing these topics.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -305,7 +311,7 @@
     "reasoning": "Content primarily discusses Internet Explorer 8 and personal experiences with web browsers, with no relevance to Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T03:04:59",
     "ai_confidence": 0,
@@ -316,11 +322,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T03:05:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:24:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about Internet Explorer 8 and does not discuss Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on Internet Explorer 8 and its compatibility with Windows 7, with no mention or discussion of agile methodologies, product management principles, or any related topics that align with the Agile Product Operating Model. It does not address any of the key topics outlined in the category description.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -388,11 +397,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:25:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about the download and features of Internet Explorer 8, with no relevance to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the availability and features of Internet Explorer 8 for Windows 7 users, with no mention of Continuous Delivery principles, practices, or related topics. It does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality. The discussion is focused on a specific software product rather than the delivery practices associated with software development.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1413,6 +1425,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on the download and features of Internet Explorer 8, with no discussion of software development processes, testing, security, or compliance, which are central to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:24:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the availability and features of Internet Explorer 8 for Windows 7 users, with no focus on Continuous Improvement principles. It lacks any mention of empirical evidence, data-driven decision-making, or strategies for enhancing processes or team effectiveness, which are central to the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:24:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the inability to download Internet Explorer 8 for Windows 7 and compares it to other browsers. It does not address any aspects of Common Goals, Agile, or DevOps principles, nor does it provide any strategic alignment or shared objectives relevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:24:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the availability and features of Internet Explorer 8 for Windows 7 users, with no focus on competence, skill development, or Agile methodologies. It lacks any relevant discussion on continuous learning or professional development, which are key aspects of the competence category.",
     "level": "Ignored"
   }
 }

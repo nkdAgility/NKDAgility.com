@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T23:44:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:45:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the migration of a blogging platform and user requests for features, lacking focus on evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the migration of a blogging platform to WordPress, focusing on user requests and features rather than evidence-based management principles. There are no direct mentions of empirical decision-making or metrics related to value delivery, innovation, or outcomes, which are central to Evidence-Based Management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T23:44:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:45:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the migration of a blogging platform to Wordpress, focusing on user requests and features rather than DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the migration of a blogging platform to WordPress, focusing on user features and capabilities rather than any DevOps principles or practices. There are no direct mentions of DevOps concepts such as collaboration, automation, or shared accountability, and the discussion lacks depth in relation to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses the migration of a blogging platform and user requests for features, lacking a focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T23:45:04",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T23:45:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:45:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the migration of a blogging platform and user requests for features, with no focus on Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the migration of a blogging platform to WordPress, focusing on user features and capabilities rather than any principles or practices related to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management, or the core themes outlined in the APOM definition.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -400,11 +409,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:18:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:45:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the potential migration of a blogging platform to WordPress, with no mention of Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the migration of a blogging platform to WordPress, focusing on user features and capabilities rather than Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion does not align with the core themes of the category, such as automation, incremental improvements, or software quality. The depth of discussion is also minimal, as it does not provide any insights into Continuous Delivery methodologies.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1437,6 +1449,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the migration of a blogging platform and user requests for features, with no direct mention or alignment to the Shift-Left Strategy in software development. It lacks any discussion on integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:45:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content discusses the potential migration of GeeksWithBlogs to WordPress, highlighting the need for improved features and user capabilities. However, it primarily focuses on the debate surrounding the migration rather than on Continuous Improvement principles. While there are mentions of user needs and frustrations, the content lacks a structured approach to Continuous Improvement methodologies, empirical evidence, or detailed strategies for enhancing processes or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:45:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the migration of a blogging platform and the features desired by users, which does not directly address the concept of Common Goals in Agile or DevOps. While there is a call for community involvement and voting, it lacks a clear connection to shared objectives or strategic alignment within a team or organisation. The focus is more on personal experiences and platform capabilities rather than on aligning team efforts with overarching goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:45:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the migration of a blogging platform and the features of WordPress, with minimal focus on competence in terms of skill development or professional growth. While it touches on user needs and frustrations, it does not delve into continuous learning or the development of capabilities, which are central to the concept of competence.",
     "level": "Ignored"
   }
 }

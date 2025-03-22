@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T09:01:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:13:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses philosophical perspectives on Scrum and Agile, without a focus on empirical evidence or Evidence-Based Management principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Bruce Lee's philosophy on Scrum and Agile, focusing on adaptability and simplicity rather than empirical evidence or data-informed decision-making. While it touches on concepts relevant to Agile, it does not explicitly address Evidence-Based Management or its key topics, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,11 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T09:01:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:13:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Agile methodologies without a clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum and Agile methodologies, which are not aligned with the core principles of DevOps. While there are mentions of adaptability and continuous improvement, the focus remains on Scrum rather than the broader DevOps philosophy, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -332,7 +338,7 @@
     "reasoning": "Content heavily discusses Scrum and Agile methodologies without a clear focus on Systems Thinking principles or their applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T09:02:07",
     "ai_confidence": 0,
@@ -343,14 +349,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T04:20:53",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-22T07:13:44",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses Agile and Scrum through a philosophical lens, focusing on the principles of flexibility and adaptation rather than the specific frameworks or methodologies of the Agile Product Operating Model. While it touches on concepts relevant to Agile, such as the importance of understanding principles over rigid adherence to methods, it lacks a direct focus on product-centric development, value delivery, or the operational aspects of the Agile Product Operating Model. Therefore, it does not fully align with the category's core themes.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses Scrum and Agile through the lens of Bruce Lee's philosophy, focusing on adaptability and simplicity. However, it lacks a direct connection to the Agile Product Operating Model's core principles, such as product management practices, operational stability, or evidence-based management. While it touches on agile concepts, it does not provide a detailed exploration of the APOM framework or its key topics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -421,11 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T09:56:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:13:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Agile concepts without addressing Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum and Agile philosophies, with no direct mention of Continuous Delivery principles or practices. While it touches on adaptability and customer satisfaction, it lacks specific references to automation, incremental improvements, or the cultural aspects of Continuous Delivery. The focus remains on Scrum as a methodology rather than on Continuous Delivery as a disciplined practice.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1533,6 +1542,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum and Agile principles through a philosophical lens, without any direct mention or exploration of the Shift-Left Strategy. It does not address integrating testing, security, or compliance early in the development process, nor does it provide any techniques, case studies, or tools related to the Shift-Left approach. The focus is on the broader concepts of Agile and Scrum, which do not specifically align with the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:13:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Bruce Lee's philosophy in relation to Scrum and Agile, focusing on adaptability and simplicity. While it touches on themes relevant to Continuous Improvement, such as the need for a tailored process and the idea of learning and mastering principles, it does not explicitly address Continuous Improvement as a primary focus. The discussion is more philosophical and abstract, lacking concrete strategies or empirical evidence that would strengthen its alignment with the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:13:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content references Scrum and Agile principles through Bruce Lee's philosophy, but it does not explicitly discuss Common Goals or their significance in aligning strategy with execution. While it touches on adaptability and simplicity, which are relevant to Agile, it lacks a focused discussion on shared objectives or the operationalisation of Common Goals. The depth of discussion is limited, primarily offering philosophical insights rather than practical applications related to Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:13:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content references Bruce Lee's philosophy in relation to Scrum and Agile, focusing on simplicity and adaptability. However, it lacks direct discussions on competence, continuous learning, or skill development. While it touches on principles that could relate to competence, such as mastery and adaptability, these concepts are not explored in depth or explicitly tied to the core themes of competence as defined in the category. The overall focus is more on philosophy than on the practical aspects of competence in Agile and DevOps.",
     "level": "Ignored"
   }
 }

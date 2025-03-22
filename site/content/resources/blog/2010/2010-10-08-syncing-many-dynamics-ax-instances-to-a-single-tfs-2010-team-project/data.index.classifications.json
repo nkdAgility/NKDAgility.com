@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:11:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:49:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical setup and management of Dynamics AX instances with TFS, lacking focus on evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical aspects of managing Dynamics AX instances with TFS, lacking any direct discussion or alignment with Evidence-Based Management principles. It does not address empirical decision-making or metrics related to value delivery, innovation, or outcomes.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T13:03:04",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-22T08:49:06",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses the integration of Microsoft Dynamics AX with Team Foundation Server (TFS), which relates to version control and project management aspects of DevOps. However, it lacks a broader discussion on DevOps principles, practices, and cultural shifts. While it touches on automation and project management, it does not delve deeply into continuous integration or delivery, nor does it address collaboration between development and operations teams. The focus is more on specific technical configurations rather than the overarching DevOps philosophy.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the integration of Dynamics AX with TFS, focusing on project management and configuration rather than the broader principles of DevOps. While it touches on collaboration and management strategies, it lacks a comprehensive exploration of DevOps philosophies, such as automation, shared accountability, or continuous improvement. The discussion is more technical and tool-specific, which does not align closely with the core themes of DevOps.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -329,7 +332,7 @@
     "reasoning": "Content primarily discusses technical setup and management of Dynamics AX instances with TFS, lacking a focus on Systems Thinking principles or holistic analysis.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:12:01",
     "ai_confidence": 0,
@@ -340,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:12:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:49:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical setup and management of Microsoft Dynamics AX with Team Foundation Server, without a focus on Agile principles or product-centric development.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical aspects of integrating Dynamics AX with TFS, discussing project management strategies specific to software development rather than the Agile Product Operating Model. There are no direct mentions of agile principles or product management practices, and the discussion lacks depth in relation to the core themes of APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,11 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:54:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:49:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on managing Dynamics AX instances with TFS, discussing version control setup and project management, which does not specifically address the principles or practices of Continuous Delivery.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the management of Dynamics AX instances with TFS, focusing on project organisation and configuration rather than Continuous Delivery principles. While it touches on aspects of software management that could relate to delivery practices, it lacks explicit discussions on Continuous Delivery concepts such as automation, rapid feedback, or incremental improvements.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1488,6 +1497,42 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the management of Dynamics AX instances with TFS, focusing on project organisation and configuration rather than integrating testing, security, or compliance earlier in the development lifecycle. There are no direct mentions of Shift-Left principles, and the discussion lacks depth in relation to the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:49:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical solutions for managing Dynamics AX instances within TFS, with limited direct discussion on Continuous Improvement principles. While it touches on streamlining processes and enhancing collaboration, it lacks a thorough exploration of Continuous Improvement methodologies, empirical evidence, or a culture of experimentation. The depth of discussion is primarily technical rather than strategic, which diminishes its alignment with the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:49:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical solutions for managing Dynamics AX instances within TFS, with limited discussion on aligning team efforts or strategic objectives. While it touches on collaboration and management, it lacks a clear connection to the principles of Common Goals in Agile or DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:49:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical solutions for managing Dynamics AX instances with TFS, lacking direct discussions on competence or continuous skill development. While it touches on the importance of a structured approach to project management, it does not delve into the broader implications of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

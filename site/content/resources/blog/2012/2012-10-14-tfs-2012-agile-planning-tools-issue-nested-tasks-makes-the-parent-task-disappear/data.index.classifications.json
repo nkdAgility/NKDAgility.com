@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T16:47:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:04:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the use of Agile Planning Tools in TFS and the implications of nested tasks, without a focus on evidence-based management principles or empirical data.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the use of nested tasks in TFS 2012 Agile Planning Tools, focusing on practical issues and best practices rather than on evidence-based management principles. While it touches on aspects of backlog management, it lacks explicit references to empirical decision-making, current value metrics, or any of the key topics outlined in the Evidence-Based Management category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T16:47:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:04:14",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile planning tools and the management of tasks within a project management context, without a clear focus on DevOps principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the use of nested tasks within TFS 2012 Agile Planning Tools, focusing on backlog management and task structuring. While it touches on Agile principles, it does not explicitly address DevOps as a philosophy or its core themes such as collaboration, automation, or shared accountability. The discussion is more aligned with Agile project management rather than the broader DevOps practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,7 +335,7 @@
     "reasoning": "Content primarily discusses the use of Agile Planning Tools and nested tasks in Visual Studio Team Foundation Server, without a focus on Systems Thinking principles or interconnectedness within organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-14T16:47:53",
     "ai_confidence": 0,
@@ -340,15 +346,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-11T10:32:06",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-22T08:04:29",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the use of nested Product Backlog Items (PBIs) and tasks within the context of Agile Planning Tools, which aligns with the Agile Product Operating Model. However, it primarily focuses on technical aspects of using a specific tool (TFS 2012) rather than broader principles of the Agile Product Operating Model. While it touches on product-centric development and the importance of PBIs, it lacks a comprehensive exploration of strategies for maximising value delivery or the role of cross-functional teams, which are key themes in the category. Therefore, while there is relevant content, it does not fully meet the criteria for a primary focus on the Agile Product Operating Model.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses the use of nested tasks and Product Backlog Items (PBIs) within the context of TFS 2012 Agile Planning Tools. While it touches on agile concepts, such as backlog management and the distinction between tasks and PBIs, it primarily focuses on tool-specific issues rather than the broader principles of the Agile Product Operating Model. The discussion lacks depth in exploring the core themes of APOM, such as continuous delivery, operational stability, or the integration of agile methodologies with product management. Therefore, while there are relevant mentions, the overall focus is more on practical tool usage than on the Agile Product Operating Model itself.",
+    "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -418,11 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T16:48:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:04:37",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile planning tools and the management of tasks within Team Foundation Server, which is not directly related to Continuous Delivery principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the use of nested tasks in TFS 2012 Agile Planning Tools, focusing on backlog management and task breakdown. While it touches on Agile practices, it does not explicitly address Continuous Delivery principles, automation, or the delivery of software in reliable cycles. The discussion is more about task management rather than the broader context of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1533,6 +1542,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the use of nested tasks within Agile Planning Tools in TFS, focusing on task management rather than integrating testing, security, or compliance earlier in the development process. It does not address the core principles or benefits of the Shift-Left Strategy, nor does it provide techniques or case studies related to this approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:04:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses best practices for managing tasks within Agile Planning Tools, which touches on aspects of Continuous Improvement, such as refining processes and enhancing team effectiveness. However, it primarily focuses on specific tool usage rather than broader Continuous Improvement principles, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:04:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the technical aspects of using nested tasks in TFS 2012 Agile Planning Tools, focusing on practical issues and best practices for backlog management. While it touches on the concept of breaking down Product Backlog Items (PBIs) into tasks, it does not explicitly discuss the alignment of these tasks with broader organisational goals or the principles of Agile and DevOps. The mention of PBIs indicates a slight connection to Common Goals, but the overall focus is more on tool usage rather than strategic alignment or shared objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:04:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the use of nested tasks in TFS 2012 Agile Planning Tools, focusing on best practices for backlog management. While it touches on the importance of understanding task breakdowns, it does not explicitly address continuous learning or skill development, which are core to the concept of competence. The discussion is more about tool usage and specific practices rather than fostering a culture of competence or professional development.",
     "level": "Ignored"
   }
 }

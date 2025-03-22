@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T22:00:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:36:27",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and anecdotes related to consulting engagements, without a focus on evidence-based management principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on a consultant's experience with deployment processes and tools, lacking explicit discussions on Evidence-Based Management principles. While there are mentions of efficiency and collaboration, these are not tied to empirical evidence or metrics that define EBM. The discussion does not delve into the key topics of EBM, such as current value or outcome management, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,15 +133,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:28:11",
-    "ai_confidence": 68.0,
+    "calculated_at": "2025-03-22T08:36:11",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
-    "reasoning": "The content discusses a specific engagement involving deployment processes and tools, which aligns with DevOps principles. However, it lacks a comprehensive exploration of DevOps practices, cultural shifts, or metrics, resulting in a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a consultant's experience with improving a deployment process, which touches on aspects of collaboration and efficiency. However, it lacks a direct focus on DevOps principles, such as shared accountability or automation, and does not delve deeply into the cultural shifts or practices necessary for effective DevOps implementation.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -341,7 +344,7 @@
     "reasoning": "Content primarily discusses a consultant's experience with deployment solutions and client engagements, lacking a focus on Systems Thinking principles or methodologies.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T22:01:37",
     "ai_confidence": 0,
@@ -352,11 +355,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T22:01:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:36:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and technical practices related to deployment and tools, without a clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a consultant's experience with deployment processes and tools, with no explicit mention of the Agile Product Operating Model or its principles. While there are references to improving processes and collaboration, these do not align with the core themes of APOM, such as product-oriented mindsets or continuous delivery. The discussion lacks depth and detail on the Agile framework, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -430,14 +436,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T06:26:04",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "calculated_at": "2025-03-22T08:36:29",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses a deployment model and mentions a build process, which are relevant to Continuous Delivery. However, it lacks a direct focus on the principles and practices of Continuous Delivery, and the discussion is more anecdotal than analytical. The mention of tools and practices is too vague to provide a strong alignment with the core themes of Continuous Delivery.",
+    "final_score": 40.0,
+    "reasoning": "The content discusses a transformation of a deployment process and mentions tools and practices related to deployment, which aligns with Continuous Delivery principles. However, it lacks a direct focus on Continuous Delivery as a primary topic and does not delve deeply into the core themes such as automation, rapid feedback, or cultural aspects. The discussion is more anecdotal and does not provide extensive detail on Continuous Delivery practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1509,6 +1515,42 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on a personal experience as a consultant and does not explicitly discuss the Shift-Left Strategy. While there are mentions of tools and practices related to deployment and QA processes, these are not framed within the context of integrating testing, security, or compliance earlier in the development lifecycle. The discussion lacks depth and does not provide a clear alignment with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:36:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses a consultant's experience in improving a deployment process, which hints at elements of Continuous Improvement. However, it lacks explicit discussions on the principles of Continuous Improvement, such as empirical evidence, data-driven decision-making, or a structured approach to enhancing processes. The focus is more on a specific success story rather than a broader exploration of Continuous Improvement concepts.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:36:17",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on a personal experience of a consultant and their engagement with a client, discussing specific tools and practices rather than the concept of Common Goals. While there are mentions of collaboration and efficiency, these are not explicitly tied to shared objectives or strategic alignment within Agile or DevOps frameworks. The discussion lacks depth in exploring how these experiences relate to overarching organisational goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:36:19",
+    "ai_confidence": 35.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses a consultant's experience in improving a deployment process, which touches on competence through the mention of training and enhancing efficiency. However, it lacks a focused discussion on continuous learning or the broader implications of competence in Agile or DevOps methodologies. The primary focus is on the specific project and tools used rather than a deep exploration of competence as a foundational principle.",
     "level": "Ignored"
   }
 }

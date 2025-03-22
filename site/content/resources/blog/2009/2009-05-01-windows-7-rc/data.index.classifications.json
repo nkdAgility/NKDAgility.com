@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:54:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:22:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about the Windows 7 Release Candidate and does not discuss Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the Windows 7 Release Candidate and provides updates and tips for installation, with no mention of Evidence-Based Management or its core themes. It lacks any empirical evidence or data-informed decision-making discussions.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:54:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:22:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the availability and installation of Windows 7 Release Candidate, which is unrelated to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the Windows 7 Release Candidate and provides information for developers regarding its availability and installation. There are no direct mentions of DevOps principles, practices, or cultural shifts. The focus is on a specific software release rather than the integration of people, processes, and technology that characterises DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -305,7 +311,7 @@
     "reasoning": "Content primarily discusses the release of Windows 7 and related information, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:54:46",
     "ai_confidence": 0,
@@ -316,11 +322,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:54:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:22:23",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily about the Windows 7 Release Candidate and does not discuss Agile principles or product-centric development.",
+    "reasoning": "The content focuses entirely on the Windows 7 Release Candidate and does not mention or align with any aspects of the Agile Product Operating Model. It discusses software availability and installation tips, which are unrelated to agile methodologies or product management principles.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -391,11 +400,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:22:29",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about the availability of the Windows 7 Release Candidate and does not discuss Continuous Delivery principles or practices.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses the Windows 7 Release Candidate and provides updates and tips for installation, which does not directly address Continuous Delivery principles or practices. There are no explicit mentions of Continuous Delivery, and the discussion lacks depth in terms of relevant themes such as automation, incremental improvements, or user feedback.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1419,6 +1431,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the release of Windows 7 and does not mention or align with the principles of the Shift-Left Strategy in software development. There is no discussion of testing, security, or compliance processes, nor any techniques or tools related to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:22:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the release of Windows 7 and provides updates and tips for installation, with no explicit discussion or alignment with Continuous Improvement principles. It lacks depth and does not address any of the key topics related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:22:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the Windows 7 Release Candidate and provides information about its availability and installation tips. It does not mention or align with the principles of Common Goals in Agile or DevOps, nor does it provide any depth on shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:22:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the Windows 7 Release Candidate and provides information about its availability and installation tips. There are no direct mentions of competence, continuous learning, or skill development, nor does it align with the core themes of the category. The discussion lacks depth regarding competence, making it largely irrelevant to the classification.",
     "level": "Ignored"
   }
 }

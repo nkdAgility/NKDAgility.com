@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T22:03:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:37:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a course offering related to software testing and does not discuss Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a training course for software testing using Visual Studio and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of EBM concepts, and the content lacks any alignment with the key topics outlined for EBM. The depth of discussion is minimal, as it is mainly promotional material for a course rather than a substantive discussion on management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T22:03:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:36:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a testing course using Visual Studio and does not discuss DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific training course for testing software using Visual Studio and does not explicitly discuss DevOps principles or practices. While it mentions aspects of the application lifecycle and automated testing, these are not framed within the broader context of DevOps philosophy, such as collaboration, shared accountability, or continuous improvement. The discussion lacks depth in relation to DevOps concepts, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -326,7 +332,7 @@
     "reasoning": "Content primarily focuses on a course offering related to software testing and does not discuss Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T22:04:30",
     "ai_confidence": 0,
@@ -337,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T22:04:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:36:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a course about testing software with Visual Studio and does not discuss Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a specific training course related to testing software using Visual Studio and does not discuss the Agile Product Operating Model or its principles. There are no direct mentions of agile methodologies, product management, or the key topics outlined in the APOM definition. The content is more aligned with traditional software testing practices rather than the agile product-oriented mindset.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,11 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:15:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:37:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a course on software testing using Microsoft tools, which does not align with the principles and practices of Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a training course for testing with Visual Studio and does not explicitly discuss Continuous Delivery principles or practices. While it mentions aspects of testing and tools that could relate to Continuous Delivery, it lacks a direct focus on the category's core themes such as automation in deployment, rapid feedback, or cultural aspects of Continuous Delivery. The discussion is more about enhancing testing skills rather than the broader context of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1470,6 +1482,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a specific course about testing tools and methodologies, with no explicit discussion of the Shift-Left Strategy. While it mentions testing and the software development lifecycle, it does not delve into integrating testing early in the development process or the broader principles of the Shift-Left approach. The details provided are more about the course structure and benefits of specific tools rather than the strategic implications of shifting testing left.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:36:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific training course for software testing, with no explicit discussion of Continuous Improvement principles. While it mentions skills enhancement and understanding workflows, it lacks a direct connection to the core themes of Continuous Improvement, such as empirical evidence, culture of experimentation, or strategies for integrating improvement into processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:36:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting a training course for software testing, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it mentions the workflow between developers and testers, it lacks depth in connecting these roles to shared objectives or strategic alignment. The overall emphasis is on course details rather than the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:36:57",
+    "ai_confidence": 45.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 40.0,
+    "reasoning": "The content discusses a training course aimed at enhancing skills in testing software, which aligns with the concept of competence through skill development. However, it primarily focuses on the course details rather than a broader discussion on competence as a foundational principle in Agile or DevOps. The mentions of understanding workflows and managing testing activities indicate some alignment with competence, but the depth of discussion is limited to course specifics rather than a comprehensive exploration of competence in a professional context.",
     "level": "Ignored"
   }
 }

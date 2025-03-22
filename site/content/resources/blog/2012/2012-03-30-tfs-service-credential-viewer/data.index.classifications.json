@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:46:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:23:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the TFS Service Credential Viewer and its functionality, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a tool for managing credentials in Team Foundation Service, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks any mention of data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:46:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:22:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the TFS Service Credential Viewer and its usage, which is not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific tool (TFS Service Credential Viewer) for managing credentials in Team Foundation Service, which is more aligned with tool usage rather than the broader principles and practices of DevOps. While it touches on automation in the context of credential management, it lacks a discussion on collaboration, shared accountability, or cultural shifts that are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -317,7 +323,7 @@
     "reasoning": "Content primarily discusses the TFS Service Credential Viewer and its functionality, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:46:52",
     "ai_confidence": 0,
@@ -328,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:46:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:23:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the TFS Service Credential Viewer and its functionality, with no focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a specific tool for managing credentials in Team Foundation Service, with no direct mention or discussion of Agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any alignment with the core themes of APOM, such as continuous delivery, product-oriented mindset, or operational governance. The depth of discussion is limited to technical instructions and troubleshooting for the TFS Service Credential Viewer, which is unrelated to the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:00:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:23:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the TFS Service Credential Viewer and its installation and usage for team foundation service connections, with no clear relation to Continuous Delivery practices or principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the TFS Service Credential Viewer, which is a tool for managing credentials for Team Foundation Service. While it discusses aspects of automation in connecting to TFS, it does not explicitly address Continuous Delivery principles, practices, or benefits. The mention of automated connections is tangential and does not delve into the broader themes of Continuous Delivery, such as rapid feedback, incremental improvements, or cultural aspects. Overall, the content lacks depth and direct relevance to the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1437,6 +1449,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the TFS Service Credential Viewer and its functionality, with no direct discussion of the Shift-Left Strategy or its principles. It does not address integrating testing, security, or compliance early in the development process, nor does it provide any techniques or case studies related to Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:22:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the TFS Service Credential Viewer, detailing its functionality and installation process. There are no discussions or mentions of Continuous Improvement principles, nor does it align with the core themes of the category. The content lacks depth in relation to Continuous Improvement, making it irrelevant to the classification.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:22:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the TFS Service Credential Viewer and its functionality, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it mentions connecting to Team Foundation Service, it does not address shared objectives, alignment, or strategic goals, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:23:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the TFS Service Credential Viewer and its functionality, with no explicit discussion on competence, continuous learning, or skill development. While it mentions prerequisites and troubleshooting, these do not align with the core themes of competence in Agile or DevOps environments.",
     "level": "Ignored"
   }
 }

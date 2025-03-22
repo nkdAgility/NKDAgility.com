@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:12:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:12:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a feature of Outlook 2010 and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a feature of Outlook 2010, specifically the Calendar preview, which does not relate to Evidence-Based Management. There are no direct mentions of EBM concepts, and the discussion lacks any alignment with the key topics outlined in the category. The content is superficial and does not provide any depth regarding data-informed decision-making or empirical evidence.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:12:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:12:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a feature of Outlook 2010, which is unrelated to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on a feature of Outlook 2010, which is unrelated to DevOps principles, practices, or cultural shifts. There are no direct mentions of DevOps, and the discussion does not align with any core themes of the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -305,7 +311,7 @@
     "reasoning": "Content primarily discusses a feature of Outlook 2010 and does not relate to Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:13:14",
     "ai_confidence": 0,
@@ -316,11 +322,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:13:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:12:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a feature of Outlook 2010 without any reference to Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a specific feature of Outlook 2010, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM framework. The discussion lacks depth and relevance to the category, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -388,11 +397,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:51:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:12:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a feature of Outlook 2010 and does not relate to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a specific feature of Outlook 2010, which is unrelated to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion lacks any alignment with the core themes of the category, such as automation, incremental improvements, or software quality. The depth of discussion is minimal and does not provide any relevant insights into Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1410,6 +1422,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content focuses on a feature of Outlook 2010 and does not discuss any aspects of the Shift-Left Strategy, such as testing, security, or compliance in software development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:12:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a specific feature of Outlook 2010, which does not relate to Continuous Improvement principles. There are no direct mentions of improvement processes, empirical evidence, or strategies for fostering a culture of experimentation. The discussion lacks depth and does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:12:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a specific feature of Outlook 2010, which does not relate to the principles of Common Goals in Agile or DevOps. There are no explicit discussions of shared objectives, alignment, or strategic goals, and the depth of discussion is minimal, lacking any connection to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:12:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a feature of Outlook 2010, discussing its utility for checking availability. There are no direct mentions of competence, continuous learning, or skill development, nor does it align with the core themes of the category. The discussion lacks depth regarding competence, making it largely irrelevant to the classification.",
     "level": "Ignored"
   }
 }

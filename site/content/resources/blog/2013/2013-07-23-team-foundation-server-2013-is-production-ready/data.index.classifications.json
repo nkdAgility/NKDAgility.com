@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:01:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:40:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the deployment and performance of Team Foundation Server 2013, with a focus on the challenges faced during its development and the transition to Agile practices, rather than on evidence-based management principles.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the transition to Agile practices and the challenges faced by the Team Foundation Server (TFS) team, but it primarily focuses on the product's readiness and historical context rather than on evidence-based management principles. While there are mentions of transparency and quality in the context of Agile, the discussion lacks a strong emphasis on empirical decision-making or metrics that align with the core themes of Evidence-Based Management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -163,15 +166,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T14:48:03",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-22T07:40:05",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and its transition to a more agile approach, which touches on aspects of DevOps, such as the importance of integrating development and operations through continuous delivery. However, the primary focus is on the challenges faced during the transition and the specific features of TFS rather than a comprehensive exploration of DevOps principles, practices, or tools. The mention of 'agility' and 'technical debt' aligns with DevOps concepts, but the overall depth and direct discussion of DevOps practices are limited.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its transition to agile practices, which touches on aspects of DevOps such as continuous delivery and the importance of quality in rapid release cycles. However, it primarily focuses on TFS and its specific features rather than the broader principles of DevOps. While there are mentions of agility and technical debt, the discussion lacks depth in exploring the cultural and collaborative aspects of DevOps, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -344,7 +347,7 @@
     "reasoning": "Content primarily discusses the deployment and issues related to Team Foundation Server, focusing on agile practices and technical debt, rather than exploring Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:02:59",
     "ai_confidence": 0,
@@ -355,12 +358,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T07:40:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the transition of the Team Foundation Server (TFS) team to Agile practices, including sprints and the challenges of adopting agility, which aligns with the Agile Product Operating Model. However, the primary focus is on TFS and its updates rather than a broader discussion of the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the agile journey of Team Foundation Server (TFS) and touches on aspects of agility, such as sprints and technical debt. However, it primarily focuses on the product's readiness and historical context rather than the Agile Product Operating Model itself. While there are mentions of agile practices, they are not deeply connected to the core principles of APOM, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -439,12 +445,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T07:40:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Team Foundation Server's journey towards agility and production readiness, touching on themes of releasing software, quality in shorter cycles, and addressing technical debt, which relates to Continuous Delivery principles. However, it is more focused on the specific product and experiences rather than a broader discussion of Continuous Delivery practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Team Foundation Server 2013 and its production readiness, touching on aspects of agile practices and the challenges faced during the transition to shorter release cycles. However, it primarily focuses on the product's history and improvements rather than explicitly addressing Continuous Delivery principles or practices. While there are mentions of agility and the importance of quality in rapid release cycles, the discussion lacks depth in Continuous Delivery concepts and does not provide a comprehensive exploration of the category's key topics.",
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -1536,6 +1545,42 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the transition to a more agile approach in software development, highlighting the importance of building quality into the process rather than testing it in later. However, it primarily focuses on the challenges faced during this transition and the history of Team Foundation Server, rather than explicitly addressing the Shift-Left Strategy. While there are mentions of technical debt and the need for early quality integration, the overall discussion does not delve deeply into the principles, techniques, or metrics specifically associated with the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:40:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the journey of the Team Foundation Server (TFS) team towards agility and highlights the challenges faced, such as technical debt and the need for transparency. While it touches on aspects of Continuous Improvement, such as addressing undone work and the importance of building quality into the release process, it lacks a focused discussion on Continuous Improvement principles. The mention of 'paying back technical debt' and 'getting on top of undone work' aligns with the category, but the overall depth and explicit focus on Continuous Improvement are limited.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:40:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the transition of the Team Foundation Server (TFS) team towards agility and the challenges faced during this process. While it touches on the importance of transparency and quality in Agile practices, it does not explicitly define or focus on Common Goals as a primary theme. The discussion is more about the technical aspects and historical context of TFS rather than aligning strategy with execution or shared objectives within teams. Therefore, the confidence score reflects a low alignment with the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:40:14",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 40.0,
+    "reasoning": "The content discusses the journey of the Team Foundation Server (TFS) team towards agility and the challenges they faced, which touches on the importance of competence in adapting to Agile methodologies. However, it primarily focuses on the product's readiness and historical context rather than a deep exploration of competence as a principle. While there are mentions of 'undone work' and 'technical debt', the discussion lacks a thorough examination of continuous learning or strategies for fostering competence, leading to a moderate confidence score.",
     "level": "Ignored"
   }
 }

@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:55:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:53:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on upgrading process templates in Visual Studio Scrum, with no clear discussion on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on upgrading process templates in Visual Studio Scrum, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on aspects of process improvement, it lacks a clear connection to data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T18:56:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:52:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on upgrading process templates in Visual Studio Scrum, which is more aligned with project management and software development practices rather than the core principles of DevOps.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on upgrading a process template related to Scrum and Agile methodologies, which are not directly aligned with the core principles of DevOps. While there are mentions of version control and process management, the discussion lacks a strong emphasis on collaboration, automation, or shared accountability, which are central to DevOps. The content does not delve into the cultural shifts or practices necessary for effective DevOps implementation, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -323,7 +329,7 @@
     "reasoning": "Content primarily focuses on upgrading process templates in Visual Studio Scrum, with no clear discussion on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:57:18",
     "ai_confidence": 0,
@@ -334,11 +340,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:57:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:53:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on upgrading process templates in Visual Studio Scrum, which is more about technical practices than the Agile Product Operating Model.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on upgrading process templates within Visual Studio Scrum, which is more aligned with traditional project management practices rather than the Agile Product Operating Model. While it mentions Scrum, it does not discuss the core principles of APOM, such as transitioning to a product-oriented mindset or continuous delivery. The discussion lacks depth in terms of Agile product management principles and does not provide insights into operational stability, governance, or evidence-based management, which are key topics of the APOM framework.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -412,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:59:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:53:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the process of upgrading process templates in Visual Studio Scrum and does not address Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on upgrading process templates within Visual Studio Scrum, which is more about process management than Continuous Delivery. While it touches on aspects of version control and migration, it lacks a direct discussion on Continuous Delivery principles, automation in deployment, or rapid feedback mechanisms. The content does not explore the core themes of Continuous Delivery, such as delivering small, incremental improvements or enhancing software quality, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1491,6 +1503,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on upgrading process templates in Visual Studio Scrum and does not explicitly discuss the Shift-Left Strategy. While there are mentions of process management and configuration, these do not align with the core themes of integrating testing, security, and compliance earlier in the software development lifecycle. The discussion lacks depth on the principles, benefits, or techniques related to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:52:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading a process template in Visual Studio Scrum, with minimal reference to Continuous Improvement principles. While it discusses aspects of maintaining and adapting templates, it lacks a broader discussion on the culture of experimentation, learning, or strategic business agility that characterises Continuous Improvement. The content does not provide empirical evidence or case studies, nor does it explore the impact on team effectiveness or organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:53:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading a process template in Visual Studio Scrum, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on aspects of process management, it lacks depth in connecting these actions to shared objectives or strategic alignment, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:53:07",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading a process template in Visual Studio, with limited direct discussion on competence. While it touches on the importance of careful execution and maintaining data integrity, it lacks a deeper exploration of continuous learning, skill development, or fostering a culture of competence, which are central to the category. The mention of ensuring proper setup and understanding of customisations hints at competence but does not delve into the broader implications of professional development or quality delivery.",
     "level": "Ignored"
   }
 }

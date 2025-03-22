@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:21:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:28:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the installation of TFS 2013, which is not a central topic of DevOps practices or principles.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Team Foundation Server (TFS) and SQL Server, which are tools often used in software development and project management. While it touches on aspects of setting up a development environment, it lacks a direct discussion of DevOps principles such as collaboration, automation, or shared accountability. The mention of creating a team project hints at a collaborative aspect, but it does not delve into the cultural or philosophical elements of DevOps. Overall, the content is more aligned with technical setup rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -241,11 +244,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:28:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the installation process of TFS 2013 and does not discuss Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Team Foundation Server (TFS) and SQL Server, with no explicit discussion of Continuous Delivery principles or practices. While it touches on aspects of setting up a development environment, it lacks depth in Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback. The mention of 'agile journey' is too vague and does not directly relate to Continuous Delivery, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -377,7 +383,7 @@
     "reasoning": "Content is primarily about installing TFS 2013 and does not relate to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-18T12:23:46",
     "ai_confidence": 0,
@@ -1141,11 +1147,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on installing TFS 2013 and does not discuss Agile Product Operating Model or its related principles and practices.",
+    "calculated_at": "2025-03-22T07:28:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the technical installation of Team Foundation Server (TFS) and SQL Server, with minimal reference to agile principles or product management. While it mentions an 'agile journey,' it does not discuss the Agile Product Operating Model or its key topics, such as product-oriented mindsets or continuous delivery. The discussion lacks depth in relation to the category, making it largely irrelevant to the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1348,11 +1357,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of TFS 2013 and does not address principles, practices, or discussions related to Evidence-Based Management.",
+    "calculated_at": "2025-03-22T07:28:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing Team Foundation Server (TFS) and does not discuss Evidence-Based Management principles or metrics. While it touches on Agile practices, it lacks any empirical evidence or data-informed decision-making discussions that are central to EBM.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1425,6 +1437,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation and configuration of Team Foundation Server (TFS) and SQL Server, with no direct mention or discussion of the Shift-Left Strategy. While it touches on aspects of software development, it does not address integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy. The discussion lacks depth and relevance to the category, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:28:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical steps for installing Team Foundation Server (TFS) and does not explicitly discuss Continuous Improvement principles. While it touches on aspects of setting up processes that could contribute to team effectiveness, it lacks a direct connection to the core themes of Continuous Improvement, such as empirical evidence, culture of experimentation, or strategies for integration into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:28:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical steps for installing Team Foundation Server (TFS) and does not explicitly discuss Common Goals or their significance in Agile or DevOps. While it mentions creating a team project, it lacks depth in connecting this to shared objectives or strategic alignment, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:28:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical steps for installing TFS and SQL Server, with minimal direct discussion on competence or skill development. While it implies a level of competence in executing the installation process, it does not explicitly address continuous learning, quality outcomes, or fostering a culture of competence. The depth of discussion remains technical rather than reflective on professional growth or mastery.",
     "level": "Ignored"
   }
 }

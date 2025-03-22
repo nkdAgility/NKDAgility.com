@@ -73,11 +73,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T10:42:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:29:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of Windows 7 Beta and does not address any DevOps principles, practices, or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the release of Windows 7 Beta and its features, with no mention of DevOps principles, practices, or cultural shifts. It does not align with the core themes of DevOps, such as collaboration, automation, or shared accountability, and lacks any depth in discussing these topics.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -109,11 +112,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T10:43:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:29:17",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
     "final_score": 1.0,
-    "reasoning": "Content is primarily about the release of Windows 7 Beta and does not discuss Agile principles or product-centric development.",
+    "reasoning": "The content focuses entirely on the release of Windows 7 Beta and does not mention or discuss any aspects of the Agile Product Operating Model. There are no references to agile methodologies, product management principles, or any related topics that would align with the category. Therefore, it does not meet any of the classification criteria.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -166,11 +172,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T10:43:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:29:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release and features of Windows 7 Beta, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the release of Windows 7 Beta and its features, with no mention of Evidence-Based Management principles or metrics. It lacks any alignment with the core themes of EBM, such as data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -239,7 +248,7 @@
     "reasoning": "Content primarily discusses the release of Windows 7 Beta and does not address metrics, learning, or related themes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T10:43:33",
     "ai_confidence": 0,
@@ -883,11 +892,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:25:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:29:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of Windows 7 Beta and provides information on downloading and installing it, without any focus on Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the release of Windows 7 Beta and its features, with no explicit mention of Continuous Delivery principles, practices, or related topics. It lacks any discussion on automation, incremental improvements, or user feedback, which are core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1419,6 +1431,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the release of Windows 7 Beta and does not mention or align with the principles of the Shift-Left Strategy in software development. There are no references to testing, security, or compliance processes, nor any techniques or methodologies related to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:29:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the release of Windows 7 Beta and its improvements over Vista, with no substantial discussion on Continuous Improvement principles. While it mentions stability and improvements, these are not framed within the context of ongoing practices or methodologies related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:29:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the release of Windows 7 Beta and does not discuss any aspects related to Common Goals in Agile or DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth on these topics.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:29:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the release of Windows 7 Beta and its features, with no direct mention of competence, continuous learning, or skill development. It lacks alignment with the core themes of the category, focusing instead on product information and user experience rather than professional development or quality delivery.",
     "level": "Ignored"
   }
 }

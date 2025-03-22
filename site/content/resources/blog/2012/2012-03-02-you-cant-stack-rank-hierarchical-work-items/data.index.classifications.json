@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:51:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:24:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges and considerations of managing hierarchical work items in software development, without a clear focus on evidence-based management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges of stack ranking hierarchical work items in software development, which touches on aspects of productivity and organisation. However, it lacks explicit references to Evidence-Based Management principles, such as empirical decision-making or metrics related to current value, time to market, or ability to innovate. The focus is more on practical challenges and strategies rather than on data-informed decision-making or the management of outcomes.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,11 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:51:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:24:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the ordering and management of work items in a Scrum context, without a clear focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the challenges of stack ranking hierarchical work items in software development, which is more aligned with project management and Agile methodologies rather than the core principles of DevOps. While there are mentions of team productivity and organisation, these do not directly address DevOps concepts such as automation, shared accountability, or continuous improvement. The discussion lacks depth in terms of DevOps practices and does not explore the cultural shifts or collaboration aspects central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -335,7 +341,7 @@
     "reasoning": "Content primarily discusses the challenges and considerations of managing hierarchical work items in software development, without a clear focus on Systems Thinking principles or holistic analysis of interconnected components.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:52:04",
     "ai_confidence": 0,
@@ -346,14 +352,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T06:03:17",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-22T08:24:22",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses the ordering of work items within a product backlog, which relates to product-centric development. However, it primarily focuses on technical aspects of managing hierarchical tasks rather than broader Agile principles or value delivery strategies. While there are mentions of PBIs (Product Backlog Items) and their relationships, the discussion lacks depth in exploring the Agile Product Operating Model as a holistic framework.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the challenges of stack ranking hierarchical work items, which is relevant to agile practices but does not explicitly focus on the Agile Product Operating Model. While it touches on product backlog items (PBIs) and their management, it lacks a comprehensive exploration of the core principles of APOM, such as continuous delivery, operational stability, or the transition from project to product ethos. The discussion is more about practical challenges in agile methodologies rather than a deep dive into the APOM framework.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -433,11 +439,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:56:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:24:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the ordering and management of hierarchical work items, focusing on backlog management and Scrum methodologies, rather than the principles and practices of Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the challenges of stack ranking hierarchical work items in software development, which is more aligned with project management and task organisation rather than Continuous Delivery principles. While it touches on aspects of productivity and team organisation, it does not explicitly address Continuous Delivery practices, automation, or the rapid feedback loops that are central to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1533,6 +1542,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the ordering and management of work items in a Scrum context, focusing on hierarchical relationships and task management. While it touches on aspects of testing and traceability, it does not explicitly address the Shift-Left Strategy or its core principles, benefits, or methodologies. The discussion is more aligned with Agile practices rather than the proactive integration of testing and security earlier in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:24:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses challenges and strategies related to stack ranking hierarchical work items, which touches on aspects of team productivity and organisation. However, it lacks a strong focus on Continuous Improvement principles such as empirical evidence, a culture of experimentation, or systematic processes for enhancement. The discussion is more about specific practices in software development rather than a broader commitment to ongoing improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:24:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the challenges of stack ranking hierarchical work items in software development, which is more focused on project management techniques rather than the alignment of strategy with execution as defined in the Common Goals category. While there are mentions of Product Backlog Items (PBIs) and their relationships, the discussion lacks a clear connection to shared objectives or the operationalisation of Common Goals within Agile or DevOps frameworks. The depth of discussion on aligning team efforts with overarching strategic objectives is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:24:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges of stack ranking hierarchical work items and touches on the importance of effectively ordering tasks, which relates to competence in terms of skill development and quality outcomes. However, it primarily focuses on practical challenges and strategies rather than a deep exploration of competence as a foundational principle. The discussion lacks explicit references to continuous learning or fostering a culture of competence, leading to a moderate confidence score.",
     "level": "Ignored"
   }
 }

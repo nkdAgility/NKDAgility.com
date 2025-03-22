@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:52:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:34:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of upgrading a process template in TFS, focusing on queries, reports, and work item types, without addressing evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for upgrading a process template in TFS, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on aspects of process improvement, it lacks a clear connection to data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T06:19:17",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "calculated_at": "2025-03-22T08:34:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses upgrading a process template in TFS, which relates to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, it primarily focuses on the technical steps involved in managing work items and process templates rather than broader DevOps principles or cultural shifts. While there are mentions of tools and processes that could be associated with DevOps, the depth of discussion is more technical and procedural, lacking a comprehensive exploration of DevOps as a holistic practice.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on upgrading a process template in TFS, which is more aligned with project management and specific tooling rather than the broader DevOps philosophy. While it touches on aspects of process management that could relate to DevOps, such as collaboration and automation, it lacks a direct discussion of core DevOps principles like shared accountability, continuous improvement, or feedback loops. The depth of discussion is limited to technical steps without exploring the cultural or philosophical aspects of DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -323,7 +326,7 @@
     "reasoning": "Content primarily focuses on upgrading a process template in TFS, detailing specific steps and commands without discussing Systems Thinking principles or interconnectedness within systems.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:53:17",
     "ai_confidence": 0,
@@ -334,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T21:53:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:34:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of upgrading a process template in TFS, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on upgrading a process template in TFS, which is more aligned with traditional project management practices rather than the Agile Product Operating Model. While it touches on aspects of agile methodologies, such as work item types and queries, it does not explicitly discuss the core principles or themes of the Agile Product Operating Model. The discussion lacks depth in relation to product management and continuous delivery, which are central to APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -412,11 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:41:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:34:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on upgrading process templates in TFS and managing work items, which is not directly related to Continuous Delivery principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on upgrading a process template in TFS, which is more about project management and configuration than Continuous Delivery. While it touches on aspects of software development, it does not discuss Continuous Delivery principles, practices, or benefits, nor does it mention automation, rapid feedback, or cultural aspects related to Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1494,6 +1503,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on upgrading a process template in TFS and does not discuss integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on aspects of process management, it lacks a clear connection to the principles and benefits of the Shift-Left Strategy, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:34:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for upgrading a process template in TFS, with no explicit discussion of Continuous Improvement principles. While it touches on aspects of process enhancement, it lacks a commitment to empirical evidence, experimentation, or a culture of learning, which are core to Continuous Improvement. The content does not provide strategies or frameworks related to Continuous Improvement, nor does it discuss the impact on team effectiveness or business agility.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:34:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for upgrading a process template in TFS, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on aspects of team projects and work item types, it lacks a clear connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:34:24",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on technical instructions for upgrading a process template in TFS, with minimal direct discussion of competence or its principles. While it touches on the importance of maintaining existing queries and reports, it lacks a deeper exploration of continuous learning, skill development, or the impact of competence on team dynamics and quality outcomes.",
     "level": "Ignored"
   }
 }

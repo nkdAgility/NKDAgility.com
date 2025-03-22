@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T23:18:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:43:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of upgrading Team Foundation Server and does not focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server (TFS) and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:31:41",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-22T08:43:12",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
-    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server (TFS) and migrating it to a new domain. While it does touch on aspects of DevOps, such as the importance of configuration and best practices, it lacks a broader discussion on DevOps principles, cultural shifts, or automation. The content is more of a technical guide than a discussion on DevOps as a holistic practice.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical steps for upgrading Team Foundation Server (TFS) and migrating to a new domain. While it touches on aspects related to DevOps, such as server configuration and build processes, it lacks a broader discussion on the DevOps philosophy, principles, or cultural shifts. The content does not explicitly mention key DevOps concepts like collaboration, automation, or shared accountability, which are central to the category. Therefore, the confidence score reflects a low alignment with the core themes of DevOps.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -337,11 +340,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T23:27:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:43:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the technical process of upgrading Team Foundation Server and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) and does not discuss any principles or practices related to the Agile Product Operating Model. While it mentions Agile in passing, it does not align with the core themes of APOM, such as product management principles or continuous delivery.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -365,7 +371,7 @@
     "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server (TFS), which is a critical aspect of Application Lifecycle Management (ALM). It discusses stages such as deployment and maintenance, providing detailed steps and best practices for managing the upgrade and migration of TFS. The content aligns well with the core themes of ALM, particularly in terms of governance and compliance during the upgrade process. However, it lacks broader discussions on metrics, KPIs, and risk management strategies, which slightly lowers the depth of discussion.",
     "level": "Secondary"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T23:27:16",
     "ai_confidence": 0,
@@ -415,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:18:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:43:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on upgrading TFS systems and does not discuss Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical steps involved in upgrading Team Foundation Server (TFS) from 2008 to 2010 and migrating to a new domain. While it touches on aspects of software deployment, it lacks a direct discussion of Continuous Delivery principles, such as automation, rapid feedback, or incremental improvements. The content is more about a specific upgrade process rather than a broader exploration of Continuous Delivery practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1479,6 +1488,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the technical steps involved in upgrading Team Foundation Server (TFS) and migrating it to a new domain. It does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any case studies or tools related to the Shift-Left approach. The content is more about operational procedures rather than strategic discussions on software development practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:43:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical steps for upgrading TFS and migrating to a new domain, with minimal reference to Continuous Improvement principles. While there are mentions of best practices and avoiding pitfalls, these do not constitute a discussion on Continuous Improvement as defined. The content lacks a broader context of reflection, adaptation, or empirical evidence that would align it with the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:43:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading TFS and migrating to a new domain, with no explicit discussion of Common Goals or their significance in Agile or DevOps frameworks. While it may touch on aspects of project management, it lacks a clear connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:43:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical steps for upgrading TFS and migrating to a new domain, with minimal discussion on competence or skill development. While it implies a level of expertise required to perform these tasks, it does not explicitly address the importance of continuous learning, quality outcomes, or fostering a culture of competence as outlined in the category definition.",
     "level": "Ignored"
   }
 }

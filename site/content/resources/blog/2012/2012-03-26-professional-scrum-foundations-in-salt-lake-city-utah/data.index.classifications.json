@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:48:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:23:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal experience teaching a Scrum course and does not focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a Scrum training course and the experiences of teaching it, with little to no direct mention of Evidence-Based Management principles. While there are references to team dynamics and learning from experiences, these do not align with the core themes of EBM, such as empirical decision-making or metrics for current value. The discussion lacks depth in terms of evidence-based practices, making it more about Agile methodologies rather than EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,11 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:48:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:23:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum roles and events, focusing on Agile practices rather than DevOps principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a Scrum training course and Agile practices, with minimal direct reference to DevOps principles. While it touches on collaboration and team dynamics, it lacks a comprehensive discussion on the core themes of DevOps such as automation, shared accountability, and continuous improvement. The emphasis is on Scrum methodologies rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -341,7 +347,7 @@
     "reasoning": "Content primarily discusses a Scrum course and teaching experiences, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:49:41",
     "ai_confidence": 0,
@@ -352,12 +358,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T08:23:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile practices and the Scrum framework, which are relevant to the Agile Product Operating Model, but the primary focus is on teaching and experiences rather than a comprehensive discussion of the model itself.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on a Professional Scrum Foundations course, which is related to Agile practices but does not explicitly discuss the Agile Product Operating Model (APOM). While it mentions Scrum and team collaboration, it lacks a direct focus on the principles and frameworks of APOM, such as transitioning to a product ethos or operational governance. The depth of discussion on Agile practices is present, but it does not delve into the specific themes outlined in the APOM category.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -427,11 +436,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:31:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:23:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum principles, teaching experiences, and Agile methodologies without focusing on Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a Professional Scrum Foundations course and Agile practices, with no direct discussion of Continuous Delivery principles or practices. While it touches on teamwork and iterative processes, it lacks depth in Continuous Delivery topics such as automation, rapid feedback, or deployment strategies.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1537,5 +1549,41 @@
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a Scrum training experience and does not explicitly discuss the Shift-Left Strategy. While it touches on Agile practices and team dynamics, it lacks direct references to integrating testing, security, or compliance early in the development process, which are core to the Shift-Left concept. The discussion is more about Scrum roles and events rather than the proactive measures associated with Shift-Left methodologies.",
     "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:23:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the Professional Scrum Foundations course and highlights the importance of teamwork, learning from experiences, and the role of reviews and retrospectives in improving team performance. While it does touch on aspects of Continuous Improvement, such as learning from shared mistakes and adapting practices, it primarily focuses on the course experience rather than a comprehensive exploration of Continuous Improvement principles. Therefore, while there is relevant content, it is not the primary focus.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:23:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the Professional Scrum Foundations course and the importance of teamwork in achieving goals through Scrum practices. While it mentions the concept of teams working together to achieve objectives, it lacks a focused discussion on the broader implications of Common Goals within Agile and DevOps frameworks. The content primarily revolves around personal experiences and teaching anecdotes, which detracts from a deeper exploration of strategic alignment and ownership within teams.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:23:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the Professional Scrum Foundations course and the experience of teaching it, which implies a focus on skill development and competence in Agile practices. However, while it touches on the importance of teamwork and learning from experiences, it lacks a deeper exploration of continuous learning and the strategies for fostering a culture of competence. The primary focus is on the teaching experience rather than a thorough discussion of competence as a foundational principle.",
+    "level": "Secondary"
   }
 }

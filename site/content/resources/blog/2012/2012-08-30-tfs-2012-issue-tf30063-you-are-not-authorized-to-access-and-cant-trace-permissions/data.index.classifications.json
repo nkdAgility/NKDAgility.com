@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:28:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:08:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to permissions in TFS and SharePoint, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to permissions in TFS 2012 and SharePoint 2010, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and does not provide any depth on these topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T19:29:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:08:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses permission issues related to TFS and SharePoint, which does not align with the core principles of DevOps.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to permissions in TFS 2012 and SharePoint 2010. While it touches on aspects of access control, it does not engage with the broader principles or practices of DevOps, such as collaboration, automation, or continuous improvement. The discussion lacks depth in relation to DevOps philosophy and does not provide insights into the cultural or procedural shifts necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses permission issues in TFS and SharePoint, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:29:37",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:29:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:08:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses permission issues related to TFS and SharePoint, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to permissions in TFS 2012 and SharePoint 2010, with no direct mention or alignment to the Agile Product Operating Model. It focuses on troubleshooting and does not address any principles or practices related to agile methodologies or product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -400,11 +409,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:50:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:08:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses permission issues with TFS and SharePoint, which is not related to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a specific error related to permissions in TFS 2012 and SharePoint 2010, with no direct mention of Continuous Delivery principles, practices, or related topics. It does not explore automation, incremental improvements, or any cultural aspects of Continuous Delivery. The focus is on troubleshooting a specific issue rather than on software delivery practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1440,6 +1452,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a specific error related to permissions in TFS and SharePoint, with no mention of integrating testing, security, or compliance earlier in the software development lifecycle. It does not address the principles, benefits, or techniques of the Shift-Left Strategy, nor does it provide any depth on related topics.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:08:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to permissions in TFS 2012 and does not discuss Continuous Improvement principles or practices. While it touches on the need for proper permissions, it lacks any mention of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning, which are core to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:08:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to permissions in TFS 2012 and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no mentions of shared objectives, alignment, or strategic goals, which are central to the category. The discussion is technical and problem-oriented, lacking any connection to the broader themes of collaboration or accountability within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:08:27",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to permissions in TFS 2012 and does not discuss competence in terms of skill development, quality outcomes, or professional growth. While it touches on the importance of permissions, it lacks a broader discussion on continuous learning or the role of competence in Agile or DevOps environments.",
     "level": "Ignored"
   }
 }

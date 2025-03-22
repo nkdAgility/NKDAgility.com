@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:11:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:25:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation and configuration of Release Management 2013, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Release Management 2013, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks any reference to data-informed decision-making or the core themes outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T04:40:22",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
+    "calculated_at": "2025-03-22T07:25:41",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses Release Management 2013, which is a tool relevant to DevOps practices, particularly in the context of Continuous Delivery. However, it lacks explicit discussions on broader DevOps principles, cultural shifts, or metrics. The focus is primarily on installation and configuration rather than the integration of people, processes, and tools that characterise DevOps. While it touches on automation and deployment, it does not provide a comprehensive exploration of the DevOps category.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Release Management 2013, which is a tool related to deployment processes. While it touches on aspects of release management that could be relevant to DevOps, it lacks a comprehensive discussion of the DevOps philosophy, principles, or cultural shifts. The mention of streamlining deployment processes hints at a connection to DevOps, but it does not delve into the core themes such as collaboration, automation, or shared accountability. Therefore, the confidence score reflects a low alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -145,11 +148,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T11:12:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:25:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation and configuration of Release Management 2013, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Release Management 2013, which is a tool related to deployment processes rather than discussing the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM definition. The content lacks depth and does not align with the core themes of the category.",
     "level": "Ignored"
   },
   "Products and Books": {
@@ -191,7 +197,7 @@
     "reasoning": "Content primarily discusses Release Management 2013 and related installation processes, with no focus on BetaCodex principles or themes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T11:12:28",
     "ai_confidence": 0,
@@ -406,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T17:51:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:25:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installing and using Release Management 2013 without focusing on Continuous Delivery principles or practices.",
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Release Management 2013, which is a tool that can support Continuous Delivery practices. However, it does not explicitly discuss Continuous Delivery principles or practices. While it mentions streamlining deployment processes, it lacks depth in exploring the broader themes of Continuous Delivery, such as automation, rapid feedback, or cultural aspects. The discussion is more about the tool itself rather than the methodology or philosophy behind Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1446,6 +1455,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the installation and configuration of Release Management 2013, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on issues encountered during installation, it does not align with the core themes of the Shift-Left Strategy, nor does it provide any depth on the principles or benefits associated with it.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:25:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Release Management 2013, with no explicit discussion of Continuous Improvement principles. While it touches on the challenges faced during the installation process, it lacks a commitment to ongoing reflection, adaptation, or empirical evidence that characterises Continuous Improvement. The mention of fixing problems does not align with the core themes of fostering a culture of experimentation or integrating Continuous Improvement into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:25:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Release Management 2013, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on deployment processes, it lacks alignment with the core themes of shared objectives and strategic alignment. The depth of discussion is minimal, as it does not explore how these practices connect to overarching organisational goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:25:49",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Release Management 2013, which is more about tool usage than the development of competence or skills. While there are brief mentions of personal experiences and challenges faced during installation, these do not delve into the broader themes of continuous learning, skill development, or the importance of competence in Agile or DevOps environments. The discussion lacks depth and does not provide strategies for fostering a culture of competence or inspecting and adapting skills over time.",
     "level": "Ignored"
   }
 }

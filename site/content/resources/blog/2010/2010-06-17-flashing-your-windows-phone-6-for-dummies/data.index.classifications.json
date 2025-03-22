@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:32:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:54:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical instructions for flashing a Windows Phone, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on technical instructions for flashing a Windows Phone and does not discuss Evidence-Based Management or its principles. There are no mentions of data-informed decision-making, metrics, or any related concepts.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T00:32:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:53:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses flashing and updating Windows Phone ROMs, which is unrelated to DevOps principles and practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on flashing and customising Windows Phone ROMs, which is unrelated to DevOps principles or practices. There are no discussions on collaboration, automation, or shared accountability, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -311,7 +317,7 @@
     "reasoning": "Content primarily discusses the process of flashing Windows Phone ROMs and does not address Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:33:14",
     "ai_confidence": 0,
@@ -322,11 +328,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:33:15",
+    "calculated_at": "2025-03-22T08:53:59",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
     "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of flashing and updating Windows Phone ROMs, which is unrelated to Agile principles or product-centric development.",
+    "reasoning": "The content focuses entirely on technical instructions for flashing a Windows Phone, with no relevance to Agile methodologies, product management principles, or the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T01:37:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:54:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on flashing and customizing mobile operating systems, which does not align with Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on flashing custom ROMs for Windows Phone 6, discussing the process, risks, and tools involved. It does not address Continuous Delivery principles, practices, or benefits, nor does it explore automation, rapid feedback, or software quality improvements. The discussion is centred around mobile device modification rather than software delivery practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1434,6 +1446,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content focuses on flashing and updating Windows Phone ROMs, which is unrelated to the Shift-Left Strategy in software development. It does not discuss integrating testing, security, or compliance earlier in the development lifecycle, nor does it address any principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:53:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for flashing a Windows Phone and does not discuss Continuous Improvement principles. While it mentions the desire for faster updates, it lacks a structured approach to improvement, empirical evidence, or a culture of experimentation, which are core to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:53:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for flashing a Windows Phone and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no mentions of shared objectives, team alignment, or strategic goals, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:53:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for flashing a Windows Phone, with minimal reference to competence in terms of skill development or professionalism. While it discusses the risks and processes involved, it does not engage with the broader themes of continuous learning or the importance of competence in a professional context.",
     "level": "Ignored"
   }
 }

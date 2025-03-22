@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:05:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:54:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of reserving agents in Team Foundation Server builds, with no focus on evidence-based management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical aspects of reserving a build agent in Team Foundation Server, discussing specific implementation details and challenges. It does not explicitly mention Evidence-Based Management or its key topics, nor does it provide a data-informed decision-making framework. The discussion is more about operational procedures rather than strategic management based on empirical evidence.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,15 +133,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:08:43",
-    "ai_confidence": 82.0,
+    "calculated_at": "2025-03-22T07:54:38",
+    "ai_confidence": 67.0,
     "ai_mentions": 15,
-    "ai_alignment": 35,
-    "ai_depth": 30,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on the process of reserving a build agent in Team Foundation Server (TFS), which is a crucial aspect of DevOps practices. It discusses automation in build processes, the need for configuration management, and the implications of build failures on deployment. The content aligns well with DevOps principles, particularly in terms of continuous integration and delivery, as it addresses the challenges and solutions related to build automation. The depth of discussion is significant, providing detailed steps and code examples, which enhances its relevance to the DevOps category.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily focuses on reserving a build agent in Team Foundation Server, which is a specific aspect of CI/CD workflows. While it discusses automation and streamlining processes, it lacks a broader discussion on DevOps principles such as collaboration, shared accountability, and continuous improvement. The mention of 'configuration as code' hints at DevOps practices, but the overall depth and alignment with the core themes of DevOps are limited.",
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -329,7 +332,7 @@
     "reasoning": "Content primarily discusses technical aspects of reserving an agent in Team Foundation Server, focusing on specific build processes and custom activities, without addressing Systems Thinking principles or interconnectedness.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:06:40",
     "ai_confidence": 0,
@@ -340,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:06:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:54:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of reserving agents in Team Foundation Server builds, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of reserving build agents in Team Foundation Server, which is related to CI/CD processes rather than the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or the core themes outlined in the APOM definition. The discussion is heavily centred on build processes and technical configurations, lacking any connection to the product-oriented mindset or continuous delivery principles that characterise the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,15 +424,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T05:19:06",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "calculated_at": "2025-03-22T07:54:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses reserving an agent in Team Foundation Server (TFS) for build processes, which relates to automation in deployment. However, it primarily focuses on specific technical implementations rather than broader Continuous Delivery principles, practices, or methodologies. While it touches on aspects of automation and build processes, it lacks a comprehensive discussion on Continuous Delivery as a whole, making it a secondary focus rather than a primary one.",
-    "level": "Ignored"
+    "final_score": 65.0,
+    "reasoning": "The content discusses reserving a build agent in Team Foundation Server, which is relevant to Continuous Delivery practices, particularly in optimising CI/CD workflows. It mentions automation in the build process and addresses issues related to build failures and server management, aligning with the principles of Continuous Delivery. However, while it provides practical insights and some depth, it lacks a broader discussion on Continuous Delivery principles and cultural aspects, which limits its overall alignment.",
+    "level": "Secondary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -1491,6 +1497,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses reserving a build agent in Team Foundation Server and the technical details of custom activities for build workflows. It does not explicitly mention the Shift-Left Strategy or its principles, nor does it address integrating testing, security, or compliance earlier in the development process. The focus is on build agent management rather than proactive quality assurance or early integration of critical processes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:54:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical details related to reserving a build agent in Team Foundation Server 2012, which does not directly address Continuous Improvement principles. While there are elements of process optimisation mentioned, such as streamlining the build process and avoiding conflicts, these are not discussed in the context of a broader Continuous Improvement framework. The content lacks explicit references to empirical evidence, data-driven decision-making, or a culture of experimentation, which are key aspects of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:54:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical details related to reserving a build agent in Team Foundation Server, which does not directly address the concept of Common Goals in Agile or DevOps. While it touches on aspects of CI/CD workflows, it lacks explicit discussions on shared objectives, alignment, or strategic goals that are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:54:47",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to reserving a build agent in Team Foundation Server, which does not directly address the principles of competence in Agile or DevOps. While there are implications of skill and capability in managing build processes, the discussion lacks explicit references to continuous learning, quality outcomes, or fostering a culture of competence. The content is more about procedural knowledge than the development of professional competence.",
     "level": "Ignored"
   }
 }

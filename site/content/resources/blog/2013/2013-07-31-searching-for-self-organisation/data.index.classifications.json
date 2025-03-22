@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T17:56:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:38:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses self-organisation and team dynamics without a clear focus on evidence-based management principles or empirical data.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses self-organisation in teams, which is more aligned with Agile practices than with Evidence-Based Management. While it touches on concepts like team accountability and identity, it lacks a focus on empirical evidence or metrics that are central to EBM. The discussion does not provide substantial detail on how data informs decision-making or value delivery, which are key aspects of the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,11 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T17:57:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:38:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses self-organisation and team dynamics, which are not central to DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses self-organisation within teams, which is a concept that can relate to DevOps principles, particularly in terms of accountability and collaboration. However, it primarily focuses on agile methodologies and team dynamics rather than the broader DevOps philosophy. The discussion lacks explicit references to key DevOps topics such as automation, feedback loops, or shared accountability across development and operations, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -335,7 +341,7 @@
     "reasoning": "The content discusses self-organisation within teams and its implications for organisational dynamics, which aligns with Systems Thinking principles. However, it primarily focuses on self-organisation rather than a comprehensive exploration of Systems Thinking as a central theme.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T17:57:31",
     "ai_confidence": 0,
@@ -346,12 +352,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T07:38:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses self-organisation within teams, which is a significant aspect of Agile methodologies, but it primarily focuses on the concept of self-organisation rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses self-organisation within teams, which is a relevant aspect of agile methodologies. However, it primarily focuses on team dynamics and accountability rather than the broader principles of the Agile Product Operating Model. While it touches on themes like team identity and collective accountability, it lacks a direct connection to product management practices, governance, or the transition from project to product ethos, which are central to the APOM framework.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -421,11 +430,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T18:18:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:38:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses self-organisation in teams and does not focus on Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses self-organisation within teams, which is a concept related to Agile methodologies rather than Continuous Delivery specifically. While it touches on themes of team dynamics and accountability, it does not explicitly address Continuous Delivery principles, practices, or the role of automation in software delivery. The discussion lacks depth in terms of Continuous Delivery techniques and does not provide relevant case studies or tools associated with Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1534,5 +1546,41 @@
     "final_score": 11.0,
     "reasoning": "The content primarily discusses self-organisation within teams and does not explicitly mention the Shift-Left Strategy or its principles. While there are some indirect references to team dynamics and accountability, these do not align with the core themes of integrating testing, security, and compliance earlier in the software development lifecycle. The focus is on team structure and management rather than proactive measures in software development.",
     "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:38:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses self-organisation in teams, which is a key aspect of Continuous Improvement, particularly in fostering team effectiveness and accountability. However, while it touches on related themes, it primarily focuses on the concept of self-organisation rather than explicitly addressing Continuous Improvement practices or methodologies. The depth of discussion on Continuous Improvement principles is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:38:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses self-organisation in teams, which is related to the concept of Common Goals, particularly in fostering accountability and team identity. However, it primarily focuses on the challenges and strategies for achieving self-organisation rather than explicitly addressing shared objectives or alignment with organisational goals. The discussion lacks depth in connecting these ideas to the broader principles of Agile and DevOps, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:38:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses self-organisation in teams, which indirectly relates to competence by emphasising the need for skilled professionals to make decisions and the importance of team accountability and identity. However, while it touches on aspects of competence, such as the need for skilled individuals and the impact of team dynamics on performance, it does not delve deeply into continuous learning or skill development, which are core themes of the competence category.",
+    "level": "Tertiary"
   }
 }

@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T10:58:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:32:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the installation process of Visual Studio Team System 2008 Database Edition, with no significant discussion on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio Team System 2008 Database Edition GDR, which is a specific tool rather than a discussion on DevOps principles or practices. There are no explicit mentions of DevOps concepts such as collaboration, automation, or shared accountability. The content lacks depth in discussing any DevOps-related themes, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T10:58:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:33:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the installation process of Visual Studio Team System 2008 Database Edition, with no discussion on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio Team System 2008 Database Edition, with no direct mentions or discussions related to the Agile Product Operating Model. It lacks any alignment with the core themes of APOM, such as product management principles or agile methodologies. The depth of discussion is limited to technical installation details, which do not pertain to the category.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -172,11 +178,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T10:58:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:33:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio Team System 2008 Database Edition, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio Team System 2008 Database Edition GDR, with no direct mentions or discussions related to Evidence-Based Management principles or metrics. It lacks any alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and provides minimal depth on any relevant topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -242,7 +251,7 @@
     "reasoning": "Content primarily focuses on the installation process of Visual Studio Team System 2008 Database Edition, with no discussion on metrics, learning, or related themes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T10:59:07",
     "ai_confidence": 0,
@@ -892,11 +901,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:25:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:33:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and setup process for Visual Studio Team System 2008 Database Edition, which is not directly related to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio Team System 2008 Database Edition GDR, which does not directly discuss Continuous Delivery principles, practices, or benefits. While it touches on aspects of software setup, it lacks any mention of automation, incremental improvements, or user feedback, which are core themes of Continuous Delivery. The discussion is more about installation steps and prerequisites rather than delivery practices.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1434,6 +1446,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio Team System 2008 Database Edition and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any case studies or tools related to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:32:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio Team System 2008 Database Edition GDR, providing step-by-step instructions and links to resources. There are no discussions on Continuous Improvement principles, techniques, or strategies, nor does it reflect on processes or team effectiveness. The content lacks any empirical evidence or data-driven decision-making, which are core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:32:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio Team System 2008 Database Edition GDR, providing step-by-step instructions and links to resources. There are no direct mentions of Common Goals, Agile, or DevOps principles. The discussion lacks alignment with the core themes of shared objectives or strategic alignment, and it does not delve into any relevant depth regarding the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:33:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio Team System 2008 Database Edition GDR, providing step-by-step instructions and links to resources. While it may imply a level of competence required for installation, it does not explicitly discuss continuous learning, skill development, or the importance of competence in Agile or DevOps contexts. The mention of needing to uninstall previous versions suggests a basic understanding of software management but lacks depth in discussing competence as a foundational principle.",
     "level": "Ignored"
   }
 }

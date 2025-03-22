@@ -37,11 +37,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:13:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:43:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on technical steps for creating a Portfolio Backlog hierarchy in Team Foundation Server, lacking discussions on evidence-based management principles or empirical data application.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server 2013, detailing technical steps and configurations. While it touches on aspects of project management, it lacks explicit discussions on Evidence-Based Management principles, such as data-informed decision-making or empirical metrics. The content does not provide a depth of analysis or alignment with the core themes of EBM, making it only tangentially related.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,14 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:02:45",
+    "calculated_at": "2025-03-22T07:43:27",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server, which is more aligned with project management and Agile practices rather than DevOps principles. While it touches on aspects of configuration and process management, it lacks explicit discussions on DevOps practices such as CI/CD, automation, or cultural shifts. The depth of discussion is limited to technical steps without broader context on how these practices integrate into a DevOps framework.",
+    "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server, which is more aligned with project management and agile methodologies rather than the core principles of DevOps. While it touches on aspects of collaboration and process improvement, it lacks a direct discussion of DevOps philosophy, automation, or shared accountability, which are central to the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -332,7 +335,7 @@
     "reasoning": "Content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server 2013, detailing technical steps and configurations without discussing Systems Thinking principles or interconnectedness.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:14:16",
     "ai_confidence": 0,
@@ -343,14 +346,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T05:03:53",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-22T07:43:40",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
-    "reasoning": "The content primarily focuses on technical steps for creating a Portfolio Backlog hierarchy in Team Foundation Server, with limited discussion on Agile principles or the Agile Product Operating Model. While it mentions goals and features, it lacks a broader discussion on value delivery, cross-functional teams, or continuous feedback, which are key aspects of the Agile Product Operating Model.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server, which is more aligned with traditional project management practices rather than the Agile Product Operating Model. While it touches on agile planning and mentions goals and features, it lacks a comprehensive discussion on the principles of APOM, such as continuous delivery, operational stability, or the role of organisational structure in product delivery. The depth of technical detail is significant, but it does not sufficiently engage with the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -424,11 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:58:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:43:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses creating a Portfolio Backlog hierarchy in Team Foundation Server 2013, focusing on work item types and project tracking, which is not directly related to the principles or practices of Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server 2013, which is more aligned with project management and agile planning rather than Continuous Delivery. While it touches on aspects of software development processes, it does not explicitly discuss Continuous Delivery principles, automation in testing or deployment, or rapid feedback mechanisms that are central to the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1536,6 +1542,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server 2013, detailing specific steps and configurations. It does not discuss integrating testing, security, or compliance earlier in the software development lifecycle, which are core aspects of the Shift-Left Strategy. The content lacks any direct mention of Shift-Left principles or practices, and the discussion is more about project management and configuration rather than proactive quality assurance or early issue identification.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:43:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical instructions for creating a Portfolio Backlog hierarchy in Team Foundation Server 2013. While it touches on aspects of process improvement through customisation, it lacks a strong emphasis on Continuous Improvement principles such as empirical evidence, culture of experimentation, or strategic business agility. The discussion is more about implementation details rather than fostering a mindset of ongoing enhancement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:43:32",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the creation of a Portfolio Backlog hierarchy in Team Foundation Server, which includes references to 'Goals' and their relationship to 'Features'. However, while it mentions goals, the primary focus is on technical implementation rather than a thorough exploration of Common Goals within Agile or DevOps frameworks. The discussion lacks depth in connecting these goals to broader strategic objectives or team alignment, which diminishes its relevance to the category.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:43:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical instructions for creating a Portfolio Backlog hierarchy in Team Foundation Server 2013. While it touches on aspects of Agile planning and project management, it lacks a direct discussion on competence as defined in the classification. The mention of enhancing agile planning suggests a slight alignment with competence, but the depth of discussion on continuous learning, skill development, or fostering a culture of competence is minimal.",
     "level": "Ignored"
   }
 }

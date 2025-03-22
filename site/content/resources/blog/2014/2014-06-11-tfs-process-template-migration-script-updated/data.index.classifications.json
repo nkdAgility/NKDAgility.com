@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T10:19:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:19:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses TFS process template migration and scripting, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating TFS process templates and does not discuss Evidence-Based Management principles or metrics. While it touches on Agile processes, it lacks empirical evidence or data-informed decision-making discussions, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,14 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T04:28:41",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "calculated_at": "2025-03-22T07:19:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses a TFS process template migration, which is related to software development practices but primarily focuses on project management and template customisation rather than core DevOps principles. While it touches on automation and tools, it lacks a comprehensive exploration of DevOps practices such as CI/CD, collaboration between teams, or cultural shifts necessary for DevOps implementation.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on migrating TFS process templates, which is more aligned with Agile and Scrum methodologies rather than the core principles of DevOps. While there are mentions of automation and process improvement, the discussion lacks depth in DevOps concepts such as collaboration, shared accountability, and continuous delivery. The content does not explicitly address the cultural shifts or practices necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -326,7 +329,7 @@
     "reasoning": "Content primarily focuses on TFS process template migration and scripting, with no clear discussion on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T10:19:56",
     "ai_confidence": 0,
@@ -337,11 +340,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T10:19:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:19:19",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses TFS process template migration and technical scripting details, with minimal focus on Agile principles or product-centric development.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating TFS process templates and does not explicitly discuss the Agile Product Operating Model or its principles. While it mentions Agile and Scrum processes, these are not the main focus, and the discussion lacks depth regarding the core themes of the Agile Product Operating Model. The content is more aligned with traditional project management practices rather than the product-oriented mindset that APOM advocates.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -415,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T10:42:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:19:23",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on updating TFS process templates and migration steps, which is not central to Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on migrating TFS process templates and does not explicitly discuss Continuous Delivery principles or practices. While it touches on aspects of Agile processes, it lacks depth in Continuous Delivery topics such as automation, rapid feedback, or cultural aspects. The mention of scripting and process management is relevant but does not align closely with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1503,6 +1512,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on TFS process template migration and does not explicitly discuss the Shift-Left Strategy. While it touches on aspects of process improvement, it lacks a clear connection to integrating testing, security, or compliance earlier in the development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:19:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a technical guide for migrating TFS process templates, which is more about implementation than Continuous Improvement. While it touches on aspects of updating and refining processes, it lacks a strong emphasis on the principles of Continuous Improvement, such as empirical evidence, culture of experimentation, or strategic business agility. The discussion is more procedural and does not deeply engage with the broader themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:19:13",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating TFS process templates, with minimal direct mention of Common Goals or their significance in Agile and DevOps. While it touches on Agile processes, it lacks a clear connection to shared objectives or strategic alignment, which are central to the Common Goals category. The discussion is more about execution and technical steps rather than the foundational principles of collaboration and alignment within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:19:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating TFS process templates, with limited direct discussion on competence or continuous skill development. While it touches on the importance of getting the migration steps right, it lacks a deeper exploration of how these processes contribute to team competence or quality outcomes. The mention of 'best efforts' and 'commitment' hints at professionalism, but overall, the content does not sufficiently align with the core themes of competence as defined in the classification criteria.",
     "level": "Ignored"
   }
 }

@@ -73,11 +73,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:37:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:39:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on usage statistics of TFS without discussing DevOps principles, practices, or related topics.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on TFS usage statistics, which are more aligned with project management and version control metrics rather than the core principles of DevOps. While there are mentions of user activity and work items, these do not directly address the collaborative, automated, and accountable nature of DevOps practices. The discussion lacks depth in exploring how these statistics contribute to continuous value delivery or the cultural shifts necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -109,11 +112,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:37:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:39:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on usage statistics of Team Foundation Server (TFS) and does not discuss Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on TFS usage statistics, which are related to version control and work item tracking. There is no explicit discussion of the Agile Product Operating Model or its principles. The content lacks alignment with the core themes of APOM, such as product-oriented mindset or continuous delivery, and provides minimal detail relevant to the category.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -163,11 +169,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:38:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:39:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on usage statistics of TFS without discussing evidence-based management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on TFS usage statistics, providing quantitative data about user activity and work items. While it presents metrics that could be relevant to Evidence-Based Management, such as user activity and work item counts, it lacks explicit discussions on how these metrics inform decision-making or enhance value delivery. The content does not engage with the core themes of EBM, such as current value, time to market, or empirical decision-making, and does not provide a depth of analysis on how these statistics can be used strategically.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -236,7 +245,7 @@
     "reasoning": "The content provides a variety of statistics related to TFS usage, which can be seen as metrics. However, it lacks a clear discussion on how these metrics are used for learning or continuous improvement. The focus is primarily on raw data without any analysis or connection to Agile or DevOps practices, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:38:10",
     "ai_confidence": 0,
@@ -886,11 +895,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:43:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:39:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses usage statistics of TFS and related metrics, without focusing on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on TFS usage statistics, which does not directly address Continuous Delivery principles or practices. While it mentions builds and tests, it lacks a discussion on automation, incremental improvements, or user feedback, which are core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1428,6 +1440,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on usage statistics of TFS, with no explicit discussion of the Shift-Left Strategy. While it mentions builds and tests, it does not address integrating testing or security early in the development process, nor does it explore the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:39:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on TFS usage statistics and does not explicitly discuss Continuous Improvement principles. While it provides data that could potentially inform improvements, it lacks direct mentions of Continuous Improvement concepts, alignment with its core themes, and depth in discussing strategies or frameworks related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:39:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on TFS usage statistics and does not discuss Common Goals or their significance in Agile or DevOps. There are no direct mentions of shared objectives, alignment, or frameworks like OKRs. The statistics provided are operational metrics rather than strategic discussions, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:39:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on TFS usage statistics and does not discuss competence, continuous learning, or skill development. While it provides data that could indirectly relate to team productivity, it lacks explicit references to competence as defined in Agile and DevOps contexts.",
     "level": "Ignored"
   }
 }

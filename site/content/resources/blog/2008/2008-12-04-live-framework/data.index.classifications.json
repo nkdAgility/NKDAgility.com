@@ -73,11 +73,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T10:53:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:31:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses WPF development and Azure services, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Azure services and WPF development, with a focus on collaboration and configuration. While there are elements of teamwork and communication, these do not directly align with the core principles of DevOps, such as automation, shared accountability, or continuous improvement. The discussion lacks depth in DevOps concepts and does not explicitly mention DevOps as a philosophy or practice.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -109,11 +112,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T10:53:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:31:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Azure Services Platform and WPF development, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Azure services and WPF development, with a focus on collaboration and application configuration. It does not mention the Agile Product Operating Model or its principles, nor does it align with the core themes of product management or agile methodologies. The discussion is more about technical capabilities rather than agile practices.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -166,11 +172,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T10:53:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:31:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Azure Services Platform and WPF development, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Azure and WPF development without any explicit mention of Evidence-Based Management principles or metrics. While it touches on collaboration and configuration, it lacks a focus on data-informed decision-making or empirical evidence, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -236,7 +245,7 @@
     "reasoning": "Content primarily discusses the Azure Services Platform and its potential applications in WPF development, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T10:53:41",
     "ai_confidence": 0,
@@ -889,11 +898,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:43:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:31:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Azure services and WPF development without mentioning Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Azure and WPF development, focusing on collaboration and application configuration. It does not explicitly mention Continuous Delivery or its principles, nor does it explore related topics such as automation, incremental improvements, or software quality. The discussion is more aligned with general software development practices rather than the specific focus of Continuous Delivery.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1434,6 +1446,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the Azure Services Platform and its potential for WPF development, focusing on application features like configuration and team communication. There are no direct mentions of the Shift-Left Strategy, nor does it align with its core themes of early integration of testing, security, or compliance in the software development lifecycle. The discussion lacks depth regarding Shift-Left practices, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:31:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Azure and WPF development, discussing potential features and enhancements for applications. While it touches on collaboration and configuration, it does not explicitly mention Continuous Improvement principles or practices. The discussion lacks depth in relation to the core themes of Continuous Improvement, such as empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:31:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the potential of Azure for WPF development and focuses on technical features and user experiences rather than aligning with the principles of Common Goals in Agile or DevOps. While there are mentions of collaboration and configuration, these are not connected to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:31:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the potential of Azure for WPF development and focuses on collaboration and app configuration. While it touches on aspects of team interaction, it does not explicitly address competence, continuous learning, or skill development. The discussion lacks depth in relation to the core themes of competence, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   }
 }

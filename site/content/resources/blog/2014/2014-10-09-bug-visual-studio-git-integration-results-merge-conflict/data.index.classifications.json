@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T08:58:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:13:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Git and Visual Studio, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses technical issues related to Git and Visual Studio, focusing on resolving merge conflicts and improving workflows. It does not explicitly mention Evidence-Based Management or its key topics, nor does it provide any empirical evidence or metrics related to management decisions. The discussion is more about practical coding solutions rather than data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,14 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:38:44",
+    "calculated_at": "2025-03-22T07:12:46",
     "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 25,
-    "ai_depth": 30,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
     "final_score": 56.0,
-    "reasoning": "The content discusses Git workflows and the challenges faced during integration, which aligns with DevOps principles. It mentions branching strategies and the importance of managing merge conflicts, which are relevant to Continuous Integration (CI) practices. However, the focus is primarily on a specific issue with Visual Studio and Git rather than a broader discussion of DevOps principles, tools, or cultural shifts, leading to a moderate confidence score.",
+    "reasoning": "The content primarily discusses a specific issue related to Git integration in Visual Studio and provides a detailed workflow for resolving merge conflicts. While it touches on collaboration and workflow improvements, which are relevant to DevOps, it lacks a broader discussion on the principles and cultural shifts associated with DevOps. The focus is more on technical troubleshooting rather than the overarching philosophy of DevOps, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -323,7 +326,7 @@
     "reasoning": "Content primarily discusses a technical issue related to Git integration and workflow management, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T08:59:18",
     "ai_confidence": 0,
@@ -334,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T08:59:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:12:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Git integration and workflow management, without a focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses technical issues related to Git and Visual Studio, focusing on resolving merge conflicts and improving workflows. It does not address the Agile Product Operating Model or its principles, nor does it mention product management practices or agile methodologies. The discussion is centred around version control rather than the broader themes of APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -409,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T09:56:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:13:03",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses issues related to Git, branching strategies, and merge conflicts but does not focus on Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses resolving merge conflicts in Git and improving workflows for developers transitioning from StarTeam to Git. While it touches on aspects of version control and collaboration, it does not explicitly address Continuous Delivery principles, such as automation, rapid feedback, or incremental improvements. The focus is more on Git usage and troubleshooting rather than the broader practices and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1470,6 +1479,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a specific issue related to Git integration and merge conflicts, with a focus on workflow changes to mitigate these issues. While it touches on aspects of improving development processes, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is more about resolving immediate technical problems rather than integrating testing, security, or compliance earlier in the development lifecycle, which is the core of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:12:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to Git and Visual Studio, with a detailed description of workflows and steps to mitigate merge conflicts. While it touches on improving workflows, it lacks a broader discussion on Continuous Improvement principles, such as empirical evidence, team effectiveness, or a culture of experimentation. The mention of changing workflows is relevant but does not delve into the strategic aspects of Continuous Improvement, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:12:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to Git integration in Visual Studio, detailing workflows and personal experiences rather than discussing the concept of Common Goals within Agile or DevOps frameworks. While it touches on collaboration and workflow improvements, it lacks explicit references to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:12:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a technical issue related to Git integration in Visual Studio and provides a detailed workflow for resolving merge conflicts. While it touches on the learning curve and the need for developers to adapt to a new system, it does not explicitly focus on the broader themes of competence, such as continuous learning or skill development. The discussion is more about practical problem-solving rather than fostering a culture of competence or professional growth.",
     "level": "Ignored"
   }
 }

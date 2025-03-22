@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:08:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:48:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details related to TFS work item management, without reference to evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical implementation of TFS Work Item IDs and does not discuss Evidence-Based Management principles or metrics. While it touches on the use of an API and some operational aspects, it lacks any reference to empirical decision-making, current value metrics, or outcome management, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T00:08:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:48:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses TFS work item management and API usage, which does not align with core DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific technical implementation related to TFS (Team Foundation Server) and work item management, which does not align with the broader principles and cultural shifts of DevOps. While it touches on aspects of automation and process efficiency, it lacks a comprehensive discussion on collaboration, shared accountability, or continuous improvement that are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +326,7 @@
     "reasoning": "Content primarily discusses a technical solution for managing work item IDs in TFS, with no focus on Systems Thinking principles or interconnectedness within organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:09:25",
     "ai_confidence": 0,
@@ -331,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:09:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:48:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical implementation details related to TFS work item IDs, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on a technical solution for managing work item IDs in TFS 2010, with no direct mention of agile methodologies, product management principles, or the Agile Product Operating Model. While it touches on aspects of work item management, it does not align with the core themes of the APOM, such as continuous delivery, customer-centric value, or the transition from project to product ethos.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -409,11 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:46:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:48:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses creating and managing TFS Work Items, which is not related to Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific technical implementation related to TFS (Team Foundation Server) work item IDs, which does not directly address Continuous Delivery principles or practices. While it discusses aspects of work item management, it lacks explicit references to Continuous Delivery concepts such as automation, rapid feedback, or incremental improvements. The discussion is more about a workaround for ID management rather than enhancing software delivery processes.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1467,6 +1479,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a technical implementation related to TFS work item IDs and does not explicitly mention or align with the principles of the Shift-Left Strategy. While it involves aspects of software development, it lacks a focus on integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:48:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical solution for setting TFS Work Item IDs and does not engage with the principles of Continuous Improvement. While it mentions the need for a better solution, it lacks a discussion on empirical evidence, data-driven decision-making, or fostering a culture of experimentation and learning. The content is more about a specific implementation rather than a broader strategy for continuous improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:48:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical solution for setting TFS Work Item IDs and does not discuss the concept of Common Goals within Agile or DevOps frameworks. While it touches on project management aspects, it lacks explicit references to shared objectives, alignment, or strategic goals that are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:48:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical solution for setting TFS Work Item IDs and does not discuss competence, continuous learning, or skill development. While it touches on problem-solving and technical execution, it lacks a direct connection to the principles of competence as defined in Agile and DevOps methodologies.",
     "level": "Ignored"
   }
 }

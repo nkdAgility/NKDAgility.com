@@ -38,8 +38,7 @@ tags:
 - Product Delivery
 - Working Software
 - Azure Pipelines
-categories:
-- DevOps
+categories: []
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

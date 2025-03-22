@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T03:09:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:26:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily a personal narrative about a family event and does not discuss Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content is a personal narrative about the birth of a child, with no references to Evidence-Based Management or its principles. It does not discuss any relevant metrics, decision-making processes, or management strategies.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T03:09:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:26:06",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily a personal announcement about a family event, with no relevance to DevOps principles or practices.",
+    "reasoning": "The content is a personal announcement about the birth of a child and does not discuss any aspects of DevOps, its principles, or practices. There are no mentions of collaboration, automation, or any other key topics related to DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -311,7 +317,7 @@
     "reasoning": "Content primarily discusses a personal family event and does not relate to Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T03:09:50",
     "ai_confidence": 0,
@@ -322,11 +328,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T03:09:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:26:15",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is a personal blog post about a family event and does not discuss Agile principles or product development.",
+    "reasoning": "The content is a personal blog post celebrating the birth of a child and does not discuss any aspects of the Agile Product Operating Model or related principles. There are no mentions of agile methodologies, product management, or any relevant topics outlined in the category description.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -394,11 +403,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:26:18",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
     "final_score": 1.0,
-    "reasoning": "Content is focused on a personal story about the birth of a child and has no relevance to Continuous Delivery principles or practices.",
+    "reasoning": "The content is a personal narrative about the birth of a child and does not discuss any principles, practices, or concepts related to Continuous Delivery. There are no mentions of software delivery practices, automation, or any relevant topics outlined in the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1416,6 +1428,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is a personal blog post about the birth of a child, with no relevance to software development or the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:26:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal family event, specifically the birth of a child, with no discussion or mention of Continuous Improvement principles, methodologies, or practices. It lacks any alignment with the core themes of Continuous Improvement, such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is also minimal, as it does not provide any insights or reflections related to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:26:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal family event, specifically the birth of a child, with no discussion of Agile, DevOps, or the concept of Common Goals. There are no direct mentions or relevant themes that align with the category, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:26:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a personal family event, specifically the birth of a child, and does not discuss any aspects related to competence, continuous learning, or professional development. There are no mentions or themes that align with the principles of competence as defined in Agile, Scrum, DevOps, or Lean methodologies.",
     "level": "Ignored"
   }
 }

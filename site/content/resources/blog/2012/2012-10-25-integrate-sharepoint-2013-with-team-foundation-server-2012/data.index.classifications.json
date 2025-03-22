@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T16:34:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:03:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the technical integration of SharePoint 2013 with Team Foundation Server 2012, lacking discussions on evidence-based management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2013 with Team Foundation Server 2012, lacking any discussion on Evidence-Based Management principles or metrics. It does not mention data-informed decision-making or any of the key topics associated with EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:33:37",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "calculated_at": "2025-03-22T08:03:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the integration of SharePoint 2013 with Team Foundation Server 2012, which is more aligned with software installation and configuration rather than the broader principles of DevOps. While it touches on aspects of collaboration between tools (TFS and SharePoint), it lacks a comprehensive discussion on DevOps practices such as CI/CD, automation, or cultural shifts. The depth of discussion is limited to technical steps without exploring the implications or benefits of these integrations in a DevOps context.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the integration of SharePoint 2013 with Team Foundation Server 2012, detailing installation and configuration steps. While it touches on collaboration aspects, it lacks a comprehensive discussion of DevOps principles, practices, or cultural shifts. The mention of Team Foundation Server suggests a connection to development processes, but it does not align with the core themes of DevOps such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -323,7 +326,7 @@
     "reasoning": "Content primarily focuses on the technical integration of SharePoint 2013 with Team Foundation Server 2012, lacking discussions on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-14T16:34:59",
     "ai_confidence": 0,
@@ -334,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T16:35:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:03:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on the integration of SharePoint 2013 with Team Foundation Server 2012, with no substantial discussion on Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2013 with Team Foundation Server 2012, with no direct mention of the Agile Product Operating Model or its principles. While there are brief references to Scrum in the context of TFS, these are not explored in relation to the Agile Product Operating Model, indicating a very low relevance to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -412,11 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T16:35:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:03:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on integrating SharePoint 2013 with Team Foundation Server 2012, with no clear discussion on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the integration of SharePoint 2013 with Team Foundation Server 2012, detailing installation and configuration steps. While it touches on aspects of deployment, it lacks a direct discussion on Continuous Delivery principles, practices, or benefits. The content does not explore automation, rapid feedback, or cultural aspects of Continuous Delivery, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1482,6 +1491,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the integration of SharePoint 2013 with Team Foundation Server 2012, detailing installation and configuration steps. It does not discuss the Shift-Left Strategy, its principles, benefits, or any related practices. The content lacks any mention of early integration of testing, security, or compliance in the software development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:03:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2013 with Team Foundation Server 2012, providing step-by-step instructions and troubleshooting tips. There are no direct mentions of Continuous Improvement principles, nor does it discuss themes such as empirical evidence, experimentation, or strategies for enhancing processes. The content lacks depth in relation to Continuous Improvement, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:03:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2013 with Team Foundation Server 2012, lacking explicit discussions on Common Goals, Agile, or DevOps principles. While it touches on collaboration, it does not delve into shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:03:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2013 with Team Foundation Server 2012, providing step-by-step instructions and troubleshooting tips. While there are brief mentions of the need for updates and configuration, it lacks a substantial discussion on continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The emphasis is on practical execution rather than on fostering a culture of competence or professional growth.",
     "level": "Ignored"
   }
 }

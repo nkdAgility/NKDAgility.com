@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:11:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:00:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a launch event for Visual Studio 2010, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a launch event for Visual Studio 2010, discussing speakers and agenda details without any reference to Evidence-Based Management principles or metrics. There are no direct mentions of data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T01:11:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:59:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a launch event for Visual Studio 2010, focusing on speakers and agenda, without any mention of DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a launch event for Visual Studio 2010, discussing speakers and their sessions related to development tools. While it mentions collaboration features, it does not delve into DevOps principles, practices, or cultural shifts. The discussion lacks depth and does not align with the core themes of DevOps, such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -136,11 +142,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:18:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:00:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a launch event for Visual Studio 2010, focusing on speakers and agenda, without any reference to Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on a launch event for Visual Studio 2010, discussing speakers and agenda details without any mention of Agile methodologies, product management principles, or the Agile Product Operating Model. There is no alignment with the core themes of the category, and the depth of discussion is minimal, as it does not address any relevant topics related to APOM.",
     "level": "Ignored"
   },
   "Products and Books": {
@@ -185,7 +194,7 @@
     "reasoning": "Content primarily discusses a launch event for Visual Studio 2010, focusing on speakers and agenda, with no mention of BetaCodex principles or related topics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:18:24",
     "ai_confidence": 0,
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T01:51:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:00:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a launch event for Visual Studio 2010 and does not address principles or practices of Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a launch event for Visual Studio 2010, discussing speakers and their sessions without addressing Continuous Delivery principles, practices, or related topics. While there are mentions of development tools and collaboration features, these do not specifically relate to Continuous Delivery, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1440,6 +1452,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a launch event for Visual Studio 2010, with no explicit discussion of the Shift-Left Strategy. While it mentions collaboration features for developers and testers, it does not delve into integrating testing or security early in the development process, nor does it provide any techniques, case studies, or metrics related to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:59:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a launch event for Visual Studio 2010, detailing the agenda and speakers. There is no discussion of Continuous Improvement principles, techniques, or strategies. The content does not align with the core themes of Continuous Improvement, nor does it provide any depth on the subject. It is unrelated to the philosophies of Agile, Lean, or Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:59:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a launch event for Visual Studio 2010, detailing the agenda and speakers. It does not discuss Common Goals, Agile, or DevOps principles, nor does it connect individual contributions to organisational objectives. The mention of collaboration features is too vague and does not align with the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:59:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a launch event for Visual Studio 2010, highlighting speakers and agenda details. While it mentions development tools, it does not explicitly discuss competence, continuous learning, or skill development, which are central to the category. The connection to competence is minimal and indirect, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

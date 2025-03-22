@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:36:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:54:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences related to a child's health and development, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal narrative regarding Kaiden's health journey, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks any mention of data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T00:36:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:54:43",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily about a personal story regarding a child's development and health, with no relevance to DevOps principles or practices.",
+    "reasoning": "The content focuses entirely on a personal story about a child's health journey, with no references to DevOps principles, practices, or discussions. It does not mention any relevant topics such as collaboration, automation, or shared accountability, which are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -311,7 +317,7 @@
     "reasoning": "Content primarily discusses personal experiences related to a child's development and health, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:36:59",
     "ai_confidence": 0,
@@ -322,11 +328,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:37:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:54:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily a personal blog post about the author's son and does not discuss Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a personal story about a child's health journey, with no references to agile methodologies, product management, or the Agile Product Operating Model. It does not discuss any relevant principles or practices associated with the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -394,11 +403,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T01:18:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:54:58",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 1.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses personal experiences related to a child's health and development, with no relevance to Continuous Delivery principles or practices.",
+    "final_score": 2.0,
+    "reasoning": "The content focuses entirely on a personal story about a child's health journey, with no mention or discussion of Continuous Delivery principles, practices, or related topics. It does not align with the category's key themes or provide any depth on the subject.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1416,6 +1428,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content is a personal blog post about a child's development and health issues, with no mention or discussion of software development processes, testing, security, or compliance. It does not align with the Shift-Left Strategy in any way.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:54:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal narrative regarding Kaiden's health journey, with no explicit discussion of Continuous Improvement principles or practices. While there may be an implicit theme of progress in Kaiden's development, it does not align with the structured concepts of Continuous Improvement as defined, such as empirical evidence, data-driven decision-making, or organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:54:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal narrative about Kaiden's health journey, with no explicit discussion of Common Goals, Agile, or DevOps principles. It lacks alignment with the category's core themes and provides minimal detail relevant to the concept of shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:54:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal narrative about Kaiden's health journey, with no explicit discussion of competence, skill development, or related themes. While it touches on milestones, it does not align with the principles of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

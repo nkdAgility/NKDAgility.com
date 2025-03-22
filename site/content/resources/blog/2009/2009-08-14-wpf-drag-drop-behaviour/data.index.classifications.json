@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:10:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:11:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses WPF drag and drop functionality and MVVM pattern, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on WPF drag and drop functionality within the MVVM pattern, with no direct mention or discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any empirical evidence or metrics related to management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:10:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:11:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses WPF drag and drop functionality and MVVM pattern, with no focus on DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on WPF drag and drop functionality within the MVVM pattern, which is unrelated to DevOps principles or practices. There are no direct mentions of DevOps concepts, and the discussion lacks alignment with the core themes of collaboration, automation, or shared accountability that define DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses WPF drag and drop functionality and MVVM pattern, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:10:57",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:10:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:11:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses WPF drag and drop functionality and MVVM pattern, with no relevance to Agile Product Operating Model principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on WPF drag and drop functionality within the MVVM pattern, with no direct mention or discussion of the Agile Product Operating Model. While there are some principles of software development discussed, they do not align with the core themes of APOM, such as product management or agile methodologies. The depth of discussion is also minimal regarding any relevant agile practices.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -400,11 +409,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:11:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Drag & Drop behavior in WPF and MVVM pattern, which is unrelated to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on WPF drag and drop functionality within the MVVM pattern, which is unrelated to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion does not align with the core themes such as automation, incremental improvements, or software quality. The content lacks depth in any relevant Continuous Delivery topics.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1446,6 +1458,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the implementation of drag and drop functionality within the MVVM pattern in WPF, with no direct mention or alignment to the Shift-Left Strategy. It focuses on technical details of a specific feature rather than integrating testing, security, or compliance earlier in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:11:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical implementation details of WPF drag and drop functionality within the MVVM pattern. While there are elements of improvement in the code and functionality, it does not engage with the principles of Continuous Improvement, such as empirical evidence, team effectiveness, or a culture of experimentation. The discussion lacks a strategic approach to enhancing processes or products, which is central to the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:11:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details of WPF drag and drop functionality within the MVVM pattern. It does not discuss or align with the principles of Common Goals in Agile or DevOps, such as shared objectives, strategic alignment, or team collaboration. The mention of MVVM is tangential and does not connect to the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:11:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical implementation details of WPF drag and drop functionality within the MVVM pattern. While it touches on the necessity of understanding design patterns, it does not explicitly discuss continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The discussion lacks depth in relation to the principles of professionalism and quality delivery, which are central to the competence category.",
     "level": "Ignored"
   }
 }

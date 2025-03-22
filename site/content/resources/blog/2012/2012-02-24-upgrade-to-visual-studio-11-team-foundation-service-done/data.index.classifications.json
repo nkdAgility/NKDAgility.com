@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:58:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:26:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the features and benefits of Visual Studio 11 Team Foundation Service, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the upgrade to Visual Studio 11 Team Foundation Service and its features, focusing on cloud solutions and user experience. There are no explicit mentions of Evidence-Based Management principles or metrics, and the discussion lacks depth in relation to data-informed decision-making or empirical evidence. The content does not align with the core themes of EBM, such as current value, time to market, or outcome management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,15 +127,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:57:39",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-22T08:26:05",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses the transition to cloud-based services and the use of Team Foundation Server (TFS), which relates to DevOps practices such as source control and automated builds. However, it lacks a comprehensive exploration of DevOps principles, cultural shifts, or metrics, making it more of a practical guide rather than a deep discussion on DevOps as a whole.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the upgrade to Visual Studio 11 Team Foundation Service and its cloud capabilities, which touches on aspects of DevOps such as automation and source control. However, it primarily focuses on the features of the software rather than the broader principles and cultural shifts of DevOps. While there are mentions of management and customer transitions, the discussion lacks depth in core DevOps themes like collaboration, shared accountability, and continuous improvement.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -335,7 +338,7 @@
     "reasoning": "Content primarily discusses the features and benefits of Visual Studio 11 Team Foundation Service, focusing on cloud migration and technical aspects rather than Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:59:34",
     "ai_confidence": 0,
@@ -346,11 +349,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:59:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:26:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the features and benefits of Visual Studio 11 Team Foundation Server, with a focus on cloud migration and technical aspects, rather than the Agile Product Operating Model.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the upgrade to Visual Studio 11 Team Foundation Service and its features, with minimal reference to agile principles or product management. While there is a brief mention of Agile Product Planning, it does not delve into the core themes of the Agile Product Operating Model, such as continuous delivery, product-oriented mindset, or operational stability. The focus remains on technical aspects of the software rather than the agile framework itself.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -430,14 +436,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T06:06:47",
+    "calculated_at": "2025-03-22T08:26:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses the transition to Visual Studio 11 Team Foundation Service and mentions aspects of cloud solutions and source control, but it lacks a direct focus on Continuous Delivery principles. While there are references to automation and project upgrades, the discussion is primarily about the features of the service rather than the methodologies or practices of Continuous Delivery. The depth of discussion on CD-related topics is minimal, leading to a low confidence score.",
+    "reasoning": "The content discusses the upgrade to Visual Studio 11 Team Foundation Service and mentions cloud solutions, but it primarily focuses on the features and benefits of the upgrade rather than the principles and practices of Continuous Delivery. While there are references to automation and project management, the discussion lacks depth in Continuous Delivery concepts and does not provide a comprehensive exploration of its practices or benefits.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1533,6 +1539,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the launch and features of Visual Studio 11 Team Foundation Server, focusing on cloud migration and user experience improvements. It does not explicitly mention the Shift-Left Strategy or its principles, nor does it delve into integrating testing, security, or compliance early in the development process. The discussion is more about the transition to cloud services and the management of source control, which are not aligned with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:26:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the upgrade to Visual Studio 11 Team Foundation Service and the benefits of cloud solutions, with only brief mentions of customer transitions and improvements in user experience. While there are elements of process enhancement and customer feedback, the focus is not on Continuous Improvement as a primary theme. The discussion lacks depth in terms of strategies, empirical evidence, or a culture of experimentation, which are essential for a higher confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:26:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the features and benefits of upgrading to Visual Studio 11 Team Foundation Service, focusing on technical aspects and user experiences rather than on aligning strategy with execution or shared objectives within Agile and DevOps frameworks. While there are mentions of customer transitions and cloud solutions, these do not connect to the core themes of Common Goals, such as strategic alignment or ownership within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:26:13",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly touches on the transition to cloud solutions and the ease of use, which implies a level of competence in managing source control and work item tracking. However, it lacks a focused discussion on continuous learning, skill development, or the broader implications of competence in Agile or DevOps methodologies. The mention of customer support and the transition process does not delve deeply into the principles of competence as defined in the category.",
     "level": "Ignored"
   }
 }

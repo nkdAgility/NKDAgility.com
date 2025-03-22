@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:44:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:11:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS Preview and does not address Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS Preview and does not engage with the principles of Evidence-Based Management. There are no direct mentions of empirical decision-making or metrics related to value delivery, innovation, or outcome management. The focus is on troubleshooting a specific problem rather than on data-informed management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:46:56",
+    "calculated_at": "2025-03-22T08:11:41",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
+    "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 20.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily discusses a specific issue related to Team Foundation Server (TFS) and troubleshooting steps, which are more aligned with technical support rather than broader DevOps principles. While it touches on version control, it lacks a comprehensive discussion on DevOps practices, automation, or cultural shifts. The focus is on resolving a technical problem rather than exploring the integration of development and operations or continuous delivery.",
+    "reasoning": "The content primarily discusses a specific issue related to Team Foundation Server (TFS) and troubleshooting steps, which does not directly address the broader principles or practices of DevOps. While it touches on aspects of collaboration and problem resolution, it lacks a comprehensive exploration of DevOps as a philosophy or its key topics such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -323,7 +326,7 @@
     "reasoning": "Content primarily discusses a technical issue related to TFS Preview and troubleshooting steps, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:45:28",
     "ai_confidence": 0,
@@ -334,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:45:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:11:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS Preview and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS Preview and does not address any aspects of the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or the transition from project to product ethos. The focus is on troubleshooting a specific error rather than on agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -412,11 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:22:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:12:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an issue related to Team Foundation Server (TFS) and does not focus on Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a specific issue related to TFS Preview and troubleshooting steps for a connection error. It does not address Continuous Delivery principles, practices, or benefits, nor does it explore automation, incremental improvements, or cultural aspects of Continuous Delivery. The focus is on resolving a technical problem rather than on the broader context of software delivery practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1464,6 +1473,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a specific issue related to Team Foundation Server (TFS) and does not address the principles or practices of the Shift-Left Strategy. While it mentions troubleshooting and bug identification, it lacks a focus on integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:11:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific issue with TFS Preview and does not discuss Continuous Improvement principles. While it mentions handling glitches and escalating issues, it lacks a broader discussion on continuous improvement practices, empirical evidence, or strategies for enhancing processes or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:11:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical issue related to TFS Preview and troubleshooting steps, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on aspects of team collaboration in resolving issues, it lacks depth and alignment with the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:11:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical issue related to TFS Preview and troubleshooting steps, with minimal reference to competence or skill development. While it discusses problem-solving and technical details, it does not align with the core themes of competence in Agile or DevOps, such as continuous learning or fostering a culture of competence.",
     "level": "Ignored"
   }
 }

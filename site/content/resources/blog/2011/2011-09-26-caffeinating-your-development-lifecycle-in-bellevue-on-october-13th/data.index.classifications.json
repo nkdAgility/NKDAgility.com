@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:57:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:35:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an in-person event focused on Agile and Application Lifecycle Management, without a clear emphasis on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on an in-person event promoting Agile discussions and live demos, with no explicit mention of Evidence-Based Management principles or metrics. While it touches on Agile practices, it lacks a direct connection to data-informed decision-making or empirical evidence, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,14 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T06:22:50",
+    "calculated_at": "2025-03-22T08:35:31",
     "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content briefly mentions Agile and Application Lifecycle Management (ALM), which are related to DevOps principles, but it primarily focuses on an event announcement rather than a detailed discussion of DevOps practices. The depth of discussion is limited to promoting an event rather than exploring DevOps concepts in detail.",
+    "reasoning": "The content briefly mentions Agile and Application Lifecycle Management (ALM), which are related to DevOps principles, but it primarily focuses on an event promoting in-person discussions and demonstrations rather than a deep exploration of DevOps practices. The mention of energising development and improving processes aligns somewhat with DevOps themes, but the overall focus is more on the event itself rather than a comprehensive discussion of DevOps as a philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -347,7 +350,7 @@
     "reasoning": "Content primarily focuses on an event promoting Agile and Application Lifecycle Management, without discussing Systems Thinking principles or their applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:58:09",
     "ai_confidence": 0,
@@ -358,14 +361,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T06:23:55",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
+    "calculated_at": "2025-03-22T08:35:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content briefly mentions Agile in the context of a Coffee Talk event, but it lacks a focused discussion on the Agile Product Operating Model. While it touches on Agile practices and Application Lifecycle Management, it does not delve into the principles, strategies, or metrics associated with the Agile Product Operating Model. The primary focus is on promoting an event rather than exploring the category's core themes.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on an event promoting Agile discussions and live demos, but it lacks a direct focus on the Agile Product Operating Model. While Agile is mentioned, the discussion does not delve into the principles or practices of APOM, nor does it provide substantial detail on product management or the transition from project to product ethos.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -445,11 +448,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:41:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:35:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a community event and coffee talks, with a focus on Application Lifecycle Management and Agile practices, but does not directly address Continuous Delivery principles or methodologies.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on an event promoting Agile discussions and live demos, with minimal direct mention of Continuous Delivery principles. While it touches on Application Lifecycle Management (ALM) and process improvement, it lacks depth in discussing Continuous Delivery practices, automation, or user feedback, which are core themes of the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1536,6 +1542,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on an in-person event promoting Agile and Application Lifecycle Management (ALM) discussions, with no explicit mention of the Shift-Left Strategy. While it touches on improving processes and delivery, it lacks detailed discussion on integrating testing, security, or compliance early in the development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:35:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting an event rather than discussing Continuous Improvement principles. While it mentions Agile and process improvement, these concepts are not explored in depth or connected to a broader strategy of Continuous Improvement. The event's emphasis on live demos and discussions does not align with the key topics outlined for Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:35:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting an event rather than discussing Common Goals within Agile or DevOps frameworks. While it mentions Agile discussions and the importance of in-person interactions, it lacks a clear connection to shared objectives or strategic alignment. The details provided are more about the event logistics and atmosphere rather than the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:35:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile discussions and practical advice related to development processes, which aligns with the concept of competence. However, it lacks a detailed exploration of continuous learning, skill development, or the impact of competence on team dynamics. The focus is more on promoting an event rather than a thorough discussion of competence as a foundational principle.",
     "level": "Ignored"
   }
 }

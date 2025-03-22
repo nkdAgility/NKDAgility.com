@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:21:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:58:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on setting up and configuring Windows Server 2012 Core, with no discussion of Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on technical instructions for setting up and managing Windows Server 2012 Core, with no direct mention or discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any empirical evidence or metrics related to management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:23:48",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "calculated_at": "2025-03-22T07:57:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on setting up and configuring Windows Server 2012 Core, which is more aligned with system administration than DevOps practices. While it touches on aspects like remote management and firewall configuration, it lacks a strong emphasis on DevOps principles such as Continuous Integration, Continuous Delivery, or collaboration between development and operations teams. The mention of Team Foundation Server (TFS) at the end hints at a connection to DevOps, but it is not the main focus of the content.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical setup and management of Windows Server 2012 Core, which is more aligned with system administration than DevOps principles. While there are mentions of remote management and configuration, these do not delve into the collaborative, automated, and continuous improvement aspects central to DevOps. The discussion lacks depth in terms of DevOps culture, shared accountability, or feedback loops, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +323,7 @@
     "reasoning": "Content primarily focuses on setting up and configuring Windows Server 2012 Core, with no discussion of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:22:03",
     "ai_confidence": 0,
@@ -331,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:22:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:57:58",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily focuses on setting up and configuring Windows Server 2012 Core, with no discussion of Agile principles or product-centric development.",
+    "reasoning": "The content focuses entirely on Windows Server 2012 Core setup and management, with no references to agile methodologies, product management principles, or the Agile Product Operating Model. It does not discuss any of the key topics outlined in the category description, such as transitioning to a product ethos or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -406,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:26:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:58:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on setting up and managing Windows Server 2012 Core, with no substantial discussion of Continuous Delivery practices, principles, or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on setting up and managing Windows Server 2012 Core, with detailed command-line instructions. While it briefly touches on aspects of server management that could relate to deployment, it does not explicitly discuss Continuous Delivery principles, practices, or automation. The content lacks depth in Continuous Delivery topics and does not align with the core themes of the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1443,6 +1452,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on setting up and configuring Windows Server 2012 Core, with no direct mention of the Shift-Left Strategy or its principles. While there are references to configuration and management tasks, these do not align with the proactive integration of testing, security, or compliance early in the software development lifecycle, which is central to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:57:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for setting up and managing Windows Server 2012 Core. While there are brief mentions of improving efficiency through command-line usage, it lacks a comprehensive discussion on Continuous Improvement principles, such as empirical evidence, culture of experimentation, or strategies for integrating Continuous Improvement into processes. The content does not align with the core themes of Continuous Improvement, making it unsuitable for this category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:57:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for setting up and managing Windows Server 2012 Core. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment within teams. The mention of Team Foundation Server is peripheral and does not connect to the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:57:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for setting up Windows Server 2012 Core, with minimal discussion on competence or continuous learning. While it touches on the necessity of understanding command-line operations, it lacks a deeper exploration of skill development, professionalism, or the impact of competence on team dynamics and quality outcomes.",
     "level": "Ignored"
   }
 }

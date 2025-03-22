@@ -58,11 +58,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:28:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:02:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the use of Team Foundation Server (TFS) and project management strategies rather than focusing on evidence-based management principles or empirical data-driven decision-making.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses project management practices in Team Foundation Server (TFS) without a focus on evidence-based management principles. While it touches on some aspects of project organisation and management, it lacks explicit references to empirical evidence, data-informed decision-making, or the key topics outlined in the Evidence-Based Management category. The discussion is more about practical implementation rather than strategic decision-making based on evidence.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -136,14 +139,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T07:14:12",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "calculated_at": "2025-03-22T09:02:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses project management within Team Foundation Server (TFS) and touches on aspects of process templates and project organisation, which are relevant to DevOps practices. However, it primarily focuses on TFS configurations and does not delve deeply into core DevOps principles such as CI/CD, automation, or cultural shifts. The mention of Agile methodologies and project management practices indicates some alignment, but the overall focus is more on TFS usage rather than a comprehensive discussion of DevOps.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses project management strategies within Team Foundation Server (TFS) and does not explicitly address DevOps principles or practices. While it touches on aspects of project organisation and workflow, it lacks a focus on collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The discussion is more aligned with project management rather than the cultural and operational shifts necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -338,7 +341,7 @@
     "reasoning": "Content primarily discusses project management strategies in Team Foundation Server (TFS) without a focus on Systems Thinking principles or holistic analysis of interconnected components.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-03-15T07:14:57",
     "ai_confidence": 32.0,
@@ -352,11 +355,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:28:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:02:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the use of Team Foundation Server (TFS) and project management strategies rather than focusing on Agile principles or the Agile Product Operating Model.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the use of Areas in Team Foundation Server (TFS) for project management, which is more aligned with traditional project management practices rather than the Agile Product Operating Model. While there are mentions of agile practices, they are not the primary focus, and the content lacks depth in discussing the core principles of APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -436,11 +442,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T01:51:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:02:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of Team Projects and Areas in TFS, focusing on project management rather than Continuous Delivery practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses project management strategies within Team Foundation Server (TFS) and does not explicitly address Continuous Delivery principles or practices. While it touches on aspects of project organisation and management, it lacks a focus on automation, incremental delivery, or user feedback, which are core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1524,6 +1533,42 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses project management strategies within Team Foundation Server (TFS) and does not explicitly address the Shift-Left Strategy. While it touches on aspects of project organisation and management, it lacks a focus on integrating testing, security, or compliance earlier in the software development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:02:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses project management strategies within Team Foundation Server (TFS) but does not explicitly focus on Continuous Improvement principles. While it touches on aspects of process optimisation and efficiency, it lacks a strong emphasis on empirical evidence, a culture of experimentation, or systematic strategies for continuous enhancement. The discussion is more about project structuring than about ongoing improvement practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:02:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses project management techniques in Team Foundation Server (TFS) without a clear focus on aligning strategy with execution or shared objectives. While it touches on the use of Areas and Team Projects, it lacks a direct connection to the principles of Common Goals in Agile and DevOps, such as fostering collaboration or enhancing accountability across teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:02:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses project management strategies in TFS, focusing on the use of Areas and Team Projects. While it touches on the need for effective project organisation, it lacks a direct emphasis on continuous learning, skill development, or the professional standards associated with competence in Agile or DevOps contexts. The discussion is more about practical implementation rather than fostering a culture of competence or addressing the importance of skill development.",
     "level": "Ignored"
   }
 }

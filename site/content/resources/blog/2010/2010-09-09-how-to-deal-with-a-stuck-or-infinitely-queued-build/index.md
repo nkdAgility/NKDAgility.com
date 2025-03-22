@@ -33,8 +33,7 @@ tags:
 - Continuous Integration
 - Windows
 preview: metro-SSWLogo-128-link-11-11.png
-categories:
-- DevOps
+categories: []
 
 ---
 ![BuildIcon_Large](images/Howtodealwithastuckorinfinitelyqueuedbui_D645-BuildIcon_Large_-1-1.png)

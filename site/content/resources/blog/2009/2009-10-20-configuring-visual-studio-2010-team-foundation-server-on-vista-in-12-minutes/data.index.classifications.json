@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:56:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:09:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the configuration of Visual Studio Team Foundation Server, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical setup of Visual Studio 2010 Team Foundation Server and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of data-informed decision-making or the key topics outlined in the EBM category. The discussion is largely practical and technical, lacking any depth related to empirical evidence or management strategies.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T01:56:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:09:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the installation and configuration of Team Foundation Server, lacking discussions on DevOps principles, practices, or cultural shifts.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the configuration of Visual Studio Team Foundation Server, which is a tool related to software development and project management. While it touches on aspects of streamlining development processes, it does not engage with the core principles of DevOps such as collaboration, automation, or shared accountability. The discussion lacks depth in terms of DevOps philosophy and does not provide insights into cultural shifts or practices necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily focuses on the configuration of Visual Studio Team Foundation Server, with no discussion of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:57:12",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:57:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:09:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the configuration of Team Foundation Server and does not discuss Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on configuring Visual Studio Team Foundation Server, which is a technical setup guide rather than a discussion on the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics associated with APOM. The content lacks depth in relation to the category, providing minimal relevance to agile practices or product-oriented mindsets.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:03:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:09:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the configuration of Team Foundation Server and Visual Studio, without discussing Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the configuration of Visual Studio 2010 Team Foundation Server, which is a specific setup task rather than a discussion on Continuous Delivery principles or practices. While it may touch on aspects of software deployment, it lacks explicit mentions of Continuous Delivery concepts, automation, or the cultural aspects associated with it. The discussion is more about installation and configuration rather than the broader themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1446,6 +1458,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the configuration of Team Foundation Server and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. The discussion is entirely centred around installation and configuration steps, which are unrelated to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:09:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical setup of Visual Studio 2010 Team Foundation Server, with no explicit discussion of Continuous Improvement principles. While it mentions streamlining the development process, it lacks depth in exploring how this relates to ongoing improvement or empirical evidence. The content does not align with the core themes of Continuous Improvement, such as fostering a culture of experimentation or integrating improvement strategies into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:09:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical setup of Visual Studio 2010 Team Foundation Server, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on aspects of configuration that may relate to team collaboration, it lacks depth and does not connect to the overarching strategic objectives or frameworks like OKRs. The discussion is largely technical and personal, deviating from the core concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:09:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical setup of Visual Studio 2010 Team Foundation Server, with minimal discussion on competence or skill development. While it touches on the importance of understanding system requirements and the implications of using outdated software, it lacks a thorough exploration of continuous learning or professional growth, which are central to the competence category.",
     "level": "Ignored"
   }
 }

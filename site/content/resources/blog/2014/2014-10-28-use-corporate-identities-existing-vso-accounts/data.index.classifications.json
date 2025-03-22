@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T00:04:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:10:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online accounts, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on configuring ADFS for SSO with VSO accounts, which does not directly relate to Evidence-Based Management principles. While it discusses technical aspects of account management and integration, it lacks explicit references to data-informed decision-making, metrics, or the core themes of EBM. The discussion is more operational and technical rather than strategic or evidence-based.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,14 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T04:15:31",
+    "calculated_at": "2025-03-22T07:03:54",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses the integration of Active Directory with Visual Studio Online (VSO) and Azure, which touches on aspects of DevOps such as identity management and seamless integration. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts, making it more of a technical guide rather than a comprehensive exploration of DevOps as a category.",
+    "reasoning": "The content primarily focuses on configuring Active Directory Federated Services (ADFS) for Single Sign-On (SSO) with Visual Studio Online (VSO) and Azure, which is more about identity management and authentication rather than the broader principles of DevOps. While it touches on aspects of integration and collaboration, it lacks a comprehensive discussion on the core themes of DevOps such as automation, shared accountability, or continuous improvement. The mention of linking accounts and ensuring continuity is relevant but does not delve into the cultural or philosophical aspects of DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,22 +323,16 @@
     "reasoning": "Content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online accounts, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T00:04:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the configuration of Active Directory and Visual Studio Online accounts, which does not align with the core principles of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T00:05:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:10:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online accounts, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on configuring Active Directory and Single Sign-On (SSO) for Visual Studio Online (VSO) and Azure, with no direct mention or discussion of the Agile Product Operating Model or its principles. It does not align with the core themes of APOM, such as product management practices or agile methodologies, and lacks depth in discussing any relevant agile concepts.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +400,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T00:05:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:10:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Active Directory integration and account management for Visual Studio Online, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses configuring Active Directory and Single Sign-On (SSO) for Visual Studio Online (VSO) and Azure, which does not directly relate to Continuous Delivery principles or practices. While there are mentions of continuity and integration, these are more about user authentication and account management rather than the core themes of Continuous Delivery such as automation, rapid feedback, or software quality. The discussion lacks depth in Continuous Delivery concepts and does not provide relevant strategies or case studies related to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1443,6 +1443,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the configuration of Active Directory and Visual Studio Online accounts, focusing on authentication and identity management rather than integrating testing, security, or compliance earlier in the software development lifecycle. There are no direct mentions of Shift-Left principles or practices, and the discussion lacks depth in relation to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:03:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on configuring ADFS for SSO with VSO accounts, which is a technical guide rather than a discussion on Continuous Improvement. While it touches on aspects of continuity and user management, it lacks a clear connection to the principles of Continuous Improvement, such as empirical evidence, culture of experimentation, or strategies for enhancing processes. The discussion is more about technical implementation than about ongoing reflection and adaptation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:04:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for configuring ADFS and linking VSO accounts, with minimal reference to shared objectives or alignment within teams. While it touches on the importance of continuity and seamless integration, it lacks a clear connection to the principles of Common Goals in Agile or DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:04:03",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on technical instructions for configuring ADFS and linking VSO accounts, with minimal discussion on competence or continuous skill development. While it touches on the importance of maintaining continuity and identity management, it lacks a deeper exploration of competence as a foundational principle in Agile or DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-22T07:04:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on configuring ADFS for SSO with VSO accounts, which does not directly discuss the One Engineering System framework or its principles. While it touches on integration of tools (like ADFS and VSO), it lacks a comprehensive exploration of 1ES concepts, best practices, or challenges related to a unified engineering system.",
     "level": "Ignored"
   }
 }

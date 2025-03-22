@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:16:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:36:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses new features and improvements for the Sticky Buddy application, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the features and improvements of the TFS Sticky Buddy application, with no explicit discussion of DevOps principles, practices, or cultural shifts. While it mentions modular design, it does not align with the core themes of DevOps such as collaboration, automation, or shared accountability. The depth of discussion is minimal and does not provide any insights into DevOps methodologies or philosophies.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:16:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:36:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses new features and improvements for a specific application, lacking focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the features and improvements of a specific application (TFS Sticky Buddy v2.0) without any discussion of agile methodologies, product management principles, or the Agile Product Operating Model. There are no direct mentions of the key topics associated with APOM, and the content lacks depth in relation to the category.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -166,11 +172,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:17:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:36:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features and improvements of the Sticky Buddy application, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the features and improvements of the TFS Sticky Buddy application, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks any mention of data-informed decision-making, current value, or empirical decision-making, which are core themes of the category. The content is more about product development and user engagement rather than management practices based on evidence.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -239,7 +248,7 @@
     "reasoning": "Content primarily discusses new features and improvements in the Sticky Buddy application without any focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:17:13",
     "ai_confidence": 0,
@@ -889,11 +898,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:24:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:36:55",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses new features and improvements for a specific application, without focusing on Continuous Delivery principles or practices.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on the features and improvements of the TFS Sticky Buddy application, with no explicit discussion of Continuous Delivery principles, practices, or related topics. While there is a mention of modular design, it does not connect to the core themes of Continuous Delivery such as automation, incremental improvements, or user feedback. The overall depth of discussion is minimal and does not provide insights into Continuous Delivery methodologies.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1428,6 +1440,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses new features and improvements in the Sticky Buddy application without any mention or discussion of integrating testing, security, or compliance earlier in the development process. It lacks any alignment with the core themes of the Shift-Left Strategy, and there is minimal depth regarding the principles or benefits associated with it.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:36:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content briefly mentions improvements and new features in the TFS Sticky Buddy application, but it lacks a clear focus on Continuous Improvement principles. While there are references to enhancements and modular design, these are not discussed in the context of ongoing reflection, empirical evidence, or a culture of experimentation. The content does not provide depth or detail on strategies or frameworks related to Continuous Improvement, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:36:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the features and improvements of the TFS Sticky Buddy application, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it mentions working on enhancements, it lacks any connection to shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:36:50",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on the features and improvements of the TFS Sticky Buddy application, with no explicit discussion on competence, continuous learning, or skill development. While there is a mention of working on enhancements, it lacks depth and alignment with the core themes of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

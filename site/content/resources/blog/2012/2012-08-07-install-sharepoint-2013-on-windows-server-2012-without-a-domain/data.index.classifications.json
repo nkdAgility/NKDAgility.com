@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:54:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:13:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation and configuration of SharePoint 2013, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of SharePoint 2013, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and provides minimal depth on any related topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T19:54:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:13:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the installation and configuration of SharePoint 2013, with no significant discussion on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of SharePoint 2013 on Windows Server 2012, with no explicit discussion of DevOps principles or practices. While there are mentions of system administration and configuration, these do not align with the core themes of DevOps such as collaboration, automation, or continuous improvement. The content lacks depth in discussing any DevOps-related concepts, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -311,7 +317,7 @@
     "reasoning": "Content primarily focuses on the installation and configuration of SharePoint 2013, with no discussion of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:55:10",
     "ai_confidence": 0,
@@ -322,11 +328,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:55:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:13:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation and configuration of SharePoint 2013, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of SharePoint 2013, with no direct references to Agile methodologies, product management principles, or the Agile Product Operating Model. While there are mentions of team collaboration tools, they do not align with the core themes of the APOM, which emphasises a product-oriented mindset and continuous delivery. The discussion lacks depth and relevance to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:55:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:13:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and configuration of SharePoint 2013, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of SharePoint 2013 on Windows Server 2012, with no direct discussion of Continuous Delivery principles, practices, or benefits. While there are mentions of setup processes and troubleshooting, these do not align with the core themes of Continuous Delivery, such as automation in testing and deployment, rapid feedback, or cultural aspects of software delivery. The content lacks depth in relation to Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1434,6 +1446,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation and configuration of SharePoint 2013, with no direct discussion of integrating testing, security, or compliance earlier in the software development lifecycle. It lacks any mention of Shift-Left principles, techniques, or metrics, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:13:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of SharePoint 2013, with no explicit discussion of Continuous Improvement principles or practices. While there are mentions of trial and error and the importance of updates, these do not align with the core themes of Continuous Improvement, such as data-driven decision-making or fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:13:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing SharePoint 2013 and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the depth of discussion is limited to installation procedures and troubleshooting, which are not relevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:13:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical installation process of SharePoint 2013, with minimal references to competence or skill development. While it discusses the importance of following certain procedures and updates, it does not delve into continuous learning, professional development, or the broader implications of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

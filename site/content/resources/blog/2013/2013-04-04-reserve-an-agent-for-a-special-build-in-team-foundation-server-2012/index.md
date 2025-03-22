@@ -34,8 +34,7 @@ tags:
 - Pragmatic Thinking
 - Technical Mastery
 - Troubleshooting
-categories:
-- DevOps
+categories: []
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---

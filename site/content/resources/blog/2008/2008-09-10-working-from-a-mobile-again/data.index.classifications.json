@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:49:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:42:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal work preferences and mobile application functionality, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal productivity while working from a mobile device and managing TFS work items offline. While it mentions Team Foundation Server, which is a tool often used in DevOps contexts, the discussion does not align with the core principles of DevOps such as collaboration, automation, or shared accountability. The content lacks depth in discussing DevOps as a philosophy or its cultural aspects, leading to a low confidence score.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:49:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:43:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal work preferences and technical requirements for mobile applications, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the challenges of working from a mobile device and managing TFS work items offline. It does not discuss any principles or practices related to the Agile Product Operating Model, nor does it mention product management or agile methodologies. The mention of TFS and work items is tangential and does not align with the core themes of APOM.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -166,11 +172,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:49:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:43:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal work preferences and mobile application needs, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses personal productivity while working from a mobile device and managing work items offline. It does not explicitly mention Evidence-Based Management or its core themes, such as data-informed decision-making or metrics related to value delivery. The focus is on practical challenges and solutions rather than empirical evidence or strategic management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -236,7 +245,7 @@
     "reasoning": "Content primarily discusses personal work preferences and mobile application functionality, with no focus on metrics, learning, or Agile/DevOps principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:49:41",
     "ai_confidence": 0,
@@ -880,11 +889,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:26:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:43:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses personal work from a mobile device and does not pertain to Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses working from a mobile device and managing TFS work items offline, which does not directly relate to Continuous Delivery principles or practices. There are no explicit mentions of Continuous Delivery, and the discussion lacks depth in terms of relevant themes such as automation, rapid feedback, or software quality. Overall, the content is focused on personal productivity rather than software delivery practices.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1419,6 +1431,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses personal work preferences while travelling and does not address any aspects of the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance earlier in the software development lifecycle, nor does it provide any relevant techniques, case studies, or tools related to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:42:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the challenges of working from a mobile device and managing work items offline, with no explicit discussion of Continuous Improvement principles. While there is a mention of productivity, it does not align with the core themes of Continuous Improvement, such as empirical evidence, experimentation, or team effectiveness. The depth of discussion is minimal, lacking any detailed exploration of Continuous Improvement strategies or frameworks.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:42:54",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on personal experiences and challenges related to working from a mobile device, with no explicit discussion of Common Goals, Agile, or DevOps principles. It lacks alignment with the core themes of shared objectives and strategic alignment, and does not provide any depth on the topic of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:42:57",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses the challenges of working from a mobile device and managing work items offline, which does not directly address the principles of competence in Agile or DevOps. While there is a mention of productivity, it lacks a focus on continuous learning, skill development, or the professional standards associated with competence.",
     "level": "Ignored"
   }
 }

@@ -24,16 +24,16 @@ aliasesArchive:
 - /quality-enablement-with-visual-studio-2012
 - /resources/blog/quality-enablement-with-visual-studio-2012
 tags:
+- Continuous Delivery
 - Software Development
 - Application Lifecycle Management
-- Continuous Delivery
+- Continuous Improvement
 - Frequent Releases
 - Release Management
 - Value Delivery
 - Working Software
 - Product Delivery
 - Acceptance Test Driven Development
-- Engineering Practices
 categories:
 - Engineering Excellence
 - DevOps

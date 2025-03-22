@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:33:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:09:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses language preferences and technical solutions for spell checking, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the differences between British and American English, focusing on practical applications in PowerPoint and macros for spell-checking. There is no mention of Evidence-Based Management principles, metrics, or data-informed decision-making, which are central to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T19:33:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:08:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses language preferences and macros in Microsoft Office, with no relevance to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the differences between British and American English, focusing on language preferences and the use of macros in PowerPoint for spell-checking. There are no direct mentions of DevOps principles, practices, or cultural shifts, and the discussion does not align with the core themes of DevOps such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -317,7 +323,7 @@
     "reasoning": "Content primarily discusses language preferences and technical solutions for spell-checking in Microsoft Office, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:34:19",
     "ai_confidence": 0,
@@ -328,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:34:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:09:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses language preferences and technical solutions for spell checking, with no relevance to Agile principles or product development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the differences between British and American English, along with practical coding solutions for spell-checking in PowerPoint. It does not discuss any aspects of the Agile Product Operating Model or related principles, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:56:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:09:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses language preferences and macros for document editing, which is unrelated to Continuous Delivery.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the differences between British and American English, focusing on language preferences and macros in PowerPoint. It does not address any principles, practices, or benefits of Continuous Delivery, nor does it mention automation, testing, or deployment strategies. The discussion is entirely unrelated to the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1431,6 +1443,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content focuses on language preferences and spell-checking in Microsoft Office applications, with no discussion of software development processes, testing, security, or compliance. It does not align with the Shift-Left Strategy in any way.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:09:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the differences between British and American English, focusing on personal preferences and technical solutions for spell-checking in PowerPoint. It does not engage with the principles of Continuous Improvement, such as empirical evidence, team effectiveness, or strategies for organisational processes. The discussion is more about language preferences and technical workarounds rather than any form of continuous enhancement or learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:09:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the differences between British and American English, focusing on personal preferences and technical solutions for spell-checking in PowerPoint. It does not address any common goals related to Agile or DevOps frameworks, nor does it discuss shared objectives or alignment within teams. The discussion is largely anecdotal and technical, lacking any connection to the principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:09:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the differences between British and American English, focusing on practical solutions for spell-checking in PowerPoint. While it touches on the use of macros, which could imply a level of competence in using software, it does not explicitly discuss continuous learning, skill development, or the core themes of competence as defined in Agile and DevOps contexts. The discussion lacks depth and does not align with the principles of professionalism and quality delivery.",
     "level": "Ignored"
   }
 }

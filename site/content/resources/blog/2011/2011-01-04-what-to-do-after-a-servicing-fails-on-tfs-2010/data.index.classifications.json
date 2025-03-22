@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:05:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:47:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues and troubleshooting related to TFS 2010, with no focus on evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS 2010 upgrades and troubleshooting, with no explicit focus on Evidence-Based Management principles or metrics. While it touches on real-world challenges, it lacks a connection to data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T06:44:57",
+    "calculated_at": "2025-03-22T08:47:34",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
+    "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses a specific issue related to TFS (Team Foundation Server) and its upgrade process, which touches on aspects of deployment and operational challenges. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. While it mentions troubleshooting and recovery processes, it does not delve into automation, CI/CD, or collaboration between teams, which are core to the DevOps category.",
+    "reasoning": "The content primarily focuses on troubleshooting issues related to TFS 2010 and does not explicitly discuss DevOps principles or practices. While it touches on aspects of collaboration and problem-solving within a development team, it lacks a broader discussion on the DevOps philosophy, such as automation, shared accountability, or continuous improvement. The depth of discussion is moderate, but it does not align closely with the core themes of DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -323,7 +326,7 @@
     "reasoning": "Content primarily discusses technical issues and solutions related to TFS 2010 upgrades, without a focus on Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:06:11",
     "ai_confidence": 0,
@@ -334,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:06:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:47:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS 2010 upgrades and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS 2010 upgrades and does not mention or align with the Agile Product Operating Model. It focuses on troubleshooting and operational challenges rather than agile methodologies or product management principles.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -412,11 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:57:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:47:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a specific technical issue with Team Foundation Server (TFS) in the context of hotfixes and upgrades, without addressing Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses troubleshooting issues related to a specific upgrade of TFS 2010, focusing on hotfixes and database management rather than Continuous Delivery principles or practices. While it touches on aspects of software deployment, it lacks a clear focus on Continuous Delivery as defined by the category, such as automation, rapid feedback, or cultural aspects of delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1470,6 +1479,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a specific incident related to TFS 2010 upgrades and troubleshooting, with no explicit mention of integrating testing, security, or compliance earlier in the software development lifecycle. It lacks a focus on the principles, benefits, or methodologies associated with the Shift-Left Strategy, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:47:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to TFS 2010 upgrades, with minimal discussion on Continuous Improvement principles. While it touches on problem-solving and learning from past experiences, it lacks a structured approach to Continuous Improvement, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The content does not provide strategies or frameworks that align with Continuous Improvement, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:47:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to TFS 2010, detailing a real-world scenario without addressing the concept of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, which are central to the category of Common Goals. The discussion is technical and operational, lacking the necessary depth or alignment with the principles of Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:47:41",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to TFS 2010, with minimal direct discussion on competence or skill development. While it touches on the challenges faced by a large development team and the importance of expert advice, it lacks a thorough exploration of continuous learning, professionalism, or strategies for fostering competence. The mention of expertise is too brief and does not align closely with the core themes of the competence category.",
     "level": "Ignored"
   }
 }

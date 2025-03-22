@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:03:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:40:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects of creating custom activities for Team Foundation Build, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any depth in discussing how empirical evidence could enhance management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,15 +133,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:45:36",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "calculated_at": "2025-03-22T07:40:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses creating custom activities for Team Foundation Build, which is related to automation in the DevOps process. However, it lacks explicit mentions of broader DevOps principles, such as CI/CD or cultural shifts. The focus is primarily on technical implementation rather than the integration of people and processes, which is a core aspect of DevOps.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is a specific tool rather than a discussion on the broader DevOps philosophy. While it touches on aspects of workflow and build processes, it lacks explicit discussions on key DevOps principles such as collaboration, automation, or shared accountability. The depth of discussion is limited to technical implementation details without addressing the cultural or strategic aspects of DevOps.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -326,7 +329,7 @@
     "reasoning": "Content primarily focuses on creating custom activities for Team Foundation Build, with no discussion of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:04:05",
     "ai_confidence": 0,
@@ -337,11 +340,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:04:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:40:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses creating custom activities for Team Foundation Build, which is focused on technical implementation rather than Agile product development principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is a technical guide related to build processes rather than discussing the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or the key topics outlined in the APOM framework. The content lacks any depth in relation to the category, making it irrelevant to the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -415,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T04:58:20",
-    "ai_confidence": 35,
+    "calculated_at": "2025-03-22T07:40:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses creating custom activities for Team Foundation Build, but it does not focus on Continuous Delivery principles, practices, or methodologies. Instead, it is more about the technical implementation of build activities, which is not a central theme of Continuous Delivery.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is related to build processes but does not explicitly discuss Continuous Delivery principles or practices. While it touches on aspects of automation in build workflows, it lacks a direct mention of Continuous Delivery and does not explore its core themes such as rapid feedback, incremental improvements, or cultural aspects. The depth of discussion is moderate, providing practical steps but not delving into the broader implications of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1476,6 +1485,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which does not directly address the principles or practices of the Shift-Left Strategy. While it touches on aspects of build processes, it lacks explicit discussions on integrating testing, security, or compliance early in the development lifecycle. The content does not provide depth or detail related to the Shift-Left Strategy, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:40:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is a technical guide rather than a discussion on Continuous Improvement. While it touches on enhancing workflows, it lacks explicit references to Continuous Improvement principles, empirical evidence, or a culture of experimentation. The depth of discussion is limited to technical steps without addressing broader themes of process enhancement or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:40:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is a technical guide rather than a discussion on Common Goals. There are no explicit mentions of shared objectives or alignment with strategic goals, and the depth of discussion does not connect to the principles of Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:40:34",
+    "ai_confidence": 15.0,
+    "ai_mentions": 2,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the technical process of creating custom activities for Team Foundation Build, with minimal reference to the concept of competence. While it mentions simplifying workflows and enhancing build processes, it does not delve into continuous learning, skill development, or the broader implications of competence in Agile or DevOps environments. The discussion lacks depth regarding the importance of competence in delivering quality outcomes or fostering a culture of competence.",
     "level": "Ignored"
   }
 }

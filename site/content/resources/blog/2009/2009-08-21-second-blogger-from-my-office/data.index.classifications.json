@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:01:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:10:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal blog and a colleague's experience, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal journey related to corporate blogging and does not mention or align with any principles of Evidence-Based Management. There is no discussion of metrics, data-informed decision-making, or any of the key topics outlined in the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:01:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:10:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal blog and a colleague's experience, with no focus on DevOps principles, practices, or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal journey related to corporate blogging and SQL Server functions, with no direct mention or discussion of DevOps principles, practices, or cultural shifts. It lacks any alignment with the core themes of DevOps, such as collaboration, automation, or shared accountability, and does not provide any depth on the topic. Therefore, it is classified as having a very low confidence score for the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -305,7 +311,7 @@
     "reasoning": "Content primarily discusses a colleague's blogging experience and does not address Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:02:27",
     "ai_confidence": 0,
@@ -316,11 +322,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:02:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:10:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a colleague's blogging experience and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a personal blog journey and SQL Server functions, with no relevant discussion on Agile methodologies, product management, or the Agile Product Operating Model. It does not mention any key topics related to APOM, nor does it provide any depth or alignment with the category's principles.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -388,11 +397,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:06:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:10:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a colleague's blog post related to SQL Server functions and personal experiences, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal blog journey and does not mention Continuous Delivery or its principles. There is no alignment with the core themes of Continuous Delivery, and the depth of discussion is non-existent regarding the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1410,6 +1422,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content does not discuss the Shift-Left Strategy or any related concepts. It focuses on a personal blog post and a colleague's experience, which is unrelated to software development processes or the integration of testing, security, and compliance in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:10:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal journey related to corporate blogging and does not discuss Continuous Improvement principles or practices. There are no direct mentions of Continuous Improvement, nor does it align with the core themes such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is minimal, as it lacks any relevant detail on Continuous Improvement strategies or frameworks.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:10:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal anecdote about a colleague's blogging journey and does not discuss any aspects related to Common Goals in Agile or DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, which are essential for this category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:10:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a personal journey of a colleague in corporate blogging, with no explicit discussion of competence, continuous learning, or skill development. While it mentions a blog post about SQL Server functions, it does not delve into the importance of competence in Agile or DevOps contexts, nor does it provide any strategies for fostering a culture of competence. Therefore, the alignment with the category is minimal.",
     "level": "Ignored"
   }
 }

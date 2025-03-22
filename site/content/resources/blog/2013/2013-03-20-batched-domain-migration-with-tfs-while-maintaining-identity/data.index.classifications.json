@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:11:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:56:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of domain migration with TFS, lacking focus on evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical aspects of domain migration using TFS, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on user management and potential pitfalls, it lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,15 +127,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:09:05",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-22T07:55:55",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses a specific technical process related to migrating users in Team Foundation Server (TFS), which is relevant to DevOps practices, particularly in the context of managing identities and workflows. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The focus is primarily on a technical migration process rather than the integration of people, processes, and tools that characterise DevOps. While it touches on operational aspects, it does not delve into automation, CI/CD, or collaboration, which are core to the DevOps category.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of executing a batched domain migration using TFS, which is more aligned with system administration and migration processes rather than the broader DevOps philosophy. While it touches on collaboration between teams (e.g., operations and development) and mentions the importance of managing user identities, it lacks a comprehensive discussion on core DevOps principles such as automation, continuous improvement, or shared accountability. The depth of discussion is moderate, but it does not sufficiently engage with the cultural or philosophical aspects of DevOps.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -320,7 +323,7 @@
     "reasoning": "Content primarily discusses technical aspects of domain migration and user identity management in TFS, without a focus on Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:12:12",
     "ai_confidence": 0,
@@ -331,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:12:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:56:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses domain migration processes and technical aspects of managing user identities in TFS, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of domain migration using TFS and does not discuss any principles or practices related to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management, or the core themes outlined in the APOM definition. The discussion is entirely centred on operational procedures and technical details, which are unrelated to the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -406,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:13:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:56:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses domain migration with TFS, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of domain migration using TFS, which does not directly address Continuous Delivery principles or practices. While it discusses user management and migration processes, it lacks explicit references to Continuous Delivery concepts such as automation, rapid feedback, or incremental improvements. The discussion is more aligned with operational challenges rather than the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1452,6 +1461,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the technical aspects of migrating users between domains using Team Foundation Server (TFS). While it touches on the importance of managing identities and avoiding duplicates, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The focus is on operational procedures rather than integrating testing, security, or compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:55:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating users between domains using TFS, with no explicit discussion of Continuous Improvement principles. While it touches on the importance of careful management to avoid issues, it lacks a broader context of ongoing reflection, adaptation, or empirical evidence that characterises Continuous Improvement. The content does not provide strategies, case studies, or tools related to Continuous Improvement, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:56:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of executing a batched domain migration with TFS, detailing specific steps and potential pitfalls. While it touches on the importance of managing user identities during the migration, it does not explicitly discuss the concept of Common Goals or their significance in Agile or DevOps frameworks. The discussion lacks depth in connecting individual contributions to overarching strategic objectives, which is a core theme of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:56:04",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating users between domains using TFS, with limited discussion on the underlying principles of competence. While it touches on the importance of careful management and avoiding pitfalls, it does not delve into continuous learning, skill development, or fostering a culture of competence, which are key aspects of the category. The discussion is more procedural than reflective on competence as a foundational principle.",
     "level": "Ignored"
   }
 }

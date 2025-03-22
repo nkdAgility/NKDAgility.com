@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:51:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:43:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal issue with a blogging tool, which is unrelated to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal rant about a blogging experience with no direct mentions or alignment with DevOps principles. It lacks any discussion of collaboration, automation, or shared accountability, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:52:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:43:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal issue with a blogging platform, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal rant about a specific blogging experience with Diarist 2, which does not relate to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM framework. The discussion lacks any depth or alignment with the category, making it irrelevant to the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -166,11 +172,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:52:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:43:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal frustration with a blogging tool, lacking any relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal rant about a blogging experience with no mention of Evidence-Based Management principles or metrics. It lacks any discussion on data-informed decision-making or the key topics outlined in the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -236,7 +245,7 @@
     "reasoning": "Content primarily discusses a personal frustration with a blogging tool, lacking any focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:52:20",
     "ai_confidence": 0,
@@ -877,11 +886,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:36:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:43:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is a personal rant about a blog interface issue and does not discuss Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal rant about a frustrating experience with a blogging tool, which does not relate to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion lacks any alignment with the core themes such as automation, incremental improvements, or software quality. The depth of discussion is minimal and does not provide any relevant insights into Continuous Delivery.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1413,6 +1425,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content does not discuss any aspects of the Shift-Left Strategy, focusing instead on a personal experience with a blogging tool. There are no mentions of software development processes, testing, security, or compliance, which are central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:43:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily expresses frustration with a specific feature of Diarist 2 and does not engage with the principles of Continuous Improvement. While it hints at a desire for improvement, it lacks structured discussion on methodologies, empirical evidence, or strategies that align with the category's core themes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:43:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal frustration with a specific blogging tool and does not discuss any concepts related to Common Goals, Agile, or DevOps. There are no direct mentions of shared objectives or alignment strategies, and the discussion lacks depth on any relevant themes.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:43:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal frustration with a blogging tool and does not discuss competence, skill development, or any related themes. There are no direct mentions of competence, and the discussion lacks depth or alignment with the principles of professionalism and quality delivery.",
     "level": "Ignored"
   }
 }
