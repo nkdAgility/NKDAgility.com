@@ -37,11 +37,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T23:42:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:32:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on creating a Release Management pipeline and technical details related to DevOps practices, with no clear discussion on Evidence-Based Management principles or empirical data-driven decision-making.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and automating deployment processes, which does not directly address Evidence-Based Management principles. While there are mentions of automation and efficiency, the discussion lacks explicit references to empirical decision-making, current value metrics, or outcome management, which are central to EBM. The content is more technical and operational rather than strategic in nature.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -136,15 +139,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:41:50",
-    "ai_confidence": 87.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 90.0,
-    "ai_depth": 85.0,
+    "calculated_at": "2025-03-21T21:31:52",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 83.0,
-    "reasoning": "The content provides a comprehensive guide on creating a Release Management pipeline, which is a core aspect of DevOps practices. It discusses automation, continuous integration, and deployment processes, aligning well with DevOps principles. The depth of detail regarding the configuration of environments, build definitions, and deployment scripts indicates a strong focus on DevOps methodologies. Additionally, the content addresses the cultural aspects of collaboration within development teams, further reinforcing its relevance to the DevOps category.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline, which is a core aspect of DevOps practices. It discusses automation, continuous integration, and deployment, which are essential principles of the DevOps philosophy. The content also highlights the importance of feedback loops and shared accountability among teams, aligning well with the key topics of DevOps. The depth of discussion is significant, providing detailed steps and considerations for implementing a release pipeline, thus demonstrating a strong alignment with the DevOps category.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -344,26 +347,17 @@
     "reasoning": "Content primarily focuses on creating a Release Management pipeline and technical details related to DevOps practices, without a clear emphasis on Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-03-15T04:13:07",
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-03-21T21:32:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content primarily focuses on creating a Release Management pipeline and discusses specific tools and processes related to Team Foundation Server (TFS) and Azure. While it touches on aspects of integration and automation, it lacks a direct focus on the overarching principles of the One Engineering System (1ES) framework. The discussion is more about practical implementation rather than the standardisation and integration of engineering practices across teams, which is central to 1ES. Therefore, the confidence score reflects a low alignment with the 1ES category.",
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline using Team Foundation Server, which is more aligned with DevOps practices than the Agile Product Operating Model. While there are some mentions of feedback loops and stakeholder involvement, the discussion lacks a comprehensive exploration of the core principles of APOM, such as transitioning to a product ethos or integrating agile methodologies with product management. The depth of discussion is limited to technical implementation details rather than strategic alignment with APOM principles.",
     "level": "Ignored"
-  },
-  "Agile Product Operating Model": {
-    "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the creation of a Release Management pipeline and touches on aspects of continuous deployment and feedback loops, which are relevant to Agile principles. However, the primary focus is on technical implementation rather than a comprehensive discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -439,14 +433,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-13T17:03:07",
+    "calculated_at": "2025-03-21T21:32:17",
     "ai_confidence": 87.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 90.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
     "final_score": 79.0,
-    "reasoning": "The content provides a comprehensive overview of creating a Release Management pipeline, which is a core aspect of Continuous Delivery. It discusses automation in deployment, the importance of maintaining a production-ready state, and the use of version control and branching strategies. The depth of detail regarding the setup and configuration of the pipeline, including the use of Azure environments and deployment scripts, indicates a strong alignment with Continuous Delivery principles. The content also touches on feedback loops and approval processes, further reinforcing its relevance to the category.",
+    "reasoning": "The content provides a comprehensive guide on creating a Release Management pipeline, which is a core aspect of Continuous Delivery. It discusses automation, deployment efficiency, and the importance of feedback loops, aligning well with the principles of Continuous Delivery. The depth of detail regarding the setup and configuration of the pipeline, as well as the emphasis on continuous integration and deployment practices, further supports a high confidence score.",
     "level": "Secondary"
   },
   "Strategic Goals": {
@@ -1539,6 +1533,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the creation of a Release Management pipeline and touches on aspects of automated builds and deployments, which are relevant to the Shift-Left Strategy. However, it lacks a focused discussion on integrating testing, security, and compliance early in the development process. The mention of feedback loops is present but not elaborated upon in the context of Shift-Left principles. Overall, while there are elements that align with the category, they are not the primary focus of the content.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:31:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and automating deployment processes, which are more technical and operational aspects rather than discussions on Continuous Improvement. While there are mentions of feedback loops and the importance of testing, the overall emphasis is on configuration and execution rather than on the principles of Continuous Improvement such as empirical evidence, culture of experimentation, or strategic business agility.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:32:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of creating a Release Management pipeline and does not explicitly discuss Common Goals or their significance in Agile and DevOps. While there are brief mentions of team collaboration and feedback loops, these are secondary to the technical details of the pipeline setup. The discussion lacks depth in connecting these practices to overarching strategic objectives or the principles of Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:32:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of creating a Release Management pipeline, with limited direct discussion on competence as a foundational principle. While it touches on automation and deployment efficiency, it lacks a strong emphasis on continuous learning, skill development, or fostering a culture of competence. The depth of discussion on competence-related themes is minimal, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:32:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the creation of a Release Management pipeline and touches on automation and deployment efficiency, which are relevant to the One Engineering System. However, it primarily focuses on specific tools and processes (Team Foundation Server and Azure) rather than the broader principles and integration aspects of 1ES. While there are mentions of team collaboration and deployment processes, the depth of discussion on the One Engineering System framework itself is limited, leading to a moderate confidence score.",
     "level": "Ignored"
   }
 }

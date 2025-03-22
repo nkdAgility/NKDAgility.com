@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T21:18:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:20:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an Agile event in Africa and personal experiences, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting the Agile in Africa 2016 event and does not discuss Evidence-Based Management or its key topics. While it mentions agility and development practices, it lacks any empirical evidence or metrics related to decision-making or value delivery, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T21:19:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:20:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile events and community engagement, with no focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on an Agile event in Africa, discussing the organisation and experiences related to Agile practices. While Agile and DevOps share some principles, the content does not explicitly mention DevOps or its core themes such as collaboration, automation, or shared accountability. The discussion is more centred on Agile methodologies and community engagement rather than the DevOps philosophy, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -323,22 +329,16 @@
     "reasoning": "Content primarily discusses an Agile event in Africa, focusing on personal experiences and event details rather than Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T21:19:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an Agile event in Africa, focusing on personal experiences and community engagement rather than the principles or implementation of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T21:19:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:20:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an Agile event in Africa and personal experiences rather than the Agile Product Operating Model or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on an event related to Agile practices in Africa, without discussing the Agile Product Operating Model or its core principles. While it mentions agility and community engagement, it lacks direct references to product management, operational stability, or the transition from project to product ethos, which are essential for alignment with the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -412,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T21:19:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:20:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an Agile event in Africa, focusing on community engagement and speaker experiences, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on an Agile event in Africa, discussing the gathering of industry experts and the promotion of Agile practices. However, it does not specifically address Continuous Delivery principles, practices, or benefits. The mention of Agile is too general and does not delve into the specifics of Continuous Delivery, such as automation, incremental improvements, or rapid feedback. Therefore, the confidence score reflects a very low alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1464,6 +1467,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses an Agile event in Africa, focusing on community engagement and personal experiences rather than the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it provide any techniques, case studies, or tools related to the Shift-Left approach. The discussion is more about Agile practices in a regional context, which does not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:20:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on promoting the Agile in Africa 2016 event and does not explicitly discuss Continuous Improvement principles. While it mentions enhancing development practices and connecting with industry experts, these points are not deeply explored in relation to Continuous Improvement methodologies. The overall discussion lacks empirical evidence, specific techniques, or strategies that align with the core themes of Continuous Improvement, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:20:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting the Agile in Africa 2016 event and shares personal experiences rather than discussing the concept of Common Goals in Agile or DevOps. While it mentions the importance of bringing agility to Africa, it lacks a detailed exploration of how shared objectives align with strategic execution. The discussion is more anecdotal and promotional, with minimal direct references to the principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:20:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on promoting the Agile in Africa 2016 event and the excitement surrounding it, rather than discussing competence in a meaningful way. While it mentions the importance of connecting with industry experts and improving development practices, these points are not explored in depth or directly tied to the principles of competence as defined in the category. The discussion lacks explicit references to continuous learning, skill development, or strategies for fostering a culture of competence, which are crucial for a higher confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:20:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on an Agile event in Africa, discussing personal experiences and the community aspect of Agile practices. It does not mention the One Engineering System framework, its principles, or its components. The discussion is centred around Agile methodologies rather than the integration and standardisation of engineering processes, which is the core of 1ES.",
     "level": "Ignored"
   }
 }

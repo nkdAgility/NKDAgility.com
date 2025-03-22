@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T21:51:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:21:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to build permissions in TFS, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses troubleshooting a specific technical issue related to TFS build systems and permissions, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any depth on these topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,15 +133,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:36:21",
-    "ai_confidence": 82.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
+    "calculated_at": "2025-03-21T21:21:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses issues related to setting up a Build Agent and permissions within a build system, which are core aspects of DevOps practices. It explicitly mentions the use of Team Foundation Server (TFS) and the importance of permissions for build services, aligning well with the principles of Continuous Integration and Continuous Delivery. The depth of discussion regarding troubleshooting and configuration details further supports its relevance to DevOps, demonstrating a clear understanding of the tools and processes involved.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses troubleshooting a specific issue related to TFS build systems, which is relevant to DevOps practices. However, it primarily focuses on a technical problem rather than the broader principles of DevOps such as collaboration, automation, or cultural shifts. While it touches on aspects of build permissions and system configuration, it lacks a comprehensive exploration of DevOps philosophy or practices, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -332,22 +335,16 @@
     "reasoning": "Content primarily discusses a technical issue related to build permissions in TFS, without any focus on Systems Thinking principles or interconnectedness within organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T21:52:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a specific issue related to build permissions in TFS, without addressing the broader principles or integration aspects of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T21:52:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:21:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to build permissions in TFS, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses troubleshooting TFS build errors and permissions issues, which are technical aspects of build systems rather than focusing on the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or the core themes of APOM. The discussion is more aligned with operational challenges in a specific build environment rather than the broader framework of agile product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -421,14 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T03:54:40",
+    "calculated_at": "2025-03-21T21:21:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
-    "ai_depth": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses a specific issue related to build permissions in a TFS (Team Foundation Server) environment, which is tangentially related to Continuous Delivery practices. However, it primarily focuses on troubleshooting a specific error rather than the broader principles and methodologies of Continuous Delivery. While it touches on aspects of build systems and automation, it lacks a comprehensive discussion on Continuous Delivery principles, practices, or strategies, leading to a low confidence score.",
+    "reasoning": "The content discusses troubleshooting build errors in a TFS (Team Foundation Server) environment, which is related to the build process but does not explicitly focus on Continuous Delivery principles or practices. While it touches on aspects of build configuration and permissions, it lacks a broader discussion on Continuous Delivery concepts such as automation, rapid feedback, or cultural aspects. The primary focus is on resolving a specific technical issue rather than exploring Continuous Delivery as a discipline.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1491,6 +1488,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a specific technical issue related to build permissions in TFS, with no explicit mention of the Shift-Left Strategy or its principles. While it touches on aspects of build processes, it does not align with the core themes of integrating testing, security, or compliance earlier in the development lifecycle. The focus is on troubleshooting a permissions error rather than proactive quality assurance or early integration of critical processes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:21:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to TFS build permissions. While it discusses resolving a problem, it does not engage with the broader principles of Continuous Improvement, such as fostering a culture of experimentation or integrating improvement strategies into organisational processes. The discussion lacks depth in terms of continuous reflection or adaptation, which are key aspects of the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:21:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to TFS build permissions, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on aspects of project management, it does not align with the core themes of shared objectives or strategic alignment, and lacks depth in discussing any related concepts.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:21:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to TFS build systems, which does not directly address the concept of competence as defined in the category. While there are elements of skill development and problem-solving, the discussion lacks explicit references to continuous learning, professionalism, or the broader implications of competence in Agile or DevOps environments. The depth of discussion is limited to a specific scenario without exploring the foundational principles of competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:21:32",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific issue related to TFS build permissions and does not explicitly discuss the One Engineering System framework or its principles. While it touches on aspects of build systems, it lacks a broader discussion on integration, standardisation, or best practices that are central to 1ES. The mention of build services and permissions is too narrow and does not align with the comprehensive nature of 1ES.",
     "level": "Ignored"
   }
 }

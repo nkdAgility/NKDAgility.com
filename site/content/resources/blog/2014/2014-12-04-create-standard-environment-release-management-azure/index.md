@@ -37,8 +37,7 @@ tags:
 - Application Lifecycle Management
 - Product Delivery
 - Events and Presentations
-categories:
-- DevOps
+categories: []
 preview: nakedalm-windows-logo-16-16.png
 
 ---

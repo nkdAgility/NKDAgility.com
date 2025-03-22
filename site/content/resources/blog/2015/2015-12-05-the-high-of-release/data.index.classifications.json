@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T22:59:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:22:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses new Release Management tools and DevOps practices without focusing on evidence-based management principles or empirical data.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses new Release Management tools from Microsoft and their capabilities in DevOps, without any explicit mention of Evidence-Based Management principles or metrics. While it touches on aspects of release pipelines and engineering excellence, it lacks a focus on empirical evidence or data-informed decision-making, which are central to EBM. The discussion is more about tool features than about managing for outcomes or value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,14 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:36:30",
-    "ai_confidence": 82.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 85.0,
+    "calculated_at": "2025-03-21T21:21:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 79.0,
-    "reasoning": "The content explicitly discusses DevOps principles, particularly in relation to Release Management tools and their role in building reliable release pipelines. It highlights the integration of various tools and the flexibility offered to users, which aligns well with the core themes of DevOps. The depth of discussion is significant, providing insights into the tooling and its application in real-world scenarios, thus demonstrating a strong focus on DevOps practices.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses new Release Management tools from Microsoft that enhance DevOps practices, particularly in streamlining release pipelines. It explicitly mentions DevOps and focuses on tools that facilitate orchestration and integration, which aligns with the DevOps philosophy of collaboration and automation. However, the discussion is primarily tool-centric and lacks a deeper exploration of the cultural and philosophical aspects of DevOps, such as shared accountability or continuous improvement, which limits the overall depth of the content.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -341,25 +344,16 @@
     "reasoning": "Content primarily discusses Microsoft Release Management tools and DevOps practices, without a focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-03-15T03:55:44",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses new Release Management tools and their integration with various deployment methods, which aligns with the principles of standardising and integrating software development practices. However, it primarily focuses on specific tools and personal experiences rather than the broader framework of 1ES. The mention of orchestration and integration is relevant, but the depth of discussion does not fully explore the core themes of 1ES, such as best practices or case studies.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T22:59:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:21:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on DevOps and Release Management tools, not on the Agile Product Operating Model or its principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Release Management tools and DevOps practices, with no explicit mention of the Agile Product Operating Model or its core principles. While there is a focus on enhancing release pipelines, it does not align with the product-oriented mindset or the key topics outlined in the APOM framework.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -436,15 +430,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T03:55:07",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T21:22:01",
+    "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses new Release Management tools and their role in building reliable release pipelines, which aligns with Continuous Delivery principles. However, it lacks explicit mention of Continuous Delivery as a concept and does not delve deeply into the methodologies or practices that underpin it. The focus is more on the tools and their capabilities rather than the broader principles of Continuous Delivery.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses new Release Management tools from Microsoft that enhance DevOps and streamline release pipelines, which aligns with Continuous Delivery principles. However, it primarily focuses on the tools rather than the broader concepts of Continuous Delivery, such as automation, incremental improvements, or cultural aspects. The discussion lacks depth in exploring the principles and practices of Continuous Delivery, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -1518,6 +1512,54 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily discusses Release Management tools and DevOps practices without explicitly addressing the Shift-Left Strategy. While there are mentions of building reliable release pipelines, the focus is on orchestration and integration rather than on integrating testing, security, or compliance earlier in the development process. The discussion lacks depth in terms of Shift-Left principles and does not provide techniques or case studies related to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:21:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses new Release Management tools and their capabilities in enhancing DevOps processes. While it touches on aspects of improving release pipelines, it lacks a direct focus on Continuous Improvement principles such as empirical evidence, culture of experimentation, or systematic strategies for integrating improvement into organisational processes. The mention of 'engineering excellence' and 'reliable release pipelines' suggests some alignment with Continuous Improvement, but the depth of discussion is more about tool features than the philosophy or practices of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:21:50",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses new Release Management tools from Microsoft and their capabilities in enhancing DevOps processes. While it touches on orchestration and integration, it lacks a direct focus on Common Goals as defined in the category. There are no explicit mentions of shared objectives or alignment with strategic goals, and the discussion remains largely technical without delving into the principles of Agile or DevOps related to Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:21:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses new Release Management tools and their capabilities in enhancing DevOps processes. While it touches on the idea of engineering excellence, it lacks a direct focus on competence as defined in the category. There are no explicit discussions on continuous learning, skill development, or fostering a culture of competence. The mention of 'engineering excellence' is vague and does not delve into the necessary skills or professional development aspects that underpin competence. Overall, the content is more about tools and processes rather than the development of skills and capabilities.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:21:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses new Release Management tools from Microsoft and their role in enhancing DevOps and release pipelines. While it touches on integration and orchestration, it does not explicitly mention the One Engineering System framework or its principles. The focus is more on specific tools rather than the broader concepts of standardisation and integration across teams, which are central to 1ES. Therefore, while there are relevant elements, the primary focus is not on the One Engineering System itself.",
     "level": "Ignored"
   }
 }

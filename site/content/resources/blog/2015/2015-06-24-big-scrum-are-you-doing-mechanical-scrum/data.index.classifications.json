@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T22:00:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:22:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum practices and the importance of Professional Scrum, without a clear focus on Evidence-Based Management principles or empirical data.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum and Agile methodologies, focusing on the effectiveness of Professional Scrum rather than on evidence-based management principles. While it touches on the importance of values and principles in Scrum, it lacks direct references to empirical evidence or metrics that are central to Evidence-Based Management. The discussion is more about the implementation of Scrum rather than data-informed decision-making or the specific metrics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T22:00:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:22:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile methodologies, discussing their implementation and effectiveness. While there are tangential references to productivity and team effectiveness, it does not engage with core DevOps principles such as automation, shared accountability, or continuous value delivery. The discussion is centred around Scrum practices rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -332,25 +338,16 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T22:00:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T03:58:27",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-21T21:22:46",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content primarily discusses Scrum and its implementation, focusing on the principles and values of Scrum rather than the broader Agile Product Operating Model. While it touches on aspects of value delivery and the importance of professional practices, it lacks a comprehensive exploration of product-centric development, cross-functional teams, and continuous feedback mechanisms that are central to the Agile Product Operating Model. Therefore, it aligns partially with the category but does not delve deeply into its core themes.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum and its implementation, focusing on the effectiveness of Professional Scrum rather than the broader Agile Product Operating Model. While it touches on principles of agility and productivity, it lacks a direct connection to product management practices and the specific themes outlined in the APOM framework. The depth of discussion on Scrum roles and practices is significant, but it does not sufficiently address the transition to a product-oriented mindset or the integration of product management principles.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -424,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T22:01:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:22:47",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses Scrum and Agile methodologies, focusing on the effectiveness of Professional Scrum rather than Continuous Delivery principles. While it touches on aspects of productivity and team effectiveness, it does not explicitly address Continuous Delivery practices, automation, or the rapid feedback loop that characterises this category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1536,6 +1536,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum and Agile methodologies, focusing on the effectiveness of Professional Scrum and the pitfalls of mechanical Scrum. While it touches on principles that could relate to the Shift-Left Strategy, such as technical excellence and minimising technical debt, it does not explicitly address integrating testing, security, or compliance earlier in the development process. Therefore, the content does not align well with the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:22:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of Professional Scrum and the pitfalls of merely following Scrum mechanically, which touches on the need for continuous improvement in practices. However, it primarily focuses on Scrum methodology rather than a broader discussion on continuous improvement principles, limiting its depth and direct mentions of the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:22:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Scrum and its effectiveness, but it primarily focuses on the pitfalls of mechanical Scrum rather than explicitly addressing Common Goals. While it touches on the importance of values and principles in Scrum, it lacks a direct discussion on shared objectives or alignment with strategic goals, which are central to the Common Goals category. The depth of discussion is limited to the critique of Scrum practices without a thorough exploration of how these practices connect to overarching organisational goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:22:40",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of Professional Scrum and the need for technical excellence, which aligns with the principles of competence. However, it primarily focuses on the pitfalls of mechanical Scrum and the need for adherence to values and principles rather than a comprehensive exploration of competence itself. The discussion is somewhat superficial, lacking in-depth strategies for fostering a culture of competence or continuous learning.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:22:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum and Agile methodologies, focusing on the effectiveness of Professional Scrum rather than the One Engineering System framework. While it touches on concepts of productivity and team effectiveness, it does not address the integration or standardisation of engineering processes as outlined in the 1ES category. The discussion is centred around Scrum practices, which are not directly related to the principles of 1ES.",
     "level": "Ignored"
   }
 }

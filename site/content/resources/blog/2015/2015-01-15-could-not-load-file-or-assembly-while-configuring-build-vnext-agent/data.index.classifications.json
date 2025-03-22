@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T23:14:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:28:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to configuring a build agent and does not address Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to configuring a build agent and does not mention or align with the principles of Evidence-Based Management. It lacks any discussion on metrics, data-informed decision-making, or value delivery, which are central to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:38:35",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "calculated_at": "2025-03-21T21:27:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
-    "reasoning": "The content discusses a specific issue related to the Build vNext Agent, which is a tool used in DevOps for continuous integration and delivery. It mentions troubleshooting steps and potential fixes, indicating a focus on automation and deployment processes. However, it lacks broader discussions on DevOps principles, cultural shifts, or metrics, which limits its depth and alignment with the category.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific issue related to configuring the Build vNext Agent, which is a tool used in DevOps practices. However, it primarily focuses on a technical error and its resolution rather than the broader principles or cultural aspects of DevOps. While it mentions a DevOps-related tool, it lacks a comprehensive discussion on the philosophy, practices, or collaborative aspects of DevOps, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -323,22 +326,16 @@
     "reasoning": "Content primarily discusses technical issues related to the Build vNext Agent and Visual Studio, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T23:14:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to the Build vNext Agent and Visual Studio 2015, without any focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T23:15:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:28:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to the Build vNext Agent and Visual Studio, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to configuring a build agent and does not mention or align with any principles of the Agile Product Operating Model. It focuses on troubleshooting a specific error rather than product management or agile methodologies.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -412,11 +409,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T23:15:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:28:08",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to configuring a build agent and troubleshooting errors, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses a specific error encountered while configuring the Build vNext Agent, which is related to a particular version of Visual Studio and its interaction with the build system. While it touches on aspects of build configuration, it does not explicitly address Continuous Delivery principles, practices, or benefits. The focus is on troubleshooting rather than the broader context of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1464,6 +1464,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a technical issue related to the Build vNext Agent and Visual Studio 2015 Preview, with no explicit mention of the Shift-Left Strategy. While it touches on aspects of software development, it does not align with the core themes of integrating testing, security, or compliance earlier in the development process. The discussion lacks depth regarding Shift-Left principles, techniques, or metrics, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:27:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to the Build vNext Agent and does not discuss Continuous Improvement principles or practices. There are no direct mentions of Continuous Improvement, nor does it align with the core themes such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is limited to a technical error resolution, which does not contribute to the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:27:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical issue related to configuring the Build vNext Agent and does not discuss Common Goals, Agile, or DevOps principles. There are no direct mentions of shared objectives or alignment strategies, and the depth of discussion is limited to troubleshooting a specific error.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:27:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical issue related to configuring the Build vNext Agent and does not discuss competence, continuous learning, or skill development. While it mentions troubleshooting and resolving an error, it lacks a broader discussion on the importance of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:28:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a specific error related to configuring the Build vNext Agent and does not mention the One Engineering System or its principles. It focuses on troubleshooting a technical issue rather than the integration and standardisation of engineering processes, which are central to the 1ES framework.",
     "level": "Ignored"
   }
 }

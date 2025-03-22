@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T21:00:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:18:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses synchronisation between VSTS and Github for DevOps, without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on synchronising code between VSTS and GitHub for DevOps purposes, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on aspects of automation and configuration, it lacks a clear connection to data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:34:51",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
+    "calculated_at": "2025-03-21T21:18:38",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 83.0,
-    "reasoning": "The content explicitly discusses the integration of VSTS (now Azure DevOps) and GitHub for synchronising code, which is a core aspect of DevOps practices. It covers automation through CI/CD pipelines, the role of version control systems, and the importance of collaboration between development and operations teams. The depth of discussion includes specific commands and configurations for achieving this synchronisation, demonstrating a practical application of DevOps principles. Overall, the content aligns well with the key topics of the DevOps category.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on synchronising code between VSTS and GitHub, which is a key aspect of DevOps practices. It discusses automation through continuous integration and the importance of collaboration between development and operations teams. The depth of discussion includes specific commands and configurations, demonstrating a practical application of DevOps principles. However, while it aligns well with the DevOps philosophy, it does not delve deeply into broader cultural shifts or feedback loops, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -329,22 +332,16 @@
     "reasoning": "Content primarily discusses the technical aspects of synchronising code between VSTS and GitHub, focusing on automation and configuration rather than Systems Thinking principles or organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T21:01:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses synchronisation between VSTS and GitHub for DevOps, without a clear focus on the principles or implementation of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T21:01:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:18:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses synchronisation between VSTS and GitHub for DevOps, with no clear focus on Agile Product Operating Model principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on synchronising code between VSTS and GitHub for DevOps purposes, with no explicit discussion of the Agile Product Operating Model or its principles. While it touches on agile practices, it does not delve into product management or the core themes of APOM, such as continuous delivery or customer-centric value.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -421,14 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-10T18:30:22",
+    "calculated_at": "2025-03-21T21:18:56",
     "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
     "final_score": 61.0,
-    "reasoning": "The content discusses synchronisation between VSTS and GitHub, which relates to Continuous Delivery practices, particularly in automating code integration and deployment. However, it primarily focuses on the specifics of synchronisation rather than broader Continuous Delivery principles, resulting in a moderate confidence score.",
+    "reasoning": "The content discusses synchronisation between VSTS and GitHub, which relates to Continuous Delivery practices, particularly in terms of automation and integration. It mentions automated builds and continuous integration, which are key components of Continuous Delivery. However, the primary focus is on the specifics of syncing code rather than a broader exploration of Continuous Delivery principles, which limits the depth of discussion. Overall, while it aligns with the category, it does not fully delve into the principles and cultural aspects of Continuous Delivery.",
     "level": "Secondary"
   },
   "Strategic Goals": {
@@ -1506,6 +1503,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses synchronisation between VSTS and GitHub, focusing on automation and continuous integration. While it touches on aspects of DevOps and Agile practices, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth regarding early integration of testing, security, or compliance, which are core to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:18:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on synchronising code between VSTS and GitHub for DevOps purposes, with minimal direct discussion on Continuous Improvement principles. While it touches on automation and configuration, it lacks a clear emphasis on empirical evidence, data-driven decision-making, or fostering a culture of experimentation and learning, which are core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:18:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical aspects of synchronising code between VSTS and GitHub, with limited discussion on the concept of Common Goals. While it touches on the benefits of using VSTS for DevOps, it lacks a clear connection to shared objectives or strategic alignment within teams, which are central to the Common Goals category. The depth of discussion is more about implementation than about aligning team efforts with overarching goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:18:48",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on technical aspects of synchronising code between VSTS and GitHub, with minimal direct discussion on competence or skill development. While it touches on the use of tools that may enhance productivity, it lacks a strong emphasis on continuous learning, professionalism, or the development of capabilities, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:18:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on synchronising code between VSTS and GitHub, discussing specific tools and configurations rather than the overarching principles of the One Engineering System. While it touches on aspects of integration and automation, it lacks a comprehensive discussion on the standardisation and unification of software development practices across teams, which is central to 1ES.",
     "level": "Ignored"
   }
 }

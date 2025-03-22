@@ -40,11 +40,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T04:08:54",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-21T21:29:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) tools and their functionalities, with only a limited reference to aspects of Continuous Delivery like build and release management. However, it does not focus on the key principles and practices of Continuous Delivery itself.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Visual Studio ALM and its features, focusing on application lifecycle management rather than Continuous Delivery specifically. While it touches on aspects like build management and release management, which are relevant to Continuous Delivery, the overall emphasis is on tool selection and comparison rather than the principles and practices of Continuous Delivery itself.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1108,11 +1111,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T09:56:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:29:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses application lifecycle management (ALM) tools and their functionalities rather than Evidence-Based Management principles or practices. The focus is on comparing tool features and management rather than applying empirical evidence to enhance decision-making.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Visual Studio ALM and its features without a focus on Evidence-Based Management principles. While it touches on decision-making regarding tool selection, it lacks empirical evidence and metrics that are central to EBM. The discussion is more about tool comparison and project management rather than data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -1210,15 +1216,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T14:41:38",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-21T21:29:15",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses Application Lifecycle Management (ALM) and the comparison of tools like Visual Studio ALM, Git, and Jenkins. While it touches on aspects relevant to DevOps, such as build management and release management, the primary focus is on tool comparison and project management rather than the broader principles and practices of DevOps. The discussion lacks depth in DevOps-specific practices like Continuous Integration and Continuous Delivery, and does not address cultural shifts or collaboration between teams, which are key elements of the DevOps category.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Visual Studio ALM and its features, focusing on application lifecycle management rather than the broader principles of DevOps. While it touches on aspects like tool integration and project management, it lacks a direct emphasis on DevOps philosophy, such as collaboration, automation, and shared accountability. The depth of discussion on ALM tools is significant, but it does not align closely with the core themes of DevOps.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1427,22 +1433,16 @@
     "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) tools, their features, and considerations for replacing or integrating them, rather than exploring Systems Thinking principles or their applications in organizational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-03-15T04:08:54",
-    "ai_confidence": 30,
-    "non_ai_confidence": 20,
-    "final_score": 29.0,
-    "reasoning": "The content discusses Application Lifecycle Management (ALM) tools and practices extensively, but does not specifically address the integration and standardization principles of One Engineering System (1ES).",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T04:08:54",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-21T21:29:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "Content discusses Application Lifecycle Management (ALM) tools and their features, but does not focus on Agile principles, value delivery, or product-centric approaches.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Visual Studio ALM and its features, focusing on application lifecycle management rather than the Agile Product Operating Model. While it touches on project management and some agile concepts, it does not delve into the core principles or practices of the Agile Product Operating Model, making it only tangentially related.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -1539,6 +1539,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the comparison of Visual Studio ALM with other tools like Git and Jenkins, focusing on the features and functionalities of ALM tools rather than explicitly addressing the Shift-Left Strategy. While there are mentions of project management and quality management, which are relevant to the Shift-Left concept, the overall discussion does not centre on integrating testing, security, or compliance earlier in the development lifecycle. Therefore, the alignment with the Shift-Left Strategy is minimal.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:29:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the evaluation and comparison of ALM tools, specifically Visual Studio ALM versus Git and Jenkins. While it touches on aspects of tool selection and project management, it does not explicitly discuss Continuous Improvement principles or practices. The discussion lacks depth in terms of empirical evidence, data-driven decision-making, or fostering a culture of experimentation, which are key themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:29:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the features and considerations of Visual Studio ALM and its comparison with other tools like Git and Jenkins. While it touches on aspects of project management and tool selection, it does not explicitly address the concept of Common Goals within Agile or DevOps frameworks. The focus is more on technical details and personal experiences rather than on aligning strategy with execution or fostering collaboration towards shared objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:29:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the features and considerations of Visual Studio ALM and its comparison with other tools like Git and Jenkins. While it touches on aspects of project management and tool selection, it lacks a direct focus on the continuous development of skills or the fostering of a culture of competence. The discussion is more about tool functionality than about competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:29:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Visual Studio ALM and its features, focusing on application lifecycle management rather than the One Engineering System framework. While it touches on integration and tool selection, it does not explicitly mention 1ES principles or provide a comprehensive discussion on standardising engineering practices across teams.",
     "level": "Ignored"
   }
 }

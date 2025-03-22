@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T22:04:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:23:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation and configuration of TFS 2015, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, with no direct mention of Evidence-Based Management principles or metrics. While it discusses technical aspects of TFS, it does not align with the core themes of EBM such as data-informed decision-making or outcome management. The discussion lacks depth regarding any evidence-based practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,14 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T03:58:33",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "calculated_at": "2025-03-21T21:23:22",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, which is a tool related to DevOps practices. However, it lacks a direct discussion of DevOps principles, cultural shifts, or broader practices such as CI/CD. While it touches on automation and configuration, it does not delve into the collaborative aspects or metrics of DevOps, leading to a low confidence score despite some relevant mentions.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, which is a tool rather than a discussion on DevOps principles. While it briefly touches on aspects of automation and configuration, it lacks a comprehensive exploration of DevOps philosophy, practices, or cultural shifts. The discussion is more technical and procedural, with minimal emphasis on collaboration, shared accountability, or continuous improvement, which are core to DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,22 +332,16 @@
     "reasoning": "Content primarily focuses on the installation and configuration of TFS 2015, with no discussion of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T22:05:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on the installation and configuration of TFS 2015, with no clear discussion on the principles or integration aspects of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T22:05:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:23:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and configuration of TFS 2015, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, with no direct mention of Agile Product Operating Model principles or practices. It discusses technical aspects of TFS without addressing product management or agile methodologies, which are central to the APOM framework.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T22:05:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:23:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 2,
+    "ai_alignment": 5,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the installation and configuration of TFS 2015, with no clear discussion on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, with minimal direct discussion of Continuous Delivery principles. While it touches on aspects of automation and configuration, it lacks a comprehensive exploration of Continuous Delivery practices, such as rapid feedback, incremental improvements, or cultural aspects. The mention of a new build system hints at automation but does not delve into its implications for Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1470,6 +1470,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on some aspects of software development tools, it does not align with the core themes of the Shift-Left Strategy, nor does it provide depth on the principles or benefits associated with it.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:23:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, with no explicit discussion on Continuous Improvement principles. While it mentions updates and improvements in TFS, it does not delve into the core themes of Continuous Improvement such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The content lacks depth in discussing strategies or tools related to Continuous Improvement, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:23:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing and configuring TFS 2015, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on some operational aspects of TFS, it lacks any connection to shared objectives, strategic alignment, or team collaboration, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:23:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, with minimal discussion on competence or skill development. While it touches on the importance of upgrading and some operational practices, it lacks a direct emphasis on continuous learning, quality outcomes, or fostering a culture of competence, which are central to the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:23:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, which is a specific tool rather than discussing the broader principles or integration aspects of the One Engineering System. While TFS is mentioned, there is no substantial discussion on standardising practices, integration across teams, or the impact on software quality, which are core themes of 1ES.",
     "level": "Ignored"
   }
 }

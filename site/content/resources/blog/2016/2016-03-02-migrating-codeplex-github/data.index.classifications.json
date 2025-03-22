@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T21:04:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:19:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating projects from Codeplex to GitHub, with no direct mention of Evidence-Based Management principles or metrics. While it discusses tools and methods, it lacks any reference to data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T03:52:10",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "calculated_at": "2025-03-21T21:19:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the technical process of migrating a repository from Codeplex to GitHub, which is more aligned with version control and repository management than with the broader principles of DevOps. While it touches on tools like Git and Git-TF, it lacks a discussion on CI/CD practices, automation, or cultural shifts necessary for DevOps. The depth of discussion is moderate, but it does not sufficiently cover the core themes of DevOps, leading to a low confidence score.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating projects from Codeplex to GitHub, discussing specific tools and methods without addressing the broader principles of DevOps such as collaboration, automation, or shared accountability. While it mentions tools that could be part of a DevOps workflow, it lacks a discussion on the cultural or philosophical aspects of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,22 +323,16 @@
     "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, focusing on specific tools and methods rather than exploring Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T21:05:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, focusing on specific tools and methods rather than the principles or practices of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T21:05:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:19:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating projects from Codeplex to GitHub, with no direct mention or discussion of the Agile Product Operating Model or its principles. While it touches on aspects of workflow and tools, it does not align with the core themes of APOM, such as product management or agile methodologies. The depth of discussion is limited to practical migration steps, lacking any strategic or conceptual insights related to agile product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -406,11 +403,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T21:05:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:19:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, focusing on tools and methods for the migration rather than Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the process of migrating projects from Codeplex to GitHub, which does not directly address Continuous Delivery principles or practices. While it mentions tools and workflows, it lacks discussions on automation, incremental improvements, or user feedback, which are core to Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1446,6 +1446,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the process of migrating a repository from Codeplex to GitHub, focusing on technical steps and tools used for the migration. There is no mention of integrating testing, security, or compliance earlier in the software development lifecycle, which are core aspects of the Shift-Left Strategy. The discussion lacks depth in relation to the principles or benefits of the Shift-Left approach, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:19:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating projects from Codeplex to GitHub, with no explicit discussion on Continuous Improvement principles. While there are mentions of tools and methods, they do not align with the core themes of Continuous Improvement, such as fostering a culture of experimentation or data-driven decision-making. The depth of discussion is limited to practical steps without reflecting on broader improvement strategies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:19:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating projects from Codeplex to GitHub, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on tools and methods, it lacks alignment with the core themes of shared objectives and strategic alignment, and does not provide depth on how these processes connect to organisational performance or team collaboration.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:19:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating projects from Codeplex to GitHub, with little to no discussion on competence, continuous learning, or skill development. While it touches on the use of tools and methods, it does not delve into the importance of competence in Agile or DevOps contexts, nor does it explore strategies for fostering a culture of competence. The discussion is more about practical steps and experiences rather than the foundational principles of competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:19:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 20,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the process of migrating projects from Codeplex to GitHub, discussing specific tools and methods for this migration. It does not mention or align with the principles of the One Engineering System, such as standardisation, integration of tools across teams, or best practices for software development environments. The discussion is centred around personal experiences and technical steps rather than the broader framework of 1ES.",
     "level": "Ignored"
   }
 }

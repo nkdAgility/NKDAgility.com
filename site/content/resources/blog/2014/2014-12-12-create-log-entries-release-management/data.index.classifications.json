@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T23:30:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:30:52",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to log entries in Release Management and does not focus on Evidence-Based Management principles or practices.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on technical aspects of creating log entries in Release Management using PowerShell, with no direct mention of Evidence-Based Management principles or metrics. While it discusses the importance of logging for deployment processes, it does not align with the core themes of EBM such as data-informed decision-making or outcome management. The discussion lacks depth regarding EBM concepts, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,15 +133,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:37:05",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T21:30:31",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses the creation of log entries in Release Management, which is relevant to DevOps practices, particularly in the context of deployment and release pipelines. However, it lacks explicit mentions of broader DevOps principles such as CI/CD, automation, or cultural shifts. While it touches on the importance of logging in deployment processes, the discussion is more focused on specific technical issues rather than a comprehensive exploration of DevOps as a whole.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on creating log entries in Release Management using PowerShell, which is a specific technical task rather than a broader discussion on DevOps principles. While it touches on aspects of deployment processes, it lacks a comprehensive exploration of DevOps philosophy, practices, or cultural shifts. The mention of deployment and logging is relevant but does not align closely with the core themes of collaboration, automation, or shared accountability central to DevOps. Therefore, the confidence score reflects a low alignment with the DevOps category.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -338,22 +341,16 @@
     "reasoning": "Content primarily discusses technical issues related to creating log entries in Release Management and does not focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T23:31:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses personal experiences and technical issues related to creating log entries in Release Management, without a clear focus on the principles or implementation of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T23:31:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:30:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Release Management and scripting, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on creating log entries in Release Management using PowerShell, which is a technical topic related to deployment processes. There are no direct mentions of the Agile Product Operating Model or its principles. The discussion does not align with the core themes of APOM, such as product management practices or agile methodologies. The depth of discussion is also minimal, as it does not explore any aspects of agile product delivery or organisational effectiveness.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -427,14 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T04:10:25",
+    "calculated_at": "2025-03-21T21:30:49",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses aspects of creating a release pipeline and logging during deployment, which are relevant to Continuous Delivery. However, it lacks a comprehensive exploration of Continuous Delivery principles, practices, or methodologies. The focus is more on personal experiences and troubleshooting specific issues rather than a structured discussion on Continuous Delivery as a whole.",
+    "reasoning": "The content discusses creating log entries in Release Management, which is tangentially related to Continuous Delivery practices. However, it lacks a direct focus on Continuous Delivery principles, such as automation, rapid feedback, or incremental improvements. The discussion is more about troubleshooting and scripting in PowerShell rather than exploring the broader concepts of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1494,6 +1491,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses personal experiences and technical challenges related to creating log entries in Release Management, without any explicit mention or focus on the Shift-Left Strategy. It lacks alignment with the core themes of integrating testing, security, or compliance early in the development process, and does not provide depth on the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:30:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical issues related to creating log entries in Release Management using PowerShell. While it touches on the importance of logging for deployment processes, it does not explicitly discuss Continuous Improvement principles or strategies. The discussion lacks depth in terms of empirical evidence, data-driven decision-making, or fostering a culture of experimentation, which are key aspects of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:30:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical issues related to creating log entries in Release Management using PowerShell. It does not discuss Common Goals, Agile, or DevOps principles. While it touches on deployment processes, it lacks any mention of shared objectives or alignment with organisational strategy, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:30:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical issues related to creating log entries in Release Management using PowerShell. While it touches on the importance of logging for deployment success, it does not explicitly discuss continuous learning, skill development, or the broader implications of competence in Agile or DevOps environments. The mention of logging could be seen as a secondary aspect of competence, but the overall discussion lacks depth and direct references to the core themes of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:30:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on creating log entries in Release Management using PowerShell, which does not directly discuss the One Engineering System framework or its principles. While it touches on deployment processes, it lacks explicit references to integration, standardisation, or best practices related to 1ES. The discussion is more about personal experiences and technical challenges rather than a structured analysis of 1ES concepts.",
     "level": "Ignored"
   }
 }

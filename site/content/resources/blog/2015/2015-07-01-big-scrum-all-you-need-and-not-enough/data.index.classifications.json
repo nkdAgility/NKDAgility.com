@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T21:55:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:22:28",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses scaling Scrum and Agile practices without a clear focus on Evidence-Based Management principles or empirical data-driven decision-making.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses scaling Scrum and the challenges associated with it, which does not directly address Evidence-Based Management principles. While there are mentions of delivering value and technical excellence, the focus remains on Scrum practices rather than empirical evidence or data-informed decision-making.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T21:56:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:22:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on scaling Scrum, which is a specific agile methodology, rather than discussing DevOps principles or practices. While there are mentions of collaboration and communication, these are framed within the context of Scrum rather than the broader DevOps philosophy. The depth of discussion on DevOps-related topics is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -338,23 +344,17 @@
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on scaling Agile methodologies rather than Systems Thinking principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T21:56:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on scaling Scrum rather than the principles of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T21:22:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses scaling Scrum and the importance of professional teams and practices, which are relevant to Agile principles, but it primarily focuses on Scrum rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses scaling Scrum, which is a specific agile framework, rather than the broader Agile Product Operating Model. While it touches on principles of agility and the need for professional teams, it lacks a direct focus on product management principles and the core themes of the Agile Product Operating Model. The depth of discussion on scaling practices is notable, but it does not sufficiently align with the APOM framework.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -427,11 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T21:57:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:22:25",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on scaling Scrum rather than Continuous Delivery principles.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses scaling Scrum and the challenges associated with it, which is not directly related to Continuous Delivery. While there are mentions of practices that could contribute to software delivery, the focus is on Scrum principles rather than Continuous Delivery practices. The depth of discussion on Continuous Delivery concepts is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1536,6 +1539,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling Scrum and the importance of professional teams and communication in agile practices. It does not explicitly mention the Shift-Left Strategy or its principles, benefits, or techniques. The focus is on Scrum methodologies rather than integrating testing, security, or compliance earlier in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:22:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses scaling Scrum and the importance of embodying Agile values and principles, which aligns with Continuous Improvement. However, it primarily focuses on Scrum practices rather than a broader discussion on Continuous Improvement methodologies or strategies. The mention of 'technical excellence' and 'delivering value faster' hints at improvement but lacks depth in empirical evidence or specific Continuous Improvement frameworks.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:22:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses scaling Scrum and the importance of professional teams, which indirectly relates to the concept of Common Goals. However, it primarily focuses on the challenges and practices of scaling rather than explicitly addressing shared objectives or alignment within teams. The mention of values and principles of Agile suggests some alignment, but the depth of discussion on Common Goals is limited.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:22:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the necessity of having 'Professional Teams' and the importance of embodying Agile values and principles, which directly relates to competence. It highlights the need for continuous improvement and skill development in the context of scaling Scrum, aligning well with the core themes of competence. The depth of discussion is substantial, as it covers the challenges of scaling and the importance of technical excellence, but it could benefit from more explicit strategies for fostering a culture of competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:22:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on scaling Scrum and does not directly address the principles or components of the One Engineering System. While it discusses challenges in software development and the need for professional teams, it does not align with the core themes of integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

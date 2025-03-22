@@ -38,8 +38,7 @@ tags:
 - Software Development
 - Azure Repos
 - Internal Developer Platform
-categories:
-- DevOps
+categories: []
 preview: nakedalm-experts-visual-studio-alm-27-27.png
 
 ---

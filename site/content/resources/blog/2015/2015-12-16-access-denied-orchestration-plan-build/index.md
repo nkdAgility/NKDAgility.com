@@ -38,8 +38,7 @@ tags:
 - Practical Techniques and Tooling
 - Azure Repos
 - Pragmatic Thinking
-categories:
-- DevOps
+categories: []
 preview: clip_image004-4-4.png
 
 ---

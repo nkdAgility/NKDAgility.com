@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T23:51:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:33:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of moving an Azure VM to a virtual network, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for moving an Azure VM to a virtual network, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and provides minimal depth on any related topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T04:14:51",
+    "calculated_at": "2025-03-21T21:33:20",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 50.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the technical steps for moving an Azure VM to a virtual network, which is a specific operational task rather than a broader discussion on DevOps principles or practices. While it touches on aspects of cloud infrastructure management, it lacks explicit mentions of DevOps concepts such as CI/CD, automation, or cultural shifts. The depth of discussion is moderate, providing detailed steps but not addressing the collaborative or process-oriented aspects of DevOps.",
+    "reasoning": "The content primarily focuses on the technical steps for moving an Azure VM to a virtual network, which is more aligned with cloud infrastructure management than the broader DevOps philosophy. While it touches on aspects of configuration and setup that could relate to DevOps practices, it lacks explicit discussions on collaboration, automation, or shared accountability, which are core to the DevOps ethos. The depth of discussion is limited to procedural instructions without engaging in the cultural or strategic elements of DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -317,22 +320,16 @@
     "reasoning": "Content primarily discusses the technical process of moving an Azure VM to a virtual network, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T23:52:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of moving an Azure VM to a virtual network, which is not related to the principles or practices of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T23:52:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:33:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of moving an Azure VM to a virtual network, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical instructions for moving an Azure VM to a virtual network, with no mention or discussion of Agile methodologies, product management principles, or the Agile Product Operating Model. It does not align with any of the key topics outlined in the category description.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +400,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T23:52:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:33:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of moving an Azure VM to a virtual network, which is not directly related to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical steps for moving an Azure VM to a virtual network, which does not directly address Continuous Delivery principles or practices. While there is a mention of 'Release Management', it is not explored in the context of Continuous Delivery. The discussion lacks depth on automation, rapid feedback, or cultural aspects related to Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1446,6 +1446,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the technical steps for moving an Azure VM to a virtual network, with no explicit mention of the Shift-Left Strategy or its principles. While there is a brief mention of configuration, it does not align with the core themes of integrating testing, security, or compliance early in the development process. The discussion lacks depth regarding Shift-Left practices, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:33:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical guide for moving an Azure VM to a virtual network, with no explicit discussion of Continuous Improvement principles. While there is a mention of optimising setup for better performance, it lacks depth in exploring continuous improvement methodologies, empirical evidence, or a culture of experimentation. The content does not align with the core themes of Continuous Improvement, making it unsuitable for this classification.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:33:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for moving an Azure VM to a virtual network, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on aspects of configuration and setup, it lacks any connection to shared objectives, team alignment, or strategic goals, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:33:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical guide for moving an Azure VM to a virtual network, lacking explicit discussions on competence, continuous learning, or skill development. While it touches on the process of configuring a virtual network, it does not delve into the importance of competence in Agile or DevOps contexts, nor does it provide depth on fostering a culture of competence or inspecting and adapting skills over time.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:33:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on a technical guide for moving an Azure VM to a virtual network, which does not relate to the principles or discussions surrounding the One Engineering System. There are no direct mentions of 1ES, and the content lacks alignment with its core themes such as integration of tools or standardisation of processes. The depth of discussion is limited to specific Azure configurations, further distancing it from the 1ES framework.",
     "level": "Ignored"
   }
 }

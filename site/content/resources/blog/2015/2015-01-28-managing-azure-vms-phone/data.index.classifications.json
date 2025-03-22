@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T23:01:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:26:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses managing Azure virtual machines and does not focus on Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on managing Azure virtual machines using a mobile application, with no explicit discussion of Evidence-Based Management principles. While it touches on cost-saving and efficiency, it lacks a structured approach to data-informed decision-making or empirical evidence, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T04:03:41",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "calculated_at": "2025-03-21T21:26:37",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses managing Azure virtual machines, which relates to operational aspects of DevOps, but it lacks a focus on broader DevOps principles such as CI/CD, automation, or cultural shifts. While it mentions tools and processes for managing VMs, it does not delve into the integration of development and operations or the collaborative practices that define DevOps.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on managing Azure virtual machines through a mobile application, which is more aligned with cloud management than the core principles of DevOps. While it touches on automation through PowerShell scripts and mentions cloud services, it lacks a comprehensive discussion on DevOps practices such as collaboration, shared accountability, or continuous improvement. The mention of Azure and VM management is relevant but does not delve into the cultural or philosophical aspects of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,22 +332,16 @@
     "reasoning": "Content primarily discusses managing Azure virtual machines and the use of a mobile application for this purpose, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T23:02:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses managing Azure virtual machines and does not focus on the principles or implementation of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T23:02:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:26:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses managing Azure virtual machines and does not relate to Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on managing Azure virtual machines using a mobile application, with no direct mention of Agile methodologies, product management principles, or the Agile Product Operating Model. While there is a brief reference to ALM (Application Lifecycle Management), it does not delve into the core themes of APOM, such as transitioning to a product ethos or continuous delivery. The discussion lacks depth and relevance to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -421,11 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T23:02:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:26:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses managing Azure virtual machines and does not focus on Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on managing Azure virtual machines through a mobile application, which does not directly address Continuous Delivery principles or practices. While it touches on aspects of cloud management, it lacks explicit discussions on automation, testing, or deployment strategies that are central to Continuous Delivery. The mention of managing VMs is more about operational efficiency rather than the delivery of software in reliable cycles.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1476,6 +1476,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses managing Azure virtual machines through a mobile application, focusing on operational aspects rather than integrating testing, security, or compliance early in the software development lifecycle. There are no direct mentions of Shift-Left principles, and the discussion lacks depth in relation to the category's core themes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:26:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on managing Azure VMs using a mobile application, with no explicit discussion on Continuous Improvement principles. While there are mentions of efficiency and cost-saving, these are not framed within a Continuous Improvement context. The content lacks depth in discussing strategies, empirical evidence, or a culture of experimentation, which are essential for the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:26:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on managing Azure VMs using a mobile application, with no explicit discussion of Common Goals, Agile, or DevOps principles. While it touches on project management and training, it lacks depth and alignment with the core themes of shared objectives and strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:26:45",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly touches on training and managing Azure VMs, which implies some level of competence in using cloud services. However, it lacks a focused discussion on continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The primary emphasis is on the functionality of the Mobile Azure Manager app rather than on developing professional capabilities or fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:26:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on managing Azure virtual machines using a mobile application, which does not align with the core principles of the One Engineering System. While there are mentions of software development practices, they are not central to the discussion, and the content lacks depth regarding integration, standardisation, or the broader implications of 1ES.",
     "level": "Ignored"
   }
 }

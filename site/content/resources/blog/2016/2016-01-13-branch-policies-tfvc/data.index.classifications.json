@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T21:22:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:20:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses branch policies and technical implementation details related to TFVC, without a focus on evidence-based management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses branch policies for TFVC and does not explicitly mention Evidence-Based Management or its key topics. While there are elements of process improvement and quality checks, they are not grounded in empirical evidence or metrics related to EBM. The focus is on technical implementation rather than data-informed decision-making.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:34:37",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 25,
-    "ai_depth": 20,
+    "calculated_at": "2025-03-21T21:20:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses branch policies in TFVC, which relates to version control practices in a DevOps context. It mentions the need for automation in applying policies and highlights the importance of code reviews and work items, aligning with DevOps principles. However, the focus is primarily on specific implementation details rather than broader DevOps practices, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses branch policies for TFVC, which is more focused on source control management rather than the broader principles of DevOps. While there are mentions of improving code quality and implementing checks, these aspects do not fully align with the core themes of DevOps such as collaboration, automation, and shared accountability. The discussion lacks depth in terms of DevOps culture and practices, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -181,11 +184,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T22:59:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:20:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on branch policies for TFVC and managing code reviews rather than discussing Continuous Delivery principles and practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses branch policies for TFVC, focusing on code quality and development processes rather than Continuous Delivery principles. While it touches on aspects like code reviews and work item requirements, it lacks a direct focus on Continuous Delivery practices such as automation, rapid feedback, or incremental improvements. The discussion is more about managing code quality in a version control system than about the broader Continuous Delivery framework.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1201,11 +1207,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T08:56:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:20:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses branch policies for TFVC and does not focus on Agile principles or product value delivery.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses branch policies for TFVC and does not address the Agile Product Operating Model or its principles. While it touches on aspects of development processes, it lacks a focus on product management, agile methodologies, or the transition from project to product ethos, which are central to the APOM framework.",
     "level": "Ignored"
   },
   "Products and Books": {
@@ -1245,15 +1254,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses branch policies in TFVC and procedures for managing source control, which are not aligned with the principles of BetaCodex.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T08:56:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses branch policies for TFVC and does not focus on the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -1488,6 +1488,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses branch policies and their implementation in a source control system, which is related to software development processes. However, it does not explicitly mention the Shift-Left Strategy or its core principles. While there are elements of proactive measures (like code reviews and work item requirements) that could align with Shift-Left practices, the focus is primarily on branch management rather than integrating testing, security, or compliance earlier in the development lifecycle. Therefore, the confidence score reflects a low alignment with the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:20:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the implementation of branch policies in TFVC, which can contribute to improving code quality and streamlining development processes. However, it lacks a strong focus on Continuous Improvement principles such as empirical evidence, a culture of experimentation, or systematic strategies for integrating improvements into organisational processes. While there are mentions of feedback and iterative enhancements, the overall discussion is more about technical implementation rather than a broader commitment to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:20:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical aspects of implementing branch policies in TFVC, with little to no direct mention of Common Goals or their significance in Agile or DevOps. While there are elements of collaboration and process improvement, they are not framed within the context of shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:20:42",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 50,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the implementation of branch policies in TFVC, which indirectly relates to competence by emphasising the expectation of due diligence and competence from developers. However, the primary focus is on technical implementation rather than a deep exploration of competence as a principle in Agile or DevOps. The mention of competence is brief and not the main theme, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:20:44",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on branch policies for TFVC and does not explicitly discuss the One Engineering System framework or its principles. While there are mentions of improving code quality and streamlining development processes, these are not directly tied to the integration and standardisation of engineering practices as outlined in the 1ES category. The discussion lacks depth regarding the core themes of 1ES, such as collaboration across teams or best practices for implementing a unified engineering system.",
     "level": "Ignored"
   }
 }

@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T23:38:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:31:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on setting up a release management environment in Azure, with no clear discussion on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical aspects of setting up a release management environment in Azure, with no explicit discussion of Evidence-Based Management principles. While it mentions Application Insights, which could relate to data collection, it does not connect this to empirical decision-making or value delivery metrics as outlined in the EBM category. The discussion lacks depth and does not align with the core themes of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,14 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:41:56",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15,
-    "ai_alignment": 35,
-    "ai_depth": 30,
+    "calculated_at": "2025-03-21T21:31:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on creating a standard environment for release management in Azure, which aligns closely with DevOps principles such as automation, continuous delivery, and the use of tools like Visual Studio Online and Application Insights. It discusses the setup of environments, automated deployments, and the integration of various tools, which are key aspects of DevOps practices. The depth of discussion is substantial, providing detailed steps and considerations for configuring environments, although it could benefit from a more explicit discussion of cultural shifts and collaboration aspects in DevOps.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses creating a standard environment for Release Management in Azure, which aligns with DevOps principles such as automation and continuous deployment. However, it primarily focuses on specific tools and processes rather than the broader philosophy of DevOps. While there are mentions of automation and deployment, the depth of discussion on core DevOps concepts like collaboration, shared accountability, and cultural shifts is limited. Therefore, while it touches on relevant topics, it does not fully embody the essence of DevOps as a philosophy.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -332,22 +335,16 @@
     "reasoning": "Content primarily focuses on setting up a release management environment in Azure, discussing specific tools and configurations without addressing Systems Thinking principles or interconnectedness within organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T23:39:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on creating a standard environment for release management in Azure, discussing specific tools and configurations rather than the principles or integration aspects of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T23:39:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:31:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on setting up a release management environment in Azure, with no clear discussion on Agile principles or product-centric development.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating a standard environment for release management in Azure, discussing tools and processes related to deployment and configuration. It does not explicitly mention the Agile Product Operating Model or its principles, nor does it align with the core themes of transitioning to a product-oriented mindset or continuous delivery. The discussion is more technical and operational rather than strategic or product-focused, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -421,14 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-11T17:55:59",
+    "calculated_at": "2025-03-21T21:31:45",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 65.0,
-    "reasoning": "The content discusses setting up a standard environment for release management in Azure, which relates to Continuous Delivery practices. It mentions automated deployment and the use of tools like Visual Studio Online and Application Insights, indicating some alignment with CD principles. However, the focus is more on the setup process and specific tools rather than a comprehensive discussion of Continuous Delivery methodologies or strategies. The depth of discussion on CD concepts is limited, as it primarily describes the environment configuration rather than exploring the broader implications or practices of Continuous Delivery.",
+    "reasoning": "The content discusses creating a standard environment for Release Management in Azure, which is closely related to Continuous Delivery practices. It mentions automated deployment and the use of tools like Visual Studio and Application Insights, which are relevant to the automation aspect of Continuous Delivery. However, the discussion lacks depth in exploring the principles and benefits of Continuous Delivery itself, focusing more on the setup process rather than the broader implications and strategies associated with Continuous Delivery. Therefore, while it aligns with the category, it does not fully meet the criteria for a primary focus.",
     "level": "Secondary"
   },
   "Strategic Goals": {
@@ -1503,6 +1500,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on creating a standard environment for release management in Azure, detailing the setup and configuration of various tools and services. While it touches on aspects of deployment and application insights, it does not explicitly discuss integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy. The discussion lacks depth in addressing the proactive identification of issues or the benefits of early integration, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:31:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating a standard environment for Release Management in Azure, detailing technical steps and tools used. While there are mentions of streamlining processes and enhancing workflows, these are not explicitly tied to the principles of Continuous Improvement. The discussion lacks depth in terms of empirical evidence, data-driven decision-making, or a culture of experimentation, which are core to the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:31:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical details related to setting up a standard environment for Release Management in Azure, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on deployment processes and tools, it lacks a clear connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:31:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of setting up a standard environment for Release Management in Azure, with little emphasis on the concept of competence. While it touches on the use of tools and processes, it lacks a discussion on continuous learning, skill development, or the importance of competence in delivering quality outcomes. The depth of discussion is mainly procedural and does not explore the underlying principles of professionalism or quality delivery.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:31:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on creating a standard environment for Release Management in Azure, which is somewhat related to the integration of tools and processes. However, it lacks explicit discussions on the One Engineering System framework, its principles, or its impact on software quality and delivery timelines. The mention of standard environments and deployment processes aligns with the category but does not delve deeply into the core themes of 1ES, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

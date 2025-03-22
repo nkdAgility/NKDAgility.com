@@ -38,8 +38,7 @@ tags:
 - Modern Source Control
 - Azure Repos
 - Internal Developer Platform
-categories:
-- DevOps
+categories: []
 preview: nakedalm-experts-visual-studio-alm-26-26.png
 
 ---

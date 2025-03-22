@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T08:56:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:30:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical instructions for joining a machine to an Azure hosted domain controller, without any discussion related to Evidence-Based Management principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for joining a machine to an Azure-hosted domain controller, with no direct mention or discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and provides minimal depth on any related topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T08:56:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:29:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of joining a machine to an Azure-hosted domain controller, which does not align closely with core DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a technical guide for joining a machine to an Azure-hosted domain controller, which is more aligned with cloud infrastructure management than the core principles of DevOps. While it touches on aspects of network management and configuration, it lacks explicit discussions on collaboration, automation, or shared accountability that are central to DevOps. The content does not delve into the cultural or philosophical aspects of DevOps, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -311,22 +317,16 @@
     "reasoning": "Content primarily discusses technical steps for joining a machine to a domain in Azure, with no focus on Systems Thinking principles or concepts.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T08:56:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses how to join a machine to an Azure hosted domain controller, focusing on Azure network configuration rather than the principles or practices of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T08:56:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:29:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical details about joining machines to an Azure domain controller, which is unrelated to the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical instructions for joining a machine to an Azure-hosted domain controller, with no mention or discussion of Agile methodologies, product management principles, or any related concepts that align with the Agile Product Operating Model. It does not address any of the key topics outlined in the category description.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +397,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T09:56:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:30:01",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on joining a machine to an Azure hosted domain controller, which is unrelated to Continuous Delivery principles or practices.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on technical instructions for joining a machine to an Azure-hosted domain controller, which does not relate to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion lacks alignment with its core themes such as automation, rapid feedback, or software quality. The depth of discussion is limited to specific technical steps, making it irrelevant to the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1434,6 +1437,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the technical steps for joining a machine to an Azure-hosted domain controller, with no mention of testing, security, or compliance processes that are integral to the Shift-Left Strategy. It lacks any alignment with the core themes of the category, focusing instead on Azure VM configurations and domain management.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:29:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for joining a machine to an Azure-hosted domain controller. It does not discuss Continuous Improvement principles, nor does it reflect on processes or team effectiveness. The mention of simplifying setup could be tangentially related to improvement, but it lacks depth and direct relevance to the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:29:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for joining a machine to an Azure-hosted domain controller. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment. The mention of wanting to join machines to Azure Active Directory hints at a desire for efficiency but lacks depth and connection to the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:29:49",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on technical instructions for joining a machine to an Azure-hosted domain controller. While it touches on aspects of network management, it does not explicitly discuss competence, continuous learning, or skill development. The discussion lacks depth in relation to the principles of professionalism and quality delivery, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:29:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for joining a machine to an Azure-hosted domain controller, which does not align with the principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion lacks depth regarding integration, standardisation, or best practices related to software development frameworks.",
     "level": "Ignored"
   }
 }

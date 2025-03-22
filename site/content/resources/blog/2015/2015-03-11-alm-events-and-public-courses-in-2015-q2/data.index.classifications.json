@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T22:29:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:25:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses upcoming training events and personal experiences rather than Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on announcing training courses related to DevOps and Scrum, with no explicit discussion of Evidence-Based Management principles or metrics. While it mentions project management, it does not provide any empirical evidence or data-informed decision-making insights that align with the core themes of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:37:32",
-    "ai_confidence": 67.0,
-    "ai_mentions": 3,
-    "ai_alignment": 60.0,
-    "ai_depth": 70.0,
+    "calculated_at": "2025-03-21T21:25:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 65.0,
-    "reasoning": "The content discusses specific DevOps courses and mentions tools like Visual Studio ALM and TFS, which are relevant to DevOps practices. However, the primary focus is on scheduling and promoting training events rather than a deep exploration of DevOps principles or practices. While there are direct mentions of DevOps, the overall discussion lacks depth in terms of the core themes of DevOps, such as CI/CD, automation, and cultural shifts.",
+    "final_score": 61.0,
+    "reasoning": "The content mentions DevOps in the context of training courses, indicating a focus on skills development related to DevOps practices. However, the primary emphasis is on the scheduling of courses rather than a deep exploration of DevOps principles or practices. While there is some alignment with the category through the mention of continuous delivery and the integration of tools, the overall depth of discussion is limited, focusing more on logistics than on the philosophy or cultural aspects of DevOps.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -332,22 +335,16 @@
     "reasoning": "Content primarily discusses upcoming training events and courses related to ALM and Scrum, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T22:29:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses upcoming training events and personal experiences, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T22:29:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:25:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses upcoming training events and courses related to ALM and Scrum, without a focus on the Agile Product Operating Model or its principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on announcing training courses related to ALM, DevOps, and Scrum, without a significant discussion on the Agile Product Operating Model. While Scrum is mentioned, it is not explored in the context of product management principles or the APOM framework. The content lacks depth and does not align with the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -421,14 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T04:00:38",
+    "calculated_at": "2025-03-21T21:25:20",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
+    "ai_mentions": 3,
+    "ai_alignment": 15,
+    "ai_depth": 14,
     "non_ai_confidence": 20,
     "final_score": 31.0,
-    "reasoning": "The content primarily focuses on upcoming training events related to ALM and Scrum, with only a brief mention of a course on 'DevOps with Visual Studio ALM' that hints at continuous delivery concepts. However, it lacks a detailed discussion on the principles, practices, or methodologies of Continuous Delivery, making it more of an announcement rather than a focused discussion on the topic.",
+    "reasoning": "The content briefly mentions Continuous Delivery in the context of a course offering, but it primarily focuses on training events related to ALM, DevOps, and Scrum. While there is a mention of a course that addresses Continuous Delivery, the overall discussion lacks depth and does not explore the principles, practices, or benefits of Continuous Delivery in detail. The content is more about scheduling training events rather than a thorough exploration of Continuous Delivery concepts.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1485,6 +1482,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on scheduling public courses related to ALM and Scrum, with no explicit discussion of the Shift-Left Strategy or its principles. While it mentions DevOps and project management, it does not delve into integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:25:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on announcing training courses related to ALM, DevOps, and Scrum, with minimal reference to Continuous Improvement principles. While it mentions the potential for future courses based on demand, it lacks a detailed discussion on Continuous Improvement methodologies, empirical evidence, or strategies for fostering a culture of experimentation and learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:25:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on announcing training courses and events related to ALM, DevOps, and Scrum, without discussing the concept of Common Goals or their significance in Agile and DevOps frameworks. While it mentions Scrum and DevOps, it does not explore how these relate to shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:25:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on announcing training courses related to DevOps and Scrum, which implies a connection to skill development. However, it lacks a detailed discussion on the importance of competence, continuous learning, or strategies for fostering a culture of competence. While it mentions enhancing skills, it does not delve into the core themes of competence as defined in the category, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:25:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on announcing training courses related to ALM, DevOps, and Scrum, with no direct discussion of the One Engineering System framework or its principles. While it mentions methodologies like Scrum, it does not align with the core themes of 1ES, such as integration of tools or best practices for implementing a unified engineering system. The depth of discussion is minimal, as it mainly lists events without exploring their impact on software quality or delivery timelines.",
     "level": "Ignored"
   }
 }

@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T23:22:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:29:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of creating nested teams in Visual Studio ALM, without a focus on evidence-based management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on creating nested teams in Visual Studio ALM and does not discuss Evidence-Based Management principles or metrics. While it touches on agile processes, it lacks a direct connection to data-informed decision-making or empirical evidence, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,11 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T23:22:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:28:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses team structures and configurations in Visual Studio ALM, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating nested teams in Visual Studio ALM, which is more aligned with project management and agile methodologies rather than the core principles of DevOps. While it touches on team structures and configurations, it lacks discussions on collaboration, automation, or shared accountability that are central to DevOps. The mention of agile processes is secondary and does not delve into the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -335,25 +341,16 @@
     "reasoning": "Content primarily discusses the technical aspects of creating nested teams in Visual Studio ALM, focusing on configuration and management rather than exploring Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T23:22:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses creating nested teams in Visual Studio ALM and does not focus on the principles or implementation of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T04:08:37",
+    "calculated_at": "2025-03-21T21:29:01",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
     "final_score": 31.0,
-    "reasoning": "The content primarily discusses the technical aspects of configuring nested teams within Visual Studio ALM and TFS, focusing on team structures and project management tools rather than the Agile Product Operating Model itself. While it touches on team dynamics and project organisation, it lacks a direct discussion on Agile principles, value delivery, or product-centric development, which are core to the Agile Product Operating Model. The content is more aligned with traditional project management practices and does not provide substantial insights into Agile methodologies or their application in product development.",
+    "reasoning": "The content primarily discusses the technical aspects of creating nested teams in Visual Studio ALM, which is more focused on tool configuration rather than the Agile Product Operating Model itself. While it touches on agile processes, it lacks a direct discussion of APOM principles, such as transitioning to a product ethos or evidence-based management. The depth of discussion is limited to practical implementation without exploring the broader implications of APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -430,11 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T23:23:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:29:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses team structures and configurations in Visual Studio ALM, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses creating nested teams in Visual Studio ALM, focusing on team organisation and reporting within an agile context. While it touches on aspects of team management that could relate to software delivery, it does not explicitly address Continuous Delivery principles, practices, or benefits. The discussion lacks depth in Continuous Delivery topics such as automation, rapid feedback, or error reduction strategies, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1512,6 +1512,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the creation and management of nested teams within Visual Studio ALM, focusing on team structures and configurations rather than integrating testing, security, or compliance early in the software development lifecycle. There are no direct mentions of the Shift-Left Strategy, and the discussion lacks alignment with its core themes, such as proactive quality assurance or early issue identification.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:28:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on creating nested teams in Visual Studio ALM, which is more about technical implementation than Continuous Improvement. While it touches on aspects of team organisation and agile processes, it lacks a strong emphasis on the principles of Continuous Improvement, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The discussion does not provide substantial detail on Continuous Improvement strategies or frameworks, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:28:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the technical aspects of creating nested teams in Visual Studio ALM, with limited direct mention of Common Goals. While it touches on organisational initiatives and team structures, it lacks a thorough exploration of how these relate to shared objectives or strategic alignment within Agile or DevOps frameworks. The discussion is more about configuration and management rather than the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:28:56",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical aspects of creating nested teams in Visual Studio ALM, with little emphasis on the principles of competence, continuous learning, or skill development. While it discusses team structures and configurations, it does not delve into how these practices contribute to competence or professional growth within Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:28:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on creating nested teams in Visual Studio ALM, which is a specific tool rather than discussing the One Engineering System framework. While it touches on team structures and agile processes, it does not explicitly mention 1ES principles, integration of tools across teams, or best practices for implementing a unified engineering system. The discussion lacks depth in relation to the core themes of 1ES, making it only tangentially related.",
     "level": "Ignored"
   }
 }

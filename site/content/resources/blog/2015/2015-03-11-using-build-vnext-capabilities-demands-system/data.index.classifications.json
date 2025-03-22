@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T22:25:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:25:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical features of the Build vNext system and does not address Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the technical features of the Build vNext system in TFS 2015, focusing on its capabilities and demands without any reference to evidence-based management principles or metrics. There are no direct mentions of current value, time to market, or empirical decision-making, which are key aspects of Evidence-Based Management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:37:24",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 70.0,
-    "ai_depth": 60.0,
+    "calculated_at": "2025-03-21T21:25:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
-    "reasoning": "The content primarily discusses the Build vNext capabilities and demands system, which is a feature related to Continuous Integration (CI) and Continuous Delivery (CD) practices in DevOps. It provides a detailed explanation of how build agents can be configured and how capabilities and demands work within the context of a build system. This aligns well with the principles of DevOps, particularly in terms of automation and streamlining workflows. However, while it touches on relevant topics, it lacks broader discussions on cultural shifts, metrics, or case studies that would further enhance its alignment with the DevOps category.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of the Build vNext capabilities and demands system in TFS 2015, which is a specific tool rather than a discussion on the broader DevOps philosophy. While it touches on automation and build processes, it lacks a comprehensive exploration of DevOps principles such as collaboration, shared accountability, or cultural shifts. The discussion is more about the functionality of a tool rather than the integration of people, processes, and technology that characterises DevOps.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -326,22 +329,16 @@
     "reasoning": "Content primarily discusses the technical features and functionalities of the Build vNext system, without addressing Systems Thinking principles or their applications in organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T22:25:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the Build vNext capabilities and demands system, which is not directly related to the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T22:26:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:25:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical features of the Build vNext system and its configuration, without any focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the Build vNext capabilities and demands system in TFS 2015, focusing on technical aspects of build processes rather than the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or the core themes of APOM. The discussion is heavily centred on build system features and configurations, which do not align with the category's focus on product-oriented agile methodologies.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,14 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T04:00:07",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-21T21:25:42",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses the Build vNext capabilities and demands system, which relates to automation in the build process, a component of Continuous Delivery. However, it lacks explicit discussions on broader Continuous Delivery principles, practices, or methodologies. The focus is primarily on specific features of the build system rather than on Continuous Delivery as a whole, leading to a lower confidence score.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses the Build vNext capabilities and demands system, which relates to automation in the build process, a key aspect of Continuous Delivery. However, it primarily focuses on the technical details of the build system rather than the broader principles and practices of Continuous Delivery. While there are mentions of simplifying the build process and auto-detection, the discussion lacks depth on Continuous Delivery's core themes such as rapid feedback, cultural aspects, or case studies. Therefore, it aligns with the category but does not fully meet the criteria for a strong focus on Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1485,6 +1482,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the Build vNext capabilities and demands system without any explicit mention of the Shift-Left Strategy. While it touches on aspects of build processes, it does not integrate testing, security, or compliance earlier in the development lifecycle, which are core themes of the Shift-Left Strategy. The discussion lacks depth in relation to the proactive identification of issues or enhancing software quality, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:25:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical features of the Build vNext system in TFS 2015, detailing its capabilities and demands without discussing Continuous Improvement principles. While there are mentions of simplifying processes and enhancing features, these are not framed within the context of Continuous Improvement or its methodologies. The discussion lacks depth in terms of empirical evidence, culture of experimentation, or strategies for integrating Continuous Improvement into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:25:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of the Build vNext capabilities and demands system, detailing its features and functionalities. There are no explicit discussions on Common Goals, nor does it connect to the principles of Agile or DevOps in terms of shared objectives or strategic alignment. The content lacks depth in discussing how these features might contribute to team alignment or organisational performance, which are key aspects of the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:25:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical features of the Build vNext system and its implementation rather than discussing competence in terms of skill development or professionalism. While it touches on capabilities and demands, it does not explicitly address continuous learning, quality outcomes, or fostering a culture of competence, which are central to the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:25:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the Build vNext capabilities and demands system in TFS 2015, discussing specific features and functionalities without addressing the broader principles or integration aspects of the One Engineering System. While it touches on build processes, it does not align with the core themes of standardisation, integration, or best practices related to 1ES.",
     "level": "Ignored"
   }
 }
