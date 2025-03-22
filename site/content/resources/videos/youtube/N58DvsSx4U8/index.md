@@ -31,9 +31,9 @@ sitemap:
 tags:
 - Azure DevOps
 - Pragmatic Thinking
+- One Engineering System
 - Software Developers
 - Software Development
-- One Engineering System (1ES)
 - People and Process
 - Practical Techniques and Tooling
 - Operational Practices

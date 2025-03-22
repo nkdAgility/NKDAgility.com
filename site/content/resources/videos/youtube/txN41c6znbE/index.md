@@ -31,6 +31,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Competence
 - People and Process
 - Continuous Learning
 - Discovery and Learning
@@ -40,7 +41,6 @@ tags:
 - Agile Leadership
 - Sociotechnical Systems
 - Agile Strategy
-- Agile Philosophy
 resourceTypes:
 - video
 categories:

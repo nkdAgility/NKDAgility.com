@@ -655,14 +655,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-11T17:23:25",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T17:21:05",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses DevOps extensively, touching on aspects of Continuous Delivery, such as the importance of automation and the need for streamlined release processes. However, the primary focus remains on DevOps as a broader methodology rather than solely on Continuous Delivery principles. While it mentions Continuous Delivery in the context of ownership and quality, it does not delve deeply into the specific practices or methodologies that define Continuous Delivery, leading to a moderate confidence score.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses DevOps practices, which include elements of Continuous Delivery, such as frequent deliveries and automation. However, it primarily focuses on broader DevOps principles rather than delving deeply into Continuous Delivery specifics. While it mentions continuous delivery in the context of ownership and quality, the overall emphasis is on DevOps as a whole, making Continuous Delivery a secondary theme.",
     "level": "Secondary"
   },
   "Cross Functional Teams": {
@@ -829,11 +829,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T01:32:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:21:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses DevOps practices and challenges without a clear focus on Evidence-Based Management principles or empirical data-driven decision-making.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses DevOps practices and the importance of understanding the current state of an organisation, which aligns with the concept of empirical decision-making. However, it primarily focuses on DevOps rather than Evidence-Based Management specifically, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1484,15 +1487,6 @@
     "reasoning": "Content primarily discusses DevOps practices and challenges, with no clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:21:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses DevOps practices and bespoke solutions rather than the principles or implementation of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:15:46",
@@ -1569,6 +1563,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses DevOps practices and the importance of understanding current states and streamlining processes, which are relevant to the Shift-Left Strategy. However, it does not explicitly focus on integrating testing, security, or compliance earlier in the development lifecycle, which is central to the Shift-Left concept. The mention of compliance and quality assurance is more about general DevOps practices rather than a dedicated discussion on Shift-Left principles.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:20:53",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses various aspects of DevOps, including the importance of understanding the current state, streamlining practices, and fostering ownership, which aligns with the principles of Continuous Improvement. However, while it touches on these themes, the primary focus is on DevOps practices rather than Continuous Improvement itself. The depth of discussion on Continuous Improvement concepts is moderate, but it lacks a comprehensive exploration of the category's key topics.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:20:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of understanding the current state and aligning practices with specific needs, which touches on the concept of Common Goals. However, it primarily focuses on tailored DevOps practices and individual organisational needs rather than a unified strategic alignment across teams. The mention of ownership and team responsibility hints at alignment but lacks depth in discussing shared objectives or frameworks like OKRs that operationalise Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:21:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of understanding current practices and streamlining processes, which aligns with the concept of competence in terms of continuous improvement and skill development. However, while competence is a recurring theme, it is not the primary focus of the content, which centres more on DevOps practices and tools rather than explicitly on competence itself.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:21:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on DevOps practices and tailored solutions for organisations, with minimal direct mention of the One Engineering System (1ES). While it discusses streamlining processes and improving software delivery, it does not explicitly address the principles or components of 1ES, nor does it provide depth on its implementation or impact. The discussion is more aligned with general DevOps methodologies rather than the specific integration and standardisation of engineering processes outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

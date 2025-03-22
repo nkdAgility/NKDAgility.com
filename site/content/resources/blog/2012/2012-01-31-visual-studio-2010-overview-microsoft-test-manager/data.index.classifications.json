@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:18:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:29:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Microsoft Test Manager and its integration with Visual Studio and TFS, without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Microsoft Test Manager and its integration with Visual Studio 2010 and TFS, discussing testing processes rather than evidence-based management principles. There are no direct mentions of evidence-based practices or metrics related to current value, time to market, or empirical decision-making. The discussion lacks depth in relation to the core themes of Evidence-Based Management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T21:18:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:28:49",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Microsoft Test Manager and its integration with TFS and Visual Studio, without discussing DevOps principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on Microsoft Test Manager and its integration with Visual Studio and TFS, which are tools related to application lifecycle management (ALM) rather than the broader DevOps philosophy. While there are mentions of collaboration and efficiency in testing, the discussion lacks depth in core DevOps principles such as automation, shared accountability, or cultural shifts. The content does not explicitly address DevOps as a philosophy, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,7 +335,7 @@
     "reasoning": "Content primarily focuses on Microsoft Test Manager and its integration with TFS and Visual Studio 2010, without discussing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:19:02",
     "ai_confidence": 0,
@@ -340,11 +346,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T21:19:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:29:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Microsoft Test Manager and its integration with Visual Studio and TFS, with no clear discussion on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Microsoft Test Manager and its integration with Visual Studio 2010 and TFS, which is related to testing practices rather than the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or the core themes of APOM. The discussion is centred around testing tools and processes, lacking depth in agile methodologies or product-oriented mindsets.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,11 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:19:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:29:04",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Microsoft Test Manager and its integration with TFS and Visual Studio, without a focus on Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on Microsoft Test Manager and its integration with Visual Studio and TFS, which relates to testing practices but does not explicitly discuss Continuous Delivery principles or practices. While it mentions automation and testing, it lacks a comprehensive exploration of Continuous Delivery concepts such as rapid feedback, incremental improvements, or cultural aspects. The discussion is more about testing tools rather than the broader Continuous Delivery framework.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1470,6 +1482,42 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Microsoft Test Manager and its integration with TFS and Visual Studio, which relates to testing processes. However, it does not explicitly mention the Shift-Left Strategy or its principles. While it touches on testing and automation, it lacks a comprehensive discussion on integrating these processes earlier in the development lifecycle, which is central to the Shift-Left concept. The focus is more on the tool's functionality rather than the strategic approach of shifting testing left.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:28:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the features and functionalities of Microsoft Test Manager and its integration with Visual Studio 2010 and TFS. While it discusses testing efficiency, it does not explicitly mention Continuous Improvement principles or practices. The alignment with the core themes of Continuous Improvement is minimal, as the content lacks discussions on empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The depth of discussion is also limited, focusing more on technical aspects rather than strategic improvements or methodologies related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:28:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the features and functionalities of Microsoft Test Manager and its integration with Visual Studio 2010 and TFS. While it mentions goals related to testing efficiency and team collaboration, it does not explicitly discuss the concept of Common Goals within Agile or DevOps frameworks. The discussion lacks depth and does not connect to the foundational principles of aligning strategy with execution, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:28:57",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the features and functionalities of Microsoft Test Manager and its integration with Visual Studio 2010 and TFS. While it touches on aspects of testing efficiency, it does not explicitly discuss competence in terms of continuous learning, skill development, or the professional principles outlined in the category definition. The mention of 'value to Tester, Developers and other teams' is vague and does not delve into the core themes of competence, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

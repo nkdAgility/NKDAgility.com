@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:29:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:47:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of SharePoint migration and server setup, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical aspects of SharePoint migration and consolidation, with no explicit discussion of Evidence-Based Management principles or metrics. While it may touch on aspects of project management, it lacks a clear connection to data-informed decision-making or the core themes of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T18:29:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:47:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on SharePoint migration and server setup, with no clear discussion on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on SharePoint migrations and specific technical steps involved in the process, with no explicit discussion of DevOps principles or practices. While there are elements of collaboration and automation in the context of SharePoint, they are not framed within the broader DevOps philosophy. The content lacks depth in discussing key DevOps topics such as shared accountability, feedback loops, or continuous improvement.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -317,7 +323,7 @@
     "reasoning": "Content primarily focuses on the technical aspects of SharePoint migration and consolidation, lacking a discussion on Systems Thinking principles or interconnectedness within organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:30:04",
     "ai_confidence": 0,
@@ -328,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:30:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:47:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of SharePoint migration and consolidation, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on technical aspects of SharePoint migration and consolidation, with no direct mention or discussion of Agile methodologies, product management principles, or the Agile Product Operating Model. It lacks alignment with the core themes of APOM, such as continuous delivery, product-oriented mindset, or Evidence-Based Management. The depth of discussion is also minimal regarding any relevant agile practices, making it unsuitable for the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:17:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:47:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses SharePoint migration processes and configurations, with no direct relation to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on SharePoint migrations and technical steps for upgrading systems, with no explicit discussion of Continuous Delivery principles, practices, or benefits. While it touches on aspects of software deployment, it lacks a clear connection to the core themes of Continuous Delivery, such as automation, rapid feedback, or cultural aspects. The depth of discussion is limited to technical procedures without addressing the broader context of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1449,6 +1461,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating and consolidating SharePoint environments, with no explicit discussion of integrating testing, security, or compliance earlier in the development process. While it touches on some operational steps, it does not align with the core themes of the Shift-Left Strategy, which emphasises proactive measures in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:47:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of SharePoint migration and consolidation, with no explicit discussion of Continuous Improvement principles. While there are elements of process enhancement through the migration steps, the content lacks a clear commitment to ongoing reflection, adaptation, or empirical evidence that characterises Continuous Improvement. It does not address the culture of experimentation or learning, nor does it provide strategies for integrating Continuous Improvement into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:47:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical aspects of SharePoint migrations and consolidations, lacking any explicit discussion of Common Goals within Agile or DevOps frameworks. While it touches on project execution, it does not address shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:47:12",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical aspects of SharePoint migration and consolidation, with minimal direct discussion of competence or continuous skill development. While it touches on the need for expertise in handling complex migrations, it lacks a thorough exploration of competence as a foundational principle in Agile or DevOps methodologies. The depth of discussion is limited to procedural steps rather than fostering a culture of competence or professional growth.",
     "level": "Ignored"
   }
 }

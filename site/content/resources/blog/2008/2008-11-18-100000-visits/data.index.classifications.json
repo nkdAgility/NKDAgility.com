@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:08:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:34:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses website visit statistics and personal reflections, with no relevance to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on celebrating a milestone in site traffic and does not discuss any DevOps principles, practices, or cultural shifts. There are no direct mentions of DevOps concepts, and the discussion lacks depth in relation to the category. The content is more aligned with personal achievements and web analytics rather than the collaborative and automated processes central to DevOps.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:08:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:34:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses website visit statistics and personal reflections, with no relevance to Agile principles or product development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on celebrating a milestone in website traffic and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related topics. The content lacks alignment with the core themes of the category and provides no depth in discussing the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -166,11 +172,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:08:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:34:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses website visit statistics and personal reflections, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on celebrating a milestone in site traffic and provides metrics related to visits and page views. While it includes some data, it does not discuss Evidence-Based Management principles or concepts such as current value, time to market, or empirical decision-making. The metrics presented are more about personal achievement rather than strategic management or decision-making based on empirical evidence.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -239,7 +248,7 @@
     "reasoning": "The content discusses website visit metrics and provides some data on total visits, average per day, and page views. However, it lacks a focus on how these metrics can be used for continuous improvement or decision-making, which is central to the 'Metrics and Learning' category. The discussion is primarily anecdotal and does not delve into methodologies or frameworks related to Agile or DevOps, resulting in a low confidence score.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:09:04",
     "ai_confidence": 0,
@@ -883,11 +892,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:04:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:34:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses website visit statistics and personal achievement, with no relation to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on celebrating a milestone in site traffic and does not discuss Continuous Delivery principles, practices, or related topics. There are no direct mentions of Continuous Delivery, and the content lacks any depth or alignment with the category's core themes.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1419,6 +1431,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on website traffic statistics and personal reflections, with no direct mention or discussion of the Shift-Left Strategy or its principles. It lacks any alignment with the core themes of integrating testing, security, or compliance in software development, and does not provide any depth on the topic.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:34:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on celebrating a milestone of site visits and sharing statistics related to traffic and browser usage. While it provides some insights into site performance, it does not discuss Continuous Improvement principles, methodologies, or strategies. The mention of site traffic is more about personal achievement rather than a reflection on processes or improvements, which is essential for the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:34:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on celebrating a personal milestone of site visits, providing statistics and insights from a developer's perspective. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment. The mention of site traffic is tangential and lacks depth in relation to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:34:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on celebrating a milestone in site visits and discussing site traffic statistics. There are no direct mentions of competence, continuous learning, or skill development. The discussion lacks alignment with the core themes of competence, such as professionalism or quality delivery, and provides minimal depth on any related topics.",
     "level": "Ignored"
   }
 }

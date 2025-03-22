@@ -649,11 +649,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T11:10:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:09:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the importance of kindness and empathy in Agile practices, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses kindness and empathy within Agile practices, focusing on customer and team relationships rather than Continuous Delivery principles. While it touches on aspects of Agile that could relate to delivery, it does not explicitly address Continuous Delivery concepts such as automation, incremental improvements, or deployment strategies.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -823,11 +826,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T11:10:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:10:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of kindness and empathy in Agile practices, without a focus on empirical evidence or decision-making processes related to Evidence-Based Management.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses kindness and empathy in Agile but does not focus on evidence-based practices or metrics. While it touches on customer satisfaction and employee engagement, it lacks a strong emphasis on empirical decision-making or the specific metrics outlined in Evidence-Based Management.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1261,11 +1267,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T11:07:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:09:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and the importance of kindness in organisational culture, without any focus on DevOps practices or principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on kindness within Agile methodologies, discussing empathy and team collaboration rather than DevOps principles. While it touches on themes relevant to team dynamics, it does not explicitly address DevOps practices, automation, or the cultural shifts necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1447,15 +1456,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T20:32:22",
-    "ai_confidence": 62.0,
-    "ai_mentions": 3,
-    "ai_alignment": 70.0,
-    "ai_depth": 55.0,
+    "calculated_at": "2025-03-21T18:09:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses the importance of kindness in Agile, focusing on customer empathy and team collaboration, which aligns with the principles of the Agile Product Operating Model. However, it does not explicitly address the operational model itself or provide detailed strategies for product-centric development, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses kindness and empathy within Agile practices, focusing on customer and team interactions. However, it lacks a direct focus on the Agile Product Operating Model itself, such as product management principles or operational governance. While it touches on customer-centricity and team collaboration, it does not delve into the core themes of APOM, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1480,15 +1489,6 @@
     "final_score": 70.0,
     "reasoning": "The content discusses the importance of kindness, empathy, and collaboration within Agile frameworks, which aligns with the principles of social technologies. However, while it touches on themes of team dynamics and customer focus, it lacks a deeper exploration of methodologies or frameworks that promote collaboration and decision-making, which are central to the category. The focus is more on the virtues of kindness rather than a structured discussion of social technologies.",
     "level": "Secondary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:51:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the virtues of kindness in Agile practices, focusing on customer and employee relationships, rather than the principles or implementation of the One Engineering System.",
-    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1530,6 +1530,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses kindness in Agile practices, focusing on customer and team relationships rather than integrating testing, security, or compliance early in the software development lifecycle. While it touches on collaboration and empathy, it does not address the core principles or techniques of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:09:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses kindness and empathy in Agile, focusing on customer and team relationships. While it touches on themes of improvement in customer satisfaction and team collaboration, it lacks a direct focus on Continuous Improvement principles, such as empirical evidence, measurable advancements, or specific strategies for integrating Continuous Improvement into processes. The discussion is more about interpersonal dynamics than systematic improvement practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:09:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses kindness and empathy in Agile, which are important for team collaboration and customer focus. However, it does not explicitly address Common Goals or their significance in aligning strategy with execution. The focus is more on interpersonal relationships rather than shared objectives or strategic alignment, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:09:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses kindness and empathy in Agile, which are important for team dynamics and customer relations, but it does not focus on competence as defined in the category. While it touches on aspects of team collaboration and employee happiness, it lacks a direct emphasis on continuous learning, skill development, or the professional standards that underpin competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:09:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses kindness and empathy within Agile practices, focusing on customer and team relationships. It does not mention the One Engineering System or its principles, components, or implementation strategies, which are essential for alignment with the category.",
     "level": "Ignored"
   }
 }

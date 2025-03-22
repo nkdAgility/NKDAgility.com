@@ -646,11 +646,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T04:05:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:44:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Sprint planning and Scrum methodology, which are not directly related to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on sprint planning within the Scrum framework, which is a specific Agile practice. While it touches on aspects of planning and team alignment, it does not directly address Continuous Delivery principles, practices, or benefits. The discussion lacks depth in relation to Continuous Delivery, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -823,11 +826,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T04:05:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:44:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Sprint planning and its processes within Scrum and Kanban, without reference to evidence-based management principles or empirical data.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on sprint planning within the Scrum framework, discussing its importance and strategies. While it touches on aspects of team alignment and decision-making, it does not explicitly mention or align with the core themes of Evidence-Based Management, such as empirical decision-making or metrics for value delivery. The discussion lacks depth in relation to EBM principles, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1270,11 +1276,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T04:03:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Sprint planning and Scrum methodology, which are not central to DevOps principles.",
+    "calculated_at": "2025-03-21T19:44:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on sprint planning within the Scrum framework, which is a specific project management methodology. While it touches on concepts like alignment and flexibility, it does not engage with the core principles of DevOps, such as automation, shared accountability, or continuous improvement. The discussion is centred around Scrum practices rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1444,14 +1453,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T00:02:52",
-    "ai_confidence": 42.0,
-    "ai_mentions": 3,
-    "ai_alignment": 2,
-    "ai_depth": 3,
+    "calculated_at": "2025-03-21T19:44:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
-    "reasoning": "The content primarily discusses sprint planning, a specific Agile practice, rather than the broader Agile Product Operating Model. While it touches on concepts like alignment and flexibility in product development, it lacks a comprehensive exploration of product-centric strategies, cross-functional teams, or continuous feedback mechanisms that are central to the Agile Product Operating Model. The focus remains on the mechanics of sprint planning within Scrum, which is a narrower aspect of Agile methodologies.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on sprint planning within the Scrum framework, which is a specific agile practice rather than a discussion on the Agile Product Operating Model as a whole. While it touches on aspects of agile methodologies, it does not delve into the broader principles or integration with product management practices that define the APOM. The discussion lacks depth regarding the transition from project to product ethos and does not address key topics such as operational stability, governance, or evidence-based management, which are central to the APOM.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1470,15 +1479,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Sprint planning and Agile methodologies, which are not directly related to platform engineering.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:32:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Sprint planning and Scrum methodology, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1521,6 +1521,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on sprint planning within Agile methodologies, discussing roles, processes, and the importance of alignment and flexibility. It does not address the Shift-Left Strategy, which involves integrating testing, security, and compliance earlier in the development lifecycle. The discussion is centred around planning and execution rather than proactive quality assurance or early integration of critical processes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:44:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on sprint planning within the Scrum framework, discussing its importance and strategies. While it touches on aspects of alignment and flexibility, it does not explicitly address Continuous Improvement principles or provide a detailed exploration of its methodologies. The discussion is more about the mechanics of sprint planning rather than a commitment to ongoing improvement or empirical evidence, which are central to the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:44:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses sprint planning in Scrum, highlighting its importance in aligning team efforts and understanding objectives. While it touches on the significance of sprint goals and the alignment of tasks, it primarily focuses on the mechanics of sprint planning rather than explicitly discussing Common Goals as a foundational principle. The depth of discussion on alignment and commitment to goals contributes positively, but the overall focus remains on the planning process itself.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:44:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on sprint planning within the Scrum framework, discussing its importance and strategies. While it touches on aspects of team alignment and decision-making, it lacks a direct emphasis on continuous learning, skill development, or the broader implications of competence in Agile methodologies. The discussion is more about the mechanics of sprint planning rather than fostering a culture of competence or professional growth.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:44:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on sprint planning within the Scrum framework, discussing its importance and strategies. It does not mention the One Engineering System (1ES) or its principles, components, or implementation. The discussion is centred around Scrum and Kanban, which are unrelated to the core themes of 1ES, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

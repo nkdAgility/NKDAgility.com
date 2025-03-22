@@ -21,6 +21,7 @@ aliasesArchive:
 categories:
 - Scrum
 tags:
+- Competence
 - Continuous Learning
 - Discovery and Learning
 - Events and Presentations

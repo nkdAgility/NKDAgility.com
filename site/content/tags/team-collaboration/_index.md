@@ -23,6 +23,9 @@ headline:
   subtitle: Fostering effective teamwork and communication to drive shared ownership and achieve exceptional results.
   content: Cultivating a culture of collaboration that empowers teams to communicate effectively, share responsibilities, and leverage diverse perspectives. Posts should explore techniques for enhancing interpersonal dynamics, fostering trust, and utilising frameworks that support continuous improvement and adaptability in complex environments.
   updated: 2025-02-13T12:02:02Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

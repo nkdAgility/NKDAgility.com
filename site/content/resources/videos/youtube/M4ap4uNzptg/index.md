@@ -33,6 +33,7 @@ sitemap:
 tags:
 - Agile Values and Principles
 - Agile Philosophy
+- Continuous Improvement
 - Agile Leadership
 - People and Process
 - Continuous Learning
@@ -40,7 +41,6 @@ tags:
 - Agile Transformation
 - Organisational Culture
 - Organisational Agility
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

@@ -649,11 +649,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T20:34:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:59:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses misconceptions about the Scrum Master role and Scrum practices, which are not related to Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master within the Scrum framework, discussing misconceptions and accountabilities. While it touches on themes of agility and improvement, it does not directly address Continuous Delivery principles, practices, or the importance of automation and rapid feedback, which are central to the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -823,11 +826,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T20:34:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses misconceptions about the Scrum Master role and Scrum practices, without a focus on evidence-based management principles or empirical data.",
+    "calculated_at": "2025-03-21T16:59:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and addresses misconceptions about Scrum practices. While it touches on the importance of understanding principles and fostering agility, it does not explicitly discuss Evidence-Based Management or its key topics. The discussion lacks empirical evidence or metrics that are central to EBM, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1448,15 +1454,6 @@
     "reasoning": "Content heavily discusses the role and misconceptions of the Scrum Master within the context of Scrum and Agile methodologies, rather than focusing on the principles of Beta Codex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:04:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the Scrum Master role and misconceptions surrounding Scrum, which is unrelated to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:41:39",
@@ -1533,6 +1530,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master within the Scrum framework, focusing on misconceptions and the importance of understanding Scrum principles. It does not address the Shift-Left Strategy, which involves integrating testing, security, and compliance earlier in the software development lifecycle. The discussion is centred around Agile practices rather than the proactive measures associated with Shift-Left methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:59:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of a Scrum Master and the importance of understanding Scrum principles, which indirectly relates to Continuous Improvement. It highlights the need for Scrum Masters to foster adaptability and improvement within teams, aligning with the core themes of Continuous Improvement. However, the primary focus is on clarifying misconceptions about Scrum rather than a direct exploration of Continuous Improvement practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:59:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of a Scrum Master, discussing misconceptions and the importance of understanding Scrum principles. While it touches on the need for alignment with organisational goals, it does not explicitly discuss Common Goals as a primary focus. The discussion lacks depth in connecting these principles to broader strategic objectives, which is essential for a higher confidence score in the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:59:39",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the importance of competence in the role of a Scrum Master, highlighting how a lack of understanding can lead to dysfunction within teams. It aligns well with the core themes of competence by emphasising continuous learning, the need for a deep understanding of Scrum principles, and the impact of competence on team effectiveness. The depth of discussion is significant, covering misconceptions, key areas of focus, and the importance of shifting from mechanical practices to a principled approach. Overall, the content strongly centres on competence, justifying a high confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:59:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master within the Scrum framework, discussing misconceptions and accountabilities specific to that role. While it touches on themes of team dynamics and organisational context, it does not address the One Engineering System (1ES) framework, its principles, or its integration across teams. Therefore, it lacks direct relevance to the 1ES category.",
     "level": "Ignored"
   }
 }

@@ -24,6 +24,9 @@ headline:
   content: An Internal Developer Platform enhances software delivery by providing a unified environment for teams to manage the entire application lifecycle. Posts should explore topics such as workflow optimisation, infrastructure management, automation techniques, and collaboration strategies, fostering a culture of continuous improvement and efficiency.
   updated: 2025-02-24T13:04:48Z
 trustpilot: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

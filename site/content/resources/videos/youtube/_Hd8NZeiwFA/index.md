@@ -30,6 +30,7 @@ preview: https://i.ytimg.com/vi/_Hd8NZeiwFA/maxresdefault.jpg
 duration: 618
 isShort: false
 tags:
+- Competence
 - People and Process
 - Scrum Master
 - Scrum Team
@@ -39,7 +40,6 @@ tags:
 - Professional Scrum
 - Scrum Product Development
 - Team Performance
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

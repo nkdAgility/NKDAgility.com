@@ -23,6 +23,9 @@ headline:
   subtitle: Maximising product visibility and influence to secure a leading position in targeted market segments.
   content: Enhancing a product's visibility and influence within its market segment is essential for achieving a competitive edge. Posts should explore strategies for market penetration, customer engagement, brand positioning, and the impact of market dynamics on product success, drawing insights from industry thought leaders and frameworks.
   updated: 2025-02-13T12:03:53Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

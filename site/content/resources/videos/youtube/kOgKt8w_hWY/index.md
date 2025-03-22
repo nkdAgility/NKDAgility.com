@@ -27,6 +27,7 @@ duration: 35
 isShort: true
 tags:
 - Events and Presentations
+- Continuous Improvement
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,6 +35,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- DevOps
 - Social Technologies
 
 ---

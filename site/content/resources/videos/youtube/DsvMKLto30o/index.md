@@ -27,16 +27,16 @@ preview: https://i.ytimg.com/vi/DsvMKLto30o/maxresdefault.jpg
 duration: 788
 isShort: false
 tags:
+- Continuous Delivery
 - Software Development
 - Pragmatic Thinking
-- Continuous Delivery
+- Continuous Improvement
 - Product Delivery
 - Frequent Releases
 - Operational Practices
 - People and Process
 - Code and Complexity
 - Azure DevOps
-- Resilience and Change
 sitemap:
   filename: sitemap.xml
   priority: 0.6

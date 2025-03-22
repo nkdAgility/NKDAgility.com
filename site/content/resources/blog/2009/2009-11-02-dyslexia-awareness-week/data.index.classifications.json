@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:50:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:07:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and strengths related to dyslexia, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on the strengths of dyslexic developers and does not discuss Evidence-Based Management or its key topics. There are no direct mentions of empirical evidence or data-informed decision-making, and the discussion lacks depth in relation to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T01:50:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:07:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses dyslexia awareness and its implications for individuals, with no relevance to DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on the strengths of dyslexic developers and does not discuss any principles, practices, or cultural shifts related to DevOps. There are no direct mentions of DevOps concepts, and the discussion lacks any alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses the strengths of dyslexic individuals in programming and education systems, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:51:02",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:51:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:07:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses dyslexia awareness and its implications for developers, with no relevance to Agile Product Operating Model principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the strengths of dyslexic developers and does not mention or align with any principles of the Agile Product Operating Model. It lacks any discussion of agile methodologies, product management, or related frameworks.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:03:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:07:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on dyslexia awareness rather than Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on the strengths of dyslexic developers and does not discuss Continuous Delivery principles, practices, or related topics. There are no direct mentions of Continuous Delivery, and the themes presented are unrelated to software delivery practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1419,6 +1431,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content focuses on Dyslexia Awareness Week and the strengths of dyslexic developers, with no mention or discussion of the Shift-Left Strategy or its principles, benefits, or practices in software development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:07:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the strengths of dyslexic developers rather than discussing Continuous Improvement principles. While it touches on unique skills that could contribute to team effectiveness, it lacks explicit references to Continuous Improvement methodologies, empirical evidence, or strategies for fostering a culture of experimentation. The discussion does not align with the core themes of Continuous Improvement, and the depth of discussion is minimal.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:07:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the strengths of dyslexic developers and personal experiences related to dyslexia, which does not align with the principles of Common Goals in Agile and DevOps. While it briefly touches on skills that could be beneficial in a team context, it lacks explicit discussion of shared objectives, alignment, or strategic goals that are central to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:07:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the strengths of dyslexic developers, which indirectly relates to competence by highlighting unique skills that can enhance programming and problem-solving. However, it does not explicitly focus on continuous learning, skill development, or the professional implications of competence in Agile or DevOps contexts. The discussion is more about the advantages of a neurological condition rather than a structured exploration of competence as defined in Agile methodologies.",
     "level": "Ignored"
   }
 }

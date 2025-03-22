@@ -1,15 +1,15 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:28:27",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 50,
-    "final_score": 43.0,
-    "reasoning": "The content briefly mentions DevOps practices and expresses a willingness to discuss them, but the primary focus is on Scrum and agile methodologies. While there are references to metrics and scaling, which are relevant to DevOps, the overall discussion leans more towards agile practices rather than the integration of development and operations that characterises DevOps.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T21:04:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on scaling agility and Scrum methodologies, which are not directly aligned with the core principles of DevOps. While there is a brief mention of DevOps in the context of agility, it is not a primary focus. The discussion lacks depth in DevOps practices, automation, and shared accountability, which are essential to the DevOps philosophy.",
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -244,11 +244,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:04:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps and Agility without a focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on scaling agility and Scrum practices, with no direct mention of Continuous Delivery principles or practices. While it touches on aspects of agile methodologies, it does not delve into the specific themes of Continuous Delivery such as automation, rapid feedback, or deployment strategies. The discussion is more about agility in a broad sense rather than the disciplined software delivery practices that Continuous Delivery entails.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -378,15 +381,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses general topics related to DevOps and Agility, with a focus on Scrum and Azure DevOps, rather than specifically addressing Value Stream Management.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an open Q&A session on DevOps and Agility without a clear focus on the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1147,11 +1141,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a Q&A session with no clear alignment to the Agile Product Operating Model, discussing a broad range of topics including DevOps and Agility without specific emphasis on the product operating model.",
+    "calculated_at": "2025-03-21T21:04:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses scaling agility and Scrum practices, which are related to agile methodologies but do not specifically address the Agile Product Operating Model. While there are mentions of agile principles and practices, the focus is more on Scrum and large-scale team dynamics rather than the broader product-oriented mindset and principles outlined in the APOM. The depth of discussion on APOM-related topics is minimal, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1354,11 +1351,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:04:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily invites questions on a broad range of topics without a focus on evidence-based management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses scaling agility and Scrum practices, with only a brief mention of metrics. While it touches on the importance of metrics, it lacks a strong focus on evidence-based management principles, such as empirical decision-making or current value metrics. The discussion is more centred on agile frameworks rather than a data-informed approach to management.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1428,6 +1428,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling agility and Scrum practices without any explicit mention of the Shift-Left Strategy. While it touches on metrics and collaboration, it does not delve into integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:04:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses scaling agility and the importance of adapting practices for large-scale teams, which aligns with the principles of Continuous Improvement. However, it primarily focuses on Scrum and Nexus frameworks without deeply exploring Continuous Improvement methodologies or empirical evidence. The mention of metrics and adapting training formats hints at a commitment to improvement, but the overall depth and direct focus on Continuous Improvement principles are limited.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:04:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on scaling agility and practical aspects of Scrum and Nexus, with limited direct discussion on Common Goals. While it touches on collaboration and adapting practices for large teams, it lacks a clear emphasis on shared objectives or strategic alignment, which are central to the Common Goals category. The depth of discussion on the topic is also minimal, focusing more on personal experiences and event promotion rather than the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:04:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses scaling agility and the importance of understanding practices for large-scale teams, which touches on competence. However, it primarily focuses on Scrum fundamentals and metrics rather than explicitly addressing continuous learning or skill development. The depth of discussion on competence is limited, as it does not delve into strategies for fostering a culture of competence or the impact of competence on decision-making.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:04:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on scaling agility and Scrum practices, which are not directly related to the One Engineering System framework. While there are mentions of collaboration and adapting practices, the discussion does not centre on the integration and standardisation of engineering processes as defined by 1ES. The content lacks depth in addressing the principles or components of 1ES, and it does not provide relevant examples or case studies related to the framework.",
     "level": "Ignored"
   }
 }

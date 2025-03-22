@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:23:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:31:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum training and team dynamics rather than evidence-based management principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the Professional Scrum course and team dynamics rather than focusing on Evidence-Based Management principles. While there are mentions of team collaboration and value delivery, these are not grounded in empirical evidence or metrics that align with EBM. The discussion lacks depth in terms of data-informed decision-making and does not address the key topics outlined in the EBM definition.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,11 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T11:23:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:30:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum training and team collaboration, which are more aligned with Agile methodologies than with the core principles of DevOps. While there are mentions of team dynamics and collaboration, the focus is on Scrum practices rather than the broader DevOps philosophy, which includes automation, shared accountability, and continuous improvement. The discussion lacks depth in terms of DevOps-specific concepts, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -341,7 +347,7 @@
     "reasoning": "Content primarily discusses Scrum training and team dynamics without a clear focus on Systems Thinking principles or methodologies.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T11:24:03",
     "ai_confidence": 0,
@@ -352,12 +358,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T07:31:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum training and team dynamics, which are relevant to Agile practices, but it primarily focuses on the training experience rather than a comprehensive discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the Professional Scrum course and the dynamics of team collaboration, which are related to agile practices but do not explicitly focus on the Agile Product Operating Model. While there are mentions of Scrum roles and team interactions, the content lacks a direct discussion on the principles of APOM, such as transitioning to a product ethos or operational governance in product delivery. The depth of discussion on agile processes is present, but it does not sufficiently cover the broader themes of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -427,11 +436,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:25:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:31:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Professional Scrum practices and team organization, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum training and team collaboration rather than Continuous Delivery principles. While it touches on aspects of team dynamics and efficiency, it does not explicitly mention Continuous Delivery or its core themes such as automation, rapid feedback, or incremental improvements.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1537,5 +1549,41 @@
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum training and team dynamics without addressing the Shift-Left Strategy. While it touches on collaboration and team organisation, it lacks explicit references to integrating testing, security, or compliance early in the development process, which are core to the Shift-Left concept.",
     "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:30:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses a Professional Scrum course and the benefits of co-located training, which indirectly relates to Continuous Improvement through team collaboration and learning. However, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or detailed strategies for integrating these practices into organisational processes. The focus is more on the training experience rather than a structured approach to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:30:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the Professional Scrum course and the benefits of co-located training, which indirectly relates to the concept of Common Goals by highlighting team collaboration and efficiency. However, it lacks explicit discussions on shared objectives or strategic alignment, focusing more on training experiences and team dynamics rather than the foundational principles of Common Goals in Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:31:02",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the Professional Scrum course and the benefits of co-located training, which aligns with the importance of continuous learning and skill development in Agile environments. It mentions the improvement in teams' understanding of Scrum practices and their ability to deliver value, indicating a focus on competence. However, while it touches on these themes, the depth of discussion on strategies for fostering a culture of competence and inspecting competence over time is limited.",
+    "level": "Tertiary"
   }
 }

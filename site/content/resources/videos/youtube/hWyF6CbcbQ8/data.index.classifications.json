@@ -610,11 +610,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T20:30:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:59:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses data integrity issues related to DevOps migrations, without a clear focus on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on data integrity during DevOps migrations, which is tangentially related to Continuous Delivery but does not explicitly discuss its principles or practices. While it touches on aspects of migration that could relate to delivery processes, it lacks a direct focus on Continuous Delivery concepts such as automation, rapid feedback, or incremental improvements. The depth of discussion is more about data management than delivery practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -775,11 +778,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T20:30:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses data integrity issues related to DevOps migrations, without a focus on Evidence-Based Management principles or practices.",
+    "calculated_at": "2025-03-21T16:59:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on data integrity in DevOps migrations, discussing the balance between flexibility and fidelity. While it touches on the importance of assessing data needs and utilising tools, it does not explicitly mention Evidence-Based Management or its core themes. The discussion lacks depth in relation to empirical decision-making or metrics that align with EBM principles.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1361,15 +1367,6 @@
     "reasoning": "Content primarily discusses data integrity and DevOps migrations, with no clear focus on BetaCodex principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:03:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses data integrity and DevOps migrations, with no clear focus on the principles or components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:41:32",
@@ -1443,6 +1440,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on data integrity during DevOps migrations, discussing the balance between fidelity and flexibility. While it touches on aspects of testing and communication, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth in relation to integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:59:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on data integrity during DevOps migrations, discussing the balance between flexibility and fidelity. While it touches on aspects of process improvement and team effectiveness, it does not explicitly address Continuous Improvement principles or methodologies. The discussion lacks depth in terms of Continuous Improvement strategies and empirical evidence, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:59:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on data integrity during DevOps migrations, discussing technical aspects and strategies for successful transitions. While it touches on the importance of team communication and readiness, it does not explicitly address the concept of Common Goals or their significance in aligning strategy with execution. The discussion lacks depth in connecting these ideas to Agile or DevOps frameworks, resulting in a low confidence score for the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:59:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of data integrity in DevOps migrations, which indirectly relates to competence through the need for teams to understand and manage data effectively. However, it lacks direct mentions of continuous learning or skill development, and the depth of discussion on competence is minimal, focusing more on technical aspects of migration rather than the professional growth of teams.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:59:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on data integrity during DevOps migrations, discussing specific migration strategies and challenges. It does not mention the One Engineering System (1ES) framework or its principles, nor does it address integration or standardisation of engineering processes, which are core to the 1ES category.",
     "level": "Ignored"
   }
 }

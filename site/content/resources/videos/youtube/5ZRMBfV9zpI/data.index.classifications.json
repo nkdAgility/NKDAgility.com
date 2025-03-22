@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T10:51:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:38:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile methodologies, discussing training for Scrum Masters rather than DevOps principles. While there are mentions of collaboration and continuous improvement, these concepts are framed within the context of Scrum, which is not aligned with the core themes of DevOps. The discussion lacks depth regarding DevOps practices, automation, or shared accountability among teams, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -262,11 +265,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T20:38:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum training and the role of Scrum Masters, with no direct mention of Continuous Delivery principles or practices. While it touches on themes of continuous improvement and community support, these are not specifically aligned with Continuous Delivery. The discussion lacks depth regarding automation, rapid feedback, or delivery techniques, which are central to Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -400,15 +406,6 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-18T11:36:00",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
@@ -1207,11 +1204,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:38:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on training for Scrum Masters, which is a specific role within the Agile framework. While it discusses Agile principles and the importance of Scrum, it does not explicitly address the Agile Product Operating Model or its core themes such as product management, continuous delivery, or operational governance. The discussion is more centred on Scrum practices and training rather than the broader APOM framework, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1420,11 +1420,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:38:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum training and principles without a focus on evidence-based management practices or empirical decision-making.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on training for Scrum Masters and the importance of Scrum practices, with no direct mention of Evidence-Based Management principles or metrics. While it discusses community support and learning, it lacks empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1494,6 +1497,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum training and the role of Scrum Masters, with no direct mention of the Shift-Left Strategy or its principles. While it discusses Agile practices, it does not address integrating testing, security, or compliance earlier in the development process, which are key aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:38:38",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of training and community support for Scrum Masters, which aligns with the principles of Continuous Improvement. It mentions nurturing a culture of collaboration and continuous improvement, indicating a commitment to ongoing development. However, the primary focus is on training and Scrum roles rather than a detailed exploration of Continuous Improvement practices, which limits the depth of discussion.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:38:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on training for Scrum Masters and personal experiences rather than discussing Common Goals in Agile and DevOps. While it touches on the importance of collaboration and community, it lacks explicit discussions on shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:38:42",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses the importance of training and skill development for Scrum Masters, aligning well with the core themes of competence. It highlights continuous learning, community support, and the significance of understanding Scrum principles, which are essential for professional growth. The depth of discussion is substantial, covering various aspects of the workshop and its impact on participants' careers, thus reinforcing the focus on competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:38:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum training and the role of Scrum Masters, which is not aligned with the principles of the One Engineering System. While it discusses aspects of Agile and community building, it does not address the integration or standardisation of engineering processes, nor does it mention the One Engineering System framework or its components.",
     "level": "Ignored"
   }
 }

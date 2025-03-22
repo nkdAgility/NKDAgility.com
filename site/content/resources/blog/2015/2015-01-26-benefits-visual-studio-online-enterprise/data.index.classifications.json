@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T23:05:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:27:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the features and benefits of Visual Studio Online, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the features and benefits of Visual Studio Online (VSO) for enterprises, focusing on agility and cloud-based development. While it touches on aspects of data usage and customer feedback, it lacks a strong emphasis on empirical evidence or metrics that are central to Evidence-Based Management. The discussion is more about tool capabilities rather than a strategic approach to management based on data-informed decision-making.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:38:19",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T21:27:01",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
-    "reasoning": "The content discusses Visual Studio Online (VSO) and its features, which are relevant to DevOps practices such as Continuous Integration and Continuous Delivery. However, while it touches on automation and cloud services, the primary focus is on the benefits and features of VSO rather than a comprehensive exploration of DevOps principles or practices. The discussion lacks depth in cultural shifts and metrics typically associated with DevOps, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 43.0,
+    "reasoning": "The content discusses Visual Studio Online (VSO) and its benefits for enterprises, touching on aspects of agility, cloud-based development, and continuous delivery. However, while it mentions some DevOps-related concepts, such as continuous delivery and the need for cultural change, the primary focus is on the features and advantages of VSO rather than a comprehensive exploration of DevOps principles or practices. The discussion lacks depth in core DevOps themes like shared accountability, feedback loops, and automation, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -344,25 +347,16 @@
     "reasoning": "Content primarily discusses the features and benefits of Visual Studio Online, focusing on its technical aspects and organisational implementation rather than exploring Systems Thinking principles or methodologies.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T23:06:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and benefits of Visual Studio Online (VSO) rather than the principles or implementation of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T04:05:17",
+    "calculated_at": "2025-03-21T21:27:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 30,
     "final_score": 32.0,
-    "reasoning": "The content primarily discusses Visual Studio Online (VSO) and its features, focusing on technical aspects and deployment strategies rather than the Agile Product Operating Model. While it touches on agility and the need for cultural change, it lacks a comprehensive exploration of Agile principles, product-centric development, or continuous feedback mechanisms that are central to the Agile Product Operating Model.",
+    "reasoning": "The content discusses Visual Studio Online (VSO) and its benefits for enterprises, touching on aspects of agility and cloud-based development. However, it primarily focuses on the features and advantages of VSO rather than explicitly addressing the Agile Product Operating Model or its core principles. While there are mentions of agility and cultural change, the discussion lacks depth in relation to the specific themes of APOM, such as continuous delivery, product-oriented mindset, or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -439,14 +433,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T04:05:21",
+    "calculated_at": "2025-03-21T21:27:21",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 20,
     "final_score": 67.0,
-    "reasoning": "The content discusses Visual Studio Online (VSO) and its features, including build services and release management, which are relevant to Continuous Delivery. However, the primary focus is on the benefits and features of VSO rather than a deep exploration of Continuous Delivery principles or practices. While there are mentions of continuous deployment and agile practices, the overall discussion lacks the depth and direct focus on Continuous Delivery methodologies as outlined by experts like Jez Humble and Dave Farley.",
+    "reasoning": "The content discusses Visual Studio Online (VSO) and its features, including aspects of continuous delivery such as automated build services and release management. However, while it touches on continuous delivery principles, the primary focus is on the advantages of VSO for enterprises rather than a deep exploration of continuous delivery practices. The mention of continuous delivery is present but not the main theme, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Strategic Goals": {
@@ -1536,6 +1530,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the features and benefits of Visual Studio Online (VSO) for enterprise use, focusing on deployment, build services, and cloud integration. While there are mentions of agility and continuous delivery, it lacks a direct focus on integrating testing, security, or compliance earlier in the development lifecycle, which are core aspects of the Shift-Left Strategy. The discussion does not provide techniques, case studies, or metrics related to Shift-Left practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:27:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the benefits of Visual Studio Online (VSO) and its features that enhance agility and streamline processes, which aligns with the principles of Continuous Improvement. However, the primary focus is on the tool itself rather than a dedicated discussion on Continuous Improvement practices or methodologies. While there are mentions of agility and the need for cultural change, the depth of discussion on Continuous Improvement concepts is limited, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:27:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the features and benefits of Visual Studio Online (VSO) for enterprises, discussing its capabilities and advantages without explicitly addressing the concept of Common Goals in Agile or DevOps. While it touches on themes of agility and organisational change, it lacks a direct connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:27:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the benefits of Visual Studio Online (VSO) and its features, but it primarily focuses on the tool's capabilities rather than on the development of competence within teams or organisations. While there are mentions of agility and the need for cultural change, these are not deeply tied to the principles of competence as defined in the category. The discussion lacks a strong emphasis on continuous learning, skill development, or strategies for fostering a culture of competence, which are crucial for a higher confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:27:15",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses Visual Studio Online (VSO) and its benefits for enterprises, with a focus on features, agility, and cloud-based development. While it touches on aspects of integration and efficiency, it does not explicitly mention the One Engineering System framework or its principles. The discussion lacks depth in relation to 1ES, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   }
 }

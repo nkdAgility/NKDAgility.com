@@ -121,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T15:29:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:17:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the selection of an agile coach and focuses on Agile methodologies rather than DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile coaching and methodologies, discussing the importance of flexibility and adaptability in coaching rather than the core principles of DevOps. While there are some overlapping themes, such as collaboration and continuous improvement, the content does not explicitly address DevOps practices or principles, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -160,11 +163,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:35:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on selecting an agile coach and discusses agile methodologies without addressing Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T18:18:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the selection of an Agile coach and the importance of flexibility in Agile methodologies. While it touches on concepts like adaptability and continuous learning, it does not explicitly address Continuous Delivery principles, practices, or tools. The focus is on Agile coaching rather than the delivery aspect of software development.",
     "level": "Ignored"
   },
   "Test First Development": {
@@ -931,11 +937,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:35:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the qualifications and versatility of Agile coaches rather than focusing on the Agile Product Operating Model itself.",
+    "calculated_at": "2025-03-21T18:18:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the role of Agile coaches and their approaches, which is tangentially related to Agile practices but does not focus on the Agile Product Operating Model itself. While it touches on adaptability and the importance of tailoring Agile practices, it lacks a direct discussion of the APOM principles, such as product-oriented mindsets or continuous delivery. The content is more about selecting a coach than about the operational model itself.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1123,11 +1132,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:35:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on choosing an agile coach and does not discuss Evidence-Based Management principles or practices.",
+    "calculated_at": "2025-03-21T18:18:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the selection of an Agile coach and the importance of an agnostic approach to Agile methodologies. While it touches on adaptability and customisation, it lacks a direct focus on Evidence-Based Management principles such as empirical decision-making or metrics related to current value, time to market, or unrealised value. The discussion is more about Agile coaching than about using evidence to inform management decisions.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1182,15 +1194,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the selection criteria for an agile coach, focusing on methodologies rather than employee engagement.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:35:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the qualities of agile coaches rather than the One Engineering System framework or its implementation.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -1449,6 +1452,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the selection of an Agile coach and the importance of an agnostic approach to Agile methodologies. While it touches on adaptability and customisation, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The focus is on coaching rather than integrating testing, security, or compliance early in the development process, which is central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:17:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of selecting an Agile coach who is adaptable and committed to continuous learning, which aligns with the principles of Continuous Improvement. However, the primary focus is on the selection process for Agile coaches rather than on Continuous Improvement practices themselves. While there are mentions of adaptability and customization, the depth of discussion on Continuous Improvement techniques and strategies is limited.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:17:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of selecting an Agile coach who can tailor their approach to the unique needs of a business, which indirectly relates to the concept of aligning strategies with execution. However, it primarily focuses on the characteristics of Agile coaches rather than explicitly addressing Common Goals within Agile and DevOps frameworks. The discussion lacks depth in exploring how these tailored approaches connect to overarching strategic objectives, resulting in a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:17:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of hiring an Agile coach who embodies competence through adaptability, continuous learning, and a versatile approach to Agile methodologies. It highlights the need for coaches to be agnostic and capable of tailoring their methods to suit different business needs, which aligns well with the principles of competence in Agile. The depth of discussion on evaluating coaches based on their commitment to ongoing development and their ability to customise approaches further supports a strong alignment with the category.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:17:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the selection of Agile coaches and their methodologies, focusing on the importance of an agnostic approach rather than adhering to a single framework. While it touches on Agile practices, it does not directly address the principles or components of the One Engineering System, nor does it discuss integration or standardisation of engineering processes. Therefore, it has minimal relevance to the 1ES category.",
     "level": "Ignored"
   }
 }

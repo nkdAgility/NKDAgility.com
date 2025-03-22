@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:08:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:55:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges and practices of Scrum and Agile methodologies without a clear focus on Evidence-Based Management principles or empirical data-driven decision-making.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum and Agile methodologies, focusing on engineering practices rather than evidence-based management principles. While it touches on the importance of retrospectives and quality in software development, it lacks a direct emphasis on empirical decision-making or the specific metrics outlined in Evidence-Based Management. The discussion is more about improving Agile practices than about using data to inform management decisions.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -133,11 +136,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T19:08:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:55:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum and Agile methodologies, focusing on their insufficiencies and engineering practices, rather than DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum and Agile methodologies, focusing on engineering practices rather than the core principles of DevOps. While it touches on aspects like accountability and retrospectives, it does not delve into the broader DevOps philosophy or practices such as automation, continuous delivery, or cross-functional collaboration, which are central to DevOps discussions.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -335,7 +341,7 @@
     "reasoning": "Content heavily discusses Agile methodologies, Scrum roles, and engineering practices without a focus on Systems Thinking principles or interconnectedness within organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:09:30",
     "ai_confidence": 0,
@@ -346,12 +352,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T07:55:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices and the role of Scrum, but primarily focuses on engineering practices and the challenges of Scrum implementation rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum and its limitations, focusing on engineering practices rather than the broader Agile Product Operating Model. While it touches on Agile principles, it does not delve into product management or the specific themes of the APOM, such as continuous delivery or customer-centric value. The discussion is more about Scrum's effectiveness and engineering practices, which are not central to the APOM framework.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -424,11 +433,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T07:55:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on continuous delivery concepts in the context of Agile and Scrum, emphasizing the need for working software and prevention of technical debt, but primarily focuses on the roles and challenges within Scrum.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses Agile methodologies, particularly Scrum, and touches on the importance of engineering practices and technical debt. While it mentions 'continuous delivery' and the need for working software, the primary focus is on Scrum and Agile practices rather than Continuous Delivery itself. The discussion lacks depth in Continuous Delivery principles and practices, making it a secondary topic rather than a primary focus.",
     "level": "Tertiary"
   },
   "Strategic Goals": {
@@ -1537,5 +1549,41 @@
     "final_score": 29.0,
     "reasoning": "The content discusses Agile practices and the importance of good engineering practices, but it does not explicitly mention the Shift-Left Strategy or its principles. While there are references to preventing technical debt and improving software quality, the focus is primarily on Scrum and Agile methodologies rather than integrating testing and security earlier in the development process. Therefore, the alignment with the Shift-Left Strategy is limited.",
     "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:55:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the insufficiency of Scrum and highlights the importance of effective engineering practices, which indirectly relates to Continuous Improvement. It mentions the need for retrospectives and stopping the creation of technical debt, which are aligned with Continuous Improvement principles. However, the primary focus is on Scrum and Agile methodologies rather than a dedicated exploration of Continuous Improvement itself, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:55:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the insufficiency of Scrum and the importance of engineering practices, but it does not explicitly focus on Common Goals. While it touches on Agile principles and the need for effective practices, it lacks a clear connection to shared objectives or alignment within teams. The discussion is more about individual practices rather than collective goals, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:55:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 30,
+    "final_score": 73.0,
+    "reasoning": "The content discusses the importance of good engineering practices and the role of effective Scrum Masters in ensuring team success, which aligns with the principles of competence. However, while it touches on these themes, the primary focus is more on the critique of Scrum and Agile methodologies rather than a deep exploration of competence itself. The discussion on technical debt and the need for continuous improvement hints at competence but lacks a thorough examination of skill development and mastery.",
+    "level": "Secondary"
   }
 }

@@ -23,6 +23,9 @@ headline:
   subtitle: Resolving technical challenges to ensure optimal performance and reliability across software, hardware, and systems.
   content: Identifying and addressing technical issues across software, hardware, and systems to ensure seamless operation and user satisfaction. Posts should explore diagnostic techniques, root cause analysis, performance optimisation, and strategies for maintaining system integrity in complex environments.
   updated: 2025-02-13T12:01:20Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

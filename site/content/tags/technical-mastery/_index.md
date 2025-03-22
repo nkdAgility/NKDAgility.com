@@ -24,6 +24,9 @@ headline:
   subtitle: Elevating software craftsmanship through best practices in architecture, engineering, and continuous improvement methodologies.
   content: Cultivating expertise in software development through a focus on architectural integrity, engineering precision, and iterative enhancement. Posts explore methodologies for optimising workflows, fostering collaboration, and implementing effective feedback loops, while addressing the complexities of project management and team dynamics in a rapidly evolving technological landscape.
   updated: 2025-02-13T12:01:46Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

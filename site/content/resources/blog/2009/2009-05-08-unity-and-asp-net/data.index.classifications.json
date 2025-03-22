@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:48:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:21:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation of dependency injection in ASP.NET and WPF, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on implementing Dependency Injection in ASP.NET using Unity, which is a technical discussion about software development practices. It does not mention Evidence-Based Management or its key topics, nor does it provide any empirical evidence or metrics related to management decisions. The discussion is strictly about coding and technical implementation, lacking any alignment with the principles of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:48:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:21:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses dependency injection in ASP.NET and WPF applications, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on implementing Dependency Injection in ASP.NET using Unity, which is a specific technical implementation rather than a discussion on DevOps principles. While there is a mention of enhancing flexibility and efficiency, it does not address core DevOps themes such as collaboration, automation, or shared accountability. The discussion lacks depth in relation to DevOps practices and does not explore the cultural or philosophical aspects of DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -317,7 +323,7 @@
     "reasoning": "Content primarily discusses technical implementation of dependency injection in ASP.NET and WPF, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:49:15",
     "ai_confidence": 0,
@@ -328,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:49:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:21:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation of dependency injection in ASP.NET and WPF, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on implementing Dependency Injection in ASP.NET and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or the key topics outlined in the APOM definition. The content is technical and specific to software development practices, lacking any connection to the product-oriented mindset or continuous delivery principles associated with APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:21:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses dependency injection in ASP.NET applications, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on implementing Dependency Injection in ASP.NET, which is a software development practice but does not explicitly discuss Continuous Delivery principles or practices. While it touches on rapid deployment and testing cycles, it lacks a comprehensive exploration of Continuous Delivery concepts, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1452,6 +1464,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses dependency injection in ASP.NET and WPF applications, focusing on implementation details rather than integrating testing, security, or compliance earlier in the software development lifecycle. There are no explicit mentions of the Shift-Left Strategy, and the discussion lacks depth in relation to the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:21:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on implementing Dependency Injection in ASP.NET using Unity, which is a technical implementation detail rather than a discussion on Continuous Improvement. While it touches on flexibility and efficiency, it does not explicitly discuss Continuous Improvement principles, nor does it provide depth on related strategies or empirical evidence. The content lacks a clear connection to the core themes of Continuous Improvement, such as fostering a culture of experimentation or integrating improvement into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:21:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details of Dependency Injection in ASP.NET using Unity. It does not discuss or align with the principles of Common Goals in Agile or DevOps, such as shared objectives, strategic alignment, or team collaboration. The mention of business needs is too vague and does not connect to the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:21:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical implementation details of Dependency Injection in ASP.NET using Unity. While it touches on aspects of flexibility and efficiency, it does not explicitly discuss competence, continuous learning, or skill development. The discussion lacks depth in relation to the principles of professionalism and quality delivery, which are central to the competence category.",
     "level": "Ignored"
   }
 }

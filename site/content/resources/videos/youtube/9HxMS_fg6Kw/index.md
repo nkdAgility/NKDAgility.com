@@ -34,6 +34,7 @@ tags:
 - Software Development
 - Agile Philosophy
 - Pragmatic Thinking
+- Competence
 resourceTypes:
 - video
 categories: []

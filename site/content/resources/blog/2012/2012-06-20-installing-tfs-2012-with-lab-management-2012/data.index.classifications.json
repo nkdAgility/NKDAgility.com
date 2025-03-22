@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:25:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:20:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with no discussion of Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks any references to data-informed decision-making, current value metrics, or empirical decision-making, which are central to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:20:05",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 30,
+    "calculated_at": "2025-03-22T08:19:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, which are integral to DevOps practices. It discusses automation in deployment, integration of tools, and the importance of collaboration between development and operations teams. However, while it touches on key DevOps principles, it lacks a broader discussion on cultural shifts and metrics for measuring success, which slightly limits its depth of discussion.",
-    "level": "Secondary"
+    "final_score": 59.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, which are tools related to DevOps practices. However, it lacks a broader discussion on the DevOps philosophy, principles, and cultural shifts. While it touches on aspects of automation and integration, it does not delve into the collaborative and continuous improvement aspects that are central to DevOps. Therefore, while there is some relevance, the content does not fully align with the core themes of the DevOps category.",
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -326,7 +329,7 @@
     "reasoning": "Content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with no clear discussion on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:26:31",
     "ai_confidence": 0,
@@ -337,11 +340,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:26:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:20:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with no clear discussion on Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with no direct mention of Agile Product Operating Model principles or practices. It lacks discussions on product management, agile methodologies, or any related frameworks, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -415,14 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T05:55:17",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
+    "calculated_at": "2025-03-22T08:20:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with minimal direct discussion of Continuous Delivery principles or practices. While it touches on aspects of deployment and testing, it lacks a comprehensive exploration of Continuous Delivery methodologies, automation, or risk management strategies. The content does not align well with the core themes of Continuous Delivery, making it a secondary topic rather than a primary focus.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, which are tools that can support Continuous Delivery practices. However, it lacks a direct discussion on Continuous Delivery principles, automation in testing and deployment, or the cultural aspects of Continuous Delivery. While it touches on aspects of deployment and testing, it does not delve into the broader themes of Continuous Delivery, such as rapid feedback, incremental improvements, or strategies for reducing errors. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1485,6 +1491,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with no explicit discussion of integrating testing, security, or compliance earlier in the development process. While it touches on aspects of deployment and testing, it does not align with the core themes of the Shift-Left Strategy, which emphasises proactive measures in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:20:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation process of TFS 2012 and Lab Management, with minimal references to Continuous Improvement principles. While there are mentions of troubleshooting and adjustments made during the installation, these do not constitute a discussion on Continuous Improvement as defined. The content lacks a structured approach to empirical evidence, data-driven decision-making, or a culture of experimentation, which are key aspects of the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:20:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing and configuring TFS 2012 and Lab Management, with no explicit discussion of Common Goals or their significance in Agile or DevOps frameworks. While it touches on project management and deployment processes, it lacks depth in aligning strategy with execution or fostering collaboration, which are core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:20:05",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the technical steps involved in installing TFS 2012 and Lab Management, with minimal discussion on competence or skill development. While there are references to the need for proper configuration and troubleshooting, these are not explored in the context of continuous learning or professional growth, which are central to the competence category.",
     "level": "Ignored"
   }
 }

@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:20:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:00:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical features and updates related to Visual Studio, Silverlight, ASP.NET MVC, and Windows Phone 7, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Scott Guthrie's presentation about Visual Studio 2010, Silverlight 4, and Windows Phone 7, with no direct mention of Evidence-Based Management principles or metrics. While there are discussions about software features and improvements, they do not align with the core themes of EBM, such as data-informed decision-making or outcome management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T01:20:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:00:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features of Visual Studio, Silverlight, ASP.NET MVC, and Windows Phone 7, with no focus on DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Scott Guthrie's presentation about Visual Studio 2010, Silverlight 4, and Windows Phone 7, with no explicit discussion of DevOps principles, practices, or cultural shifts. While there are mentions of development tools and methodologies, they do not align with the core themes of DevOps, such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses software features and updates related to Visual Studio, Silverlight, ASP.NET MVC, and Windows Phone 7, without any focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:21:28",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:21:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:00:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical features and updates related to Visual Studio, Silverlight, ASP.NET MVC, and Windows Phone 7, without any focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on technical discussions related to Visual Studio, Silverlight, and Windows Phone 7, with no direct mention or alignment to the Agile Product Operating Model. It lacks any discussion on agile methodologies, product management principles, or the key topics outlined in the APOM framework.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -406,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:10:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:00:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scott Guthrie's talks about Visual Studio, Silverlight, ASP.NET MVC, and Windows Phone, which are unrelated to Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Scott Guthrie's presentation about Visual Studio 2010, Silverlight 4, and Windows Phone 7, with no direct mention of Continuous Delivery principles or practices. While there are discussions about software features and improvements, they do not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or cultural aspects. The content lacks depth in discussing Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1437,6 +1449,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses Scott Guthrie's talks on various Microsoft technologies and features, with no explicit mention of the Shift-Left Strategy or its principles. While there are references to development practices, they do not align with the proactive integration of testing, security, and compliance earlier in the software development lifecycle, which is central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:00:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the unveiling of new features in Visual Studio 2010, Silverlight 4, and Windows Phone 7, with no explicit discussion on Continuous Improvement principles. While there are mentions of improvements in software features, these are not framed within the context of Continuous Improvement as defined. The content lacks depth in discussing any strategies, techniques, or empirical evidence related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:00:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scott Guthrie's presentation about various Microsoft technologies, such as Visual Studio 2010 and Silverlight 4. While it discusses technical advancements and features, it does not address the concept of Common Goals within Agile or DevOps frameworks. There are no explicit mentions of shared objectives, alignment, or strategic goals, which are central to the category of Common Goals. The discussion is more about product features and personal opinions rather than team alignment or organisational strategy.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:00:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the features and updates of Visual Studio 2010, Silverlight 4, and Windows Phone 7, without discussing the concept of competence or its relevance to Agile, Scrum, or DevOps methodologies. While there are mentions of development tools and practices, they do not connect to the principles of continuous learning or skill development that define competence.",
     "level": "Ignored"
   }
 }

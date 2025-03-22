@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:33:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:48:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to SharePoint migration and authentication, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses technical issues related to SharePoint migration and user permissions, with no direct mention or alignment to Evidence-Based Management principles. It lacks any focus on data-informed decision-making or metrics relevant to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T18:34:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:48:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to SharePoint migration and user authentication, which are not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving specific issues related to SharePoint migration and user permissions, with no direct discussion of DevOps principles or practices. While it touches on automation through PowerShell scripts, it lacks a broader context of collaboration, continuous delivery, or shared accountability that characterises DevOps. Therefore, it does not align well with the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses technical issues related to SharePoint migration and user authentication, without any focus on Systems Thinking principles or holistic analysis.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:34:37",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:34:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:48:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to SharePoint migration and authentication, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical issues related to SharePoint migration and user permissions, with no direct mention or discussion of the Agile Product Operating Model or its principles. While there is a brief mention of user authentication, it does not align with the core themes of APOM, such as product management or agile methodologies. The depth of discussion is entirely centred on a specific technical solution rather than any agile framework or product-oriented mindset.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -400,11 +409,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:27:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:48:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to SharePoint migration and user authentication, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving migration issues related to SharePoint 2013 and user permissions, with no direct mention or discussion of Continuous Delivery principles, practices, or benefits. It lacks alignment with the core themes of Continuous Delivery, such as automation, rapid feedback, or cultural aspects. The depth of discussion is also minimal, as it is centred around a specific technical issue rather than broader Continuous Delivery concepts.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1443,6 +1455,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses issues related to SharePoint migration and user authentication, with no mention of integrating testing, security, or compliance earlier in the software development lifecycle. It does not align with the core themes of the Shift-Left Strategy, which focuses on proactive measures in software development. The discussion is technical but does not address the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:48:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to SharePoint migration and user permissions, with no explicit discussion of Continuous Improvement principles. While there is a mention of problem-solving and finding solutions, it lacks a broader context of ongoing reflection, adaptation, or empirical evidence that characterises Continuous Improvement. The content does not explore themes such as team effectiveness, experimentation, or integration of Continuous Improvement into processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:48:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical issues related to SharePoint migration and user permissions, with no explicit discussion of Common Goals or their significance in Agile or DevOps frameworks. While it mentions problem-solving and execution, it lacks any connection to shared objectives or strategic alignment, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:48:26",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to SharePoint migration and user permissions, with no explicit discussion on competence, continuous learning, or skill development. While it demonstrates problem-solving skills, it does not align with the core themes of competence as defined in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T12:12:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:46:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses WPF and method invocation in XAML, with no clear focus on DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on WPF and coding techniques related to calling object methods in data triggers. It does not discuss any DevOps principles, practices, or cultural shifts. The mention of TFS (Team Foundation Server) is peripheral and does not align with the core themes of DevOps, such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T12:12:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:46:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details in WPF and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of WPF and data triggers, with no direct mention or discussion of Agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any relevant themes or depth related to the category.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -169,11 +175,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T12:13:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:47:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details in WPF and does not address Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of calling object methods in WPF data triggers, with no direct mention or discussion of Evidence-Based Management principles. It lacks alignment with the core themes of EBM, such as data-informed decision-making or metrics related to value delivery. The depth of discussion is also minimal, as it does not explore any empirical evidence or management strategies.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -242,7 +251,7 @@
     "reasoning": "Content primarily discusses technical implementation details in WPF and does not address metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T12:13:23",
     "ai_confidence": 0,
@@ -901,11 +910,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:36:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:46:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on WPF data templates and binding mechanisms without any discussion related to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on calling object methods in WPF data triggers, which is a specific technical implementation in software development. It does not discuss Continuous Delivery principles, practices, or any related topics such as automation, incremental improvements, or user feedback. The mention of coding skills and practical examples does not align with the Continuous Delivery category, which requires a focus on delivery practices rather than general coding techniques.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1443,6 +1455,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on a technical implementation in WPF and does not discuss the Shift-Left Strategy or its principles, benefits, or practices. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any insights into collaboration or metrics related to Shift-Left initiatives.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:46:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to WPF and does not discuss Continuous Improvement principles, methodologies, or practices. There are no direct mentions of Continuous Improvement, and the content lacks alignment with the core themes of the category, such as empirical evidence, team effectiveness, or strategies for improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:46:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to WPF and data triggers, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While there may be a tangential connection to team collaboration through coding practices, it lacks any direct mention or depth regarding shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:46:54",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to WPF and does not explicitly discuss competence, continuous learning, or skill development. While it may indirectly contribute to skill enhancement, it lacks a direct connection to the core themes of competence as defined in Agile and DevOps contexts.",
     "level": "Ignored"
   }
 }

@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:44:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:20:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio 2010 and its support for UML, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Visual Studio 2010's support for UML, with no explicit mention of Evidence-Based Management or its core themes. It lacks any data-informed decision-making or metrics related to value delivery, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:44:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:20:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio 2010 and its support for UML, which is unrelated to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Visual Studio 2010's support for UML, which is not directly related to DevOps principles or practices. There are no explicit mentions of DevOps concepts such as collaboration, automation, or shared accountability. The focus is on a specific tool and its features rather than the broader philosophy of DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -308,7 +314,7 @@
     "reasoning": "Content primarily discusses Visual Studio 2010 and its support for UML, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:44:50",
     "ai_confidence": 0,
@@ -319,11 +325,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:44:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:20:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio 2010 and its support for UML, with no relevance to Agile Product Operating Model principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Visual Studio 2010's support for UML, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM framework. The focus is on software development tools rather than the integration of agile practices with product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:21:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Visual Studio 2010's support for UML features, which is unrelated to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Visual Studio 2010's support for UML, which is unrelated to Continuous Delivery. There are no direct mentions of Continuous Delivery principles, practices, or related topics. The focus is on a specific software tool rather than the broader concepts of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1422,6 +1434,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses Visual Studio 2010's support for UML without any reference to the Shift-Left Strategy. It lacks direct mentions of integrating testing, security, or compliance early in the development process, and does not provide any depth on the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:20:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the features of Visual Studio 2010 and its support for UML, with no explicit discussion on Continuous Improvement principles. While there is a brief mention of potential improvements to the UML features, it lacks a structured approach to Continuous Improvement and does not engage with the core themes or depth required for this category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:20:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the features of Visual Studio 2010 and its support for UML, with no explicit mention of Common Goals or their significance in Agile or DevOps. The discussion lacks alignment with the core themes of shared objectives and strategic alignment, and it does not provide any depth on how these concepts relate to the software development process.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:20:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the features of Visual Studio 2010 and its support for UML, with only a brief mention of the author's personal UML skills. There is no substantial discussion on continuous learning, skill development, or the role of competence in Agile or DevOps environments, which are central to the category. The focus is more on the tool itself rather than on competence as a foundational principle.",
     "level": "Ignored"
   }
 }

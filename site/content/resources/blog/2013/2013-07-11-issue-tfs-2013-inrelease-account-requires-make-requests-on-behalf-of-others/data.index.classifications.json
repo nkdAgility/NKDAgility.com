@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:09:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:42:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and InRelease configuration, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to Team Foundation Server and InRelease permissions. It does not discuss Evidence-Based Management principles, nor does it provide any empirical evidence or metrics related to management decisions. The content lacks direct mentions of EBM concepts, and the discussion is limited to technical troubleshooting rather than strategic management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:00:51",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "calculated_at": "2025-03-22T07:42:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily discusses a specific issue related to Team Foundation Server (TFS) and InRelease, focusing on permissions and configuration. While it touches on aspects of DevOps, such as service accounts and permissions management, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The mention of TFS and InRelease indicates a technical context relevant to DevOps, but the content does not delve into key DevOps topics like CI/CD, automation, or collaboration between teams, which are essential for a higher confidence score.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to Team Foundation Server (TFS) and InRelease, which does not align with the broader principles and practices of DevOps. While it touches on permissions and configurations, it lacks discussions on collaboration, automation, or cultural shifts that are central to DevOps. The mention of TFS and service accounts is more about technical troubleshooting than the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +323,7 @@
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and InRelease configuration, without any focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:09:53",
     "ai_confidence": 0,
@@ -331,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:09:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:42:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and permissions, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to Team Foundation Server (TFS) and InRelease, with no direct discussion of Agile methodologies or the Agile Product Operating Model. While it mentions permissions and configurations, it does not align with the core themes of APOM, such as product management principles or continuous delivery. The content lacks depth in discussing any relevant agile practices, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -409,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T18:25:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:42:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific configuration issue related to Team Foundation Server and InRelease, rather than principles or practices of Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily addresses a specific error related to configuring permissions in Team Foundation Server 2013 and InRelease, which does not directly discuss Continuous Delivery principles or practices. While it touches on aspects of software deployment, it lacks a focus on Continuous Delivery as a disciplined practice, automation, or incremental improvements. The discussion is technical and solution-oriented, making it more relevant to troubleshooting than to Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1458,6 +1467,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a specific technical issue related to Team Foundation Server and InRelease configuration, with no direct mention or discussion of the Shift-Left Strategy. It focuses on troubleshooting and permissions rather than integrating testing, security, or compliance earlier in the software development lifecycle. Therefore, it does not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:42:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS 2013 and InRelease configuration. It does not discuss Continuous Improvement principles, nor does it reflect on processes or team effectiveness. The mention of permissions and technical solutions lacks any connection to the broader themes of Continuous Improvement, such as empirical evidence, experimentation, or organisational strategies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:42:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to TFS 2013 and InRelease permissions. It does not discuss Common Goals, Agile, or DevOps principles. While it mentions the need for permissions, it lacks any connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:42:27",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to TFS 2013 and InRelease permissions. While it touches on the necessity of having the correct permissions, it does not explicitly discuss competence in terms of continuous learning, skill development, or the broader implications of professionalism and quality delivery. The mention of permissions and service accounts is more about technical configuration than fostering a culture of competence or discussing the importance of skill development in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

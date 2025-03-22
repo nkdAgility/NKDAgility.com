@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:47:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:06:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical steps for creating a VHD from a Windows Server image, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical instructions for creating a VHD from a Windows Server image, with no discussion or mention of Evidence-Based Management principles, metrics, or data-informed decision-making.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T01:48:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:06:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on creating a VHD from a Windows Server image, which does not align with DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating a VHD from a Windows Server image, which is a technical task related to system setup rather than a discussion on DevOps principles or practices. There are no explicit mentions of DevOps concepts such as collaboration, automation, or shared accountability. The content lacks depth in discussing any DevOps-related themes, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -311,7 +317,7 @@
     "reasoning": "Content primarily focuses on technical instructions for creating a VHD from a Windows Server image, with no discussion of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:48:43",
     "ai_confidence": 0,
@@ -322,11 +328,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:48:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:06:53",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical steps for creating a VHD from a Windows Server image, with no relevance to Agile principles or product-centric development.",
+    "reasoning": "The content focuses entirely on technical instructions for creating a Virtual Hard Disk (VHD) from a Windows Server image. It does not mention or discuss any aspects of the Agile Product Operating Model, such as agile methodologies, product management principles, or any related concepts. Therefore, it does not align with the category at all.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:06:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on creating a virtual hard disk from a Windows Server image and does not discuss any principles, practices, or methodologies related to Continuous Delivery.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating a Virtual Hard Disk (VHD) from a Windows Server image, which is a technical guide unrelated to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion does not align with the core themes such as automation, incremental improvements, or software quality. The depth of discussion is limited to step-by-step instructions for a specific task, lacking any broader context or relevance to Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1431,6 +1443,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on creating a Virtual Hard Disk (VHD) from a Windows Server image, with no discussion of integrating testing, security, or compliance earlier in the software development lifecycle. It lacks any direct mention of the Shift-Left Strategy and does not align with its core themes or provide depth on the topic.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:06:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for creating a VHD from a Windows Server image, with no explicit discussion of Continuous Improvement principles. While there is a brief mention of learning from mistakes, it does not align with the core themes of Continuous Improvement, such as data-driven decision-making or fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:06:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for creating a VHD from a Windows Server image, with no explicit discussion of Common Goals, Agile, or DevOps principles. It lacks alignment with the category's core themes and does not provide any depth on the significance of shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:06:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for creating a VHD from a Windows Server image, with no explicit discussion of competence or related themes such as continuous learning, skill development, or professionalism. While it may imply a level of competence in executing the tasks, it does not engage with the principles of competence as defined in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

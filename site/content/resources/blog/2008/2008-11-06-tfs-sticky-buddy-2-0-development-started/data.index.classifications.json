@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:15:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:36:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development of a specific application and its features, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the development of a specific application (TFS Sticky Buddy 2.0) and its features, with no explicit discussion of DevOps principles, practices, or cultural shifts. While it mentions modular design and updates, these aspects do not align with the core themes of DevOps, such as collaboration, automation, or shared accountability. The content lacks depth in discussing any DevOps-related topics, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:15:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:36:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development of a specific application and technical implementation details, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the development of a specific application (TFS Sticky Buddy 2.0) and discusses technical aspects such as modular design and WPF implementation. There is no mention of agile methodologies, product management principles, or any of the key topics related to the Agile Product Operating Model. The discussion is more aligned with software development practices rather than the broader framework of APOM.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -169,11 +175,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:15:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:36:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development of a software application and does not address Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the development of a software application, discussing features and modular design without any explicit mention of Evidence-Based Management principles or metrics. There is no alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and the depth of discussion is minimal, lacking any substantial detail related to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -242,7 +251,7 @@
     "reasoning": "Content primarily discusses the development of a software application and its features, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:15:49",
     "ai_confidence": 0,
@@ -907,11 +916,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:43:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:36:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses development updates for an application without focusing on Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the development of a specific application (TFS Sticky Buddy 2.0) and mentions its modular design and ClickOnce deployment. However, it lacks explicit discussions on Continuous Delivery principles, automation, or the broader implications of software delivery practices. The focus is more on the features and updates of the application rather than on Continuous Delivery as a practice.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1446,6 +1458,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the development of a specific application and mentions technical aspects related to modularity and updates. There is no explicit discussion of integrating testing, security, or compliance early in the development process, nor does it address the principles or benefits of the Shift-Left Strategy. The focus is on application features rather than the strategic approach to software development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:36:23",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions the development of TFS Sticky Buddy 2.0 and the implementation of modular design, which could imply a focus on improvement. However, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation. The depth of discussion is minimal, primarily focusing on the features and updates of the application rather than a commitment to ongoing enhancement or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:36:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the development of a specific application (TFS Sticky Buddy 2.0) and its features, with no explicit discussion of Common Goals, Agile, or DevOps principles. While it mentions modular design and updates, these aspects do not connect to the foundational principles of aligning strategy with execution or shared objectives within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:36:29",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the development of a software application and mentions technical aspects such as modular design and implementation of specific frameworks. However, it lacks explicit discussions on competence, continuous learning, or skill development. The alignment with the core themes of competence is minimal, and the depth of discussion does not provide substantial insights into the principles of professionalism or quality delivery.",
     "level": "Ignored"
   }
 }

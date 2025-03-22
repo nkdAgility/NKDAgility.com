@@ -988,11 +988,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T09:23:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:52:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses organisational culture and leadership in the context of Agile practices, with no clear focus on Continuous Delivery principles or methodologies.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of cultural change and agility in organisations, which are relevant to Continuous Delivery principles. However, it primarily focuses on the concept of Luddites and resistance to change rather than directly addressing Continuous Delivery practices, automation, or specific techniques for incremental improvements. The discussion lacks depth in Continuous Delivery specifics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1117,11 +1120,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T08:54:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:52:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational culture and the transition to agile practices, without a clear focus on evidence-based management principles or empirical data.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of adapting organisational culture and hiring practices to foster agility and innovation, which aligns with the themes of Evidence-Based Management. However, it lacks direct references to empirical metrics or data-informed decision-making, focusing instead on cultural change and leadership examples. The discussion is more about general agility and organisational change rather than specific evidence-based practices.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -1211,15 +1217,6 @@
     "reasoning": "Content primarily discusses organisational culture and leadership in the context of Agile practices, without any focus on installation or configuration of tools or software.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T08:54:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses organisational culture and the transition to agile practices, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-03-10T12:27:46",
@@ -1279,11 +1276,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T08:54:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational culture and Agile leadership, with no clear focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of cultural change and agility in organisations, which aligns with some DevOps principles, such as collaboration and the need for cross-functional teams. However, it primarily focuses on the concept of Luddites and resistance to change rather than the core practices and philosophies of DevOps. The discussion lacks direct mentions of DevOps practices, automation, or shared accountability, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -1345,12 +1345,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:52:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the transition from traditional organisational models to agile practices, highlighting the importance of culture and the role of cross-functional teams, which aligns with the Agile Product Operating Model. However, it primarily focuses on cultural change and leadership rather than the specific principles and strategies of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the transition from traditional organisational models to agile practices, highlighting the importance of culture and the right people in fostering agility. However, it lacks direct references to the Agile Product Operating Model and does not delve deeply into its specific principles or frameworks, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1539,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses organisational culture and the transition to agile practices, with a focus on hiring and leadership rather than the integration of testing, security, or compliance early in the software development lifecycle. There are no direct mentions of the Shift-Left Strategy or its principles, and the discussion lacks depth on relevant techniques or tools associated with the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:52:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of adapting organisational culture and hiring practices to foster agility and innovation, which aligns with the principles of Continuous Improvement. It mentions the need for a shift from traditional models to more empirical, agile approaches, reflecting a commitment to ongoing enhancement. However, the discussion is more focused on the resistance to change (Luddites) rather than providing detailed strategies or frameworks for Continuous Improvement, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:52:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of adapting organisational culture to foster agility and innovation, which aligns with the concept of Common Goals. However, it primarily focuses on the negative impact of Luddites and the need for cultural change rather than explicitly addressing shared objectives or strategic alignment within Agile and DevOps frameworks. The discussion lacks depth in exploring how these changes connect to overarching goals, resulting in a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:52:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of hiring the right people and fostering a culture of agility, which indirectly relates to competence. However, it primarily focuses on the negative impact of Luddites on organisational change rather than on the development of skills or continuous learning. The discussion lacks depth in exploring competence as a foundational principle, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:52:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of Luddites in relation to organisational change and agility, without directly addressing the principles or components of the One Engineering System. While it touches on themes of cultural change and agile practices, it does not provide substantial detail on the integration of tools or processes across teams, nor does it discuss the One Engineering System framework itself.",
     "level": "Ignored"
   }
 }

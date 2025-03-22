@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T22:42:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:40:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to data querying and processing, without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses technical challenges related to data retrieval and query optimisation without a clear focus on Evidence-Based Management principles. While it touches on data handling and decision-making based on data (e.g., using a high water mark for data updates), it lacks explicit references to EBM concepts such as current value, time to market, or empirical decision-making. The discussion is more about practical implementation rather than strategic management based on empirical evidence.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T22:42:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:40:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to data querying and migration in Test Track Pro, without a clear focus on DevOps principles, practices, or tools.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses technical challenges related to data retrieval and integration within a specific tool (Test Track Pro and TFS Integration). While it touches on aspects of workflow optimisation and data management, it lacks a direct focus on DevOps principles such as collaboration, automation, or shared accountability. The discussion does not explicitly mention DevOps as a philosophy or its key topics, leading to a low confidence score in alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -326,7 +332,7 @@
     "reasoning": "Content primarily discusses technical issues related to data querying and processing in a specific software context, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T22:43:17",
     "ai_confidence": 0,
@@ -337,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T22:43:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:40:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to data querying and integration, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses technical challenges related to data retrieval and integration with TFS, lacking any explicit mention or alignment with Agile Product Operating Model principles. It does not address product management, agile methodologies, or the transition from project to product ethos, which are core to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -415,11 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:28:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:40:43",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on troubleshooting and querying specific data records in a system, without any mention of Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses technical challenges related to data retrieval and integration within a specific software context, focusing on the Test Track Pro Adapter for TFS Integration. While it touches on aspects of data management that could relate to Continuous Delivery, such as the importance of timely data updates, it lacks a direct focus on Continuous Delivery principles, practices, or automation. The discussion does not explore the broader themes of Continuous Delivery, such as rapid feedback, incremental improvements, or cultural aspects, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1470,6 +1482,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a technical issue related to querying data in a specific software context, without addressing the principles or benefits of the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it provide techniques or case studies relevant to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:40:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses troubleshooting and optimising a data retrieval process, which aligns with the principles of Continuous Improvement. However, it lacks explicit mentions of Continuous Improvement concepts and does not provide a comprehensive exploration of the topic. The focus is primarily on a specific technical issue rather than a broader discussion on continuous improvement methodologies or strategies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:40:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical challenges and solutions related to data retrieval in a specific software context. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment. The mention of workflow optimisation is too vague and does not connect to the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:40:34",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses technical challenges and solutions related to data retrieval in a specific software context. While it touches on problem-solving and debugging, it lacks a direct focus on competence as defined in Agile and DevOps methodologies. The discussion does not explicitly address continuous learning, skill development, or the broader implications of competence in team dynamics or quality delivery.",
     "level": "Ignored"
   }
 }

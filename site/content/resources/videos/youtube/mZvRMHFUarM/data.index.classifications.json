@@ -247,15 +247,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T17:02:03",
-    "ai_confidence": 68.0,
-    "ai_mentions": 3,
-    "ai_alignment": 75.0,
-    "ai_depth": 60.0,
+    "calculated_at": "2025-03-21T16:52:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the challenges of estimation in software projects and advocates for probabilistic forecasting, which aligns with the principles of Evidence-Based Management by emphasising data-driven decision-making. It mentions the use of historical data for forecasting and the importance of confidence levels, which are relevant to EBM. However, the focus is more on estimation techniques rather than a comprehensive exploration of EBM principles, resulting in a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses probabilistic forecasting as a method to improve project outcomes, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on estimation techniques rather than directly addressing the core themes of EBM such as current value, empirical decision-making, or outcome management. The discussion lacks depth in terms of specific metrics or empirical evidence, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -295,11 +295,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T16:24:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:52:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses estimation and forecasting in software projects, which is not directly related to Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses software estimation and probabilistic forecasting, which are not directly related to Continuous Delivery. While it touches on themes of agility and managing uncertainty, it lacks explicit references to Continuous Delivery principles, automation, or delivery practices. The discussion is more focused on project management techniques rather than the specific practices and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -1457,15 +1460,6 @@
     "reasoning": "Content primarily discusses software estimation and probabilistic forecasting, which are not central to the principles of Beta Codex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T11:59:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses software estimation and probabilistic forecasting, which are not central to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:39:06",
@@ -1539,6 +1533,54 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily discusses estimation techniques in software development, focusing on probabilistic forecasting rather than integrating testing, security, or compliance earlier in the development lifecycle. While it touches on agile principles and project management, it does not explicitly address the Shift-Left Strategy or its core themes, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:52:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the challenges of software estimation and introduces probabilistic forecasting as a more effective approach. While it touches on themes of adaptability and improving project management practices, it does not explicitly focus on Continuous Improvement principles or provide in-depth strategies for fostering a culture of experimentation and learning. The discussion is more centred on estimation techniques rather than a comprehensive exploration of Continuous Improvement as a primary focus.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:52:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses software estimation and probabilistic forecasting, which are not directly related to the concept of Common Goals in Agile and DevOps. While it touches on themes of project management and team dynamics, it lacks explicit references to shared objectives or alignment with strategic goals. The discussion is more focused on estimation techniques rather than the foundational principles of Common Goals, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:52:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of probabilistic forecasting in software project management, which indirectly relates to competence by emphasising the need for teams to build confidence in their capabilities and adapt to uncertainty. However, while it touches on aspects of competence, such as reducing batch size and assessing confidence levels, it does not delve deeply into continuous learning or skill development, which are core themes of the category.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:52:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses software estimation and probabilistic forecasting, which are not directly related to the One Engineering System framework. While it touches on project management practices, it does not explicitly mention 1ES principles, components, or integration of tools and processes across teams. The discussion lacks depth regarding the core themes of 1ES, such as standardisation and collaboration across engineering practices.",
     "level": "Ignored"
   }
 }

@@ -34,6 +34,7 @@ tags:
 - People and Process
 - Agile Project Management
 - Software Developers
+- Competence
 - Personal
 resourceTypes:
 - video

@@ -595,11 +595,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T17:39:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:06:58",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Continuous Delivery principles, practices, or methodologies; it is unrelated and lacks relevant information.",
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention Continuous Delivery or its principles. It lacks any discussion on automation, incremental improvements, or user feedback, which are core themes of the category. The brief and vague nature of the content does not provide any depth or relevant information related to Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -757,11 +760,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T17:39:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:07:00",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide any information related to Evidence-Based Management; it is merely a placeholder.",
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention Evidence-Based Management or its key topics. It is a brief announcement with no substantial discussion or alignment with the principles of EBM, focusing instead on an upcoming resource without any empirical evidence or metrics.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1346,15 +1352,6 @@
     "reasoning": "Content does not provide any information or discussion relevant to BetaCodex principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T17:29:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide any relevant information or discussion related to the One Engineering System (1ES).",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:43:26",
@@ -1416,6 +1413,54 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content does not provide any information or discussion related to the Shift-Left Strategy, as it is merely a placeholder with no relevant details.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:06:49",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention Continuous Improvement or its principles. It lacks any discussion of relevant topics such as empirical evidence, team effectiveness, or strategies for improvement. The brief mention of an upcoming resource does not provide any substantial information or depth related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:06:52",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention Common Goals or any related concepts. It lacks depth and detail, focusing instead on a vague announcement without connecting to Agile or DevOps principles.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:06:54",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention competence or related themes. It is a brief announcement with no discussion on continuous learning, skill development, or any of the key topics associated with competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:06:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content does not explicitly mention the One Engineering System or its principles. It lacks any discussion on integration, standardisation, or best practices related to 1ES, making it irrelevant to the category.",
     "level": "Ignored"
   }
 }

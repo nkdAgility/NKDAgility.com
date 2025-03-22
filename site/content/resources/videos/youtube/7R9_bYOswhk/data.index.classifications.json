@@ -652,11 +652,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T10:31:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:13:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and leadership rather than Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Professional Agile Leadership Essentials course for Scrum Masters, discussing leadership development rather than Continuous Delivery principles. While it touches on Agile concepts, it does not explicitly mention Continuous Delivery or its key topics, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -832,11 +835,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T10:32:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:13:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of Scrum Masters and their evolution in leadership, without a focus on Evidence-Based Management principles or empirical data.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Professional Agile Leadership Essentials course for Scrum Masters, discussing leadership development rather than evidence-based management principles. While it touches on leadership and organisational challenges, it lacks direct references to empirical decision-making or metrics that align with Evidence-Based Management. The discussion is more about personal growth and leadership roles in Agile contexts, which does not meet the criteria for a strong alignment with the category.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1285,11 +1291,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T10:29:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:13:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the Professional Agile Leadership Essentials course for Scrum Masters, discussing leadership evolution within Agile rather than DevOps principles. While it briefly mentions DevOps in the context of broader Agile discussions, it lacks a direct focus on DevOps practices, principles, or cultural shifts. The alignment with DevOps themes is minimal, and the depth of discussion does not delve into key DevOps concepts such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1471,11 +1480,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T20:08:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:13:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of Scrum Masters and leadership in Agile, without a clear focus on the Agile Product Operating Model.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the Professional Agile Leadership Essentials course for Scrum Masters, discussing leadership development rather than the Agile Product Operating Model itself. While it touches on Agile principles, it lacks a direct focus on the APOM framework and its core themes, such as product management integration and operational governance.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1494,15 +1506,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content heavily discusses Scrum roles and leadership in Agile, with no direct connection to platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T20:08:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum roles and leadership rather than the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1545,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the evolution of a Scrum Master into a leadership role, focusing on Agile principles and leadership development rather than the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy. The discussion is more about leadership and Scrum practices, lacking depth in the specific themes of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:13:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Professional Agile Leadership Essentials course and its relevance to Scrum Masters, rather than discussing Continuous Improvement directly. While it touches on leadership development and the evolution of roles within Agile, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation. The alignment with Continuous Improvement themes is minimal, and the depth of discussion does not provide substantial insights into the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:13:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the Professional Agile Leadership Essentials course and its relevance to Scrum Masters, but it primarily focuses on personal development and leadership evolution rather than explicitly addressing Common Goals within Agile and DevOps frameworks. While there are mentions of leadership and the Scrum Master role, the discussion lacks a direct connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:13:14",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the Professional Agile Leadership Essentials course, which is relevant to the development of competence in Scrum Masters. It highlights the importance of continuous learning and skill development, aligning with the core themes of competence. However, the discussion primarily focuses on the course's benefits and leadership evolution rather than providing in-depth strategies or methods for fostering competence. Thus, while competence is a significant aspect, it is not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:13:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Professional Agile Leadership Essentials course and the role of Scrum Masters in leadership, with no direct mention or discussion of the One Engineering System framework. While it touches on Agile practices, it does not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The depth of discussion is limited to personal insights on leadership rather than a structured exploration of 1ES principles.",
     "level": "Ignored"
   }
 }

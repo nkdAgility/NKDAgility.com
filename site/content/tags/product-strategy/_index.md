@@ -23,6 +23,9 @@ headline:
   subtitle: Crafting a clear vision and actionable roadmap for sustainable product success in a dynamic market landscape.
   content: Crafting a comprehensive vision and actionable roadmap that aligns product development with market needs and customer insights. Posts should explore strategic planning, prioritisation techniques, stakeholder engagement, and methods for adapting to changing environments, ensuring long-term product viability and competitive advantage.
   updated: 2025-02-13T12:03:16Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

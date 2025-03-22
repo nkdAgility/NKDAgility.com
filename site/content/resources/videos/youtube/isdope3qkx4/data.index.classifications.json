@@ -1,14 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:27:13",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-21T21:00:14",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 61.0,
-    "reasoning": "The content briefly mentions DevOps in the context of agile training and tools, but the primary focus is on Agile methodologies and team management rather than the core principles of DevOps. While there are references to tools like GitHub and Azure DevOps, the discussion lacks depth in DevOps practices, automation, and cultural shifts necessary for successful implementation. Overall, the content does not align closely with the key topics of the DevOps category.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses DevOps in the context of Agile practices, highlighting tools and strategies for managing distributed teams. While it mentions DevOps, the primary focus is on Agile methodologies and tools rather than a deep exploration of DevOps principles. The discussion includes elements like feedback loops and continuous improvement, which align with DevOps concepts, but the depth of discussion on DevOps itself is limited compared to Agile. Therefore, while there is a significant connection to DevOps, it is not the primary focus.",
     "level": "Secondary"
   },
   "Social Technologies": {
@@ -247,11 +247,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:22:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps and Agile topics with no clear focus on Continuous Delivery principles and practices.",
+    "calculated_at": "2025-03-21T21:00:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile practices and tools for managing distributed teams, with a focus on collaboration and continuous improvement. While it touches on concepts relevant to Continuous Delivery, such as feedback loops and adaptation, it does not explicitly address Continuous Delivery principles or practices. The discussion lacks depth in terms of Continuous Delivery specifics, leading to a low confidence score in this category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -381,15 +384,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on general DevOps and Agile topics, without a clear emphasis on Value Stream Management.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:22:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on general questions related to DevOps and Agility, without specific mention or discussion of the One Engineering System (1ES).",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1156,11 +1150,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:22:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily invites questions about diverse topics including DevOps and Agility without a clear focus on the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T21:00:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile practices and tools for managing distributed teams, but it does not explicitly focus on the Agile Product Operating Model or its core principles. While it touches on Agile methodologies and continuous improvement, it lacks a direct connection to product management and the specific themes outlined in the APOM framework.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1363,11 +1360,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:22:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content promotes an open Q&A session on various topics including DevOps and Agility but does not specifically address Evidence-Based Management.",
+    "calculated_at": "2025-03-21T21:00:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Agile and DevOps practices, discussing tools and strategies for managing distributed teams. While it touches on concepts like adaptation and feedback loops, it lacks a direct emphasis on Evidence-Based Management principles such as empirical decision-making or current value metrics. The discussion is more about Agile methodologies rather than data-informed management practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1437,6 +1437,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Agile practices and tools for managing distributed teams, with no explicit discussion of the Shift-Left Strategy. While it touches on concepts like feedback loops and adaptation, these are general Agile principles rather than specific to integrating testing, security, or compliance earlier in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:00:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses continuous improvement in the context of Agile practices, particularly in managing distributed teams. It mentions the importance of adaptation, experimentation, and feedback loops, which are key aspects of continuous improvement. However, while these concepts are present, they are not the primary focus of the content, which leans more towards tools and strategies for Agile management. The discussion lacks in-depth exploration of continuous improvement methodologies or case studies, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:00:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile practices and tools for managing distributed teams, but it lacks a direct focus on Common Goals as defined in the category. While it touches on collaboration and adaptation, it does not explicitly connect these themes to shared objectives or strategic alignment within teams. The discussion is more about tools and practices rather than the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:00:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses continuous learning and adaptation within Agile and DevOps, which aligns with the principles of competence. However, it primarily focuses on tools and strategies for managing distributed teams rather than delving deeply into the development of skills and capabilities. While there are mentions of continuous learning and feedback loops, the overall emphasis is more on practical management rather than a thorough exploration of competence as a foundational principle.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:00:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Agile and DevOps practices, discussing tools and strategies for managing distributed teams. While it touches on collaboration and adaptation, it does not explicitly mention the One Engineering System framework or its principles. The discussion is more centred on Agile methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

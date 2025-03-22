@@ -73,11 +73,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T10:40:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:28:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Windows 7, which is unrelated to DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on the installation process of Windows 7 in a virtual environment, with no mention of DevOps principles, practices, or cultural shifts. It lacks any discussion on collaboration, automation, or shared accountability, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -109,11 +112,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T10:40:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:28:38",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
     "final_score": 1.0,
-    "reasoning": "Content is focused on the installation process of Windows 7 and does not discuss Agile principles or the Agile Product Operating Model.",
+    "reasoning": "The content focuses entirely on the process of installing Windows 7 in a virtual environment, with no references to agile methodologies, product management principles, or any related concepts that align with the Agile Product Operating Model. It does not discuss transitioning from project to product ethos, operational stability, or any other key topics outlined in the category description.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -166,11 +172,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T10:40:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:28:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about installing Windows 7 and does not discuss Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the technical process of installing Windows 7, with no references to Evidence-Based Management principles or metrics. It does not discuss data-informed decision-making or any of the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -236,7 +245,7 @@
     "reasoning": "Content primarily discusses the installation process of Windows 7, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T10:40:47",
     "ai_confidence": 0,
@@ -880,11 +889,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:37:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:28:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the process of installing Windows 7, which is not related to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on the installation process of Windows 7 in a virtual environment, with no mention or discussion of Continuous Delivery principles, practices, or related topics. It does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality. The content is primarily about software installation rather than delivery.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1419,6 +1431,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content focuses entirely on the installation process of Windows 7, with no discussion of software development processes, testing, security, or compliance. It does not mention the Shift-Left Strategy or its principles, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:28:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Windows 7 in a virtual environment, with no direct mentions or discussions related to Continuous Improvement principles. It lacks alignment with the core themes of Continuous Improvement, such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is minimal, as it does not explore any strategies or techniques relevant to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:28:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the technical process of installing Windows 7 in a virtual environment, with no mention of Agile, DevOps, or the concept of Common Goals. It lacks any discussion of shared objectives, alignment, or strategic frameworks, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:28:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Windows 7 in a virtual environment, with no explicit discussion of competence, continuous learning, or skill development. While it may imply some level of technical ability, it does not engage with the core themes of competence as defined in the category.",
     "level": "Ignored"
   }
 }

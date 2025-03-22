@@ -661,12 +661,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Continuous Delivery in the context of Scrum and organisational challenges, but the primary focus is on Scrum principles and the problems it reveals rather than Continuous Delivery itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T18:50:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Scrum, focusing on its principles and practices rather than Continuous Delivery itself. While it briefly mentions Continuous Delivery in the context of revealing organizational challenges, this is not the main focus. The discussion lacks depth on Continuous Delivery principles, automation, or specific strategies related to it, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -844,14 +847,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T22:02:20",
+    "calculated_at": "2025-03-21T18:50:39",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content primarily discusses Scrum as a methodology and its role in revealing organisational challenges rather than focusing on Evidence-Based Management principles. While it touches on themes of continuous improvement and learning, it lacks explicit references to empirical evidence, metrics, or case studies that are central to EBM. The discussion is more about Scrum's reflective nature than about data-driven decision-making or performance evaluation.",
+    "reasoning": "The content primarily discusses Scrum as a methodology and its role in revealing organisational challenges rather than focusing on evidence-based management principles. While it touches on themes of transparency and continuous improvement, it lacks direct references to empirical decision-making or metrics that align with Evidence-Based Management. The discussion is more about Scrum's framework and its impact on team dynamics than on data-informed decision-making.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1297,15 +1300,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T11:59:45",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 50,
-    "final_score": 65.0,
-    "reasoning": "The content discusses Scrum and its role in revealing organisational problems, which indirectly relates to DevOps principles, particularly in the context of continuous delivery and the need for cultural shifts. However, the primary focus is on Scrum rather than DevOps itself, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-21T18:50:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum, which is a framework within Agile project management, rather than discussing DevOps principles or practices. While there are some mentions of collaboration and continuous improvement, these are not explicitly tied to DevOps concepts. The discussion lacks depth in relation to DevOps, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1486,12 +1489,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:59:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T18:50:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Scrum and its role in revealing organisational problems, which aligns with Agile principles. However, it primarily focuses on Scrum practices rather than a comprehensive discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on Scrum as a methodology rather than the Agile Product Operating Model itself. While it discusses agile principles and the importance of collaboration, it does not explicitly address the core themes of the Agile Product Operating Model, such as transitioning to a product ethos or integrating product management practices. The depth of discussion on Scrum roles and processes is significant, but it lacks a direct connection to the broader APOM framework.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1509,15 +1515,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Agile methodologies without a direct connection to platform engineering principles or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:59:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum and its role in revealing organisational problems, without a focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1560,6 +1557,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum as a methodology and its role in revealing problems within organisational processes. While it touches on themes of continuous improvement and feedback, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The focus remains on Scrum's reflective nature rather than integrating testing, security, or compliance earlier in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:50:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content extensively discusses Scrum's role in revealing organisational challenges and fostering a culture of continuous learning and improvement. It highlights key aspects such as iterative progress, feedback loops, and the importance of transparency and inspection, which are central to Continuous Improvement. The depth of discussion on how Scrum facilitates reflection and adaptation aligns well with the principles of Continuous Improvement, although it primarily focuses on Scrum rather than broader Continuous Improvement strategies.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:50:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Scrum's role in revealing organisational challenges and fostering collaboration towards shared objectives, which aligns with the concept of Common Goals. However, while it touches on the importance of common goals, the primary focus is on Scrum as a methodology rather than a detailed exploration of Common Goals within Agile and DevOps frameworks. The depth of discussion on Common Goals is limited, as it does not extensively cover techniques or frameworks like OKRs, nor does it delve deeply into the relationship between strategic and tactical commitments.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:50:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Scrum's role in revealing organisational challenges and emphasises the importance of continuous learning and adaptation, which aligns with the core themes of competence. However, while it touches on the necessity for skill development and improvement, it does not delve deeply into strategies for fostering a culture of competence or the impact of competence on decision-making, which limits its depth of discussion.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:50:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum, a specific agile methodology, rather than discussing the One Engineering System (1ES) framework. While it touches on themes of collaboration and process improvement, it does not explicitly mention 1ES or its principles, components, or implementation strategies. The discussion is centred around Scrum's role in revealing organisational challenges, which deviates from the core focus of 1ES on standardising and integrating software development practices across teams.",
     "level": "Ignored"
   }
 }

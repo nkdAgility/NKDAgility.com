@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T03:05:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:25:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Windows Azure and its training kit, with no mention of Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the Windows Azure Training Kit and its features, with no direct mention of Evidence-Based Management principles or metrics. While it discusses training and hands-on labs, it does not align with the core themes of EBM, such as data-informed decision-making or value delivery metrics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T03:06:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:25:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Windows Azure and its training kit, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Windows Azure Training Kit, which is centred around Azure services and cloud computing rather than the core principles of DevOps. While Azure can be a part of a DevOps strategy, the discussion does not explicitly address DevOps practices, cultural shifts, or the integration of people and processes. The mention of hands-on labs and demos does not delve into the collaborative or automated aspects of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses Windows Azure and its training kit, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T03:06:27",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T03:06:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:25:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Windows Azure and its training kit, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the Windows Azure Training Kit and its features, with no direct mention of the Agile Product Operating Model or its principles. While there is a brief mention of cloud services, it does not align with the core themes of APOM, such as product management or agile methodologies. The depth of discussion is limited to Azure services, which are unrelated to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:25:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Windows Azure and related training materials, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Windows Azure Training Kit and its features, with no explicit discussion of Continuous Delivery principles or practices. While it mentions services and applications, it does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or incremental improvements. The depth of discussion is limited to Azure services without addressing Continuous Delivery concepts.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1431,6 +1443,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the Windows Azure Training Kit and its features, with no explicit mention of the Shift-Left Strategy or its principles. It lacks alignment with the core themes of integrating testing, security, or compliance early in the development process, and does not provide any depth on the topic. Overall, it is unrelated to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:25:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Windows Azure Training Kit and its features, with no explicit discussion of Continuous Improvement principles or practices. While it mentions hands-on labs and demos, which could imply a form of learning, it does not align with the core themes of Continuous Improvement such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The content lacks depth in discussing any strategies or frameworks related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:25:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Windows Azure Training Kit and its features, with no explicit discussion of Common Goals, Agile, or DevOps principles. While it mentions services and applications, it does not connect these to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:25:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Windows Azure Training Kit, which is aimed at skill development through hands-on labs and demos. However, it lacks explicit discussions on the broader themes of competence, such as continuous learning or the impact of competence on team dynamics. While it does mention mastering Azure services, it does not delve deeply into the principles of professionalism or quality delivery, which are central to the competence category.",
     "level": "Ignored"
   }
 }

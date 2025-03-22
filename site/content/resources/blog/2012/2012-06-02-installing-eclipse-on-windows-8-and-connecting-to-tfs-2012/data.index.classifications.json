@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:28:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:20:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical instructions for installing software and connecting to TFS, with no discussion of Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation of Eclipse and connecting it to TFS, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks any mention of data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:28:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:20:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on installing and configuring Eclipse and TFS, with no substantial discussion on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation of Eclipse and connecting it to TFS, which are specific tools rather than discussions on DevOps principles or practices. While it touches on aspects of Application Lifecycle Management (ALM), it does not delve into the core themes of DevOps such as collaboration, automation, or shared accountability. The mention of ALM is brief and does not align with the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily focuses on the installation and setup of Eclipse and TFS, with no discussion of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:29:03",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:29:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:20:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on installing software and connecting to TFS, with no discussion of Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on installing Eclipse and connecting it to TFS, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM definition. The discussion is technical and centred around software installation rather than product delivery or agile practices.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:31:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:20:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process for Eclipse and its integration with TFS, without addressing Continuous Delivery practices or principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on installing Eclipse and connecting it to TFS, which are specific tasks related to software development rather than Continuous Delivery practices. While it touches on aspects of Application Life-cycle Management (ALM), it does not discuss Continuous Delivery principles, automation, or the cultural aspects of Continuous Delivery. The mention of ALM is too vague and does not align with the core themes of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1443,6 +1455,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the installation and setup of Eclipse and TFS, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. It lacks any mention of Shift-Left principles or practices, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:20:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Eclipse and connecting it to TFS, with no explicit discussion of Continuous Improvement principles. While it touches on enhancing an ALM strategy, it lacks depth in exploring continuous improvement methodologies or practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:20:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Eclipse and connecting it to TFS, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it briefly mentions Application Life-cycle Management (ALM), it does not connect this to shared objectives or strategic alignment, which are core themes of the Common Goals category. The content lacks depth and detail on the principles of Common Goals, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:20:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical steps for installing Eclipse and connecting it to TFS, with minimal reference to competence or skill development. While it mentions being a Java developer and hints at enhancing an ALM strategy, it lacks a detailed discussion on continuous learning, professionalism, or the importance of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

@@ -26,16 +26,16 @@ preview: https://i.ytimg.com/vi/2-AyrLPg-8Y/maxresdefault.jpg
 duration: 17
 isShort: true
 tags:
+- Evidence Based Management
 - Evidence Based Leadership
 - Continuous Learning
 - Pragmatic Thinking
 - Decision Making
+- Continuous Improvement
 - Agile Leadership
+- Competence
 - Operational Practices
 - Agile Project Management
-- Agile Transformation
-- Ability to Innovate
-- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

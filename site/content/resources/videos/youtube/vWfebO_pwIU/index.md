@@ -30,6 +30,7 @@ tags:
 - People and Process
 - Continuous Learning
 - Software Development
+- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -50,15 +50,6 @@
     "reasoning": "Content primarily discusses the impact of measurement on behaviour within organisations, without a clear focus on BetaCodex principles or themes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:13:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of measurement on individual behaviour within an organisation, which does not align with the core principles of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T12:13:47",
@@ -334,15 +325,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-11T14:20:18",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T17:16:08",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the influence of metrics on behaviour and team dynamics, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on personal experiences and insights rather than empirical evidence or structured methodologies. While it touches on the importance of metrics and alignment with desired behaviours, it lacks detailed exploration of EBM principles and practices, resulting in a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the impact of metrics on team behaviour and engagement, which aligns with the principles of Evidence-Based Management. It highlights the importance of reviewing metrics and focusing on outcomes rather than outputs, which are key themes in EBM. However, while it touches on these concepts, it does not explicitly mention Evidence-Based Management or provide in-depth empirical analysis, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -1054,11 +1045,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T15:05:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:16:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organizational measurement and its impact on behavior, which is unrelated to the principles and practices of Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses team dynamics and the influence of metrics on behaviour, which does not directly relate to Continuous Delivery principles. While it touches on collaboration and performance metrics, it lacks explicit references to Continuous Delivery practices, automation, or software delivery cycles. The focus is more on organisational culture and engagement rather than the specific methodologies and tools associated with Continuous Delivery.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1500,6 +1494,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the impact of measurement on team dynamics and collaboration, which does not directly relate to the Shift-Left Strategy. While it touches on metrics and behaviours, it lacks explicit references to integrating testing, security, or compliance early in the software development lifecycle, which are core to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:15:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the impact of measurement on team behaviour and engagement, which aligns with the principles of Continuous Improvement. It highlights the importance of aligning metrics with desired behaviours and fostering a culture of collaboration, reflecting a commitment to enhancing team effectiveness. However, while it touches on relevant themes, it does not delve deeply into Continuous Improvement methodologies or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:15:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of aligning metrics with desired behaviours, which relates to the concept of Common Goals. It highlights how metrics can influence team dynamics and collaboration, touching on the need for shared objectives. However, the focus is more on measurement and individual behaviour rather than explicitly defining or deeply exploring Common Goals within Agile or DevOps frameworks. The personal anecdotes and general observations dilute the primary focus on Common Goals, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:15:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses how metrics influence team behaviour and engagement, which indirectly relates to competence by highlighting the importance of aligning measurements with desired behaviours. However, it primarily focuses on team dynamics and measurement rather than directly addressing competence as a foundational principle in Agile or DevOps. The discussion lacks depth in exploring continuous learning or skill development, which are key aspects of competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:16:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the influence of metrics on team behaviour and collaboration, which is tangentially related to the principles of the One Engineering System. However, it does not explicitly mention 1ES or its components, nor does it focus on standardising engineering practices or integrating tools across teams. The discussion is more about general team dynamics and measurement rather than the specific framework of 1ES.",
     "level": "Ignored"
   }
 }

@@ -25,14 +25,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T14:20:16",
+    "calculated_at": "2025-03-21T19:43:00",
     "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 5,
     "non_ai_confidence": 50,
     "final_score": 43.0,
-    "reasoning": "The content briefly mentions Azure DevOps, which is a tool related to DevOps practices, but the primary focus is on Scrum and its application. While there is a reference to improving efficiency in product delivery, the discussion does not delve deeply into DevOps principles or practices, making it more of a secondary mention rather than a primary focus on DevOps.",
+    "reasoning": "The content primarily focuses on Scrum, which is a specific methodology rather than the broader DevOps philosophy. While it mentions a DevOps team at Microsoft and touches on transitioning from Waterfall to Scrum, the main discussion revolves around Scrum applications and efficiency improvements, lacking a deeper exploration of DevOps principles such as collaboration, automation, and shared accountability.",
     "level": "Tertiary"
   },
   "Product Management": {
@@ -91,11 +91,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:25:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:43:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the application of Scrum in a specific context, focusing on a case study rather than the principles or practices of Evidence-Based Management.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum applications and does not discuss Evidence-Based Management principles or metrics. While it mentions efficiency improvements, it lacks empirical evidence or data-informed decision-making discussions central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -339,15 +342,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:25:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and its application, without focusing on the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -658,11 +652,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:26:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:43:19",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and its implementation, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile methodologies, with no direct discussion of Continuous Delivery principles or practices. While it mentions improvements in build times, it does not explore the core themes of Continuous Delivery, such as automation, rapid feedback, or cultural aspects. The discussion is more about Scrum applications rather than Continuous Delivery itself.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -751,14 +748,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T23:58:51",
+    "calculated_at": "2025-03-21T19:43:15",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
+    "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 20.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
     "final_score": 31.0,
-    "reasoning": "The content primarily focuses on the application of Scrum, which is a specific Agile methodology, rather than discussing the broader Agile Product Operating Model. While it mentions transitioning from a waterfall approach and highlights efficiency improvements, it lacks a comprehensive exploration of product-centric development principles, cross-functional teams, or continuous feedback mechanisms that are central to the Agile Product Operating Model. The discussion is more about Scrum practices than the holistic framework of Agile product development.",
+    "reasoning": "The content primarily focuses on Scrum and its application, which is a specific agile methodology rather than the broader Agile Product Operating Model. While it discusses transitioning from a waterfall approach to Scrum, it does not delve into the principles or practices of the Agile Product Operating Model, such as product management integration or continuous delivery. The discussion lacks depth regarding the core themes of APOM, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1509,6 +1506,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum and Agile methodologies, discussing the transition from Waterfall to Scrum and the efficiency gains achieved. It does not explicitly mention the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth regarding integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:43:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the application of Scrum and highlights a specific case study of a team transitioning from Waterfall to Scrum. While it does touch on improvements in efficiency, such as reducing build time, it lacks a comprehensive discussion on Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation. The emphasis is more on Scrum methodology rather than the broader context of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:43:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a specific application of Scrum rather than discussing Common Goals. While it mentions the transition from Waterfall to Scrum and highlights efficiency improvements, it lacks a direct discussion on shared objectives or alignment within teams. The content does not delve into the significance of Common Goals in Agile or DevOps frameworks, nor does it explore the relationship between strategic and tactical commitments. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:43:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the application of Scrum and highlights a specific team's success, but it primarily focuses on the effectiveness of Scrum rather than on competence as a foundational principle. While there are mentions of efficiency and transformation, the discussion lacks depth on continuous learning, skill development, or the professional standards that underpin competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:43:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum, a specific agile methodology, and discusses its application within a team at Microsoft. While it mentions the transition from a waterfall model, it does not address the principles or components of the One Engineering System (1ES) framework, nor does it explore integration across teams or best practices for implementing 1ES. The discussion is centred around Scrum rather than the broader context of 1ES, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

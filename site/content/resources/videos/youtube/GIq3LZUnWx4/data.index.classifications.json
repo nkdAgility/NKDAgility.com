@@ -640,11 +640,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T07:14:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:49:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of Product Owners and the concept of value, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of Product Owners in defining and communicating value within Scrum environments, which is not directly related to Continuous Delivery principles or practices. While there is a mention of value, it lacks explicit references to Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback. The focus is more on Scrum and product management rather than the delivery of software.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -814,11 +817,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T07:15:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:49:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of value in the context of a PSPO course, without a clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses the concept of value in the context of a PSPO course, which aligns with the Evidence-Based Management category. However, it primarily focuses on subjective interpretations of value rather than empirical evidence or metrics. While it touches on the importance of defining value, it lacks a detailed exploration of data-informed decision-making or specific metrics that would strengthen its alignment with EBM principles.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1258,11 +1264,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T07:12:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:49:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of Product Owners and the concept of value, which are not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of Product Owners in Scrum environments and the concept of value, which does not align with the core principles of DevOps. While it touches on leadership and value delivery, it lacks explicit discussions on DevOps practices, automation, or collaboration between development and operations teams.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1447,15 +1456,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T00:11:50",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 25,
+    "calculated_at": "2025-03-21T19:49:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content focuses heavily on the concept of value in the context of a Product Owner's role, which aligns with the Agile Product Operating Model's emphasis on value delivery. It discusses the importance of defining and communicating value, which is a core theme of the model. However, it lacks a broader discussion on Agile methodologies, cross-functional teams, and continuous feedback, which limits its depth. Overall, while it is relevant, it does not cover all aspects of the Agile Product Operating Model comprehensively.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the concept of value in the context of the PSPO course, which is relevant to the Agile Product Operating Model. However, it does not explicitly discuss the broader principles of APOM or its operational aspects. While it aligns with the product-oriented mindset and the role of Product Owners, it lacks depth in covering the full scope of the Agile Product Operating Model, such as governance, roadmaps, or continuous improvement.",
+    "level": "Tertiary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1473,15 +1482,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of Product Owners and the concept of value, with no clear connection to platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:44:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of Product Owners and the concept of value in the context of a PSPO course, which is not related to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1524,6 +1524,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the concept of value in the context of a PSPO course, focusing on the role of Product Owners and their responsibilities. There are no direct mentions of the Shift-Left Strategy, nor does it align with its core themes of integrating testing, security, and compliance early in the software development lifecycle. The discussion lacks depth regarding Shift-Left practices, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:49:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the concept of value in the context of a PSPO course, which is related to product ownership and Scrum. While it touches on the importance of defining and communicating value, it does not explicitly discuss Continuous Improvement principles or practices. The alignment with Continuous Improvement is limited, as the content lacks depth in discussing empirical evidence, data-driven decision-making, or techniques for fostering a culture of experimentation and learning. Overall, the content is more about product management than Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:49:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the concept of value in the context of a PSPO course, which is relevant to product ownership in Agile environments. However, it lacks a direct focus on Common Goals as defined in the category. While it touches on the importance of defining value and leadership within an organisation, it does not explicitly connect these ideas to shared objectives or strategic alignment, which are central to Common Goals. The discussion is more about individual roles and interpretations of value rather than collective goals or frameworks like OKRs.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:49:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of Product Owners in defining and demonstrating value, which indirectly relates to competence in terms of leadership and skill development. However, it primarily focuses on the concept of value rather than explicitly addressing competence or continuous learning. The discussion lacks depth in exploring how competence impacts decision-making or team dynamics, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:49:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the PSPO course and the concept of value in Scrum environments, which does not align with the core principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion lacks depth regarding integration or standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

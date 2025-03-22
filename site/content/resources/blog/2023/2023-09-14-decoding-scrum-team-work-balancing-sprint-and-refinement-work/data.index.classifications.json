@@ -649,11 +649,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T18:17:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:55:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically the balance between Sprint and Refinement work, without addressing Continuous Delivery principles or practices. While it mentions aspects of software development, it does not discuss automation, rapid feedback, or delivery techniques that are central to Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1264,11 +1267,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T18:15:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:54:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 16.0,
+    "reasoning": "The content primarily focuses on Scrum methodologies, discussing Sprint and Refinement work without addressing core DevOps principles such as automation, shared accountability, or continuous improvement. While it mentions Azure DevOps, it does so in the context of Scrum rather than as a tool for implementing DevOps practices. The discussion lacks depth in DevOps concepts, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1417,11 +1423,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T21:48:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:55:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum methodologies, discussing Sprint and Refinement work without any explicit mention of Evidence-Based Management principles or metrics. While it touches on efficiency and team dynamics, it lacks a clear connection to empirical decision-making or data-informed strategies that are central to EBM.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1433,26 +1442,17 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:48:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T22:12:34",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-21T18:55:14",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content primarily focuses on Scrum practices, specifically the balance between Sprint Work and Refinement, which are important aspects of Agile methodologies. However, it lacks a broader discussion on the Agile Product Operating Model as a whole, such as product-centric development principles or strategies for maximising value delivery. While it touches on Agile concepts, it does not delve deeply into the holistic approach required for the Agile Product Operating Model, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically the balance between Sprint and Refinement work. While it touches on aspects of product management, such as achieving product goals and managing the Product Backlog, it does not explicitly discuss the Agile Product Operating Model or its core principles. The discussion is more aligned with Scrum methodology rather than the broader framework of APOM, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1524,6 +1524,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum roles and the balance between Sprint work and Refinement, without explicitly discussing the Shift-Left Strategy or its principles. While there are mentions of preparing for future work, it does not delve into integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:54:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum roles and the balance between Sprint and Refinement work, which are specific to Agile methodologies. While it touches on efficiency and preparation, it lacks a direct discussion on Continuous Improvement principles, such as empirical evidence or a culture of experimentation. The depth of discussion on the balance of work types is notable, but it does not sufficiently align with the broader themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:55:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the operational aspects of Scrum, specifically the balance between Sprint Work and Refinement. While it touches on achieving product goals, it lacks a direct discussion on the alignment of these efforts with broader organisational objectives or the concept of Common Goals as defined in Agile and DevOps. The mention of product goals is too vague and does not connect deeply with the principles of Common Goals, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:55:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the operational aspects of Scrum, specifically the balance between Sprint and Refinement work. While it touches on efficiency and preparation, it lacks a direct discussion on continuous learning, skill development, or the broader implications of competence in Agile methodologies. The mention of visualisation tools like Azure DevOps hints at improving team capabilities but does not delve into fostering a culture of competence or professional growth.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:55:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum methodology, discussing Sprint and Refinement work without addressing the principles or components of the One Engineering System. While it touches on efficiency and team collaboration, it does not provide insights into the integration of tools or processes across teams, nor does it discuss the impact of a unified engineering system. Therefore, it lacks the necessary depth and alignment with the 1ES framework.",
     "level": "Ignored"
   }
 }

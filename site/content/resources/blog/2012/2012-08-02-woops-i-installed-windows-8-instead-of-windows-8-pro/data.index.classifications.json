@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:01:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:15:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to installing and configuring Windows 8, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a personal experience with installing Windows 8 instead of Windows 8 Pro, focusing on troubleshooting and upgrading the operating system. There are no direct mentions of Evidence-Based Management or its key topics, and the discussion lacks any empirical evidence or data-informed decision-making principles. The content does not align with the core themes of EBM, nor does it provide any depth on the subject.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:01:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:14:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Windows installation and features, with no relevance to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses issues related to installing and upgrading Windows operating systems, with no direct mention of DevOps principles, practices, or cultural shifts. It does not align with the core themes of DevOps, such as collaboration, automation, or shared accountability, and lacks depth in discussing any relevant topics. Therefore, it is classified as having a very low confidence score for the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -308,7 +314,7 @@
     "reasoning": "Content primarily discusses issues related to installing and configuring Windows 8, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:02:10",
     "ai_confidence": 0,
@@ -319,11 +325,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:02:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:15:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to installing and configuring Windows 8, with no relevance to Agile principles or product operating models.",
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on troubleshooting and upgrading Windows 8, with no mention or relevance to the Agile Product Operating Model or its principles. It does not discuss any agile methodologies, product management practices, or related topics, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -391,11 +400,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:30:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:15:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about troubleshooting and managing different versions of Windows, with no relevance to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses issues related to installing and upgrading Windows operating systems, with no direct mention or relevance to Continuous Delivery principles, practices, or tools. It lacks any discussion on automation, testing, or deployment, which are core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1422,6 +1434,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses issues related to installing the correct version of Windows and troubleshooting related features. It does not mention or align with the principles of the Shift-Left Strategy, which focuses on integrating testing, security, and compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:14:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting an installation issue with Windows 8, providing a personal account of the author's experience. It does not discuss Continuous Improvement principles, nor does it reflect on processes, products, or team effectiveness. The mention of fixing an installation error is not aligned with the core themes of Continuous Improvement, which emphasise systematic enhancement and learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:14:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a personal experience related to installing the wrong version of Windows and troubleshooting it. There are no mentions of Common Goals, Agile, or DevOps principles, nor does it provide any alignment with the core themes of shared objectives or strategic alignment. The discussion is focused on technical issues and personal anecdotes, which are strictly excluded from the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:14:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting an installation issue with Windows 8, lacking any discussion on competence, continuous learning, or skill development. While it touches on problem-solving, it does not align with the core themes of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

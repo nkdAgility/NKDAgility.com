@@ -130,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T16:00:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:31:15",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the role of the product owner and Scrum Master within Agile teams, focusing on team dynamics and project management rather than DevOps principles or practices.",
+    "final_score": 26.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner within Agile teams, specifically addressing challenges related to their effectiveness. While it briefly mentions collaboration and communication, which are relevant to DevOps, the main discussion revolves around Scrum practices and the responsibilities of Scrum Masters. There is minimal direct mention of DevOps principles, and the depth of discussion does not align with the core themes of DevOps, such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -172,11 +175,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:36:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:31:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges and dynamics of an ineffective Product Owner within Agile teams, focusing on Scrum practices rather than Continuous Delivery principles or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner within Agile teams and the challenges faced by Scrum Masters, which does not directly address Continuous Delivery principles or practices. While it touches on aspects of team dynamics and collaboration, it lacks explicit discussions on Continuous Delivery, automation, or delivery practices. Therefore, the confidence score reflects a minimal connection to the category.",
     "level": "Ignored"
   },
   "Test First Development": {
@@ -1000,15 +1006,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T21:16:31",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T18:31:28",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the role of the Product Owner within Agile teams, which is relevant to the Agile Product Operating Model. However, it primarily focuses on the challenges of an ineffective Product Owner rather than the broader principles and strategies of the Agile Product Operating Model. While it touches on the importance of collaboration and communication, it lacks a comprehensive exploration of product-centric development and value delivery, which are core themes of the category.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner within Agile teams, focusing on the challenges faced by Scrum Masters in supporting ineffective Product Owners. While it touches on aspects of Agile practices, it does not delve deeply into the Agile Product Operating Model as a framework. The discussion is more centred on Scrum roles and interpersonal dynamics rather than the broader principles and operational strategies of the APOM. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the Agile Product Operating Model.",
+    "level": "Tertiary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1216,11 +1222,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:36:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:31:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the dynamics of the role of a product owner and Scrum Master in Agile teams rather than on evidence-based management practices, principles, or empirical decision-making processes.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner within Agile teams and offers strategies for Scrum Masters to support them. While it touches on the importance of effective roles in delivering value, it does not explicitly mention Evidence-Based Management or its key topics. The focus is more on interpersonal dynamics and team support rather than on data-informed decision-making or empirical evidence, which are central to EBM.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1278,15 +1287,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of a product owner in Agile teams and the responsibilities of Scrum Masters, focusing more on technical processes and team dynamics rather than employee engagement or motivation.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:36:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses challenges related to the role of the Product Owner in Agile teams, with a focus on Scrum practices and team dynamics, rather than addressing the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -1551,6 +1551,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the challenges of an ineffective Product Owner within Agile teams, focusing on Scrum roles and team dynamics rather than the Shift-Left Strategy. While there are mentions of collaboration and communication, these are not directly tied to integrating testing, security, or compliance earlier in the development process, which is the essence of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:31:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on addressing the challenges posed by an ineffective Product Owner within Agile teams, which is more about problem-solving and team dynamics than Continuous Improvement. While it touches on aspects of support and education that could lead to better outcomes, it lacks a strong emphasis on the principles of Continuous Improvement, such as empirical evidence, measurable advancements, or a culture of experimentation. The discussion is more about immediate strategies rather than ongoing improvement processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:31:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the challenges faced by Scrum Masters when dealing with ineffective Product Owners, rather than discussing Common Goals directly. While it touches on the importance of collaboration and communication, which are relevant to achieving Common Goals, it lacks explicit discussions on shared objectives or strategic alignment. The depth of discussion is more about problem-solving and relationship-building than about aligning team efforts with overarching organisational goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:31:23",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 30,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the challenges of an ineffective Product Owner, highlighting issues of competence and the necessary skills for the role. It provides actionable strategies for Scrum Masters to support and educate the Product Owner, which aligns with the core themes of competence in Agile environments. However, while competence is a significant focus, the discussion also leans towards team dynamics and organisational politics, which slightly detracts from a pure focus on competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:31:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the challenges faced by Scrum Masters in dealing with ineffective Product Owners within Agile teams. While it touches on collaboration and team dynamics, it does not explicitly discuss the One Engineering System framework, its principles, or its implementation. The discussion is centred around Agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

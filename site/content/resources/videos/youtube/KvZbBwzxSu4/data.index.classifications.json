@@ -661,11 +661,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T05:03:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:24:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses organisational vision, goals, and decision-making processes, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of vision, goals, and leadership in organisational success, without any direct reference to Continuous Delivery principles or practices. While it touches on themes of empowerment and decision-making, it lacks specific discussions on automation, testing, or deployment that are central to Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -838,14 +841,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T18:34:44",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "calculated_at": "2025-03-21T17:24:17",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 30,
-    "final_score": 73.0,
-    "reasoning": "The content discusses evidence-based management as a crucial element for guiding decision-making and measuring progress within an organisation. It highlights the importance of data-driven decisions and continuous improvement, aligning well with the principles of EBM. However, while it mentions EBM and its role, the overall focus is more on strategic direction and leadership rather than a deep dive into EBM practices, which slightly lowers the confidence score.",
+    "final_score": 77.0,
+    "reasoning": "The content explicitly discusses evidence-based management as a critical component of organisational strategy, highlighting its role in measuring success and making data-driven decisions. It aligns well with the core themes of the category, such as the importance of metrics and continuous improvement. The depth of discussion is substantial, providing real-world examples and practical advice on implementing evidence-based practices, which reinforces its relevance to the category.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1484,15 +1487,6 @@
     "reasoning": "The content discusses the importance of vision, goals, and direction in organisations, which aligns with human-centric approaches and the need for decentralisation in decision-making. However, it primarily focuses on management practices and communication rather than explicitly addressing BetaCodex principles.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:28:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the importance of vision, goals, and decision-making in organisations, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:17:02",
@@ -1569,6 +1563,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the importance of vision, goals, and leadership in organisations, with a focus on decision-making and team alignment. While it touches on concepts like evidence-based management and intent-based leadership, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth in relation to integrating testing, security, or compliance early in the software development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:24:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of continuous improvement in the context of aligning teams with a shared vision and goals. It mentions evidence-based management and the need for teams to adapt and refine strategies based on data, which aligns with the principles of continuous improvement. However, the primary focus is more on leadership and communication rather than a deep exploration of continuous improvement practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:24:07",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the importance of a shared vision and clear goals, which are central to the concept of Common Goals in Agile and DevOps. It highlights the challenges of misalignment and the need for effective communication of strategic objectives, demonstrating a strong conceptual alignment with the category. The depth of discussion is significant, providing insights into leadership roles and the impact of shared understanding on organisational performance. However, the anecdotal elements and broader motivational themes slightly detract from a purely focused discussion on Common Goals.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:24:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of clear vision and goals, which are essential for competence in decision-making and team alignment. It highlights the need for continuous learning and the development of product management capabilities, aligning well with the core themes of competence. However, while it touches on these aspects, the primary focus is more on strategic direction and leadership rather than a deep exploration of competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:24:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content discusses the importance of vision, goals, and decision-making in organisations, but it does not explicitly mention the One Engineering System or its principles. While there are themes of alignment and empowerment that could relate to 1ES, the focus is primarily on leadership and organisational culture rather than the integration and standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T21:32:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:25:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between agile coaching and professional coaching, with a focus on agile practices rather than DevOps principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the distinction between Agile coaches and professional coaches, with a strong emphasis on Agile methodologies. While Agile practices can intersect with DevOps principles, the content does not explicitly discuss DevOps as a philosophy or its core themes. The mention of Agile does not align with the key topics of DevOps, such as automation, shared accountability, or continuous improvement, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -91,11 +94,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T21:32:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:25:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between agile coaching and professional coaching, without a focus on evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the differences between Agile coaches and professional coaches, focusing on their roles and expertise rather than on Evidence-Based Management principles. While it touches on Agile methodologies, it does not provide empirical evidence or metrics related to value delivery, decision-making, or outcomes, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -342,15 +348,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the differences between agile coaching and professional coaching without a focus on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T21:33:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between agile coaching and professional coaching, without a focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -661,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T21:33:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:25:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between agile coaching and professional coaching, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the differences between Agile coaches and professional coaches, with a focus on Agile methodologies rather than Continuous Delivery. While it touches on Agile practices, it does not explicitly address Continuous Delivery principles, automation, or related topics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -754,11 +754,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T21:34:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:25:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the differences between agile coaching and professional coaching, without a clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the differences between Agile coaches and professional coaches, with a focus on the skills and contributions of Agile coaches. While it touches on Agile methodologies, it does not directly address the Agile Product Operating Model or its core principles. The discussion lacks depth regarding product management practices and does not explore the transition from project to product ethos, which are key aspects of the APOM. Therefore, the content is only tangentially related to the category.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1515,6 +1518,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the roles of Agile and Professional Coaches, focusing on their differences and the value an Agile Coach brings. There are no direct mentions of the Shift-Left Strategy, nor does it align with its core themes of integrating testing, security, and compliance early in the software development lifecycle. The discussion lacks depth regarding Shift-Left practices, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:25:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on distinguishing between Agile coaches and professional coaches, with a strong emphasis on the technical knowledge and methodologies associated with Agile coaching. While it touches on themes relevant to Continuous Improvement, such as enhancing team effectiveness and introducing new perspectives, it lacks a direct discussion on Continuous Improvement principles, empirical evidence, or specific strategies for fostering a culture of experimentation and learning. Therefore, the content does not align closely enough with the core themes of Continuous Improvement to warrant a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:25:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on distinguishing between Agile coaches and professional coaches, with limited direct discussion on Common Goals. While it touches on Agile methodologies, it lacks a clear connection to shared objectives or alignment within teams, which are central to the Common Goals category. The depth of discussion is also minimal, primarily highlighting the roles rather than exploring how they contribute to organisational alignment or performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:25:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the differences between Agile coaches and professional coaches, highlighting the technical knowledge and expertise of Agile coaches, which aligns with the concept of competence. However, while it touches on the importance of skill and knowledge in Agile methodologies, it does not delve deeply into continuous learning or strategies for fostering a culture of competence, which limits its depth of discussion.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:25:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the differences between Agile coaches and professional coaches, with no direct mention of the One Engineering System (1ES) or its principles. While it discusses Agile methodologies, it does not align with the core themes of 1ES, such as integration and standardisation of engineering processes. The depth of discussion is limited to coaching roles rather than the broader framework of 1ES.",
     "level": "Ignored"
   }
 }

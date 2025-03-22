@@ -33,7 +33,7 @@ tags:
 - Operational Practices
 - Engineering Practices
 - Application Lifecycle Management
-- Continuous Delivery
+- Automated Testing
 categories:
 - DevOps
 - Engineering Excellence

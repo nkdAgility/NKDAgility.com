@@ -88,11 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T00:49:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the Scrum Master role and training, with no clear emphasis on Evidence-Based Management principles or empirical data application.",
+    "calculated_at": "2025-03-21T15:05:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Professional Scrum Master II course, discussing Scrum roles and practices without any explicit mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or empirical evidence, and does not provide depth in discussing how these concepts apply to management decisions.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -318,15 +321,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content focuses heavily on Scrum Master skills and training, without specific emphasis on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T00:49:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the Scrum framework and its practices, which are unrelated to the One Engineering System (1ES) focus on integrating software development practices across teams.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -619,11 +613,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T00:49:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T15:05:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum practices and the role of a Scrum Master, which are not related to Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Professional Scrum Master II course, which is centred around Scrum practices and roles rather than Continuous Delivery principles. While there is a mention of supporting professional development, it does not discuss Continuous Delivery concepts, automation, or related practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the Professional Scrum Master II course and its objectives, with no direct mention or discussion of the Shift-Left Strategy. While it touches on Scrum practices, it does not address integrating testing, security, or compliance earlier in the software development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T15:05:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Professional Scrum Master II (PSM-A) course, which is aimed at enhancing the skills of Scrum Masters. While it touches on professional development and improving Scrum Master abilities, it does not explicitly discuss Continuous Improvement principles or practices. The mention of 'advanced knowledge' and 'professional development' aligns somewhat with the concept of Continuous Improvement, but the depth and direct references to Continuous Improvement methodologies, empirical evidence, or specific strategies are lacking. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T15:05:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Professional Scrum Master II (PSM-A) course and its objectives, which are more about individual skill development rather than discussing Common Goals within Agile or DevOps frameworks. While it mentions the role of the Scrum Master in supporting teams, it lacks explicit discussions on shared objectives or alignment with organisational strategy, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T15:05:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content explicitly discusses the Professional Scrum Master II (PSM-A) course, which is aimed at enhancing the skills and knowledge of Scrum Masters, aligning well with the concept of competence in continuous learning and skill development. It highlights the importance of professional development and the journey towards mastery, which are core themes of the competence category. The depth of discussion is significant as it details the course's focus on advanced practices and skills necessary for effective Scrum Mastery, thus providing a comprehensive view of how competence is fostered in this context.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T15:05:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Professional Scrum Master II (PSM-A) course, which is centred around Scrum practices and roles rather than the One Engineering System framework. There are no direct mentions of 1ES, and the discussion does not align with the core themes of integration, standardisation, or the principles of 1ES. The depth of discussion is limited to Scrum-specific training, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

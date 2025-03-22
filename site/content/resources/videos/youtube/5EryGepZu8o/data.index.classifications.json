@@ -637,11 +637,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T10:54:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:21:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum principles and practices, focusing on empiricism and complexity, which are not related to Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum and its principles, focusing on empiricism and complexity rather than Continuous Delivery. While there are mentions of inspection and adaptation, which are relevant to agile practices, the content does not explicitly address Continuous Delivery principles, practices, or tools. Therefore, it does not align well with the category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -811,15 +814,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T01:25:36",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T20:21:43",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the principles of empiricism, which is a foundational aspect of Evidence-Based Management. It highlights the importance of transparency, inspection, and adaptation, aligning with EBM's focus on data-driven decision-making. However, while it touches on these concepts, the primary focus remains on Scrum practices rather than a comprehensive exploration of EBM principles. The depth of discussion on EBM-specific techniques and case studies is limited, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses empiricism and its role in Scrum, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on Scrum practices rather than explicitly addressing EBM concepts such as current value, time to market, or empirical decision-making. The discussion lacks depth in terms of specific metrics or outcomes related to EBM, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1276,11 +1279,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T10:51:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and principles, focusing on empiricism and complexity, without a clear emphasis on DevOps practices or principles.",
+    "calculated_at": "2025-03-21T20:21:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile methodologies, discussing principles such as empiricism and complexity. While there are some overlapping themes with DevOps, such as collaboration and transparency, the core focus is on Scrum practices rather than the broader DevOps philosophy. Therefore, it does not meet the criteria for a strong alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1466,22 +1472,16 @@
     "reasoning": "Content primarily discusses Scrum principles and practices, focusing on empiricism and complexity rather than the core tenets of BetaCodex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:33:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum principles and practices, which are not aligned with the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:33:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum principles and practices without a focus on the Agile Product Operating Model or value delivery.",
+    "calculated_at": "2025-03-21T20:21:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on Scrum and its principles, particularly empiricism and complexity, rather than directly addressing the Agile Product Operating Model. While it touches on agile concepts, it does not delve into product management principles or the transition from project to product ethos, which are central to the APOM. The discussion lacks depth in terms of product-oriented frameworks and governance, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1533,6 +1533,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum principles and practices, focusing on empiricism, transparency, inspection, and adaptation. While these concepts are relevant to Agile methodologies, they do not specifically address the Shift-Left Strategy, which emphasises early integration of testing, security, and compliance in the software development lifecycle. The content lacks direct mentions of Shift-Left practices and does not explore the integration of critical processes early in development, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:21:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the principles of empiricism, which is a key aspect of Continuous Improvement, particularly in the context of Scrum. It highlights the importance of transparency, inspection, and adaptation, which are essential for fostering a culture of Continuous Improvement. However, while these concepts are relevant, the primary focus of the content is on Scrum and its application rather than a dedicated exploration of Continuous Improvement as a standalone topic. Therefore, the confidence score reflects a moderate alignment with the category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:21:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum principles, particularly empiricism and complexity, without explicitly addressing the concept of Common Goals. While it touches on aspects of team alignment and transparency, it lacks a direct focus on shared objectives or strategic alignment, which are central to the Common Goals category. The discussion is more about Scrum practices than about how these practices contribute to overarching organisational goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:21:27",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the principles of empiricism and complexity in Scrum, which indirectly relates to competence through the emphasis on continuous learning and adaptation. However, while it touches on the importance of skills in navigating complexity, it does not explicitly focus on competence as a primary theme. The depth of discussion on how teams can develop skills is moderate, but the primary focus remains on Scrum principles rather than on competence itself.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:21:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Scrum and its principles, particularly empiricism and complexity, without discussing the One Engineering System framework or its components. While it touches on concepts relevant to software development, it does not align with the core themes of 1ES, such as integration of tools and processes across teams or best practices for implementing a unified engineering system.",
     "level": "Ignored"
   }
 }

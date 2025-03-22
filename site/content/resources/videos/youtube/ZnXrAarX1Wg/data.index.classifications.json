@@ -232,11 +232,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T14:39:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:51:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of Agile consultants and coaching, without a focus on evidence-based management principles or empirical data.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile consulting and coaching, discussing the roles and responsibilities of Agile consultants without any explicit mention of Evidence-Based Management principles or metrics. While it touches on the importance of guiding clients towards new methods, it lacks a clear connection to data-informed decision-making or empirical evidence, which are central to EBM. Therefore, the confidence score reflects minimal relevance to the category.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -280,11 +283,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T14:40:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:51:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile consulting and coaching, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile consulting and coaching, discussing the roles and responsibilities of Agile consultants rather than Continuous Delivery practices. While it touches on themes of organisational change and improvement, it does not explicitly mention Continuous Delivery or its principles, nor does it provide depth on related topics such as automation, rapid feedback, or delivery techniques.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -1216,11 +1222,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T14:38:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:51:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile consulting and Scrum, which are not central to DevOps principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile consulting and coaching, discussing the roles and responsibilities of Agile consultants rather than the principles and practices of DevOps. While there are mentions of organisational change and collaboration, these are framed within the context of Agile methodologies, which do not align with the core themes of DevOps. The content lacks depth in discussing DevOps concepts such as automation, shared accountability, or continuous improvement, leading to a low confidence score.",
     "level": "Ignored"
   },
   "People and Process": {
@@ -1441,11 +1450,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:46:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:51:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of Agile consultants and coaching, without a clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the role of Agile consultants and their responsibilities, which is somewhat related to agile practices but does not specifically address the Agile Product Operating Model. While it mentions concepts like organisational change and coaching, it lacks a direct discussion on product management principles or the core themes of the APOM. The depth of discussion is limited to the consultant's role rather than the broader framework of APOM.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1464,15 +1476,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile consulting and coaching, with no clear connection to platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:46:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile consulting and coaching, with no mention of the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1515,6 +1518,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the role of Agile consultants and coaching, with no explicit mention of the Shift-Left Strategy or its principles. While it touches on themes of organisational change and improvement, it does not delve into integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:51:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of Agile consultants and the importance of encouraging new ways of working, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the consultant's role rather than providing a detailed exploration of Continuous Improvement practices or strategies. The mention of 'continuously improve' is vague and does not delve into specific techniques or frameworks, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:51:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the role of Agile consultants and the importance of guiding clients towards new ways of working, which touches on the concept of aligning strategies with execution. However, it primarily focuses on the individual role of consultants rather than on shared objectives or organisational alignment, which are central to the category of Common Goals. The discussion lacks depth in exploring how these roles contribute to overarching strategic goals or frameworks like OKRs, resulting in a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:51:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of Agile consultants and the importance of guiding clients towards new methods, which touches on the concept of competence. However, it primarily focuses on the pitfalls and responsibilities of consultants rather than a deep exploration of competence as a foundational principle. The discussion lacks detailed strategies for fostering competence or continuous learning, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:51:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile consulting and coaching, discussing the roles and responsibilities of Agile consultants rather than the One Engineering System framework. While it touches on themes of organisational change and improvement, it does not explicitly mention or align with the principles of 1ES, nor does it provide depth on integration or standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

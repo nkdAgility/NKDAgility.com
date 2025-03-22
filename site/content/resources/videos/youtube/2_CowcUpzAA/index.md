@@ -37,8 +37,8 @@ tags:
 - Pragmatic Thinking
 - Accountability
 - Software Development
-- Agile Product Operating Model
 - Continuous Learning
+- Scrum Team
 resourceTypes:
 - video
 layout: video

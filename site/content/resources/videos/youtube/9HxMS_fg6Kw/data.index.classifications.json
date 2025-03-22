@@ -643,11 +643,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T10:08:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:31:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses hiring practices and the qualities of agile consultants, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses hiring practices for agile consultants and does not focus on Continuous Delivery principles or practices. While it touches on Agile concepts, it lacks direct relevance to Continuous Delivery, which is about software delivery cycles and automation. The discussion is more about general Agile methodologies rather than the specific practices and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -808,11 +811,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T10:09:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:31:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses hiring practices and red flags for agile consultants, without a focus on empirical evidence or decision-making processes related to Evidence-Based Management.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses red flags when hiring agile consultants, focusing on community engagement, knowledge of core concepts, and the importance of quality over quantity in consultancy. While it touches on some aspects of empirical knowledge and expertise, it does not explicitly discuss Evidence-Based Management principles or metrics. The discussion lacks depth in terms of data-informed decision-making and does not align closely with the key topics of EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1270,11 +1276,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T10:05:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:30:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses hiring practices and characteristics of agile consultants, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses hiring practices for agile consultants, focusing on agile methodologies rather than DevOps principles. While there are mentions of agile concepts, the discussion does not align with the core themes of DevOps, such as collaboration between development and operations, automation, or shared accountability. The content lacks depth in relation to DevOps, making it unsuitable for this category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1472,25 +1481,16 @@
     "reasoning": "The content discusses hiring practices for agile consultants, focusing on community engagement and knowledge of agile principles. However, it does not explicitly mention Beta Codex or its principles. While there are elements of decentralisation and human-centric approaches, the primary focus remains on identifying red flags in hiring rather than exploring the broader themes of Beta Codex. The depth of discussion is limited to practical advice rather than theoretical exploration.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:37:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses hiring practices and red flags for agile consultants, without a focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T01:57:34",
+    "calculated_at": "2025-03-21T20:31:05",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 20,
     "final_score": 31.0,
-    "reasoning": "The content discusses hiring practices for agile consultants, touching on the importance of community engagement and core agile concepts. However, it primarily focuses on the qualifications and characteristics of consultants rather than the Agile Product Operating Model itself. While there are mentions of agile principles, the discussion lacks depth in relation to product-centric development, value delivery, and the operational model, which are central to the category.",
+    "reasoning": "The content primarily discusses the qualities to look for when hiring an agile consultant, focusing on general agile principles rather than specifically addressing the Agile Product Operating Model. While it touches on agile concepts and the importance of community engagement, it lacks a direct focus on product management principles or the specific themes outlined in the APOM framework. The discussion is more about agile practices in general and does not delve into the operational aspects or governance related to product delivery.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1542,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses hiring practices for agile consultants and does not address the Shift-Left Strategy or its principles. While it touches on agile concepts, it lacks any direct mention or detailed exploration of integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:30:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of hiring knowledgeable agile consultants and the need for continuous learning and adaptation within the agile community. However, it primarily focuses on identifying red flags in hiring practices rather than on Continuous Improvement as a core theme. While there are elements of improvement and learning, they are not the primary focus of the content.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:30:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses red flags when hiring an agile consultant, focusing on individual qualifications and community engagement rather than on shared objectives or alignment within teams. While it touches on Agile concepts, it does not delve into the significance of Common Goals or their impact on team collaboration and organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:31:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of competence in hiring agile consultants, highlighting the need for continuous learning, community engagement, and a deep understanding of agile principles. It explicitly mentions the lack of knowledge and the focus on quality over quantity, which aligns well with the core themes of competence. The depth of discussion is substantial, providing detailed insights into what constitutes competence in the context of agile consultancy.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:31:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses hiring practices for agile consultants and does not focus on the One Engineering System framework or its principles. While it touches on agile concepts, it lacks direct relevance to the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

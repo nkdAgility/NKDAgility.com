@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:21:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:45:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the upgrade process for Team Foundation Server 2013, focusing on technical details and personal experiences rather than evidence-based management principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server 2013, including installation and backup strategies. It does not discuss Evidence-Based Management principles or metrics, nor does it provide any empirical evidence or data-informed decision-making insights. The mention of backups and server upgrades is tangential and does not align with the core themes of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:07:57",
+    "calculated_at": "2025-03-22T07:45:37",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
+    "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server 2013, which is a tool used in software development and project management. While it touches on aspects of deployment and configuration, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The mention of backups and server upgrades is relevant but does not delve into the collaborative and continuous delivery aspects central to DevOps.",
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server 2013, including installation and backup strategies. While it touches on some elements relevant to DevOps, such as the importance of backups and system configuration, it lacks a broader discussion on the DevOps philosophy, principles, or cultural shifts. The content does not explicitly mention DevOps or its core themes, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -340,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:25:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:45:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the upgrade process for Team Foundation Server 2013, focusing on technical aspects rather than Agile product development principles or value delivery.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server 2013, with no direct discussion of agile methodologies or product management principles. While it may touch on aspects of software development, it does not align with the core themes of the Agile Product Operating Model, such as continuous delivery or customer-centric value.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -368,7 +374,7 @@
     "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server 2013, which is a tool used in the application lifecycle management space. However, it lacks a comprehensive discussion on the broader aspects of Application Lifecycle Management, such as methodologies, governance, or integration with Agile and DevOps principles. While it touches on the upgrade and maintenance stages, it does not delve into best practices or metrics for measuring effectiveness, which are key topics in the ALM category.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:25:33",
     "ai_confidence": 0,
@@ -418,11 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:05:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:45:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses upgrading Team Foundation Server and related processes, but does not address Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on upgrading Team Foundation Server 2013, discussing installation and backup strategies. While it touches on aspects of software deployment, it lacks a direct focus on Continuous Delivery principles, practices, or the cultural aspects associated with it. The discussion is more about the technicalities of an upgrade rather than the broader themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1482,6 +1491,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server 2013, discussing installation steps, backup procedures, and configuration details. There is no explicit mention of integrating testing, security, or compliance earlier in the software development lifecycle, which are core aspects of the Shift-Left Strategy. The discussion lacks depth in relation to the principles or benefits of the Shift-Left approach, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:45:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server 2013, including installation and backup strategies. While it touches on the importance of backups and smooth upgrades, it lacks a direct discussion on Continuous Improvement principles, empirical evidence, or a culture of experimentation. The content does not provide substantial detail on how these upgrades contribute to ongoing process enhancements or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:45:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server 2013, including installation processes and backup strategies. It does not discuss the concept of Common Goals, nor does it connect individual contributions to organisational objectives within Agile or DevOps frameworks. The mention of TFS does not align with the principles of shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:45:44",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server 2013, including installation processes and backup strategies. While it touches on the importance of backups and system readiness, it does not explicitly discuss competence in terms of continuous learning, skill development, or the professional principles outlined in the category definition. The discussion lacks depth and does not align with the core themes of competence, making it a secondary focus at best.",
     "level": "Ignored"
   }
 }

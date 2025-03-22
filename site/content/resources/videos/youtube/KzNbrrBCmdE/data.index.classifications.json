@@ -44,15 +44,6 @@
     "reasoning": "Content primarily discusses flexibility and inflexibility in project management without a clear focus on BetaCodex principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:06:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses flexibility and inflexibility in project management without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T12:06:47",
@@ -325,11 +316,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T12:07:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses flexibility and inflexibility in project management without a clear focus on Evidence-Based Management principles or empirical data.",
+    "calculated_at": "2025-03-21T17:03:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses the balance between flexibility and inflexibility in agile methodologies, touching on the importance of data integrity and informed decision-making. However, it primarily focuses on agile practices rather than explicitly addressing Evidence-Based Management principles. While there are mentions of data and decision-making, the overall emphasis is more on agile methodologies than on empirical evidence and metrics central to EBM.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -1027,11 +1021,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T14:40:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:03:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses flexibility in project management and does not focus on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses agile methodologies, focusing on flexibility and inflexibility in project management. While it touches on themes relevant to Continuous Delivery, such as adaptability and iterative processes, it does not explicitly mention Continuous Delivery or its principles. The discussion lacks depth in terms of Continuous Delivery practices, automation, or specific strategies for software delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1473,6 +1470,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the balance between flexibility and inflexibility in agile methodologies, without any explicit mention of the Shift-Left Strategy or its core principles. While it touches on project management and team dynamics, it does not delve into integrating testing, security, or compliance earlier in the development process, which are essential aspects of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:03:19",
+    "ai_confidence": 47.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 35.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the balance between flexibility and inflexibility in agile methodologies, which touches on aspects of Continuous Improvement, such as adapting processes and enhancing productivity. However, it lacks direct mentions of Continuous Improvement principles and does not delve deeply into empirical evidence or specific strategies for fostering a culture of experimentation. The focus is more on agile practices rather than a dedicated exploration of Continuous Improvement.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:03:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses flexibility and inflexibility in agile methodologies but does not explicitly focus on Common Goals. While it mentions the importance of defining clear goals, the primary emphasis is on adaptability and decision-making rather than aligning strategy with execution. The discussion lacks depth in connecting these concepts to the overarching principles of Agile and DevOps, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:03:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses flexibility and inflexibility in agile methodologies, which indirectly relates to competence through the need for informed decision-making and adaptability. However, it lacks direct mentions of competence and does not delve deeply into continuous learning or skill development, which are core themes of the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:03:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses agile methodologies, focusing on flexibility and inflexibility, without any direct mention or detailed exploration of the One Engineering System framework. While it touches on themes of adaptability and team dynamics, it does not align with the core principles of 1ES, such as integration of tools and processes or standardisation across teams.",
     "level": "Ignored"
   }
 }

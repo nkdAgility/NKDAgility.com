@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/ZcMcVL7mNGU/maxresdefault.jpg
 duration: 256
 isShort: false
 tags:
+- Common Goals
 - People and Process
 - Agile Strategy
 - Agile Product Management
@@ -33,7 +34,6 @@ tags:
 - Value Delivery
 - Agile Philosophy
 - Pragmatic Thinking
-- Agile Product Operating Model
 - Agile Project Management
 sitemap:
   filename: sitemap.xml

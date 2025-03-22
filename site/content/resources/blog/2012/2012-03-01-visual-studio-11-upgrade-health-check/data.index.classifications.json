@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:52:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:24:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio 11 and related health check services, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a health check for upgrading to Visual Studio 11 and does not discuss Evidence-Based Management principles. While it mentions Scrum, it does not provide any empirical evidence or metrics related to EBM, nor does it align with the core themes of current value, time to market, or empirical decision-making.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:52:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:24:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses upgrading to Visual Studio 11 and Team Foundation Server, with a focus on Scrum Health Check, rather than DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on upgrading to Visual Studio 11 and Team Foundation Server, which are tools rather than discussions on DevOps principles. While there is a mention of helping teams, it lacks explicit references to DevOps philosophy, practices, or cultural shifts. The discussion does not delve into key DevOps topics such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -326,7 +332,7 @@
     "reasoning": "Content primarily discusses the upgrade process for Visual Studio and Team Foundation Server, with a focus on Scrum Health Check, rather than Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:53:13",
     "ai_confidence": 0,
@@ -337,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:53:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:24:40",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Visual Studio 11 and its upgrade process, with a focus on Scrum Health Check, rather than the Agile Product Operating Model.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on upgrading to Visual Studio 11 and does not discuss the Agile Product Operating Model or its principles. While there is a brief mention of Scrum in the context of a health check, it does not align with the core themes of the APOM, such as product management or continuous delivery. The discussion lacks depth and relevance to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -412,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:04:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:24:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses upgrading Visual Studio and Team Foundation Server, along with Scrum Health Check services, without focusing on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on upgrading to Visual Studio 11 and does not explicitly discuss Continuous Delivery principles or practices. While it mentions a health check related to Scrum, it lacks direct references to Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback. The discussion is superficial and does not delve into the core themes of Continuous Delivery, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1455,6 +1467,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on upgrading to Visual Studio 11 and Team Foundation Server, with no explicit discussion of the Shift-Left Strategy. While it mentions helping teams prepare for upgrades, it does not address integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:24:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a health check for upgrading to Visual Studio 11, with minimal reference to Continuous Improvement principles. While it mentions helping teams prepare for a transition, it lacks a discussion on ongoing practices, empirical evidence, or a culture of experimentation, which are central to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:24:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a health check for upgrading to Visual Studio 11 and does not discuss Common Goals in Agile or DevOps. While it mentions Scrum in passing, it does not explore the significance of shared objectives or alignment within teams, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:24:38",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the upgrade process for Visual Studio 11 and the associated Health Check services. While it mentions helping teams prepare for the transition, it does not explicitly discuss competence in terms of continuous learning, skill development, or the core themes outlined in the category. The mention of 'helping teams' is vague and does not delve into the depth of competence as defined in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

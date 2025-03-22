@@ -37,11 +37,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T15:22:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:02:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation and configuration of Project Server 2013 and Team Foundation Server 2012, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, with minimal discussion on Evidence-Based Management principles. While there is a brief mention of 'earned value' management, it does not delve into the core themes of EBM such as empirical decision-making or current value metrics. The discussion lacks depth and does not provide substantial evidence-based insights or data-informed decision-making practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,14 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:30:59",
+    "calculated_at": "2025-03-22T08:02:32",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the integration of Project Server 2013 with Team Foundation Server 2012, which is more aligned with project management and software development practices rather than the core principles of DevOps. While it touches on aspects of collaboration and integration between tools, it lacks a comprehensive discussion on DevOps practices such as Continuous Integration (CI), Continuous Delivery (CD), or the cultural shifts necessary for successful DevOps implementation. The depth of discussion on related tools is present, but it does not delve into metrics or performance indicators that are crucial for measuring DevOps success.",
+    "reasoning": "The content primarily focuses on integrating Project Server 2013 with Team Foundation Server 2012, which is more aligned with project management and tool integration rather than the core principles of DevOps. While there are mentions of collaboration and project management, the discussion lacks depth in DevOps philosophy, automation, and cultural shifts necessary for effective DevOps implementation. The content does not address key DevOps topics such as continuous value delivery, feedback loops, or shared accountability, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -344,7 +347,7 @@
     "reasoning": "Content primarily focuses on the installation and configuration of Project Server 2013 and Team Foundation Server 2012, with no clear discussion on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-14T15:23:54",
     "ai_confidence": 0,
@@ -355,11 +358,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T15:23:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:02:43",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the integration and configuration of Project Server 2013 with Team Foundation Server 2012, focusing on technical setup rather than Agile principles or product-centric development.",
+    "final_score": 26.0,
+    "reasoning": "The content primarily focuses on integrating Project Server with Team Foundation Server, which is more aligned with traditional project management practices rather than the Agile Product Operating Model. While there are brief mentions of agile processes, they are not the main focus, and the discussion lacks depth in relation to the core principles of APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -433,11 +439,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T15:24:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:02:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes rather than Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on integrating Project Server 2013 with Team Foundation Server 2012, discussing installation and configuration steps rather than Continuous Delivery principles. While it touches on project management and collaboration, it lacks explicit discussions on Continuous Delivery practices, automation, or rapid feedback mechanisms. The content does not delve into the core themes of Continuous Delivery, such as incremental improvements or cultural aspects, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1536,6 +1545,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the installation and configuration of Project Server 2013 and its integration with Team Foundation Server 2012. While it touches on project management and agile processes, it does not explicitly discuss the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth in relation to integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:02:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, with minimal discussion on Continuous Improvement principles. While there are brief mentions of project management and agile processes, these are not explored in depth or connected to the core themes of Continuous Improvement. The content lacks a commitment to empirical evidence, experimentation, or strategies for enhancing processes, which are essential for this category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:02:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, lacking explicit discussions on Common Goals within Agile or DevOps frameworks. While it briefly touches on project management and collaboration, it does not delve into shared objectives or strategic alignment, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:02:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, with limited discussion on competence. While it touches on the importance of solid agile processes, it does not delve deeply into continuous learning, skill development, or the role of competence in delivering quality outcomes. The mention of agile processes is brief and does not explore strategies for fostering a culture of competence or the impact of competence on decision-making.",
     "level": "Ignored"
   }
 }

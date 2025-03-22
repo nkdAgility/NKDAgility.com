@@ -652,11 +652,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T05:30:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Agile principles and the pitfalls of dogma within Agile practices, with only a brief mention of Continuous Delivery, which is not central to the overall theme.",
+    "calculated_at": "2025-03-21T18:02:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile practices and the pitfalls of routine Agile questions, with a focus on improving team dynamics and value delivery. While it touches on aspects of efficiency and progress, it does not explicitly address Continuous Delivery principles, automation, or the specific practices that enhance software delivery cycles. The discussion is more about Agile methodologies rather than Continuous Delivery itself, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -829,11 +832,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T05:30:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the pitfalls of dogma in Agile practices rather than focusing on evidence-based management principles or empirical data.",
+    "calculated_at": "2025-03-21T18:02:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile practices and the importance of focusing on value delivery, which aligns with some aspects of Evidence-Based Management. However, it primarily revolves around Agile routines and does not explicitly mention empirical evidence or metrics that are central to EBM. The discussion lacks depth in terms of data-informed decision-making and does not provide concrete metrics or analyses that would strengthen its alignment with the EBM category.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1273,11 +1279,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T05:28:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:01:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile practices and the pitfalls of routine Agile questions, which are not directly related to DevOps principles. While it touches on the importance of focusing on value delivery, it lacks a comprehensive exploration of DevOps concepts such as collaboration, automation, and shared accountability. The discussion is more centred on Agile methodologies rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1456,15 +1465,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T20:17:22",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-03-21T18:02:11",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses Agile practices, particularly the importance of focusing on value delivery rather than routine questions in Scrum meetings. While it touches on Agile principles, it does not explicitly address the Agile Product Operating Model or its key topics in depth. The emphasis on value delivery aligns with the core themes of the category, but the discussion lacks comprehensive exploration of product-centric development and cross-functional teams.",
-    "level": "Secondary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile practices, particularly the daily Scrum and the importance of focusing on value delivery rather than routine questions. However, it primarily revolves around Agile ceremonies and does not explicitly address the Agile Product Operating Model or its principles. While there is some alignment with the concept of delivering customer-centric value, the depth of discussion on the APOM framework itself is lacking, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1486,15 +1495,6 @@
     "final_score": 65.0,
     "reasoning": "The content discusses Agile practices and the importance of focusing on value delivery, which aligns with the principles of collaboration and decision-making in social technologies. However, while it touches on team dynamics and the need for effective communication, it primarily focuses on the critique of routine Agile questions rather than a broader discussion of social technologies as a framework. The depth of discussion on social technologies is limited, leading to a moderate confidence score.",
     "level": "Secondary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:37:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Agile practices and dogma, with a focus on Scrum, rather than the principles or implementation of the One Engineering System.",
-    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1536,6 +1536,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Agile practices and the importance of focusing on value delivery during Scrum meetings. While it touches on improving processes, it does not explicitly mention the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is more about Agile routines rather than integrating testing, security, or compliance earlier in the development lifecycle, which is central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:02:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of focusing on value delivery and adapting Agile practices, which aligns with the principles of Continuous Improvement. However, it primarily critiques existing routines rather than providing a comprehensive exploration of Continuous Improvement strategies or frameworks. The mention of evolving practices and enhancing meeting efficiency indicates some alignment, but the depth of discussion on Continuous Improvement concepts is limited.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:02:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of focusing on value and progress towards the sprint goal, which aligns with the concept of Common Goals. However, it primarily critiques routine Agile practices rather than explicitly defining or deeply exploring Common Goals. The mention of the sprint goal indicates some alignment, but the overall depth of discussion on Common Goals is limited.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:02:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile practices and the importance of focusing on value delivery rather than rote routines, which indirectly relates to competence. However, it does not explicitly mention continuous learning or skill development, which are key aspects of the competence category. The discussion is more about improving Agile processes than about fostering competence within teams.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:02:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile practices and the pitfalls of routine Agile questions, with no direct mention or focus on the One Engineering System framework. While it touches on team collaboration and efficiency, it does not align with the core principles of 1ES, nor does it provide depth on its components or implementation. The discussion is centred around Agile methodologies rather than the integration and standardisation of engineering processes as defined by 1ES.",
     "level": "Ignored"
   }
 }

@@ -56,15 +56,6 @@
     "reasoning": "The content discusses the need for rapid response to market changes and the shift from traditional long release cycles to continuous delivery, which aligns with the principles of decentralisation and agility in organisational design. However, it does not explicitly mention BetaCodex or its foundational theories, and while it touches on human-centric approaches through user feedback, it lacks depth in discussing leadership dynamics or adaptive cultures. Overall, it reflects some core themes but does not fully engage with the BetaCodex category.",
     "level": "Secondary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T11:55:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses deployment frequencies and agile practices, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T11:55:54",
@@ -370,15 +361,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T13:48:52",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T16:45:43",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses the transformation of Azure DevOps and highlights the importance of continuous delivery and data utilisation, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on anecdotal experiences and general advice rather than providing empirical evidence or detailed case studies specific to EBM. The discussion of feedback loops and data-driven decision-making is relevant but lacks depth in terms of formal EBM practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the transformation of Azure DevOps towards continuous delivery and the importance of feedback loops, which aligns with the principles of Evidence-Based Management. However, it lacks explicit references to empirical metrics or a structured approach to decision-making based on data, which are crucial for a higher confidence score in this category.",
+    "level": "Secondary"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -1192,14 +1183,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T16:10:36",
+    "calculated_at": "2025-03-21T16:45:40",
     "ai_confidence": 87.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 90.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 20,
     "final_score": 80.0,
-    "reasoning": "The content explicitly discusses the transformation to Continuous Delivery within the Azure DevOps team, highlighting the shift from long release cycles to rapid deployment frequencies. It aligns well with the core themes of Continuous Delivery, such as the importance of feedback loops, automation, and maintaining a production-ready state. The depth of discussion is substantial, providing actionable insights and key takeaways that reflect the principles of Continuous Delivery, making it a primary focus of the content.",
+    "reasoning": "The content explicitly discusses continuous delivery, highlighting its importance in shortening feedback loops and enhancing agility. It provides a detailed narrative of Azure DevOps' transformation, illustrating the shift from long release cycles to continuous delivery practices. The key takeaways emphasise principles such as embracing continuous delivery, starting small, and utilising data, which align closely with the core themes of the category. The depth of discussion is substantial, offering insights into the cultural shift required for successful implementation.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -1684,5 +1675,53 @@
     "final_score": 56.0,
     "reasoning": "The content discusses the transformation of Azure DevOps towards continuous delivery and the importance of quick feedback loops, which aligns with the Shift-Left Strategy principles. However, it does not explicitly mention testing, security, or compliance integration early in the development process, which are critical aspects of the Shift-Left Strategy. The focus is more on agility and deployment frequency rather than the proactive identification of issues, leading to a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:45:30",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the transformation of Azure DevOps towards continuous delivery, highlighting the importance of shortening feedback loops and adapting based on customer insights. It aligns well with the core themes of Continuous Improvement, such as data-driven decision-making and fostering a culture of experimentation. The depth of discussion is substantial, providing actionable takeaways and illustrating the impact of these practices on organisational agility.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:45:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the transformation of Azure DevOps and the importance of continuous delivery, which aligns with the concept of Common Goals in terms of enhancing organisational agility and responsiveness. However, it primarily focuses on the operational aspects of deployment frequency and feedback loops rather than explicitly addressing shared objectives or strategic alignment within teams. The mention of 'maximising value creation' hints at a connection to Common Goals, but the overall discussion lacks depth in exploring how these operational changes relate to overarching strategic objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:45:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the transformation of Azure DevOps and the importance of continuous delivery, which aligns with the principles of competence in Agile and DevOps. It highlights the necessity for continuous learning and adaptation, as well as the impact of competence on decision-making and value creation. However, while competence is a significant theme, the discussion is more focused on processes and outcomes rather than a deep exploration of skill development or fostering a culture of competence.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:45:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the transformation of Azure DevOps towards continuous delivery, which aligns with some principles of the One Engineering System, such as improving efficiency and responsiveness. However, it lacks direct mentions of 1ES and does not delve into the framework's specific components or best practices, resulting in a low confidence score.",
+    "level": "Ignored"
   }
 }

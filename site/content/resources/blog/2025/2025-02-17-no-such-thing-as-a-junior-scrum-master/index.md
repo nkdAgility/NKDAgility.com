@@ -23,6 +23,7 @@ aliasesArchive:
 - /there-is-no-such-thing-as-a--junior--scrum-master
 - /blog/there-is-no-such-thing-as-a--junior--scrum-master
 tags:
+- Competence
 - Scrum Master
 - Scrum Team
 - Professional Scrum
@@ -32,7 +33,6 @@ tags:
 - Scrum Product Development
 - Technical Leadership
 - People and Process
-- Software Development
 categories:
 - Scrum
 - Leadership

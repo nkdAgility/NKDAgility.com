@@ -37,11 +37,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T13:16:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning and the experience of trainers, without a focus on Evidence-Based Management principles or empirical data.",
+    "calculated_at": "2025-03-21T17:48:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on immersive learning in Agile and Scrum contexts, with limited direct mention of Evidence-Based Management principles. While it discusses practical application and real-world scenarios, it lacks a strong emphasis on empirical evidence or metrics that are central to EBM. The discussion is more about training methodologies rather than data-informed decision-making.",
     "level": "Ignored"
   },
   "Personal": {
@@ -310,20 +313,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:17:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning and training experiences, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T17:48:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on immersive learning for Scrum practitioners, which is a specific aspect of Agile training rather than a comprehensive discussion on the Agile Product Operating Model. While it touches on Agile principles and the importance of real-world application, it does not delve into the broader themes of the Agile Product Operating Model, such as product-oriented mindsets or governance in product delivery. The discussion is more about training methodologies than the operational model itself.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T13:17:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:47:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning and training, with no clear focus on DevOps principles, practices, or related topics.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on immersive learning within the context of Agile and Scrum, which are methodologies that do not directly align with the core principles of DevOps. While there are mentions of collaboration and practical application, the discussion lacks depth in DevOps-specific themes such as automation, shared accountability, or continuous improvement. Therefore, the content does not meet the criteria for a strong alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -345,15 +354,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning and the benefits of experienced trainers, with no focus on flow efficiency or related concepts.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:17:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning and the experience of trainers, with no clear focus on the principles or components of the One Engineering System.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -982,11 +982,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T13:19:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning and training methodologies, with no clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T17:48:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on immersive learning within the context of Agile and Scrum training, with no direct discussion of Continuous Delivery principles or practices. While it touches on aspects of practical application and real-world scenarios, it does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or incremental improvements. The depth of discussion is limited to training methodologies rather than delivery practices.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1437,6 +1440,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses immersive learning in Agile and Scrum contexts, focusing on training methods rather than integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on practical application and real-world scenarios, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:47:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses immersive learning in the context of Agile and Scrum training, which indirectly relates to Continuous Improvement through the emphasis on practical application and real-time feedback. However, it lacks a direct focus on Continuous Improvement principles, such as empirical evidence or systematic strategies for enhancing processes. The discussion is more centred on training methodologies rather than a comprehensive exploration of Continuous Improvement as a primary theme.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:48:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on immersive learning techniques for Agile and Scrum practitioners, discussing the benefits of practical experience and real-world application. While it touches on themes relevant to team effectiveness and training, it does not explicitly address the concept of Common Goals or their significance in aligning strategy with execution. The discussion lacks depth in connecting individual contributions to overarching organisational objectives, which is crucial for a higher confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:48:02",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of immersive learning in enhancing skills and competence for Scrum practitioners. It highlights the necessity of practical experience, real-world application, and the role of experienced trainers in fostering competence. The depth of discussion on how immersive learning builds confidence and prepares individuals for real-world challenges aligns well with the core themes of competence. Overall, the content is focused on developing skills and capabilities, making it a strong fit for the category.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:48:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on immersive learning within Agile and Scrum contexts, discussing training methods and personal experiences rather than the principles or implementation of the One Engineering System. There are no direct mentions of 1ES, and the discussion does not align with the core themes of standardisation and integration of software development practices.",
     "level": "Ignored"
   }
 }

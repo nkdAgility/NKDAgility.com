@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:31:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:17:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of connecting Visual Studio to TFS, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for connecting Visual Studio 2008 to TFS 2010, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on aspects of development workflow, it lacks any empirical evidence or data-informed decision-making discussions that are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:31:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:16:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses connecting Visual Studio to TFS, which is not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on connecting Visual Studio 2008 to TFS 2010, which is more about specific tools and integration rather than the broader principles and practices of DevOps. While it mentions TFS (Team Foundation Server), it does not discuss any of the core themes of DevOps such as collaboration, automation, or shared accountability. The discussion lacks depth in terms of DevOps philosophy and does not provide insights into cultural shifts or continuous improvement, which are essential aspects of the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses technical aspects of connecting Visual Studio to TFS, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:32:14",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:32:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:17:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses connecting Visual Studio to TFS, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on connecting Visual Studio 2008 to TFS 2010, which is a technical guide related to software development tools rather than discussing the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM category. The content lacks depth and alignment with the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T03:05:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:17:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses connecting Visual Studio to TFS 2010, which is not related to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on connecting Visual Studio 2008 to TFS 2010, which is more about integration and setup rather than Continuous Delivery practices. There are no direct mentions of Continuous Delivery principles, automation, or the benefits of rapid feedback and validation. The discussion lacks depth in terms of Continuous Delivery concepts, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1443,6 +1455,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses connecting Visual Studio 2008 to TFS 2010, focusing on technical details and backward compatibility. It does not address the Shift-Left Strategy, nor does it mention testing, security, or compliance processes in the software development lifecycle. The discussion is unrelated to the proactive integration of these elements early in development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:17:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for connecting Visual Studio 2008 to TFS 2010, with no explicit discussion of Continuous Improvement principles. While it mentions backward compatibility and some challenges faced by developers, it lacks a focus on empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning, which are core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:17:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for connecting Visual Studio 2008 to TFS 2010, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it mentions TFS, it does not connect to the overarching themes of alignment, shared objectives, or strategic goals that define the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:17:07",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on technical instructions for connecting Visual Studio 2008 to TFS 2010, with minimal discussion on competence or skill development. While it touches on backward compatibility and mentions the importance of connection for Business Intelligence teams, it lacks a thorough exploration of continuous learning, quality outcomes, or fostering a culture of competence, which are central to the category.",
     "level": "Ignored"
   }
 }

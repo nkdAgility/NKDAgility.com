@@ -28,6 +28,7 @@ isShort: true
 tags:
 - Software Development
 - Practical Techniques and Tooling
+- Continuous Improvement
 - Agile Frameworks
 - Operational Practices
 - Lean Thinking

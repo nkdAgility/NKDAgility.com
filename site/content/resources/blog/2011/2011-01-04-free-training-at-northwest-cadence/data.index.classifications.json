@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:07:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:48:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses free training sessions and specific topics related to Coffee Talks, without any focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting free training sessions and Coffee Talks at Northwest Cadence, with no explicit discussion of Evidence-Based Management principles or metrics. While it mentions topics related to ALM and Quality Assurance, it does not align with the core themes of EBM, such as data-informed decision-making or empirical evidence. The depth of discussion is minimal, lacking any substantial connection to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T00:07:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:48:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses free training sessions and specific topics related to ALM and testing, without a clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting free training sessions at Northwest Cadence, specifically highlighting Coffee Talks related to ALM and Quality Assurance. While there is a mention of enhancing skills, it does not explicitly discuss DevOps principles, practices, or cultural shifts. The content lacks depth in relation to the core themes of DevOps, such as collaboration, automation, or shared accountability, and does not provide substantial detail on any DevOps-related topics.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,7 +335,7 @@
     "reasoning": "Content primarily discusses free training sessions and specific topics related to Coffee Talks, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:08:22",
     "ai_confidence": 0,
@@ -340,11 +346,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:08:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:48:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses free training sessions and specific topics related to ALM and testing, without a focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting free training sessions at Northwest Cadence, specifically Coffee Talks related to ALM and Quality Assurance. There are no direct mentions of the Agile Product Operating Model or its principles, and the discussion does not align with the core themes of APOM. The content lacks depth regarding agile methodologies or product management practices.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -421,11 +430,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:46:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:48:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses training offerings and events at Northwest Cadence, without focusing on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting free training sessions at Northwest Cadence, specifically Coffee Talks related to ALM and Quality Assurance. While it mentions topics that could be relevant to software development, it does not explicitly discuss Continuous Delivery principles, practices, or benefits. The mention of ALM and Quality Assurance is too vague and does not align with the core themes of Continuous Delivery, which requires a more focused discussion on delivery practices and automation.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1462,5 +1474,41 @@
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on promoting free training sessions at Northwest Cadence, with no explicit discussion of the Shift-Left Strategy. While it mentions topics related to testing, such as 'The Full Testing Experience', it does not delve into integrating testing early in the development process or the principles of the Shift-Left Strategy. The overall emphasis is on training offerings rather than the strategic approach to software development.",
     "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:48:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting free training sessions and Coffee Talks at Northwest Cadence, with no explicit discussion of Continuous Improvement principles. While it mentions enhancing skills, it lacks depth in exploring the core themes of Continuous Improvement, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The content does not provide strategies or case studies related to Continuous Improvement, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:48:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting free training sessions and Coffee Talks at Northwest Cadence, with no explicit discussion of Common Goals or their significance in Agile and DevOps. While it mentions enhancing skills, it does not connect these skills to shared objectives or strategic alignment, which are central to the concept of Common Goals. The content lacks depth in discussing how these training sessions might contribute to team alignment or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:48:18",
+    "ai_confidence": 65.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 58.0,
+    "reasoning": "The content discusses free training sessions aimed at enhancing skills, which aligns with the concept of continuous learning and skill development. However, it lacks a deeper exploration of competence as a principle in Agile or DevOps methodologies, focusing more on the training offerings rather than the broader implications of competence in professional settings.",
+    "level": "Tertiary"
   }
 }

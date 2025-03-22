@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:22:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:01:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses build processes and server setups, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses build processes and server setups for software development, which does not directly relate to Evidence-Based Management principles. While it touches on aspects of quality assurance and testing, it lacks explicit references to empirical decision-making, value delivery metrics, or any of the key topics outlined in the EBM definition. The focus is more on technical implementation rather than strategic management based on evidence.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,15 +133,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:39:08",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-03-22T09:00:49",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
-    "reasoning": "The content discusses the importance of build servers and outlines a structured approach to setting up builds for a team project, which aligns with DevOps principles of Continuous Integration (CI). However, while it touches on automation and testing, it lacks a broader discussion on cultural shifts, collaboration, or tools beyond the specific context of builds. The focus is primarily on the mechanics of build processes rather than a comprehensive exploration of DevOps as a whole.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the setup of build servers and the importance of continuous integration (CI) and automated testing, which are key practices in the DevOps philosophy. However, it lacks a broader discussion on the cultural and collaborative aspects of DevOps, focusing primarily on technical implementation without addressing the principles of shared accountability or continuous improvement. Therefore, while it aligns with some core themes, it does not provide a comprehensive exploration of DevOps as a philosophy.",
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -338,7 +341,7 @@
     "reasoning": "Content primarily discusses build processes and server configurations in software development, lacking a focus on Systems Thinking principles or interconnectedness.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-03-15T07:10:20",
     "ai_confidence": 32.0,
@@ -352,11 +355,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:22:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:01:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses build processes and server setups, which are technical practices rather than focusing on Agile principles or product value delivery.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on build processes and CI/CD practices, which are more aligned with traditional software development and engineering practices rather than the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or the transition from project to product ethos, which are central to the APOM framework. The discussion lacks depth in relation to the key topics outlined for the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -430,15 +436,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-11T12:06:47",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-22T09:01:07",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses the importance of build servers and outlines a structured approach to setting up builds for a team project, which aligns with Continuous Delivery principles. However, it lacks explicit mention of Continuous Delivery as a concept and does not delve deeply into automation, deployment strategies, or risk management, which are key aspects of the category.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the setup of builds (Gate, CI, Nightly) which are integral to Continuous Delivery practices. It explains how these builds contribute to code quality and collaboration, aligning with the principles of Continuous Delivery. However, the discussion lacks depth in exploring broader Continuous Delivery concepts such as automation, rapid feedback, and cultural aspects, which limits its overall alignment with the category.",
+    "level": "Secondary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -1527,6 +1533,42 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses build processes and testing strategies, which are relevant to the Shift-Left Strategy. However, it does not explicitly mention the Shift-Left concept or its principles. The focus is primarily on build configurations rather than integrating testing and security earlier in the development lifecycle. While there is some alignment with the idea of early testing, the depth of discussion is limited and lacks a comprehensive exploration of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:00:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of build processes in software development, which can contribute to quality assurance and team collaboration. However, it lacks a direct focus on Continuous Improvement principles such as empirical evidence, culture of experimentation, or strategies for integrating improvement into organisational processes. The discussion is more about technical setup rather than a broader commitment to ongoing enhancement and learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:00:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of setting up build servers and the types of builds (Gate, CI, Nightly) necessary for project collaboration. While it touches on collaboration, it does not explicitly discuss the concept of Common Goals or how these builds align with strategic objectives within Agile or DevOps frameworks. The discussion lacks depth in connecting these practices to overarching goals, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:01:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of setting up builds in a project, which indirectly relates to competence by ensuring code quality and collaboration among developers. However, it lacks a direct focus on continuous learning, skill development, or the broader implications of competence in Agile or DevOps methodologies. The discussion is primarily technical and procedural, with limited depth on the principles of professionalism and quality delivery.",
     "level": "Ignored"
   }
 }

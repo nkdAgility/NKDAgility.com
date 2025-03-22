@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:54:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:35:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Microsoft Live ID billing and account management, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses personal experiences and frustrations with Microsoft's billing system, lacking any focus on evidence-based management principles or metrics. It does not address data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T21:55:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:34:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Microsoft Live ID billing and account management, with no focus on DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses issues related to Microsoft Live ID billing and account management, with no direct mention of DevOps principles, practices, or cultural shifts. While it touches on user experience and service integration, these topics do not align with the core themes of DevOps, such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -308,7 +314,7 @@
     "reasoning": "Content primarily discusses issues related to Microsoft Live ID billing and account management, without a focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:55:43",
     "ai_confidence": 0,
@@ -319,11 +325,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T21:55:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:35:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to Microsoft Live ID billing and account management, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses issues related to Microsoft Live ID billing and account management, with no direct mention or alignment to the Agile Product Operating Model. It focuses on user experiences and frustrations rather than principles or practices of agile product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -394,11 +403,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:28:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:35:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Microsoft Live ID billing and account region changes, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses user experiences and frustrations with Microsoft's billing system and account management, which does not relate to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, automation, or software delivery cycles, and the discussion lacks depth in any relevant areas.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1431,6 +1443,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses issues related to Microsoft Live ID billing and account management, with no direct mention or alignment to the Shift-Left Strategy. It does not address software development processes, testing, security, or compliance, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:34:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses personal frustrations with Microsoft's billing system and the inability to change account regions. While it touches on user experiences and suggests improvements, it lacks a structured approach to Continuous Improvement principles, such as empirical evidence, measurable advancements, or a culture of experimentation. The focus is more on individual grievances rather than a systematic discussion of Continuous Improvement methodologies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:35:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses personal experiences and frustrations with Microsoft's billing system rather than addressing the concept of Common Goals within Agile or DevOps frameworks. There are no explicit mentions of shared objectives, alignment, or strategic goals, which are central to the category. The focus is on individual challenges and solutions rather than collective team objectives or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:35:03",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses issues related to Microsoft Live ID billing and user experiences, with no explicit mention of competence or its principles. While it touches on user frustrations and the need for better solutions, it does not align with the core themes of competence, such as continuous learning, skill development, or professionalism.",
     "level": "Ignored"
   }
 }

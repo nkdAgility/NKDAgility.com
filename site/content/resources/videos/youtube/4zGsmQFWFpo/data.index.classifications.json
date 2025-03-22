@@ -670,11 +670,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T11:02:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses hiring practices and the roles of Scrum Masters, with no clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T17:01:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses hiring practices and the roles of Scrum Masters and Product Owners, which are related to Agile methodologies rather than Continuous Delivery specifically. While there are mentions of continuous learning and improvement, the focus is not on the principles or practices of Continuous Delivery, such as automation, rapid feedback, or incremental delivery. Therefore, the content does not align closely with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -847,11 +850,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T11:02:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses hiring practices and the capabilities of roles within organisations, without a clear focus on evidence-based management principles or empirical data.",
+    "calculated_at": "2025-03-21T17:01:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of hiring competent individuals and fostering a culture of continuous learning, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on Agile roles and hiring practices rather than explicitly addressing empirical decision-making or metrics related to value delivery, limiting its direct relevance to EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1496,15 +1502,6 @@
     "reasoning": "The content discusses the need for competent leadership and team dynamics, which aligns with human-centric approaches and the importance of adaptive organisational cultures. However, it primarily focuses on hiring practices and the roles of scrum masters rather than the broader principles of BetaCodex.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:04:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses hiring practices and the roles of scrum masters, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:42:17",
@@ -1581,6 +1578,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the roles and effectiveness of Scrum Masters and Product Owners, focusing on hiring practices and team dynamics rather than integrating testing, security, or compliance earlier in the software development lifecycle. While there are elements of improving team capability and effectiveness, they do not directly relate to the Shift-Left Strategy, which is about proactive measures in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:01:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of hiring practices and leadership development, which are related to continuous improvement. It mentions the need for a culture of continuous learning and improvement, particularly for Scrum Masters and Product Owners. However, while it touches on these themes, the primary focus is more on hiring and leadership rather than a systematic approach to continuous improvement processes. The discussion lacks detailed strategies or frameworks specifically tied to continuous improvement methodologies.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:01:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of building capabilities and effective leadership within organisations, which indirectly relates to the concept of Common Goals. However, it primarily focuses on hiring practices and the roles of Scrum Masters and Product Owners rather than explicitly addressing shared objectives or alignment with strategic goals. The discussion lacks depth in connecting these ideas to the overarching principles of Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:01:28",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content extensively discusses the importance of competence in hiring practices, leadership, and the roles of Scrum Masters and Product Owners. It highlights the need for continuous learning and skill development, aligning closely with the core themes of the 'Competence' category. The depth of discussion is significant, providing detailed strategies for fostering competence and addressing systemic issues in hiring. Overall, the content is highly relevant and focused on competence, justifying a high confidence score.",
+    "level": "Primary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:01:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the roles of Scrum Masters and Product Owners, which are not directly related to the One Engineering System framework. While there are mentions of improving hiring practices and building capabilities, these topics do not align with the core principles of 1ES, such as integration of tools and processes or standardisation across teams. The focus is more on individual roles and organisational culture rather than a unified engineering system.",
     "level": "Ignored"
   }
 }

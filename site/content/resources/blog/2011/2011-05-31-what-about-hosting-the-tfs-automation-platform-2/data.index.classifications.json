@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T23:17:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:42:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the hosting and functionality of the TFS Automation Platform, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses hosting options for the TFS Automation Platform and does not focus on Evidence-Based Management principles. There are no direct mentions of empirical evidence or data-informed decision-making, and the discussion lacks depth in relation to the key topics of EBM. The content is more technical and operational rather than strategic, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -133,14 +136,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T06:37:49",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "calculated_at": "2025-03-22T08:42:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses hosting the TFS Automation Platform and touches on server-side components, which are relevant to DevOps practices. However, it lacks a direct focus on core DevOps principles such as CI/CD, automation's role in deployment, or cultural shifts. The discussion is more about technical implementation and considerations rather than a comprehensive exploration of DevOps methodologies or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses hosting options for the TFS Automation Platform, focusing on server-side components and functionality. While it touches on aspects of cloud hosting, it lacks a direct discussion of DevOps principles such as collaboration, automation, or shared accountability. The mention of server-side components and configuration does not align closely with the core themes of DevOps, and the depth of discussion remains focused on technical implementation rather than the cultural or philosophical aspects of DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -335,7 +338,7 @@
     "reasoning": "Content primarily discusses the hosting and functionality of the Tfs Automation Platform, focusing on server-side components and client installations, without a clear emphasis on Systems Thinking principles or holistic analysis.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T23:18:18",
     "ai_confidence": 0,
@@ -346,11 +349,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T23:18:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:42:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the hosting and functionality of the Tfs Automation Platform, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses hosting options for the TFS Automation Platform, focusing on server-side components and functionality rather than the Agile Product Operating Model. There are no direct mentions of agile principles, product management practices, or the core themes of APOM. The discussion is more aligned with technical implementation and infrastructure considerations, which do not relate to the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -424,11 +430,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T23:50:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:42:50",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the hosting and architectural considerations of TFS Automation Platform, lacking a primary emphasis on Continuous Delivery principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses hosting options for the TFS Automation Platform, focusing on server-side components and cloud environments. While it touches on aspects of software deployment, it does not explicitly address Continuous Delivery principles, practices, or benefits. The discussion lacks depth in relation to Continuous Delivery, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1476,6 +1485,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the hosting and architecture of the TFS Automation Platform, focusing on server-side components and client installations. It does not address the Shift-Left Strategy, nor does it integrate testing, security, or compliance early in the development process. The discussion is more about deployment and functionality rather than proactive quality assurance or early integration of critical processes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:42:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses hosting options for the TFS Automation Platform and does not focus on Continuous Improvement principles. While it touches on functionality and server-side components, it lacks explicit discussions on empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning. The content is more technical and operational rather than reflective of Continuous Improvement practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:42:40",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses technical aspects of hosting the TFS Automation Platform and server-side components, with minimal reference to shared objectives or alignment within Agile or DevOps frameworks. While it touches on functionality and user experience, it lacks a focus on common goals or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:42:43",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses hosting options for the TFS Automation Platform and does not focus on competence in terms of skill development or professionalism. While it touches on functionality and server-side components, it lacks explicit discussions on continuous learning, quality outcomes, or fostering a culture of competence. The mention of user support and functionality loss hints at operational competence but does not delve into the principles of competence as defined in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

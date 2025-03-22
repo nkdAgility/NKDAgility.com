@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T10:43:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile methodologies and their advantages, with no clear focus on DevOps principles or practices.",
+    "calculated_at": "2025-03-21T20:36:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Agile methodologies, discussing concepts such as visibility, flexibility, and incremental value delivery. While it briefly mentions the author's experience in DevOps, the main discussion does not align with the core principles of DevOps, such as collaboration between development and operations, automation, or shared accountability. The depth of discussion on DevOps is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -250,12 +253,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses agile methodologies and project management without a focus on Continuous Delivery principles.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T20:37:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses Agile methodologies and their benefits, including incremental delivery and flexibility, which are relevant to Continuous Delivery. However, it primarily focuses on Agile principles rather than explicitly addressing Continuous Delivery practices. The mention of 'continuous delivery' is minimal, and while there is some alignment with the core themes, the depth of discussion on Continuous Delivery itself is limited.",
+    "level": "Tertiary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -393,15 +399,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content heavily discusses Agile practices and project management without a focus on Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on comparing agile practices with traditional project management methodologies like waterfall and discusses the benefits of agile without addressing the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1213,15 +1210,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T02:13:46",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T20:36:56",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 63.0,
-    "reasoning": "The content discusses Agile methodologies and contrasts them with traditional project management approaches, focusing on aspects like visibility, change, operational risk, and realised value. However, it primarily centres on project outcomes rather than explicitly addressing the Agile Product Operating Model as a holistic framework. While it touches on key themes relevant to the category, such as incremental value delivery and flexibility, it lacks a direct focus on product-centric development and the specific roles of cross-functional teams, which are crucial to the Agile Product Operating Model.",
-    "level": "Secondary"
+    "final_score": 41.0,
+    "reasoning": "The content discusses Agile methodologies and empirical models, focusing on project success and flexibility. However, it primarily addresses project management rather than the specific principles of the Agile Product Operating Model. While there are mentions of visibility, change, and value delivery, these concepts are framed within a project context rather than a product-oriented mindset, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1435,15 +1432,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T02:14:04",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T20:36:58",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 25.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses empirical models and Agile methodologies, highlighting the importance of data-driven approaches in project management. However, while it touches on key aspects of Evidence-Based Management, such as visibility, change, operational risk, and realised value, it does not explicitly mention the principles of EBM as outlined by Schwaber and Sutherland. The discussion is more focused on Agile practices rather than a comprehensive exploration of EBM, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile methodologies and empirical models, highlighting the importance of visibility, flexibility, and incremental value delivery. However, it primarily focuses on Agile practices rather than explicitly addressing Evidence-Based Management principles. While there are mentions of data and metrics, the discussion lacks a strong emphasis on empirical decision-making and the specific metrics outlined in the EBM category.",
+    "level": "Tertiary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1518,6 +1515,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Agile methodologies and empirical models, focusing on visibility, change, operational risk, and realised value. While these concepts are relevant to software development, they do not explicitly address the Shift-Left Strategy or its principles. The discussion lacks direct mentions of integrating testing, security, or compliance early in the development process, which are core to the Shift-Left concept. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:36:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile methodologies and their empirical models, highlighting the importance of visibility, flexibility, and incremental value delivery. While it touches on aspects of Continuous Improvement, such as ongoing feedback and adaptability, it does not explicitly focus on Continuous Improvement as a primary theme. The discussion is more centred on Agile practices rather than a dedicated exploration of Continuous Improvement principles.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:36:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile methodologies and their benefits, but it primarily focuses on empirical models, visibility, flexibility, and operational risk rather than explicitly addressing Common Goals. While there are elements that touch on alignment and customer needs, the discussion lacks a direct focus on shared objectives or strategic alignment within teams, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:36:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile methodologies and their benefits, touching on aspects like visibility, flexibility, and risk management. However, it lacks a direct focus on competence as a foundational principle, with only brief mentions of trust and incremental value delivery. The discussion does not delve deeply into continuous learning or skill development, which are crucial for competence, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:36:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile methodologies, specifically Scrum and Kanban, without discussing the One Engineering System framework or its principles. While it touches on project success and practices, it does not align with the core themes of 1ES, such as integration of tools and processes across teams or best practices for implementing a unified engineering system.",
     "level": "Ignored"
   }
 }

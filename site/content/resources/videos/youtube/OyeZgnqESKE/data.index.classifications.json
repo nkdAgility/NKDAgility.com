@@ -46,11 +46,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T14:02:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:51:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the immersive learning experience for Scrum students, focusing on excitement and engagement rather than evidence-based management principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on immersive learning within Scrum training, discussing engagement and excitement rather than evidence-based management principles. While it touches on continuous improvement, it lacks direct references to empirical decision-making or metrics that align with Evidence-Based Management.",
     "level": "Ignored"
   },
   "Personal": {
@@ -328,20 +331,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:03:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses immersive learning experiences for Scrum students, without a clear focus on the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T17:50:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on immersive learning within Scrum training, which is a specific agile practice rather than a discussion on the Agile Product Operating Model. While it touches on concepts like continuous improvement and engagement, it lacks a direct focus on the principles and frameworks of APOM. The discussion is more about training methodologies than the broader product-oriented mindset and governance aspects of APOM.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T14:03:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:50:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses immersive learning experiences for Scrum students, which is not relevant to DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on immersive learning within the context of Scrum, which is an Agile methodology. While it touches on concepts like continuous improvement and feedback loops, which are relevant to DevOps, the main emphasis is on training and engagement rather than the integration of people, processes, and technology in a DevOps context. Therefore, it does not align closely with the core principles of DevOps.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -363,15 +372,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the immersive learning experience in Scrum, focusing on student engagement rather than flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:03:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses immersive learning experiences in Scrum, which is not related to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -1009,11 +1009,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T15:05:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:51:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses immersive learning and student engagement, with no mention of Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses immersive learning in the context of Scrum, focusing on engagement and continuous learning rather than Continuous Delivery practices. While it touches on concepts like continuous improvement and feedback, it does not explicitly address Continuous Delivery principles, automation, or deployment strategies, which are central to the category.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1443,6 +1446,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on immersive learning within the context of Scrum, discussing engagement and continuous learning rather than integrating testing, security, or compliance earlier in the software development lifecycle. There are no direct mentions of the Shift-Left Strategy, and the discussion lacks depth in relation to its principles or techniques.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:50:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses continuous learning and improvement within the context of Scrum and immersive learning. It highlights the importance of real-world application, feedback, and iterative processes, which align with Continuous Improvement principles. However, while it touches on these themes, the primary focus is on immersive learning rather than a comprehensive exploration of Continuous Improvement as a standalone topic.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:50:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on immersive learning experiences in Scrum, which, while related to Agile principles, does not explicitly discuss Common Goals or their significance in aligning strategy with execution. The mentions of continuous improvement and real-world application touch on aspects of Agile but lack a direct connection to shared objectives or strategic alignment. The depth of discussion is more about engagement and excitement rather than the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:50:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of continuous learning and skill development in Scrum, emphasising the role of immersive learning in fostering engagement and practical application. It aligns well with the core themes of competence, particularly in relation to continuous improvement and the development of skills. However, while competence is a significant focus, the content leans more towards the excitement of learning rather than a deep exploration of competence itself, which slightly lowers the depth score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:50:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on immersive learning within the context of Scrum, discussing engagement and training methods rather than the principles or components of the One Engineering System. While it touches on continuous improvement and practical application, it does not explicitly address the integration or standardisation of engineering processes, which are core to 1ES.",
     "level": "Ignored"
   }
 }

@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T20:13:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:15:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and personal reflection, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on poly immersive learning experiences and their benefits, with only a tangential mention of concepts like feedback and accountability that could relate to DevOps. However, it lacks explicit discussions on DevOps principles, practices, or cultural shifts, making it only marginally relevant to the category.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -88,11 +91,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T20:13:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:15:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the benefits of poly immersive learning experiences and personal reflections, without a clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses learning and development through immersive experiences, focusing on feedback and reflection. However, it lacks direct references to Evidence-Based Management principles, such as empirical decision-making or specific metrics related to value delivery. While there are elements of accountability and practical application, they do not explicitly connect to the core themes of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -333,15 +339,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning experiences and personal reflection, with no clear focus on release management or related practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T20:13:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses poly immersive learning experiences and their benefits, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -646,11 +643,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T20:14:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and their benefits, with no clear relation to Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T19:15:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on poly immersive learning experiences and their benefits, with no direct mention of Continuous Delivery principles or practices. While there are themes of feedback and reflection that could tangentially relate to Continuous Delivery, they are not discussed in the context of software delivery or its practices. The content lacks depth in addressing Continuous Delivery specifically, making it unsuitable for this category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -742,11 +742,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T20:15:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:15:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the benefits of poly immersive learning experiences, focusing on learning feedback loops, reflection time, and accountability, without any clear connection to the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on poly immersive learning experiences and does not explicitly discuss the Agile Product Operating Model or its core principles. While it touches on themes of feedback and reflection, which are relevant to agile methodologies, it lacks a direct connection to product management or the specific elements of the APOM framework.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1482,6 +1485,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses poly immersive learning experiences and their benefits, with no direct mention of the Shift-Left Strategy or its principles. While there are themes of feedback and reflection that could tangentially relate to early integration of learning, the focus is not on software development processes or the proactive identification of issues, which are central to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:15:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses elements of feedback, reflection, and practical application, which are relevant to Continuous Improvement. However, it does not explicitly mention Continuous Improvement or its frameworks. The focus on learning and experimentation aligns conceptually, but the depth of discussion lacks specific strategies or tools associated with Continuous Improvement practices.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:15:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses learning and development but does not explicitly mention Common Goals or their significance in Agile and DevOps. While it touches on collaboration and accountability, which are relevant themes, it lacks a direct connection to shared objectives or strategic alignment. The focus is more on personal growth and immersive learning experiences rather than on aligning team efforts with organisational goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:15:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of poly immersive learning experiences, which directly relates to continuous learning and skill development, key aspects of competence. It highlights the role of feedback, reflection, and practical application in professional development, aligning well with the core themes of competence. The depth of discussion is substantial, covering various elements such as real-world application, collaborative learning, and accountability, all of which contribute to fostering a culture of competence. However, while competence is a primary focus, the content does not explicitly use the term 'competence' frequently, which slightly lowers the direct mentions score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:15:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content focuses on poly immersive learning experiences and their benefits, which are unrelated to the One Engineering System framework. There are no direct mentions of 1ES principles, components, or practices, and the discussion does not align with the core themes of integration and standardisation in software development.",
     "level": "Ignored"
   }
 }

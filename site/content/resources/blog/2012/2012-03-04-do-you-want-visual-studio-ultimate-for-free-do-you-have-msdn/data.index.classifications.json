@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:50:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:24:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses MSDN licensing and benefits for developers, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses MSDN subscriptions and their benefits for developers, with no direct mention of Evidence-Based Management principles or metrics. While it touches on software licensing and usage, it does not align with the core themes of EBM, such as data-informed decision-making or value delivery metrics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:50:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:23:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses MSDN licensing and benefits for developers, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses MSDN subscriptions and their benefits for developers, with no explicit mention of DevOps principles or practices. While it touches on aspects of software development, it lacks alignment with the core themes of DevOps, such as collaboration, automation, or shared accountability. The depth of discussion is focused on licensing rather than any DevOps-related topics.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses MSDN licensing and benefits for developers, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:50:51",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:50:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:24:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses MSDN licensing and benefits for developers, with no relevance to Agile Product Operating Model principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses MSDN subscriptions and their benefits for developers, with no direct mention or alignment to the Agile Product Operating Model. It lacks any discussion on agile methodologies, product management principles, or related topics outlined in the category description.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -400,11 +409,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:28:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:24:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses MSDN licensing and benefits for developers, without any clear connection to Continuous Delivery practices or principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses MSDN subscriptions and their benefits for developers, with no direct mention of Continuous Delivery principles, practices, or related topics. It lacks alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or rapid feedback. The depth of discussion is focused on licensing rather than any aspect of software delivery practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1431,6 +1443,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses MSDN licensing and its benefits for developers, with no direct mention of the Shift-Left Strategy or its principles. While it touches on aspects of software development, it does not align with the core themes of integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:23:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the benefits and licensing of MSDN subscriptions for developers, with no substantial discussion on Continuous Improvement principles or practices. While it touches on enhancing development skills, it lacks a clear connection to the core themes of Continuous Improvement, such as empirical evidence, team effectiveness, or a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:24:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the benefits and licensing of MSDN subscriptions for developers, which does not align with the principles of Common Goals in Agile and DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth in relation to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:24:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the benefits of MSDN subscriptions for developers, which indirectly relates to competence by enhancing development skills. However, it primarily focuses on licensing and usage rights rather than the broader themes of continuous learning, skill development, or fostering a culture of competence. The depth of discussion on competence is limited, as it does not explore strategies for skill enhancement or the impact of competence on team dynamics.",
     "level": "Ignored"
   }
 }

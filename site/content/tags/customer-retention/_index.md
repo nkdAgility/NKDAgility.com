@@ -24,6 +24,9 @@ headline:
   subtitle: Strategies for enhancing user loyalty and minimising attrition through ongoing value creation and engagement techniques.
   content: Strategies for fostering long-term user engagement and loyalty through tailored experiences, feedback loops, and value-driven interactions. Posts should explore techniques for understanding user needs, implementing effective communication, and leveraging data to enhance satisfaction and reduce turnover.
   updated: 2025-02-13T12:05:17Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

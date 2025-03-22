@@ -607,11 +607,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T11:21:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:50:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the benefits of a four-day training format and does not address Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the benefits of a specific training format and does not discuss Continuous Delivery principles, practices, or related topics. It lacks any direct mention of Continuous Delivery and does not align with its core themes, such as automation, incremental improvements, or software quality.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -769,11 +772,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T11:21:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:51:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses preferences for training formats rather than evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the benefits of a specific training format rather than discussing Evidence-Based Management principles. While it touches on aspects of learning and reflection, it lacks direct references to empirical evidence, metrics, or data-informed decision-making that are central to EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1192,11 +1198,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T11:19:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the benefits of a four-day training format and does not focus on DevOps principles, practices, or tools.",
+    "calculated_at": "2025-03-21T19:50:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the benefits of a specific training format, particularly in relation to Scrum, without any direct mention or discussion of DevOps principles, practices, or cultural shifts. While it touches on aspects of learning and reflection, these are not aligned with the core themes of DevOps, such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1363,11 +1372,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:45:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:50:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the benefits of a four-day training format and does not focus on the Agile Product Operating Model or its principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the benefits of a specific training format rather than discussing the Agile Product Operating Model. While it mentions Scrum, it does not delve into the principles or practices of APOM, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1386,15 +1398,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the benefits of a four-day training format and does not focus on platform engineering or related topics.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:46:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses preferences for training formats and does not address the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1437,6 +1440,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content focuses on the benefits of a specific training format and does not discuss any aspects of the Shift-Left Strategy in software development. There are no direct mentions of testing, security, or compliance integration, nor does it align with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:50:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the benefits of a 4-day training format, focusing on participant engagement and reflection, which aligns with some principles of Continuous Improvement. However, it lacks explicit discussions on systematic processes, empirical evidence, or broader strategies for organisational improvement, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:50:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the benefits of a specific training format rather than discussing Common Goals within Agile or DevOps frameworks. While it touches on learning and reflection, it lacks explicit connections to shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:50:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the benefits of a specific training format, which indirectly relates to competence through the emphasis on effective learning and reflection. However, it lacks direct mentions of competence as a principle and does not delve deeply into continuous skill development or professional growth.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:50:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the benefits of a specific training format and does not discuss the One Engineering System or its principles. There are no direct mentions of 1ES, and the discussion lacks alignment with the core themes of integration and standardisation in software development practices.",
     "level": "Ignored"
   }
 }

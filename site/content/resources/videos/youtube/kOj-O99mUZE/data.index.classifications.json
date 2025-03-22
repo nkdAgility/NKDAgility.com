@@ -655,11 +655,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T05:18:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses scaling portfolio Kanban and organisational flow rather than Continuous Delivery principles and practices.",
+    "calculated_at": "2025-03-21T17:43:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on Scaling Portfolio Kanban, which is more about managing project portfolios and improving workflow rather than Continuous Delivery specifically. While it touches on aspects like predictability and value delivery, it does not explicitly discuss Continuous Delivery principles, automation, or rapid feedback mechanisms. The alignment with Continuous Delivery is limited, and the depth of discussion does not delve into the core themes of Continuous Delivery practices.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -832,14 +835,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T19:30:31",
+    "calculated_at": "2025-03-21T17:43:50",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
-    "ai_alignment": 25,
-    "ai_depth": 20,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
     "final_score": 57.0,
-    "reasoning": "The content discusses strategies for improving workflow and decision-making at an organizational level, which aligns with the principles of Evidence-Based Management. It mentions data-driven decision-making and the importance of understanding flow and predictability, which are relevant to EBM. However, the focus is primarily on Kanban rather than EBM itself, leading to a moderate confidence score.",
+    "reasoning": "The content discusses the application of data-driven decision-making and value maximization, which aligns with Evidence-Based Management principles. However, it primarily focuses on Kanban methodologies without a strong emphasis on empirical evidence or specific metrics related to current value, unrealised value, or outcome management. While it mentions informed decision-making and improving predictability, it lacks detailed exploration of the core themes of EBM, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -1294,11 +1297,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T05:16:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:43:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses scaling portfolio management and Agile methodologies, with a focus on roles and strategies rather than DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the application of Scaling Portfolio Kanban, which is a project management technique rather than a discussion on DevOps principles. While it touches on concepts like value delivery and workflow optimization, it lacks a direct connection to the core themes of DevOps, such as collaboration between development and operations, automation, and shared accountability. The depth of discussion is limited to Kanban strategies without addressing the cultural shifts or practices necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1478,23 +1484,17 @@
     "reasoning": "Content primarily discusses scaling portfolio management and Agile practices, with no clear focus on platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:15:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses scaling portfolio Kanban and improving flow at the organisational level, which deviates from the core principles of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:15:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T17:43:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses strategies for improving value delivery and flow at the organisational level, aligning with the principles of the Agile Product Operating Model.",
-    "level": "Secondary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the application of Scaling Portfolio Kanban, which is more aligned with project management practices rather than the Agile Product Operating Model. While it discusses value delivery and organizational efficiency, it does not explicitly mention the core principles of APOM or the transition from project to product ethos. The depth of discussion on Kanban strategies is significant, but it lacks a direct connection to the Agile Product Operating Model, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1560,6 +1560,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on scaling Portfolio Kanban and improving workflow and predictability at an organisational level. It does not explicitly discuss the Shift-Left Strategy or its principles, benefits, or techniques. While there are mentions of improving processes and decision-making, these are not directly related to integrating testing, security, or compliance earlier in the software development lifecycle, which is the core of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:43:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses strategies for enhancing workflow and predictability through the application of Scaling Portfolio Kanban, which aligns with the principles of Continuous Improvement. It mentions data-driven decision-making and the importance of optimizing processes, which are key aspects of Continuous Improvement. However, the primary focus is on the course itself rather than a deep exploration of Continuous Improvement as a philosophy, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:43:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the application of Scaling Portfolio Kanban, discussing its benefits and strategies for improving workflow and predictability. While it touches on aspects of organisational efficiency and decision-making, it does not explicitly address the concept of Common Goals or their significance within Agile and DevOps frameworks. The discussion lacks depth in connecting these strategies to shared objectives or alignment with overarching strategic goals, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:43:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the application of Scaling Portfolio Kanban and its benefits for organisational efficiency, rather than directly discussing competence as a foundational principle. While it touches on aspects of decision-making and improving workflows, it lacks a strong emphasis on continuous learning, skill development, or fostering a culture of competence. The discussion is more about processes and tools than about the development of capabilities or professionalism.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:43:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the 'Scaling Portfolio Kanban' course, which discusses strategies for managing project portfolios and enhancing value delivery. While it touches on concepts like workflow optimization and predictability, it does not explicitly mention the One Engineering System (1ES) framework or its principles. The discussion is more aligned with Kanban methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

@@ -26,6 +26,9 @@ headline:
   subtitle: Navigating organisational adaptability and resilience through effective strategies and insights for sustainable change.
   content: Strategies for fostering organisational adaptability and resilience through informed decision-making and iterative learning. Posts should explore frameworks for managing change, enhancing team collaboration, and utilising data-driven insights to navigate complexity and uncertainty in dynamic environments.
   updated: 2025-02-13T11:58:47Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

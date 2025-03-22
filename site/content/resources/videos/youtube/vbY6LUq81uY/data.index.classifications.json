@@ -241,14 +241,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T16:57:56",
+    "calculated_at": "2025-03-21T16:51:46",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
     "final_score": 39.0,
-    "reasoning": "The content discusses concepts related to experimentation, validation, and data-driven decision-making, which align with the principles of Evidence-Based Management. However, it primarily focuses on entrepreneurial mindset and funding strategies rather than explicitly addressing EBM principles or practices. The discussion on hypothesis-driven engineering and the importance of data in decision-making contributes to the alignment, but the overall focus is more on product development and venture capital rather than EBM itself.",
+    "reasoning": "The content discusses funding products and the entrepreneurial mindset, which touches on aspects of empirical decision-making and innovation. However, it lacks a direct focus on Evidence-Based Management principles and does not provide specific metrics or data-driven discussions that are central to the category.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -289,11 +289,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T16:06:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of Minimum Viable Products (MVPs) and entrepreneurial approaches to product development, without a clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T16:51:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on funding products and entrepreneurial strategies rather than Continuous Delivery principles. While it touches on iterative processes and experimentation, it lacks explicit discussions on automation, deployment, or the core themes of Continuous Delivery. The mention of 'iterating and experimenting' is too vague and does not align with the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -1496,15 +1499,6 @@
     "reasoning": "Content primarily discusses funding products and entrepreneurial thinking, with no clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T11:59:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses funding products and entrepreneurial thinking, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:38:42",
@@ -1581,6 +1575,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on funding products and entrepreneurial strategies rather than discussing the integration of testing, security, or compliance early in the software development lifecycle. While it touches on iterative processes and experimentation, it does not explicitly mention or align with the core principles of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:51:32",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses iterative processes and experimentation, which are key aspects of Continuous Improvement. However, it primarily focuses on funding and entrepreneurial mindset rather than a comprehensive exploration of Continuous Improvement principles. The mention of running small experiments and iterating based on feedback aligns with the category, but the overall emphasis is more on funding strategies than on continuous enhancement of processes or team effectiveness.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:51:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on funding products and entrepreneurial strategies rather than discussing Common Goals within Agile or DevOps frameworks. While it touches on concepts like risk and iteration, it lacks explicit references to shared objectives or alignment with organisational missions, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:51:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the entrepreneurial mindset and the importance of risk assessment and iterative processes in product development, which indirectly relates to competence. However, it lacks direct mentions of continuous learning or skill development, and the depth of discussion on competence is minimal, focusing more on funding strategies than on the development of capabilities.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:51:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on funding products and entrepreneurial strategies rather than discussing the One Engineering System framework or its principles. While it touches on aspects of product development, it does not align with the core themes of integration, standardisation, or best practices related to 1ES.",
     "level": "Ignored"
   }
 }

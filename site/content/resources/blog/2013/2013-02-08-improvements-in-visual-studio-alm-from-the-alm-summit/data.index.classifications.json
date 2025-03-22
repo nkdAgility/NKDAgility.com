@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:23:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:58:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses new features and improvements in Visual Studio ALM without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses enhancements in Visual Studio ALM and features related to Git, test management, and Kanban improvements. While it touches on aspects of process improvement and tool enhancements, it lacks a direct focus on Evidence-Based Management principles such as empirical decision-making or metrics related to current value, time to market, or ability to innovate. The discussion is more about tool capabilities rather than data-informed management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,15 +127,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T14:51:32",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-22T07:58:28",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 17.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses improvements in Visual Studio ALM, touching on aspects like version control with Git, test management, and Kanban, which are relevant to DevOps practices. However, it lacks a focused discussion on the principles of DevOps, such as CI/CD or cultural shifts, and does not provide in-depth analysis or metrics related to DevOps success. Therefore, while there are relevant mentions, the overall depth and alignment with the core themes of DevOps are limited.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses enhancements in Visual Studio ALM, focusing on features like Git support, web-based test management, and Kanban improvements. While there are elements that touch on continuous delivery and collaboration, the overall emphasis is on specific tools and features rather than the broader DevOps philosophy. The discussion lacks depth in core DevOps principles such as shared accountability, automation, and cultural shifts, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -338,7 +341,7 @@
     "reasoning": "Content primarily discusses improvements in Visual Studio ALM and features related to version control and test management, without a focus on Systems Thinking principles or interconnectedness within organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:24:23",
     "ai_confidence": 0,
@@ -349,11 +352,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:24:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:58:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses improvements in Visual Studio ALM and features related to version control and test management, without a clear focus on the Agile Product Operating Model.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses enhancements in Visual Studio ALM, focusing on features like Git support, web-based test management, and Kanban improvements. While there are elements of agile practices mentioned, such as Kanban and test management, the content does not explicitly address the Agile Product Operating Model or its core principles. The discussion is more aligned with software development tools rather than the broader framework of APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -430,14 +436,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T05:25:14",
+    "calculated_at": "2025-03-22T07:58:42",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
     "final_score": 40.0,
-    "reasoning": "The content discusses improvements in Visual Studio ALM, including features that support Continuous Delivery, such as Git integration and test management. However, the primary focus is on specific features rather than a comprehensive discussion of Continuous Delivery principles or practices. While there are mentions of Continuous Delivery in the context of Visual Studio, the depth and breadth of the discussion do not fully align with the core themes of Continuous Delivery.",
+    "reasoning": "The content briefly mentions Continuous Delivery in the context of a keynote at the ALM Summit, but the primary focus is on specific features and improvements in Visual Studio ALM rather than a thorough exploration of Continuous Delivery principles or practices. While there are elements related to automation and testing, the discussion lacks depth and does not fully align with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1536,6 +1542,42 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses improvements in Visual Studio ALM, including features related to test management and version control, which are relevant to the Shift-Left Strategy. However, it does not explicitly focus on integrating testing, security, or compliance earlier in the development process. The mention of 'Quality Enablement Improvements' and 'web-based Test Management' suggests some alignment with Shift-Left principles, but the overall discussion lacks depth and does not provide a comprehensive exploration of the strategy itself.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:58:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses improvements in Visual Studio ALM, highlighting new features and enhancements. While it touches on aspects of Continuous Improvement, such as the introduction of new tools and processes, it lacks a focused discussion on the principles of Continuous Improvement as defined in the category. The mention of features like Kanban swim lanes and web-based test management suggests some alignment with continuous improvement practices, but the overall depth and explicit focus on the category are limited.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:58:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on specific features and improvements in Visual Studio ALM, such as Git support and web-based test management, without discussing the concept of Common Goals or their significance in Agile and DevOps. While there are mentions of team collaboration tools, they do not connect to the overarching theme of aligning strategy with execution or shared objectives. The discussion lacks depth in relation to the principles of Common Goals, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:58:35",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses new features in Visual Studio ALM and improvements in tools rather than focusing on competence, continuous learning, or skill development. While there are mentions of quality enablement and process improvements, these are not deeply tied to the concept of competence as defined in the category. The discussion lacks a strong emphasis on the importance of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

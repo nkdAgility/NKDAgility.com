@@ -73,11 +73,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T10:49:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:30:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on troubleshooting a specific deployment issue in Microsoft Office SharePoint Server 2007, which does not align with the core principles and practices of DevOps.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific issue related to Microsoft Office SharePoint Server 2007, detailing a step-by-step guide for removing a stuck solution deployment. While it touches on deployment processes, it does not engage with the broader principles of DevOps such as collaboration, automation, or shared accountability. The discussion lacks depth in terms of DevOps philosophy and does not address key topics like feedback loops, continuous improvement, or cross-functional collaboration.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -109,11 +112,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T10:49:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:30:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical steps for removing a solution deployment in MOSS 2007, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on resolving deployment issues in MOSS 2007, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any relevant concepts that align with the category. The discussion is technical and specific to a particular software issue, lacking any depth or alignment with the core themes of APOM.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -169,11 +175,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T10:50:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:30:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical steps for removing a deployment in MOSS 2007, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a technical guide for resolving deployment issues in MOSS 2007, with no direct mention or discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and provides minimal depth on any related topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -239,7 +248,7 @@
     "reasoning": "Content primarily discusses the process of removing a dead solution deployment in MOSS 2007, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T10:50:12",
     "ai_confidence": 0,
@@ -898,11 +907,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:23:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:30:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses troubleshooting a specific deployment issue in Microsoft Office SharePoint Server 2007, which does not align with the principles or practices of Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific issue related to deployment in MOSS 2007, which does not align with the principles or practices of Continuous Delivery. While it discusses deployment, it lacks a broader context of Continuous Delivery practices, automation, or incremental improvements. The discussion is very technical and specific to a single scenario, with no mention of the key themes associated with Continuous Delivery.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1449,6 +1461,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on troubleshooting a deployment issue in Microsoft Office SharePoint Server 2007, with no discussion of integrating testing, security, or compliance earlier in the software development lifecycle. It does not address any principles, techniques, or benefits related to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:30:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical guide for resolving a specific issue in MOSS 2007, with no explicit discussion of Continuous Improvement principles. While it may indirectly relate to improving deployment processes, it lacks a clear connection to the core themes of Continuous Improvement, such as empirical evidence, team effectiveness, or a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:30:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a technical guide for resolving deployment issues in MOSS 2007, with no discussion of Common Goals, Agile, or DevOps principles. It lacks any mention of shared objectives or alignment strategies, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:30:46",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on a technical procedure for removing a solution deployment in MOSS 2007, with no explicit discussion on competence, continuous learning, or skill development. While it may imply a level of competence in handling deployment issues, it does not engage with the core themes of the category, such as fostering a culture of competence or the importance of ongoing skill development.",
     "level": "Ignored"
   }
 }

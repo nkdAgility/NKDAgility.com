@@ -253,14 +253,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T16:24:30",
+    "calculated_at": "2025-03-21T16:40:27",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses the importance of organisational will and investment in improving software delivery processes, which aligns with the principles of Evidence-Based Management. However, it lacks direct references to empirical evidence, metrics, or structured EBM practices, focusing more on anecdotal experiences and opinions rather than data-driven decision-making.",
+    "reasoning": "The content discusses continuous delivery and organisational commitment to improvement but lacks explicit references to evidence-based management principles or metrics. It focuses more on agile practices and personal analogies rather than empirical decision-making or value delivery metrics.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -1081,14 +1081,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-08T12:59:57",
-    "ai_confidence": 82.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
+    "calculated_at": "2025-03-21T16:40:25",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
-    "reasoning": "The content discusses the challenges and strategies related to achieving Continuous Delivery, emphasising the need for organisational will and investment to improve software delivery processes. It directly addresses the principles of Continuous Delivery, such as maintaining a production-ready state and the importance of addressing technical debt. The depth of discussion is substantial, with examples and analogies that illustrate the journey towards Continuous Delivery, although it occasionally veers into broader organisational issues. Overall, the content aligns well with the core themes of Continuous Delivery.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses continuous delivery, outlining its importance and the steps necessary to achieve it. It provides a clear definition and principles, emphasises the need for organisational commitment, and draws parallels with personal fitness to illustrate the effort required. The depth of discussion includes challenges with legacy systems and the importance of continuous improvement, aligning well with the core themes of the category. Overall, the content is focused and detailed, making it a strong fit for the Continuous Delivery category.",
     "level": "Secondary"
   },
   "Azure Repos": {
@@ -1643,18 +1643,6 @@
     "reasoning": "The content discusses the challenges of delivering software continuously and the need for organisational will to improve systems, which aligns with the broader themes of scaling agility. However, it primarily focuses on individual and organisational challenges rather than specific frameworks or practices for scaling agility. The mention of continuous delivery hints at agile principles but lacks depth in discussing frameworks or leadership roles in fostering an agile culture.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses software delivery and the challenges of legacy systems, which are relevant to the principles of 1ES. However, it lacks direct mentions of the 1ES framework and does not provide detailed insights into its components or best practices. The focus is more on personal opinions and general software development challenges rather than a structured discussion on 1ES.",
-    "level": "Ignored"
-  },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
     "calculated_at": "2025-03-14T16:24:30",
@@ -1869,6 +1857,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses continuous delivery and the need for organisational commitment to improve software quality and speed, which aligns with the Shift-Left Strategy's principles. However, it lacks explicit mention of integrating testing, security, or compliance early in the development process, and does not delve deeply into specific techniques or tools related to Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:40:14",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses the importance of continuous improvement in the context of software delivery, emphasising the need for organisational commitment to enhance product quality and delivery speed. It aligns well with the core themes of Continuous Improvement, such as fostering a culture of change, learning from past experiences, and the necessity of ongoing effort to maintain and improve systems. The depth of discussion is substantial, providing practical examples and strategies for overcoming challenges, which further supports its classification.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:40:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of organisational commitment and cultural change in achieving continuous delivery, which aligns with the broader themes of Common Goals. However, it primarily focuses on the challenges of complexity and legacy systems rather than explicitly addressing shared objectives or strategic alignment within Agile and DevOps frameworks. The discussion lacks direct references to Common Goals, OKRs, or specific alignment techniques, resulting in a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:40:19",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of commitment to change and continuous improvement in software delivery, which aligns with the principles of competence. It highlights the need for skill development and organisational will to modernise systems, reflecting a focus on professionalism and quality delivery. However, while competence is a significant theme, the primary focus is on continuous delivery and simplification rather than a deep exploration of competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:40:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses continuous delivery and the need for organisational commitment to improve software processes, which aligns with some principles of the One Engineering System. However, it lacks direct mentions of 1ES, and the focus is more on personal fitness analogies and general software improvement rather than the specific integration and standardisation of engineering practices across teams.",
     "level": "Ignored"
   }
 }

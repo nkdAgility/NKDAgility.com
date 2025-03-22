@@ -26,6 +26,9 @@ headline:
   subtitle: Exploring the synergy between human dynamics and structured methodologies in technology and product innovation.
   content: A dynamic interplay of human behaviour and structured methodologies in technology and product development, emphasising collaboration, adaptability, and continuous improvement. Posts explore team dynamics, workflow optimisation, decision-making processes, and the impact of organisational culture on innovation and efficiency.
   updated: 2025-02-13T11:58:59Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

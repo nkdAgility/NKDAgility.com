@@ -649,11 +649,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T06:56:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:33:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the application of Scrum, which is a framework within Agile methodologies, rather than discussing Continuous Delivery principles or practices. While there are mentions of problem-solving and team dynamics, these do not directly relate to Continuous Delivery's emphasis on automation, incremental improvements, or rapid feedback. The content lacks depth in discussing Continuous Delivery specifically, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -832,11 +835,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T06:57:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:33:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the APS course and its practical applications of Scrum, without a focus on evidence-based management principles or empirical data.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the application of Scrum and the APS course, with limited direct mention of Evidence-Based Management principles. While it discusses problem-solving and decision-making in the context of Scrum, it lacks a strong emphasis on empirical evidence or metrics that are central to EBM. The alignment with EBM concepts is present but not deeply explored, and the depth of discussion on EBM is minimal.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1285,11 +1291,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T06:54:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:32:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the application of Scrum, which is a framework within Agile methodologies, rather than discussing DevOps principles or practices. While there are mentions of collaboration and problem-solving, these are framed within the context of Scrum and traditional project management, lacking a direct connection to the core themes of DevOps such as automation, shared accountability, or continuous value delivery.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1478,22 +1487,16 @@
     "reasoning": "Content primarily discusses the application of Scrum within traditional organisational structures, focusing on training and practical encounters rather than the principles of Beta Codex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:41:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and its application, which is not aligned with the principles of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:41:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:33:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the application of Scrum and its challenges within traditional organisations, rather than focusing on the Agile Product Operating Model as a holistic framework for product-centric development.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the APS course and its application of Scrum, which is a specific agile framework. While it touches on some aspects of agile principles and the challenges of traditional management practices, it does not explicitly discuss the Agile Product Operating Model or its core themes. The discussion is more centred on Scrum rather than the broader product-oriented mindset and principles of APOM, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1545,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the application of Scrum and Agile methodologies rather than discussing the Shift-Left Strategy. While it touches on problem-solving and the challenges of traditional management practices, it does not explicitly mention integrating testing, security, or compliance earlier in the development process, which are key aspects of the Shift-Left Strategy. The discussion is more about Scrum practices and their effectiveness in navigating complexity rather than a proactive approach to software quality and delivery.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:32:48",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the APS course's practical application of Scrum, highlighting how it helps teams navigate complexity and improve their problem-solving capabilities. While it touches on themes of improvement and effectiveness, it primarily focuses on Scrum training rather than a dedicated exploration of Continuous Improvement principles. The mention of 'continuous improvement' in the context of the consultancy's mission is too vague to be considered a primary focus, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:32:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the APS course and its practical application of Scrum, which indirectly relates to Common Goals by highlighting the importance of aligning individual contributions with team objectives. However, it primarily focuses on the course's structure and experiences rather than explicitly addressing the concept of Common Goals within Agile and DevOps frameworks. The discussion lacks depth in exploring how these goals guide decision-making or enhance accountability across teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:32:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the APS course's role in enhancing individuals' understanding and application of Scrum, which directly relates to competence in Agile methodologies. It highlights the importance of practical experience, skill development, and the ability to navigate complex challenges, aligning well with the core themes of competence. The depth of discussion is significant, as it covers various aspects of learning, problem-solving, and the impact of traditional organisational constraints on competence. Overall, the content is focused on developing capabilities within a Scrum framework, justifying a high confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:33:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the APS course and its application of Scrum, which is a specific agile methodology. While it touches on themes of collaboration and problem-solving, it does not discuss the One Engineering System framework, its principles, or its integration across teams. The content lacks direct mentions of 1ES and does not provide depth on its components or best practices, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

@@ -33,6 +33,7 @@ tags:
 - People and Process
 - Discovery and Learning
 - Continuous Learning
+- Continuous Improvement
 - Pragmatic Thinking
 resourceTypes:
 - video

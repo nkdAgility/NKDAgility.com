@@ -29,6 +29,7 @@ tags:
 - Working Software
 - Agile Transformation
 - Organisational Culture
+- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

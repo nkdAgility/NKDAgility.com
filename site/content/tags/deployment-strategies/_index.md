@@ -23,6 +23,9 @@ headline:
   subtitle: Optimising software release methods to enhance delivery speed while minimising potential risks.
   content: Strategies for deploying software encompass methods that enhance the speed of delivery while effectively managing associated risks. Posts should explore techniques such as continuous integration, automated testing, release planning, and feedback loops, emphasising the importance of adaptability and responsiveness in dynamic environments.
   updated: 2025-02-13T12:04:57Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

@@ -40,7 +40,7 @@ tags:
 - Software Development
 - Agile Strategy
 - Business Agility
-- Mentoring
+- Competence
 resourceTypes:
 - video
 categories: []

@@ -127,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T15:46:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:25:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile team dynamics and issues, without a focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses issues related to communication and accountability within Agile teams, which are important for team dynamics but do not directly address DevOps principles. While it touches on value delivery and fostering collaboration, it lacks a clear focus on the integration of development and operations, automation, or shared accountability across teams, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -166,11 +169,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:35:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:26:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses silence in agile teams and does not address Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the importance of communication and accountability within Agile teams, which is tangentially related to Continuous Delivery but does not explicitly address its principles or practices. While it touches on value delivery, it lacks a direct focus on Continuous Delivery concepts such as automation, rapid feedback, or specific strategies for incremental improvements.",
     "level": "Ignored"
   },
   "Test First Development": {
@@ -958,15 +964,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T21:04:36",
-    "ai_confidence": 72.0,
-    "ai_mentions": 3,
-    "ai_alignment": 32,
-    "ai_depth": 37,
+    "calculated_at": "2025-03-21T18:26:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the importance of communication and accountability within Agile teams, which aligns with the principles of the Agile Product Operating Model. It highlights the consequences of silence on value delivery and trust, indicating a conceptual understanding of product-centric development. However, it lacks a direct focus on specific Agile methodologies or detailed strategies for product teams, which slightly limits its depth in relation to the category.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses the importance of communication and accountability within Agile teams, which aligns with the principles of the Agile Product Operating Model. However, it does not explicitly mention the APOM framework or delve into product management practices, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1174,11 +1180,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:35:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:26:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to communication and team dynamics in Agile, without focusing on empirical evidence or data-driven management practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of communication and trust within Agile teams, which indirectly relates to value delivery. However, it lacks explicit references to Evidence-Based Management principles, empirical metrics, or data-informed decision-making. The focus is more on team dynamics and communication rather than on evidence-based practices or metrics that would align with the category.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1233,15 +1242,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses signs of dysfunction in Agile teams and the phenomenon of silence, without focusing on employee engagement, motivation, or commitment.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:35:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content mainly discusses issues related to communication and silence within agile teams, which does not focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -1509,6 +1509,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of communication and accountability within Agile teams, which indirectly relates to the Shift-Left Strategy by emphasising early identification of issues. However, it does not explicitly mention Shift-Left practices or integrate testing, security, or compliance early in the development process. The focus is more on team dynamics and communication rather than the core principles of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:25:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of communication and accountability within Agile teams, which indirectly relates to Continuous Improvement. However, it does not explicitly focus on Continuous Improvement principles or strategies. The mention of fostering a culture of open dialogue and the consequences of silence aligns with the need for ongoing reflection and adaptation, but the depth of discussion on Continuous Improvement techniques and frameworks is limited.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:25:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of communication and accountability within Agile teams, which indirectly relates to the concept of Common Goals. However, it does not explicitly mention Common Goals or their significance in aligning strategy with execution. The focus is more on the consequences of silence and fostering communication rather than on shared objectives or strategic alignment, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:26:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of communication and accountability within Agile teams, which indirectly relates to competence by emphasising the need for team members to voice concerns and engage in continuous improvement. However, while it touches on aspects of competence, such as fostering a culture of open dialogue and accountability, it primarily focuses on the consequences of silence rather than a direct exploration of competence itself. The depth of discussion on competence-related themes is moderate, but the primary focus remains on communication dynamics.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:26:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the issue of silence within Agile teams, focusing on communication and team dynamics rather than the One Engineering System framework. While it touches on themes relevant to team collaboration and accountability, it does not explicitly mention 1ES or its principles, components, or implementation strategies. The discussion lacks depth regarding the integration of tools and processes or the impact of a unified engineering system, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

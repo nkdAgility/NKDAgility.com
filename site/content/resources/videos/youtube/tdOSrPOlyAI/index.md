@@ -30,12 +30,12 @@ tags:
 - Software Development
 - Technical Excellence
 - Technical Leadership
+- Continuous Improvement
 - Engineering Practices
 - Product Delivery
+- Competence
 - Technical Debt
 - Shift-Left Strategy
-- Pragmatic Thinking
-- Transparency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

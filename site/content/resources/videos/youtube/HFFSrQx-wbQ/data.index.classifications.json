@@ -130,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T15:56:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:29:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses agility and Scrum, with only a brief mention of DevOps, making it not central to the topic.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the challenges associated with rigidity in processes, which is not directly aligned with the core principles of DevOps. While it touches on themes of continuous improvement and flexibility, which are relevant to DevOps, the focus remains on Agile practices rather than the integration of development and operations or the cultural shifts necessary for effective DevOps implementation. The mention of DevOps at the end is brief and does not contribute significantly to the overall discussion.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -172,11 +175,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agility and the adaptation of processes in agile teams, without a clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T18:30:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile principles and the importance of flexibility and innovation within teams, but it does not explicitly mention Continuous Delivery or its specific practices. While there are elements of continuous improvement and adaptation that align with the broader themes of Continuous Delivery, the focus remains on Agile methodologies rather than the specific delivery practices outlined in the category definition.",
     "level": "Ignored"
   },
   "Test First Development": {
@@ -958,11 +964,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues with agility such as rigidity in tools and processes, but does not focus on the Agile Product Operating Model or its principles.",
+    "calculated_at": "2025-03-21T18:29:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses general Agile principles and the importance of flexibility and continuous improvement, but it does not specifically address the Agile Product Operating Model or its core themes. While it touches on aspects of agility, such as team autonomy and adaptation, it lacks a direct focus on product management principles or the transition from project to product ethos, which are central to the APOM framework.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1171,11 +1180,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:30:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of flexibility and adaptation in agile practices, but does not focus on Evidence-Based Management principles or empirical evidence in decision-making.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile practices and the importance of flexibility and innovation within teams. While it touches on concepts like continuous improvement and experimentation, it lacks a direct focus on Evidence-Based Management principles such as empirical decision-making or specific metrics related to current value, time to market, or unrealised value. The discussion is more about Agile methodologies rather than evidence-based practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1236,15 +1248,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses agile methodologies and the importance of flexibility in processes, which are unrelated to employee engagement themes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to agility and the flexibility of processes and tools, rather than focusing on the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -1509,6 +1512,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses agility and the importance of flexibility in processes, but it does not explicitly mention the Shift-Left Strategy or its core principles. While it touches on themes of continuous improvement and adaptation, it lacks a direct focus on integrating testing, security, or compliance early in the development lifecycle, which are essential aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:29:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of fostering a culture of continuous improvement, particularly in the context of Agile practices. It mentions strategies such as encouraging experimentation and conducting regular retrospectives, which align with the principles of Continuous Improvement. However, while these concepts are present, the overall focus is more on the challenges of rigidity in Agile rather than a comprehensive exploration of Continuous Improvement itself. Thus, while there is a significant connection, it does not fully meet the criteria for primary focus.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:29:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses agility and the importance of flexibility and innovation within teams, but it does not explicitly mention Common Goals or their significance in aligning strategy with execution. While it touches on themes of team morale and adaptation, it lacks a direct focus on shared objectives or frameworks like OKRs that operationalise Common Goals. The discussion is more about overcoming rigidity and fostering a culture of change rather than aligning individual contributions to an overarching mission.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:29:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptation in Agile practices, which indirectly relates to competence. However, it primarily focuses on the dangers of rigidity and the need for continuous improvement rather than explicitly addressing competence as a foundational principle. The mention of empowering teams and encouraging experimentation aligns with the concept of competence but lacks depth in discussing skill development or professional growth.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:29:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the challenges associated with rigidity in processes and tools. While it touches on themes of flexibility and adaptation, it does not explicitly mention the One Engineering System or its principles, components, or implementation strategies. The focus is on Agile practices rather than the integration and standardisation of engineering processes, which is central to the 1ES framework.",
     "level": "Ignored"
   }
 }

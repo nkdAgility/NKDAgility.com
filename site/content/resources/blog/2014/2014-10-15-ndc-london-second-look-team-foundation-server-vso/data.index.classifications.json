@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T08:57:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:12:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a presentation on Team Foundation Server and Visual Studio Online, focusing on technical features and demos rather than the principles or practices of Evidence-Based Management.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a presentation about Team Foundation Server and Visual Studio Online, discussing features and demos rather than evidence-based management principles. While there are mentions of feedback and user validation, these are not explored in the context of empirical decision-making or the key topics outlined in Evidence-Based Management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,15 +127,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:43:32",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-03-22T07:12:05",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and Visual Studio Online (VSO) in the context of application lifecycle management (ALM), which aligns with DevOps principles. It mentions continuous integration and deployment practices, as well as automation in the deployment process. However, the focus is more on the specifics of TFS and VSO rather than a broader discussion of DevOps principles, which limits the depth of the discussion. The content does not explicitly mention DevOps as a category, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and Visual Studio Online (VSO) in the context of application lifecycle management (ALM), which aligns with DevOps principles. It mentions automation, continuous integration, and deployment, which are key aspects of DevOps. However, the focus is primarily on specific tools and features rather than a broader discussion of DevOps philosophy or practices, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -335,7 +338,7 @@
     "reasoning": "Content primarily discusses Team Foundation Server, Agile project management, and specific scenarios related to software development without addressing Systems Thinking principles or techniques.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T08:57:40",
     "ai_confidence": 0,
@@ -346,12 +349,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T07:12:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile Project Management and includes elements of the Agile framework, but primarily focuses on Team Foundation Server and its features, rather than deeply aligning with the Agile Product Operating Model as a central theme.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on Team Foundation Server (TFS) and Visual Studio Online (VSO) with a strong emphasis on application lifecycle management (ALM) and technical demonstrations. While it briefly touches on Agile concepts such as Agile Project Management and Agile Portfolio Management, these are not the main focus. The discussion lacks depth in the principles of the Agile Product Operating Model and does not adequately cover the transition from project to product ethos or the integration of Scrum practices. Overall, the content does not align closely with the core themes of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -427,14 +433,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T04:18:19",
+    "calculated_at": "2025-03-22T07:12:23",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
     "final_score": 66.0,
-    "reasoning": "The content discusses Continuous Delivery concepts, particularly in the context of Team Foundation Server (TFS) and Visual Studio Online (VSO). It mentions the automation of builds, testing, and deployment processes, which are key aspects of Continuous Delivery. However, the primary focus is on a presentation at NDC London rather than a deep exploration of Continuous Delivery principles. While there are relevant mentions and some alignment with CD practices, the overall depth of discussion is limited, focusing more on the event and personal experiences rather than a comprehensive analysis of Continuous Delivery methodologies.",
+    "reasoning": "The content discusses Continuous Delivery principles, particularly in the context of Team Foundation Server (TFS) and Visual Studio Online (VSO). It mentions the importance of automation in testing, integration, and deployment, which aligns with Continuous Delivery practices. However, the focus is more on the features of TFS and VSO rather than a comprehensive exploration of Continuous Delivery as a discipline. The depth of discussion on Continuous Delivery concepts is limited, primarily focusing on specific scenarios rather than broader principles or cultural aspects.",
     "level": "Secondary"
   },
   "Strategic Goals": {
@@ -1540,5 +1546,41 @@
     "final_score": 56.0,
     "reasoning": "The content discusses various aspects of Team Foundation Server (TFS) and Visual Studio Online (VSO) in the context of application lifecycle management (ALM). While it touches on testing and feedback loops, it does not explicitly focus on the Shift-Left Strategy or its principles. The mention of testing and deployment processes suggests some alignment with Shift-Left concepts, but the overall discussion is more centred on TFS features and user experiences rather than a comprehensive exploration of integrating testing and security early in the development lifecycle.",
     "level": "Tertiary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:12:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on a presentation about Team Foundation Server and Visual Studio Online, with a strong emphasis on demonstrating features and capabilities rather than discussing Continuous Improvement principles. While there are mentions of feedback and iterative processes, the overall discussion lacks depth in Continuous Improvement strategies and does not align closely with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:12:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a presentation about Team Foundation Server and Visual Studio Online, detailing features and scenarios for a demo. While it touches on Agile concepts like backlog and user stories, it lacks a direct discussion on Common Goals or their significance in aligning strategy with execution. The mention of Agile Project Management is too brief and does not delve into the core themes of Common Goals, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:12:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a presentation about Team Foundation Server and Visual Studio Online, with an emphasis on demonstrating features and capabilities rather than discussing competence in terms of continuous learning or skill development. While there are mentions of features that could imply a level of competence, the overall discussion lacks depth in exploring the importance of competence as a foundational principle in Agile or DevOps methodologies.",
+    "level": "Ignored"
   }
 }

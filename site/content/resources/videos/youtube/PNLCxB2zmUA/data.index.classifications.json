@@ -170,15 +170,6 @@
     "reasoning": "Content primarily discusses architectural adaptation in a technical context and does not provide personal experiences or insights related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Lean": {
     "category": "Lean",
     "calculated_at": "2025-02-20T19:50:49",
@@ -787,11 +778,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:45:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, without focusing on evidence-based management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of adapting architecture in software development, which touches on themes of long-term vision and incremental changes. However, it lacks explicit references to Evidence-Based Management principles, such as empirical decision-making or specific metrics related to current value or time to market. The focus is more on general software development practices rather than a data-informed management approach.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -1192,11 +1186,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile practices rather than Continuous Delivery principles.",
+    "calculated_at": "2025-03-21T16:45:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of incremental changes and architectural adaptation, which aligns with Continuous Delivery principles. However, it lacks a direct focus on Continuous Delivery practices, automation, or specific tools, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses architectural adaptation and the importance of incremental changes, which are relevant to the Shift-Left Strategy. However, it does not explicitly mention testing, security, or compliance integration early in the development process, which are core aspects of the Shift-Left concept. The focus is more on long-term vision and adaptability rather than on proactive measures to enhance software quality and delivery speed.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:44:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of incremental changes and fostering a culture of adaptability, which aligns with Continuous Improvement principles. However, while it touches on these themes, it does not explicitly focus on Continuous Improvement as a primary topic. The depth of discussion on specific Continuous Improvement techniques and frameworks is limited, leading to a moderately high confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:45:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of adapting to changing demands and fostering a culture of adaptability, which aligns with the concept of Common Goals in terms of creating a shared vision and long-term objectives. However, it lacks direct mentions of Common Goals and does not delve deeply into the specific frameworks or techniques that operationalise these goals, resulting in a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:45:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 25,
+    "ai_depth": 34,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of adapting to changing demands in software development, which indirectly relates to competence through the emphasis on investing in teams and fostering a culture of adaptability. However, while it touches on continuous improvement and long-term vision, it lacks a direct focus on the core themes of competence such as skill development and professionalism. The depth of discussion on strategies for fostering competence is present but not exhaustive, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:45:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses architectural adaptation and team dynamics in software development but does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on themes of collaboration and long-term vision, it lacks a direct focus on the integration and standardisation of engineering processes that characterise 1ES. The case study provided is relevant but does not connect to the broader framework of 1ES, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

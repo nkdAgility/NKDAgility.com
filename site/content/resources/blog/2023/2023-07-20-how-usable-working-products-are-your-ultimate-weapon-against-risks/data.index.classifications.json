@@ -667,14 +667,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T22:53:10",
+    "calculated_at": "2025-03-21T19:14:34",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
     "final_score": 66.0,
-    "reasoning": "The content discusses the importance of delivering a usable working product and the role of continuous feedback loops, which aligns with Continuous Delivery principles. However, it primarily focuses on Agile practices and does not delve deeply into Continuous Delivery methodologies or automation in deployment processes, leading to a moderate confidence score.",
+    "reasoning": "The content discusses the importance of delivering usable working products and emphasises feedback loops and automation, which are relevant to Continuous Delivery. However, it primarily focuses on Agile practices rather than the specific principles and practices of Continuous Delivery. While it touches on key aspects like automation and iterative development, it lacks a comprehensive exploration of Continuous Delivery as a distinct practice, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Cross Functional Teams": {
@@ -1288,15 +1288,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-14T22:52:46",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "calculated_at": "2025-03-21T19:14:19",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content primarily focuses on Agile practices and the importance of delivering usable working products, with some mentions of automation and feedback loops. However, it lacks a direct discussion on DevOps principles, tools, or cultural shifts, which are essential for a higher confidence score in the DevOps category.",
-    "level": "Ignored"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of feedback loops and automation, which are key principles in DevOps. However, the primary focus is on Agile practices rather than DevOps as a philosophy. While there are relevant mentions of collaboration and continuous delivery, the overall emphasis remains on Agile methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1447,11 +1447,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T21:49:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:14:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of delivering usable working products in Agile, focusing on practices and principles rather than empirical evidence or data-driven decision-making.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile practices and the importance of delivering usable working products, but it does not explicitly focus on Evidence-Based Management principles. While it touches on feedback loops and value delivery, it lacks a strong emphasis on empirical decision-making and the specific metrics outlined in the EBM category. The discussion is more about Agile methodologies rather than a data-informed approach to management.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1463,25 +1466,16 @@
     "reasoning": "Content heavily discusses Agile practices and the importance of delivering usable working products, without a clear focus on platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:49:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Agile practices and the importance of delivering usable working products, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T22:53:27",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
+    "calculated_at": "2025-03-21T19:14:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of delivering a usable working product, which aligns with the Agile Product Operating Model's focus on continuous value delivery and customer feedback. It emphasises the need for iterative development and the role of feedback loops, which are key aspects of the model. However, while it touches on relevant themes, it lacks a comprehensive exploration of the broader Agile Product Operating Model principles and strategies, leading to a slightly lower confidence score.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of delivering usable working products and continuous feedback loops, which are relevant to the Agile Product Operating Model. However, it primarily focuses on Agile practices and does not delve deeply into the broader principles of the APOM or its integration with product management. The discussion lacks explicit references to the transition from project to product ethos or the governance aspects of APOM, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -1554,6 +1548,54 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the importance of delivering a usable working product and the role of feedback loops in Agile practices, which aligns with some principles of the Shift-Left Strategy. However, it primarily focuses on Agile methodologies and does not explicitly address integrating testing, security, or compliance earlier in the development process. The discussion lacks depth in terms of Shift-Left techniques and tools, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:14:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of delivering usable working products and emphasises feedback loops and automation, which are key aspects of Continuous Improvement. However, while it touches on these themes, it primarily focuses on Agile practices and product delivery rather than a comprehensive exploration of Continuous Improvement principles. The discussion lacks depth in terms of specific strategies or frameworks for Continuous Improvement, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:14:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the importance of delivering usable working products and the role of feedback loops and automation in Agile practices. While it touches on aspects of Agile methodology, it does not explicitly discuss the concept of Common Goals or how they align with strategic objectives. The discussion lacks depth in connecting individual contributions to overarching organisational goals, which is crucial for the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:14:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of delivering usable working products and continuous feedback loops, which are essential for competence in Agile practices. However, while it touches on aspects of competence, such as the need for skill development and quality outcomes, it primarily focuses on product delivery and risk mitigation rather than a comprehensive exploration of competence itself.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:14:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Agile practices and the importance of delivering usable working products, which does not directly address the principles or components of the One Engineering System. While it touches on concepts like feedback loops and automation, it lacks a clear discussion on the integration and standardisation of engineering processes across teams, which is central to 1ES.",
     "level": "Ignored"
   }
 }

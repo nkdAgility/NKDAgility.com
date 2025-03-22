@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T20:47:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:18:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the APS (Agile Professional Scrum) course and Scrum methodology, which are not aligned with the core principles of DevOps. While there are mentions of team collaboration and improvement, these are framed within the context of Scrum rather than DevOps practices. The discussion lacks depth regarding DevOps concepts such as automation, shared accountability, or continuous delivery.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -91,11 +94,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T20:47:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:18:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the APS course and its relevance to Scrum training, without a clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting an APS course related to Scrum practices, with no direct discussion of Evidence-Based Management principles or metrics. While it touches on the importance of understanding Scrum, it lacks empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -335,15 +341,6 @@
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T20:48:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -667,11 +664,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T20:49:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:18:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the APS (Agile Professional Scrum) course and Scrum methodology, with no direct discussion of Continuous Delivery principles or practices. While it touches on Agile concepts, it does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or software quality. The depth of discussion is limited to Scrum training and does not explore Continuous Delivery in any meaningful way.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -763,11 +763,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T20:49:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum training and team alignment rather than the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T19:18:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the APS (Agile Professional Scrum) course and its benefits for mastering Scrum practices. While it mentions agile methodologies, it does not discuss the Agile Product Operating Model or its core principles. The discussion is more about Scrum training rather than the broader product-oriented mindset and operational aspects of APOM.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1530,6 +1533,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the APS (Agile Professional Scrum) course and its benefits for teams adopting Scrum practices. It does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. The mention of Scrum does not align with the core themes of integrating testing, security, or compliance early in the development process, which are central to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:18:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on promoting an APS course for Scrum mastery, which is related to Agile practices but does not explicitly discuss Continuous Improvement principles. While it mentions learning and adaptation, it lacks depth in exploring Continuous Improvement as a systematic approach. The discussion is more about training and Scrum methodology rather than ongoing improvement processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:18:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on promoting an APS course and its benefits for mastering Scrum practices. While it touches on themes of alignment and team improvement, it lacks a direct discussion of Common Goals as defined in the category. The emphasis is more on individual learning and Scrum methodology rather than on shared objectives or strategic alignment within Agile and DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:18:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of APS courses in mastering Scrum practices, which directly relates to the concept of competence in Agile methodologies. It highlights the necessity for continuous learning and skill development, particularly for teams new to Scrum or those needing a refresher. The depth of discussion includes specific reasons for taking the course, which aligns well with the core themes of competence, such as fostering a culture of learning and ensuring quality outcomes. However, while competence is a significant focus, the content primarily promotes the course rather than delving deeply into broader strategies for fostering competence across teams.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:18:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the APS (Agile Professional Scrum) course and Scrum methodology, which are not directly related to the One Engineering System framework. While there are mentions of integrating Scrum practices within teams, the discussion lacks a clear connection to the principles of 1ES, such as standardisation and integration of software development practices across teams. The content does not provide substantial detail on the One Engineering System or its components, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

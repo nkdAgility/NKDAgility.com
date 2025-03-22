@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:22:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:58:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of TFS server management and the ChangeServerId command, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of using ChangeServerId in TFS upgrades, discussing GUID issues and server configurations. It does not address Evidence-Based Management principles, nor does it provide empirical evidence or metrics related to management decisions. The discussion lacks relevance to the core themes of EBM, such as current value, time to market, or empirical decision-making.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:23:51",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-22T07:58:10",
+    "ai_confidence": 15.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses the ChangeServerId command in the context of managing TFS (Team Foundation Server) environments, which is relevant to DevOps practices. However, it primarily focuses on specific technical issues related to GUIDs and server configurations rather than broader DevOps principles such as CI/CD, automation, or team collaboration. While it touches on aspects of deployment and environment management, it lacks a comprehensive exploration of DevOps concepts, resulting in a low confidence score.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the technical aspects of using ChangeServerId in TFS upgrades, which is more aligned with specific operational tasks rather than the broader DevOps philosophy. While it touches on aspects of system configuration and management, it lacks a discussion on collaboration, automation, or cultural shifts that are central to DevOps. The mention of GUIDs and server configurations does not connect to the core principles of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +323,7 @@
     "reasoning": "Content primarily discusses technical aspects of TFS server management and GUID issues, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:23:08",
     "ai_confidence": 0,
@@ -331,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:23:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:58:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of TFS and ChangeServerId, with no focus on Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses technical aspects of TFS upgrades and the ChangeServerId command, with no direct mention or alignment to the Agile Product Operating Model. It focuses on traditional IT operations rather than agile methodologies or product management principles.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -409,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T01:37:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:58:25",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the ChangeServerId command and its implications in managing Team Foundation Server environments, without addressing principles or practices related to Continuous Delivery.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the ChangeServerId command in TFS and its implications during server upgrades, which does not directly address Continuous Delivery principles or practices. While it touches on aspects of software deployment, it lacks a comprehensive discussion on Continuous Delivery concepts such as automation, rapid feedback, or cultural aspects. The mention of server upgrades is too specific and does not align with the broader themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1455,6 +1464,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the technical aspects of using the ChangeServerId command in TFS and the implications of GUIDs in server environments. It does not address the Shift-Left Strategy, which focuses on integrating testing, security, and compliance earlier in the software development lifecycle. The discussion is more about operational procedures rather than proactive strategies for improving software quality or delivery speed.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:58:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions related to the ChangeServerId command in TFS upgrades, with minimal reference to Continuous Improvement principles. While it discusses the importance of avoiding GUID issues and ensuring smooth transitions, it lacks a broader discussion on continuous improvement methodologies, empirical evidence, or a culture of experimentation. The content does not align with the key topics outlined for Continuous Improvement, such as strategies for integrating these practices into organisational processes or fostering a culture of learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:58:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical details related to the ChangeServerId command in TFS and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth in these areas.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:58:18",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical aspects of using ChangeServerId in TFS upgrades, with minimal discussion on competence or skill development. While it touches on the importance of understanding GUIDs and the implications of misconfigurations, it does not delve into continuous learning, professionalism, or strategies for fostering competence within teams. The discussion lacks depth in relation to the core themes of competence, making it a secondary focus rather than a primary one.",
     "level": "Ignored"
   }
 }

@@ -55,11 +55,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T09:28:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:54:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on configuring Microsoft Teams for virtual training, with no discussion of Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training, with no direct mention of Evidence-Based Management principles or metrics. While it discusses setup and user experience, it lacks alignment with the core themes of EBM, such as data-informed decision-making or empirical evidence. The depth of discussion is also minimal regarding EBM, as the content is more instructional and practical rather than strategic or analytical.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -146,15 +149,6 @@
     "reasoning": "The content provides a comprehensive guide on configuring Microsoft Teams for live virtual training, detailing specific installation and configuration steps, such as creating an Azure AD tenant, setting up a Microsoft 365 subscription, and enabling guest access. It directly addresses the installation and configuration processes, aligning well with the key topics of the category. The depth of discussion is significant, with clear tasks outlined for the reader, making it actionable and relevant to the category.",
     "level": "Primary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T09:28:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on configuring Microsoft Teams for virtual training, with no clear discussion on the principles or components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-14T09:29:02",
@@ -208,11 +202,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T09:29:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:53:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on configuring Microsoft Teams for virtual training, with no clear discussion on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training, which is not aligned with DevOps principles. While it touches on aspects of technology and collaboration, it lacks explicit discussions on DevOps philosophy, practices, or cultural shifts. The mention of Azure Active Directory and Microsoft 365 is more about tool configuration rather than the integration of people, processes, and technology for continuous value delivery.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -274,11 +271,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T09:29:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:54:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on configuring Microsoft Teams for virtual training, with no clear discussion on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training, with no direct mention of the Agile Product Operating Model or its principles. While it discusses aspects of training and collaboration, it does not align with the core themes of APOM, such as product management or agile methodologies. The depth of discussion is limited to technical setup rather than strategic product delivery.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -442,11 +442,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T08:56:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:54:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses configuration and usage of Microsoft Teams for virtual training rather than any principles or practices related to Continuous Delivery.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training, discussing setup and user access rather than Continuous Delivery principles, practices, or tools. There are no direct mentions of Continuous Delivery, and the discussion lacks alignment with its core themes such as automation, rapid feedback, or software quality improvement.",
     "level": "Ignored"
   },
   "Technical Leadership": {
@@ -1449,6 +1452,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training, with no direct mention of the Shift-Left Strategy or its principles. While there are elements of preparation and setup that could tangentially relate to early integration of processes, the discussion lacks depth and does not address testing, security, or compliance in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:53:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training, providing practical setup instructions rather than discussing Continuous Improvement principles. While there are elements of enhancing user experience, they do not align with the core themes of Continuous Improvement, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:53:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical setup and configuration of Microsoft Teams for virtual training, lacking any explicit discussion of Common Goals within Agile or DevOps frameworks. While it touches on the importance of preparation for effective training, it does not connect to shared objectives or strategic alignment, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:53:58",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical setup and configuration of Microsoft Teams for virtual training, which is more about tool usage than the development of competence. While it briefly touches on the importance of preparation for a good training experience, it lacks a deep discussion on continuous learning, skill development, or fostering a culture of competence, which are core themes of the category. The mention of 'Professional Scrum Trainer' hints at competence but does not explore it in detail.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:54:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training, which does not align with the principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion revolves around specific tools and configurations rather than the integration and standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

@@ -32,9 +32,10 @@ tags:
 - Pragmatic Thinking
 - Ability to Innovate
 - Agile Product Management
+- Continuous Improvement
 - Products and Books
 - Decision Making
-- Product Delivery
+- Evidence Based Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

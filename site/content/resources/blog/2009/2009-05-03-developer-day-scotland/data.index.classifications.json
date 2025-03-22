@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:52:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:22:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses various technical sessions and topics related to software development, refactoring, and architectural practices, without a focus on Evidence-Based Management principles or empirical data-driven decision-making.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on technical sessions related to software development, refactoring, and design patterns, with no explicit discussion on Evidence-Based Management principles or metrics. While there are mentions of improving practices, they do not align with the core themes of EBM, such as empirical decision-making or outcome management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:53:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:21:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses sessions and topics related to software development, refactoring, and design patterns, without a clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on software development topics such as refactoring, dynamic languages, and design patterns, with no explicit discussion of DevOps principles or practices. While there are mentions of collaboration and iteration, these are not framed within the context of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,7 +335,7 @@
     "reasoning": "Content primarily discusses various software development sessions and topics such as refactoring, dynamic languages, and design patterns, without a clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:53:37",
     "ai_confidence": 0,
@@ -340,11 +346,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:53:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:22:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses various technical sessions and topics related to software development, refactoring, and architecture, without a clear focus on the Agile Product Operating Model.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical sessions related to software development practices, such as refactoring, dynamic languages, and design patterns, without any explicit discussion of the Agile Product Operating Model or its principles. While there are mentions of iterative processes and architectural considerations, these do not align closely with the core themes of the APOM, which emphasises a product-oriented mindset and governance in product delivery.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,11 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:22:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses various sessions at a developer event, focusing on refactoring, MVVM design pattern, dynamic languages, and software architecture without any direct mention or focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses topics related to refactoring, dynamic languages, and design patterns in WPF, which are not directly related to Continuous Delivery. While there are mentions of iterative processes and code quality, these are not explored in the context of Continuous Delivery principles or practices. The focus is on individual sessions and technical skills rather than the broader framework of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1468,5 +1480,41 @@
     "final_score": 11.0,
     "reasoning": "The content primarily discusses various sessions from a developer event, focusing on topics like refactoring, dynamic languages, and architectural practices. While there are mentions of software development processes, there is no explicit discussion of the Shift-Left Strategy or its principles. The content lacks depth in addressing how to integrate testing, security, or compliance early in the development lifecycle, which are core aspects of the Shift-Left Strategy.",
     "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:21:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses various sessions from a developer event, focusing on topics like refactoring and architectural atrophy, which relate to Continuous Improvement. However, while there are mentions of improving coding practices and the importance of refactoring, the primary focus is on specific technical sessions rather than a broader discussion on Continuous Improvement principles. The content does not deeply explore strategies or frameworks for implementing Continuous Improvement, which limits its alignment with the category.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:21:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on individual sessions and technical topics from a developer event, such as refactoring, dynamic languages, and MVVM. While there are mentions of collaboration and the importance of certain practices, it lacks a clear discussion on shared objectives or alignment with organisational goals, which are central to the concept of Common Goals in Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:22:03",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses various sessions at Developer Day Scotland that focus on technical skills and knowledge enhancement, particularly in refactoring, dynamic languages, and design patterns. While it does not explicitly mention 'competence', it aligns with the core themes of continuous learning and skill development. The depth of discussion on the importance of refactoring and architectural integrity suggests a commitment to quality outcomes, which is a key aspect of competence. However, the primary focus remains on specific technical topics rather than a broader discussion of competence as a principle.",
+    "level": "Tertiary"
   }
 }

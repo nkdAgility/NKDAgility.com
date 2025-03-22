@@ -661,11 +661,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T10:34:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:34:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices and misconceptions, discussing Scrum events and their purposes. While it touches on aspects of Agile methodology, it does not address Continuous Delivery principles, practices, or benefits. The discussion lacks direct relevance to Continuous Delivery, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -835,15 +838,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T21:23:19",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
+    "calculated_at": "2025-03-21T18:34:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
     "ai_alignment": 25,
-    "ai_depth": 30,
+    "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses Scrum events and their role in fostering empiricism, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on Scrum practices rather than a broader discussion of EBM principles, metrics, or case studies, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum events and their role in fostering empiricism, which is a component of Evidence-Based Management. However, it does not explicitly address the broader concepts of EBM such as current value, time to market, or empirical decision-making. The focus remains on Scrum practices rather than a comprehensive exploration of evidence-based management principles.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1288,11 +1291,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T10:33:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:34:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on Scrum, an Agile framework, and discusses its events and misconceptions. While it briefly mentions the importance of adapting and aligning with goals, it does not delve into DevOps principles, practices, or cultural shifts. The discussion lacks depth in relation to DevOps, making it clear that the primary focus is on Scrum rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1465,14 +1471,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T21:24:08",
+    "calculated_at": "2025-03-21T18:34:53",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content primarily focuses on Scrum practices and events, which are specific to Agile methodologies but do not directly address the broader Agile Product Operating Model. While it discusses principles of Scrum and the importance of events in fostering empiricism, it lacks a comprehensive exploration of product-centric development, value delivery, and the integration of Agile methodologies within the product lifecycle. Therefore, it only partially aligns with the key topics of the Agile Product Operating Model.",
+    "reasoning": "The content primarily focuses on Scrum practices and events, which are part of agile methodologies but does not directly address the Agile Product Operating Model or its principles. While it discusses agile concepts, it lacks a clear connection to product management and the broader themes of the APOM framework.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1490,15 +1496,6 @@
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:08:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -1542,6 +1539,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum practices and the misconceptions surrounding Scrum events, with no direct mention or discussion of the Shift-Left Strategy. While it touches on principles of inspection and adaptation, it does not address integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:34:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on clarifying misconceptions about Scrum events and their role in fostering empiricism and adaptation. While it touches on themes of inspection and adaptation, which are relevant to Continuous Improvement, it does not explicitly discuss Continuous Improvement as a primary focus. The depth of discussion is limited to Scrum practices rather than broader Continuous Improvement strategies or frameworks.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:34:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses Scrum events and their purpose, which indirectly relates to Common Goals through the mention of Sprint Goals and team alignment. However, it primarily focuses on debunking myths about Scrum rather than explicitly addressing the concept of Common Goals or their significance in Agile and DevOps. The discussion lacks depth in connecting these events to overarching strategic objectives, resulting in a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:34:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Scrum events and their purpose, which indirectly relates to competence through the emphasis on meaningful engagement and continuous improvement. However, it primarily focuses on debunking myths about Scrum rather than directly addressing competence as a foundational principle. The discussion lacks depth in exploring continuous learning or skill development, which are key aspects of the competence category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:34:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum, discussing its events and misconceptions, which are not aligned with the principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion does not address integration or standardisation of engineering processes, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T22:11:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:32:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily focuses on a referral program for classes and does not discuss DevOps principles, practices, or related topics.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on a referral program for collaborative learning, with only a brief mention of DevOps at the end. It lacks substantial discussion on DevOps principles, practices, or cultural shifts, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -85,11 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T22:12:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:32:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a referral program for classes and does not focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a referral program aimed at fostering collaborative learning, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on community building and collaborative learning, it lacks direct references to empirical decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -321,15 +327,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral program for classes and does not focus on release management strategies or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T22:12:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a referral program for classes and does not focus on the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -628,11 +625,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T22:13:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:32:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a referral program for classes and does not address Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a referral program aimed at enhancing collaborative learning, with no direct mention or discussion of Continuous Delivery principles, practices, or related topics. While it touches on collaboration, it does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality. The depth of discussion is entirely unrelated to Continuous Delivery, further justifying a very low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -724,11 +724,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T22:13:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:32:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a referral program for classes and does not focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a referral program for collaborative learning, with no direct mention of the Agile Product Operating Model or its principles. While it touches on themes of collaboration and community, these are not specific to the APOM framework. The discussion lacks depth and detail related to agile methodologies or product management practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1440,6 +1443,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on a referral program for collaborative learning, with no direct mention of the Shift-Left Strategy or its principles. While it touches on collaboration, it does not discuss integrating testing, security, or compliance early in the software development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:32:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a referral program aimed at enhancing collaborative learning rather than discussing Continuous Improvement principles. While it mentions collaboration and community building, it lacks explicit references to Continuous Improvement methodologies, empirical evidence, or strategies for integrating such practices into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:32:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions collaborative learning and community building, which are tangentially related to the concept of Common Goals. However, it lacks a direct focus on aligning strategy with execution within Agile or DevOps frameworks. The discussion is more about a referral program and personal growth rather than the foundational principles of Common Goals, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:32:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions collaborative learning and community building, which are related to competence, but it primarily focuses on a referral program rather than discussing continuous development or skill enhancement in a professional context. The depth of discussion on competence is minimal, lacking specific strategies or insights into fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:32:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on a referral program for collaborative learning, which does not directly discuss the One Engineering System (1ES) framework or its principles. While it mentions collaboration, it does not delve into the integration of tools, processes, or methodologies relevant to 1ES. The discussion lacks depth and specificity regarding the core themes of 1ES, leading to a very low confidence score.",
     "level": "Ignored"
   }
 }

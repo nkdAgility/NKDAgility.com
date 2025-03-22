@@ -33,6 +33,7 @@ sitemap:
 tags:
 - Transparency
 - Operational Practices
+- Continuous Improvement
 - Agile Frameworks
 - Flow Efficiency
 - Agile Project Management
@@ -40,7 +41,6 @@ tags:
 - Pragmatic Thinking
 - Throughput
 - Continuous Learning
-- Practical Techniques and Tooling
 resourceTypes:
 - video
 categories:

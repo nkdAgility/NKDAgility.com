@@ -652,11 +652,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T13:06:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:31:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses training, team dynamics, and personal experiences in software development, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses continuous learning and training, which are important for team development but does not explicitly focus on Continuous Delivery principles or practices. While it touches on aspects of fostering a learning culture and adapting to technological changes, it lacks a direct connection to Continuous Delivery's core themes such as automation, rapid feedback, and delivery techniques. The discussion is more aligned with general team management and agile leadership rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -826,11 +829,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T13:06:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:31:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses training, personal experiences, and the importance of fostering a learning environment, without a clear focus on Evidence-Based Management principles or empirical data.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses training and continuous learning, which are important for team development, but it lacks a direct focus on Evidence-Based Management principles. While it touches on concepts like fostering a learning culture and adapting to change, it does not provide empirical evidence or metrics that align with EBM. The discussion is more about personal experiences and general advice rather than data-informed decision-making.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1294,11 +1300,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T13:03:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:31:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses training, team dynamics, and personal experiences in learning and career development, with only a brief mention of Agile and DevOps at the end, making it not central to the topic.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses training and continuous learning, which are relevant to DevOps principles, particularly in fostering a culture of improvement and collaboration. However, it lacks direct mentions of DevOps practices or principles, and the focus is more on general leadership and team development rather than specific DevOps methodologies or cultural shifts.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1483,12 +1492,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:05:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of training and fostering a learning environment within teams, which aligns with Agile principles of continuous improvement and value delivery. However, it primarily focuses on training and individual development rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T18:31:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses training and continuous learning, which are relevant to agile principles, but it does not explicitly mention the Agile Product Operating Model or its core themes. The focus is more on personal development and team dynamics rather than on product management or agile methodologies specifically.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1506,15 +1518,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content primarily discusses training, team dynamics, and personal experiences in software development, without a clear focus on platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:05:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses training, team dynamics, and personal experiences in software development, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1557,6 +1560,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses training and continuous learning within teams, which does not directly address the Shift-Left Strategy. While there are themes of improvement and adaptation, they are not specifically related to integrating testing, security, or compliance earlier in the software development lifecycle. The focus is more on personal and team development rather than the proactive measures associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:31:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the importance of continuous learning and improvement within teams, aligning well with the principles of Continuous Improvement. It highlights strategies for fostering a learning culture, the significance of training, and the need for a supportive environment that encourages experimentation and adaptation. The depth of discussion is substantial, providing practical examples and actionable steps, which reinforces its relevance to the category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:31:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses training and continuous learning, which are important for team development but does not explicitly address Common Goals within Agile or DevOps frameworks. While it touches on themes of team alignment and improvement, it lacks a direct focus on shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:31:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 30,
+    "final_score": 81.0,
+    "reasoning": "The content extensively discusses the importance of training and continuous learning as a means to enhance team competence, which aligns well with the core themes of the category. It provides detailed strategies for fostering a culture of competence, such as creating feedback loops and encouraging small wins. The depth of discussion is significant, with personal examples illustrating the impact of competence on team morale and performance. Overall, the content is primarily focused on competence, making it a strong fit for the category.",
+    "level": "Primary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:31:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on training and fostering a learning culture within teams, which does not directly address the principles or components of the One Engineering System. While it touches on themes of continuous learning and team improvement, it lacks explicit discussions on integration of tools, processes, or methodologies that are central to 1ES. The content does not provide depth on the impact of a unified engineering system or best practices for its implementation.",
     "level": "Ignored"
   }
 }

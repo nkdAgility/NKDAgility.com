@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:11:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:35:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses WPF resource management and coding practices, with no clear focus on DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on managing themes and resource files in WPF applications, with no explicit discussion of DevOps principles, practices, or cultural shifts. While it touches on technical aspects of software development, it does not align with the core themes of DevOps such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:11:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:35:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details related to WPF and resource management, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of WPF application development, specifically managing themes and resource files. It does not mention or align with any principles of the Agile Product Operating Model, nor does it discuss product management or agile methodologies. The discussion is entirely centred on coding practices and technical solutions, which are unrelated to the APOM framework.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -169,11 +175,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:11:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:35:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of WPF and resource management, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on technical aspects of managing themes and resource files in WPF applications, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any depth in discussing these concepts.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -242,7 +251,7 @@
     "reasoning": "Content primarily discusses technical implementation details of WPF and resource management, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:11:45",
     "ai_confidence": 0,
@@ -895,11 +904,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:24:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:35:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses WPF and resource management in applications, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on managing themes and resource files in WPF applications, with no direct mention of Continuous Delivery principles or practices. While it discusses code modifications and error handling, it does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or incremental improvements. The depth of discussion is limited to technical implementation details without addressing the broader context of software delivery practices.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1434,6 +1446,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses technical implementation details related to WPF and resource management, with no explicit mention of the Shift-Left Strategy or its principles. It lacks alignment with the core themes of integrating testing, security, or compliance early in the development process, and does not provide any depth on the topic of Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:35:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical solutions for managing themes and resource files in WPF applications. It does not discuss Continuous Improvement principles, nor does it reflect on processes or team effectiveness. The mention of modifying code to solve specific issues does not align with the broader themes of Continuous Improvement, such as fostering a culture of experimentation or integrating improvement strategies into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:35:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of managing themes and resource files in WPF applications, with no explicit discussion of Common Goals, Agile, or DevOps principles. It lacks alignment with the core themes of the category, as it does not address shared objectives, team alignment, or strategic goals. The depth of discussion is also minimal regarding the category, as it is entirely technical and does not connect to the overarching mission of an organisation.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:35:36",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to WPF and resource management, with no explicit discussion of competence, continuous learning, or skill development. While it may imply a level of competence through the sharing of coding solutions, it does not engage with the core themes of the 'Competence' category as defined.",
     "level": "Ignored"
   }
 }

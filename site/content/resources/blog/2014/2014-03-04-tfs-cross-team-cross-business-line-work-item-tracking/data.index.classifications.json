@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:06:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:24:22",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the implementation and management of Team Foundation Server (TFS) for project tracking, without a focus on evidence-based management principles or empirical data-driven decision-making.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses the implementation of Team Foundation Server (TFS) for project management and work item tracking across teams. While it touches on some aspects of collaboration and efficiency, it lacks a direct focus on Evidence-Based Management principles such as empirical decision-making or metrics related to current value, time to market, or ability to innovate. The discussion is more operational and does not provide a strong connection to data-informed decision-making or the strategic use of metrics to enhance value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,14 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T14:45:06",
+    "calculated_at": "2025-03-22T07:24:02",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
     "final_score": 56.0,
-    "reasoning": "The content discusses the use of Team Foundation Server (TFS) for managing work items across multiple teams and projects, which touches on aspects of collaboration and workflow management relevant to DevOps. However, it primarily focuses on project management and specific TFS functionalities rather than broader DevOps principles such as Continuous Integration, Continuous Delivery, or automation. The depth of discussion on DevOps practices is limited, and while there are mentions of team collaboration, the content does not delve into the cultural shifts or tools typically associated with DevOps.",
+    "reasoning": "The content primarily discusses strategies for using TFS (Team Foundation Server) to improve work item tracking and collaboration across teams. While it touches on aspects of collaboration and project management, it lacks a direct focus on the core principles of DevOps such as automation, shared accountability, and continuous improvement. The discussion is more centred around project management practices rather than the cultural and philosophical shifts associated with DevOps.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -341,7 +344,7 @@
     "reasoning": "The content discusses the implementation of a solution within Team Foundation Server (TFS) to address organisational challenges related to project management and team collaboration. While it touches on interconnected issues faced by multiple teams and the need for a unified approach, it primarily focuses on specific technical solutions rather than exploring the broader principles of Systems Thinking. The mention of shared resources and the need for a single Team Project indicates some alignment with Systems Thinking concepts, but the depth of discussion is limited to practical implementation rather than a holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T09:08:50",
     "ai_confidence": 50,
@@ -352,12 +355,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T07:24:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of Team Foundation Server (TFS) in a cross-team and cross-business line context, which relates to product-centric development and the challenges of managing multiple teams and projects. However, the primary focus is on TFS functionalities and solutions rather than a comprehensive discussion of the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the use of TFS for project management and work item tracking across teams, which is more aligned with traditional project management practices rather than the Agile Product Operating Model. While there are mentions of collaboration and team dynamics, the focus is not on the principles of APOM or product-oriented methodologies. The depth of discussion on agile principles is limited, and the content does not adequately address the core themes of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -430,11 +436,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T11:12:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:24:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Team Foundation Server (TFS) and cross-team work item tracking without a focus on Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses strategies for cross-team collaboration and work item tracking in TFS, which is more focused on project management rather than Continuous Delivery principles. While it touches on aspects of software delivery, such as the need for collaboration and managing work items, it lacks a direct focus on Continuous Delivery practices, automation, or rapid feedback mechanisms. The depth of discussion on related topics is moderate, but it does not sufficiently explore the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1536,6 +1545,42 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the use of Team Foundation Server (TFS) for managing work items across multiple teams and projects, which touches on aspects of collaboration and project management. However, it does not explicitly address the Shift-Left Strategy or its core principles, such as integrating testing, security, and compliance earlier in the development process. The focus is more on organisational structure and project management rather than on proactive quality assurance or early integration of critical processes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:24:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses strategies for improving work item tracking and collaboration within TFS, which aligns with the principles of Continuous Improvement. However, it primarily focuses on specific technical solutions rather than broader themes of continuous reflection, adaptation, or empirical evidence. While it mentions the need for better processes and addresses some challenges, it lacks a comprehensive exploration of Continuous Improvement methodologies or frameworks.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:24:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses strategies for cross-team collaboration and work item tracking in TFS, which touches on the importance of alignment and shared objectives. However, it primarily focuses on technical solutions and challenges rather than explicitly addressing the foundational principles of Common Goals in Agile and DevOps. The discussion lacks depth in exploring how these strategies connect to overarching strategic objectives or the role of Common Goals in fostering collaboration and accountability.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:24:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses strategies for using TFS to improve cross-team collaboration and project management, which indirectly relates to competence through the lens of effective work item tracking and team organisation. However, it lacks a direct focus on continuous learning, skill development, or the professional growth aspects that are central to the competence category. While it touches on issues that teams face and suggests solutions, it does not delve deeply into fostering a culture of competence or the importance of ongoing skill enhancement.",
     "level": "Ignored"
   }
 }

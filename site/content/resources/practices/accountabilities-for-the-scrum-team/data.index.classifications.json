@@ -685,11 +685,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T15:36:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:12:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on accountabilities within the Scrum Team and agile project management, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks direct mentions of empirical decision-making or the key topics outlined in the EBM category, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Experimentation": {
@@ -811,11 +814,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-13T15:37:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:12:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum roles and responsibilities, which are related to Agile project management but do not specifically address Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion lacks depth in terms of relevant topics such as automation, incremental improvements, or feedback mechanisms that are central to Continuous Delivery.",
     "level": "Ignored"
   },
   "Remote Working": {
@@ -1373,15 +1379,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:09:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:43:49",
@@ -1455,6 +1452,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum roles and accountabilities, which does not directly address the Shift-Left Strategy. There are no explicit mentions of integrating testing, security, or compliance early in the development process, nor does it discuss the principles or benefits of the Shift-Left approach. The discussion lacks depth and relevance to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:12:20",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the accountabilities within the Scrum Team, which is more about role clarification than Continuous Improvement. While it may indirectly relate to team effectiveness, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation and learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:12:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on accountabilities within the Scrum Team, which relates to roles and responsibilities in Agile project management. However, it does not explicitly discuss Common Goals or their significance in aligning strategy with execution. The mention of accountabilities is too vague and does not connect directly to the core themes of Common Goals, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:12:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on accountabilities within the Scrum Team, which is more about roles and responsibilities than on the development of competence. While it touches on the importance of understanding roles in agile project management, it lacks explicit discussions on continuous learning, skill development, or the fostering of a culture of competence. The depth of discussion is minimal, as it does not provide detailed insights into how competence impacts quality outcomes or trust within teams.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:12:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum roles and responsibilities, which are specific to agile project management rather than the broader principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion does not align with the core themes of integration and standardisation of engineering processes. The depth of discussion is minimal, lacking detailed insights into the One Engineering System framework.",
     "level": "Ignored"
   }
 }

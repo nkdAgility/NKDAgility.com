@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:29:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:53:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on training sessions for Team Foundation Server and SharePoint, lacking discussions on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on training for Team Foundation Server and SharePoint, discussing project management tools and techniques without a clear emphasis on evidence-based management principles. While it touches on project management and productivity, it lacks direct references to empirical decision-making, current value metrics, or any of the key topics outlined in the Evidence-Based Management category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -136,15 +139,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T15:02:40",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-22T08:53:11",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content primarily focuses on training sessions for Team Foundation Server (TFS) and SharePoint, which are tools that can be used in a DevOps context. However, it lacks explicit discussions on DevOps principles, practices, or cultural shifts. While it mentions project management and software development processes, it does not delve into automation, CI/CD, or collaboration aspects central to DevOps. The content is more aligned with project management and software development training rather than a comprehensive exploration of DevOps.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Team Foundation Server and SharePoint 2010, which are tools related to project management and software development rather than the broader DevOps philosophy. While there are mentions of improving software development processes and project management, the discussion lacks a strong emphasis on core DevOps principles such as collaboration, automation, and shared accountability. The content does not delve into the cultural shifts or practices necessary for effective DevOps implementation, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -347,7 +350,7 @@
     "reasoning": "Content primarily focuses on training for Team Foundation Server and SharePoint 2010, with no clear discussion of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:30:04",
     "ai_confidence": 0,
@@ -358,11 +361,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:30:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:53:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Team Foundation Server and SharePoint 2010, discussing project management and software development tools rather than the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Team Foundation Server and SharePoint 2010, discussing project management tools and techniques rather than the Agile Product Operating Model. While there are mentions of user stories and project management, these are framed within a traditional project management context rather than an agile product-oriented mindset. The content lacks depth in discussing agile principles or the transition to a product ethos, which are central to the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -439,11 +445,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T01:27:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:53:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Team Foundation Server and SharePoint within the context of project management and development processes, but does not focus on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Team Foundation Server (TFS) and SharePoint 2010, discussing project management and software development tools rather than Continuous Delivery principles. While there are mentions of improving software development processes and project management, the discussion lacks a direct focus on Continuous Delivery practices, automation in deployment, or rapid feedback mechanisms. The content does not delve into the core themes of Continuous Delivery, such as incremental improvements or cultural aspects, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1534,5 +1543,41 @@
     "final_score": 29.0,
     "reasoning": "The content discusses various aspects of Team Foundation Server and SharePoint, including project management and testing processes. However, it does not explicitly mention the Shift-Left Strategy or its principles. While there are elements related to early testing and integration, the focus is primarily on tools and sessions rather than a comprehensive discussion of integrating testing and security earlier in the development lifecycle.",
     "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:53:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a training event for Team Foundation Server and SharePoint, with an emphasis on project management and software development tools. While there are elements that touch on improving processes and productivity, such as the mention of project management techniques and the lifecycle of work items, the discussion lacks a strong emphasis on Continuous Improvement principles. The content does not provide substantial detail on fostering a culture of experimentation or integrating Continuous Improvement into organisational processes, which are key aspects of the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:53:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a training event for Team Foundation Server and SharePoint, discussing tools and techniques for project management and software development. While it touches on aspects of project management that could relate to common goals, it lacks explicit discussions on aligning strategy with execution or shared objectives within Agile and DevOps frameworks. The mention of project management skills is too vague and does not connect deeply with the principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:53:20",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses a training course aimed at enhancing project management skills and understanding of tools like Team Foundation Server and SharePoint. While it mentions skill enhancement and provides details on the sessions, the primary focus is on the tools and their features rather than a deep exploration of competence as a principle. The content aligns with the category through its emphasis on skill development and project management, but it lacks a thorough discussion on continuous learning and the broader implications of competence in Agile and DevOps contexts.",
+    "level": "Tertiary"
   }
 }

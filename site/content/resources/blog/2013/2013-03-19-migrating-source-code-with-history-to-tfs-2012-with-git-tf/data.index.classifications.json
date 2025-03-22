@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:12:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:56:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of migrating source code between version control systems, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for migrating source code using Git-Tf and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of EBM concepts, and the discussion lacks depth regarding data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:21:55",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-22T07:56:14",
+    "ai_confidence": 12.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the technical aspects of migrating source code between Team Foundation Server and Git, which is related to version control but does not explicitly discuss DevOps principles or practices. While it touches on tools and processes that could be part of a DevOps workflow, it lacks a broader discussion on collaboration, automation, or cultural shifts necessary for DevOps. The depth of technical detail is present, but it does not connect these practices to the overarching goals of DevOps.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating source code between Team Foundation Server and Git using Git-Tf. While it touches on version control, it does not explicitly discuss DevOps principles such as collaboration, automation, or shared accountability. The discussion lacks depth in terms of DevOps culture or practices, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +323,7 @@
     "reasoning": "Content primarily discusses the technical process of migrating source code between Team Foundation Servers using Git-Tf, without any focus on Systems Thinking principles or organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:13:34",
     "ai_confidence": 0,
@@ -331,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:13:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:56:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of migrating source code between Team Foundation Servers using Git-Tf, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of migrating source code between Team Foundation Server and Git, with no direct mention or discussion of Agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any alignment with the core themes of the category, such as continuous delivery, product-oriented mindset, or Evidence-Based Management. The depth of discussion is entirely technical and does not touch upon any relevant Agile concepts.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -406,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:03:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:56:30",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the migration of source code between Team Foundation Servers using Git-Tf, which is not primarily related to Continuous Delivery principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating source code between Team Foundation Server and Git using Git-Tf. It does not discuss Continuous Delivery principles, practices, or benefits, nor does it mention automation, rapid feedback, or cultural aspects related to Continuous Delivery. The content is more aligned with version control and migration techniques rather than the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1455,6 +1464,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating source code between Team Foundation Server and Git, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. It lacks any mention of the Shift-Left Strategy principles or its benefits, and does not provide depth on related techniques or case studies. Overall, the content does not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:56:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating source code using Git-Tf and does not discuss Continuous Improvement principles. While it mentions the need for robust methods and efficient transitions, it lacks explicit references to Continuous Improvement concepts such as empirical evidence, experimentation, or team effectiveness. The discussion is largely procedural and does not delve into the cultural or strategic aspects of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:56:19",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on technical instructions for migrating source code using Git-Tf and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth in relation to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:56:22",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating source code using Git-Tf and does not explicitly discuss competence or its importance in Agile or DevOps contexts. While there are mentions of using tools and methods, these do not align with the core themes of continuous learning, skill development, or fostering a culture of competence. The depth of discussion is limited to practical instructions without exploring the implications of competence in professional settings.",
     "level": "Ignored"
   }
 }

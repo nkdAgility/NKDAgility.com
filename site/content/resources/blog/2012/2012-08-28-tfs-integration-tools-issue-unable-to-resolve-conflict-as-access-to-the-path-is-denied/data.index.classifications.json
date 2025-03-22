@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:32:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:08:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS Integration Tools and permissions, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to TFS Integration Tools and does not discuss Evidence-Based Management or its core themes. There are no direct mentions of empirical decision-making, current value, or any other key topics associated with EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T19:32:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:08:37",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific issue related to TFS Integration Tools and permissions, which does not align with the core principles of DevOps.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on resolving a specific issue related to TFS Integration Tools and permissions, which does not align with the broader principles of DevOps. While it touches on aspects of configuration management, it lacks discussions on collaboration, automation, or cultural shifts that are central to DevOps. The mention of TFS is more about a tool rather than the DevOps philosophy itself.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -317,7 +323,7 @@
     "reasoning": "Content primarily discusses technical issues related to TFS Integration Tools and permissions, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:33:08",
     "ai_confidence": 0,
@@ -328,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:33:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:08:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS Integration Tools and permissions, with no focus on Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to TFS Integration Tools and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related concepts. The content is entirely centred on a specific technical problem and its solution, which is unrelated to the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:54:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:08:57",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on troubleshooting specific issues with TFS Integration Tools and does not discuss Continuous Delivery principles or practices.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on resolving a specific issue related to TFS Integration Tools and permissions, which does not directly address Continuous Delivery principles or practices. While it touches on aspects of software integration, it lacks a discussion on automation, incremental improvements, or the cultural aspects of Continuous Delivery. Therefore, it only marginally mentions related concepts without providing substantial depth or alignment with the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1449,6 +1461,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a specific issue related to TFS Integration Tools and permissions, with no direct mention or alignment to the Shift-Left Strategy. It focuses on resolving a technical conflict rather than integrating testing, security, or compliance earlier in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:08:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS Integration Tools and does not discuss Continuous Improvement principles or practices. While it mentions adjusting permissions, it lacks a broader context of ongoing improvement, experimentation, or team effectiveness, which are central to the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:08:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS Integration Tools and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no mentions of shared objectives, alignment, or strategic goals, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:08:45",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS Integration Tools and does not explicitly discuss competence or its importance in Agile or DevOps contexts. While it touches on permissions and configuration, which could relate to competence in a very indirect way, it lacks a clear emphasis on continuous learning, skill development, or the broader implications of competence within teams or organisations.",
     "level": "Ignored"
   }
 }

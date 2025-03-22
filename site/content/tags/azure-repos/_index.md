@@ -24,6 +24,9 @@ headline:
   subtitle: Streamline source control and collaboration for efficient software development and delivery in modern teams.
   content: Facilitate effective source control and collaboration within software development teams, enabling streamlined workflows and enhanced code quality. Posts should explore versioning strategies, branching models, integration techniques, and the impact of collaborative practices on team dynamics and project outcomes.
   updated: 2025-02-13T12:05:48Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

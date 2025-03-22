@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:41:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:05:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses SEO techniques and URL redirection strategies, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on SEO strategies and technical implementations for URL redirection, with no direct mention or discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T01:42:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:05:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SEO and URL redirection techniques, which are not central to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on SEO strategies and URL redirection techniques, which are not aligned with DevOps principles. There are no direct mentions of DevOps practices, and the discussion lacks depth in any relevant DevOps concepts such as automation, collaboration, or continuous improvement.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -317,7 +323,7 @@
     "reasoning": "Content primarily discusses SEO techniques and URL redirection methods, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:42:45",
     "ai_confidence": 0,
@@ -328,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:42:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:05:22",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 20,
     "final_score": 2.0,
-    "reasoning": "Content primarily discusses SEO and URL redirection techniques, with no clear focus on Agile principles or product-centric development.",
+    "reasoning": "The content focuses entirely on SEO strategies and technical implementations for URL redirection, with no references to agile methodologies, product management principles, or the Agile Product Operating Model. It does not discuss any relevant topics such as product ethos, agile processes, or continuous improvement, which are central to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:22:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:05:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SEO practices for handling redirects in web applications and does not focus on Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses SEO strategies and URL redirection techniques, which are not related to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, automation in testing, or deployment strategies, and the focus is on maintaining SEO rather than software delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1443,6 +1455,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses SEO and URL redirection techniques, with no direct mention or alignment to the Shift-Left Strategy. It focuses on post-development practices rather than integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:05:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical implementation details regarding SEO and URL redirection, with minimal reference to Continuous Improvement principles. While there are mentions of updates and changes made to improve the code, these are not framed within a broader context of Continuous Improvement methodologies or strategies. The discussion lacks depth in terms of fostering a culture of experimentation or learning, which are key aspects of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:05:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of implementing SEO redirects and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:05:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation of SEO strategies and URL redirection, with no explicit discussion on competence, continuous learning, or skill development. While it touches on best practices, it does not align with the core themes of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

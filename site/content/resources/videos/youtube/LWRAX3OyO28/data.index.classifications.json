@@ -241,11 +241,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T16:19:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses continuous delivery and DevOps practices, with no clear focus on Evidence-Based Management principles or empirical data application.",
+    "calculated_at": "2025-03-21T16:52:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses continuous delivery and automation in software development but does not explicitly mention Evidence-Based Management or its key topics. While it touches on aspects like risk mitigation and feedback loops, it lacks a strong focus on empirical decision-making or metrics that align with EBM principles.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -286,14 +289,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-11T14:16:33",
+    "calculated_at": "2025-03-21T16:52:35",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 38,
     "non_ai_confidence": 20,
     "final_score": 85.0,
-    "reasoning": "The content explicitly discusses Continuous Delivery, focusing on its principles and the role of automation, which aligns well with the category's core themes. It provides detailed examples and insights into how automation transforms software delivery, demonstrating a deep understanding of the subject matter. The mention of real-world cases, such as Azure DevOps and Knight Capital Group, further enhances the depth of discussion, making it a strong fit for the Continuous Delivery category.",
+    "reasoning": "The content explicitly discusses continuous delivery, focusing on its principles and the role of automation in enhancing software delivery. It provides detailed insights into the benefits of automation, risk mitigation, and real-world examples, aligning closely with the core themes of continuous delivery. The depth of discussion is substantial, covering various aspects such as consistency, reliability, and rapid feedback loops, which are essential to the practice of continuous delivery.",
     "level": "Primary"
   },
   "Working Agreements": {
@@ -1505,15 +1508,6 @@
     "reasoning": "Content primarily discusses continuous delivery and automation within DevOps, with no clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T11:59:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses continuous delivery and automation within DevOps, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:38:59",
@@ -1588,5 +1582,53 @@
     "final_score": 56.0,
     "reasoning": "The content discusses continuous delivery and automation, which are related to the Shift-Left Strategy, but it does not explicitly mention the Shift-Left concept or focus on integrating testing, security, and compliance earlier in the development process. While it touches on proactive measures like automated checks and rapid feedback loops, these are not framed within the context of a Shift-Left approach. The primary focus remains on continuous delivery rather than the specific principles and practices of the Shift-Left Strategy.",
     "level": "Tertiary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:52:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses continuous delivery and automation, which are related to Continuous Improvement, but it primarily focuses on the benefits of automation rather than the broader principles of Continuous Improvement. While it touches on aspects like risk mitigation and rapid feedback loops, it lacks a comprehensive exploration of Continuous Improvement strategies, techniques, or case studies. The emphasis is more on operational efficiency rather than a culture of ongoing improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:52:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses continuous delivery and automation within the DevOps framework, but it does not explicitly address Common Goals or their significance in aligning strategy with execution. While it touches on themes of efficiency and risk mitigation, it lacks a direct focus on shared objectives or the relationship between strategic and tactical commitments. The depth of discussion on Common Goals is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:52:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses automation and continuous delivery, which indirectly relates to competence through the lens of improving processes and reducing errors. However, it lacks a direct focus on continuous learning or skill development, which are core aspects of competence. The depth of discussion on the implications of automation on quality and effectiveness contributes positively, but the primary focus remains on operational efficiency rather than on fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:52:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on continuous delivery and automation within the DevOps framework, which does not directly address the principles or components of the One Engineering System. While it touches on themes of efficiency and risk mitigation, it lacks explicit discussions on the integration of tools and processes across teams, which is central to 1ES. The examples provided, such as Azure DevOps, illustrate successful practices but do not connect back to the unified engineering system concept. Overall, the content is relevant but does not meet the primary focus required for a higher confidence score.",
+    "level": "Ignored"
   }
 }

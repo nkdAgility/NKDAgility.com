@@ -244,14 +244,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T17:04:20",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-21T16:53:25",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, which aligns with some principles of Evidence-Based Management, such as continuous improvement and stakeholder engagement. However, it lacks explicit references to empirical evidence, metrics, or the structured application of EBM principles as outlined by Schwaber and Sutherland. The discussion is more focused on general philosophies and practices rather than a data-driven approach, leading to a moderate confidence score.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, which aligns with some aspects of Evidence-Based Management, particularly in terms of maximising value delivery and continuous improvement. However, it lacks explicit references to empirical evidence or metrics that are central to EBM. The focus is more on general philosophies and practices rather than data-informed decision-making, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -295,11 +295,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T16:53:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of building a high performing delivery engine and touches on principles related to Agile and DevOps, which are relevant to Continuous Delivery. However, it primarily focuses on team dynamics and business understanding rather than the specific practices and methodologies of Continuous Delivery.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses building a high-performance delivery engine, which aligns with the principles of Continuous Delivery, particularly in terms of competence and collaboration. However, it lacks direct mentions of Continuous Delivery practices and does not delve deeply into automation, rapid feedback, or specific tools that are central to the category. The focus is more on general software delivery philosophies rather than the specific practices of Continuous Delivery.",
     "level": "Tertiary"
   },
   "Working Agreements": {
@@ -1496,15 +1499,6 @@
     "reasoning": "The content discusses principles of team dynamics and the importance of competence in delivering products, which aligns with human-centric approaches and adaptive organisational cultures, but it primarily focuses on practical delivery processes rather than the core tenets of BetaCodex.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:00:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of competence and collaboration in building high-performance delivery teams, with a focus on Agile, DevOps, and Lean methodologies, rather than specifically addressing the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:39:18",
@@ -1581,6 +1575,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, which indirectly relates to the Shift-Left Strategy. However, it does not explicitly mention integrating testing, security, or compliance early in the development process, nor does it focus on the proactive identification of issues. The discussion is more centred on general Agile and DevOps principles rather than the specific themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:53:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses Continuous Improvement as a key aspect of building a high-performance delivery engine, highlighting the need for ongoing adaptation and enhancement of processes. However, while it mentions Continuous Improvement, it does not delve deeply into specific strategies or empirical evidence related to it. The focus is more on competence and collaboration, with Continuous Improvement being a secondary theme rather than the primary focus.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:53:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, which indirectly relates to the concept of Common Goals. However, it lacks explicit mentions of shared objectives or strategic alignment within Agile and DevOps frameworks. The focus is more on individual roles and philosophies rather than on collective goals or frameworks like OKRs. While there are elements that touch on collaboration and value delivery, the overall discussion does not sufficiently centre on the core themes of Common Goals.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:53:17",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses competence as a critical factor in building a high-performance delivery engine, highlighting its importance beyond just technical skills. It aligns well with the core themes of continuous learning, the role of competence in delivering quality outcomes, and fostering a culture of competence. The depth of discussion is substantial, providing detailed insights into how competence integrates with Agile, DevOps, and Lean methodologies, as well as practical implications for team members. Overall, the content is strongly focused on competence, justifying a high confidence score.",
+    "level": "Primary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:53:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses building a high-performance delivery engine and emphasises competence and collaboration, which are relevant to software development. However, it primarily focuses on general practices and philosophies like Agile and DevOps rather than the specific principles and components of the One Engineering System. The mention of 1ES is absent, and while there is some alignment with the themes of integration and standardisation, the depth of discussion does not sufficiently address the core aspects of 1ES.",
     "level": "Ignored"
   }
 }

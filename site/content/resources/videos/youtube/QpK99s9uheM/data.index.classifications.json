@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T23:32:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:44:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses project management and Agile roles, without a focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on agile project management and the role of project managers in adopting agile principles. While it touches on collaboration and team dynamics, which are relevant to DevOps, it does not explicitly discuss DevOps as a philosophy or its core principles. The discussion lacks depth in terms of DevOps practices, such as automation, shared accountability, or continuous improvement, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -94,11 +97,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:32:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of project managers in agile environments, without a clear focus on Evidence-Based Management principles or practices.",
+    "calculated_at": "2025-03-21T19:44:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses agile project management and the mindset shift required for project managers, but it does not explicitly mention Evidence-Based Management or its key topics. While there is a focus on outcomes over outputs, which aligns with EBM principles, the overall discussion is more centred on agile practices rather than empirical evidence or data-informed decision-making.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -338,15 +344,6 @@
     "reasoning": "Content heavily discusses the role of project managers in Agile and Scrum without a focus on release processes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:33:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of project managers in agile environments, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
     "calculated_at": "2025-03-11T14:41:10",
@@ -526,11 +523,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T07:25:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the roles and challenges of project managers within an agile framework, without addressing Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T19:44:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses agile project management and the mindset shift required for project managers to embrace agility. While it touches on themes of collaboration and iterative processes, it does not explicitly address Continuous Delivery principles or practices. The focus is more on project management roles and agile methodologies rather than the specific practices of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1264,11 +1264,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T07:25:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:44:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of project managers within Agile frameworks, rather than focusing on the Agile Product Operating Model as a product-centric approach.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses agile principles and the role of project managers in adopting an agile mindset, but it primarily focuses on project management rather than the Agile Product Operating Model specifically. While there are mentions of agility and collaboration, the content does not delve into the core themes of the APOM, such as product-oriented mindsets or integration with product management practices.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -1488,6 +1491,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the role of project managers in adopting agile methodologies, focusing on mindset shifts and collaboration rather than on integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on agile principles, it does not explicitly address the Shift-Left Strategy or its key topics.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:44:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of embracing agility and continuous learning, which aligns with the principles of Continuous Improvement. It highlights the need for project managers to shift their mindset and foster collaboration, indicating a commitment to incremental advancements. However, the primary focus is on the role of project managers in an agile context rather than a detailed exploration of Continuous Improvement practices or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:44:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the transition of project managers to an agile mindset, touching on collaboration and team empowerment, which are related to Common Goals. However, it primarily focuses on individual mindset shifts and project management techniques rather than explicitly addressing shared objectives or strategic alignment within Agile and DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:44:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of shifting mindsets and embracing continuous learning, which aligns well with the principles of competence. It highlights the need for project managers to adapt and develop their skills in an agile environment, thus directly addressing the core themes of competence. However, while it touches on these aspects, the primary focus is more on the role of project managers in agile rather than a deep exploration of competence itself, leading to a slightly lower depth score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:44:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on agile project management and the mindset shift required for project managers, with no direct mention of the One Engineering System (1ES) framework. While it discusses collaboration and agile principles, it does not align with the core themes of 1ES, such as standardisation and integration of software development practices across teams. The depth of discussion is limited to personal experiences and recommendations for project managers, lacking any detailed exploration of 1ES or its components.",
     "level": "Ignored"
   }
 }

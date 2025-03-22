@@ -38,8 +38,9 @@ tags:
 - Team Performance
 - Coaching
 - People and Process
+- Continuous Improvement
 - Team Motivation
-- Mentoring
+- Competence
 resourceTypes:
 - video
 categories:

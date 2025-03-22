@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T21:08:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:19:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses file storage solutions and personal data management, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for mapping Windows special folders to OneDrive for Business, with no direct mention or discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any depth on these topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T21:09:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:19:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal data backup and file syncing using OneDrive, which is not related to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on mapping Windows special folders to OneDrive for Business for backup purposes. While it touches on aspects of data management and cloud storage, it does not discuss DevOps principles, practices, or cultural shifts. There are no direct mentions of collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The content lacks depth in relation to DevOps, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,22 +320,16 @@
     "reasoning": "Content primarily discusses file backup solutions and the use of OneDrive, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T21:09:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses personal data backup solutions using OneDrive, with no focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T21:09:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:19:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses file storage solutions and syncing methods, with no relevance to Agile principles or product development.",
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on mapping Windows special folders to OneDrive for Business, discussing file backup and access across devices. It does not mention or align with any principles of the Agile Product Operating Model, nor does it provide any depth on related topics such as product management or agile methodologies.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +397,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T21:11:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:19:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses file storage and syncing using OneDrive, with no relevance to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on mapping Windows special folders to OneDrive for Business for backup purposes. It does not discuss Continuous Delivery principles, practices, or related topics. The mention of automation is limited to syncing files, which does not align with the core themes of Continuous Delivery. Overall, the content lacks depth and relevance to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1431,6 +1434,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses file storage and backup solutions using OneDrive, with no mention of software development processes, testing, security, or compliance. It does not align with the core themes of the Shift-Left Strategy, which focuses on integrating critical processes earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:19:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for mapping Windows special folders to OneDrive for Business, with no explicit discussion of Continuous Improvement principles. While it touches on the importance of data backup and accessibility, it lacks depth in exploring themes such as empirical evidence, experimentation, or strategies for organisational processes. Therefore, it does not align with the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:19:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for mapping Windows special folders to OneDrive for Business, with no explicit discussion of Common Goals, Agile, or DevOps principles. While it touches on the importance of data backup and accessibility, it lacks any connection to shared objectives or strategic alignment within teams, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:19:40",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on technical instructions for mapping Windows special folders to OneDrive for Business, with minimal discussion on competence or skill development. While it touches on the importance of data backup and access across devices, it does not delve into continuous learning, professionalism, or the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:19:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on mapping Windows special folders to OneDrive for Business for backup purposes. It does not discuss the One Engineering System framework, its principles, or its components. There are no mentions of integration of tools or processes across teams, nor does it provide best practices or case studies related to 1ES. The discussion is centred around personal data management and cloud storage solutions, which are unrelated to the core themes of the One Engineering System.",
     "level": "Ignored"
   }
 }

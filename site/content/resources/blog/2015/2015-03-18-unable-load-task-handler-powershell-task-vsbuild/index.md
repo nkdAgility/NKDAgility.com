@@ -36,8 +36,7 @@ tags:
 - System Configuration
 - Azure DevOps
 - Azure Pipelines
-categories:
-- DevOps
+categories: []
 preview: puzzle-issue-problem-128-link-7-7.png
 
 ---

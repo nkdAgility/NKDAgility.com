@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T18:29:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:56:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile training and consulting, which are not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile training and consulting, which are methodologies that do not align with the core principles of DevOps. While there is a mention of organisational improvement, it lacks direct references to DevOps concepts such as collaboration, automation, or shared accountability. The discussion is centred around Agile practices, which are distinct from the DevOps philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -88,11 +91,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T18:29:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:56:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between agile training and consulting, without a focus on evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile training and consulting, focusing on their differences and benefits without any explicit mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as empirical decision-making or current value metrics, and does not provide any depth on how data informs management decisions.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -327,15 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile training and consulting without a focus on release processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T18:29:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between agile training and consulting, which are not directly related to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -634,11 +631,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T18:30:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:56:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile training and consulting, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile training and consulting, focusing on their differences and roles in organisational improvement. It does not mention Continuous Delivery or its principles, practices, or benefits. The discussion is centred around Agile methodologies without a specific focus on delivery practices, thus failing to align with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -724,11 +724,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T18:31:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:56:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the differences between Agile training and consulting, without a clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the differences between Agile training and consulting, which are related to Agile practices but do not specifically address the Agile Product Operating Model. While it mentions Agile concepts, it lacks a direct focus on product management principles or the core themes of the APOM, such as continuous delivery or product-oriented mindsets.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1443,6 +1446,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile training and consulting, focusing on their differences and benefits. It does not mention the Shift-Left Strategy or its principles, techniques, or metrics. The discussion is centred around Agile practices without addressing the integration of testing, security, or compliance earlier in the software development lifecycle, which is essential for a Shift-Left classification.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:56:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile training and consulting, which are related to organisational improvement but does not explicitly focus on Continuous Improvement principles. While it touches on aspects of improvement and skill-building, it lacks a detailed exploration of Continuous Improvement methodologies, empirical evidence, or a culture of experimentation. The primary focus is on differentiating training from consulting rather than on the ongoing practice of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:56:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the differences between Agile training and consulting, focusing on their distinct roles in organisational improvement. While it touches on the importance of a common vocabulary and understanding, it does not explicitly address the concept of Common Goals or their significance in Agile and DevOps frameworks. The discussion lacks depth regarding how these roles contribute to shared objectives or strategic alignment, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:56:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile training and consulting, highlighting the importance of skill-building and knowledge dissemination, which aligns with the concept of competence. However, it primarily focuses on the differences between training and consulting rather than delving deeply into continuous learning or the broader implications of competence in Agile environments. The discussion lacks depth in exploring strategies for fostering a culture of competence or the impact of competence on decision-making.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:56:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile training and consulting, which are not directly related to the One Engineering System framework. While it touches on organisational improvement, it does not address the principles, integration, or implementation of 1ES, nor does it provide any relevant case studies or comparisons. The focus is on Agile methodologies rather than the standardisation and integration of engineering processes.",
     "level": "Ignored"
   }
 }

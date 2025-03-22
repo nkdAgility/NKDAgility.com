@@ -247,11 +247,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T11:57:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of frequent deployments and data-driven decision-making, which aligns with some principles of Evidence-Based Management. However, the primary focus is on technical debt and deployment practices rather than a comprehensive exploration of EBM principles.",
+    "calculated_at": "2025-03-21T16:48:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the benefits of frequent deployments and how they can lead to better code quality and user feedback, which aligns with the principles of Evidence-Based Management. It mentions the importance of data-driven decision-making and iterative development, which are key aspects of EBM. However, the primary focus is on deployment practices rather than a comprehensive exploration of EBM concepts, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Organisational Change": {
@@ -295,14 +298,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-13T15:19:15",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15,
+    "calculated_at": "2025-03-21T16:48:19",
+    "ai_confidence": 87.0,
+    "ai_mentions": 16,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content discusses the importance of frequent deployments, which aligns closely with Continuous Delivery principles. It highlights the benefits of smaller, manageable changes, the need for regular feedback, and the reduction of technical debt, all of which are core themes in Continuous Delivery. The depth of discussion is substantial, providing practical steps for improvement and emphasising the iterative nature of development. However, while it strongly aligns with Continuous Delivery, it does not explicitly mention the term 'Continuous Delivery' or delve into specific methodologies or practices outlined by experts in the field, which slightly lowers the confidence score.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the benefits of frequent deployments, which is a core aspect of Continuous Delivery. It highlights the importance of smaller, manageable changes, rapid user feedback, and the reduction of technical debt, all of which align closely with Continuous Delivery principles. The depth of discussion is substantial, providing practical steps for improvement and emphasising the cultural shift towards iterative development. Overall, the content is highly relevant to Continuous Delivery, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Working Agreements": {
@@ -1502,15 +1505,6 @@
     "reasoning": "Content primarily discusses the benefits of frequent deployments and technical debt management, without a clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T11:57:46",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the benefits of frequent deployments and their impact on code quality, which aligns with the principles of improving efficiency and software delivery. However, it does not explicitly focus on the One Engineering System framework or its integration across teams.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:37:33",
@@ -1584,6 +1578,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the benefits of frequent deployments and how they can improve code quality and user feedback, which aligns with the Shift-Left Strategy's emphasis on early integration of processes. However, it primarily focuses on deployment frequency rather than explicitly addressing testing, security, or compliance integration early in the development lifecycle. The discussion lacks depth in terms of specific Shift-Left techniques or tools, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:48:06",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the benefits of frequent deployments, which directly ties into the principles of Continuous Improvement. It highlights the importance of iterative development, user feedback, and reducing technical debt, all of which are core themes of Continuous Improvement. The depth of discussion is significant, providing practical steps and insights into how frequent deployments can enhance code quality and team effectiveness. Overall, the content aligns well with the category, demonstrating a strong commitment to ongoing improvement and adaptation.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:48:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the benefits of frequent deployments and their impact on code quality, user feedback, and team confidence. However, it does not explicitly mention Common Goals or their significance within Agile and DevOps frameworks. While it touches on concepts like iterative development and accountability, these are not directly tied to the overarching theme of aligning strategy with execution or shared objectives. The focus is more on deployment practices rather than the alignment of team efforts with strategic goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:48:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of frequent deployments and their impact on code quality, user feedback, and team confidence, which aligns with the principles of competence in Agile and DevOps. It highlights continuous learning through iterative development and the necessity of maintaining quality, thus demonstrating a strong connection to the core themes of competence. However, while it touches on these aspects, it does not delve deeply into strategies for fostering a culture of competence or methods for inspecting and adapting competence over time, which slightly limits its depth of discussion.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:48:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses the benefits of frequent deployments and their impact on code quality, which aligns with some principles of the One Engineering System, such as improving efficiency and collaboration. However, it does not explicitly mention 1ES or its components, nor does it delve into integration of tools or processes across teams, which are key aspects of the category. The focus is more on deployment practices rather than a unified engineering framework.",
     "level": "Ignored"
   }
 }

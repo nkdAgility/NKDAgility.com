@@ -31,11 +31,11 @@ tags:
 - Organisational Agility
 - Pragmatic Thinking
 - Software Development
+- Continuous Improvement
 - Agile Project Management
 - Business Agility
 - Agile Transformation
 - Continuous Learning
-- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

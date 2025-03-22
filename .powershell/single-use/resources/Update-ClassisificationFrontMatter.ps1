@@ -11,10 +11,11 @@ $levelSwitch.MinimumLevel = 'Debug'
 
 # Get list of directories and select the first 10
 $classes = @();
-$classes = Get-ChildItem -Path ".\site\content\tags\" -Recurse -Filter "_index.md" | Sort-Object { $_ } -Descending | Select-Object -First 300 
+$classes += Get-ChildItem -Path ".\site\content\concepts\" -Recurse -Filter "_index.md" | Sort-Object { $_ } -Descending | Select-Object -First 300 
+$classes += Get-ChildItem -Path ".\site\content\tags\" -Recurse -Filter "_index.md" | Sort-Object { $_ } -Descending | Select-Object -First 300 
 $classes += Get-ChildItem -Path ".\site\content\categories\" -Recurse -Filter "_index.md" | Sort-Object { $_ } -Descending | Select-Object -First 300 
-#$classes += Get-ChildItem -Path ".\site\content\concepts\" -Recurse -Filter "_index.md" | Sort-Object { $_ } -Descending | Select-Object -First 300 
 
+$ResourceCatalogue = @{};
 
 # Total count for progress tracking
 $TotalFiles = $classes.Count
@@ -224,7 +225,15 @@ When generating the description, consider the following contexts and include rel
             # Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'BodyContentGenDate' -fieldValue $updateDate -Overwrite
         }
 
-        if ($hugoMarkdown.BodyContent ) {
+        if ($hugoMarkdown.BodyContent) {
+            $priority = 0.7
+        }
+        else {
+            $priority = 0.5
+        }                 
+        $hugoMarkdown.FrontMatter["sitemap"] = [ordered]@{ filename = "sitemap.xml"; priority = $priority }  # Update sitemap filename
+
+        if ($hugoMarkdown.BodyContent -and $hugoMarkdown.FolderPath -notlike "*concepts*") {
             $typesClassification = Get-ClassificationsForType -updateMissing -ClassificationType "concepts" -hugoMarkdown $hugoMarkdown
             $typesClassificationOrdered = Get-ClassificationOrderedList -minScore 70 -byLevel -classifications $typesClassification | Select-Object -First 1
             $types = $typesClassificationOrdered | ForEach-Object { $_.category }
@@ -234,6 +243,17 @@ When generating the description, consider the following contexts and include rel
        
         # =================COMPLETE===================
         Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile 
+
+        if ($hugoMarkdown.BodyContent) {
+            #=================ResourceCatalogue=================
+            # Aggregate yearly content per ResourceType
+            $classificationType = Split-Path -Path (Split-Path -Path (Split-Path -Path $hugoMarkdown.FilePath -Parent) -Parent) -Leaf
+            if (-not $ResourceCatalogue.Contains($classificationType)) {
+                $ResourceCatalogue[$classificationType] = @()
+            }
+            $ResourceCatalogue[$classificationType] += $hugoMarkdown
+        }
+
     }
     else {
         Write-InfoLog "Skipping folder: $markdownFile (missing index.md)"
@@ -242,3 +262,40 @@ When generating the description, consider the following contexts and include rel
 Write-Progress -id 1 -Completed
 Write-InfoLog "All markdown files processed."
 Write-InfoLog "--------------------------------------------------------"
+
+# Iterate over each ResourceType in the catalogue
+foreach ($ResourceType in $ResourceCatalogue.Keys) {
+    
+    $directoryPath = [System.IO.Path]::Combine(".\.resources", $ResourceType)
+    # Ensure the directory exists
+    if (-not (Test-Path -Path $directoryPath -PathType Container)) {
+        New-Item -Path $directoryPath -ItemType Directory -Force | Out-Null
+    }
+
+    foreach ($hugoMarkdown in $ResourceCatalogue[$ResourceType]) {
+        $slug = $hugoMarkdown.FrontMatter.slug
+
+        # Ensure slug is formatted properly
+        if (-not $slug) {
+            $slug = $hugoMarkdown.FrontMatter.title -replace '[:\/\\*?"<>| #%.!,]', '-' -replace '\s+', '-'
+        }
+
+        # Save individual post file
+        $SaveLocation = [System.IO.Path]::Combine($directoryPath)
+        if (-not (Test-Path -Path $SaveLocation -PathType Container)) {
+            New-Item -Path $SaveLocation -ItemType Directory -Force | Out-Null
+        }
+        $SavedFile = [System.IO.Path]::Combine($SaveLocation, "$ResourceType.$slug.$origin.md")
+        Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $SavedFile
+    }
+
+    # Save aggregated  content
+    $FilePath = [System.IO.Path]::Combine($directoryPath, "$ResourceType.yaml")
+    $count = $ResourceCatalogue[$ResourceType].Count
+    $Content = $ResourceCatalogue[$ResourceType] | ConvertTo-Yaml
+    $tokens = Get-TokenCount -Content $Content
+    Set-Content -Path $FilePath -Value $Content -Encoding UTF8
+    Write-InfoLog "$ResourceType : {files}/{tokens} : {yearlyFilePath}" -PropertyValues $count, $tokens, $FilePath
+  
+}
+

@@ -994,11 +994,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-13T22:38:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:51:48",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum roles, responsibilities, and the implications of backlog item rejection, which are not central to Continuous Delivery principles.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses Scrum practices and the role of the Product Owner in managing backlog items, which is not directly related to Continuous Delivery. While it touches on aspects of delivery and feedback, it lacks a focused discussion on Continuous Delivery principles, automation, or specific strategies for incremental improvements. The mention of flexibility and feature toggles hints at delivery practices but does not delve into Continuous Delivery as a primary theme.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1129,11 +1132,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T22:34:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:51:51",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum roles, events, and the implications of rejecting backlog items, without a clear focus on Evidence-Based Management principles or empirical data-driven decision-making.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses Scrum roles and the implications of rejecting backlog items, which does not directly address Evidence-Based Management principles. While it touches on aspects of empirical process control and the importance of transparency and feedback, it lacks a strong focus on data-informed decision-making or the specific metrics outlined in the EBM category. The discussion is more about Scrum practices than evidence-based management strategies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -1217,15 +1223,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on the dynamics of the Scrum process rather than installation or configuration of tools or software.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T22:34:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on the Sprint Review process rather than the principles or implementation of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-03-15T02:59:24",
@@ -1282,11 +1279,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-13T22:34:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:51:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum roles, events, and the dynamics of the Sprint Review process, which are not central to DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum practices and the role of the Product Owner in managing backlog items, which is more aligned with Agile methodologies than DevOps principles. While there are mentions of collaboration and accountability, the focus is not on the integration of people, processes, and technology for continuous value delivery, which is central to DevOps. The discussion lacks depth in terms of DevOps-specific practices such as automation, feedback loops, or cultural shifts necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -1348,15 +1348,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-10T14:34:06",
-    "ai_confidence": 82.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
+    "calculated_at": "2025-03-21T20:51:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the role of the Product Owner and the Development Team within the context of Scrum, focusing on the importance of collaboration, transparency, and value delivery in product development. It aligns well with the Agile Product Operating Model by addressing key principles such as continuous feedback, the significance of the Sprint Review, and the need for cross-functional teamwork. The depth of discussion is substantial, providing insights into the implications of rejecting backlog items and the importance of adapting the Product Backlog based on stakeholder feedback. Overall, the content is highly relevant to the Agile Product Operating Model, though it leans heavily on Scrum practices.",
-    "level": "Secondary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum practices and the role of the Product Owner in managing backlog items, which are relevant to agile methodologies. However, it lacks a direct focus on the broader Agile Product Operating Model principles, such as transitioning to a product ethos or integrating product management practices. While it touches on collaboration and transparency, it does not delve deeply into the operational stability, governance, or data-driven measures that are central to the APOM framework.",
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1539,6 +1539,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the Scrum framework and the dynamics between the Product Owner and the Development Team, focusing on the concept of backlog item rejection. While it touches on aspects of quality and feedback, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth in relation to integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:51:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of feedback and learning opportunities within the Scrum framework, which aligns with Continuous Improvement principles. However, it primarily focuses on the Scrum process and the specific issue of backlog item rejection rather than a broader discussion on Continuous Improvement strategies or methodologies. While it touches on aspects of transparency and adaptation, it lacks a comprehensive exploration of Continuous Improvement as a primary focus.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:51:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of the Sprint Goal and how it aligns the Development Team's efforts, which relates to Common Goals. However, the primary focus is on the fallacy of rejecting backlog items rather than a comprehensive exploration of Common Goals. While it touches on accountability and collaboration, it lacks depth in discussing how these elements connect to overarching strategic objectives or frameworks like OKRs.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:51:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of the Development Team's accountability for quality and the learning opportunities that arise from the Sprint Review process. However, while it touches on aspects of competence, such as the need for effective communication and understanding between team members, it primarily focuses on the Scrum process and the implications of rejecting backlog items rather than a comprehensive exploration of competence as a foundational principle in Agile methodologies.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:51:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Scrum practices and the role of the Product Owner in managing backlog items, which is not directly related to the One Engineering System framework. While it touches on collaboration and transparency, it does not delve into the principles, components, or implementation of 1ES. The focus remains on Scrum methodology rather than the integration and standardisation of engineering processes across teams.",
     "level": "Ignored"
   }
 }

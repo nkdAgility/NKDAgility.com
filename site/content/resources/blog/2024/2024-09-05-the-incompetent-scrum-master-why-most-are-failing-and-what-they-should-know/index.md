@@ -31,6 +31,7 @@ aliasesArchive:
 - /blog/why-most-scrum-masters-are-failing-and-what-they-should-know
 - /resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 tags:
+- Competence
 - Agile Project Management
 - Agile Frameworks
 - Scrum Master
@@ -40,7 +41,6 @@ tags:
 - Pragmatic Thinking
 - Scrum Product Development
 - Scrum Team
-- Agile Transformation
 categories:
 - Scrum
 - Engineering Excellence

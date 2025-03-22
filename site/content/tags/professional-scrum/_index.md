@@ -23,6 +23,9 @@ headline:
   subtitle: Explore essential principles, roles, and practices for professionals navigating collaborative frameworks and iterative processes.
   content: In-depth exploration of iterative frameworks, emphasising roles, responsibilities, and collaborative practices. Posts delve into team dynamics, stakeholder engagement, and continuous improvement, while integrating insights from complexity theory and evidence-based management to enhance decision-making and adaptability in dynamic environments.
   updated: 2025-02-13T12:03:11Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

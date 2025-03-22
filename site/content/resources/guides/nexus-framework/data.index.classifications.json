@@ -673,11 +673,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T13:45:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:14:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the Nexus framework for scaling Scrum, focusing on roles, events, and artifacts within Scrum teams, rather than Continuous Delivery principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the Nexus framework for scaling Scrum, which is more about team collaboration and integration rather than Continuous Delivery practices. While it touches on aspects of product delivery and integration, it lacks a direct discussion on Continuous Delivery principles, automation, or rapid feedback mechanisms that are central to the category. The depth of discussion is significant regarding Scrum and Nexus, but it does not sufficiently address the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -853,11 +856,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T13:46:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:14:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the Nexus framework for scaling Scrum, discussing roles, events, and artifacts without a clear emphasis on evidence-based management principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the Nexus framework for scaling Scrum, which is more about the operational aspects of Scrum rather than directly discussing Evidence-Based Management principles. While it touches on empirical processes and the importance of transparency, it lacks a strong emphasis on data-informed decision-making and the specific metrics outlined in the Evidence-Based Management category. The discussion is more about frameworks and methodologies than about using empirical evidence to drive management decisions.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1487,15 +1493,6 @@
     "reasoning": "Content primarily discusses the Nexus framework for scaling Scrum, focusing on roles, events, and artifacts rather than the principles of decentralised, adaptive, and human-centric organisational design associated with Beta Codex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:09:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the Nexus framework for scaling Scrum, which is not aligned with the principles of the One Engineering System (1ES).",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:44:24",
@@ -1569,6 +1566,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the Nexus framework for scaling Scrum, discussing roles, events, and artifacts without explicitly addressing the Shift-Left Strategy. While it touches on collaboration and integration, it does not delve into early integration of testing, security, or compliance, which are core to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:14:16",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the Nexus framework, which is primarily focused on scaling Scrum and improving collaboration among teams. While it touches on aspects of Continuous Improvement, such as the importance of transparency and the need for ongoing adaptation, it does not delve deeply into the principles of Continuous Improvement as a standalone concept. The mention of improving processes and addressing dependencies aligns with Continuous Improvement, but the overall focus is more on the framework itself rather than a dedicated exploration of Continuous Improvement practices.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:14:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the Nexus framework, which is focused on scaling Scrum and enhancing collaboration among multiple teams. While it mentions the concept of a 'Nexus Sprint Goal' and the importance of aligning team efforts towards a common product goal, the primary focus is on the mechanics of the Nexus framework rather than a deep exploration of Common Goals as defined in Agile and DevOps. The discussion of goals is present but not the central theme, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:14:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Nexus framework for scaling Scrum, discussing roles, events, and artifacts rather than directly addressing the concept of competence. While it touches on aspects of team accountability and integration, it lacks a strong emphasis on continuous learning, skill development, or fostering a culture of competence, which are central to the category. The discussion is more about structural processes than the development of individual or team capabilities.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:14:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Nexus framework for scaling Scrum, which is a specific methodology rather than a discussion on the One Engineering System (1ES). While there are some elements of integration and collaboration mentioned, they are not explicitly tied to the principles or components of 1ES. The content lacks a detailed exploration of how Nexus aligns with the broader goals of standardising and integrating software development practices across teams, which is central to 1ES.",
     "level": "Ignored"
   }
 }

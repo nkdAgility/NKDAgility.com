@@ -634,11 +634,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T22:14:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:03:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and the limitations of burndown charts, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile methodologies and critiques the use of burndown charts, which are not directly related to Continuous Delivery. While it touches on themes of adaptability and empirical management, it lacks a focused discussion on Continuous Delivery principles, practices, or tools. The mention of Agile practices and the emphasis on flexibility do not sufficiently align with the core themes of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -811,12 +814,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-11T22:14:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily critiques the use of burndown charts in Agile, focusing on subjective opinions rather than empirical evidence or data-driven management practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T18:03:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the limitations of burndown charts and promotes empirical decision-making, which aligns with Evidence-Based Management principles. However, it primarily focuses on Agile practices rather than explicitly addressing EBM metrics or frameworks, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1255,11 +1261,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T22:12:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:02:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and the limitations of burndown charts, without a clear focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile methodologies and critiques the use of burndown charts, which are not directly related to DevOps principles. While it touches on concepts like adaptability and flow, it does not delve into the core themes of DevOps such as collaboration, automation, or shared accountability. The focus remains on Agile practices rather than the integration of development and operations.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1432,15 +1441,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T20:19:29",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T18:03:04",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses Agile principles and critiques traditional project management tools like burndown charts, which aligns with the Agile Product Operating Model's emphasis on adaptability and value delivery. However, it primarily focuses on the limitations of specific tools rather than a comprehensive exploration of the Agile Product Operating Model itself, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily critiques the use of burndown charts within Agile methodologies, focusing on traditional project management practices rather than the Agile Product Operating Model. While it touches on Agile principles like adaptability and empirical management, it does not delve into the core themes of the APOM, such as product-oriented mindsets or integration with product management practices.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1461,15 +1470,6 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses Agile methodologies and critiques the use of burndown charts, which indirectly relates to social technologies by emphasising adaptability and empirical management. However, it lacks a direct focus on collaboration, decision-making, or value delivery frameworks, which are central to the category of Social Technologies. The discussion is more about the flaws of a specific tool rather than a broader exploration of social technologies in organisational contexts.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:37:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Agile methodologies and the limitations of burndown charts, without focusing on the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1512,6 +1512,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily critiques the use of burndown charts in Agile methodologies, focusing on the need for flexibility and adaptability rather than addressing the integration of testing, security, or compliance earlier in the development process. It does not discuss the Shift-Left Strategy or its principles, benefits, or techniques, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:02:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the limitations of burndown charts and advocates for a more empirical approach to Agile, which aligns with the principles of Continuous Improvement. It emphasises adaptability, learning through doing, and the importance of flow over fixed plans. However, while it touches on Continuous Improvement concepts, it primarily critiques a specific tool rather than providing a comprehensive discussion on Continuous Improvement as a whole.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:02:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily critiques burndown charts and discusses Agile principles, but it does not explicitly address Common Goals or their significance in aligning strategy with execution. While it touches on adaptability and the importance of flow in Agile, it lacks a focused discussion on shared objectives or frameworks like OKRs that operationalise Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:02:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the limitations of burndown charts and promotes adaptability and empirical management in Agile, which indirectly relates to competence. However, it does not explicitly focus on continuous learning or skill development, making competence a secondary theme rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:02:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Agile methodologies and critiques the use of burndown charts, which are not directly related to the One Engineering System framework. While it touches on themes of adaptability and empirical management, it does not address the principles, components, or implementation of 1ES, nor does it provide insights into integration across teams or best practices for standardisation.",
     "level": "Ignored"
   }
 }

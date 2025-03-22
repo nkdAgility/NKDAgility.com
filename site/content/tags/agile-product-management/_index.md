@@ -24,6 +24,9 @@ headline:
   subtitle: Optimise product outcomes by aligning strategy with user needs and fostering a culture of continuous improvement and delivery.
   content: Maximise product value by integrating user insights with strategic objectives, fostering a culture of iterative improvement and responsiveness. Posts should explore practices for prioritising features, enhancing team collaboration, and utilising metrics to inform decision-making, while addressing complexity and uncertainty in product development.
   updated: 2025-02-13T12:00:04Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

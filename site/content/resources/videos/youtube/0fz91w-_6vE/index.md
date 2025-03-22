@@ -30,6 +30,7 @@ tags:
 - Value Delivery
 - Software Development
 - Product Delivery
+- Continuous Improvement
 - Operational Practices
 sitemap:
   filename: sitemap.xml

@@ -24,6 +24,9 @@ headline:
   subtitle: Enhancing software quality through automated testing to inform design decisions and foster continuous improvement.
   content: Automated testing shapes software design by ensuring code quality and facilitating iterative improvements. Posts should explore the integration of tests in the development process, the impact on design decisions, and the role of feedback loops in enhancing product reliability and responsiveness to change.
   updated: 2025-02-13T12:01:41Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

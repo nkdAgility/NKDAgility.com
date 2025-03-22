@@ -30,6 +30,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Competence
 - Discovery and Learning
 - People and Process
 - Agile Philosophy
@@ -39,7 +40,6 @@ tags:
 - Agile Planning
 - Personal
 - Business Agility
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

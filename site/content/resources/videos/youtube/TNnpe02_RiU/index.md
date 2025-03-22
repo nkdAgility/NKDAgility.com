@@ -35,7 +35,8 @@ tags:
 - Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
 
 ---
 **What is Your Peeve in DevOps**

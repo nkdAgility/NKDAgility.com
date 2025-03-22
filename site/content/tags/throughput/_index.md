@@ -24,6 +24,9 @@ headline:
   subtitle: Optimising Work Completion Rates for Enhanced Efficiency and Flow in Project Management
   content: A measure of work item completion rates within specified timeframes, this classification examines flow efficiency, cycle time, and bottleneck identification. It encompasses practices for optimising throughput, enhancing team performance, and improving delivery predictability, drawing insights from various methodologies and frameworks to foster continuous improvement.
   updated: 2025-02-13T12:01:30Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

@@ -649,11 +649,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T18:13:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:52:54",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Story Points and agile metrics, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses Story Points and their role in agile teams, which is more aligned with agile methodologies than Continuous Delivery. While it touches on value delivery and metrics, it lacks a direct focus on Continuous Delivery principles, practices, or automation in testing and deployment. The discussion is more about performance metrics rather than the continuous delivery process itself.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1279,11 +1282,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T18:11:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:52:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Story Points and Agile methodologies, particularly Scrum, without a clear focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the use of Story Points in agile teams, which is more aligned with agile methodologies than DevOps principles. While it touches on value delivery and metrics, it lacks a direct discussion on DevOps practices, such as collaboration, automation, or shared accountability. The depth of discussion is limited to agile metrics without exploring the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1450,14 +1456,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T22:06:14",
+    "calculated_at": "2025-03-21T18:52:57",
     "ai_confidence": 78.0,
-    "ai_mentions": 60.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 75.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
     "final_score": 71.0,
-    "reasoning": "The content discusses the importance of objective metrics like throughput and value, which aligns well with the principles of Evidence-Based Management. It highlights the limitations of subjective measures like Story Points and advocates for data-driven decision-making, which is central to EBM. The depth of discussion on metrics and their role in enhancing team performance further supports a strong alignment with EBM principles.",
+    "reasoning": "The content discusses metrics related to performance and value delivery, which aligns with Evidence-Based Management principles. It mentions key topics such as throughput and value, and touches on Current Value and Unrealised Value. However, the primary focus is on Story Points and their subjective nature, which detracts from a deeper exploration of EBM concepts. The discussion is relevant but not exhaustive, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -1469,22 +1475,16 @@
     "reasoning": "Content heavily discusses Story Points and Agile methodologies, with no clear focus on Platform Engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:48:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the use of Story Points in agile frameworks, particularly Scrum, without a clear focus on the One Engineering System or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T18:52:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of value delivery and metrics in Agile frameworks, particularly in relation to Story Points, but it primarily focuses on the subjective nature of Story Points rather than a comprehensive exploration of the Agile Product Operating Model.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses agile methodologies, specifically focusing on Story Points and metrics for performance and value delivery. While it touches on agile principles and the importance of value delivery, it does not explicitly address the Agile Product Operating Model or its core themes in depth. The discussion is more centred on metrics and team performance rather than the broader framework of APOM.",
     "level": "Tertiary"
   },
   "Beta Codex": {
@@ -1557,6 +1557,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Story Points and their role in Agile frameworks, particularly Scrum, without addressing the Shift-Left Strategy. While it touches on metrics and team performance, it does not integrate testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:52:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the use of Story Points and metrics like throughput and value delivery, which are relevant to Continuous Improvement. However, it primarily focuses on the subjective nature of Story Points and their limitations rather than a comprehensive exploration of Continuous Improvement principles. While it touches on metrics and team performance, it lacks a deeper discussion on fostering a culture of experimentation or integrating Continuous Improvement into organisational processes.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:52:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Story Points and their role in agile teams, but it primarily focuses on metrics for performance and value delivery rather than explicitly addressing Common Goals. While there are mentions of value delivery and team performance, the discussion lacks a direct connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:52:46",
+    "ai_confidence": 55.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 50.0,
+    "reasoning": "The content discusses the use of Story Points in agile teams, touching on the importance of understanding and refining backlog items, which relates to competence in terms of skill development and effective team performance. However, the primary focus is on metrics and value delivery rather than a deep exploration of competence itself. While there are mentions of team performance and discussions that foster understanding, the content does not extensively cover continuous learning or strategies for fostering a culture of competence.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:52:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the use of Story Points in agile teams, focusing on their subjective nature and the importance of objective metrics like throughput and value delivery. While it touches on performance metrics relevant to software development, it does not explicitly mention the One Engineering System or its principles, components, or implementation strategies. The discussion is more aligned with agile methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

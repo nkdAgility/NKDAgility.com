@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T18:08:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:52:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of Scrum Masters and the importance of visual engagement, which is not related to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of visual engagement in team interactions, which is more aligned with Agile methodologies than DevOps principles. While it touches on collaboration, it does not delve into the core themes of DevOps such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -85,11 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T18:08:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of camera quality for Scrum Masters in engaging with their teams, which does not align with the principles of Evidence-Based Management.",
+    "calculated_at": "2025-03-21T18:52:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the use of cameras for enhancing team engagement in a Scrum context, without discussing any evidence-based management principles or metrics. While it touches on aspects of team dynamics and communication, it does not align with the core themes of Evidence-Based Management, such as data-informed decision-making or empirical metrics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -327,15 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the importance of camera quality for Scrum Masters in team engagement, with no focus on release management practices or processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T18:08:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the importance of camera quality for Scrum Masters, which is unrelated to the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -637,11 +634,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T18:09:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:52:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of Scrum Masters and the importance of camera quality in team engagement, which is unrelated to Continuous Delivery principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of visual engagement in team interactions, which does not align with the principles or practices of Continuous Delivery. There are no direct mentions of Continuous Delivery, and the discussion lacks depth on relevant topics such as automation, incremental improvements, or software quality.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -733,11 +733,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T18:10:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:52:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the importance of camera quality for Scrum Masters in engaging with their teams, which is not central to the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of visual engagement tools, such as cameras, in facilitating team interactions. While it touches on aspects of agile practices, it does not discuss the Agile Product Operating Model or its core principles, making it largely irrelevant to the specified category.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1452,6 +1455,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master and the importance of visual engagement in remote settings, with no direct mention or alignment to the Shift-Left Strategy. It focuses on tools for enhancing team interactions rather than integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:52:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of visual engagement and tools for Scrum Masters, but it does not explicitly address Continuous Improvement principles. While it touches on enhancing team interactions, it lacks a focus on empirical evidence, data-driven decision-making, or systematic strategies for improvement, which are core to the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:52:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the use of cameras to enhance engagement in Scrum meetings, which does not directly address the concept of Common Goals. While it touches on team dynamics and communication, it lacks explicit discussions on shared objectives, alignment, or strategic goals within Agile or DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:52:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of visual engagement and tools for Scrum Masters, but it primarily focuses on the use of cameras rather than on competence in terms of skill development or professionalism. While there are elements that touch on effective communication and team dynamics, these do not directly address the core themes of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:52:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of visual engagement tools, such as cameras, in team interactions. It does not discuss the One Engineering System framework, its principles, or its implementation. The discussion is centred around personal experiences and recommendations for enhancing virtual meetings, which deviates from the core themes of 1ES.",
     "level": "Ignored"
   }
 }

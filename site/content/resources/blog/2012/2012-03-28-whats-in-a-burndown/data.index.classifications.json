@@ -34,14 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T06:00:22",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-22T08:23:26",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the concept of burndown charts in Scrum, which relates to measuring progress and performance. However, it primarily focuses on practical applications and subjective opinions rather than empirical evidence or structured decision-making processes. While it touches on the importance of metrics, it lacks a comprehensive exploration of Evidence-Based Management principles and does not provide case studies or a strong emphasis on data-driven decision-making.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses burndown charts within the context of Agile and Scrum methodologies, focusing on their use for visualising progress and team communication. While it touches on the importance of measuring work and identifying issues, it does not explicitly engage with the core themes of Evidence-Based Management, such as empirical decision-making or managing for meaningful outcomes. The discussion lacks a strong emphasis on data-informed decision-making and does not provide a comprehensive analysis of metrics that align with EBM principles.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -136,11 +136,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:47:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:23:12",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum practices and burndown charts, which are not central to DevOps principles.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on Agile methodologies, specifically burndown charts and Scrum practices, which are not central to the DevOps philosophy. While there are brief mentions of team collaboration and communication, the discussion lacks depth in DevOps principles such as automation, shared accountability, and continuous improvement. Overall, the content does not align closely with the core themes of DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -341,7 +344,7 @@
     "reasoning": "Content primarily discusses Scrum roles, burndown charts, and project management techniques without a focus on Systems Thinking principles or holistic analysis.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:48:05",
     "ai_confidence": 0,
@@ -352,12 +355,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T08:23:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices, specifically burndown charts, which are tools used within Agile methodologies. While it touches on aspects of Agile product development, the primary focus is on Scrum roles and events rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses burndown charts and their role in Scrum, which is a specific agile practice rather than a comprehensive exploration of the Agile Product Operating Model. While it touches on aspects of agile methodologies and team dynamics, it lacks a direct focus on product management principles, operational stability, or the broader themes of the Agile Product Operating Model. The discussion is more about tools and practices within Scrum rather than the integration of agile with product management.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -424,11 +430,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:31:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:23:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily focuses on Scrum methodology and the use of burndown charts, which are not central to Continuous Delivery principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses burndown charts within the context of Agile and Scrum, focusing on team communication and sprint progress rather than Continuous Delivery principles. While it touches on aspects of delivery and team dynamics, it lacks a direct focus on Continuous Delivery practices, automation, or the broader implications of delivering software in reliable cycles.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1533,6 +1542,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the concept of burndown charts within the context of Scrum, focusing on sprint planning and team dynamics. While it touches on identifying issues early, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth regarding testing, security, or compliance integration, which are core to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:23:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the use of burndown charts in Agile, which indirectly relates to Continuous Improvement by highlighting the importance of measuring progress and identifying issues. However, it primarily focuses on the mechanics of burndown charts rather than a broader discussion on Continuous Improvement principles. While there are mentions of actions to take based on burndown trends, the overall emphasis is more on Agile practices than on a culture of continuous improvement.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:23:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses burndown charts and their role in visualising progress during sprints, which is a tactical aspect of Agile. While it touches on the importance of team communication and identifying issues, it does not explicitly address the concept of Common Goals or how they align with strategic objectives. The discussion lacks depth in connecting these tactical elements to overarching organisational goals, resulting in a low confidence score for the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:23:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses burndown charts and their role in Agile, which indirectly relates to competence through the lens of team effectiveness and communication. However, it lacks a direct focus on continuous learning or skill development, which are core themes of the competence category. The discussion is more about tools and processes rather than the development of skills and capabilities.",
     "level": "Ignored"
   }
 }

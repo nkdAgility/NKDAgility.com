@@ -32,6 +32,7 @@ tags:
 - Discovery and Learning
 - Software Developers
 - People and Process
+- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

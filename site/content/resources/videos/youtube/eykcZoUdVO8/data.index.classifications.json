@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T19:43:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:08:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and influential figures in the Agile community, with no clear focus on DevOps practices or principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile and its influential figures, with no direct mention of DevOps principles or practices. While there may be some conceptual overlap between Agile and DevOps, the discussion does not align with the core themes of DevOps, such as automation, shared accountability, or continuous improvement. The depth of discussion is also minimal, as it centres on personal insights rather than DevOps-related content.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -88,11 +91,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T19:43:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:09:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on an individual influencer in Agile rather than discussing Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, particularly Simon Randell, and discusses personal insights and communication styles rather than evidence-based management practices. There are no direct mentions of EBM concepts or metrics, and the discussion lacks depth in relation to data-informed decision-making or empirical evidence.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -327,15 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile influencers and their impact, without a focus on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T19:44:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses influential figures in Agile, focusing on personal experiences and communication styles rather than the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -640,11 +637,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T19:45:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:09:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile influencers and their impact, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, with no direct mention of Continuous Delivery principles or practices. While Agile methodologies may relate to software delivery, the discussion lacks specific references to Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback. The content is more about personal insights and experiences in Agile rather than exploring Continuous Delivery as a disciplined practice.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -733,11 +733,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T19:45:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:09:13",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on influential figures in Agile rather than the Agile Product Operating Model itself.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, particularly Simon Randell, and discusses his facilitation and communication skills. While it mentions Agile, it does not delve into the Agile Product Operating Model or its principles, making it more of a secondary mention rather than a primary focus. The discussion lacks depth regarding the core themes of the Agile Product Operating Model, such as product management practices or operational governance.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1470,6 +1473,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on influential figures in Agile, specifically Simon Randell, and discusses his facilitation and communication skills. There is no direct mention of the Shift-Left Strategy or its principles, benefits, or techniques. The discussion does not align with the core themes of integrating testing, security, or compliance early in the development process, nor does it provide any depth on these topics. Overall, the content is unrelated to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:09:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, particularly Simon Randell, and their impact on Agile practices. While it touches on themes of learning and emulation, it lacks a direct discussion on Continuous Improvement principles, empirical evidence, or specific strategies for fostering a culture of experimentation. The content does not provide substantial depth or detail on Continuous Improvement as a primary focus.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:09:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal insights and anecdotes about influential figures in Agile, particularly Simon Randell. While it touches on Agile principles, it lacks a direct discussion of Common Goals, their significance, or how they align with team objectives. The emphasis is on individual influence rather than collective goals, resulting in a low confidence score for the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:09:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, particularly Simon Randell, and discusses his facilitation and communication skills. While it touches on aspects of competence, such as learning and emulating effective practices, it does not delve deeply into the core themes of continuous development or the broader implications of competence in Agile methodologies. The discussion is more about admiration and personal insights rather than a structured exploration of competence as a foundational principle.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:09:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal insights about influential figures in Agile, particularly Simon Randell, rather than discussing the One Engineering System framework or its principles. While Agile is mentioned, it does not align with the core themes of 1ES, such as integration of tools and processes or best practices for implementation. The discussion lacks depth regarding 1ES, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

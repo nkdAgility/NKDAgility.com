@@ -664,11 +664,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T01:12:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:01:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile methodologies and the competence crisis within Agile roles, particularly focusing on Scrum Masters, rather than Continuous Delivery principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile principles and the importance of continuous learning, which are relevant to Continuous Delivery. However, it primarily focuses on the competence crisis within Agile roles and does not explicitly address Continuous Delivery practices, automation, or deployment strategies. The mention of continuous learning and validation aligns somewhat with Continuous Delivery, but the overall focus is more on Agile methodology rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -841,14 +844,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T17:23:57",
+    "calculated_at": "2025-03-21T17:01:19",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content discusses the importance of competence and continuous learning in Agile, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on the competence crisis and hiring practices rather than directly addressing EBM principles or empirical data. The discussion lacks specific metrics or case studies that would strengthen its alignment with EBM, resulting in a moderate confidence score.",
+    "reasoning": "The content discusses Agile and the competence crisis but does not explicitly mention Evidence-Based Management or its key topics. While it touches on the importance of continuous learning and competence, it lacks a strong focus on empirical evidence and data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1496,15 +1499,6 @@
     "reasoning": "Content primarily discusses the competence crisis within Agile frameworks and the challenges of hiring qualified Scrum Masters, rather than focusing on the principles and practices of BetaCodex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:04:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Agile methodologies and the competence crisis within Agile roles, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:42:10",
@@ -1581,6 +1575,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the competence crisis within Agile practices and the need for continuous learning and improvement. While it touches on themes of quality and effectiveness in Agile, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The focus is more on Agile roles and the importance of competence rather than integrating testing, security, or compliance earlier in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:01:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of continuous learning and improvement within Agile practices, highlighting the need for competence and adaptation. It mentions continuous learning and validation as essential for Agile success, aligning with the principles of Continuous Improvement. However, while these themes are present, the primary focus is on the competence crisis in Agile roles rather than a comprehensive exploration of Continuous Improvement as a standalone topic.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:01:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the competence crisis in Agile and the importance of skilled Scrum Masters, which indirectly relates to the concept of Common Goals. However, it primarily focuses on individual competence and hiring practices rather than explicitly addressing shared objectives or alignment within teams. The discussion lacks depth on how these factors connect to overarching strategic goals, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:01:10",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content extensively discusses the importance of competence in Agile, highlighting the competence crisis, the need for continuous learning, and the role of skilled Scrum Masters. It provides detailed insights into the assumptions made by Agile's founders, the supply-demand imbalance for Agile competence, and strategies for improving hiring practices. The depth of discussion is significant, with multiple examples and actionable recommendations, making competence a primary focus throughout the piece.",
+    "level": "Primary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:01:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the competence crisis within Agile roles, particularly focusing on Scrum Masters. While it touches on themes of continuous learning and team dynamics, it does not explicitly mention or align with the principles of the One Engineering System (1ES). The discussion is centred around Agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

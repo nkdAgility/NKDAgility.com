@@ -35,7 +35,7 @@ tags:
 - Software Developers
 - Pragmatic Thinking
 - Cycle Time
-- Agile Transformation
+- Continuous Improvement
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T20:34:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:17:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile methodologies and team collaboration, with no clear emphasis on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on collaboration, adaptability, and value delivery. While some principles, such as collaboration and continuous improvement, align with DevOps, the content does not explicitly address DevOps as a philosophy or its core practices. The discussion lacks depth in terms of DevOps-specific concepts like automation, shared accountability, or feedback loops, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -91,11 +94,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T20:34:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:17:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile principles and collaboration, without a clear emphasis on Evidence-Based Management practices or empirical data.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on collaboration, adaptability, and value delivery. While it touches on the importance of delivering value to customers, it lacks explicit references to Evidence-Based Management principles or metrics. The discussion is more about Agile practices than empirical decision-making or data-informed strategies, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -333,15 +339,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles without a focus on release processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T20:35:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile principles and collaboration, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -646,11 +643,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T20:36:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and collaboration, with no focus on Continuous Delivery practices or methodologies.",
+    "calculated_at": "2025-03-21T19:17:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on collaboration, adaptability, and value delivery. While these concepts are related to Continuous Delivery, the content does not explicitly mention Continuous Delivery or its principles. The discussion lacks depth in terms of Continuous Delivery practices, automation, or specific strategies for delivering software. Therefore, it aligns conceptually with some aspects of Continuous Delivery but does not meet the criteria for a primary focus.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -742,11 +742,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T20:36:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not specifically address the Agile Product Operating Model and focuses more on general Agile principles without a clear emphasis on product-centric development.",
+    "calculated_at": "2025-03-21T19:17:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses Agile principles and practices, focusing on collaboration, adaptability, and value delivery, which are relevant to the Agile Product Operating Model. However, it lacks a direct focus on product management principles and does not explicitly mention the transition from project to product ethos or other key topics outlined in the APOM definition. The discussion is more general about Agile and Scrum rather than specifically addressing the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1479,6 +1482,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile principles and practices, focusing on collaboration, flexibility, and value delivery. While it touches on themes relevant to software development, it does not explicitly mention the Shift-Left Strategy or its core components such as early testing, security, or compliance integration. The discussion lacks depth in relation to the specific practices and benefits of the Shift-Left approach, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:17:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile principles and practices, including the importance of regular retrospectives and the need for flexibility within frameworks, which aligns with Continuous Improvement. However, the primary focus is on Agile methodologies rather than Continuous Improvement itself, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:17:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile principles, particularly collaboration and value delivery, which are related to Common Goals. However, it primarily focuses on personal experiences and reflections rather than explicitly defining or deeply exploring the concept of Common Goals within Agile and DevOps frameworks. The mention of 'common goal' is present but not a primary focus, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:17:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile principles, emphasising collaboration, adaptability, and continuous learning, which align with the concept of competence. However, while it touches on the importance of learning and adapting, it does not delve deeply into specific strategies for fostering competence or inspecting and adapting skills over time. The focus is more on general Agile practices rather than a thorough exploration of competence as a foundational principle.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:17:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on collaboration, adaptability, and value delivery. While it touches on themes relevant to software development, it does not explicitly mention or align with the principles of the One Engineering System (1ES). The discussion is centred around Agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

@@ -631,11 +631,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T11:13:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and the pitfalls of copying methodologies without understanding, with no focus on Continuous Delivery practices.",
+    "calculated_at": "2025-03-21T18:44:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile practices and the pitfalls of imitation within Agile frameworks, with no direct mention of Continuous Delivery principles or practices. While it touches on themes of adaptation and innovation, which are relevant to Continuous Delivery, the focus remains on Agile methodologies rather than the specific practices of Continuous Delivery. Therefore, the confidence score reflects a very low alignment with the category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -799,11 +802,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T11:14:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:44:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of blindly following models like the Spotify model, rather than focusing on evidence-based decision-making or empirical data.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the pitfalls of imitation in Agile practices and the importance of tailoring approaches to specific team needs. While it touches on decision-making and innovation, it does not explicitly address Evidence-Based Management principles or metrics. The focus is more on Agile philosophy rather than empirical evidence or data-informed decision-making.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1228,11 +1234,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T11:11:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Agile principles and the pitfalls of adopting external models without understanding, with minimal reference to DevOps practices.",
+    "calculated_at": "2025-03-21T18:44:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile practices and the pitfalls of imitation within that framework, with no direct mention of DevOps principles or practices. While there are some themes of collaboration and adaptation that could loosely relate to DevOps, the overall discussion does not align with the core principles of DevOps, such as automation, shared accountability, or continuous improvement. Therefore, the confidence score reflects a very low alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1411,11 +1420,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:15:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of imitating others rather than focusing on product-centric development.",
+    "calculated_at": "2025-03-21T18:44:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses Agile practices and the importance of tailoring them to unique team needs, which aligns with some principles of the Agile Product Operating Model. However, it primarily focuses on the dangers of imitation and the cultural aspects of Agile rather than the core themes of the APOM, such as product management integration and operational governance. The discussion lacks depth in terms of specific APOM principles and does not directly address the transition from project to product ethos.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1434,15 +1446,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and the pitfalls of adopting external models without relevance to platform engineering.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:15:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of envy in Agile methodologies and critiques the adoption of external models like the Spotify model, without focusing on the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1485,6 +1488,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile practices and the pitfalls of imitation within Agile frameworks, without any direct reference to the Shift-Left Strategy. While it touches on themes of adaptation and innovation, it does not address integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:44:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of tailoring Agile practices to fit unique team contexts, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the dangers of imitation and the need for originality rather than explicitly addressing Continuous Improvement methodologies or frameworks. While there are mentions of adaptation and innovation, the depth of discussion on Continuous Improvement concepts is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:44:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the dangers of envy and the importance of tailoring Agile practices to fit unique team needs, which indirectly relates to the concept of Common Goals. However, it primarily focuses on the pitfalls of imitation and the need for innovation rather than explicitly addressing shared objectives or alignment within teams. The discussion lacks depth on how these ideas connect to overarching strategic goals, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:44:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of tailoring Agile practices to fit unique team contexts, which indirectly relates to competence by emphasising the need for understanding and adapting skills. However, the primary focus is on avoiding imitation and fostering originality rather than on continuous skill development or professionalism. The depth of discussion on competence is limited, as it does not explore strategies for fostering a culture of competence or the impact of competence on decision-making in detail.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:44:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile practices and the pitfalls of imitation, particularly focusing on the Spotify model. It does not mention the One Engineering System or its principles, components, or implementation strategies. The discussion is centred around personalisation in Agile rather than the integration and standardisation of engineering processes, which is the core focus of the 1ES category.",
     "level": "Ignored"
   }
 }

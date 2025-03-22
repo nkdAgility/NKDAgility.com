@@ -88,11 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T15:06:25",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Azure DevOps principles and practices related to continuous delivery but does not focus on Evidence-Based Management.",
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention Evidence-Based Management or its key topics. It lacks any discussion on data-informed decision-making or empirical evidence, focusing instead on a training resource for Azure DevOps Services without relevant details.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -319,15 +322,6 @@
     "final_score": 45.0,
     "reasoning": "While the content focuses on continuous delivery and DevOps practices, which are related to release management, it mainly emphasizes DevOps principles and teamwork without explicitly detailing specific release management strategies.",
     "level": "Tertiary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on Azure DevOps and Continuous Delivery principles without directly addressing the One Engineering System framework or its core topics.",
-    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -619,12 +613,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T15:06:23",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses a training course focused on DevOps principles and practices related to Continuous Delivery, highlighting the importance of delivering working software continuously.",
-    "level": "Secondary"
+    "final_score": 11.0,
+    "reasoning": "The content title suggests a focus on Continuous Delivery, but the description lacks any specific details or discussions related to the principles, practices, or benefits of Continuous Delivery. There are no direct mentions or substantial alignment with the core themes of the category, resulting in a very low confidence score.",
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content does not explicitly mention the Shift-Left Strategy or its principles. It lacks any discussion on integrating testing, security, or compliance early in the development process, and there are no details provided that align with the core themes of the category. The content is too vague and does not provide any depth on the topic.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T15:06:10",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 10.0,
+    "reasoning": "The content does not explicitly mention Continuous Improvement or its principles. It lacks any discussion on related topics such as empirical evidence, team effectiveness, or strategies for improvement. The title suggests a focus on Continuous Delivery, which is tangentially related but does not align with the core themes of Continuous Improvement. Overall, the content is too vague and lacks depth to warrant a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T15:06:13",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention Common Goals or discuss any related concepts. It lacks detail and does not align with the core themes of the category, focusing instead on a training resource without providing relevant information.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T15:06:18",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention competence or related concepts. It lacks any discussion on continuous learning, skill development, or the importance of competence in Agile or DevOps environments. The absence of relevant details means it does not align with the core themes of the category, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T15:06:21",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention the One Engineering System or its principles. It lacks any discussion on integration, standardisation, or best practices related to 1ES, focusing instead on a general training resource without specific details. Therefore, it does not align with the core themes of the category.",
     "level": "Ignored"
   }
 }

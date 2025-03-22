@@ -37,11 +37,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T20:52:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:02:49",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the historical context of management practices and critiques the adoption of Agile, without focusing on Continuous Delivery principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the historical context of management practices and critiques Agile methodologies without focusing on Continuous Delivery principles or practices. While it mentions the importance of feedback loops, it does not delve into Continuous Delivery's core themes such as automation, incremental improvements, or specific strategies for enhancing software quality.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1072,11 +1075,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T08:56:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:02:52",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on historical management practices and critiques of Agile implementation rather than directly discussing evidence-based management principles or practices.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses the historical context of management practices and critiques the adoption of Agile methodologies, but it does not explicitly mention Evidence-Based Management or its key topics. While it touches on the importance of feedback loops, it lacks a focus on empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -1171,11 +1177,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T08:56:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:02:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses historical management practices and their evolution, with a focus on Agile methodologies rather than DevOps principles.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses historical management practices and critiques Agile methodologies, but it does not explicitly focus on DevOps principles or practices. While it mentions the importance of feedback loops, which is a relevant aspect of DevOps, the overall discussion is more centred on Agile and management philosophies rather than the integration of people, processes, and technology that characterises DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1379,22 +1388,16 @@
     "reasoning": "The content discusses the historical context of management practices and critiques the lack of feedback loops in current agile implementations, which aligns with Systems Thinking principles. However, it does not explicitly focus on Systems Thinking as a primary topic, and the discussion lacks depth in exploring interconnectedness or holistic analysis.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T08:56:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses historical management practices and critiques current Agile implementations, without a clear focus on One Engineering System principles or practices.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T08:56:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:02:46",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses the historical context of management practices and critiques current agile adoption, but does not clearly address the Agile Product Operating Model or its key topics.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily critiques traditional management practices and highlights the gap between the adoption of agile methodologies and their actual implementation. While it touches on agile concepts, it does not focus on the Agile Product Operating Model or its principles, making it more of a secondary discussion rather than a primary focus.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -1491,6 +1494,54 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily discusses historical management practices and critiques the adoption of Agile methodologies, without any explicit mention or discussion of the Shift-Left Strategy. It does touch on the importance of feedback loops, which is a peripheral aspect of the Shift-Left concept, but does not delve into integrating testing, security, or compliance earlier in the development process. Therefore, it lacks the necessary focus and depth on the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:02:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the historical context of management practices and critiques the lack of effective feedback loops in current Agile implementations. While it touches on the need for change and improvement, it does not explicitly focus on Continuous Improvement principles or provide detailed strategies for fostering a culture of experimentation and learning. The primary emphasis is on critiquing existing practices rather than outlining a framework for continuous enhancement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:02:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily critiques traditional management practices and highlights the disconnect between claimed Agile adoption and actual practices. While it touches on the importance of feedback loops, it does not explicitly discuss Common Goals or their significance in Agile and DevOps frameworks. The focus is more on historical context and identifying issues rather than aligning strategy with execution or fostering collaboration around shared objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:02:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the historical context of management practices and critiques the adoption of Agile methodologies, but it does not explicitly focus on competence or skill development. While it touches on the importance of understanding past practices, it lacks a direct emphasis on continuous learning or the development of capabilities within teams. The discussion is more about identifying flaws in current practices rather than fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:02:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the historical context of management practices, specifically Taylorism, and critiques the adoption of Agile methodologies. It does not mention the One Engineering System or its principles, components, or implementation. The focus is on identifying issues within Agile practices rather than on standardising or integrating engineering processes, which is the core of the 1ES category.",
     "level": "Ignored"
   }
 }

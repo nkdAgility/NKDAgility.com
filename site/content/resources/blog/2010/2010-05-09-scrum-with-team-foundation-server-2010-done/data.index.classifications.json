@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:38:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:55:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum and Team Foundation Server without a focus on Evidence-Based Management principles or empirical data.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum and Team Foundation Server 2010, focusing on project management practices rather than evidence-based management principles. While it mentions Scrum, it does not provide empirical evidence or metrics related to value delivery, decision-making, or outcomes, which are central to Evidence-Based Management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T00:38:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:55:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum and Team Foundation Server 2010, which are methodologies and tools related to project management rather than the core principles of DevOps. While there are mentions of project management practices, the discussion lacks depth in terms of DevOps philosophy, automation, collaboration, and shared accountability, which are central to the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,7 +335,7 @@
     "reasoning": "Content heavily discusses Scrum and project management with Team Foundation Server, lacking a focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:38:52",
     "ai_confidence": 0,
@@ -340,11 +346,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:38:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:55:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Team Foundation Server, focusing on project management rather than the Agile Product Operating Model.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum and its application with Team Foundation Server 2010, which aligns more with traditional project management practices rather than the Agile Product Operating Model. While it mentions agile practices, it does not delve into the core principles of APOM or discuss product management integration, limiting its relevance to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,11 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T01:18:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:55:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Team Foundation Server without any mention of Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum and Team Foundation Server, which are related to project management and Agile practices rather than Continuous Delivery specifically. While there are mentions of improving project management and some principles of Scrum, the focus is not on Continuous Delivery practices, automation, or the specific benefits of delivering software in short cycles. The discussion lacks depth in Continuous Delivery concepts and does not provide substantial insights into its principles or practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1503,6 +1515,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum and Team Foundation Server without any explicit mention or focus on the Shift-Left Strategy. While it touches on project management and Scrum practices, it does not address integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:55:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum and project management using Team Foundation Server 2010, with only brief references to improvement through mentoring and session presentations. While it touches on aspects of Agile practices, it lacks a comprehensive discussion on Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation and learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:55:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a personal experience related to presenting at a conference and does not explicitly discuss Common Goals within Agile or DevOps frameworks. While it mentions Scrum and project management, it lacks a clear connection to shared objectives or strategic alignment, which are central to the Common Goals category. The discussion is more anecdotal and does not delve into the significance or operationalisation of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:55:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content briefly touches on the author's personal development and mentorship in the context of Scrum and project management, which aligns with the theme of competence. However, it lacks a detailed exploration of continuous learning or strategies for fostering a culture of competence. The focus is more on the author's experiences and presentations rather than a comprehensive discussion on competence as a foundational principle.",
     "level": "Ignored"
   }
 }

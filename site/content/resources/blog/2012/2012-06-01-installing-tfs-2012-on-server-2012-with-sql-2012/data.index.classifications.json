@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:30:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:21:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the installation and configuration of TFS 2012, SQL Server 2012, and Windows Server 2012, with no discussion of Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation process of TFS 2012, SQL Server 2012, and Windows Server 2012, with no discussion or mention of Evidence-Based Management principles or metrics. It lacks any alignment with the core themes of EBM, such as data-informed decision-making or value delivery metrics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,14 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:56:50",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "calculated_at": "2025-03-22T08:20:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012, SQL Server 2012, and Windows Server 2012, which are relevant to DevOps practices. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. While it touches on automation and configuration management, it does not delve into continuous integration or delivery, nor does it discuss collaboration between development and operations teams. The depth of discussion is limited to technical steps without exploring the implications or benefits of these practices in a DevOps context.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012, SQL Server 2012, and Windows Server 2012, which are more aligned with system administration and setup rather than the core principles of DevOps. While there are mentions of environments and configurations that could relate to DevOps practices, the discussion lacks depth in terms of collaboration, automation, or continuous delivery, which are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,7 +332,7 @@
     "reasoning": "Content primarily focuses on the installation and configuration of TFS, SQL Server, and Windows Server, with no discussion of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:31:51",
     "ai_confidence": 0,
@@ -340,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:31:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:21:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the installation and configuration of TFS 2012, SQL Server 2012, and Windows Server 2012, with no discussion of Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012, SQL Server 2012, and Windows Server 2012. It does not discuss the Agile Product Operating Model or its principles, nor does it touch on any relevant topics such as product management practices or agile methodologies. The mention of TFS is related to technical setup rather than agile product management, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -421,11 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:32:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:21:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the installation and configuration of TFS 2012, SQL Server 2012, and Windows Server 2012, with no clear discussion on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation process of TFS 2012, SQL Server 2012, and Windows Server 2012, with no explicit discussion of Continuous Delivery principles, practices, or benefits. While it touches on aspects of software deployment, it lacks depth in exploring automation, rapid feedback, or cultural aspects related to Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1482,6 +1491,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012, SQL Server 2012, and Windows Server 2012, with no discussion of integrating testing, security, or compliance earlier in the software development lifecycle. It lacks any mention of Shift-Left principles, techniques, or metrics, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:20:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical installation process of TFS 2012, SQL Server 2012, and Windows Server 2012, with no substantial discussion on Continuous Improvement principles. While there are brief mentions of improvements in software features, these are not explored in the context of Continuous Improvement methodologies or practices. The content lacks depth in discussing empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:21:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing TFS 2012, SQL Server 2012, and Windows Server 2012. It lacks any discussion on aligning strategy with execution, shared objectives, or the principles of Agile and DevOps. There are no mentions of Common Goals, nor does it explore the significance of these goals in fostering collaboration or accountability within teams. The content is more of a step-by-step guide rather than a discussion on strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:21:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical steps for installing TFS 2012, SQL Server 2012, and Windows Server 2012. While it does touch on the importance of having a well-configured environment for demos, it lacks a direct discussion on competence as defined in the category. There are no explicit mentions of continuous learning, skill development, or fostering a culture of competence. The content is more about practical installation procedures rather than the underlying principles of professionalism and quality delivery.",
     "level": "Ignored"
   }
 }

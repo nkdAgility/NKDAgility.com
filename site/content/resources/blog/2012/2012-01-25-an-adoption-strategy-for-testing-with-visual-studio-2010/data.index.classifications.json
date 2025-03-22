@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:36:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:30:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses tools and training related to Visual Studio and Agile practices, without a focus on Evidence-Based Management principles or empirical data application.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on adoption strategies for Microsoft Test Manager and the collaboration between developers and testers. While it mentions agile practices, it does not discuss Evidence-Based Management principles or metrics related to current value, time to market, or empirical decision-making. The discussion lacks depth in relation to the core themes of EBM, making it only tangentially related.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,11 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T21:37:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:30:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses testing tools and agile practices, with a focus on Visual Studio and Scrum, rather than DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on testing strategies and tools related to Visual Studio 2010, with a brief mention of collaboration between developers and testers. While it touches on aspects of teamwork and agile practices, it lacks a direct discussion of DevOps principles such as automation, shared accountability, or continuous improvement. The emphasis is more on specific tools and methodologies rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -341,7 +347,7 @@
     "reasoning": "Content primarily discusses testing strategies and tools related to Visual Studio 2010, with a focus on developer and tester collaboration, rather than Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:37:36",
     "ai_confidence": 0,
@@ -352,14 +358,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T06:14:05",
+    "calculated_at": "2025-03-22T08:30:41",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content briefly mentions agile practices and Scrum, but primarily focuses on testing tools and training related to Visual Studio 2010. While there is some alignment with Agile principles, the main discussion revolves around technical practices and tools rather than a comprehensive exploration of the Agile Product Operating Model.",
+    "reasoning": "The content briefly mentions agile practices and Professional Scrum Developer training, but it primarily focuses on testing strategies and tools within Visual Studio 2010. While there is some alignment with agile principles, the discussion lacks depth regarding the Agile Product Operating Model and does not address key topics such as product management or continuous delivery.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -436,11 +442,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:38:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:30:44",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses testing tools and agile practices, with no clear focus on Continuous Delivery principles or methodologies.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses adoption strategies for Microsoft Test Manager and the collaboration between developers and testers, which is more focused on testing practices rather than Continuous Delivery principles. While there are brief mentions of agile practices, the core themes of Continuous Delivery, such as automation in deployment and rapid feedback, are not adequately addressed. The depth of discussion is limited to tools and training without exploring Continuous Delivery's broader implications.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1530,6 +1539,42 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses tools and training related to testing and collaboration between developers and testers, which aligns with some aspects of the Shift-Left Strategy. However, it lacks a direct focus on integrating testing and security earlier in the development lifecycle, and does not provide in-depth discussion on the principles or benefits of the Shift-Left approach. The mention of agile practices is also too general and does not specifically address the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:30:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses adoption strategies for Microsoft Test Manager and mentions agile practices, but it primarily focuses on tools and training rather than the principles of Continuous Improvement. While there are elements of collaboration and team effectiveness, the discussion lacks depth in continuous reflection, empirical evidence, and measurable advancements, which are core to the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:30:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses collaboration between developers and testers, which touches on the importance of teamwork and shared objectives. However, it primarily focuses on tools and training rather than explicitly addressing Common Goals within Agile and DevOps frameworks. The mention of agile practices is brief and lacks depth in connecting to strategic alignment or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:30:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of training and hands-on experience with Visual Studio tools, which aligns with the concept of competence in terms of skill development. However, it primarily focuses on tools and adoption strategies rather than a deep exploration of competence as a foundational principle in Agile or DevOps. The mention of agile practices and team collaboration hints at competence but lacks a thorough examination of continuous learning or mastery.",
     "level": "Ignored"
   }
 }

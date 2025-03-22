@@ -658,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T08:24:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:05:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses personal values and approaches as a Scrum Trainer, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the personal values and legacy of a Professional Scrum Trainer, discussing integrity, honesty, and approachability. While it mentions Scrum, it does not address Continuous Delivery principles, practices, or related topics. The discussion is more about personal philosophy in training rather than software delivery practices.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -841,11 +844,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T08:24:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:05:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal values and approaches as a Scrum Trainer, without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on personal values and experiences as a Scrum Trainer, with limited direct discussion on Evidence-Based Management principles. While there are mentions of data and facts, the overall emphasis is on personal integrity and approachability rather than on empirical decision-making or metrics that align with EBM. The content does not delve deeply into the key topics of EBM, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1282,11 +1288,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T08:22:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:04:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum principles and personal values of a Scrum Trainer, with no focus on DevOps practices or principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of a Professional Scrum Trainer and discusses values such as integrity, honesty, and approachability. While it touches on themes relevant to Agile methodologies, it does not explicitly address DevOps principles or practices. The discussion lacks depth in relation to DevOps, and the primary focus is on Scrum rather than the integration of people, processes, and technology that characterises DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1472,22 +1481,16 @@
     "reasoning": "Content primarily discusses personal values and approaches as a Scrum Trainer, without a clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:16:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses personal values and experiences as a Scrum Trainer, with no focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:16:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:05:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal values and experiences as a Scrum Trainer, without a clear focus on the Agile Product Operating Model.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the personal values and legacy of a Professional Scrum Trainer, discussing integrity, honesty, and approachability. While it mentions Scrum principles, it does not explicitly address the Agile Product Operating Model or its core themes. The discussion lacks depth regarding product management practices and the transition to a product-oriented mindset, which are central to the APOM framework.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1539,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the personal values and legacy of a Scrum Trainer, discussing integrity, honesty, and approachability. While it touches on helping organisations and providing suggestions, it does not explicitly mention or align with the Shift-Left Strategy, which is centred on integrating testing, security, and compliance early in the software development lifecycle. The discussion lacks depth and specific techniques related to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:04:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the author's values as a Professional Scrum Trainer, focusing on integrity, honesty, and approachability. While these values align with the principles of Continuous Improvement, the content does not explicitly address Continuous Improvement as a primary focus. It briefly mentions helping organisations understand and fix issues, which relates to the category, but lacks depth and specific strategies for Continuous Improvement practices. Overall, the content is more about personal values and legacy rather than a structured discussion on Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:04:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on personal values and experiences of the author as a Scrum Trainer, rather than discussing Common Goals within Agile and DevOps frameworks. While it touches on integrity, honesty, and approachability, these themes do not directly connect to the concept of aligning strategy with execution or shared objectives that guide decision-making. The discussion lacks depth in exploring how these values contribute to team alignment or organisational performance, which are key aspects of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:05:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 2,
+    "ai_alignment": 75.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of integrity, honesty, and approachability in the context of being a Professional Scrum Trainer, which aligns with the principles of competence. However, while it touches on the values that underpin professionalism and trust, it does not delve deeply into continuous learning or skill development, which are key aspects of the competence category. The focus is more on personal values rather than on fostering a culture of competence or strategies for skill development.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:05:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal values and experiences as a Professional Scrum Trainer, discussing integrity, honesty, and approachability. While it mentions Scrum, it does not address the One Engineering System framework, its principles, or its implementation. The discussion is more about personal philosophy than the integration and standardisation of engineering processes, which is the core of the 1ES category.",
     "level": "Ignored"
   }
 }

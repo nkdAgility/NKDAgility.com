@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:02:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:58:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of a Sprint Contract in Scrum, focusing on the relationship between the Product Owner and the implementation team, rather than on evidence-based management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of a Sprint Contract within Scrum, focusing on the relationship between the Product Owner and the Team. While it touches on aspects of collaboration and project delivery, it does not explicitly address Evidence-Based Management principles or metrics. The discussion lacks depth in empirical decision-making or data-informed practices, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,11 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T01:03:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:58:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically the concept of a Sprint Contract between the Product Owner and the Team. While it touches on collaboration, which is a component of DevOps, it does not delve into the broader principles or practices of DevOps as a philosophy. The discussion is centred around Scrum methodology rather than the integration of people, processes, and technology that characterises DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -326,7 +332,7 @@
     "reasoning": "Content primarily discusses Scrum roles and the concept of a Sprint Contract, which is focused on Agile project management rather than Systems Thinking principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:03:45",
     "ai_confidence": 0,
@@ -337,14 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T07:03:49",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-22T08:58:27",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
-    "reasoning": "The content discusses the concept of a Sprint Contract between the Product Owner and the implementation team, which is relevant to Agile practices. However, it primarily focuses on Scrum roles and agreements rather than the broader Agile Product Operating Model. While it touches on aspects of product-centric development, it lacks a comprehensive exploration of the key topics outlined in the category definition, such as value delivery strategies and cross-functional team roles.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the concept of a Sprint Contract within the Scrum framework, which is a specific agile practice rather than a broader discussion on the Agile Product Operating Model. While it touches on collaboration and roles, it lacks a comprehensive exploration of the APOM principles, such as transitioning to a product ethos or integrating product management practices. The focus remains on Scrum mechanics, which does not fully align with the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,11 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T01:51:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:58:33",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the concept of a Sprint Contract within the Scrum framework, focusing on the relationship between the Product Owner and the implementation team. While it touches on aspects of project delivery, it does not explicitly address Continuous Delivery principles, such as automation, rapid feedback, or incremental improvements. The discussion is more aligned with Scrum practices rather than Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1530,6 +1539,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the concept of a Sprint Contract within Scrum, focusing on the relationship between the Product Owner and the implementation team. While it touches on aspects of Agile project management, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth regarding early integration of testing, security, or compliance, which are core to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:58:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the concept of a Sprint Contract in Scrum, which is more about defining roles and responsibilities rather than discussing Continuous Improvement as a primary focus. While it touches on collaboration and clarity, it lacks a detailed exploration of Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation and learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:58:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the concept of a Sprint Contract between the Product Owner and the Team, which touches on the importance of collaboration and clarity in achieving shared objectives. However, it primarily focuses on the mechanics of Scrum rather than explicitly addressing the broader concept of Common Goals within Agile and DevOps. While there are elements of alignment and ownership mentioned, the depth of discussion on strategic goals and their operationalisation is limited.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:58:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the concept of a Sprint Contract, which indirectly relates to competence by emphasising the importance of clarity and commitment in roles within a Scrum team. However, it primarily focuses on the contractual relationship rather than on continuous learning, skill development, or the broader implications of competence in Agile methodologies. The discussion lacks depth in exploring how competence impacts quality outcomes or team trust, leading to a lower confidence score.",
     "level": "Ignored"
   }
 }

@@ -34,6 +34,7 @@ sitemap:
 tags:
 - People and Process
 - Pragmatic Thinking
+- Competence
 - Agile Transformation
 - Software Development
 - Coaching

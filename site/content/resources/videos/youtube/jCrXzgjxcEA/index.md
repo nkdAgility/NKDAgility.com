@@ -38,7 +38,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- DevOps
 - Kanban
 
 ---

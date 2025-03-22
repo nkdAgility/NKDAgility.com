@@ -37,10 +37,10 @@ tags:
 - Market Adaptability
 - Software Developers
 - People and Process
+- Continuous Improvement
 - Operational Practices
 - Metrics and Learning
 - Discovery and Learning
-- Product Delivery
 resourceTypes:
 - video
 categories:

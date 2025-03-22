@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T20:08:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:14:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile methodologies and an upcoming conference, with no significant discussion on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on an Agile conference and related activities, with no explicit discussion of DevOps principles or practices. While Agile and DevOps share some common themes, the content does not delve into the core aspects of DevOps such as automation, shared accountability, or continuous improvement. The mention of Scrum classes is tangential and does not align with the DevOps philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -94,11 +97,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T20:09:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:15:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on an upcoming Agile conference and related activities, with no clear discussion on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting an Agile conference and related activities, with minimal direct mention of Evidence-Based Management principles. While it discusses Agile practices and training, it lacks a clear emphasis on empirical decision-making or metrics that align with EBM. The overall discussion is more about networking and workshops rather than data-informed management strategies.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -336,15 +342,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses an Agile conference and related events, with no clear focus on release management practices or processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T20:09:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an Agile conference and related events, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -658,11 +655,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T20:10:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:15:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an Agile conference and related events, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on an Agile conference and related activities, with no direct mention of Continuous Delivery principles or practices. While Agile methodologies may relate to Continuous Delivery, the discussion does not delve into the specific themes of Continuous Delivery, such as automation in deployment or rapid feedback mechanisms. The content lacks depth in addressing Continuous Delivery, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -754,11 +754,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T20:11:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:15:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on an upcoming Agile conference and related events, with minimal discussion on the Agile Product Operating Model itself.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily promotes an event and discusses networking and workshops without a direct focus on the Agile Product Operating Model. While it mentions agile concepts and training, it lacks detailed discussion on the principles or practices specific to the APOM framework.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1506,6 +1509,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on an upcoming Agile conference and related events, with no explicit discussion of the Shift-Left Strategy. While it mentions Agile principles, it does not delve into integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy. The content lacks depth and detail on the topic, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:14:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily promotes an event and does not focus on Continuous Improvement principles. While it mentions Agile concepts and offers training, it lacks detailed discussions on empirical evidence, data-driven decision-making, or specific Continuous Improvement strategies. The mention of 'double-loop learning' hints at a related concept but is not explored in depth, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:14:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting an event and does not explicitly discuss Common Goals within Agile or DevOps frameworks. While it mentions Agile concepts and offers workshops, it lacks a clear connection to shared objectives or strategic alignment, which are central to the category of Common Goals. The discussion is more about networking and personal experiences rather than the foundational principles of aligning strategy with execution.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:14:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content mentions training classes and workshops, which are related to skill development, but it lacks a deep discussion on competence as a foundational principle. While there are references to improving skills and the importance of learning, the primary focus is on promoting an event rather than a thorough exploration of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:15:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on an Agile conference and related activities, with no explicit mention of the One Engineering System framework or its principles. While it discusses Agile practices, it does not align with the core themes of 1ES, such as integration of tools and processes or best practices for implementing a unified engineering system. The depth of discussion on 1ES is minimal, as the content is more about event promotion and personal experiences rather than a structured analysis of engineering systems.",
     "level": "Ignored"
   }
 }

@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T17:43:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:48:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses engagement and management practices in Agile teams, without a clear focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses engagement and decentralisation within teams, which are relevant to DevOps principles of collaboration and shared accountability. However, it primarily focuses on agile methodologies and organisational effectiveness rather than the specific practices and cultural shifts central to DevOps. The lack of direct mentions of DevOps and its core themes results in a lower confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -97,11 +100,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T17:43:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:48:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses engagement and management practices without a clear focus on empirical evidence or data-driven decision-making.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses engagement and decentralisation in teams, which are relevant to EBM, but lacks explicit references to empirical evidence or metrics. It focuses more on general management practices and team dynamics rather than data-informed decision-making or specific EBM metrics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -351,15 +357,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content heavily discusses engagement and management practices in Agile teams without a focus on release processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:43:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses engagement in agile teams and organisational structure rather than the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -691,11 +688,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T17:44:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:48:44",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses engagement and management practices in Agile teams, without a clear focus on Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses engagement and decentralisation within agile teams, which are important for organisational effectiveness but do not directly address Continuous Delivery principles or practices. While there are mentions of improving team dynamics and fostering innovation, the focus is not on the delivery of software in reliable cycles or the automation of testing and deployment, which are core to Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -793,15 +793,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T21:58:08",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T18:48:41",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses engagement and organisational effectiveness, which are relevant to the Agile Product Operating Model. However, it lacks direct references to product-centric development and specific Agile methodologies. While it touches on decentralisation and team autonomy, which align with Agile principles, the focus is more on engagement strategies than on the operational model itself.",
-    "level": "Secondary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses engagement and decentralisation, which are relevant to agile principles, but it lacks a direct focus on the Agile Product Operating Model specifically. While it touches on themes of organisational effectiveness and team empowerment, it does not delve into the core aspects of APOM such as product management practices or continuous delivery. The discussion is more general about engagement rather than specifically about the integration of agile methodologies with product management.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1551,6 +1551,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses engagement and organisational effectiveness within Agile teams, without explicitly addressing the Shift-Left Strategy or its core themes. While it touches on decentralisation and empowering teams, it does not delve into integrating testing, security, or compliance earlier in the software development lifecycle, which are essential aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:48:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses engagement and decentralisation, which are related to Continuous Improvement principles, but it does not explicitly mention Continuous Improvement or provide in-depth strategies or empirical evidence related to it. The focus is more on engagement and organisational structure rather than on continuous improvement methodologies or frameworks.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:48:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of engagement and decentralisation in organisations, which indirectly relates to Common Goals by emphasising the need for a shared vision and alignment with organisational objectives. However, it lacks explicit references to Agile or DevOps frameworks and does not delve deeply into the specific mechanisms of aligning strategy with execution, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:48:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 3,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses engagement and decentralisation, which indirectly relate to competence by emphasising the importance of enabling team members to utilise their skills effectively. However, it lacks a direct focus on continuous learning and skill development, which are core to the competence category. The discussion is more centred on engagement and organisational structure rather than on the development of competence itself.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:48:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on engagement and decentralisation within agile teams, which does not directly address the principles or components of the One Engineering System. While it touches on themes of collaboration and organisational effectiveness, it lacks explicit discussion of 1ES, its integration, or its impact on software delivery. The content is more aligned with general agile practices rather than the specific framework of 1ES.",
     "level": "Ignored"
   }
 }

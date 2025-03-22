@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:37:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:49:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of PowerShell for .NET programming and TFS team creation, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on programming with PowerShell and the TFS API, with no direct mention or discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any depth on these topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T18:37:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:49:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on using PowerShell to interact with TFS and does not discuss DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS API for creating teams, which is more aligned with programming and scripting rather than the broader principles of DevOps. While it touches on automation, it lacks a discussion on collaboration, shared accountability, or cultural shifts that are central to DevOps. The mention of TFS (Team Foundation Server) is relevant to DevOps tools but does not delve into the philosophy or practices of DevOps itself.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +326,7 @@
     "reasoning": "Content primarily discusses the use of PowerShell for .NET programming and TFS team creation, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:38:08",
     "ai_confidence": 0,
@@ -331,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:38:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:49:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses using PowerShell to interact with TFS and does not address Agile principles, product-centric development, or value delivery.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS API for creating teams, which is a technical discussion about programming rather than an exploration of the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or the key topics outlined in the APOM definition. The content lacks depth in discussing any aspects related to agile methodologies or product-oriented mindsets.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -406,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:34:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:49:24",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses using PowerShell to interact with TFS and create teams, which does not align with Continuous Delivery principles or practices.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS API for creating teams, which does not directly address Continuous Delivery principles or practices. While it touches on automation through scripting, it lacks discussions on key Continuous Delivery topics such as deployment strategies, rapid feedback, or software quality improvement. The content is more about programming techniques rather than the broader context of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1443,6 +1455,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on using PowerShell to interact with TFS and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any case studies or tools related to the Shift-Left approach. The discussion is centred around programming constructs and PowerShell syntax, which is unrelated to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:49:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical aspects of using PowerShell with .NET and TFS API, with no explicit discussion of Continuous Improvement principles. While there are mentions of problem-solving and coding practices, these do not align with the core themes of Continuous Improvement, such as empirical evidence, team effectiveness, or a culture of experimentation. The content lacks depth in discussing any strategies or frameworks related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:49:14",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on technical aspects of using PowerShell with .NET and TFS, without discussing any shared objectives or alignment within Agile or DevOps frameworks. It lacks direct mentions of Common Goals and does not explore their significance or impact on team collaboration or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:49:16",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on technical implementation details of using PowerShell with .NET and TFS, rather than discussing competence in terms of continuous learning or skill development. While there are brief mentions of challenges faced and learning experiences, these are not the main focus. The discussion lacks depth in exploring the broader implications of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

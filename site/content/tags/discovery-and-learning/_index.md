@@ -26,6 +26,9 @@ headline:
   subtitle: Fostering innovation and knowledge growth through exploration and experimentation in product and software development.
   content: Encouraging exploration and experimentation to drive innovation and enhance knowledge within product and software development. Posts should delve into techniques for fostering creativity, iterative learning, and adaptive problem-solving, while addressing the complexities of team dynamics and organisational culture.
   updated: 2025-02-13T11:59:39Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

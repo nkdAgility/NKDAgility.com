@@ -24,6 +24,9 @@ headline:
   subtitle: A collection of diverse insights and practices that transcend specific methodologies and frameworks in project management and organisational improvement.
   content: A diverse array of insights and methodologies that enhance project management and organisational effectiveness. Posts may explore workflow optimisation, team dynamics, performance measurement, and the interplay of complexity in decision-making, drawing from various thought leaders and frameworks to foster continuous improvement and adaptability.
   updated: 2025-02-13T11:59:11Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

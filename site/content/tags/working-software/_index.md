@@ -26,6 +26,9 @@ headline:
   subtitle: Delivering functional software that meets user needs through iterative improvement and effective collaboration.
   content: Delivering high-quality software that aligns with user requirements through continuous iteration and collaboration. Posts should explore topics such as user feedback integration, iterative development cycles, quality assurance practices, and the impact of team dynamics on software delivery efficiency.
   updated: 2025-02-13T12:01:08Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

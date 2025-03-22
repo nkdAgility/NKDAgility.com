@@ -88,11 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T15:06:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses a course on Professional Scrum with Kanban, focusing on Scrum practices rather than Evidence Based Management principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and Kanban training, with no explicit discussion of Evidence-Based Management principles or metrics. While it mentions improving team effectiveness, it does not provide empirical evidence or data-informed decision-making strategies that are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -318,15 +321,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum with a Kanban integration, lacking any clear emphasis on release management topics such as release planning, version control, or CI/CD practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Professional Scrum with Kanban, which is unrelated to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -619,11 +613,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T15:06:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum and Kanban training, which are not central to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and Kanban methodologies, which are related to Agile practices but do not specifically address Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion lacks depth in terms of the core themes associated with Continuous Delivery, such as automation, rapid feedback, or incremental improvements.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum and Kanban training, with no explicit mention of the Shift-Left Strategy or its principles. While it discusses improving team effectiveness, it does not address integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T15:06:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses enhancing Scrum skills and implementing Kanban strategies, which are related to Continuous Improvement. However, it primarily focuses on training and certification rather than a deep exploration of Continuous Improvement principles. While there are mentions of improving team effectiveness and lean practices, the discussion lacks substantial depth and does not explicitly address the core themes of Continuous Improvement, such as empirical evidence or a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T15:06:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a training course for Scrum and Kanban, with limited direct discussion of Common Goals. While it mentions improving team effectiveness and introduces lean practices, it lacks a clear connection to the overarching strategic objectives or alignment principles central to Common Goals. The depth of discussion on how these practices relate to shared objectives is minimal, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T15:06:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses a training course aimed at enhancing Scrum skills, which implies a focus on competence through skill development. It mentions the need for prior experience and knowledge, indicating a recognition of competence as a prerequisite for participation. However, while it touches on the importance of learning and practical exercises, it does not delve deeply into the broader implications of competence in Agile methodologies or provide extensive strategies for fostering a culture of competence. Therefore, while competence is a significant theme, it is not the primary focus of the content.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T15:06:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and Kanban methodologies, which are not directly related to the One Engineering System framework. While it discusses team strategies and training, it does not address the principles, integration, or implementation of 1ES. The mention of Scrum and Kanban indicates a secondary focus on specific methodologies rather than the overarching theme of standardisation and integration in software development practices.",
     "level": "Ignored"
   }
 }

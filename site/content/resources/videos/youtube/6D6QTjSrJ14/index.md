@@ -33,9 +33,11 @@ sitemap:
 tags:
 - Continuous Learning
 - Discovery and Learning
+- Continuous Improvement
 - People and Process
 - Customer Feedback Loops
 - Coaching
+- Competence
 resourceTypes:
 - video
 layout: video

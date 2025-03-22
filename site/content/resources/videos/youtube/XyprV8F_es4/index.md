@@ -30,7 +30,6 @@ duration: 398
 isShort: false
 tags:
 - Organisational Change
-- Continuous Delivery
 - Continuous Learning
 - Resilience and Change
 - Agile Leadership
@@ -39,6 +38,7 @@ tags:
 - Enterprise Agility
 - Organisational Agility
 - Organisational Culture
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

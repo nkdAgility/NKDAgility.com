@@ -25,6 +25,9 @@ headline:
   subtitle: Promoting openness and responsibility to enhance team alignment and decision-making in complex environments.
   content: Encouraging a culture of openness and responsibility enhances team alignment and decision-making in complex environments. Posts should explore practices for fostering trust, effective communication, and shared ownership, while addressing the dynamics of team interactions and the impact of transparency on performance and adaptability.
   updated: 2025-02-13T11:58:34Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

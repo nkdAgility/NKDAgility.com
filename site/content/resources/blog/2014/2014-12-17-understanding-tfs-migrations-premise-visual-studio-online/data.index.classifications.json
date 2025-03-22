@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T23:27:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:30:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses TFS migrations and does not address Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on TFS migrations and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of data-informed decision-making or the key topics outlined in the EBM category. The discussion is more about technical migration strategies rather than empirical evidence or management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T23:27:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:30:07",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses TFS migrations and does not focus on DevOps principles, practices, or tools.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on TFS migrations to Visual Studio Online, which is more aligned with project management and migration strategies rather than the core principles of DevOps. While there are mentions of tools and scenarios that could relate to DevOps practices, the discussion lacks depth in terms of collaboration, automation, and shared accountability, which are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,22 +320,16 @@
     "reasoning": "Content primarily discusses TFS migrations and specific scenarios related to project management tools, without a focus on Systems Thinking principles or interconnectedness.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T23:27:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses TFS migrations and does not focus on the principles or implementation of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T23:27:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:30:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses TFS migrations and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on TFS migrations and does not discuss the Agile Product Operating Model or its principles. There are no direct mentions of agile methodologies, product management, or the key topics outlined in the APOM framework. The discussion is centred around technical migration strategies rather than product-oriented approaches or agile processes.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +403,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T23:27:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:30:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses TFS migrations and does not address Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on TFS migrations to Visual Studio Online, which does not directly address Continuous Delivery principles or practices. While it touches on migration strategies, it lacks explicit discussions on automation, incremental improvements, or rapid feedback, which are core to Continuous Delivery. The mention of tools and scenarios is relevant but does not align with the key topics of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1446,6 +1449,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses TFS migrations and does not address the Shift-Left Strategy or its principles, benefits, or techniques. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. The focus is on migration scenarios rather than proactive software development practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:30:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on TFS migrations and does not explicitly discuss Continuous Improvement principles. While there are mentions of consolidating and splitting projects, which could imply some level of process enhancement, the overall discussion lacks depth and does not align with the core themes of Continuous Improvement such as empirical evidence, experimentation, or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:30:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on TFS migrations and does not explicitly discuss Common Goals or their significance in Agile or DevOps. While it touches on scenarios related to project management, it lacks a clear connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:30:17",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on TFS migrations and does not explicitly discuss competence or related themes such as continuous learning or skill development. While it touches on scenarios and tools for migration, it lacks depth in discussing the importance of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:30:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on TFS migrations to Visual Studio Online, which does not directly address the principles or components of the One Engineering System. While it discusses tools and processes related to migration, it lacks a clear connection to the integration and standardisation of engineering practices across teams, which is central to 1ES. The discussion is more about specific migration strategies rather than a comprehensive framework for software development practices.",
     "level": "Ignored"
   }
 }

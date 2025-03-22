@@ -38,8 +38,8 @@ tags:
 - Product Discovery
 - Metrics and Learning
 - Discovery and Learning
+- Evidence Based Management
 - Experimentation
-- Product Delivery
 resourceTypes:
 - video
 categories:

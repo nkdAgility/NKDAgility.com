@@ -658,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T20:34:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:42:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum roles and their responsibilities, focusing on the Leadership, Value, and Technical Tracks. While it touches on aspects of product delivery, it does not explicitly address Continuous Delivery principles, practices, or the importance of automation, rapid feedback, or cultural aspects related to Continuous Delivery. Therefore, it lacks direct relevance to the category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1270,11 +1273,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T20:32:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:42:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum roles and their responsibilities, which are not directly related to the core principles of DevOps. While there are mentions of collaboration and value delivery, these concepts are framed within the context of Scrum rather than the broader DevOps philosophy. The discussion lacks depth in terms of DevOps practices, automation, or cultural shifts, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1432,11 +1438,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T21:51:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:42:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 7,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and tracks without a focus on empirical evidence or data-driven decision-making.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum roles and their responsibilities, focusing on the Leadership, Value, and Technical Tracks. While it mentions the importance of maximising product value and making decisions based on data, it does not delve deeply into the core themes of Evidence-Based Management, such as current value metrics, time to market, or empirical decision-making. The discussion is more about roles and responsibilities within Scrum rather than a strategic approach to management based on empirical evidence.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1448,26 +1457,17 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:51:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T02:30:11",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T20:42:32",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 17.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses roles within a Scrum framework, focusing on Influencers, Entrepreneurs, and Makers, which aligns with the Agile Product Operating Model's emphasis on cross-functional teams and value delivery. However, it lacks a comprehensive exploration of the Agile principles and methodologies, and does not delve deeply into continuous feedback, iteration, or metrics for product success, which are key aspects of the category.",
-    "level": "Secondary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Scrum roles and their contributions to product value, which aligns with some aspects of the Agile Product Operating Model. However, it lacks a comprehensive exploration of the APOM principles, such as transitioning from project to product ethos or operational stability. The focus is more on Scrum methodology rather than the broader framework of APOM, resulting in a lower confidence score.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1542,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum roles and responsibilities without addressing the Shift-Left Strategy. While it mentions roles like testers and security specialists, it does not explore integrating testing or security earlier in the development process, nor does it discuss the benefits or principles of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:42:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses roles within Scrum and the importance of creating value, but it lacks a direct focus on Continuous Improvement principles. While it mentions the need for experimentation and data-driven decision-making, it does not delve into strategies for integrating Continuous Improvement into organisational processes or provide case studies or tools that support it. The discussion is more centred on roles and responsibilities rather than the ongoing practice of reflection and adaptation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:42:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the roles of Influencers, Entrepreneurs, and Makers within Scrum, which indirectly relates to the concept of Common Goals by highlighting the importance of collaboration and alignment in delivering value. However, it lacks a direct focus on shared objectives or strategic alignment, which are central to the Common Goals category. The discussion is more about roles and responsibilities rather than the overarching goals that guide these roles.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:42:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the roles of Influencers, Entrepreneurs, and Makers within Scrum, highlighting the importance of skills and experience in delivering value. While it touches on the need for competence in these roles, the primary focus is on the roles themselves rather than a deep exploration of competence as a foundational principle. The discussion of training opportunities suggests a commitment to skill development, but it lacks a thorough examination of continuous learning and mastery, which are central to the competence category.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:42:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum roles and their interactions rather than discussing the One Engineering System framework. While it touches on collaboration and roles within a team, it does not address the principles, integration, or best practices of 1ES, nor does it provide any depth on the impact of 1ES on software quality or delivery timelines.",
     "level": "Ignored"
   }
 }

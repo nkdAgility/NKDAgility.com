@@ -25,6 +25,9 @@ headline:
   subtitle: Streamlined processes for delivering functional software, encompassing planning, development, testing, and deployment for optimal customer satisfaction.
   content: A systematic approach to delivering functional software products that prioritises customer value through iterative planning, development, testing, and deployment. Posts should explore workflow optimisation, team collaboration, quality assurance, and the integration of feedback loops to enhance product outcomes and responsiveness to change.
   updated: 2025-02-13T11:58:52Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

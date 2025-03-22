@@ -643,11 +643,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T23:43:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and scaling frameworks, with no focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T18:38:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 2,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on scaling Scrum, which is a framework for Agile project management, rather than discussing Continuous Delivery principles or practices. While there are brief mentions of delivering value and iterative approaches, these concepts are not explored in the context of Continuous Delivery. The discussion lacks depth on automation, rapid feedback, or specific Continuous Delivery tools, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -820,11 +823,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-11T23:43:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum scaling techniques and frameworks, without a focus on evidence-based management principles or empirical data.",
+    "calculated_at": "2025-03-21T18:38:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on scaling Scrum and does not explicitly discuss Evidence-Based Management principles or metrics. While it touches on concepts like delivering value and adapting practices, it lacks a strong emphasis on empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1276,11 +1282,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T23:41:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and scaling frameworks, with only a brief mention of DevOps at the end.",
+    "calculated_at": "2025-03-21T18:38:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on scaling Scrum, which is a framework for agile project management, rather than discussing DevOps principles or practices. While there are some mentions of efficiency and collaboration, these are not explicitly tied to the core themes of DevOps, such as automation, shared accountability, or continuous improvement. The discussion lacks depth in relation to DevOps, making it clear that the primary focus is on Scrum rather than the DevOps philosophy.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1456,14 +1465,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T21:36:14",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-21T18:38:31",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content primarily focuses on scaling Scrum, which is a specific Agile framework, rather than discussing the broader Agile Product Operating Model. While it touches on principles of value delivery and alignment, it lacks a comprehensive exploration of product-centric development and the holistic approach required by the Agile Product Operating Model. The discussion is more about technical practices and frameworks rather than the overarching organisational framework aimed at enhancing value delivery through a product-centric approach.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on scaling Scrum, which is a specific agile framework, rather than discussing the broader Agile Product Operating Model. While it touches on concepts like alignment and iterative improvement, it lacks a direct connection to product management principles and the overall APOM framework. The depth of discussion on scaling practices is significant, but it does not align closely with the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1482,15 +1491,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and scaling frameworks, with no direct connection to platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:10:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum and scaling frameworks, which are not central to the One Engineering System principles.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1533,6 +1533,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on scaling Scrum and does not discuss the Shift-Left Strategy or its principles. While it touches on aspects of managing complexity and alignment, it lacks any direct mention or detailed exploration of integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:38:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses scaling Scrum, which involves iterative improvements and adapting practices to fit organisational needs. It mentions starting small and iterating, which aligns with Continuous Improvement principles. However, the primary focus is on Scrum frameworks rather than a broader discussion of Continuous Improvement as a standalone concept.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:38:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses scaling Scrum and the importance of alignment among teams, which relates to Common Goals. However, it primarily focuses on practical strategies for scaling rather than explicitly defining or deeply exploring the concept of Common Goals within Agile and DevOps. The mention of alignment is relevant but not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:38:26",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 26,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of tailoring Scrum frameworks to an organization's needs, which implies a focus on competence through understanding and applying relevant practices. It mentions educating teams and iterating on frameworks, which aligns with continuous learning and skill development. However, while competence is a significant theme, the primary focus is more on scaling Scrum rather than directly on competence itself, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:38:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on scaling Scrum, which is a specific methodology rather than discussing the One Engineering System (1ES). While it touches on concepts like frameworks and alignment, it does not explicitly mention 1ES or its principles, nor does it provide a detailed exploration of integration and standardisation across engineering processes as required by the category.",
     "level": "Ignored"
   }
 }

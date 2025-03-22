@@ -27,6 +27,9 @@ headline:
   subtitle: Explore the guiding principles of value delivery, fostering adaptability and collaboration within teams and organisations for sustainable success.
   content: Explore the principles of iterative improvement and collaborative teamwork, emphasising the importance of customer value and responsiveness to change. Posts should delve into practices that enhance transparency, foster continuous learning, and address complexity in organisational processes, drawing insights from various frameworks and methodologies.
   updated: 2025-02-13T12:06:26Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

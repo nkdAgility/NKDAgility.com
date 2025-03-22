@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:13:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:03:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile and Scrum training, with no clear discussion on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile and Scrum methodologies, discussing training opportunities and career development rather than the core principles of DevOps. While there are mentions of collaboration and value delivery, these are framed within the context of Scrum rather than the broader DevOps philosophy. The lack of explicit discussion on automation, shared accountability, or continuous improvement in the context of DevOps further diminishes its relevance to the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -262,11 +265,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:21:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:03:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile and Scrum concepts, training, and career development rather than Continuous Delivery principles and practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile and Scrum training opportunities, with no direct discussion of Continuous Delivery principles or practices. While it touches on themes of professional development and the importance of skills in a fast-evolving landscape, it lacks specific references to Continuous Delivery concepts such as automation, rapid feedback, or incremental improvements. The overall emphasis is on training and career advancement rather than the delivery practices themselves.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -411,15 +417,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content heavily discusses Agile and Scrum roles, coaching, and training opportunities, with no clear focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:21:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on Agile and Scrum courses, career development, and personal growth rather than on the principles or implementation of the One Engineering System (1ES).",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1243,14 +1240,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T00:41:40",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-21T20:03:48",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
-    "reasoning": "The content discusses Agile and Scrum principles, emphasising the importance of skills development and value delivery. However, it primarily focuses on training and personal development rather than a comprehensive exploration of the Agile Product Operating Model. While there are mentions of Agile concepts, the depth of discussion on product-centric development and the specific strategies for maximising value delivery is limited.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on promoting Scrum courses and career development within the context of Agile methodologies. While it mentions Agile and Scrum, it lacks a detailed discussion on the Agile Product Operating Model itself, such as principles, operational stability, or product-oriented mindsets. The emphasis is more on individual skill enhancement rather than the broader framework of APOM.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1462,11 +1459,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:21:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:03:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses themes related to Agile and Scrum, professional development, and training opportunities but does not focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Scrum courses and career development rather than discussing Evidence-Based Management principles. While it touches on the importance of skills development and value delivery, it lacks explicit references to empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1542,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Agile and Scrum training, career development, and personal growth rather than discussing the Shift-Left Strategy. While it touches on the importance of skills development, it does not explicitly mention integrating testing, security, or compliance early in the software development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:03:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of professional development and training in Agile and Scrum, which aligns with the principles of Continuous Improvement. However, it primarily focuses on promotional aspects and personal career advancement rather than a structured approach to Continuous Improvement practices. The mention of 'leveling up' and 'future-proofing' suggests a desire for growth, but lacks detailed exploration of empirical evidence, specific techniques, or frameworks that are central to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:03:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the importance of professional development and the need for individuals to align their skills with future demands, which relates to the concept of Common Goals. However, it lacks a direct discussion on shared objectives within teams or the operationalisation of Common Goals in Agile and DevOps frameworks. The focus is more on personal career advancement and training opportunities rather than on collective alignment and accountability across teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:03:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of continuous learning and skill development, particularly in the context of Agile and Scrum. It highlights the need for individuals to level up their capabilities and invest in professional development, which aligns well with the core themes of competence. The mention of specific courses and the encouragement to engage in tough conversations about personal and professional growth further supports this alignment. However, while competence is a primary focus, the content also includes promotional elements that slightly dilute the depth of discussion on the topic.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:03:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile methodologies, discussing training opportunities and personal development rather than the One Engineering System framework. While it touches on themes of collaboration and skill enhancement, it does not explicitly mention 1ES or its principles, components, or implementation strategies.",
     "level": "Ignored"
   }
 }

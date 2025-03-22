@@ -28,12 +28,12 @@ tags:
 - Scrum Team
 - Scrum Master
 - Professional Scrum
+- Competence
 - Scrum Product Development
 - Agile Transformation
 - Engineering Practices
 - Software Development
 - Technical Leadership
-- Product Delivery
 
 ---
 One of the most common debates in the Scrum community is whether a Scrum Master needs technical skills. While the Scrum Guide does not explicitly require technical knowledge, the reality of working with a Scrum Team suggests otherwise. A Scrum Master must be an effective _Teacher, Mentor, Coach, and Facilitator_, which requires a deep understanding of the team's work, the business they operate in, and the organisation they are navigating.

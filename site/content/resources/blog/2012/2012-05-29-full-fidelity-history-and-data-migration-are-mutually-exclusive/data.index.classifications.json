@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:35:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:21:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses data migration challenges and technical considerations, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the technical challenges of data migration and history upgrades in software systems, particularly in relation to compliance and tractability. While it touches on the importance of maintaining historical data for compliance purposes, it does not explicitly discuss Evidence-Based Management principles or metrics. The focus is more on technical implementation rather than data-informed decision-making or strategic improvements based on empirical evidence, which are core to EBM. Therefore, while there are some relevant themes, the overall alignment with the category is limited.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,14 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:57:36",
+    "calculated_at": "2025-03-22T08:21:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses data migration and the challenges associated with maintaining traceability and history in software systems, particularly in the context of Team Foundation Server. While it touches on aspects relevant to DevOps, such as the importance of traceability in software development and the implications for application lifecycle management, it lacks a direct focus on core DevOps principles like CI/CD, automation, or cultural shifts. The discussion is more centred on data management and compliance rather than the integration of development and operations practices.",
+    "reasoning": "The content discusses data migration and compliance in software systems, which touches on aspects of DevOps, such as the importance of traceability and the need for collaboration between teams. However, it primarily focuses on the technical challenges of data migration rather than the broader DevOps philosophy or practices. The discussion lacks depth in core DevOps themes like automation, shared accountability, or continuous improvement, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -335,7 +338,7 @@
     "reasoning": "Content primarily discusses data migration challenges and options, focusing on technical aspects rather than Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:36:16",
     "ai_confidence": 0,
@@ -346,11 +349,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:36:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:21:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses data migration challenges and compliance requirements, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses data migration challenges and compliance issues related to software systems, particularly Team Foundation Server (TFS). It does not address the Agile Product Operating Model or its principles, nor does it focus on product management practices or agile methodologies. The discussion is centred around technical aspects of data handling rather than the agile product mindset or continuous delivery, which are core to the APOM framework.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -424,11 +430,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:36:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:21:54",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses data migration challenges and compliance requirements, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses data migration challenges and compliance issues related to software systems, particularly in the context of Team Foundation Server (TFS). While it touches on aspects of software delivery, such as maintaining history and tractability, it does not explicitly address Continuous Delivery principles or practices. The focus is more on data management rather than the continuous delivery process itself, leading to a low confidence score in alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1485,6 +1494,42 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content discusses data migration and tractability in software development but does not explicitly address the Shift-Left Strategy. It touches on compliance and historical data integrity, which are tangentially related to the principles of Shift-Left, but lacks a direct focus on integrating testing, security, or compliance earlier in the development lifecycle. The discussion is more about migration choices and their implications rather than proactive strategies to enhance software quality.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:21:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses data migration challenges and the importance of maintaining compliance and tractability, which are relevant to Continuous Improvement. However, it primarily focuses on technical aspects of data migration rather than on the broader principles of Continuous Improvement, such as fostering a culture of experimentation or integrating Continuous Improvement into organisational processes. The discussion lacks depth in terms of Continuous Improvement methodologies and does not provide empirical evidence or case studies, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:21:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the technical challenges of data migration and history upgrades in TFS, with a focus on compliance and tractability. While it touches on the importance of maintaining history and compliance, it does not explicitly address the concept of Common Goals within Agile or DevOps frameworks. The discussion lacks a clear connection to shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:21:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges of data migration and the importance of maintaining compliance and tractability, which indirectly relates to competence in terms of ensuring quality and trust in software systems. However, it does not explicitly focus on continuous learning or skill development, nor does it provide in-depth strategies for fostering a culture of competence. The primary focus is on technical challenges rather than the broader implications of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

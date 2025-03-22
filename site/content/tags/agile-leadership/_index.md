@@ -27,6 +27,9 @@ headline:
   subtitle: Empower teams to embrace change, enhance adaptability, and cultivate a culture of ongoing improvement for sustainable success.
   content: Cultivate leadership that inspires teams to navigate complexity and embrace change. Explore practices that enhance collaboration, foster innovation, and promote a mindset of continuous learning. Posts should delve into team dynamics, decision-making frameworks, and strategies for sustaining improvement in fast-paced environments.
   updated: 2025-02-13T12:06:28Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

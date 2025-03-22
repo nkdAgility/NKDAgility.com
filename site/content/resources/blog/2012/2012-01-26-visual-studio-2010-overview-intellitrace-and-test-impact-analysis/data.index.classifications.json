@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:23:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:29:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010, specifically IntelliTrace and Test Impact Analysis, without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses tools like IntelliTrace and Test Impact Analysis that can aid in bug fixing and regression testing, which are relevant to Agile practices. However, it does not explicitly mention Evidence-Based Management or its core themes such as empirical decision-making or current value metrics. The focus is more on specific tools rather than a strategic approach to management based on empirical evidence.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,14 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T06:10:42",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-22T08:29:24",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses automated testing and regression testing, which are relevant to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, it primarily focuses on specific tools (IntelliTrace and Test Impact Analysis) without a broader discussion on DevOps principles, cultural shifts, or the integration of development and operations teams. The depth of discussion is limited to tool functionalities rather than a comprehensive exploration of DevOps as a whole.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on IntelliTrace and Test Impact Analysis within Visual Studio 2010, which are tools aimed at improving bug fixing and regression testing. While these topics are relevant to software development practices, they do not explicitly discuss the broader DevOps philosophy or its core principles such as collaboration, automation, or shared accountability. The mention of Agile environments hints at a connection to DevOps, but the discussion lacks depth in addressing the cultural and process-oriented aspects of DevOps. Therefore, the content aligns only tangentially with the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -341,7 +344,7 @@
     "reasoning": "Content primarily discusses IntelliTrace and Test Impact Analysis in the context of Visual Studio 2010, focusing on debugging and testing processes rather than Systems Thinking principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:24:16",
     "ai_confidence": 0,
@@ -352,11 +355,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T21:24:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:29:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses IntelliTrace and Test Impact Analysis in the context of Visual Studio 2010, with no clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Agile environments and discusses tools that can aid Agile teams, but it does not focus on the Agile Product Operating Model itself. The primary emphasis is on specific features of Visual Studio 2010, such as IntelliTrace and Test Impact Analysis, rather than on the principles or practices of the Agile Product Operating Model. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -430,11 +436,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:24:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:29:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses IntelliTrace and Test Impact Analysis in the context of Visual Studio ALM, without a clear focus on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses tools like IntelliTrace and Test Impact Analysis that can aid in bug fixing and regression testing, which are relevant to Continuous Delivery practices. However, it primarily focuses on Agile environments and does not explicitly address Continuous Delivery principles or practices. The discussion lacks depth in exploring Continuous Delivery as a primary focus, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1501,5 +1510,41 @@
     "final_score": 56.0,
     "reasoning": "The content discusses tools like IntelliTrace and Test Impact Analysis that aim to improve bug detection and regression testing, which aligns with the Shift-Left Strategy's goal of integrating testing earlier in the development process. However, the primary focus is on specific tools rather than a broader discussion of the Shift-Left principles or methodologies. The mention of Agile environments suggests some alignment, but the depth of discussion on the Shift-Left Strategy itself is limited.",
     "level": "Tertiary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:29:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses tools like IntelliTrace and Test Impact Analysis that can enhance bug fixing and regression testing, which are relevant to Continuous Improvement. However, it does not explicitly focus on the principles of Continuous Improvement or provide a detailed exploration of its methodologies. The mention of Agile environments suggests some alignment, but the overall depth and direct discussion of Continuous Improvement concepts are limited.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:29:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses tools that can enhance Agile practices, such as IntelliTrace and Test Impact Analysis, which indirectly relate to the concept of Common Goals by improving team efficiency and bug resolution. However, it lacks a direct focus on shared objectives or strategic alignment within teams, which are central to the Common Goals category. The discussion is more about specific tools and their functionalities rather than the overarching principles of alignment and ownership in Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:29:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses tools like IntelliTrace and Test Impact Analysis that can enhance bug fixing and regression testing in Agile environments. However, it does not explicitly address the concept of competence or continuous skill development. While it touches on improving processes, it lacks a deeper exploration of how these tools contribute to team competence or professional growth, leading to a low confidence score.",
+    "level": "Ignored"
   }
 }

@@ -1,14 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T03:08:06",
+    "calculated_at": "2025-03-21T20:55:57",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
+    "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 50,
     "final_score": 34.0,
-    "reasoning": "The content primarily focuses on Scrum practices, including the definition of done, spikes, and ad hoc work, which are more aligned with Agile methodologies than with DevOps principles. While there are brief mentions of DevOps, they are secondary to the main discussion about Scrum. The depth of discussion on Scrum practices is significant, but it lacks a comprehensive exploration of DevOps principles such as CI/CD, automation, and cultural shifts necessary for DevOps implementation.",
+    "reasoning": "The content primarily focuses on Scrum practices, such as the Definition of Done, spikes, and managing ad hoc work, which are not central to the DevOps philosophy. While there are brief mentions of productivity and team dynamics, these do not align closely with the core principles of DevOps, such as automation, shared accountability, or continuous improvement. The discussion lacks depth in DevOps-specific topics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -247,11 +247,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T12:22:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:56:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum and Agile topics, lacking a central discussion on Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically discussing the Definition of Done, spikes, and managing ad hoc work. While there are elements of quality assurance mentioned, they do not directly relate to Continuous Delivery principles or practices. The discussion lacks a clear emphasis on automation, rapid feedback, or delivery cycles, which are central to Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -381,15 +384,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on general DevOps and Agility questions, with no central discussion on Value Stream Management.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T12:22:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a general Q&A session about various topics including DevOps and Agility, without a clear or primary focus on One Engineering System (1ES).",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1147,11 +1141,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T12:22:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not primarily discuss the Agile Product Operating Model; it is more focused on a general Q&A session about Agile and DevOps without a specific emphasis on product-centric approaches or frameworks.",
+    "calculated_at": "2025-03-21T20:56:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Scrum practices, such as the Definition of Done and managing ad hoc work, which are more aligned with Scrum methodology than the Agile Product Operating Model. While there are mentions of productivity and team dynamics, the discussion lacks a direct connection to the core principles of APOM, such as product-oriented mindset and continuous delivery. The depth of discussion on Scrum elements is significant, but it does not sufficiently address the broader themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1354,11 +1351,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T12:22:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:56:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is centered around an open forum for questions and answers on various topics, including DevOps and Agility, without focusing on Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum practices and concepts, such as Definition of Done, spikes, and managing ad hoc work, without a clear emphasis on evidence-based management principles. While there are mentions of productivity and team capacity, these are not grounded in empirical metrics or data-informed decision-making, which are central to Evidence-Based Management.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1428,6 +1428,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum practices, specifically the Definition of Done, spikes, and managing ad hoc work, without any direct mention or discussion of the Shift-Left Strategy. While there are references to quality and testing within the context of Scrum, these do not align with the proactive integration of testing and security earlier in the software development lifecycle as defined by the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:56:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum practices, such as the Definition of Done, spikes, and managing ad hoc work, which are relevant to team productivity and process improvement. However, it lacks a direct emphasis on Continuous Improvement as a primary focus. While it touches on aspects of refining processes and enhancing team effectiveness, it does not delve deeply into the broader principles of Continuous Improvement or provide empirical evidence or case studies that would strengthen its alignment with the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:56:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Scrum practices, such as the Definition of Done and managing ad hoc work, rather than discussing Common Goals directly. While there are elements that touch on team productivity and capacity planning, these are not explicitly linked to the overarching strategic objectives or alignment principles central to Common Goals. The discussion lacks a clear connection to how these practices contribute to shared objectives within Agile or DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:56:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses key Scrum concepts such as the Definition of Done and the importance of managing ad hoc work, which indirectly relates to competence in terms of ensuring quality and effective delivery. However, it lacks a strong focus on continuous learning or skill development, which are central to the competence category. The discussion is more about Scrum practices than about fostering a culture of competence or professional growth.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:56:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices, such as the Definition of Done, spikes, and managing ad hoc work, which are not directly related to the One Engineering System framework. While there are some mentions of productivity and team dynamics, the discussion does not align with the core principles of 1ES, such as integration of tools and processes across teams or best practices for implementing a unified engineering system.",
     "level": "Ignored"
   }
 }

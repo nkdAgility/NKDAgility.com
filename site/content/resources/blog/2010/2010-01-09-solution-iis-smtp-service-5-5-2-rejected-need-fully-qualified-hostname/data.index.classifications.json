@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:40:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:05:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to email configuration and troubleshooting, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to IIS SMTP service configuration. It does not discuss Evidence-Based Management principles, metrics, or data-informed decision-making. The mention of logging and troubleshooting is technical and does not align with the core themes of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T01:41:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:04:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting an SMTP service issue and configuration steps in IIS, which are not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to IIS SMTP Service configuration, which does not align with the broader principles and practices of DevOps. While it touches on aspects of system configuration and troubleshooting, it lacks discussions on collaboration, automation, or cultural shifts that are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -317,7 +323,7 @@
     "reasoning": "Content primarily discusses a technical issue related to email configuration and troubleshooting, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:41:36",
     "ai_confidence": 0,
@@ -328,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:41:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:05:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to email configuration and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on resolving a technical issue related to IIS SMTP service and does not mention or align with any principles of the Agile Product Operating Model. There is no discussion of agile methodologies, product management, or any related concepts.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:22:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:05:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting SMTP server configuration issues related to sending emails, which is not relevant to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to email delivery in IIS, which does not align with the principles or practices of Continuous Delivery. There are no direct mentions of Continuous Delivery concepts, and the discussion lacks depth in terms of automation, incremental improvements, or user feedback, which are key themes of the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1443,6 +1455,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a specific technical issue related to email sending in IIS and does not mention or align with the principles of the Shift-Left Strategy. There is no discussion of integrating testing, security, or compliance earlier in the development process, nor does it provide any techniques or case studies related to Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:04:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to IIS SMTP Service and does not discuss Continuous Improvement principles or practices. While it provides a step-by-step guide to resolve an error, it lacks any mention of empirical evidence, data-driven decision-making, or a culture of experimentation, which are core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:04:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to the IIS SMTP service and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, strategic alignment, or frameworks like OKRs. The discussion is technical and operational, lacking any connection to the overarching themes of collaboration or accountability within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:04:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to IIS SMTP Service configuration. While it implies a need for competence in troubleshooting and configuring server settings, it does not explicitly discuss continuous learning, skill development, or the broader themes of competence as defined in Agile and DevOps contexts. The discussion lacks depth and does not provide strategies for fostering a culture of competence or inspecting and adapting skills over time.",
     "level": "Ignored"
   }
 }

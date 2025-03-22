@@ -50,15 +50,6 @@
     "reasoning": "Content primarily discusses user understanding and collaboration in software development, without a clear focus on BetaCodex principles or organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:27:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses user understanding and collaboration issues, which are not central to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T12:27:37",
@@ -334,14 +325,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-11T14:21:58",
+    "calculated_at": "2025-03-21T17:23:45",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
     "final_score": 61.0,
-    "reasoning": "The content discusses the importance of data-driven decisions and understanding user needs, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on user insights and collaboration rather than explicitly addressing EBM principles or practices. The discussion on stakeholder engagement and the need for empirical data supports the category, but the overall emphasis is more on software development practices than on EBM itself.",
+    "reasoning": "The content discusses the importance of understanding user needs and making data-driven decisions, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on user feedback and collaboration rather than explicitly addressing the core themes of EBM such as current value metrics or outcome management. The depth of discussion on data-driven decision-making contributes positively, but the overall focus remains more on user insights than on EBM itself.",
     "level": "Secondary"
   },
   "AI and Automation in Agility": {
@@ -1051,11 +1042,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T13:54:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:23:42",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on user understanding and stakeholder collaboration, without discussing Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on understanding user needs and the importance of collaboration in software development, which are not directly related to Continuous Delivery principles. While it touches on aspects of user feedback and strategic planning, it lacks explicit discussions on Continuous Delivery practices, automation, or delivery cycles, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1497,6 +1491,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on understanding user needs and the importance of collaboration in software development. While it touches on strategic planning and data-driven decisions, it does not explicitly discuss the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is more about user insights and stakeholder engagement rather than integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:23:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of understanding user needs and making data-driven decisions, which aligns with the principles of Continuous Improvement. However, it primarily focuses on user insights and collaboration rather than explicitly addressing Continuous Improvement methodologies or frameworks. The depth of discussion on related themes is moderate, but it lacks a direct focus on Continuous Improvement as a primary topic.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:23:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses user understanding and collaboration, which are important for aligning development efforts with user needs. However, it does not explicitly mention Common Goals or their significance in Agile and DevOps frameworks. The focus is more on user feedback and collaboration rather than on shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:23:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of understanding user needs and the role of data-driven decisions, which indirectly relates to competence in delivering quality outcomes. However, it primarily focuses on user insights and collaboration rather than explicitly addressing competence as a foundational principle in Agile or DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:23:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on understanding user needs and collaboration in software development, which does not directly address the principles or components of the One Engineering System. While it touches on collaboration, it lacks specific discussions on integration of tools, processes, or methodologies that are central to 1ES. Therefore, the confidence score reflects a minimal connection to the category.",
     "level": "Ignored"
   }
 }

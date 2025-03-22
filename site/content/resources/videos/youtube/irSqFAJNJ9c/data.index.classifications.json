@@ -646,11 +646,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T06:20:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:30:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum team dynamics and dysfunctions, which are related to Agile practices but do not specifically address Continuous Delivery principles or practices. While it touches on team performance and outcomes, it lacks direct mentions of Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback mechanisms. The focus remains on Scrum rather than the delivery aspect, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -835,11 +838,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T06:20:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:30:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the characteristics of poor and great scrum teams, focusing on team dynamics and dysfunctions rather than empirical evidence or data-driven management practices.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the characteristics of poor Scrum teams and dysfunctional behaviours, which are not directly related to Evidence-Based Management. While there are mentions of outcomes and team dynamics, the focus is on Scrum practices rather than empirical evidence or metrics that inform management decisions. The discussion lacks depth in terms of data-informed decision-making and does not provide specific metrics or analyses that align with the key topics of EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1285,11 +1291,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T06:17:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:30:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on team dynamics and project management rather than DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum teams and their dynamics, which are related to Agile methodologies rather than DevOps principles. While there are mentions of team behaviours and roles, the focus is on Scrum practices and dysfunctions, lacking direct relevance to DevOps concepts such as automation, shared accountability, or continuous delivery. The discussion does not align with the core themes of DevOps, and the depth of exploration into DevOps is minimal.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1478,23 +1487,17 @@
     "reasoning": "Content primarily discusses the dysfunctions of scrum teams and traditional management practices, rather than focusing on the principles of BetaCodex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:37:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum teams and their dynamics, which are not directly related to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:37:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:30:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of Scrum teams and their dynamics, which are relevant to Agile practices, but it primarily focuses on team dysfunctions rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the dynamics of Scrum teams, focusing on dysfunctions and the role of the Product Owner. While it touches on Agile principles, it does not explicitly address the Agile Product Operating Model or its core themes. The discussion is more centred on Scrum practices rather than the broader product-oriented mindset and operational frameworks outlined in the APOM. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1545,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the dynamics of scrum teams and their dysfunctions, without any explicit mention of the Shift-Left Strategy or its principles. While it touches on team performance and collaboration, it does not address integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:30:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the characteristics of poor Scrum teams and the barriers to high performance, which indirectly touches on aspects of Continuous Improvement. However, it primarily focuses on dysfunctions rather than strategies for improvement or empirical evidence supporting Continuous Improvement practices. The mention of Agile principles suggests some alignment, but the depth of discussion on Continuous Improvement itself is limited.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:30:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the dysfunctions of Scrum teams and the impact of poor practices on team performance. While it touches on the importance of team dynamics and ownership, it does not explicitly address the concept of Common Goals or their significance in aligning strategy with execution. The discussion lacks a clear focus on shared objectives or frameworks like OKRs, which are central to the Common Goals category. Therefore, the confidence score reflects a low alignment with the category's core themes.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:30:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the dysfunctions of Scrum teams and the impact of poor practices on team performance. While it touches on the importance of team dynamics and the need for a supportive environment for high performance, it does not explicitly focus on competence as a primary theme. The discussion lacks depth regarding continuous learning, skill development, or strategies for fostering competence, which are crucial for a higher confidence score in this category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:30:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum teams and their dynamics, focusing on dysfunctions and best practices within the Scrum framework. While it touches on themes of team performance and collaboration, it does not explicitly mention or align with the principles of the One Engineering System (1ES). The discussion is centred around Scrum rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

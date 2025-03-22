@@ -23,6 +23,9 @@ headline:
   subtitle: Uncovering user needs and prioritising impactful features for successful product development.
   content: Exploring user insights to shape product features that deliver real value. Posts should delve into techniques for gathering customer feedback, methods for validating ideas, prioritisation frameworks, and strategies for aligning product development with market demands, ensuring a focus on continuous improvement and adaptability.
   updated: 2025-02-13T12:03:23Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

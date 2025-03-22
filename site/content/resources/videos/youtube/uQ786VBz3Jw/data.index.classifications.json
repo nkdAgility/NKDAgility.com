@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T23:20:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:42:35",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Sprint planning and Agile principles, with a focus on Scrum roles and events, rather than DevOps practices.",
+    "final_score": 26.0,
+    "reasoning": "The content primarily focuses on Sprint planning within Agile methodologies, discussing principles such as understanding the product backlog and establishing clear goals. While it briefly mentions DevOps in the context of fostering collaboration, it does not delve into core DevOps principles or practices. The discussion lacks depth regarding DevOps as a philosophy, automation, or shared accountability, which are central to the category. Therefore, the confidence score reflects a low alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -91,11 +94,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:20:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:42:57",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Sprint planning and team dynamics in Agile, without a focus on empirical evidence or Evidence-Based Management principles.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on Sprint planning within Agile methodologies, discussing principles such as understanding the product backlog and establishing clear goals. While it touches on aspects of team collaboration and decision-making, it lacks a direct emphasis on evidence-based practices or metrics that align with Evidence-Based Management. The discussion is more about Agile processes than empirical decision-making or value delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -339,15 +345,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Sprint planning and Agile principles without a focus on release processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:21:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Sprint planning and Agile principles, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -670,11 +667,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:22:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:42:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Sprint planning and Agile principles, with no focus on Continuous Delivery practices or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Sprint planning within the Agile framework, discussing principles related to product backlog and team collaboration. While it touches on aspects of team dynamics and goal setting, it does not explicitly address Continuous Delivery principles, practices, or the role of automation in software delivery. The discussion is more aligned with Agile methodologies rather than Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -766,15 +766,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T23:57:50",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T19:42:51",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses key principles of Sprint planning, which is a component of Agile methodologies. It mentions the importance of understanding the product backlog and establishing a clear product goal, both of which align with the Agile Product Operating Model's focus on product-centric development. However, the discussion is primarily centred on Sprint planning rather than a broader exploration of the Agile Product Operating Model itself, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content primarily focuses on Sprint planning and Scrum practices, which are related to Agile methodologies but do not explicitly address the broader Agile Product Operating Model. While it mentions the importance of understanding the product backlog and establishing a product goal, it lacks a comprehensive discussion on the principles and frameworks of APOM. The depth of discussion is limited to practical tips for Sprint planning rather than exploring the integration of agile methodologies with product management principles.",
+    "level": "Tertiary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1539,6 +1539,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Sprint planning within Agile methodologies, discussing principles such as understanding the product backlog and establishing a clear product goal. While these elements are important in software development, they do not directly address the Shift-Left Strategy, which emphasises early integration of testing, security, and compliance. The discussion lacks explicit mentions of Shift-Left concepts and does not delve into techniques or tools that support this strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:42:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Sprint planning within Agile methodologies, discussing the importance of understanding the product backlog and establishing clear goals. While it touches on collaboration and teamwork, which are relevant to Continuous Improvement, it does not explicitly address the principles of Continuous Improvement or provide strategies for fostering a culture of experimentation and learning. The discussion lacks depth in terms of Continuous Improvement practices and does not present empirical evidence or case studies, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:42:42",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the importance of establishing a clear product goal and understanding the product backlog, both of which are crucial for aligning team efforts with common objectives. It highlights the significance of teamwork and collaboration towards shared goals, which directly relates to the principles of Common Goals in Agile. The depth of discussion is substantial, providing actionable insights and emphasising the need for alignment and strategic direction, thus supporting a high confidence score.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:42:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses key principles of Sprint planning, emphasising the importance of understanding the product backlog and establishing clear goals. While it touches on teamwork and collaboration, which are related to competence, it does not explicitly focus on continuous learning or skill development. The discussion is more about practical tips for effective planning rather than a deep exploration of competence as a foundational principle in Agile methodologies.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:42:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Sprint planning within the Agile framework, discussing principles related to product backlog and team collaboration. While it touches on aspects of teamwork and alignment, it does not explicitly mention or align with the One Engineering System (1ES) framework or its core principles. The discussion is more centred on Agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

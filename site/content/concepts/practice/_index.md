@@ -28,6 +28,9 @@ headline:
   subtitle: Techniques and routines that enhance team performance and drive successful outcomes through effective collaboration and continuous improvement.
   content: A collection of techniques and routines designed to enhance team dynamics and optimise workflow efficiency. Posts should explore methods for visualising work, managing flow, fostering collaboration, and implementing feedback loops, drawing on insights from systems thinking and complexity theory to drive continuous improvement and informed decision-making.
   updated: 2025-03-19T12:17:49Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

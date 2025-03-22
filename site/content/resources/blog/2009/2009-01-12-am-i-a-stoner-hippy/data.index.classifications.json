@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T10:39:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:28:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with dyslexia and learning styles, with no relevance to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses personal experiences related to dyslexia and creativity, with no direct mention of DevOps principles, practices, or cultural shifts. It does not align with the core themes of DevOps, such as collaboration, automation, or shared accountability, and lacks depth in any relevant discussion.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T10:39:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:28:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with dyslexia and learning styles, with no relevance to Agile principles or product development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses personal experiences related to dyslexia and creativity, with no direct mention or alignment to the Agile Product Operating Model. It does not address any principles, practices, or frameworks associated with agile methodologies or product management.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -166,11 +172,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T10:39:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:28:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and reflections on dyslexia, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses personal experiences with dyslexia and creativity, with no direct mention of Evidence-Based Management principles or metrics. While it touches on educational challenges, it does not align with the core themes of EBM, such as data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -236,7 +245,7 @@
     "reasoning": "Content primarily discusses personal experiences with dyslexia and learning styles, without any focus on metrics, data, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T10:39:31",
     "ai_confidence": 0,
@@ -883,11 +892,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:24:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:28:20",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses personal experiences and learning styles related to dyslexia, with no relevance to Continuous Delivery principles or practices.",
+    "reasoning": "The content focuses on personal experiences related to dyslexia and creativity, with no mention or discussion of Continuous Delivery principles, practices, or related topics. It does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1419,6 +1431,42 @@
     "non_ai_confidence": 0,
     "final_score": 2.0,
     "reasoning": "The content discusses personal experiences related to dyslexia and creative thinking, with no relevance to software development processes or the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:28:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences related to dyslexia and creativity, with no explicit discussion of Continuous Improvement principles. While it touches on educational challenges, it does not align with the core themes of Continuous Improvement, such as data-driven decision-making or strategies for enhancing processes. The depth of discussion is minimal regarding the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:28:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences related to dyslexia and creativity, with no explicit discussion of Common Goals, Agile, or DevOps principles. While it touches on educational challenges, it does not connect to shared objectives or strategic alignment within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:28:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses personal experiences with dyslexia and creativity, with minimal direct reference to competence in a professional context. While it touches on learning styles and the challenges faced in traditional education, it does not focus on continuous development or demonstrable capability as defined in the competence category.",
     "level": "Ignored"
   }
 }

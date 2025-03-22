@@ -30,10 +30,10 @@ tags:
 - Decision Making
 - Trend Analysis
 - Value Delivery
+- Continuous Improvement
 - Ability to Innovate
 - Practical Techniques and Tooling
 - Operational Practices
-- Software Development
 categories:
 - Product Management
 - Engineering Excellence

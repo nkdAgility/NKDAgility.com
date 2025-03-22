@@ -661,11 +661,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T20:19:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:41:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Evidence-Based Management and Agile Leadership, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile leadership and Evidence-Based Management, with no direct discussion of Continuous Delivery principles or practices. While it touches on metrics and organisational vision, these topics do not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or deployment strategies.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1267,11 +1270,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T20:16:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:40:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile leadership and Evidence-Based Management, which are not central to DevOps principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile leadership and Evidence-Based Management, which are not central to the DevOps philosophy. While there are elements of collaboration and metrics that could tangentially relate to DevOps, the core principles and practices of DevOps are not discussed. The emphasis is on Agile methodologies rather than the integration of development and operations, which is essential for a strong DevOps classification.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1432,14 +1438,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T02:23:46",
+    "calculated_at": "2025-03-21T20:41:04",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 30,
     "final_score": 77.0,
-    "reasoning": "The content explicitly discusses Evidence-Based Management (EBM) and its application in training and decision-making processes. It highlights the importance of using empirical data to inform management practices and mentions the Evidence-Based Management Guide, which aligns closely with the principles outlined by Schwaber and Sutherland. The depth of discussion is significant, as it covers the need for metrics tailored to unique contexts and the importance of vision and strategic goals in successful organisations. Overall, the content is a strong fit for the category, with a focus on EBM principles and practices.",
+    "reasoning": "The content explicitly discusses Evidence-Based Management (EBM) and its application in leadership training, highlighting the importance of data-informed decision-making. It mentions the Evidence-based Management Guide and the need for tailored metrics, which aligns well with the core themes of EBM. The depth of discussion is significant, as it covers practical evaluations and the necessity of connecting vision and strategic goals to metrics, demonstrating a strong understanding of EBM principles.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -1451,22 +1457,16 @@
     "reasoning": "Content heavily discusses Agile leadership and evidence-based management, with no clear focus on platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:50:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Evidence-Based Management and Agile Leadership training, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:40:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of vision and strategic goals in relation to product success, which aligns with the Agile Product Operating Model. However, it primarily focuses on Evidence-Based Management and training rather than a comprehensive discussion of the Agile Product Operating Model itself.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its application in leadership training, which aligns with the principles of the Agile Product Operating Model. However, the primary focus is on the training programme rather than a comprehensive exploration of the APOM itself. While it touches on the importance of vision and strategic goals, it lacks depth in discussing the broader themes of the Agile Product Operating Model, such as operational stability, governance, and continuous improvement.",
     "level": "Tertiary"
   },
   "Beta Codex": {
@@ -1542,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Evidence-Based Management and Agile Leadership, with no explicit discussion of the Shift-Left Strategy. While it touches on metrics and organisational vision, it does not address integrating testing, security, or compliance earlier in the software development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:40:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses Evidence-Based Management, which aligns with Continuous Improvement principles, particularly in data-driven decision-making and fostering a culture of experimentation. However, it lacks a direct focus on Continuous Improvement as a primary theme, and the depth of discussion on specific Continuous Improvement strategies is limited.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:40:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of having a Vision and Strategic Goal, which aligns with the concept of Common Goals. It highlights the necessity of communicating these goals to employees and connecting their daily work to the overarching objectives. However, the focus is more on the training programme and personal experiences rather than a deep exploration of Common Goals within Agile and DevOps frameworks. Therefore, while there is relevant content, it is not the primary focus.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:40:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of evidence-based management in leadership training, which aligns with the principles of competence in Agile and DevOps. It highlights the need for continuous learning and the development of tailored metrics, indicating a focus on skill enhancement and professional growth. However, while competence is a significant theme, the content primarily promotes a specific training course, which slightly detracts from a deeper exploration of competence as a standalone topic.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:40:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Evidence-Based Management and Agile Leadership training, which are not directly related to the One Engineering System framework. While there are mentions of leadership and metrics, these do not align with the core principles of 1ES, such as standardising and integrating software development practices across teams. The discussion lacks depth on the integration of tools and processes or the impact of 1ES on software quality and delivery timelines.",
     "level": "Ignored"
   }
 }

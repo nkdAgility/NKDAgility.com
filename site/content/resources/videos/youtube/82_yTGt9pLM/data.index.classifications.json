@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T21:59:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:30:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily focuses on Agile Consulting and methodologies, with only a brief mention of DevOps at the end, making it not central to the discussion.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Agile Consulting, discussing methodologies and strategies for organisational improvement rather than the core principles of DevOps. While it briefly mentions DevOps in the conclusion, it does not delve into DevOps-specific practices or cultural shifts. The discussion aligns somewhat with the importance of collaboration and continuous learning, but lacks depth in DevOps concepts such as automation, shared accountability, or feedback loops.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -97,11 +100,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T21:59:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:31:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile Consulting and strategies for organisational improvement without a clear focus on Evidence-Based Management principles or empirical data application.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile Consulting and its various strategies but does not explicitly mention Evidence-Based Management or its key topics. While there is a focus on improving value delivery and understanding current states, the discussion lacks depth in empirical decision-making and specific metrics related to EBM. The content is more about general Agile practices rather than a data-informed approach to management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -351,15 +357,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile Consulting and its strategies, without a clear focus on release management processes or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T22:00:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile Consulting and various methodologies without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -691,11 +688,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T22:01:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Agile Consulting and related methodologies, with no clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T19:31:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile Consulting and its principles, with only a brief mention of continuous learning, which is a peripheral aspect of Continuous Delivery. While it touches on improving team dynamics and fostering feedback loops, it lacks a direct focus on Continuous Delivery practices, automation, or specific strategies for delivering software. The depth of discussion is moderate, but it does not delve into the core themes of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -796,15 +796,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T23:32:47",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "calculated_at": "2025-03-21T19:31:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses Agile Consulting broadly, touching on themes of value delivery and organisational transformation, which are relevant to the Agile Product Operating Model. However, it lacks a direct focus on the specific principles and practices of the Agile Product Operating Model, such as product-centric development and cross-functional teams. The discussion is more about Agile as a mindset and diverse methodologies rather than a deep dive into the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses Agile Consulting broadly, focusing on diverse strategies and organisational transformation rather than specifically addressing the Agile Product Operating Model. While it touches on concepts like value maximisation and continuous learning, it lacks direct references to the core principles of APOM, such as product-oriented mindsets or Evidence-Based Management. The discussion is more about general agile practices and methodologies rather than a focused exploration of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1542,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile Consulting and its principles, focusing on diverse strategies and continuous learning. While it touches on improving processes and fostering collaboration, it does not explicitly mention the Shift-Left Strategy or its core themes such as early integration of testing, security, or compliance in the software development lifecycle. The discussion lacks depth regarding the specific practices or metrics associated with the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:30:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile Consulting and touches on themes of continuous learning and improvement, particularly in the context of engaging with teams and fostering change. However, while it mentions the importance of understanding current states and empowering organisations, it lacks a focused discussion on Continuous Improvement principles, empirical evidence, or specific frameworks. The content is more about Agile methodologies and consulting strategies rather than a deep dive into Continuous Improvement as a primary focus.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:30:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile Consulting and its various strategies but does not explicitly focus on Common Goals. While it touches on themes of collaboration and value maximisation, it lacks a clear connection to shared objectives or alignment within Agile and DevOps frameworks. The discussion is more about personal experiences and methodologies rather than the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:30:54",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of continuous learning and skill development in Agile Consulting, which aligns with the core themes of competence. It mentions workshops aimed at skill acquisition and emphasises the need for organisations to foster a culture of learning and improvement. However, while competence is a significant aspect, the primary focus is more on Agile Consulting strategies rather than a deep exploration of competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:30:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile Consulting and does not explicitly mention the One Engineering System (1ES) or its principles. While it discusses methodologies and practices related to Agile, it lacks a direct connection to the integration and standardisation of engineering processes that 1ES emphasises. The discussion is more about personal experiences and diverse strategies rather than the unified framework of 1ES.",
     "level": "Ignored"
   }
 }

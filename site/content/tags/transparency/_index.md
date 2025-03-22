@@ -25,6 +25,9 @@ headline:
   subtitle: Fostering openness and visibility in processes to enhance trust, accountability, and informed decision-making across teams.
   content: Promoting openness and visibility in processes cultivates trust and accountability, enabling informed decision-making. Posts should explore practices that enhance communication, foster collaboration, and utilise metrics for continuous improvement, drawing insights from frameworks and methodologies that prioritise adaptability and responsiveness in complex environments.
   updated: 2025-02-13T12:01:28Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

@@ -23,6 +23,9 @@ headline:
   subtitle: Explore interconnected systems to navigate complexity, enhance decision-making, and foster lasting organisational transformation.
   content: Explore the dynamics of interconnected systems to unravel complexity, enhance strategic decision-making, and facilitate enduring organisational transformation. Posts should delve into topics such as feedback loops, system behaviour, stakeholder interactions, and the implications of complexity theory on management practices.
   updated: 2025-02-13T11:58:40Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

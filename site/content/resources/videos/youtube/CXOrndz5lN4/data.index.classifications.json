@@ -226,14 +226,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T17:10:27",
-    "ai_confidence": 42.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 30.0,
-    "ai_depth": 20.0,
+    "calculated_at": "2025-03-21T16:54:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the importance of cultivating a culture of engineering excellence and continuous improvement, which aligns with some principles of Evidence-Based Management. However, it lacks explicit references to empirical evidence, metrics, or the specific practices of EBM as outlined by Schwaber and Sutherland. The focus is more on leadership and cultural aspects rather than on data-driven decision-making or the application of empirical evidence in management practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of technical leadership and continuous learning, which are relevant to Evidence-Based Management. However, it lacks explicit references to empirical decision-making or specific metrics that align with the key topics of EBM. While there are mentions of informed decision-making and a culture of excellence, the focus remains more on general principles of leadership and collaboration rather than on data-driven management practices.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -277,11 +277,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T17:18:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses building a culture of engineering excellence without a clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T16:54:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of continuous learning and improvement, which are relevant to Continuous Delivery principles. However, it lacks direct mentions of Continuous Delivery practices, automation, or specific strategies for software delivery. The focus is more on cultivating a culture of engineering excellence rather than on the delivery process itself.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -1427,15 +1430,6 @@
     "reasoning": "Content primarily discusses the role of technical leadership in fostering a culture of engineering excellence, without a clear focus on decentralised, adaptive, or human-centric organisational design principles central to BetaCodex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:00:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of technical leadership and building a culture of engineering excellence, without a clear focus on the principles or components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:39:54",
@@ -1512,6 +1506,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of cultivating a culture of engineering excellence and the role of technical leadership, but it does not explicitly mention the Shift-Left Strategy or its core principles. While there are elements of continuous improvement and collaboration that align with the Shift-Left concept, the focus is more on general leadership and organisational culture rather than on integrating testing, security, and compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:54:46",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of continuous improvement in the context of engineering excellence, highlighting the need for a culture of learning and iterative enhancement. While it does mention continuous improvement explicitly, the primary focus is on technical leadership and engineering practices. The alignment with core themes of Continuous Improvement is present but not dominant, and the depth of discussion, while relevant, does not extensively cover the broader implications or strategies of Continuous Improvement as a standalone topic.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:54:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of establishing clear expectations and fostering continuous learning, which are relevant to aligning team efforts with organisational goals. However, it lacks explicit references to Common Goals as defined in Agile and DevOps frameworks, and the focus is more on technical leadership and culture rather than on shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:54:52",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses the importance of continuous learning and technical leadership in fostering a culture of engineering excellence, which aligns closely with the principles of competence. It highlights the necessity for clear expectations, empirical learning, and a commitment to quality, all of which are core themes of competence. The depth of discussion is significant, providing practical steps and insights into how to cultivate this culture, thus reinforcing the primary focus on competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:54:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses the importance of technical leadership and fostering a culture of engineering excellence, but it does not explicitly mention the One Engineering System (1ES) or its principles. While there are elements of collaboration and continuous improvement that align with the broader themes of 1ES, the focus is primarily on general engineering practices rather than the specific integration and standardisation of processes that 1ES advocates. Therefore, the confidence score reflects a low direct mention and moderate conceptual alignment with the category.",
     "level": "Ignored"
   }
 }

@@ -235,11 +235,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T15:13:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:47:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses automation in product development and deployment processes, without a focus on evidence-based management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses automation in software development, focusing on efficiency and error reduction. While it touches on the importance of data-driven processes, it does not explicitly mention Evidence-Based Management or its key topics. The discussion lacks depth in terms of empirical decision-making and value delivery metrics, which are central to EBM.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -280,14 +283,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-11T09:47:24",
-    "ai_confidence": 82.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
+    "calculated_at": "2025-03-21T16:47:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
-    "reasoning": "The content extensively discusses the role of automation in software development, particularly in relation to deployment and testing, which are core aspects of Continuous Delivery. It highlights the importance of automated processes to ensure reliability and speed in delivering software changes, aligning well with the principles of Continuous Delivery. The examples provided, such as Azure DevOps and Facebook's deployment strategies, illustrate real-world applications of these concepts. However, while the focus is strong, it does not explicitly mention Continuous Delivery as a term, which slightly lowers the direct mention score.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on automation in software development, which is a crucial aspect of Continuous Delivery. It discusses automated deployments, the reduction of human error, and the importance of building quality into processes, all of which align with Continuous Delivery principles. However, while it touches on these themes, it does not explicitly frame the discussion within the broader context of Continuous Delivery practices or principles, which slightly lowers the confidence score. The depth of discussion is substantial, providing real-world examples and cautionary tales that illustrate the importance of automation in the delivery process.",
     "level": "Secondary"
   },
   "Working Agreements": {
@@ -1475,15 +1478,6 @@
     "reasoning": "Content primarily discusses automation in software development and its benefits, without a clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T11:57:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses automation in software development without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:37:21",
@@ -1557,6 +1551,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses automation in software development, highlighting its importance for efficiency and error reduction. However, it does not explicitly mention the Shift-Left Strategy or integrate testing, security, and compliance early in the development process. While there are elements that align with the concept of building quality into processes, the primary focus remains on automation rather than a comprehensive Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:47:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on automation in software development, discussing its benefits and real-world implications. While it touches on themes of efficiency and error reduction, which can relate to Continuous Improvement, it does not explicitly discuss Continuous Improvement principles or practices. The mention of building quality into processes aligns somewhat with Continuous Improvement, but the overall focus is more on automation rather than a systematic approach to ongoing enhancement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:47:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the importance of automation in software development, discussing its benefits and real-world implications. While it touches on themes relevant to Agile and DevOps, such as efficiency and error reduction, it does not explicitly address Common Goals or their significance in aligning team efforts with strategic objectives. The discussion lacks depth in connecting automation to shared objectives or frameworks like OKRs, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:47:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses automation in software development, highlighting its importance for efficiency and error reduction. However, it does not explicitly address competence as a primary focus. While it touches on the need for teams to develop capabilities through automation, it lacks a detailed exploration of continuous learning, skill development, or the professional standards associated with competence. The discussion is more centred on the benefits of automation rather than the underlying principles of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:47:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of automation in software development, discussing its benefits and real-world implications. While automation can be a component of a unified engineering system, the content does not explicitly mention the One Engineering System framework, its principles, or its integration with tools and processes across teams. The discussion lacks depth regarding 1ES and does not address its core themes, such as standardisation or best practices for implementation.",
     "level": "Ignored"
   }
 }

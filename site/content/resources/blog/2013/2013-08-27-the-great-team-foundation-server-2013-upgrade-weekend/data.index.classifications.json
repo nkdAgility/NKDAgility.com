@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T17:53:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:37:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Team Foundation Server 2013 Upgrade Weekend and does not focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting an event related to upgrading Team Foundation Server 2013, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks any mention of data-informed decision-making or the key topics outlined in the EBM category, such as current value or empirical decision-making.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,14 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T04:52:33",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
+    "calculated_at": "2025-03-22T07:36:54",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses the Team Foundation Server (TFS) 2013 Upgrade Weekend, which is related to software deployment and support. However, it primarily focuses on the event and promotional aspects rather than the core principles of DevOps such as CI/CD, automation, or cultural shifts. While there are mentions of installation and configuration support, the discussion lacks depth in DevOps practices and does not explore the integration of people, processes, and tools in a meaningful way.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on promoting an event related to upgrading Team Foundation Server 2013, which is a tool rather than a discussion on DevOps principles. While it mentions support and configuration, it lacks a direct discussion of DevOps philosophies, practices, or cultural shifts. The alignment with DevOps is minimal, as it does not address key topics such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,7 +332,7 @@
     "reasoning": "Content primarily discusses the Team Foundation Server 2013 Upgrade Weekend and related support services, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T17:53:59",
     "ai_confidence": 0,
@@ -340,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T17:54:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:37:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the Team Foundation Server 2013 Upgrade Weekend and does not focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting an event related to upgrading Team Foundation Server 2013, with no explicit discussion of the Agile Product Operating Model or its principles. While it mentions a product team and engineering resources, it does not delve into the core themes of APOM such as product-oriented mindset, continuous delivery, or agile processes. The content lacks depth and relevance to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,11 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:06:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:37:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an upgrade event for Team Foundation Server and does not focus on principles or practices of Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting an event related to upgrading Team Foundation Server 2013, with no explicit discussion of Continuous Delivery principles or practices. While it mentions support for upgrades, it does not delve into automation, incremental improvements, or the cultural aspects of Continuous Delivery. The overall emphasis is on event promotion rather than the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1470,6 +1479,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses an event related to upgrading Team Foundation Server 2013 and does not explicitly mention the Shift-Left Strategy or its principles. While it touches on support and resources for software installation and upgrades, it lacks a focus on integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:36:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting an event for upgrading Team Foundation Server 2013, with minimal discussion on Continuous Improvement principles. While it mentions support and resources for a smoother transition, it lacks a detailed exploration of Continuous Improvement concepts, empirical evidence, or strategies for fostering a culture of experimentation and learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:37:00",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on promoting an event related to upgrading Team Foundation Server 2013, with minimal discussion on the concept of Common Goals. While it mentions the commitment of engineering resources, it does not delve into how this aligns with broader strategic objectives or the principles of Agile and DevOps. The content lacks depth and does not explore the significance of shared objectives or team alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:37:02",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on promoting an event for upgrading Team Foundation Server 2013, with minimal discussion on competence or skill development. While it mentions expert support, it does not delve into the importance of continuous learning or the role of competence in delivering quality outcomes, which are key themes of the category.",
     "level": "Ignored"
   }
 }

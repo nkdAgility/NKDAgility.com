@@ -23,6 +23,9 @@ headline:
   subtitle: Enhancing software delivery speed to improve feedback and maximise value through effective deployment strategies.
   content: Optimising the frequency of software releases to foster rapid feedback and enhance value delivery. Posts should explore strategies for minimising cycle times, improving release planning, and utilising metrics to inform decision-making, while addressing the complexities of team dynamics and system interactions.
   updated: 2025-02-13T12:05:00Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

@@ -223,11 +223,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T10:00:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:07:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of a Product Backlog, which is not directly related to Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the concept of a Product Backlog, which is a component of Agile project management. It does not explicitly discuss Evidence-Based Management or its key topics, such as empirical decision-making or metrics related to current value, time to market, or ability to innovate. The discussion is too general and lacks depth in relation to evidence-based practices.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -268,11 +271,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-13T10:00:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:07:37",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of a Product Backlog, which is not related to Continuous Delivery principles or practices.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on the concept of a Product Backlog, which is a component of Agile project management rather than Continuous Delivery. There are no direct mentions of Continuous Delivery principles, and the discussion does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or delivery practices. The depth of discussion is minimal, as it only introduces the concept without exploring its relevance to Continuous Delivery.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -1361,15 +1367,6 @@
     "reasoning": "Content primarily discusses the concept of a Product Backlog, which is not directly related to the principles or practices of BetaCodex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:10:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of a Product Backlog, which is not central to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:45:14",
@@ -1443,6 +1440,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content focuses solely on defining a Product Backlog and its items, which does not relate to the Shift-Left Strategy. There are no direct mentions or discussions of integrating testing, security, or compliance earlier in the software development lifecycle, nor does it address any principles or benefits associated with the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:07:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the concept of a Product Backlog, which is a component of Agile project management, but does not explicitly discuss Continuous Improvement principles or practices. There are no direct mentions of continuous improvement techniques, empirical evidence, or strategies for fostering a culture of experimentation. The alignment with the core themes of Continuous Improvement is minimal, and the depth of discussion is very limited, focusing only on defining the Product Backlog without exploring its role in continuous improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:07:22",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the concept of a Product Backlog, which is a specific tool within Agile project management. While it may indirectly relate to Common Goals by facilitating alignment through backlog items, it does not explicitly discuss shared objectives or the foundational principles of aligning strategy with execution. The discussion lacks depth and does not address the broader implications of Common Goals in Agile or DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:07:33",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the concept of a Product Backlog, which is a tool in Agile project management. While it may indirectly relate to competence through effective project management practices, it does not explicitly discuss competence, continuous learning, or skill development. The mention of key components for effective project management is too vague to establish a strong connection to the core themes of competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:07:34",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the concept of a Product Backlog, which is a component of agile development rather than the One Engineering System. There are no direct mentions of 1ES, and the discussion does not align with the core themes of integration and standardisation of engineering processes. The depth of discussion is also minimal, as it only introduces the concept without exploring its relation to 1ES.",
     "level": "Ignored"
   }
 }

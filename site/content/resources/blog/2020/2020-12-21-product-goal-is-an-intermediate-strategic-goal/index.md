@@ -28,13 +28,13 @@ tags:
 - Experimentation
 - Discovery and Learning
 - Evidence Based Leadership
+- Evidence Based Management
 - Value Delivery
 - Agile Strategy
 - Business Agility
 - Decision Making
+- Continuous Improvement
 - Organisational Agility
-- Hypothesis Driven Development
-- Pragmatic Thinking
 categories:
 - Product Management
 - Leadership

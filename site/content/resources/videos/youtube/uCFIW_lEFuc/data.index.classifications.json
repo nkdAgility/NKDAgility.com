@@ -25,14 +25,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-14T21:26:37",
+    "calculated_at": "2025-03-21T18:35:43",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
     "final_score": 32.0,
-    "reasoning": "The content primarily discusses Agile principles and practices, particularly focusing on the concept of sloth within Agile teams. While it touches on aspects that could relate to DevOps, such as the importance of feedback loops and the need for teams to be empowered to adapt their processes, it does not explicitly address DevOps principles, practices, or tools. The discussion is more centred on Agile methodologies and their implementation challenges, which are not strictly within the DevOps category. Therefore, the confidence score reflects a low alignment with the core themes of DevOps.",
+    "reasoning": "The content primarily discusses Agile practices and the signs of sloth within Agile teams, which is not directly aligned with the core principles of DevOps. While there are brief mentions of collaboration and feedback loops, the focus remains on Agile methodologies rather than the broader DevOps philosophy. The depth of discussion on DevOps concepts is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -106,14 +106,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T21:27:25",
+    "calculated_at": "2025-03-21T18:36:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content discusses Agile practices and identifies signs of sloth within Agile teams, but it does not explicitly mention Evidence-Based Management or its principles. While it touches on the importance of user feedback and adapting processes, it lacks a focus on empirical evidence and data-driven decision-making, which are central to EBM. The discussion is more about Agile practices than about EBM itself.",
+    "reasoning": "The content primarily discusses Agile practices and the signs of sloth within Agile teams, without a direct focus on Evidence-Based Management principles. While it touches on the importance of delivering value and engaging with user feedback, it lacks a strong emphasis on empirical decision-making or the specific metrics outlined in the EBM framework. The discussion is more about Agile methodology than evidence-based practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -360,15 +360,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily focuses on Agile processes, team dynamics, and user feedback without a clear emphasis on release management practices or strategies.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Agile practices and challenges, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -712,11 +703,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:35:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses Agile principles and the importance of delivering working software in Agile contexts. It criticizes common pitfalls in Agile adoption and does not focus on Continuous Delivery practices or methodologies.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile practices and the signs of sloth within Agile teams, rather than focusing specifically on Continuous Delivery. While it touches on the importance of delivering working software and engaging with user feedback, which are relevant to Continuous Delivery, these points are secondary to the broader Agile context. The depth of discussion on Continuous Delivery principles is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -814,12 +808,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 70,
-    "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content discusses Agile practices and principles in detail, focusing on how teams can enhance value delivery and avoid pitfalls in Agile implementation, which are key aspects of the Agile Product Operating Model. However, the content primarily critiques common failures rather than offering a comprehensive exploration of the Agile Product Operating Model itself.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-21T18:35:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses Agile practices and identifies signs of sloth within Agile teams, but it does not explicitly focus on the Agile Product Operating Model or its principles. While it touches on aspects like delivering working software and engaging with user feedback, it lacks a comprehensive exploration of the product-oriented mindset and governance aspects central to the APOM. The discussion is more about general Agile practices rather than the specific integration of product management principles with Agile methodologies.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1557,6 +1554,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile practices and the signs of sloth within Agile teams, without any direct mention or focus on the Shift-Left Strategy. While it touches on aspects of feedback loops and delivery, it does not delve into integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:35:46",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses signs of sloth in Agile practices, which indirectly relates to Continuous Improvement by highlighting the need for teams to adapt and reflect on their processes. However, it primarily focuses on identifying issues rather than providing a comprehensive discussion on Continuous Improvement principles or strategies. The mention of empowering teams and adapting processes aligns with Continuous Improvement, but the overall depth and focus on the category are limited.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:35:48",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the concept of sloth in Agile practices, highlighting the importance of delivering working software and engaging with user feedback. However, while it touches on the need for a product charter and strategic goals, it does not explicitly define or deeply explore the concept of Common Goals as a primary focus. The discussion is more about identifying issues in Agile practices rather than aligning strategy with execution or fostering collaboration towards shared objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:35:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the signs of sloth in Agile practices, which indirectly relates to competence by highlighting the importance of delivering quality outcomes and maintaining trust within teams. However, while it touches on the need for teams to be empowered and adapt based on feedback, it does not explicitly focus on continuous learning or skill development, which are core themes of competence. The depth of discussion is significant, providing detailed examples of sloth, but it lacks a direct emphasis on competence as a primary focus.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:35:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile practices and the concept of sloth within Agile teams, without any direct mention or focus on the One Engineering System (1ES). While it touches on themes of efficiency and team empowerment, it does not align with the core principles of 1ES, such as standardisation and integration of software development practices across teams. The discussion is more about Agile methodology rather than the integration of tools and processes that 1ES advocates.",
     "level": "Ignored"
   }
 }

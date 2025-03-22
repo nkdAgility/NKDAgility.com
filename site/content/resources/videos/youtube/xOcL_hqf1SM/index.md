@@ -30,6 +30,7 @@ tags:
 - Coaching
 - Agile Transformation
 - Software Development
+- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

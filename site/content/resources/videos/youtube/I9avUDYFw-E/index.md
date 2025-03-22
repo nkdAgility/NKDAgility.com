@@ -30,7 +30,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Competence
 - People and Process
+- Continuous Improvement
 - Discovery and Learning
 - Continuous Learning
 - Employee Engagement

@@ -25,6 +25,9 @@ headline:
   subtitle: Strategies for delivering consistent value through iterative processes and informed decision-making for enhanced customer satisfaction.
   content: Approaches for delivering consistent value through iterative processes, informed decision-making, and continuous improvement. Posts should explore topics such as customer feedback integration, prioritisation techniques, flow optimisation, performance measurement, and adapting to changing requirements, all aimed at enhancing customer satisfaction and organisational effectiveness.
   updated: 2025-02-13T11:58:32Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

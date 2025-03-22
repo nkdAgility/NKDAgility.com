@@ -167,15 +167,6 @@
     "reasoning": "Content primarily discusses the role of Scrum Masters in driving team success without personal reflections or anecdotes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-20T19:53:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Lean": {
     "category": "Lean",
     "calculated_at": "2025-02-20T19:53:07",
@@ -784,12 +775,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-20T19:53:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T16:44:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of engaging real users and validating assumptions, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on product development rather than explicitly addressing EBM concepts like current value or empirical decision-making. The depth of discussion on user feedback and value creation is significant, but it lacks a direct connection to the broader EBM framework.",
+    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -1192,11 +1186,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-20T19:53:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:44:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the importance of user feedback in product development, which is a crucial aspect of validating assumptions and iterating based on user input. However, it does not explicitly discuss Continuous Delivery principles, such as automation, deployment practices, or the cultural aspects of Continuous Delivery. While it touches on the iterative process and the need for rapid feedback, it lacks depth in discussing Continuous Delivery as a disciplined practice. Therefore, the confidence score reflects a moderate alignment with the category, but it is not a primary focus.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of engaging with real users early in the product development process, which aligns with the Shift-Left Strategy's principle of integrating feedback sooner. However, it primarily focuses on user feedback and market validation rather than explicitly addressing testing, security, or compliance aspects of the Shift-Left Strategy. The depth of discussion on early user engagement is notable, but it lacks a comprehensive exploration of the Shift-Left concept itself.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:44:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of user feedback and iterative development, which aligns with Continuous Improvement principles. However, it lacks explicit references to Continuous Improvement frameworks or methodologies, and the focus is more on product development rather than a broader organisational approach to Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:44:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the importance of user feedback in product development, which is not directly aligned with the concept of Common Goals in Agile and DevOps. While it touches on the need for understanding user needs and validating assumptions, it lacks explicit discussions on shared objectives, strategic alignment, or frameworks like OKRs. The emphasis is more on individual product development practices rather than collective goals within a team or organisation.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:44:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of engaging real users and validating assumptions in product development, which indirectly relates to competence through the lens of understanding user needs and market dynamics. However, it lacks a direct focus on continuous learning, skill development, or the professional principles of competence as outlined in the category definition.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:44:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on product development and user feedback, with no direct mention of the One Engineering System or its principles. While it touches on aspects of validating ideas and engaging users, it does not align with the core themes of 1ES, such as integration of tools or standardisation of processes. The discussion lacks depth regarding the framework itself, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

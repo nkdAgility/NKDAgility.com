@@ -628,11 +628,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T08:43:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:56:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational culture and transformation, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile transformations and cultural change, with minimal direct reference to Continuous Delivery principles. While it touches on system changes that could indirectly relate to software delivery, it lacks a focused discussion on Continuous Delivery practices, automation, or rapid feedback mechanisms that are central to the category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -799,11 +802,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T08:44:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of organisational culture and systems rather than empirical evidence or data-driven decision-making.",
+    "calculated_at": "2025-03-21T17:56:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of focusing on systems rather than culture in organisational change, which aligns with the concept of empirical decision-making. However, it lacks direct references to evidence-based management metrics or frameworks, and the primary focus is on cultural transformation rather than data-informed practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1228,11 +1234,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T08:41:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:56:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses cultural transformation and organisational systems without a clear focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile transformations and cultural change rather than DevOps principles. While it touches on concepts like systems thinking and collaboration, it lacks direct references to DevOps practices, automation, or shared accountability, which are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1405,11 +1414,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:18:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of organisational culture and systems rather than focusing on the Agile Product Operating Model or its principles.",
+    "calculated_at": "2025-03-21T17:56:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile transformations and the importance of focusing on systems rather than culture, which is somewhat related to Agile principles. However, it does not explicitly mention the Agile Product Operating Model or its key topics, such as product management practices or continuous delivery. The primary focus is on cultural transformation rather than the product-oriented mindset central to APOM.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1435,15 +1447,6 @@
     "final_score": 60.0,
     "reasoning": "The content discusses the importance of focusing on the system rather than culture in Agile transformations, which aligns with the principles of self-organisation and decision-making. However, while it touches on collaboration and decision-making frameworks, it lacks a direct focus on social technologies as a primary theme, leading to a moderate confidence score.",
     "level": "Tertiary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of organisational culture and transformation, without a clear focus on the principles or components of the One Engineering System framework.",
-    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1485,6 +1488,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the importance of focusing on the system rather than culture in organisational transformations, which does not directly relate to the Shift-Left Strategy. While there are mentions of processes and frameworks, they do not specifically address early integration of testing, security, or compliance in software development, which is central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:56:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of focusing on the system rather than culture in organisational change, which aligns with Continuous Improvement principles. It mentions the need for incremental changes and monitoring outcomes, reflecting a commitment to ongoing enhancement. However, the primary focus is on cultural transformation rather than Continuous Improvement itself, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:56:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of focusing on the system rather than culture in Agile transformations, which indirectly relates to aligning strategies with execution. However, it primarily centres on cultural transformation and systemic changes rather than explicitly addressing Common Goals within Agile and DevOps frameworks. The mention of metrics and decision-making structures hints at alignment but lacks depth in discussing shared objectives or frameworks like OKRs.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:56:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of focusing on systems rather than culture in Agile transformations, which indirectly relates to competence through the need for effective processes and decision-making frameworks. However, it does not explicitly address continuous learning, skill development, or the role of competence in delivering quality outcomes, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:56:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses the importance of focusing on the system rather than culture in organisational change, which aligns with some principles of standardising processes. However, it primarily centres on Agile transformations and cultural aspects, lacking a direct focus on the One Engineering System framework or its specific components. The discussion is more about general organisational behaviour than the integration and standardisation of engineering practices.",
     "level": "Ignored"
   }
 }

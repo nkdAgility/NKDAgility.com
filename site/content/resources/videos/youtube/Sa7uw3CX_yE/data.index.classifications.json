@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T10:59:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:51:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile methodologies and critiques of traditional management practices, with no clear focus on DevOps principles or practices.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses agile practices and the challenges organisations face in genuinely adopting agility. While it touches on concepts like transparency and feedback loops, which are relevant to DevOps, the primary focus is on agile methodologies rather than the broader DevOps philosophy. The discussion lacks depth in terms of DevOps-specific principles such as shared accountability, automation, and cultural shifts necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -238,11 +241,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:14:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile methodologies and organizational theories, rather than Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T20:51:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses agile practices and the challenges organisations face in genuinely adopting agility. While it touches on concepts like feedback loops and transparency, which are relevant to Continuous Delivery, it does not explicitly focus on Continuous Delivery principles or practices. The discussion lacks depth in terms of Continuous Delivery specifics, such as automation in testing and deployment, or strategies for delivering incremental improvements.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -369,15 +375,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Taylorism and agile lies, which are unrelated to Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:14:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Taylorism and agile practices, which are unrelated to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1129,11 +1126,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:14:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Taylorism and agile misconceptions without focusing on the Agile Product Operating Model or its key principles.",
+    "calculated_at": "2025-03-21T20:51:23",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses agile practices and the challenges organisations face in genuinely adopting agility. While it touches on themes like transparency, feedback, and collaboration, it does not explicitly mention the Agile Product Operating Model or its principles. The focus is more on critiquing the superficial adoption of agile rather than providing a detailed exploration of the APOM framework. Therefore, while there is some alignment with the category, it lacks depth and direct relevance to the specific principles of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1336,11 +1336,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:14:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content title suggests a critique of Taylorism and a discussion on Agile principles, but does not focus on Evidence-Based Management as a primary theme. There is insufficient evidence in the content provided to classify it under EBM.",
+    "calculated_at": "2025-03-21T20:51:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses agility and the challenges organisations face in genuinely implementing agile practices. While it touches on the importance of transparency and feedback, it does not explicitly mention Evidence-Based Management or its key topics. The focus is more on the critique of agile practices rather than on empirical evidence or data-informed decision-making, which are central to EBM. Therefore, while there are relevant themes, the primary focus is not on Evidence-Based Management.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1410,6 +1413,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the concept of agility and critiques the superficial adoption of agile practices, without explicitly addressing the Shift-Left Strategy or its principles. While it touches on themes of transparency and feedback loops, which are relevant to agile methodologies, it does not delve into integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:51:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of transparency, feedback loops, and a focus on outcomes, which are key aspects of Continuous Improvement. It highlights the need for regular retrospectives and adapting processes based on feedback, aligning well with the principles of Continuous Improvement. However, while these elements are present, the primary focus is on critiquing the concept of agility rather than a deep exploration of Continuous Improvement itself, leading to a moderately high confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:51:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of aligning agile practices with strategic goals, particularly through the lens of transparency and feedback. However, while it touches on the significance of aligning team efforts with broader objectives, it does not delve deeply into the concept of Common Goals as defined in the category. The focus is more on critiquing the superficial adoption of agile practices rather than providing a thorough exploration of how Common Goals can enhance collaboration and accountability within teams.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:51:16",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of genuine agility and the need for continuous improvement, which aligns with the principles of competence. However, it primarily focuses on the critique of agile practices and the influence of Taylorism rather than directly addressing competence as a foundational principle. The mention of fostering transparency and feedback loops contributes to the discussion of competence, but it is not the primary focus of the content.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:51:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses agile practices and critiques the concept of true agility versus superficial adherence. While it touches on themes of collaboration and transparency, it does not explicitly mention or align with the principles of the One Engineering System framework. The focus is on agile methodologies rather than the integration and standardisation of engineering processes, which is central to 1ES.",
     "level": "Ignored"
   }
 }

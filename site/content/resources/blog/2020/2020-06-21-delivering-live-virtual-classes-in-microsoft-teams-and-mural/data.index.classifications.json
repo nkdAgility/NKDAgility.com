@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T08:56:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:54:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of Microsoft Teams and Mural for delivering Scrum training, with a focus on creating safe learning environments and facilitating self-organizing teams, rather than emphasizing Evidence-Based Management principles or empirical data-driven decision-making.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on delivering virtual classes using Microsoft Teams and Mural, with an emphasis on Scrum training. While it touches on concepts like self-organising teams and creating a safe space for collaboration, it lacks a direct discussion on Evidence-Based Management principles or metrics. The content does not provide empirical evidence or data-informed decision-making practices, which are central to EBM. Therefore, it only marginally aligns with the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,11 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T08:56:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:54:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on facilitating training classes rather than on DevOps principles, practices, and automation.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on delivering virtual classes using Microsoft Teams and Mural, with a strong emphasis on Scrum training rather than DevOps principles. While it touches on collaboration and self-organising teams, which are relevant to DevOps, the overall discussion is more aligned with Agile methodologies and training practices rather than the core principles of DevOps such as automation, shared accountability, and continuous value delivery.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -335,23 +341,17 @@
     "reasoning": "Content primarily focuses on delivering virtual Scrum training sessions, emphasizing technology and facilitation methods without discussing Systems Thinking principles or techniques.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T08:56:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content predominantly focuses on software training tools like Microsoft Teams and Mural, emphasizing training practices and interaction methods, but does not primarily discuss the One Engineering System framework or its principles, components, or implementation.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:54:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content primarily discusses the delivery of Scrum training and the use of Microsoft Teams and Mural, which are tools used in Agile methodologies; however, it does not focus specifically on the Agile Product Operating Model as a framework for product-centric development.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on delivering virtual classes using Microsoft Teams and Mural, with a strong emphasis on Scrum training. While it touches on some agile principles, such as self-organising teams and fostering a safe space for collaboration, it does not explicitly discuss the Agile Product Operating Model or its core principles. The discussion is more about the tools and methods for training rather than the broader framework of APOM, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -421,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T08:56:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:54:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on delivering virtual Scrum classes using Microsoft Teams and Mural, without discussing Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on delivering virtual classes using Microsoft Teams and Mural, with an emphasis on Scrum training. While it touches on aspects of team collaboration and self-organisation, it does not explicitly discuss Continuous Delivery principles, practices, or automation in testing and deployment. The discussion is more aligned with training methodologies rather than the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1533,6 +1536,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the use of Microsoft Teams and Mural for delivering Scrum training, focusing on creating a safe and collaborative environment for learning. While it touches on concepts like self-organisation and team dynamics, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is more aligned with training methodologies rather than integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:54:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the use of Microsoft Teams and Mural for delivering Scrum training, focusing on creating a safe space and facilitating self-organising teams. While it touches on aspects of team effectiveness and the importance of preparation (like tech checks), it lacks a strong emphasis on Continuous Improvement principles such as empirical evidence, data-driven decision-making, or systematic strategies for integrating Continuous Improvement into processes. The discussion is more about practical training methods rather than a commitment to ongoing improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:54:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the facilitation of Scrum training and the importance of creating a safe space for collaboration, which aligns with the concept of Common Goals. However, it primarily focuses on practical tools and techniques for delivering training rather than explicitly addressing shared objectives or strategic alignment within Agile and DevOps frameworks. The mention of Scrum values and self-organising teams contributes to the alignment, but the overall depth of discussion on Common Goals is limited.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:54:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 28,
+    "ai_depth": 31,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of creating a safe space for learning and self-organising teams, which aligns with the principles of competence in Agile methodologies. It mentions strategies for fostering competence through the use of technology and structured environments, but the primary focus is more on the tools and processes rather than on continuous skill development or professional growth. While competence is a recurring theme, it is not the central focus of the content.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:54:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on delivering virtual classes using Microsoft Teams and Mural, with a strong emphasis on Scrum training. While it touches on concepts like self-organising teams and collaboration, it does not explicitly discuss the One Engineering System framework or its principles. The discussion is more about practical training methods rather than the integration and standardisation of engineering processes, which is the core of the 1ES category.",
     "level": "Ignored"
   }
 }

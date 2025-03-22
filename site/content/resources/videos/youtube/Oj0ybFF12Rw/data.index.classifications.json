@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T17:14:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:43:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum and its scaling, which is not aligned with DevOps principles. While there are mentions of value delivery, the focus is on Agile methodologies rather than the integration of people, processes, and technology characteristic of DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -91,11 +94,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:36:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:44:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and scaling methods rather than focusing on Evidence-Based Management principles or empirical approaches.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the scaling of Scrum and the debate surrounding it, without any direct reference to Evidence-Based Management principles or metrics. While it touches on value delivery, it does not provide empirical evidence or data-informed decision-making insights that are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -339,15 +345,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum concepts and scaling, but does not address release management processes or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:36:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -661,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:36:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T18:44:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum and its scaling, which is not directly related to Continuous Delivery. While there are mentions of delivering value and adapting, these concepts are framed within the context of Scrum rather than Continuous Delivery practices. The focus is on Agile methodologies rather than the principles and practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -754,11 +754,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:36:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:44:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are focused on the Scrum framework rather than the broader Agile Product Operating Model.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the scaling of Scrum, which is a specific agile framework, rather than the broader Agile Product Operating Model. While it touches on agile principles and the concept of delivering value, it does not delve into product management practices or the core themes of the Agile Product Operating Model. The focus is more on Scrum's scalability rather than transitioning to a product-oriented mindset or integrating agile methodologies with product management.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1491,6 +1494,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the scaling of Scrum and does not mention or align with the Shift-Left Strategy. It focuses on Scrum principles and practices rather than integrating testing, security, or compliance earlier in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:43:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the scaling of Scrum and the misconceptions surrounding it, rather than focusing on Continuous Improvement principles. While it touches on adaptation and learning, which are relevant to Continuous Improvement, the main emphasis is on the debate about scaling Scrum, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:43:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the scaling of Scrum and critiques the notion of not scaling it. While it touches on Agile principles, it does not explicitly address Common Goals or their significance in aligning strategy with execution. The focus is more on the mechanics of Scrum and its scalability rather than on shared objectives or alignment within teams, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:44:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the scaling of Scrum, which indirectly touches on competence through the need for understanding and adapting frameworks. However, it primarily focuses on the debate around scaling rather than on continuous learning or skill development, which are core to the competence category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:44:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum and its scaling, particularly through the Nexus framework, which is not directly related to the One Engineering System. While it touches on concepts of scaling and methodologies, it does not address the core principles or components of 1ES, nor does it provide insights into integration across teams or best practices for implementing a unified engineering system.",
     "level": "Ignored"
   }
 }

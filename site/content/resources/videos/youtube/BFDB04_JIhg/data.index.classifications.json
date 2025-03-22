@@ -40,11 +40,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T13:10:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:33:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban as a tool for transparency and continuous improvement, without a clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Kanban as a tool for process improvement and mentions metrics, but it primarily focuses on the tool itself rather than on evidence-based management principles. While it touches on metrics and continuous improvement, it lacks a strong emphasis on empirical decision-making or the broader themes of Evidence-Based Management.",
     "level": "Ignored"
   },
   "Personal": {
@@ -322,20 +325,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:10:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban as a tool for transparency and continuous improvement, without a clear focus on the Agile Product Operating Model or its principles.",
+    "calculated_at": "2025-03-21T17:33:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Kanban as a tool for process improvement rather than discussing the Agile Product Operating Model. While it touches on agile principles, it does not delve into product management practices or the core themes of APOM, such as transitioning to a product ethos or integrating Scrum with product management.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T13:10:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:33:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban as a tool for transparency and continuous improvement, which is not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban as a tool for process improvement within Agile frameworks, without explicitly discussing DevOps principles or practices. While it touches on continuous improvement, it does not align with the core themes of DevOps, such as collaboration between development and operations, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -361,15 +370,6 @@
     "final_score": 80.0,
     "reasoning": "The content extensively discusses Kanban as a tool for visualising workflows and improving flow efficiency. It directly mentions key concepts such as cycle time, throughput, and work-in-progress (WIP) limits, which are crucial for optimising throughput. The depth of discussion includes practical tips and real-world examples that illustrate the impact of Kanban on identifying and eliminating bottlenecks, aligning well with the principles of Flow Efficiency. Overall, the content is highly relevant and focused on the optimisation of work throughput.",
     "level": "Secondary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:10:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban as a tool for transparency and continuous improvement, which is not directly related to the principles or components of the One Engineering System framework.",
-    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1054,11 +1054,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T13:56:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:33:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Kanban as a process and tool for transparency and improvement, which is not directly related to Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Kanban as a tool for process improvement within Agile frameworks, rather than discussing Continuous Delivery principles or practices. While it touches on continuous improvement, it does not delve into the specific aspects of Continuous Delivery such as automation, rapid feedback, or deployment strategies.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1491,6 +1494,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Kanban as a tool for process improvement and transparency in Agile environments, without any direct mention or focus on the Shift-Left Strategy. While it touches on continuous improvement, it does not address integrating testing, security, or compliance earlier in the development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:33:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses Kanban as a tool for continuous improvement, highlighting its role in visualising workflows, tracking metrics, and fostering a culture of ongoing enhancement. It provides detailed insights into how Kanban can be implemented to drive continuous improvement, aligning closely with the core themes of the category. The depth of discussion is significant, with practical tips and personal experiences that reinforce the importance of continuous improvement in Agile practices.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:33:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Kanban as a tool for process improvement and does not explicitly discuss Common Goals or their significance in Agile and DevOps. While it touches on aspects of team collaboration and continuous improvement, it lacks a direct connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:33:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Kanban as a tool for transparency and continuous improvement, which indirectly relates to competence through the emphasis on continuous improvement and metrics. However, it lacks a direct focus on the development of skills or capabilities, making competence a secondary theme rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:33:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Kanban as a tool for process improvement within Agile frameworks, without any direct mention or discussion of the One Engineering System (1ES). While it touches on themes of transparency and continuous improvement, which are relevant to engineering practices, it does not align with the core principles of 1ES, such as integration of tools across teams or standardisation of processes. The discussion remains centred on Kanban, making it a secondary topic rather than a primary focus on 1ES.",
     "level": "Ignored"
   }
 }

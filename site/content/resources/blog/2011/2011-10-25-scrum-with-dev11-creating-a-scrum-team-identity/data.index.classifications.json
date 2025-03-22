@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:50:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:33:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum team identity and Visual Studio features, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating a Scrum team identity using Visual Studio 11, which does not directly discuss Evidence-Based Management principles. While it mentions team creation and workflow enhancement, it lacks explicit references to empirical evidence, data-informed decision-making, or the key topics outlined in the EBM category. The discussion is more aligned with Agile practices rather than evidence-based management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T21:50:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:33:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and Visual Studio, which are methodologies and tools that do not align with the core principles of DevOps. While there is a brief mention of collaboration, it lacks a comprehensive discussion on DevOps philosophy, practices, or cultural shifts necessary for effective implementation.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -311,7 +317,7 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:51:06",
     "ai_confidence": 0,
@@ -322,11 +328,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T21:51:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:33:51",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on Scrum practices and tools related to Visual Studio, lacking a direct discussion on the Agile Product Operating Model. While it mentions team creation and workflow enhancement, it does not address the core principles or broader themes of APOM, such as product management integration or continuous delivery.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:41:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:33:56",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on Scrum and team identity within Visual Studio, which does not directly address Continuous Delivery principles or practices. While there may be some indirect relevance to software development processes, the discussion lacks explicit mentions of Continuous Delivery, its core themes, or detailed exploration of its practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1440,6 +1452,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses Scrum and Visual Studio, with no explicit mention of the Shift-Left Strategy or its principles. It lacks alignment with the core themes of integrating testing, security, or compliance early in the development process, and does not provide any depth on the topic.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:33:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating a Scrum team identity and enhancing workflow with Visual Studio 11, which does not directly address Continuous Improvement principles. While there is a mention of enhancing collaboration, it lacks explicit discussions on empirical evidence, data-driven decision-making, or strategies for integrating Continuous Improvement into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:33:47",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly touches on creating a Scrum team identity, which could relate to team alignment, but it lacks a direct discussion on Common Goals or their significance in Agile and DevOps. The focus is more on tools and personal experiences rather than the foundational principles of shared objectives and strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:33:49",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on creating a Scrum team identity using Visual Studio 11, which does not directly address the principles of competence in Agile or DevOps. While there is a mention of enhancing workflow and collaboration, it lacks explicit discussions on continuous learning, skill development, or the importance of competence in delivering quality outcomes. The depth of discussion is minimal, primarily revolving around the features of a tool rather than the underlying principles of competence.",
     "level": "Ignored"
   }
 }

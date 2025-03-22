@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T10:22:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:29:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of product ownership and its impact on organisational success, without a clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of product ownership and its impact on delivering value within an organisation. While it touches on themes of value delivery and team collaboration, it does not explicitly discuss DevOps principles, practices, or cultural shifts. The emphasis is on product management rather than the integration of development and operations, which is central to DevOps.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -262,11 +265,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T12:22:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:29:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the role and impact of a product owner rather than Continuous Delivery practices, principles, or methodologies.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of product ownership in navigating economic uncertainty and driving value within organisations. While it touches on themes of delivering value and aligning with organisational objectives, it does not explicitly address Continuous Delivery principles, practices, or the role of automation in software delivery. The focus is more on product management rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -414,15 +420,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content primarily discusses the role of a product owner and general organizational strategies, without a clear focus on Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T12:22:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses the role of a product owner and general challenges in organizational management without a clear focus on the principles or practices of One Engineering System (1ES).",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1240,12 +1237,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T12:22:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:29:32",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a product owner and value delivery, which relates to aspects of the Agile Product Operating Model, but it primarily focuses on the product owner's impact without extensively covering the broader operating model principles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of a product owner and their impact on delivering value, which aligns with the principles of the Agile Product Operating Model. However, it primarily focuses on the importance of product ownership rather than a comprehensive exploration of the APOM framework itself. While it touches on key themes such as customer-centric value and organisational objectives, it lacks detailed discussion on the broader aspects of the Agile Product Operating Model, such as governance, operational stability, or Evidence-Based Management.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1456,11 +1456,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T12:22:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:29:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of product owners and organizational resilience in uncertain economic times, with no clear focus on Evidence-Based Management principles or empirical data application.",
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of a product owner in driving value and competitive advantage, which aligns with the concept of delivering current value. However, it lacks explicit references to empirical evidence or metrics that are central to Evidence-Based Management. The discussion is more focused on the importance of product ownership rather than on data-informed decision-making or the specific metrics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1533,6 +1536,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the role of a product owner in navigating economic challenges and delivering value, without any explicit mention of integrating testing, security, or compliance earlier in the software development lifecycle. It lacks a focus on the Shift-Left Strategy principles, techniques, or metrics, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:29:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of a strong product owner in driving value and competitive advantage, which touches on aspects of Continuous Improvement. However, it primarily focuses on product ownership rather than the broader principles of Continuous Improvement. There are brief mentions of aligning with organizational objectives and delivering value, but the depth of discussion on Continuous Improvement practices, techniques, or frameworks is minimal.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:29:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of a product owner in aligning team efforts with organisational objectives, which touches on the concept of Common Goals. However, it primarily focuses on the impact of product ownership rather than a comprehensive exploration of Common Goals within Agile and DevOps frameworks. While there are mentions of aligning with strategic objectives, the depth of discussion on the broader implications of Common Goals is limited.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:29:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of a skilled product owner and the impact they can have on delivering value and competitive advantage, which aligns with the concept of competence in terms of skill development and capability. However, the discussion is primarily focused on product ownership rather than a broader exploration of competence as a foundational principle in Agile and DevOps. The depth of discussion on continuous learning and strategies for fostering competence is limited, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:29:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of product ownership and its impact on organisational success, without discussing the One Engineering System framework or its principles. While it touches on themes of collaboration and value delivery, it does not provide specific insights into the integration of tools or processes across teams, nor does it address the standardisation of engineering practices, which are core to 1ES.",
     "level": "Ignored"
   }
 }

@@ -31,9 +31,9 @@ tags:
 - Practical Techniques and Tooling
 - Product Delivery
 - Application Lifecycle Management
-- Continuous Delivery
 - Deployment Strategies
 - Deployment Frequency
+- Frequent Releases
 categories:
 - DevOps
 - Engineering Excellence

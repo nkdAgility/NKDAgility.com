@@ -658,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T06:52:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:41:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses team dynamics and working agreements in the context of Scrum and Kanban, without any focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban and the importance of a working agreement within teams, which does not directly address Continuous Delivery principles or practices. While it touches on team alignment and processes, it lacks explicit discussions on automation, incremental improvements, or rapid feedback, which are core to Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -844,11 +847,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T06:53:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:41:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of team agreements and collaboration in the context of Kanban and Scrum, without focusing on empirical evidence or data-driven decision-making.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of a working agreement in Kanban and Scrum methodologies, which does not directly address Evidence-Based Management principles. While it touches on team alignment and efficiency, it lacks explicit discussions on empirical evidence, data-informed decision-making, or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1291,11 +1297,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T06:50:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:41:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses team dynamics and the importance of working agreements in the context of Scrum and Kanban, which are not central to DevOps principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban and Scrum methodologies, discussing the importance of a working agreement for team alignment. While it touches on collaboration, it does not address the core principles of DevOps, such as automation, shared accountability, or continuous improvement. The discussion is centred around agile practices rather than the DevOps philosophy.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1469,25 +1478,16 @@
     "reasoning": "Content heavily discusses Scrum and team dynamics without any direct connection to platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:14:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of team agreements and collaboration in the context of Scrum and Kanban, without focusing on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T19:25:27",
+    "calculated_at": "2025-03-21T17:41:41",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily discusses the importance of a working agreement within a Kanban framework, which is more focused on team dynamics and operational efficiency rather than the broader Agile Product Operating Model. While it touches on Agile principles, it does not delve into product-centric development or value delivery, which are core themes of the Agile Product Operating Model.",
+    "reasoning": "The content primarily discusses Kanban and the importance of a working agreement, which is more aligned with agile practices than the Agile Product Operating Model. While it touches on team alignment and roles, it does not delve into the core principles or frameworks of APOM, such as product management integration or continuous delivery. The focus remains on Kanban rather than a product-oriented mindset.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1554,6 +1554,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the importance of a working agreement in Kanban and team alignment, which does not directly relate to the Shift-Left Strategy. While it touches on team processes, it lacks explicit mention of integrating testing, security, or compliance early in the development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:41:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of a working agreement for team alignment and efficiency, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the pitfalls of Kanban and the necessity of agreements rather than a broader discussion on Continuous Improvement practices. While it touches on aspects of team effectiveness and the need for regular reviews and adjustments, it lacks a comprehensive exploration of Continuous Improvement methodologies or empirical evidence, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:41:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of a working agreement for team alignment, which is a key aspect of achieving common goals. It explicitly mentions setting common goals as part of establishing a working agreement, indicating a direct connection to the category. However, the focus is primarily on the working agreement itself rather than a broader discussion of common goals within Agile or DevOps frameworks. The depth of discussion on common goals is somewhat limited, as it does not explore the relationship between strategic and tactical commitments in detail.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:41:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of a working agreement for team alignment and efficiency, which indirectly relates to competence by emphasising clear roles, responsibilities, and common goals. However, the primary focus is on team dynamics and processes rather than on continuous skill development or the professional growth of individuals, which are core aspects of competence. The depth of discussion on establishing a working agreement provides some insight into maintaining competence but does not delve deeply into the broader implications of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:41:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Kanban and the importance of a working agreement within that framework. While it touches on team alignment and processes, it does not discuss the One Engineering System (1ES) or its principles, components, or implementation. The discussion is centred around Kanban and Scrum, which are not aligned with the core themes of 1ES, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

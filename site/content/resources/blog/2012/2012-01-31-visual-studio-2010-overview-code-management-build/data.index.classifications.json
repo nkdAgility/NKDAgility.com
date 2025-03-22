@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:22:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:29:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on code management and build processes in Visual Studio 2010, with no clear discussion on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010's code management and build features, discussing branching and merging strategies without any explicit reference to Evidence-Based Management principles. While it touches on software delivery processes, it lacks a clear connection to data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:58:10",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-22T08:29:06",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses branching, merging, and build processes within Visual Studio 2010, which are relevant to DevOps practices. However, it lacks a broader discussion on the principles of DevOps, such as CI/CD, automation, and cultural shifts. While it touches on integration and quality delivery, it does not provide in-depth insights into DevOps methodologies or tools beyond Visual Studio, limiting its overall alignment with the category.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses code management and build processes within Visual Studio 2010, which are relevant to software delivery. However, it primarily focuses on specific tools and practices rather than the broader DevOps philosophy. While there are mentions of branching and merging strategies that could align with DevOps principles, the overall emphasis is on tool-specific features rather than the cultural and collaborative aspects of DevOps. Therefore, the confidence score reflects a moderate alignment with the DevOps category.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -329,7 +332,7 @@
     "reasoning": "Content primarily focuses on code management, branching, merging, and build processes within Visual Studio 2010, with no clear discussion of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:23:02",
     "ai_confidence": 0,
@@ -340,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T21:23:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:29:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses code management and build processes within Visual Studio 2010, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010's code management and build features, discussing branching and merging strategies, which are more aligned with traditional software development practices rather than the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or the core themes of APOM, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,14 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T06:10:08",
+    "calculated_at": "2025-03-22T08:29:21",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
     "final_score": 38.0,
-    "reasoning": "The content discusses branching, merging, and build processes within Visual Studio 2010, which are relevant to Continuous Delivery practices. However, it primarily focuses on specific tools and features rather than the broader principles and methodologies of Continuous Delivery. While there are mentions of integration and build configuration, the depth of discussion does not fully align with the core themes of Continuous Delivery, such as automation and deployment strategies.",
+    "reasoning": "The content discusses code management and build features in Visual Studio 2010, which are relevant to software delivery processes. However, it primarily focuses on branching and merging strategies rather than the broader principles of Continuous Delivery. While there are mentions of improving software delivery and build configurations, the discussion lacks depth in Continuous Delivery practices, such as automation, rapid feedback, and cultural aspects. Therefore, it aligns partially with the category but does not serve as a primary focus.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1491,6 +1497,42 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses branching, merging, and build processes within Visual Studio 2010, which are relevant to software development but do not explicitly address the Shift-Left Strategy. While there are mentions of quality software delivery and integration of tools, the focus is primarily on code management rather than integrating testing, security, or compliance earlier in the development lifecycle. Therefore, the confidence score reflects a low alignment with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:29:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on code management and build features in Visual Studio 2010, with discussions on branching and merging strategies. While it touches on aspects of software delivery processes, it lacks a direct emphasis on Continuous Improvement principles such as empirical evidence, culture of experimentation, or strategies for integrating Continuous Improvement into organisational processes. The mention of enhancing team effectiveness is too vague and does not delve into the core themes of Continuous Improvement, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:29:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on code management and build strategies within Visual Studio 2010, discussing branching and merging practices. While it touches on team delivery processes, it does not explicitly address the concept of Common Goals or their significance in Agile and DevOps frameworks. The discussion lacks depth regarding alignment with strategic objectives or the operationalisation of Common Goals, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:29:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses code management and build strategies within Visual Studio 2010, which indirectly relates to competence through the lens of effective software delivery. However, it lacks a direct focus on continuous learning or skill development, which are core themes of the competence category. The depth of discussion on branching and merging strategies provides some insight into professional practices, but it does not sufficiently address the broader implications of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

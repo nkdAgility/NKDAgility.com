@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:14:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:44:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the complexities and technicalities of a Team Foundation Server migration, without a focus on evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the complexities of Team Foundation Server migrations and does not focus on Evidence-Based Management principles. While it touches on some operational challenges and processes, it lacks explicit references to data-informed decision-making, metrics related to current value, time to market, or empirical decision-making that are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -136,15 +139,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:59:35",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-22T07:43:49",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
-    "reasoning": "The content discusses a complex migration process involving Team Foundation Server (TFS), which is relevant to DevOps practices, particularly in terms of automation, collaboration between teams, and the use of tools for continuous integration and delivery. However, while it touches on aspects of DevOps, such as the importance of backups and server configurations, it primarily focuses on the technical details of the migration process rather than broader DevOps principles or cultural shifts. Therefore, while there is a significant connection to DevOps, it is not the primary focus of the content.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses the complexities of Team Foundation Server (TFS) migrations, which is a specific tool rather than a broader DevOps philosophy. While it touches on aspects of collaboration and process efficiency, it lacks a comprehensive exploration of DevOps principles such as shared accountability, automation, and continuous improvement. The focus is more on technical execution rather than the cultural and philosophical aspects of DevOps.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -344,7 +347,7 @@
     "reasoning": "The content discusses a complex migration process involving multiple interdependent systems, which aligns with the principles of Systems Thinking. It highlights the interconnectedness of various components, such as the corporate IT infrastructure and the Team Foundation Server (TFS) migration, and addresses the challenges posed by these interdependencies. However, while it touches on systems dynamics and the need for holistic analysis, it lacks a deeper exploration of Systems Thinking methodologies or frameworks, which limits its overall depth in this category.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:16:31",
     "ai_confidence": 0,
@@ -355,11 +358,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:16:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:44:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the complexities and processes involved in a Team Foundation Server migration, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of Team Foundation Server migrations and does not discuss the Agile Product Operating Model or its principles. While it touches on some elements of project management, it lacks a clear connection to the core themes of the Agile Product Operating Model, such as continuous delivery, customer-centric value, or the transition from project to product ethos.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -433,11 +439,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:01:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:44:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the complexities of a Team Foundation Server migration process rather than focusing on Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the complexities of migrating Team Foundation Server (TFS) and the associated challenges, which are more aligned with deployment and infrastructure management rather than Continuous Delivery principles. While there are mentions of processes that could relate to Continuous Delivery, such as validation and backup strategies, the focus is not on the Continuous Delivery practices themselves, such as automation, rapid feedback, or incremental improvements. The depth of discussion on Continuous Delivery concepts is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1503,6 +1512,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a complex migration process involving Team Foundation Server, focusing on technical challenges and operational steps rather than integrating testing, security, or compliance earlier in the software development lifecycle. While there are mentions of validation and backups, these do not align with the proactive principles of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:43:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses a complex migration process and highlights the need for iterative improvements and adjustments to enhance efficiency. However, it primarily focuses on technical challenges and specific steps rather than a broader commitment to Continuous Improvement principles. While there are elements of learning and adaptation, the overall emphasis is more on problem-solving than on fostering a culture of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:43:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of Team Foundation Server migrations and the complexities involved in the process. While it touches on the need for collaboration and coordination among teams, it does not explicitly discuss shared objectives or strategic alignment, which are central to the concept of Common Goals in Agile and DevOps. The discussion lacks depth in exploring how these goals connect to the overall mission of the organisation or the impact on organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:43:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical complexities of Team Foundation Server migrations, with limited direct discussion on competence as a foundational principle. While it touches on the need for skill and knowledge in executing complex processes, it lacks a thorough exploration of continuous learning, mastery, or the impact of competence on team dynamics and quality outcomes.",
     "level": "Ignored"
   }
 }

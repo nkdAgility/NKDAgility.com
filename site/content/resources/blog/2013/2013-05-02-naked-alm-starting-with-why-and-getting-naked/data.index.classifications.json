@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:53:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:52:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal reflections on consulting and the importance of understanding customer needs, rather than focusing on empirical evidence or data-driven management practices.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses improving software delivery and customer experience but lacks explicit references to Evidence-Based Management principles. While it touches on the importance of understanding customer needs and delivering value, it does not provide empirical evidence or metrics that align with the core themes of EBM. The focus is more on personal insights and experiences rather than data-informed decision-making.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,15 +127,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T14:50:19",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-22T07:52:07",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses Application Lifecycle Management (ALM) and the importance of delivering software that meets consumer needs, which aligns with some DevOps principles. However, it lacks explicit mentions of DevOps practices, tools, or cultural shifts, and the depth of discussion on DevOps-related topics is minimal.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Application Lifecycle Management (ALM) and the importance of understanding the 'why' behind software delivery, which aligns with DevOps principles of continuous improvement and customer focus. However, it lacks explicit mentions of DevOps as a philosophy and does not delve deeply into core DevOps practices such as automation, shared accountability, or feedback loops. The focus is more on ALM and personal reflections rather than a comprehensive exploration of DevOps.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -344,7 +347,7 @@
     "reasoning": "The content discusses the importance of understanding customer needs and improving processes in Application Lifecycle Management (ALM), which aligns with Systems Thinking principles. However, it primarily focuses on personal experiences and insights rather than a comprehensive exploration of Systems Thinking concepts. The mention of 'starting with why' and the emphasis on improving customer interactions suggest some alignment with Systems Thinking, but the depth of discussion on systemic interconnections and methodologies is limited.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:54:10",
     "ai_confidence": 0,
@@ -355,12 +358,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T07:52:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of delivering value through software and improving customer interactions, which aligns with the principles of the Agile Product Operating Model. However, it primarily focuses on personal reflections and experiences rather than a structured discussion on the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses Application Lifecycle Management (ALM) and the importance of understanding the 'why' behind software delivery, which aligns with some principles of the Agile Product Operating Model. However, it lacks direct mentions of APOM and does not delve deeply into its specific frameworks or practices. The focus is more on personal reflections and general agile concepts rather than a structured discussion on the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -436,12 +442,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T07:52:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses themes related to improving software delivery processes and creating a consistent cadence in delivering software, which aligns with principles of Continuous Delivery, but it is framed more in the context of Application Lifecycle Management (ALM) rather than a focused examination of Continuous Delivery practices.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of delivering software consistently and the need for continuous feedback, which aligns with Continuous Delivery principles. However, it primarily focuses on the author's personal journey and philosophy rather than providing in-depth technical discussions or specific practices related to Continuous Delivery. The mention of 'consistent cadence' and 'continuous feedback' indicates some alignment, but the overall depth and focus on Continuous Delivery practices are limited.",
+    "level": "Secondary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -1539,6 +1548,42 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of improving software delivery and customer experience, which aligns with the Shift-Left Strategy's goal of enhancing software quality. However, it lacks direct mentions of integrating testing, security, or compliance early in the development process, and does not provide specific techniques or tools related to the Shift-Left approach. The discussion is more focused on general ALM principles and customer engagement rather than the specific practices of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:52:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of improving software delivery and customer interactions, which aligns with the principles of Continuous Improvement. It mentions the need for continuous feedback and the aspiration for more frequent software delivery, indicating a commitment to incremental advancements. However, the discussion lacks depth in specific Continuous Improvement techniques and frameworks, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:52:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of understanding the 'why' behind Application Lifecycle Management (ALM) and how it relates to improving customer experiences. While it touches on the concept of aligning goals with customer needs, it lacks a direct focus on shared objectives within Agile and DevOps frameworks. The discussion is more personal and anecdotal, with limited depth on the principles of Common Goals, making it only partially relevant.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:52:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of understanding customer needs and improving software delivery, which aligns with the concept of competence in terms of delivering quality outcomes. However, it lacks direct mentions of continuous learning or skill development, and the depth of discussion on competence is limited, focusing more on personal experiences and motivations rather than structured strategies for fostering competence.",
     "level": "Ignored"
   }
 }

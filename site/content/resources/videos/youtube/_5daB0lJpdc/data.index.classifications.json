@@ -622,11 +622,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T13:01:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile certifications and Scrum roles, with no focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T18:03:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Continuous Delivery in the context of discussing Agile principles but does not focus on it as a primary topic. The discussion revolves around dogma versus pragmatism in Agile practices, which is tangentially related to Continuous Delivery but lacks depth and specific exploration of Continuous Delivery principles, practices, or benefits.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -793,11 +796,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T13:01:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the value and impact of certifications in Agile roles, rather than focusing on evidence-based management principles or practices.",
+    "calculated_at": "2025-03-21T18:04:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses the importance of flexibility and pragmatism in Agile practices, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on dogma versus pragmatism in Agile rather than providing empirical evidence or metrics related to value delivery, innovation, or decision-making. The discussion lacks direct references to Evidence-Based Management concepts and does not delve deeply into data-informed decision-making.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1231,11 +1237,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T12:59:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:03:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and the role of certifications in Agile, without a focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the importance of flexibility versus dogma within Agile practices. While there are some overlapping themes with DevOps, such as collaboration and adaptability, the focus is not on DevOps principles or practices. The content does not explicitly mention DevOps or its core concepts, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1408,11 +1417,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:38:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the impact of certifications on Agile roles, particularly Scrum Masters, rather than focusing on the Agile Product Operating Model or its principles.",
+    "calculated_at": "2025-03-21T18:03:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses agile principles and the importance of flexibility over dogma, which aligns with some core themes of the Agile Product Operating Model. However, it primarily focuses on the critique of dogmatic practices in Agile rather than providing a structured discussion on the Agile Product Operating Model itself. The content lacks direct mentions of product management principles, operational stability, or the integration of Scrum with product management, which are key aspects of the APOM.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1435,15 +1447,6 @@
     "final_score": 60.0,
     "reasoning": "The content discusses Agile principles, particularly the importance of flexibility and collaboration within teams, which aligns with the core themes of Social Technologies. However, it primarily focuses on the critique of dogmatic approaches rather than providing a comprehensive exploration of social frameworks or methodologies. While it mentions collaboration and adaptability, it lacks detailed discussions on specific techniques or tools that foster these aspects, resulting in a moderate confidence score.",
     "level": "Tertiary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:38:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the value and impact of certifications in Agile practices, particularly Scrum, without addressing the principles or components of the One Engineering System framework.",
-    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1485,6 +1488,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the importance of flexibility and pragmatism in Agile practices, focusing on dogma versus adaptability. While it touches on themes relevant to Agile methodologies, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth regarding early integration of testing, security, or compliance, which are central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:03:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptation in Agile practices, which aligns with the principles of Continuous Improvement. It highlights the need for teams to respond to change and learn from experiences, reflecting a commitment to ongoing enhancement. However, while it touches on these themes, the primary focus is on the critique of dogmatic approaches rather than a structured discussion on Continuous Improvement methodologies or frameworks. Therefore, while there is significant alignment, it does not fully meet the criteria for a primary focus on Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:03:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of flexibility and pragmatism in Agile, which indirectly relates to the concept of Common Goals. However, it primarily focuses on dogma versus pragmatism rather than explicitly addressing shared objectives or alignment within teams. The mention of Scrum and Agile principles provides some alignment, but the depth of discussion on Common Goals is limited.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:03:48",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability in Agile, which aligns with the principles of competence. It highlights the need for continuous learning and the dangers of dogmatic approaches, suggesting a focus on genuine progress over performative activity. However, while competence is a theme, it is not the primary focus, as the content primarily critiques dogma rather than deeply exploring competence itself.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:03:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the importance of flexibility versus dogmatism, which does not align with the core principles of the One Engineering System. While it touches on aspects of collaboration and adaptation, it lacks direct references to 1ES, its components, or its implementation in software development environments.",
     "level": "Ignored"
   }
 }

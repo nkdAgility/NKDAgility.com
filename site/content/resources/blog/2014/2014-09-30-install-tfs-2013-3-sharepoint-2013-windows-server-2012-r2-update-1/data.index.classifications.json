@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T09:03:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:14:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and configuration of TFS and SharePoint, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical installation process of TFS and SharePoint, with no direct mention of Evidence-Based Management principles or metrics. While there are some references to configuration and setup that could tangentially relate to operational efficiency, the discussion lacks any empirical evidence or data-informed decision-making aspects that are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T04:22:26",
+    "calculated_at": "2025-03-22T07:14:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of TFS and SharePoint, which are tools used in software development and operations. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. While it touches on aspects of deployment and configuration, it does not delve into continuous integration, continuous delivery, or the collaborative nature of DevOps, leading to a low confidence score.",
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS and SharePoint, which are tools rather than discussions on the DevOps philosophy or practices. While there are mentions of operational considerations and some aspects of collaboration, the content lacks a strong emphasis on the core principles of DevOps such as automation, shared accountability, or cultural shifts. The discussion is more technical and procedural, which does not align closely with the broader DevOps themes.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -323,7 +326,7 @@
     "reasoning": "Content primarily focuses on the technical installation and configuration of TFS and SharePoint, with no clear discussion of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T09:04:37",
     "ai_confidence": 0,
@@ -334,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T09:04:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:14:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and configuration of TFS and SharePoint, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical installation and configuration of TFS and SharePoint, with no direct mention or discussion of the Agile Product Operating Model or its principles. It lacks alignment with the core themes of APOM, such as product management practices, agile processes, or continuous improvement. The depth of discussion is entirely technical and operational, with no reference to agile methodologies or product-oriented mindsets.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -412,11 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:08:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:14:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on the installation and configuration of TFS and related components, lacking discussions or insights on Continuous Delivery principles, practices, or automation strategies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS and SharePoint, which are specific technical tasks rather than discussions on Continuous Delivery principles or practices. While there are mentions of configuration and setup processes, these do not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or incremental improvements. The content lacks depth in discussing Continuous Delivery concepts, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1467,6 +1476,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the installation and configuration of TFS and SharePoint, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. While there are mentions of readiness checks and configuration issues, these do not align with the core principles of the Shift-Left Strategy, which emphasises proactive measures in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:14:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical installation process of TFS and SharePoint, with minimal references to Continuous Improvement principles. While there are mentions of troubleshooting and configuration adjustments, these do not align with the broader themes of Continuous Improvement, such as fostering a culture of experimentation or data-driven decision-making.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:14:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing TFS and SharePoint, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While there are mentions of configuration and setup processes, these do not connect to the overarching themes of shared objectives or strategic alignment within teams. The content lacks depth in discussing how these technical tasks relate to common goals or team collaboration.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:14:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing TFS and SharePoint, with limited discussion on competence. While it touches on the importance of following installation specifications and avoiding common pitfalls, it does not delve deeply into continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The mention of ensuring proper configurations hints at a level of competence but lacks a thorough exploration of the topic.",
     "level": "Ignored"
   }
 }

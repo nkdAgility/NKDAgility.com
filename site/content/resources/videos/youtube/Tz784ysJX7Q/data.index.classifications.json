@@ -706,14 +706,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T16:32:33",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
+    "calculated_at": "2025-03-21T16:46:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses the importance of quality and stability in delivery management, which indirectly relates to Continuous Delivery principles. However, it primarily focuses on the challenges of meeting deadlines and the implications of rushing product delivery rather than the specific practices and methodologies of Continuous Delivery. There are no direct mentions of Continuous Delivery concepts, and while it touches on related themes, the depth of discussion on CD practices is minimal.",
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of balancing speed and stability in project delivery, which touches on aspects of Continuous Delivery, particularly the emphasis on quality and the implications of rushing features. However, it does not explicitly mention Continuous Delivery or its principles, nor does it delve deeply into automation, incremental improvements, or rapid feedback mechanisms that are central to the category. The focus is more on general delivery management rather than the specific practices and tools associated with Continuous Delivery.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -1453,11 +1453,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T21:45:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:46:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the balance between speed and stability in delivery management, focusing on quality and ethical considerations rather than empirical evidence or data-driven decision-making.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of quality over speed in project delivery, which aligns with the concept of managing for meaningful outcomes. However, it lacks direct mentions of Evidence-Based Management principles and does not provide empirical metrics or data to support its claims. The focus is more on general project management practices rather than a data-informed decision-making approach.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1467,15 +1470,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses delivery management, quality, and the balance between speed and stability, without a clear focus on platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:45:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the balance between speed and stability in delivery management, with a focus on quality and ethical considerations, rather than the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
@@ -1563,6 +1557,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of quality over speed in delivery management, which aligns with the Shift-Left Strategy's emphasis on integrating quality earlier in the development process. However, it does not explicitly mention the Shift-Left concept or provide detailed techniques for integrating testing or security early. The focus is more on balancing speed and stability rather than on proactive measures in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:46:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of quality over speed in project delivery, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the balance between speed and stability rather than explicitly addressing Continuous Improvement practices or methodologies. While it touches on the need for reflection and ethical decision-making, it lacks detailed exploration of Continuous Improvement frameworks or empirical evidence, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:46:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of quality over speed in project delivery, which indirectly relates to the concept of Common Goals by emphasising the need for stability and long-term success. However, it does not explicitly mention Common Goals or their significance in Agile or DevOps frameworks. The focus is more on project management techniques and personal experiences rather than aligning team efforts with overarching strategic objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:46:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of quality over speed in project delivery, which aligns with the principles of competence in maintaining trust and delivering quality outcomes. It highlights the need for continuous assessment of the implications of rushing projects, which reflects a commitment to skill development and ethical decision-making. The depth of discussion on balancing speed and stability, while not exclusively focused on competence, provides substantial insights into maintaining professionalism and quality delivery.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:46:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of quality over speed in project delivery, which is a relevant topic in software development. However, it does not explicitly mention the One Engineering System or its principles. The discussion is more focused on general delivery management practices rather than the integration and standardisation of engineering processes as outlined in the 1ES framework. While there are some relevant themes, such as the impact of quality on software delivery, the overall focus is not aligned with the core topics of 1ES.",
     "level": "Ignored"
   }
 }

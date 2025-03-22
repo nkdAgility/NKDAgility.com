@@ -982,11 +982,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T09:28:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:53:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the limitations and criticisms of the Scaled Agile Framework (SAFe) and its impact on organisational agility, rather than focusing on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily critiques the Scaled Agile Framework (SAFe) and discusses the pitfalls of adopting rigid frameworks in the context of agility. While it touches on themes of organisational change and agility, it does not explicitly address Continuous Delivery principles, practices, or benefits. The focus is more on the critique of SAFe rather than on Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1105,11 +1108,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T09:24:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:53:23",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily critiques the Scaled Agile Framework (SAFe) and discusses organisational agility without focusing on empirical evidence or data-driven decision-making principles central to Evidence-Based Management.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily critiques the Scaled Agile Framework (SAFe) and discusses the pitfalls of adopting rigid frameworks without understanding the underlying principles of business agility. While it touches on themes of agility and evolution, it does not explicitly mention Evidence-Based Management or its key topics. The discussion lacks depth in terms of empirical evidence or metrics that would align with EBM principles, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -1199,15 +1205,6 @@
     "reasoning": "Content primarily discusses the pitfalls and misconceptions surrounding the Scaled Agile Framework (SAFe) and business agility, rather than providing actionable instructions or insights on installation and configuration processes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T09:24:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily critiques the Scaled Agile Framework (SAFe) and discusses its limitations, rather than focusing on the principles or implementation of the One Engineering System (1ES).",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-03-10T12:27:52",
@@ -1261,11 +1258,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T09:24:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:53:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Scaled Agile Framework (SAFe) and its implications on business agility, rather than focusing on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily critiques the Scaled Agile Framework (SAFe) and discusses the pitfalls of adopting rigid frameworks in the pursuit of agility. While it touches on themes of organisational change and agility, it does not explicitly address DevOps principles, practices, or cultural shifts. The focus is more on Agile methodologies rather than the integration of people, processes, and technology that characterises DevOps.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -1327,14 +1327,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T03:03:22",
+    "calculated_at": "2025-03-21T20:53:18",
     "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content critiques the Scaled Agile Framework (SAFe) and discusses the pitfalls of adopting rigid frameworks in the context of business agility. While it touches on themes relevant to the Agile Product Operating Model, such as the need for organisational evolution and the importance of innovation, it primarily focuses on the limitations of SAFe rather than providing a comprehensive discussion on the Agile Product Operating Model itself. The direct mentions of agile principles are present but not the primary focus, leading to a moderate confidence score.",
+    "reasoning": "The content critiques the Scaled Agile Framework (SAFe) and discusses the importance of true business agility, but it does not explicitly mention the Agile Product Operating Model or its principles. While it touches on themes of agility and organisational change, it primarily focuses on the limitations of SAFe rather than providing a detailed exploration of the Agile Product Operating Model itself.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1521,6 +1521,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily critiques the Scaled Agile Framework (SAFe) and discusses the rigidity of traditional practices without addressing the Shift-Left Strategy. It does not mention integrating testing, security, or compliance early in the development process, nor does it explore the benefits or techniques associated with the Shift-Left approach. The focus is on organisational agility and the pitfalls of adopting frameworks rather than on proactive measures in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:53:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content critiques the Scaled Agile Framework (SAFe) and discusses the importance of organisational evolution and agility, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the drawbacks of SAFe rather than providing a detailed exploration of Continuous Improvement practices or strategies. The mention of evolution and the need for adaptability reflects some alignment with Continuous Improvement, but the depth of discussion on specific techniques or frameworks is limited.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:53:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content critiques the SAFe framework and discusses the importance of business agility, but it does not explicitly address the concept of Common Goals within Agile or DevOps. While it touches on the need for organisations to evolve and adapt, it lacks a clear focus on shared objectives or alignment of strategy with execution, which are central to the Common Goals category. The discussion is more about the pitfalls of rigid frameworks rather than the foundational principles of aligning team efforts with overarching strategic objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:53:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content critiques the adoption of SAFe and highlights the importance of genuine business agility over rigid frameworks. While it touches on the need for organisations to evolve and adapt, it does not explicitly discuss continuous learning or skill development, which are central to the concept of competence. The focus is more on the pitfalls of adopting frameworks without understanding rather than on fostering competence within teams.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:53:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily critiques the Scaled Agile Framework (SAFe) and discusses the pitfalls of adopting rigid frameworks in place of true agility. While it touches on themes of organisational change and agility, it does not directly address the principles or components of the One Engineering System (1ES). The focus is on the limitations of SAFe rather than on integration, standardisation, or best practices related to 1ES, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

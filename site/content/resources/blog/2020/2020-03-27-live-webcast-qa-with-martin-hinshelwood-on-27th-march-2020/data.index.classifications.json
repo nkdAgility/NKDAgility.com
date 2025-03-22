@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T17:46:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:03:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses incorporating UX into a Scrum Team, which is not central to Evidence-Based Management principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on incorporating UX into Scrum teams, which does not directly address Evidence-Based Management principles. While it may touch on agile practices, it lacks explicit discussion of empirical evidence, metrics, or data-informed decision-making that are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T17:46:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:03:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses incorporating UX into a Scrum Team, which is not central to DevOps principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on incorporating UX into Scrum teams, which is more aligned with agile methodologies rather than DevOps principles. There are no direct mentions of DevOps concepts, and the discussion lacks depth regarding the integration of people, processes, and technology that characterises DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -326,22 +332,16 @@
     "reasoning": "Content primarily discusses incorporating UX into a Scrum Team, which is not aligned with Systems Thinking principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T17:47:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses incorporating UX into a Scrum Team, which is unrelated to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T17:47:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:03:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses incorporating UX into a Scrum Team, which is more focused on Scrum practices rather than the Agile Product Operating Model.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on incorporating UX into Scrum teams, which is more aligned with Scrum practices than the Agile Product Operating Model. While it touches on agile practices, it lacks a direct discussion of the APOM framework or its principles, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -409,11 +409,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T17:47:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:03:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses incorporating UX into a Scrum Team, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on incorporating UX into Scrum teams, which is not directly related to Continuous Delivery. While it touches on agile practices, it lacks explicit discussion of Continuous Delivery principles, automation, or delivery strategies.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1473,6 +1476,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses incorporating UX into a Scrum Team, which is not directly related to the Shift-Left Strategy. There are no explicit mentions of testing, security, or compliance processes being integrated earlier in the development lifecycle. The focus is on UX principles rather than the proactive measures associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:03:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions enhancing agile practices and incorporates UX into Scrum teams, which aligns with the broader theme of Continuous Improvement. However, it lacks a detailed discussion on Continuous Improvement principles, empirical evidence, or specific strategies for fostering a culture of experimentation and learning. The focus is more on a specific Q&A session rather than a comprehensive exploration of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:03:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Scrum and incorporates UX into Scrum teams, which relates to Agile practices. However, it lacks a direct discussion on Common Goals, their significance, or how they align with strategic objectives. The focus is more on practical insights rather than the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:03:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on incorporating UX into Scrum teams, which relates to competence in terms of skill development and enhancing agile practices. However, it lacks explicit discussions on continuous learning, the role of competence in quality outcomes, or strategies for fostering a culture of competence. The focus is more on practical application rather than a deep exploration of competence as a foundational principle.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:03:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on incorporating UX into Scrum teams, which is a specific agile methodology rather than discussing the One Engineering System framework. There are no direct mentions of 1ES, and the discussion does not align with the core themes of integration and standardisation of engineering processes. The depth of discussion is limited to UX strategies within Scrum, further distancing it from the principles of 1ES.",
     "level": "Ignored"
   }
 }

@@ -649,11 +649,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T22:21:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:52:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the principles of Kanban and work in progress (WIP), with no clear focus on Continuous Delivery practices or methodologies.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the concept of 'Work in Progress' (WIP) within Agile and Kanban methodologies, focusing on productivity and efficiency rather than Continuous Delivery principles. While it touches on themes of minimising tasks and improving workflow, it does not explicitly address Continuous Delivery practices, automation, or the delivery of software in reliable cycles. The discussion is more aligned with general Agile practices rather than the specific principles and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -826,11 +829,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-11T22:22:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:52:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the principles of Kanban and the impact of multitasking on productivity, without a clear focus on Evidence-Based Management or empirical data-driven decision-making.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the concept of 'Work in Progress' (WIP) and its implications for productivity in Agile environments, particularly through Kanban principles. While it touches on efficiency and productivity, it lacks direct references to Evidence-Based Management concepts such as empirical decision-making or specific metrics related to current value, time to market, or unrealised value. The discussion is more focused on general Agile practices rather than a data-informed approach to management decisions.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1288,11 +1294,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T22:19:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:52:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban principles and Agile methodologies, with no clear focus on DevOps practices or principles.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile principles, specifically focusing on the concept of 'Work in Progress' (WIP) and the benefits of minimising tasks to enhance productivity. While there are some overlaps with DevOps, such as the emphasis on efficiency and workflow, the content does not explicitly address DevOps principles, practices, or cultural shifts. The discussion is more aligned with Agile methodologies and Kanban rather than the broader DevOps philosophy, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1481,23 +1490,17 @@
     "reasoning": "Content primarily discusses the principles of Kanban and productivity, with a focus on work in progress (WIP) rather than the principles of BetaCodex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:25:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses WIP and Kanban principles, which are not central to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T07:25:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T19:52:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses principles related to Kanban and work in progress, which are relevant to Agile methodologies, but it primarily focuses on the concept of multitasking and productivity rather than the Agile Product Operating Model as a whole.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the concept of 'Work in Progress' (WIP) and the benefits of minimising tasks to enhance productivity, which aligns with agile principles. However, it lacks a direct focus on the Agile Product Operating Model itself, such as product management practices or the transition from project to product ethos. The discussion is more centred on Kanban and general agile practices rather than the specific framework of APOM.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1548,6 +1551,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the concept of Work in Progress (WIP) and the benefits of limiting multitasking within Agile and Kanban frameworks. While it touches on productivity and efficiency, it does not explicitly mention or align with the Shift-Left Strategy, which focuses on integrating testing, security, and compliance earlier in the software development lifecycle. The discussion is more about workflow management rather than the proactive measures associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:52:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the principle of 'Less is More' in the context of Work in Progress (WIP) and its implications for productivity in Agile methodologies. While it does not explicitly mention Continuous Improvement, it aligns with its core themes by promoting efficiency and the importance of focusing on fewer tasks to enhance productivity. The depth of discussion on the negative effects of multitasking and context switching provides a reasonable level of detail, but it lacks direct references to Continuous Improvement frameworks or strategies. Overall, the content reflects a commitment to improving processes but does not fully embrace the broader principles of Continuous Improvement.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:52:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the concept of 'Work in Progress' (WIP) and the benefits of minimising tasks to enhance productivity. While it touches on Agile principles, it does not explicitly address Common Goals or their significance in aligning strategy with execution. The focus is more on individual productivity and workflow efficiency rather than shared objectives or team alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:52:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the principle of 'Less is More' in the context of WIP and productivity, which indirectly relates to competence through the lens of efficiency and focus. However, it lacks a direct emphasis on continuous learning, skill development, or the professional standards associated with competence. The discussion is more about workflow management than about developing capabilities or fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:52:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the concept of 'Work in Progress' (WIP) within Agile and Kanban methodologies, focusing on productivity and efficiency through minimalism. It does not mention the One Engineering System (1ES) framework, its principles, or its components. The discussion is centred around Agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:47:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:12:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation and features of Visual Studio 2012 and Team Foundation Server, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the installation and features of Visual Studio 2012 and Team Foundation Server, with no explicit mention of Evidence-Based Management principles or metrics. While it touches on aspects of development processes, it lacks a focus on empirical decision-making or data-informed strategies that are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:54:15",
-    "ai_confidence": 62.0,
-    "ai_mentions": 3,
-    "ai_alignment": 35.0,
-    "ai_depth": 45.0,
+    "calculated_at": "2025-03-22T08:12:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the installation and upgrade of Visual Studio 2012 Team Foundation Server, which relates to DevOps practices such as Continuous Integration and Continuous Deployment. However, the primary focus is on the technical aspects of installation rather than a broader discussion of DevOps principles, cultural shifts, or tools. While there are mentions of CI/CD features, the depth of discussion on DevOps concepts is limited, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation and features of Visual Studio 2012 and Team Foundation Server, with only brief mentions of concepts like continuous integration and continuous deployment. While these are relevant to DevOps, the overall discussion lacks depth and does not engage with the broader principles of DevOps as a philosophy, such as collaboration, automation, or shared accountability.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -335,7 +338,7 @@
     "reasoning": "Content primarily discusses the installation and upgrade process of Visual Studio 2012 and Team Foundation Server, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:48:08",
     "ai_confidence": 0,
@@ -346,14 +349,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T05:48:15",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-22T08:12:35",
+    "ai_confidence": 12.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content primarily discusses the installation and features of Visual Studio 2012 and Team Foundation Server, with only a brief mention of Agile processes in the context of development teams delivering value. While there are references to Agile features, the focus is not on the Agile Product Operating Model as a holistic framework, but rather on technical aspects and upgrade experiences.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the installation and features of Visual Studio 2012 and Team Foundation Server, with minimal references to agile methodologies. While it mentions agile processes in the context of development tools, it does not discuss the Agile Product Operating Model or its principles in any meaningful way.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -433,14 +436,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T05:48:13",
+    "calculated_at": "2025-03-22T08:12:39",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
     "final_score": 39.0,
-    "reasoning": "The content discusses the installation and upgrade of Visual Studio 2012 and Team Foundation Server, with a brief mention of features related to Continuous Integration and Continuous Deployment. However, it primarily focuses on installation experiences and issues rather than the principles and practices of Continuous Delivery. While there are mentions of features that support CD, the overall discussion lacks depth and does not align closely with the core themes of Continuous Delivery.",
+    "reasoning": "The content discusses the installation and upgrade of Visual Studio 2012 and Team Foundation Server, with some mention of features that support Continuous Delivery, such as Continuous Integration and Continuous Deployment. However, the primary focus is on installation processes and user experiences rather than a thorough exploration of Continuous Delivery principles, practices, or cultural aspects. The discussion lacks depth in terms of strategies for improving software quality or rapid feedback mechanisms, which are key topics in the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1533,6 +1536,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the installation and upgrade process of Visual Studio 2012 and Team Foundation Server, with no explicit mention of the Shift-Left Strategy. While it touches on features like unit testing and continuous integration, these are not explored in the context of early integration in the development lifecycle, which is central to the Shift-Left concept. Therefore, the content does not align with the category's focus.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:12:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the features and installation of Visual Studio 2012 RTM, with minimal discussion on Continuous Improvement principles. While it mentions aspects like 'continuous integrations' and 'continuous deployments', these are not explored in the context of a culture of improvement or empirical evidence. The overall emphasis is on technical upgrades rather than a commitment to ongoing enhancement or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:12:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading to Visual Studio 2012 and does not explicitly discuss Common Goals or their significance in Agile or DevOps. While it mentions the importance of development teams delivering high-quality products, it lacks a detailed exploration of shared objectives or alignment strategies that are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:12:32",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly touches on the importance of upgrading tools and mentions the need for training, which relates to competence. However, it primarily focuses on installation processes and features of Visual Studio 2012, lacking a deeper exploration of continuous learning or skill development in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

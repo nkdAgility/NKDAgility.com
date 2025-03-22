@@ -27,6 +27,9 @@ headline:
   subtitle: Driving organisational responsiveness and adaptability through effective frameworks and practices for holistic transformation.
   content: Fostering organisational responsiveness and adaptability through frameworks and practices that enhance collaboration, optimise workflows, and promote continuous improvement. Posts should explore topics such as systems thinking, value stream mapping, team dynamics, performance metrics, and the integration of feedback loops for sustained transformation.
   updated: 2025-02-13T11:59:36Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

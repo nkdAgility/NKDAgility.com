@@ -23,6 +23,9 @@ headline:
   subtitle: Navigating and minimising code liabilities to ensure consistent development flow and enhance project sustainability.
   content: A critical examination of code liabilities that hinder development efficiency and project longevity. Posts should explore strategies for identifying, prioritising, and addressing these liabilities, as well as their impact on team performance, product quality, and overall organisational health.
   updated: 2025-02-13T12:01:54Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

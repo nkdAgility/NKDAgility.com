@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:02:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:53:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the features and functionalities of TFS 2012, specifically regarding un-versioned repositories, without any focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the technical aspects of an un-versioned repository in TFS 2012, focusing on its benefits for build drop management. There are no direct mentions of Evidence-Based Management principles or metrics, and the discussion lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:16:50",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-22T07:53:40",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the use of an un-versioned repository in TFS 2012, which relates to version control and build processes, key components of DevOps. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts, focusing instead on a specific tool and its functionality. While it touches on automation and repository management, it does not delve into the collaborative or process-oriented aspects of DevOps, leading to a moderate confidence score.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the features and benefits of an un-versioned repository in TFS 2012, focusing on build drop management. While it touches on aspects of workflow improvement, it lacks a direct discussion of DevOps principles such as collaboration, automation, or shared accountability. The mention of build processes and version control is relevant but does not align closely with the broader DevOps philosophy, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -323,7 +326,7 @@
     "reasoning": "Content primarily discusses the features and functionalities of TFS 2012, focusing on version control and build processes, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:02:43",
     "ai_confidence": 0,
@@ -334,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:02:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:53:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of TFS 2012 and un-versioned repositories, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the technical aspects of an un-versioned repository in TFS 2012, focusing on build drop management rather than any principles or practices related to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or the core themes outlined in the APOM framework. The discussion is heavily centred on version control and technical implementation, which does not align with the category's focus.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -415,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:02:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:53:55",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of un-versioned repositories in TFS 2012 and related version control management, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012, which relates to build management and version control. However, it does not explicitly address Continuous Delivery principles or practices. While it touches on aspects of streamlining workflows and managing build outputs, it lacks a focus on automation, rapid feedback, or cultural aspects of Continuous Delivery. The discussion is primarily technical and does not explore the broader implications or benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1473,6 +1482,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the introduction of an un-versioned repository in TFS 2012 and its implications for build drops. While it touches on version control and storage solutions, it does not address the Shift-Left Strategy or its principles, benefits, or techniques. The focus is on repository management rather than integrating testing, security, or compliance earlier in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:53:42",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the technical aspects of an un-versioned repository in TFS 2012, focusing on its benefits for build drop management. While it touches on improvements in workflow, it lacks a direct discussion on Continuous Improvement principles, empirical evidence, or a culture of experimentation. The content does not provide depth in terms of strategies or frameworks related to Continuous Improvement, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:53:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the technical aspects of an un-versioned repository in TFS 2012, focusing on its benefits and usage rather than addressing the concept of Common Goals within Agile or DevOps frameworks. There are no explicit mentions of shared objectives or alignment strategies, and the discussion lacks depth in relation to the principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:53:47",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the technical features of TFS 2012 and the benefits of an un-versioned repository. While it touches on aspects of workflow improvement, it does not explicitly address competence, continuous learning, or skill development. The focus is on tool functionality rather than the principles of professionalism and quality delivery associated with competence.",
     "level": "Ignored"
   }
 }

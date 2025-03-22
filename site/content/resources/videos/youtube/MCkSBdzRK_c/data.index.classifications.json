@@ -742,15 +742,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-11T16:15:36",
-    "ai_confidence": 87.0,
+    "calculated_at": "2025-03-21T17:53:53",
+    "ai_confidence": 92.0,
     "ai_mentions": 18,
-    "ai_alignment": 35,
-    "ai_depth": 30,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
-    "reasoning": "The content explicitly discusses evidence-based management, highlighting its importance in decision-making and organisational performance. It aligns well with the core themes of EBM, such as the significance of metrics and data-driven decisions. The depth of discussion is substantial, covering key components and value areas, although it could benefit from more detailed case studies or specific techniques for measuring performance.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content explicitly discusses evidence-based management, detailing its importance and key components. It aligns closely with the core themes of the category, such as current value, unrealised value, time to market, and the ability to innovate. The depth of discussion is substantial, providing insights into metrics and their relevance, as well as practical recommendations for implementation. Overall, the content is highly relevant and focused on evidence-based management.",
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -865,11 +865,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-13T18:28:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:53:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses evidence-based management and decision-making rather than Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses evidence-based management and its role in decision-making and business value, with no direct mention of Continuous Delivery principles or practices. While it touches on aspects like time to market and metrics, these are not specifically tied to Continuous Delivery, which focuses on software delivery practices. The discussion lacks depth in Continuous Delivery concepts, making it only tangentially related.",
     "level": "Ignored"
   },
   "Remote Working": {
@@ -1192,11 +1195,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-13T18:24:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:53:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses evidence-based management and decision-making processes, which are not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on evidence-based management and its role in leadership and decision-making, which does not directly address DevOps principles or practices. While there are mentions of metrics and data-driven decisions, these concepts are not specifically tied to DevOps, and the discussion lacks depth in relation to DevOps culture, collaboration, or automation.",
     "level": "Ignored"
   },
   "Systems Thinking": {
@@ -1351,15 +1357,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T19:54:30",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-21T17:53:48",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses evidence-based management, which is relevant to Agile principles, particularly in terms of making data-driven decisions and focusing on value delivery. However, it does not explicitly mention the Agile Product Operating Model or delve deeply into its specific components, such as cross-functional teams or continuous feedback. The discussion is more centred on leadership and metrics rather than the holistic approach to product development that the Agile Product Operating Model embodies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses evidence-based management, which is a component of the Agile Product Operating Model, but does not explicitly focus on the broader principles or practices of APOM. While it touches on data-driven decision-making and organisational capabilities, it lacks a comprehensive exploration of the transition to a product-oriented mindset or the integration of agile methodologies with product management. Therefore, it aligns conceptually but lacks depth and direct mentions of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1380,15 +1386,6 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses evidence-based management, which relates to decision-making and value delivery, but it lacks a direct focus on social technologies or collaboration frameworks. While it touches on metrics and organisational capabilities, it does not delve deeply into the social aspects of teamwork or collective intelligence, which are central to the category of Social Technologies.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:09:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses evidence-based management and its impact on leadership and decision-making, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Software Development": {
@@ -1545,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses evidence-based management and its importance in leadership, focusing on metrics and decision-making rather than integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on the importance of metrics and data-driven decisions, it does not explicitly mention or align with the Shift-Left Strategy principles, making it a secondary topic at best.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:53:32",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses evidence-based management, which aligns with the principles of Continuous Improvement through data-driven decision-making and the importance of metrics. However, it does not explicitly focus on Continuous Improvement as a primary theme, and while it touches on relevant concepts, it lacks depth in discussing specific Continuous Improvement strategies or frameworks.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:53:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses evidence-based management and its importance in making informed decisions, which indirectly relates to aligning strategies with execution. However, it primarily focuses on metrics and business value rather than explicitly addressing Common Goals within Agile or DevOps frameworks. The mention of teams lacking clear goals suggests a tangential connection, but the overall emphasis is on data-driven decision-making rather than shared objectives or alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:53:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses organisational capability and the importance of making informed, data-driven decisions, which aligns with the concept of competence. However, it primarily focuses on evidence-based management rather than directly addressing continuous learning or skill development. The depth of discussion on competence-related themes is moderate, but it lacks a comprehensive exploration of strategies for fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:53:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on evidence-based management and its application in leadership, with no direct mention or discussion of the One Engineering System (1ES). While it touches on concepts like metrics and decision-making, these are not aligned with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The depth of discussion is also minimal regarding 1ES principles, leading to a very low confidence score.",
     "level": "Ignored"
   }
 }

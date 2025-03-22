@@ -33,6 +33,7 @@ tags:
 - Software Development
 - People and Process
 - Personal
+- Competence
 - Continuous Learning
 - Agile Product Management
 - Value Delivery

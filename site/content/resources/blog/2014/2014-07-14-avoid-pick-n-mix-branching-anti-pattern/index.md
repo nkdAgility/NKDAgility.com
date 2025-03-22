@@ -40,7 +40,6 @@ tags:
 - Pragmatic Thinking
 categories:
 - Engineering Excellence
-- DevOps
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

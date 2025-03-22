@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T10:32:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:20:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical methods for importing data into TFS using Excel, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for importing data into TFS using Excel and VBA, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on data integrity, it lacks alignment with the core themes of EBM, such as current value, time to market, or empirical decision-making. The depth of discussion is limited to practical steps without any strategic insights or data-informed decision-making frameworks.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T10:32:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:19:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of importing data into TFS using Excel, which is not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on importing Excel data into TFS using VBA, which is a technical task rather than a discussion on DevOps principles. While it touches on aspects of workflow and data integrity, it lacks explicit references to DevOps philosophy, practices, or cultural shifts. The discussion does not align with key DevOps topics such as automation, collaboration, or shared accountability, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +326,7 @@
     "reasoning": "Content primarily discusses the technical process of importing data into TFS using Excel and VBA, without addressing Systems Thinking principles or their applications in organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T10:32:59",
     "ai_confidence": 0,
@@ -331,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T10:33:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:19:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical methods for importing data into TFS using Excel, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for importing data into TFS using Excel and VBA, with no direct mention or discussion of Agile Product Operating Model principles or practices. It lacks alignment with the core themes of APOM, such as product management, continuous delivery, or agile processes. The depth of discussion is limited to technical execution rather than strategic or operational insights related to APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -409,11 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T10:42:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:20:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on importing data into TFS using Excel and VBA, which is not related to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on importing Excel data into TFS using VBA, which is a specific technical task rather than a discussion on Continuous Delivery principles or practices. While it touches on aspects of data integrity and workflow simplification, it does not address Continuous Delivery concepts such as automation, rapid feedback, or incremental improvements. The mention of TFS (Team Foundation Server) is related to project management and version control rather than Continuous Delivery itself.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1455,6 +1467,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the technical process of importing data into TFS using Excel and VBA, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on data integrity and manipulation, these aspects do not align with the core themes of the Shift-Left Strategy, which emphasises proactive measures in software development. The content lacks depth in discussing the principles or benefits of a Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:19:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical guide for importing data into TFS using Excel and VBA, with no explicit discussion of Continuous Improvement principles. While it touches on workflow simplification and data integrity, these aspects are not framed within a Continuous Improvement context. The content lacks depth in discussing empirical evidence, experimentation, or strategies for enhancing processes, which are core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:19:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical process for importing data into TFS using Excel and VBA, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on workflow simplification, it lacks alignment with the core themes of shared objectives, strategic alignment, or team collaboration. The depth of discussion is limited to technical details without connecting to overarching organisational goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:19:56",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on a technical process for importing data into TFS using Excel and VBA, with minimal direct discussion of competence or skill development. While it touches on the author's experience and skills in using VBA, it lacks a broader discussion on continuous learning or the importance of competence in a professional context. The depth of discussion is limited to practical steps without exploring the implications of competence in Agile or DevOps environments.",
     "level": "Ignored"
   }
 }

@@ -27,6 +27,9 @@ headline:
   subtitle: Iterative product enhancement through collaborative feedback and adaptive planning for optimal customer satisfaction.
   content: A framework for collaboratively developing and refining products through iterative cycles, emphasising continuous improvement and responsiveness to user feedback. Posts should explore team dynamics, roles, ceremonies, and tools that enhance transparency, adaptability, and value delivery in complex environments.
   updated: 2025-02-13T12:02:43Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

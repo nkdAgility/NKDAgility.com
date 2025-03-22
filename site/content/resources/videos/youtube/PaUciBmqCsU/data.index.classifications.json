@@ -47,15 +47,6 @@
     "reasoning": "Content heavily discusses Kanban and Scrum, which are not central to the principles of Beta Codex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:29:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Kanban and Scrum, which are unrelated to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-03-14T18:35:39",
@@ -325,11 +316,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T12:29:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:24:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban and its application in various systems, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the integration of Kanban and Scrum, discussing their relationship and practical applications. While it touches on concepts like transparency and workflow optimisation, it lacks a direct focus on Evidence-Based Management principles, such as empirical decision-making or metrics related to current value, time to market, or unrealised value. The discussion is more about methodologies rather than data-informed management practices.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -1036,11 +1030,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T13:54:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Kanban and Scrum, which are not related to Continuous Delivery principles and practices.",
+    "calculated_at": "2025-03-21T17:24:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of Kanban with Scrum, focusing on workflow optimisation rather than Continuous Delivery principles. While it touches on aspects of process improvement and efficiency, it does not explicitly address Continuous Delivery practices, automation, or rapid feedback mechanisms central to the category.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1473,6 +1470,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the integration of Kanban with Scrum, focusing on workflow visualisation and efficiency improvements. It does not address the Shift-Left Strategy, which emphasises early integration of testing, security, and compliance in the software development lifecycle. The discussion lacks direct mentions of Shift-Left principles and does not explore its core themes or provide depth on the topic.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:24:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Kanban's role in enhancing Scrum processes, which touches on continuous improvement principles. However, the primary focus is on the integration of Kanban and Scrum rather than a deep exploration of continuous improvement as a standalone concept. While it mentions continuous improvement, it does not provide extensive detail or strategies specifically related to the broader category of Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:24:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the integration of Kanban and Scrum, discussing their relationship and how Kanban can enhance Scrum processes. While it touches on aspects of team efficiency and workflow optimisation, it does not explicitly address the concept of Common Goals or their significance in Agile and DevOps frameworks. The discussion lacks depth in connecting individual contributions to overarching strategic objectives, which is crucial for the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:24:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the integration of Kanban and Scrum, with limited direct discussion on competence. While it touches on aspects of continuous improvement and decision-making, it does not delve deeply into the development of skills or the professional growth of teams, which are central to the concept of competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:24:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the relationship between Kanban and Scrum, discussing how they can complement each other rather than addressing the principles or components of the One Engineering System. While it touches on improving processes and efficiency, it does not delve into the integration of tools or methodologies across teams, which is central to 1ES. Therefore, the confidence score reflects a low alignment with the One Engineering System category.",
     "level": "Ignored"
   }
 }

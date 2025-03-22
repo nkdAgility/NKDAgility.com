@@ -661,11 +661,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T08:31:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:30:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of shared understanding of product vision and strategic goals within Agile teams, without any direct reference to Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of a shared product vision and strategic goals within Agile teams, which is not directly related to Continuous Delivery practices. While it touches on aspects of team alignment and decision-making, it lacks explicit references to Continuous Delivery principles, automation, or delivery techniques. The focus is more on Agile methodologies rather than the specific practices and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -844,12 +847,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T12:38:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T17:30:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding product vision and strategic goals for better decision-making and collaboration, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on communication and alignment rather than empirical evidence or data-driven approaches.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of a shared product vision and strategic goals within Agile teams, which aligns with the concept of empirical decision-making and outcome management. However, it primarily focuses on communication and understanding rather than on metrics or evidence-based practices, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1300,11 +1306,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T08:29:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:30:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile transformation and the importance of shared understanding of product vision and goals, which are not central to DevOps principles.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile principles and the importance of a shared product vision within teams, which is not directly related to DevOps. While it touches on collaboration and decision-making, key aspects of DevOps are not discussed, such as automation, shared accountability, or continuous delivery. The discussion is more aligned with Agile methodologies rather than the DevOps philosophy.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1481,22 +1490,16 @@
     "reasoning": "The content discusses the importance of shared understanding of product vision and strategic goals within Agile teams, which aligns with human-centric approaches and fostering adaptive organisational cultures. However, it primarily focuses on Agile practices rather than the core principles of BetaCodex.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:38:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of product vision and strategic goals in Agile transformation, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:38:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T17:30:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of understanding product vision and strategic goals within Agile teams, which aligns closely with the principles of the Agile Product Operating Model.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the importance of a shared product vision and strategic goals within Agile teams, which aligns closely with the principles of the Agile Product Operating Model. It discusses how understanding these elements can enhance decision-making and collaboration, key aspects of APOM. However, while it touches on relevant themes, it does not delve deeply into the operational aspects or governance of product delivery, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Leadership": {
@@ -1563,6 +1566,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the importance of shared understanding of product vision and strategic goals within Agile teams. While it touches on aspects of collaboration and decision-making, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The focus is more on Agile practices rather than integrating testing, security, or compliance early in the development process, which is central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:30:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of a shared product vision and strategic goals, which indirectly relates to Continuous Improvement by emphasising the need for alignment and understanding within teams. However, it lacks direct references to Continuous Improvement practices or frameworks, and while it touches on aspects of team effectiveness and decision-making, it does not delve deeply into the methodologies or strategies for fostering a culture of continuous improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:30:10",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of a shared product vision and strategic goals within Agile teams, directly addressing how these elements contribute to alignment and effective decision-making. It provides practical strategies for ensuring that team members understand and internalise these goals, which is central to the concept of Common Goals. The depth of discussion is significant, covering various aspects such as communication, collaboration, and the impact on organisational performance, thus aligning well with the category's key topics.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:30:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of a shared product vision and strategic goals, which directly relates to the concept of competence in Agile environments. It emphasises the necessity for team members to internalise these concepts to enhance decision-making and collaboration, aligning well with the core themes of competence. The depth of discussion is substantial, providing practical strategies for fostering understanding and alignment, which further supports the competence framework. However, while competence is a significant focus, the content also touches on broader Agile principles, preventing a perfect score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:30:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of a shared product vision and strategic goals within Agile teams, which is not directly related to the One Engineering System framework. While it touches on collaboration and decision-making, it lacks explicit discussion of 1ES principles, components, or implementation strategies. The content does not provide depth on the integration of tools or processes across teams, nor does it address challenges specific to adopting a unified engineering system.",
     "level": "Ignored"
   }
 }

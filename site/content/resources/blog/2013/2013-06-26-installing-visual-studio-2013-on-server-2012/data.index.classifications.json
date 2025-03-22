@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:25:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:46:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content focuses solely on the installation process of Visual Studio 2013 and does not discuss any aspects of Evidence-Based Management. There are no direct mentions of data-informed decision-making, metrics, or any of the key topics outlined in the EBM definition. The content is primarily technical and instructional, lacking any connection to the principles of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T18:26:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:45:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not address any DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2013 on Server 2012, with no explicit discussion of DevOps principles or practices. While it mentions tools that could be used in a DevOps context, it does not engage with the core themes of collaboration, automation, or shared accountability that define DevOps. The discussion lacks depth and does not explore any cultural shifts or practices related to DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -311,7 +317,7 @@
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not address Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:26:33",
     "ai_confidence": 0,
@@ -322,11 +328,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:26:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:46:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not relate to Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the installation process of Visual Studio 2013 on Server 2012, with no references to agile methodologies, product management principles, or the Agile Product Operating Model. It does not discuss any relevant topics such as product delivery, operational stability, or continuous improvement, which are core to the category. Therefore, it has minimal relevance to the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:08:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:46:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the installation process of Visual Studio 2013 and related configurations, which is not related to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2013 on Server 2012, with no direct discussion of Continuous Delivery principles, practices, or benefits. While it mentions aspects of software development, it does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or user feedback. The depth of discussion is limited to installation details, which are not relevant to Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1428,6 +1440,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2013 and does not discuss any aspects of the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the software development lifecycle, nor does it provide any techniques, case studies, or tools related to the Shift-Left approach. The discussion is entirely centred on installation details and personal preferences, which are unrelated to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:45:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2013 and does not discuss Continuous Improvement principles. While there are mentions of flexibility and user experience, these do not align with the core themes of Continuous Improvement, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:46:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2013 on Server 2012, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it mentions tools related to development, it does not connect these tools to shared objectives or strategic alignment, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:46:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2013 and does not explicitly discuss competence or related themes such as continuous learning, skill development, or professionalism. While there are mentions of personal experience and preferences, these do not align with the core principles of competence as defined in Agile and DevOps contexts.",
     "level": "Ignored"
   }
 }

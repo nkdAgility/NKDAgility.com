@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:49:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:13:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS 2012 and licensing requirements. It does not discuss Evidence-Based Management principles, nor does it provide any empirical evidence or metrics related to management decisions. The mention of licensing and feature access is not aligned with the core themes of EBM, which emphasises data-informed decision-making and value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T19:49:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:13:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, which does not align with DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific issue related to TFS 2012 and licensing requirements, which does not align with the core principles of DevOps. While it touches on administrative tasks, it lacks discussions on collaboration, automation, or cultural shifts that are central to DevOps. The mention of features and licensing is more about tool management than the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:50:20",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:50:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:13:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses licensing issues related to TFS 2012 and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on resolving a specific issue related to TFS 2012 and licensing requirements, with no direct mention or discussion of the Agile Product Operating Model or its principles. It does not align with the core themes of APOM, such as product management or agile methodologies, and lacks depth in discussing any relevant concepts.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:50:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:13:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses licensing issues related to TFS 2012 and does not address Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific issue related to TFS 2012 and licensing requirements, which does not align with the principles or practices of Continuous Delivery. There are no direct mentions of Continuous Delivery concepts, and the discussion lacks depth in any related themes such as automation, incremental improvements, or user feedback.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1434,6 +1446,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses licensing issues related to TFS 2012 and does not address the Shift-Left Strategy or its principles, benefits, or practices. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. The focus is entirely on administrative access and licensing, which is unrelated to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:13:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS 2012 and licensing requirements. It does not discuss Continuous Improvement principles, nor does it provide insights into processes, team effectiveness, or empirical evidence. The mention of enhancing the admin experience is too vague and does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:13:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS 2012 and licensing requirements. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment. The mention of administrative roles and licensing does not connect to the core themes of Common Goals, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:13:11",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS 2012 and licensing requirements. While it touches on the necessity of having the correct licenses for accessing features, it does not delve into the broader themes of competence, such as continuous learning, skill development, or fostering a culture of competence. The discussion is more about administrative tasks rather than the development of capabilities or professionalism within teams.",
     "level": "Ignored"
   }
 }

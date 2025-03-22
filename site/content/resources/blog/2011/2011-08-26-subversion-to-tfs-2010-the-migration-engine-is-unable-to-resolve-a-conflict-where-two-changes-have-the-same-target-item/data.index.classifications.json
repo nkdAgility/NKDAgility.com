@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T22:05:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:37:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, focusing on conflict resolution rather than evidence-based management principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to migrating from Subversion to TFS 2010, focusing on conflict resolution during the migration process. It does not mention Evidence-Based Management or its key topics, nor does it provide any empirical evidence or data-informed decision-making insights. The discussion is centred around practical migration challenges rather than strategic management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T22:05:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:37:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to migrating from Subversion to Team Foundation Server, focusing on conflict resolution rather than DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical challenges of migrating from Subversion to TFS 2010, discussing specific conflicts and resolutions related to version control systems. While it touches on aspects of software development and project management, it does not engage with the core principles of DevOps such as collaboration, automation, or shared accountability. The discussion lacks depth in relation to DevOps philosophy and practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +326,7 @@
     "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, focusing on specific conflicts and resolutions rather than exploring Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T22:05:50",
     "ai_confidence": 0,
@@ -331,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T22:05:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:37:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to migrating from Subversion to Team Foundation Server, focusing on technical conflicts rather than Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical challenges related to migrating from Subversion to TFS 2010, focusing on conflict resolution during the migration process. It does not mention or align with the Agile Product Operating Model, its principles, or any related topics. The discussion is centred around traditional project management issues rather than agile methodologies or product management practices.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -406,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:06:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:37:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to migrating a repository from Subversion to Team Foundation Server, focusing on conflict resolution during migration, which does not align with Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the technical challenges and solutions related to migrating from Subversion to TFS 2010, focusing on conflict resolution during the migration process. While it touches on aspects of software delivery, such as handling changes and conflicts, it does not explicitly address Continuous Delivery principles, practices, or the role of automation in testing and deployment. The discussion lacks depth in Continuous Delivery concepts and does not provide insights into the broader themes of Continuous Delivery, such as rapid feedback, cultural aspects, or case studies. Therefore, the content's relevance to the Continuous Delivery category is minimal.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1452,6 +1464,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses issues related to migrating from Subversion to TFS, focusing on conflict resolution during the migration process. It does not address the Shift-Left Strategy, which involves integrating testing, security, and compliance earlier in the software development lifecycle. There are no direct mentions of Shift-Left principles, and the discussion lacks depth on any related methodologies or practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:37:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical challenges and solutions related to migrating from Subversion to TFS 2010, with no explicit discussion on Continuous Improvement principles. While it touches on problem-solving and conflict resolution, it lacks a broader context of ongoing reflection, adaptation, or a culture of experimentation that characterises Continuous Improvement. The content does not provide empirical evidence or strategies for integrating Continuous Improvement into processes, nor does it discuss its impact on team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:37:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical challenges and solutions related to migrating from Subversion to TFS 2010, specifically addressing conflict resolution. It does not discuss or align with the principles of Common Goals in Agile or DevOps, such as shared objectives or strategic alignment. The mention of migration tools and conflict resolution is more about project management and technical execution rather than fostering collaboration or accountability across teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:37:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical challenges of migrating from Subversion to TFS 2010, discussing specific conflicts and resolutions. While it touches on the need for problem-solving skills, it does not explicitly address the broader themes of competence, such as continuous learning or skill development in Agile or DevOps contexts. The discussion lacks depth in relation to competence as a foundational principle, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   }
 }

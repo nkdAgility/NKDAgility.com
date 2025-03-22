@@ -22,6 +22,9 @@ headline:
   subtitle: Practices that enhance software quality and responsiveness through effective design, testing, and delivery methodologies.
   content: Practices that foster high-quality software development through effective design, rigorous testing, and streamlined delivery. Topics include test-driven development, continuous integration and delivery, modular architecture, and adaptive design, all aimed at enhancing responsiveness and collaboration within teams.
   updated: 2025-02-13T11:58:37Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

@@ -47,15 +47,6 @@
     "reasoning": "Content primarily discusses Kanban principles and does not focus on BetaCodex or its related themes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:43:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Kanban principles, which are unrelated to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-03-06T13:43:27",
@@ -79,11 +70,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T12:43:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:32:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban principles, which are not central to DevOps practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban, which is a workflow management method within Agile, rather than discussing DevOps principles or practices. While there are elements of collaboration and continuous improvement mentioned, they are not explicitly tied to the DevOps philosophy or its core themes. The discussion lacks depth in relation to DevOps, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -115,11 +109,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:43:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:32:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Kanban principles without a focus on the Agile Product Operating Model or value delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban, a specific agile methodology, rather than discussing the Agile Product Operating Model (APOM) as a framework. While it touches on agile principles and continuous improvement, it does not address the core themes of APOM, such as transitioning to a product ethos or integrating product management practices.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -319,11 +316,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T12:44:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the core principles of Kanban, which is not directly related to Evidence-Based Management.",
+    "calculated_at": "2025-03-21T17:32:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Kanban principles and does not explicitly discuss Evidence-Based Management or its key topics. While it touches on aspects of workflow management and continuous improvement, it lacks a strong connection to empirical decision-making or metrics that assess current value, time to market, or unrealised value.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -1036,11 +1036,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T13:56:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Kanban principles, which are not related to Continuous Delivery.",
+    "calculated_at": "2025-03-21T17:32:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Kanban principles, which are related to workflow management rather than Continuous Delivery. While it touches on aspects of improvement and efficiency, it does not explicitly discuss Continuous Delivery practices, automation, or the rapid feedback loop essential to the category.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1473,6 +1476,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Kanban principles and does not discuss the Shift-Left Strategy or its core themes. While it touches on workflow management and continuous improvement, these concepts are not directly related to integrating testing, security, or compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:32:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the principles of Kanban, particularly focusing on the concept of continuous improvement as a core element. It highlights the importance of actively managing workflows and making incremental changes to enhance efficiency, which aligns closely with the principles of Continuous Improvement. The depth of discussion on practical examples and personal experiences further supports its relevance to the category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:32:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Kanban framework and its principles, which are related to workflow management rather than explicitly discussing Common Goals within Agile or DevOps. While there are elements of team collaboration and improvement, the discussion lacks a direct connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:32:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Kanban principles that indirectly relate to competence through continuous improvement and active management of workflows. However, it lacks a direct focus on skill development or the professional growth aspect of competence, which diminishes its overall alignment with the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:32:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Kanban, a specific Agile methodology, and does not discuss the One Engineering System (1ES) framework or its principles. While it touches on themes of workflow management and efficiency, it lacks direct relevance to the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

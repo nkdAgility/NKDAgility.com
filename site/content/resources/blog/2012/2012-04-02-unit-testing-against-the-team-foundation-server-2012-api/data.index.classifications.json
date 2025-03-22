@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:40:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:22:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses unit testing and authentication issues related to the Team Foundation Server API, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on unit testing and authentication challenges related to the Team Foundation Server API, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on Test Driven Development (TDD), it does not align with the core themes of EBM such as data-informed decision-making or value delivery metrics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,14 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:59:00",
+    "calculated_at": "2025-03-22T08:22:16",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
+    "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily focuses on unit testing and authentication issues related to the Team Foundation Server (TFS) API, which are more aligned with software development practices rather than DevOps principles. While there are mentions of build servers and automated testing, the discussion lacks a comprehensive exploration of DevOps practices such as Continuous Integration (CI) or Continuous Delivery (CD). The content does not delve into the cultural shifts, tools, or metrics typically associated with DevOps, leading to a lower confidence score in its alignment with the DevOps category.",
+    "reasoning": "The content primarily focuses on unit testing against the Team Foundation Server API, discussing authentication challenges and Test Driven Development (TDD) practices. While it touches on aspects of automation and continuous integration, which are relevant to DevOps, the main emphasis is on testing methodologies rather than the broader DevOps philosophy or principles. Therefore, it does not align closely with the core themes of DevOps, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -323,7 +326,7 @@
     "reasoning": "Content primarily discusses unit testing and authentication issues related to the Team Foundation Server API, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:41:21",
     "ai_confidence": 0,
@@ -334,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:41:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:22:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses unit testing and authentication issues related to the Team Foundation Server API, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on unit testing and authentication challenges related to the Team Foundation Server API, with no direct mention or discussion of the Agile Product Operating Model or its principles. While it touches on Test Driven Development (TDD), it does not align with the core themes of APOM, such as product management practices or continuous delivery. The depth of discussion is also minimal, as it does not explore any relevant agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -409,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:41:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:22:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses unit testing and authentication issues with the Team Foundation Server API, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on unit testing and authentication challenges related to the Team Foundation Server API, which does not directly address Continuous Delivery principles or practices. While there are mentions of automated testing, the discussion lacks depth in Continuous Delivery concepts such as deployment automation, rapid feedback, or cultural aspects of Continuous Delivery. Overall, the content is more aligned with software testing practices rather than Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1479,6 +1488,42 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses unit testing and Test Driven Development (TDD), which are related to early testing practices in the software development lifecycle. However, it lacks a direct focus on the broader Shift-Left Strategy principles, such as integrating security and compliance early. While it touches on testing, it does not provide a comprehensive discussion on the benefits or methodologies of the Shift-Left approach, nor does it explore collaboration or metrics related to Shift-Left initiatives.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:22:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on unit testing and authentication challenges with the Team Foundation Server API. While it touches on Test Driven Development (TDD), which can be a part of continuous improvement practices, it does not explicitly discuss continuous improvement principles, nor does it provide a detailed exploration of how these practices enhance processes or team effectiveness. The discussion lacks a clear connection to the broader themes of continuous improvement, such as empirical evidence, culture of experimentation, or strategies for integrating continuous improvement into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:22:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical aspects of unit testing and authentication with the Team Foundation Server API, lacking any discussion on shared objectives or alignment within Agile or DevOps frameworks. It does not address the significance of Common Goals, nor does it explore how these goals impact team collaboration or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:22:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to unit testing and authentication with the Team Foundation Server API. While it touches on aspects of Test Driven Development (TDD), which implies a level of competence in software development practices, it does not explicitly discuss the broader themes of continuous learning, skill development, or the importance of competence in Agile or DevOps environments. The discussion lacks depth in exploring how these practices contribute to professionalism or quality outcomes, leading to a lower confidence score in the 'Competence' category.",
     "level": "Ignored"
   }
 }

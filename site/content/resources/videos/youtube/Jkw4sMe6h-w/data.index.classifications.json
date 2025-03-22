@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T19:39:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:08:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile leadership and traditional management, with a focus on Agile methodologies rather than DevOps principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile leadership and its differences from traditional management, with no direct discussion of DevOps principles or practices. While Agile and DevOps share some common themes, the content does not delve into the core aspects of DevOps such as collaboration, automation, or shared accountability, which are essential for a higher confidence score in this category.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -94,11 +97,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T19:39:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:08:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses agile leadership and traditional management without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile Leadership and its differences from traditional management, without a focus on Evidence-Based Management principles. While it mentions the need for adaptive leadership in complex environments, it lacks direct references to empirical evidence, metrics, or the core themes of EBM such as current value, time to market, or outcome management. The discussion is more aligned with Agile methodologies rather than evidence-based practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -336,15 +342,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content heavily discusses Agile leadership and traditional management without a focus on release processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T19:40:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile leadership and traditional management, with a focus on agile methodologies rather than the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -655,11 +652,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T19:41:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:08:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile leadership and traditional management, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile Leadership and its differences from traditional management, with no direct mention of Continuous Delivery principles or practices. While Agile methodologies can relate to Continuous Delivery, the focus here is on leadership styles rather than delivery practices, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -748,11 +748,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T19:41:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:08:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses agile leadership and traditional management, with no clear focus on the Agile Product Operating Model.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile Leadership and its differences from traditional management, which is not directly aligned with the Agile Product Operating Model. While it mentions agile concepts and the importance of adaptive leadership, it lacks a focus on product management principles, continuous delivery, or the specific themes outlined in the APOM framework. The discussion is more about leadership styles rather than the operational model itself.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1485,6 +1488,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile leadership and its differences from traditional management, with no explicit mention of the Shift-Left Strategy. While it touches on Agile principles, it does not address integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:08:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile Leadership in contrast to traditional management, with a focus on the need for adaptive leadership in complex environments. While it mentions continuous improvement in the context of Agile practices, it does not delve deeply into the principles or strategies of Continuous Improvement itself. The discussion is more about leadership styles rather than the ongoing practice of enhancing processes or team effectiveness, which is central to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:08:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile Leadership in contrast to traditional management, which is tangentially related to the concept of Common Goals. However, it lacks explicit discussions on shared objectives or alignment within teams, which are central to the Common Goals category. The focus is more on leadership styles rather than the foundational principles of aligning strategy with execution in Agile and DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:08:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile leadership in contrast to traditional management, which does not directly address the concept of competence. While it touches on themes of adaptability and team performance, it lacks explicit discussions on continuous learning, skill development, or the professional standards associated with competence. The focus is more on leadership styles rather than the foundational principles of competence in Agile methodologies.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:08:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile Leadership and its differences from traditional management, with no direct mention of the One Engineering System. While it touches on Agile methodologies, it does not discuss the integration or standardisation of engineering processes, which are core to 1ES. The depth of discussion is limited to leadership styles rather than the principles or components of 1ES.",
     "level": "Ignored"
   }
 }

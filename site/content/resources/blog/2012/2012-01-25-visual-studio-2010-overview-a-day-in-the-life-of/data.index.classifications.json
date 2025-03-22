@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:34:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:31:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of TFS in project roles without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the practical use of TFS 2010 in the context of development and project management roles, without explicitly discussing Evidence-Based Management principles. While it touches on planning and execution, it lacks a clear emphasis on data-informed decision-making or empirical evidence, which are central to EBM. The discussion is more about processes and tools rather than metrics or outcomes that align with EBM themes.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T06:11:25",
+    "calculated_at": "2025-03-22T08:30:50",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
+    "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the roles of Developers, Testers, and Program Managers within the context of using TFS (Team Foundation Server) for project management. While it touches on aspects of planning and building units of work, which are relevant to DevOps, it lacks a direct discussion of DevOps principles, practices, or tools. The mention of planning sprints and releases aligns somewhat with DevOps concepts, but the overall focus is more on traditional project management and ALM (Application Lifecycle Management) rather than the integration of development and operations teams or continuous delivery practices.",
+    "reasoning": "The content primarily focuses on the roles and activities of developers, testers, and program managers within the context of using TFS 2010, which is more aligned with project management and software development practices rather than the core principles of DevOps. While there are mentions of planning and testing, which are relevant to DevOps, the discussion lacks depth in terms of collaboration, automation, and shared accountability that are central to the DevOps philosophy. Therefore, the confidence score reflects a low alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -335,7 +338,7 @@
     "reasoning": "Content primarily focuses on the roles and processes within Visual Studio ALM, without discussing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:35:06",
     "ai_confidence": 0,
@@ -346,14 +349,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T06:12:20",
+    "calculated_at": "2025-03-22T08:31:03",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
+    "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content primarily focuses on the use of TFS in a project context, detailing roles and tasks rather than discussing the Agile Product Operating Model. While it mentions planning sprints and building units of business value, these elements are presented in a traditional project management context rather than as part of a holistic Agile approach. The discussion lacks depth on Agile principles and does not explore the broader themes of value delivery or cross-functional teams, which are central to the Agile Product Operating Model.",
+    "reasoning": "The content primarily focuses on the use of TFS 2010 in a project context, detailing the roles of developers, testers, and program managers. While it mentions planning and sprint activities, which are relevant to agile practices, it does not explicitly discuss the Agile Product Operating Model or its core principles. The discussion is more aligned with traditional project management methodologies rather than a product-oriented mindset, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -427,11 +430,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:09:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:31:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses roles and planning in software development using TFS, without a focus on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the roles of developers, testers, and program managers within the context of TFS 2010, discussing planning and testing strategies. While it touches on aspects of software delivery, such as planning a release and building a shippable unit of work, it lacks a direct focus on Continuous Delivery principles and practices. The discussion is more aligned with general software development and project management rather than the specific themes of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1524,6 +1530,42 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content provides a general overview of roles in a software development context, mentioning planning and testing activities. However, it lacks explicit discussions on integrating testing and security early in the development process, which is central to the Shift-Left Strategy. The focus is more on the roles and tools used rather than the proactive approach of identifying issues early, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:30:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the daily activities of developers, testers, and program managers using TFS 2010, with an emphasis on planning and executing tasks rather than on Continuous Improvement principles. While it mentions planning and verifying work, it lacks a strong connection to the core themes of Continuous Improvement, such as empirical evidence, culture of experimentation, or strategies for integrating improvement into processes. The discussion is more operational than strategic, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:30:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content provides a general overview of roles and activities within a project using TFS, but it lacks a focused discussion on Common Goals as defined in the category. While it mentions planning and building units of work, it does not explicitly connect these activities to shared objectives or strategic alignment within Agile or DevOps frameworks. The depth of discussion is limited, primarily describing tasks rather than exploring the significance of aligning these tasks with overarching goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:31:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content provides an overview of roles and activities within a project using TFS, which touches on aspects of competence such as planning and execution. However, it lacks explicit discussions on continuous learning, skill development, or the deeper implications of competence in Agile or DevOps contexts. The focus is more on the operational aspects rather than fostering a culture of competence or professional growth.",
     "level": "Ignored"
   }
 }

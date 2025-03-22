@@ -991,11 +991,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-13T22:33:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:50:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of co-location in the context of online events and communication, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concept of co-location in agile practices and the importance of video engagement in virtual events. While it touches on aspects of communication and collaboration, it does not explicitly address Continuous Delivery principles, practices, or benefits. The focus is on participation and presence in online settings rather than on software delivery cycles or automation, which are central to Continuous Delivery.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1114,11 +1117,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T22:29:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:50:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of video presence in online meetings and the evolution of co-location, without focusing on empirical evidence or data-driven management practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of video engagement and communication in online events, focusing on co-location and non-verbal communication rather than evidence-based management principles. While it touches on aspects of communication that could relate to team dynamics, it lacks direct references to empirical decision-making, metrics, or the core themes of Evidence-Based Management.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -1211,15 +1217,6 @@
     "reasoning": "Content primarily discusses the concept of co-location and the importance of video presence in online meetings, without any focus on installation or configuration of tools or software.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T22:30:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of co-location in the context of online events and communication, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-03-06T16:02:24",
@@ -1276,11 +1273,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-13T22:30:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:49:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of co-location in the context of online meetings and communication, without a clear focus on DevOps principles, practices, or tools.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the concept of co-location in agile practices and the importance of video engagement in virtual events. While it touches on collaboration and communication, which are relevant to DevOps, it does not explicitly address DevOps principles or practices. The focus is more on agile methodologies rather than the broader DevOps philosophy, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -1345,11 +1345,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-13T22:30:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:50:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of co-location in online events and communication practices, without a clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of co-location and online participation in agile practices, but it does not explicitly address the Agile Product Operating Model or its core principles. While it touches on themes of communication and collaboration, it lacks depth in discussing product management integration or the transition from project to product ethos, which are central to the APOM framework.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1539,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the importance of co-location and communication in online events, with no direct mention of the Shift-Left Strategy or its principles. While it touches on collaboration, it does not address integrating testing, security, or compliance earlier in the software development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:50:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of online participation and communication in agile practices, which touches on aspects of team effectiveness and adaptation to new technologies. However, it lacks a direct focus on Continuous Improvement principles, such as empirical evidence, data-driven decision-making, or specific strategies for fostering a culture of experimentation. The discussion is more about redefining co-location rather than a comprehensive exploration of Continuous Improvement as a primary theme.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:50:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of presence and engagement in online events, which indirectly relates to the concept of Common Goals by emphasising effective communication and collaboration. However, it lacks a direct focus on shared objectives or strategic alignment within Agile and DevOps frameworks, making it more of a secondary mention rather than a primary discussion.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:50:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of presence and engagement in online events, which indirectly relates to competence in terms of effective communication and collaboration. However, it primarily focuses on the logistics of virtual participation rather than on continuous learning, skill development, or the core themes of competence as defined in Agile and DevOps. The discussion lacks depth in exploring how these practices contribute to professional growth or quality outcomes.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:50:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concept of co-location in agile practices and the importance of video engagement in virtual events. While it touches on themes of communication and collaboration, it does not explicitly mention or focus on the One Engineering System framework, its principles, or its implementation. The discussion is more about personal engagement in online settings rather than the integration and standardisation of engineering processes, which is the core of 1ES.",
     "level": "Ignored"
   }
 }

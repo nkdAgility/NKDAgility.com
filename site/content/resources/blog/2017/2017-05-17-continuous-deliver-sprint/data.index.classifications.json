@@ -34,14 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T03:46:11",
+    "calculated_at": "2025-03-21T21:16:34",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
+    "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses the role of Sprints in Scrum and their benefits, such as communication, alignment, and predictability. However, it primarily focuses on Scrum practices rather than explicitly addressing Evidence-Based Management principles. While there are mentions of empirical processes and feedback loops, the overall emphasis is on Scrum methodology rather than a data-driven approach to management decision-making.",
+    "reasoning": "The content primarily discusses the role of Sprints in Scrum and continuous delivery, focusing on communication, predictability, and planning. While it touches on empirical processes and the importance of delivering working software, it does not explicitly engage with the core themes of Evidence-Based Management, such as current value metrics or empirical decision-making. The discussion is more centred on Scrum practices rather than a data-informed management approach.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -133,15 +133,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T14:39:20",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "calculated_at": "2025-03-21T21:16:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses the relationship between Scrum and continuous delivery, which aligns with DevOps principles. However, the primary focus is on Scrum practices rather than a comprehensive exploration of DevOps as a whole. While it touches on aspects of collaboration and delivery frequency, it lacks a deeper examination of DevOps tools, cultural shifts, or metrics, which are crucial for a full alignment with the DevOps category.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum methodology and its relationship with continuous delivery, which is a specific framework rather than the broader DevOps philosophy. While it touches on concepts like communication, predictability, and feedback loops, these are framed within the context of Scrum rather than DevOps principles. The focus on Sprints and Scrum roles detracts from a comprehensive exploration of DevOps as a philosophy, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -338,23 +338,17 @@
     "reasoning": "Content primarily discusses Scrum methodology and continuous delivery, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T19:24:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum methodology and its practices, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T21:16:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and its relationship with continuous delivery, which aligns with Agile principles, but primarily focuses on Scrum practices rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the role of Sprints within the Scrum framework, focusing on their importance for communication, predictability, and planning in software development. While it touches on agile principles, it does not explicitly address the broader Agile Product Operating Model or its key topics such as transitioning to a product ethos or integrating product management practices. The discussion is more centred on Scrum rather than the APOM, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -424,12 +418,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T21:16:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Continuous Delivery in relation to Scrum, highlighting the compatibility and benefits of both methodologies. However, the primary focus is on Scrum practices, making Continuous Delivery a significant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses Continuous Delivery in the context of Scrum, highlighting how Sprints can coexist with a Continuous Delivery model. It directly mentions Continuous Delivery multiple times and explores its principles, such as the importance of frequent releases and the role of feedback loops. However, the primary focus is on the necessity of Sprints within Scrum, which slightly detracts from a deeper exploration of Continuous Delivery itself. Overall, while it aligns well with the category, the emphasis on Scrum reduces the depth of discussion specifically about Continuous Delivery.",
+    "level": "Secondary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -1539,6 +1536,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum practices and continuous delivery, focusing on the cadence and planning aspects of Sprints rather than integrating testing, security, or compliance earlier in the development process. While it touches on the importance of delivery frequency, it does not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:16:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of Sprints in Scrum and how they facilitate communication, predictability, and planning, which are relevant to Continuous Improvement. However, the primary focus is on the mechanics of Scrum rather than a deep exploration of Continuous Improvement principles. While it touches on empirical processes and feedback loops, it does not provide extensive detail on Continuous Improvement strategies or case studies, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:16:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of Sprints in Scrum and how they enhance communication, predictability, and planning, which aligns with the concept of Common Goals. However, it primarily focuses on the mechanics of Scrum rather than explicitly addressing shared objectives or strategic alignment across teams. While it touches on alignment and communication, it does not delve deeply into the broader implications of Common Goals within Agile and DevOps frameworks.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:16:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of Sprints in Scrum and how they contribute to communication, predictability, and planning, which are essential for competence in Agile methodologies. It highlights the need for continuous improvement and the role of structured processes in achieving quality outcomes. However, while competence is a theme, the primary focus is more on the mechanics of Scrum rather than a deep exploration of competence itself.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:16:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum methodology and its relationship with continuous delivery, which does not align with the core principles of the One Engineering System. While it touches on aspects of software delivery and team communication, it lacks a focus on the integration and standardisation of engineering processes that define 1ES. The discussion is centred around Scrum practices rather than the broader framework of 1ES.",
     "level": "Ignored"
   }
 }

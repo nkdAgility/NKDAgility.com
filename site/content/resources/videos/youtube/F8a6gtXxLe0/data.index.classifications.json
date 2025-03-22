@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:17:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:14:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses individual experiences and opinions regarding training at Healthgrades, with no clear focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum, which is a framework within Agile methodologies, rather than focusing on DevOps principles. While it touches on collaboration and process improvement, it lacks direct references to key DevOps concepts such as automation, shared accountability, or continuous delivery. The discussion is more about Scrum's role in enhancing team workflows than about the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -241,11 +244,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:14:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses training and personal opinions on training methods, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum and Agile methodologies, focusing on process improvement rather than Continuous Delivery specifically. While it touches on themes of delivering value and improving collaboration, it lacks a direct focus on Continuous Delivery principles, such as automation, rapid feedback, and incremental improvements. The discussion is more about understanding processes than about the practices and tools that enable Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -372,15 +378,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on an individual experience with training at Healthgrades and does not discuss Value Stream Management, its principles, or related topics.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses individual experiences and opinions on training at Healthgrades rather than the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1141,11 +1138,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on personal anecdotes about training individuals rather than discussing the Agile Product Operating Model or related principles and practices.",
+    "calculated_at": "2025-03-21T21:14:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content primarily discusses Scrum and its processes, which are part of Agile methodologies, but it does not explicitly address the Agile Product Operating Model or its principles. While it touches on themes of collaboration and process improvement, it lacks a direct focus on product management aspects and the broader framework of APOM. The depth of discussion on Scrum processes is significant, but it does not sufficiently align with the core topics of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1348,11 +1348,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:14:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on personal experiences and anecdotal evidence related to training at Healthgrades, with no discussion of evidence-based management principles or empirical data.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum and Agile methodologies, focusing on process improvement and team dynamics rather than empirical evidence or data-informed decision-making. While it touches on the importance of understanding processes and delivering value, it lacks a strong emphasis on metrics or evidence-based practices that are central to Evidence-Based Management.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1422,6 +1425,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Scrum and process improvement rather than explicitly addressing the Shift-Left Strategy. While it touches on the importance of understanding processes and collaboration, it does not delve into integrating testing, security, or compliance earlier in the development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:14:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of understanding and refining processes within the Scrum framework, which aligns well with the principles of Continuous Improvement. It highlights the transformation in mindset regarding process awareness and its impact on team collaboration and delivery. The discussion is detailed, providing insights into the benefits of process awareness and the necessity of embracing process improvement, which are core themes of Continuous Improvement. However, while it touches on these topics, it does not delve deeply into empirical evidence or specific Continuous Improvement frameworks, which slightly lowers the confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:14:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of understanding Scrum processes and how this awareness can enhance collaboration and delivery. However, it primarily focuses on personal experiences and insights rather than explicitly addressing the concept of Common Goals. While there are mentions of teamwork and process improvement, the discussion lacks a direct connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:14:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of understanding processes in Scrum, which aligns with the principles of competence by emphasising continuous learning and skill development. It highlights the transformation in mindset regarding process awareness, which is crucial for delivering quality outcomes and maintaining trust within teams. The depth of discussion is substantial, providing insights into how process awareness can enhance collaboration and improve delivery, thus fostering a culture of competence. However, while competence is a significant theme, the primary focus is more on process improvement rather than competence itself, which slightly lowers the confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:14:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum, which is a specific Agile methodology, rather than the broader principles of the One Engineering System (1ES). While it touches on process improvement and collaboration, it does not explicitly mention 1ES or its components. The focus is on individual experiences and insights related to Scrum, which does not align closely with the core themes of 1ES, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

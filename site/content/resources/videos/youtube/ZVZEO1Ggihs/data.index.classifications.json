@@ -155,15 +155,6 @@
     "reasoning": "Content primarily discusses leadership challenges in scaling Agile practices, with no clear focus on Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-25T12:08:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses leadership challenges in scaling rather than the principles or practices of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
     "calculated_at": "2025-02-25T12:08:57",
@@ -787,11 +778,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-25T12:10:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:41:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses leadership challenges in scaling organisations rather than focusing on evidence-based management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses leadership in the context of scaling, which is somewhat related to Evidence-Based Management, particularly in terms of empowering teams and decentralising decision-making. However, it lacks direct mentions of empirical evidence or specific metrics that are central to EBM. The focus is more on leadership principles rather than data-informed decision-making, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Software Developers": {
@@ -1156,11 +1150,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-25T12:11:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:41:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses leadership challenges in scaling rather than Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on leadership and organisational scaling rather than Continuous Delivery principles. While it touches on aspects of team empowerment and decision-making, it does not explicitly discuss Continuous Delivery practices, automation, or the delivery of software in reliable cycles.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1437,6 +1434,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses leadership and organisational scaling rather than the Shift-Left Strategy. While it touches on aspects of team empowerment and decision-making, it does not explicitly mention integrating testing, security, or compliance early in the development process, which are core to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:41:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses leadership in the context of scaling and team empowerment, which aligns with some principles of Continuous Improvement, such as fostering a culture of experimentation and learning. However, it lacks direct mentions of Continuous Improvement practices and does not delve deeply into specific strategies or frameworks associated with the category. The focus is more on leadership and scaling rather than on continuous improvement as a primary theme.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:41:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses leadership in the context of scaling, which indirectly relates to the alignment of teams and objectives. However, it lacks explicit references to Common Goals, Agile, or DevOps principles. The focus is more on leadership strategies rather than the foundational principles of Common Goals, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:41:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 20,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses leadership in the context of scaling, which indirectly relates to competence by emphasising the need for empowering teams and decentralising decision-making. However, it lacks a direct focus on continuous learning or skill development, which are core themes of competence. The depth of discussion is moderate, primarily centred on leadership rather than the development of competence itself.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:41:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on leadership and organisational culture in the context of scaling, with no direct mention of the One Engineering System or its principles. While it touches on themes of team empowerment and decision-making, these are not specifically aligned with the integration and standardisation of engineering processes that 1ES advocates. The discussion lacks depth regarding the framework itself, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

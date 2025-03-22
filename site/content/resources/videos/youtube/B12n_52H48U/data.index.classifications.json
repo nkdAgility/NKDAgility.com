@@ -652,11 +652,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T09:25:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses decision-making in product management and pivoting strategies, with no clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T18:55:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the role of a product owner within Agile project management, focusing on decision-making and adaptability rather than Continuous Delivery principles. While it touches on aspects of feedback and learning, which are relevant to Continuous Delivery, it does not explicitly address the core themes or practices of Continuous Delivery, such as automation, incremental improvements, or deployment strategies.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -823,14 +826,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T22:12:58",
+    "calculated_at": "2025-03-21T18:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content discusses decision-making in an Agile context, touching on aspects like balancing data with instinct and the importance of feedback. However, it lacks a strong focus on empirical evidence or structured metrics, which are central to Evidence-Based Management. The discussion is more about personal intuition and Agile principles rather than a rigorous application of evidence-based practices.",
+    "reasoning": "The content discusses decision-making in an Agile context, focusing on the role of the product owner and the importance of balancing data with instinct. However, it lacks a direct focus on Evidence-Based Management principles, such as empirical decision-making or specific metrics related to current value, time to market, or unrealised value. While it touches on the importance of data and feedback, it does not provide a structured analysis or depth related to EBM, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1291,11 +1294,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T09:23:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses decision-making in the context of product management and Agile methodologies, specifically focusing on Scrum roles and events, rather than DevOps principles or practices.",
+    "calculated_at": "2025-03-21T18:55:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of a product owner within Agile project management, focusing on decision-making and adaptability. While it touches on concepts like feedback and continuous improvement, which are relevant to DevOps, it does not explicitly address DevOps principles or practices. The emphasis is more on Agile methodologies rather than the integration of development and operations, which is central to DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1477,12 +1483,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T18:28:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses decision-making in product management, particularly in the context of pivoting or staying the course, which aligns with Agile principles. However, it primarily focuses on specific examples and personal experiences rather than a comprehensive discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T18:55:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of the product owner within an Agile context, touching on decision-making, adaptability, and continuous improvement, which are relevant to the Agile Product Operating Model. However, it primarily focuses on the responsibilities and mindset of a product owner rather than a comprehensive exploration of the APOM framework itself. While it aligns with some core themes, it lacks depth in discussing the broader principles and operational aspects of the Agile Product Operating Model.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1500,15 +1509,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses decision-making in Agile and Scrum contexts, with no clear focus on platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T18:28:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses decision-making in Agile and Scrum contexts, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1551,6 +1551,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the role of a product owner in Agile project management, focusing on decision-making, adaptability, and team engagement. It does not explicitly mention the Shift-Left Strategy or its principles, benefits, or techniques. While there are themes of continuous improvement and feedback, these are general Agile concepts rather than specific to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:55:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of reflection, learning, and adapting in Agile project management, which aligns with Continuous Improvement principles. However, it primarily focuses on decision-making and the role of the product owner rather than a comprehensive exploration of Continuous Improvement strategies or frameworks. While it mentions the need for a mindset open to change and continuous learning, it lacks detailed discussions on specific Continuous Improvement techniques or empirical evidence, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:55:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of the product owner in Agile project management and touches on decision-making aligned with strategic goals. However, it primarily focuses on individual decision-making and personal insights rather than explicitly addressing the concept of Common Goals as a primary focus. While there are mentions of aligning decisions with long-term vision and fostering team discussions, the depth of discussion on shared objectives and their impact on organisational performance is limited.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:55:31",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of the product owner in Agile project management, emphasising decision-making, continuous learning, and adaptability, which are key aspects of competence. It mentions the importance of engaging with the team and reflecting on past decisions, aligning well with the core themes of competence. However, while it touches on these topics, the primary focus is more on decision-making strategies rather than a deep exploration of competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:55:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile project management and the role of a product owner, discussing decision-making in product management rather than the principles or components of the One Engineering System. While it touches on themes of adaptability and feedback, it does not explicitly mention 1ES or its integration and standardisation aspects, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

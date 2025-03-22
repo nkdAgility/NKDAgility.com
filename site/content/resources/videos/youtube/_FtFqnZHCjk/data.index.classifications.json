@@ -658,12 +658,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T17:29:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the shift from long release cycles to shorter delivery cycles, which aligns with Continuous Delivery principles. However, the primary focus is on agile product management rather than Continuous Delivery itself.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses Continuous Delivery (CD) in the context of Agile product management, highlighting its importance in ensuring that products are always in a deployable state and can be released at any time. It provides a clear definition of CD and explains its role in enhancing responsiveness to market demands. However, while CD is a significant aspect of the discussion, the primary focus is on Agile methodologies and product management practices, which dilutes the emphasis on Continuous Delivery itself. The content does not delve deeply into the specific principles or cultural aspects of Continuous Delivery, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -832,11 +835,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T12:57:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the evolution of product management in the Agile context, focusing on delivery cycles and practices rather than empirical evidence or data-driven decision-making.",
+    "calculated_at": "2025-03-21T17:29:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses Agile product management and its benefits, focusing on faster cycles and feedback loops. However, it lacks explicit references to Evidence-Based Management principles, such as empirical decision-making or current value metrics. While it touches on concepts like customer satisfaction and market responsiveness, these are not deeply tied to evidence-based practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1294,14 +1300,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T12:59:00",
+    "calculated_at": "2025-03-21T17:29:02",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 50,
     "final_score": 43.0,
-    "reasoning": "The content discusses Agile product management and its evolution, touching on aspects of delivery cycles and the importance of feedback, which are relevant to DevOps principles. However, it primarily focuses on product management rather than the integration of development and operations, which is central to DevOps. While there are mentions of delivery cycles and the need for quality, the discussion lacks depth in DevOps-specific practices, tools, and cultural shifts, leading to a moderate confidence score.",
+    "reasoning": "The content discusses Agile product management, which shares some principles with DevOps, such as shorter cycles and continuous feedback. However, it primarily focuses on product management rather than the broader DevOps philosophy, which includes collaboration between development and operations teams, automation, and shared accountability. While there are mentions of continuous integration and delivery, the overall emphasis is on Agile methodologies rather than DevOps practices.",
     "level": "Tertiary"
   },
   "Azure DevOps": {
@@ -1484,22 +1490,16 @@
     "reasoning": "Content primarily discusses agile product management and its evolution, focusing on traditional versus agile practices without a clear emphasis on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:36:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Agile product management and its evolution, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:36:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T17:29:16",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the evolution of product management within the context of Agile principles, focusing on value delivery, shorter release cycles, and the implications of Agile practices on traditional product management methodologies.",
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the transition from traditional to Agile product management, highlighting key principles such as shorter cycles, continuous feedback, and the importance of quality. It aligns well with the core themes of the Agile Product Operating Model, particularly in its focus on delivering customer-centric value and operational stability. The depth of discussion on Agile practices and their strategic advantages further supports a high confidence score.",
     "level": "Secondary"
   },
   "Leadership": {
@@ -1563,6 +1563,54 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses Agile product management and the importance of building quality into the product from the start, which aligns with the Shift-Left Strategy. However, it does not explicitly mention the Shift-Left concept or focus on integrating testing, security, and compliance early in the development process. The discussion on continuous integration and delivery touches on relevant practices but lacks depth in addressing the core principles of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:29:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile methodologies and their impact on product management, highlighting the importance of shorter cycles and continuous feedback, which are aligned with Continuous Improvement principles. However, it primarily focuses on the transition from traditional to Agile practices rather than explicitly discussing Continuous Improvement as a standalone concept. The depth of discussion on Continuous Improvement techniques and strategies is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:29:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile product management and its benefits, touching on the importance of maximizing business value and responsiveness to customer needs. However, it lacks a direct focus on the concept of Common Goals as defined in the category. While it mentions the alignment of product management practices with customer feedback and market demands, it does not explicitly address shared objectives or strategic alignment within teams, which are central to the Common Goals category. The discussion is more about the evolution of practices rather than the foundational principles of aligning strategy with execution.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:29:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile product management and the importance of quality and responsiveness, which are related to competence. However, it primarily focuses on processes and methodologies rather than explicitly addressing the development of skills or continuous learning, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:29:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 30,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on Agile product management and contrasts it with traditional practices, without discussing the One Engineering System framework or its principles. While it touches on concepts like continuous integration and delivery, these are not explicitly linked to 1ES, and the overall discussion does not align with the core themes of standardisation and integration across teams as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

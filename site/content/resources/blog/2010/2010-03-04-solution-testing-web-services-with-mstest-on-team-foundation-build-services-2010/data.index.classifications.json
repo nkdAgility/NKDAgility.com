@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:30:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:03:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of testing web services and does not focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical aspects of testing web services using MSTest and does not discuss Evidence-Based Management principles or metrics. While it touches on problem-solving in a development context, it lacks any reference to data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,14 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T07:15:22",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-22T09:02:53",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses automated builds and testing in a CI/CD context, which aligns with DevOps principles. However, it primarily focuses on specific technical implementations rather than broader DevOps practices, limiting its depth and overall relevance to the category.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on testing web services using MSTest and Team Foundation Build Services, which are tools related to software development and testing rather than the broader DevOps philosophy. While there are mentions of build servers and automated testing, the discussion lacks depth in core DevOps principles such as collaboration, shared accountability, and continuous improvement. The content does not explicitly address the cultural or process-oriented aspects of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -326,7 +329,7 @@
     "reasoning": "Content primarily discusses testing web services using MSTest and Team Foundation Build Services, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:31:08",
     "ai_confidence": 0,
@@ -337,11 +340,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:31:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:03:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of testing web services using MSTest and Team Foundation Build Services, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of testing web services using MSTest and Team Foundation Build Services, with no direct mention or discussion of the Agile Product Operating Model or its principles. While there are references to development practices, they do not align with the core themes of APOM, such as product management or agile methodologies in a product context.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -415,14 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T07:15:49",
+    "calculated_at": "2025-03-22T09:03:10",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily focuses on testing web services using MSTest and Team Foundation Build Services, which is related to the automation aspect of Continuous Delivery. However, it lacks a comprehensive discussion on the broader principles and practices of Continuous Delivery, such as deployment strategies, maintaining a production-ready state, or the relationship with DevOps. The mention of build servers and automated tests indicates some alignment with Continuous Delivery, but the depth and focus are insufficient to classify it strongly within this category.",
+    "reasoning": "The content primarily focuses on testing web services using MSTest and Team Foundation Build Services, which is related to the software delivery process but does not explicitly discuss Continuous Delivery principles or practices. While it touches on aspects of automation in testing, it lacks a comprehensive exploration of Continuous Delivery concepts such as rapid feedback, incremental improvements, or cultural aspects. Therefore, it only partially aligns with the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1488,6 +1494,42 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on testing web services using MSTest and discusses specific technical implementations rather than the broader Shift-Left Strategy. While it touches on testing early in the development process, it lacks a comprehensive discussion on integrating security and compliance or the overall benefits of a Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:02:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical aspects of testing web services using MSTest and Team Foundation Build Services. While it discusses overcoming challenges in testing, it does not explicitly address Continuous Improvement principles or strategies. The mention of problem-solving is too vague and does not align with the core themes of Continuous Improvement, such as fostering a culture of experimentation or integrating improvement into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:02:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical aspects of testing web services using MSTest and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth in these areas.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:03:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical implementation details for testing web services using MSTest, with minimal direct discussion on competence or skill development. While it touches on problem-solving and the importance of understanding testing frameworks, it lacks a broader discussion on continuous learning or fostering a culture of competence, which are key themes in the category.",
     "level": "Ignored"
   }
 }

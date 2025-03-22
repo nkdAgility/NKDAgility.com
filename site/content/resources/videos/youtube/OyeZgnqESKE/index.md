@@ -33,6 +33,8 @@ sitemap:
 tags:
 - Discovery and Learning
 - Team Motivation
+- Continuous Improvement
+- Competence
 - Coaching
 resourceTypes:
 - video

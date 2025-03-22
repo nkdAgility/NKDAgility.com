@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:24:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:58:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the TFS Automation Platform and its extensions, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the TfPlugable and its features for TFS automation, with no explicit mention of Evidence-Based Management principles or metrics. While it touches on the need for better deployment and management of extensions, it lacks a focus on empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -133,15 +136,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T14:51:36",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-22T07:58:44",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses the automation of deployment processes and the integration of extensions for Team Foundation Server (TFS), which aligns with DevOps principles. However, it lacks a broader discussion on cultural shifts, collaboration, or specific DevOps metrics, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the TfPlugable and its role in automating TFS extensions, which is more focused on a specific tool rather than the broader DevOps philosophy. While it touches on automation and deployment, it lacks a comprehensive exploration of DevOps principles such as collaboration, shared accountability, or continuous improvement. The discussion is more about a specific solution rather than the cultural and process-oriented aspects of DevOps.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -341,7 +344,7 @@
     "reasoning": "Content primarily discusses the TFS Automation Platform and its extensions, focusing on technical implementation rather than Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:25:34",
     "ai_confidence": 0,
@@ -352,11 +355,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:25:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:58:56",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the TFS Automation Platform and its extensions, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the TfPlugable and TFS automation, with a focus on deployment and management of extensions. While there are brief mentions of iterative development and feedback incorporation, which are agile principles, the overall focus is not on the Agile Product Operating Model or its core themes. The discussion lacks depth in relation to product management principles and does not address the key topics outlined in the APOM definition.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -436,11 +442,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:40:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:59:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the TFS Automation Platform and related plugins/extensions, focusing on issues with deployment and management of extensions rather than Continuous Delivery principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the TfPlugable as a solution for TFS automation, which touches on deployment and management of extensions. However, it lacks a direct focus on Continuous Delivery principles, such as automation in testing and integration, rapid feedback, or cultural aspects of Continuous Delivery. While it mentions iterative development and feedback, these concepts are not explored in depth or connected explicitly to Continuous Delivery practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1536,6 +1545,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the TFS Automation Platform and the development of extensions for Team Foundation Server. While it touches on aspects of deployment and management of extensions, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The focus is more on the technical implementation of TFS extensions rather than integrating testing, security, or compliance earlier in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:58:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the development of the TfPlugable for TFS automation, which includes elements of iterative development and feedback incorporation. However, it primarily focuses on the technical aspects of the platform rather than a broader discussion on Continuous Improvement principles. While there are mentions of feedback and iterative enhancements, the overall emphasis is on the product and its features rather than a comprehensive exploration of Continuous Improvement as a philosophy or practice.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:58:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the introduction and development of a new automation platform for TFS, discussing technical aspects and project plans without explicitly addressing the concept of Common Goals. While there are mentions of team collaboration and iterative feedback, these are not the central themes, and the discussion lacks depth on aligning strategy with execution or shared objectives within Agile or DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:58:52",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the TfPlugable and its functionalities for TFS automation, with minimal direct reference to competence or skill development. While it touches on the need for better management and deployment of extensions, it lacks a focus on continuous learning, professionalism, or the development of capabilities within teams. The discussion is more about technical implementation than fostering a culture of competence.",
     "level": "Ignored"
   }
 }

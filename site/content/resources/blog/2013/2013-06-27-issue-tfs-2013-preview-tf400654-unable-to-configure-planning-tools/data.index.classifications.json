@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:18:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:44:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Team Foundation Server and does not address Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to Team Foundation Server and configuring Planning Tools. It does not discuss Evidence-Based Management principles or metrics, nor does it provide any empirical evidence or data-informed decision-making insights. The mention of process templates and configuration does not align with the core themes of EBM, which are centred around value delivery and outcome management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:05:13",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-22T07:44:27",
+    "ai_confidence": 15.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily discusses an error related to configuring planning tools in Team Foundation Server (TFS) and provides a solution for updating process templates. While it touches on aspects of configuration and process management, it lacks a direct focus on DevOps principles such as CI/CD, automation, or cultural shifts. The mention of the Visual Studio Scrum process template indicates a connection to Agile methodologies rather than a comprehensive discussion of DevOps practices. Overall, the content is more technical and specific to TFS rather than embodying the broader themes of DevOps.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to Team Foundation Server (TFS) and configuring Planning Tools. While it touches on aspects of process templates and team configurations, it does not engage with the core principles of DevOps such as collaboration, automation, or shared accountability. The discussion is technical and specific to TFS, lacking broader DevOps themes or cultural shifts necessary for effective implementation.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -323,7 +326,7 @@
     "reasoning": "Content primarily discusses a specific error related to Team Foundation Server configuration and does not address Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:18:50",
     "ai_confidence": 0,
@@ -334,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:18:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:44:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical error related to Team Foundation Server and process templates, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to Team Foundation Server (TFS) and configuring planning tools. It does not discuss the Agile Product Operating Model or its principles, nor does it align with the key topics outlined for the category. The mention of Scrum is incidental and does not contribute to a deeper understanding of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -409,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:01:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:44:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on configuring planning tools in Team Foundation Server, which is more related to project management and process templates rather than Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to configuring Planning Tools in TFS 2013, which does not directly address Continuous Delivery principles or practices. While it discusses aspects of process templates and configuration, it lacks explicit mentions of Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback. The discussion is more aligned with troubleshooting and configuration rather than the broader themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1464,6 +1473,42 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily discusses a specific error related to configuring Planning Tools in Team Foundation Server, with no explicit mention of the Shift-Left Strategy. While it touches on process templates and configuration, it does not align with the core themes of integrating testing, security, or compliance early in the development lifecycle. The discussion lacks depth regarding Shift-Left principles, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:44:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to TFS 2013 and configuring Planning Tools. While it touches on modifying process templates and improving user experience, it lacks a comprehensive discussion on Continuous Improvement principles. The mention of streamlining processes is too vague and does not align with the core themes of Continuous Improvement, such as empirical evidence or fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:44:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical error related to TFS 2013 and does not discuss Common Goals or their significance in Agile or DevOps. While it mentions team fields and process templates, these are not aligned with the core themes of shared objectives or strategic alignment. The discussion lacks depth and does not connect to the principles of Agile, Scrum, or DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:44:35",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical error related to TFS 2013 and configuring Planning Tools. While it touches on aspects of process templates and team fields, it does not explicitly discuss competence, continuous learning, or skill development. The mention of customising process templates could be seen as a minor reference to competence, but it lacks depth and does not align with the core themes of the category. Overall, the content is more technical and procedural rather than focused on the principles of competence in Agile or DevOps.",
     "level": "Ignored"
   }
 }

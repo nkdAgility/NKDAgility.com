@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:51:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:21:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a personal experience with a family photo shoot and does not discuss Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a personal experience with family photography and does not discuss any aspects of Evidence-Based Management. There are no direct mentions of EBM concepts, and the themes of the content do not align with the core topics of EBM. The depth of discussion is also non-existent in relation to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:51:41",
+    "calculated_at": "2025-03-22T09:21:35",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on a personal experience related to a family photo shoot and does not discuss any DevOps principles, practices, or tools.",
+    "reasoning": "The content focuses entirely on family photography and personal experiences, with no mention or alignment to DevOps principles, practices, or discussions.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -308,7 +314,7 @@
     "reasoning": "Content is primarily about a personal experience with a family photo shoot and does not discuss Systems Thinking or its principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:52:08",
     "ai_confidence": 0,
@@ -319,11 +325,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:52:09",
+    "calculated_at": "2025-03-22T09:21:45",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on a personal experience related to a family photo shoot and does not discuss Agile principles or product development.",
+    "reasoning": "The content focuses entirely on a family photography experience and does not mention or align with any aspects of the Agile Product Operating Model. There are no discussions related to agile methodologies, product management principles, or any relevant topics outlined in the category description.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -391,11 +400,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:21:50",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on a personal experience with a family photo shoot and does not relate to Continuous Delivery principles or practices.",
+    "reasoning": "The content focuses entirely on family photography and personal experiences, with no mention or discussion of Continuous Delivery principles, practices, or related topics. It does not align with any of the key themes outlined for the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1413,6 +1425,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is entirely focused on a personal experience related to a family photo shoot, with no discussion of software development processes, testing, security, or compliance. It does not mention the Shift-Left Strategy or any related concepts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:21:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience with family photography, discussing the joy and satisfaction derived from a specific photo shoot. There are no direct mentions of Continuous Improvement principles, nor does it align with the core themes such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is limited to personal anecdotes, lacking any strategic insights or frameworks related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:21:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience related to family photography, with no explicit discussion of Common Goals, Agile, or DevOps principles. It lacks alignment with the core themes of the category and does not provide any depth on the subject matter.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:21:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience with family photography and does not discuss competence in any context related to Agile, Scrum, DevOps, or Lean methodologies. There are no direct mentions of skill development, quality outcomes, or professional capabilities, which are essential for the category of Competence.",
     "level": "Ignored"
   }
 }

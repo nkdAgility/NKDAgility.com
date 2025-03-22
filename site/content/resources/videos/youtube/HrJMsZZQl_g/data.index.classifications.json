@@ -652,11 +652,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T06:44:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:42:07",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses APS classes and Scrum methodologies, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the Applied Professional Scrum (APS) approach, which are not directly related to Continuous Delivery. While it mentions the importance of having a working product at the end of iterations, this is a general Agile principle rather than a specific Continuous Delivery practice. The discussion lacks depth in Continuous Delivery concepts, such as automation, rapid feedback, or incremental improvements, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -829,14 +832,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T21:42:24",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-21T18:42:10",
+    "ai_confidence": 12.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the Applied Professional Scrum (APS) approach and its benefits for Scrum teams, with limited direct references to Evidence-Based Management principles. While it discusses the importance of tangible products and iterative feedback, it lacks a strong emphasis on empirical data or metrics that are central to EBM. The discussion is more anecdotal and centred on personal experiences rather than a structured analysis of evidence-based practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Applied Professional Scrum (APS) approach and its application within Scrum teams. While it discusses the importance of delivering a usable product and iterating based on feedback, it does not explicitly mention Evidence-Based Management or its key topics. The discussion is more centred on Scrum practices rather than data-informed decision-making or empirical evidence, which are core to EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1288,11 +1291,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T06:42:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, with a focus on Agile methodologies rather than DevOps principles.",
+    "calculated_at": "2025-03-21T18:41:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and the Applied Professional Scrum (APS) approach, which are methodologies within Agile rather than DevOps. While there are mentions of collaboration and feedback, these concepts are not explored in the context of DevOps principles. The discussion lacks depth regarding DevOps practices, making it clear that the primary focus is on Scrum rather than the integration of development and operations.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1474,12 +1480,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:14:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile and Scrum concepts, particularly in relation to training and team improvement, which aligns with Agile principles but does not focus primarily on the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T18:42:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the Applied Professional Scrum (APS) approach and its application within Scrum teams, which is more aligned with Scrum practices than the Agile Product Operating Model. While it touches on agile principles and the importance of delivering usable products, it lacks a direct discussion on the broader themes of the Agile Product Operating Model, such as product-oriented mindsets or integration with product management practices. The depth of discussion is limited to Scrum-specific practices, which do not fully encompass the APOM framework.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1497,15 +1506,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile and Scrum methodologies without a direct connection to platform engineering.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:14:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses APS classes and their appropriateness for Scrum teams, without reference to the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1548,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the Applied Professional Scrum (APS) approach and its principles, with no direct mention of the Shift-Left Strategy. While it discusses the importance of having a working product at the end of iterations, it does not delve into integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy. The discussion is more aligned with Scrum practices rather than the proactive measures associated with Shift-Left methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:41:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the APS approach in the context of Scrum, highlighting the importance of reflection and adaptation through the 'Barnacle Exercise'. However, it primarily focuses on Scrum practices rather than a broader discussion on Continuous Improvement principles. While there are elements of improvement and learning, the content does not deeply engage with the core themes of Continuous Improvement or provide extensive detail on its strategies and frameworks.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:41:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Applied Professional Scrum (APS) approach and its benefits for Scrum teams, rather than discussing Common Goals directly. While it touches on the importance of working products and team empowerment, it lacks explicit discussions on shared objectives or alignment with organisational strategy, which are central to the Common Goals category. The depth of discussion is more about personal experiences and practices rather than a structured exploration of Common Goals in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:41:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the APS approach and its role in enhancing Scrum practices, which aligns with the principles of competence in Agile. It highlights the importance of continuous learning and skill development, particularly through the 'Barnacle Exercise' that encourages teams to reflect and improve. However, while competence is a significant theme, the focus is more on the APS methodology rather than a broader discussion on competence itself, leading to a moderately high confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:42:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Applied Professional Scrum (APS) approach and its application within Scrum teams, which is not aligned with the One Engineering System framework. While it discusses Scrum practices, it does not address the principles, integration, or standardisation of engineering processes as outlined in the 1ES category. The mention of APS and Scrum is significant, but it does not relate to the core themes of 1ES, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

@@ -757,14 +757,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T14:49:09",
+    "calculated_at": "2025-03-21T17:07:16",
     "ai_confidence": 82.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
     "final_score": 74.0,
-    "reasoning": "The content explicitly discusses metrics that are essential for understanding team performance and organisational effectiveness, which aligns closely with the principles of Evidence-Based Management. It provides a detailed breakdown of various metrics related to customer and employee satisfaction, defect trends, and team performance indicators, demonstrating a strong conceptual alignment with EBM. The depth of discussion is significant, as it not only lists metrics but also explains their relevance and implications for decision-making. Overall, the content is focused on data-driven approaches, making it a strong fit for the category.",
+    "reasoning": "The content discusses various metrics related to team and project performance, which aligns with the Evidence-Based Management principles, particularly in the areas of Current Value and Time to Market. It explicitly mentions metrics like Customer Satisfaction and Release Frequency, which are relevant to EBM. However, while it provides a good overview of metrics, it lacks a deeper exploration of how these metrics inform decision-making or lead to strategic improvements, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -886,12 +886,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T12:10:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T17:07:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics related to deployment frequency and release stabilization, which are relevant to Continuous Delivery, but the primary focus is on broader team and organisational metrics rather than Continuous Delivery principles or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses metrics related to team and project performance, which can indirectly relate to Continuous Delivery through aspects like deployment frequency and mean time to repair. However, it lacks a direct focus on Continuous Delivery principles, such as automation in testing and deployment, and does not explore the cultural aspects or specific practices of Continuous Delivery. The discussion is more about general performance metrics rather than the Continuous Delivery process itself.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1493,15 +1496,6 @@
     "reasoning": "Content primarily discusses metrics and reporting for team and project performance, without a clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:10:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics and reports that could be relevant to the implementation and monitoring of software development practices, which aligns with the principles of 1ES, but it primarily focuses on specific metrics rather than the overarching framework or integration of tools and processes.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:43:04",
@@ -1575,6 +1569,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses metrics related to team performance and product quality, which can indirectly relate to the Shift-Left Strategy by highlighting the importance of early detection of defects and efficiency in development. However, it does not explicitly mention the Shift-Left Strategy or its core principles, nor does it provide detailed techniques or case studies that would strengthen its alignment with the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:07:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses metrics that can enhance team and project performance, which aligns with the principles of Continuous Improvement. It mentions the importance of monitoring customer and employee satisfaction, defect trends, and team flow metrics, which are all relevant to ongoing improvement efforts. However, while it touches on these topics, it lacks a deeper exploration of Continuous Improvement methodologies or frameworks, and does not explicitly frame the discussion within the context of Continuous Improvement as a primary focus.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:07:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses metrics for team and project performance, which indirectly relates to the concept of Common Goals by emphasising the importance of monitoring progress and efficiency. However, it lacks a direct focus on shared objectives or alignment within Agile and DevOps frameworks. The discussion is more about performance metrics rather than the foundational principles of Common Goals, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:07:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses metrics related to team and project performance, which indirectly touches on aspects of competence, such as efficiency and quality outcomes. However, it primarily focuses on monitoring and reporting rather than on continuous learning, skill development, or fostering a culture of competence. The depth of discussion is limited to metrics without exploring how these metrics contribute to competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:07:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses metrics for team and project performance, which could relate to the One Engineering System's goals of improving efficiency and quality. However, it lacks direct mentions of 1ES principles or components, and the focus is more on general performance metrics rather than the integration and standardisation of engineering processes. The depth of discussion on metrics is substantial, but it does not specifically address the core themes of 1ES.",
     "level": "Ignored"
   }
 }

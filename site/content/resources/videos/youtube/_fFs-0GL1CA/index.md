@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/_fFs-0GL1CA/maxresdefault.jpg
 duration: 372
 isShort: false
 tags:
+- Competence
 - Continuous Learning
 - People and Process
 sitemap:

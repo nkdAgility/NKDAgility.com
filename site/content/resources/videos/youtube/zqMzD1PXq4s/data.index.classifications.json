@@ -244,11 +244,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T14:31:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:50:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of poor technical leadership and engineering practices, rather than focusing on evidence-based management principles or empirical data-driven decision-making.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses optimising systems and addressing technical debt, which aligns with the themes of improving organisational capacity and fostering innovation. However, it lacks explicit references to evidence-based metrics or decision-making processes, and the focus is more on anecdotal experiences rather than empirical evidence. The discussion is somewhat relevant but does not delve deeply into the core principles of Evidence-Based Management.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -289,15 +292,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T16:53:43",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "calculated_at": "2025-03-21T16:50:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses the importance of optimising systems and reducing technical debt, which are relevant to Continuous Delivery principles. However, it lacks direct mentions of Continuous Delivery practices and does not delve deeply into automation, deployment strategies, or specific methodologies associated with CD. The focus is more on general engineering excellence and system optimisation rather than the specific practices of Continuous Delivery.",
-    "level": "Ignored"
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of optimising systems and reducing technical debt, which aligns with Continuous Delivery principles. It highlights the role of rapid feedback and the transition to unit testing, which are crucial for Continuous Delivery practices. However, the primary focus is more on general system optimisation and technical leadership rather than explicitly on Continuous Delivery itself, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -1496,18 +1499,6 @@
     "reasoning": "Content primarily discusses technical leadership, system optimisation, and engineering excellence, without a clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-03-14T16:54:08",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the importance of optimising systems and addressing technical debt, which aligns with the principles of improving efficiency and quality in software delivery. However, it does not explicitly mention the One Engineering System (1ES) framework or its specific components, leading to a lower confidence score. The discussion is more focused on general engineering practices rather than the integration and standardisation of processes across teams, which is central to 1ES.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:38:19",
@@ -1585,5 +1576,53 @@
     "final_score": 60.0,
     "reasoning": "The content discusses the importance of optimising systems and reducing technical debt, which aligns with the Shift-Left Strategy's focus on integrating processes earlier in the development lifecycle. However, it does not explicitly mention the Shift-Left concept or provide detailed techniques for integrating testing, security, or compliance early in the process. The discussion on rapid feedback loops and the transition to unit tests hints at Shift-Left principles but lacks depth in exploring its core themes.",
     "level": "Tertiary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:50:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of optimising systems and addressing technical debt, which aligns with the principles of Continuous Improvement. It highlights the need for ongoing reflection and adaptation to enhance productivity and innovation. However, while it touches on relevant themes, it does not explicitly frame these discussions within the context of Continuous Improvement methodologies or provide detailed strategies for implementing such practices, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:50:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of optimising systems and addressing technical debt, which indirectly relates to the concept of Common Goals by highlighting the need for alignment in processes to enhance productivity. However, it lacks direct mentions of shared objectives or strategic alignment within Agile or DevOps frameworks, making it more focused on technical challenges rather than the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:50:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of optimising systems and addressing technical debt, which indirectly relates to competence in terms of improving team efficiency and capability. However, it does not explicitly focus on continuous learning or skill development, which are core themes of the competence category. The depth of discussion on how these improvements lead to better outcomes suggests a moderate alignment with the principles of competence, but it lacks a direct emphasis on the necessity for ongoing professional development.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:50:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of optimising systems and addressing technical debt, which aligns with the principles of improving efficiency and quality in software delivery. However, it lacks direct mentions of the One Engineering System framework and does not provide in-depth discussion on its specific components or implementation strategies. The focus is more on general engineering practices rather than the integration and standardisation of processes across teams.",
+    "level": "Ignored"
   }
 }

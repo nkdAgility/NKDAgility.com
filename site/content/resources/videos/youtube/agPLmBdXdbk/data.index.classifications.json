@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:02:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:57:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses traits of an Agile Consultant, focusing on tenacity and persistence, without addressing DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the traits of an Agile Consultant, particularly tenacity, and does not discuss DevOps principles, practices, or cultural shifts. While Agile and DevOps share some common ground, the content does not explicitly mention DevOps or align with its core themes, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -244,11 +247,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:21:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:57:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on the traits of an Agile Consultant, with no significant mention of Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the traits of an Agile Consultant, particularly tenacity, and does not discuss Continuous Delivery principles, practices, or related topics. While it mentions Agile, it does not delve into Continuous Delivery or its associated themes, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -384,15 +390,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses traits of an Agile Consultant, focusing on tenacity rather than Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:21:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses traits of an Agile Consultant, specifically the importance of tenacity, without relating to the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1180,11 +1177,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:21:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:57:42",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses traits required for an Agile Consultant rather than the Agile Product Operating Model itself.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on the traits of an Agile Consultant, particularly tenacity, rather than discussing the Agile Product Operating Model. While it mentions agile concepts, it does not delve into the principles or practices of APOM, nor does it address the transition from project to product ethos or other key topics outlined in the category description.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1393,11 +1393,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:21:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:57:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the traits of an Agile Consultant, particularly tenacity, and does not discuss Evidence-Based Management principles or techniques.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the traits of an Agile Consultant, particularly tenacity, without any explicit discussion of Evidence-Based Management principles or metrics. While it touches on the importance of identifying areas for change, it lacks a direct connection to empirical decision-making or the core themes of EBM. The discussion is more about personal attributes than data-informed management practices.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1467,6 +1470,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the traits of an Agile Consultant, particularly tenacity, and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. The discussion is centred around personal attributes rather than software development processes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:57:28",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the trait of tenacity in Agile consultants, which is not directly related to Continuous Improvement. While it touches on the importance of identifying areas for change, it lacks a detailed discussion on Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation. The mention of persistence does not align with the core themes of Continuous Improvement, which emphasises systematic and incremental advancements.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:57:30",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the trait of tenacity in Agile consultants, which is more about personal qualities than the alignment of strategy and execution within Agile frameworks. While it briefly touches on the importance of focusing on what matters to the organisation, it does not explicitly discuss Common Goals or their significance in Agile or DevOps. The discussion lacks depth regarding how these traits connect to shared objectives or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:57:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the trait of tenacity in Agile consultants, which indirectly relates to competence through the lens of persistence and focus. However, it lacks explicit references to continuous learning, skill development, or the broader implications of competence in Agile methodologies. The discussion is more about personal traits than the foundational principles of competence, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:57:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the traits of an Agile Consultant, particularly tenacity, and does not discuss the One Engineering System or its principles. While it mentions Agile, it does not align with the core themes of 1ES, such as integration of tools or processes, nor does it provide any depth on the framework itself.",
     "level": "Ignored"
   }
 }

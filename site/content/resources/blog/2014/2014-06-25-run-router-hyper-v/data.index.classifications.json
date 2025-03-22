@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T09:20:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:18:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical setup and troubleshooting of a router on Hyper-V, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on technical instructions for setting up a router on Hyper-V, with no direct mention or discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any empirical evidence or metrics related to management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T09:20:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:18:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses setting up a router on Hyper-V and does not focus on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on setting up a router on Hyper-V and does not discuss DevOps principles, practices, or cultural shifts. While it touches on technical aspects of virtual machines and networking, it lacks any mention of collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The discussion is more aligned with IT infrastructure and networking rather than DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -145,11 +151,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T09:57:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:18:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical setup and configuration of a router on Hyper-V, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical instructions for running a router on Hyper-V, with no mention of agile methodologies, product management principles, or any related concepts that align with the Agile Product Operating Model. It does not discuss transitioning from project to product ethos, nor does it touch on any of the key topics outlined in the category description.",
     "level": "Ignored"
   },
   "Products and Books": {
@@ -188,7 +197,7 @@
     "reasoning": "Content primarily discusses technical aspects of running a router on Hyper-V, with no relevance to BetaCodex principles or organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T09:57:22",
     "ai_confidence": 0,
@@ -400,11 +409,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T10:18:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:18:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about running a router on Hyper-V and does not discuss Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on setting up a router on Hyper-V and does not discuss Continuous Delivery principles, practices, or benefits. There are no direct mentions of Continuous Delivery, and the content lacks alignment with the core themes of the category, such as automation, rapid feedback, or software quality. The depth of discussion is also minimal regarding Continuous Delivery, as it is not the subject matter at all.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1437,6 +1449,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses setting up a router on Hyper-V and does not mention or align with the principles of the Shift-Left Strategy. It focuses on technical details related to networking and virtual machines without addressing early integration of testing, security, or compliance in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:18:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for setting up a router on Hyper-V, with minimal mention of Continuous Improvement principles. While there are hints of experimentation and problem-solving, the overall discussion lacks a structured approach to continuous improvement methodologies or a commitment to incremental advancements in processes or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:18:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for setting up a router on Hyper-V, with no explicit discussion of Common Goals, Agile, or DevOps principles. While it touches on personal experiences and challenges faced in networking, it lacks any connection to shared objectives or strategic alignment within teams, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:18:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for setting up a router on Hyper-V, with minimal reference to competence in terms of skill development or professional growth. While there are mentions of troubleshooting and problem-solving, these do not directly align with the core themes of competence as defined in Agile and DevOps contexts.",
     "level": "Ignored"
   }
 }

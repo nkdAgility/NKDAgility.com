@@ -652,11 +652,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T21:05:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:45:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Story Points and Velocity, which are not directly related to Continuous Delivery principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum practices, specifically critiquing the use of Story Points and Velocity, which are not directly related to Continuous Delivery principles. While it touches on aspects of team adaptability and confidence in delivery, it lacks a focused discussion on Continuous Delivery practices, automation, or the delivery of incremental improvements. The content does not provide substantial depth on Continuous Delivery, making it more of a secondary mention rather than a primary focus.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1273,11 +1276,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T21:03:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:44:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile methodologies rather than DevOps principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically critiquing the use of Story Points and Velocity. While it touches on concepts of agility and team dynamics, it does not directly address DevOps principles such as collaboration, automation, or shared accountability. The discussion is more aligned with Agile methodologies rather than the broader DevOps philosophy, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1435,14 +1441,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T02:37:32",
+    "calculated_at": "2025-03-21T20:45:10",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
     "final_score": 57.0,
-    "reasoning": "The content discusses the limitations of using Story Points and Velocity in Scrum, emphasising the need for empirical data and transparency in decision-making. While it touches on the importance of confidence and understanding uncertainty, it primarily critiques existing practices rather than providing a comprehensive exploration of Evidence-Based Management principles. The discussion lacks depth in terms of specific EBM techniques or case studies, leading to a moderate confidence score.",
+    "reasoning": "The content critiques the reliance on Story Points and Velocity in Scrum, suggesting that these metrics do not provide a true measure of a team's success or predictability. While it discusses the importance of understanding uncertainty and gaining confidence through transparency, it primarily focuses on Agile practices rather than directly addressing Evidence-Based Management principles. The discussion touches on empirical decision-making and the need for concrete data, aligning somewhat with EBM, but lacks a comprehensive exploration of the key topics outlined in the EBM definition.",
     "level": "Tertiary"
   },
   "Platform Engineering": {
@@ -1454,23 +1460,17 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:52:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:45:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile practices and the implications of using Story Points and Velocity, which are relevant to Agile methodologies. However, it primarily focuses on Scrum roles and events rather than the broader Agile Product Operating Model, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily critiques the use of Story Points and Velocity within Scrum, which is a specific agile practice rather than a discussion on the Agile Product Operating Model as a whole. While it touches on themes of agility and adaptability, it does not delve into the broader principles or frameworks of APOM, such as product management integration or operational governance. The focus is more on Scrum practices than on the product-oriented mindset central to APOM.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1542,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum practices, specifically the use of Story Points and Velocity, without addressing the Shift-Left Strategy. While it touches on aspects of team confidence and transparency, it does not integrate testing, security, or compliance earlier in the development process, which are core to the Shift-Left concept. Therefore, the content does not align with the category's focus.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:44:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the limitations of using Story Points and Velocity in Scrum, advocating for a more empirical approach to understanding team performance and adaptability. While it touches on the need for continuous reflection and adaptation, it primarily critiques existing practices rather than providing a comprehensive discussion on Continuous Improvement principles. The mention of confidence through transparency and the need for data-driven decision-making aligns with Continuous Improvement, but the overall focus is more on Scrum practices than on the broader category.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:44:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily critiques the reliance on Story Points and Velocity in Scrum, which does not directly address the concept of Common Goals. While it touches on the need for confidence and understanding within teams, it lacks a clear focus on shared objectives or alignment with strategic goals. The discussion is more about the pitfalls of certain practices rather than how to align team efforts with overarching organisational goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:44:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the limitations of using Story Points and Velocity in Scrum, emphasising the need for genuine understanding and adaptability within teams. It highlights the importance of competence in delivering quality outcomes and maintaining trust, particularly through transparency and confidence in delivery. While it does not focus solely on competence, it aligns well with the core themes of continuous learning and the necessity for teams to evolve their practices, thus providing a substantial depth of discussion on the topic.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:45:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically critiquing the use of Story Points and Velocity. While it touches on themes of agility and team adaptability, it does not discuss the One Engineering System framework, its principles, or its integration across teams. The discussion is centred around Scrum rather than the standardisation and integration of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

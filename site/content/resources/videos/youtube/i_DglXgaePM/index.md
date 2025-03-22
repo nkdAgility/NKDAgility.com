@@ -31,6 +31,7 @@ tags:
 - Agile Transformation
 - Business Agility
 - People and Process
+- Continuous Improvement
 - Agile Philosophy
 - Organisational Agility
 sitemap:

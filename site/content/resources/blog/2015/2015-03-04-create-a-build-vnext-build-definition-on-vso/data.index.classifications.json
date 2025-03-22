@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T22:33:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:26:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of creating a build definition in VSO, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition and does not discuss Evidence-Based Management principles or metrics. It lacks direct mentions of data-informed decision-making, current value, or empirical decision-making, which are central to EBM. The discussion is more about technical implementation rather than strategic management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:37:49",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
+    "calculated_at": "2025-03-21T21:25:48",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
-    "reasoning": "The content primarily focuses on creating a Build vNext definition within the context of Microsoft's TFS and VSO, which are tools integral to DevOps practices. It discusses Continuous Integration (CI) as a trigger for builds, highlights automation through build tasks, and mentions the importance of version control with Git. The depth of discussion includes specific configurations and options available in the build system, demonstrating a strong alignment with DevOps principles. Overall, the content is highly relevant to the DevOps category.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition within a CI/CD context, which is a key aspect of DevOps practices. It discusses automation in the build process, the importance of continuous integration, and the configuration of build tasks, all of which align with DevOps principles. However, it lacks a broader discussion on the cultural and collaborative aspects of DevOps, which limits its depth of discussion. Therefore, while it is relevant, it does not fully encapsulate the DevOps philosophy.",
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -332,22 +335,16 @@
     "reasoning": "Content primarily focuses on creating a build definition in a software development context, discussing specific tools and processes without addressing Systems Thinking principles or their applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T22:34:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on creating a build definition in the vNext build system, which is specific to Team Foundation Server (TFS) and Visual Studio Online (VSO), rather than discussing the principles or integration aspects of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T22:34:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:26:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on creating a build definition in a specific software tool, with no clear discussion on Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition and enhancing CI/CD processes, which are more aligned with technical implementation rather than the Agile Product Operating Model. There are no direct mentions of APOM principles, and the discussion lacks depth in relation to product management or agile methodologies. It does not address the core themes of transitioning to a product ethos or continuous improvement in product value.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -424,15 +421,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-11T17:55:22",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-21T21:26:08",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the creation of a Build vNext definition, which is related to Continuous Delivery practices, particularly in the context of automation and build processes. However, it lacks a comprehensive exploration of Continuous Delivery principles, methodologies, and the broader implications of CD. The focus is primarily on the technical aspects of setting up a build system rather than on the overarching strategies and practices that define Continuous Delivery.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition, which is a part of the CI/CD process. While it discusses automation and configuration related to builds, it lacks a comprehensive exploration of Continuous Delivery principles, such as rapid feedback, incremental improvements, or cultural aspects. The mention of CI indicates some alignment with Continuous Delivery, but the depth of discussion is more about the technical setup rather than the broader implications and practices of Continuous Delivery.",
+    "level": "Secondary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -1509,6 +1506,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on creating a build definition in the vNext build system, detailing various tasks and configurations. While it touches on aspects of continuous integration, it does not explicitly discuss the Shift-Left Strategy or its principles, benefits, or techniques. The mention of CI could be seen as a peripheral reference to Shift-Left, but it lacks depth and direct relevance to the core themes of integrating testing, security, and compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:25:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition and enhancing CI/CD processes, which are related to Continuous Improvement. However, it lacks explicit discussions on the principles of Continuous Improvement, such as empirical evidence, culture of experimentation, or strategies for integration into organisational processes. While it touches on aspects of improving workflows, it does not delve deeply into the philosophy or methodologies of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:25:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of creating a Build vNext definition and does not explicitly discuss Common Goals or their significance in Agile or DevOps. While it touches on aspects of CI/CD, it lacks a clear connection to shared objectives or strategic alignment, which are central to the Common Goals category. The discussion is more about implementation details rather than the overarching principles of collaboration and alignment within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:25:58",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical aspects of creating a Build vNext definition and does not explicitly discuss competence or continuous learning. While it touches on the importance of using new tools and adapting to changes in technology, it lacks a deeper exploration of skill development, quality outcomes, or fostering a culture of competence. The discussion is more about the functionality of the build system rather than the professional growth or capabilities of individuals or teams.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:26:01",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition on VSO, which is a specific tool rather than a discussion on the One Engineering System (1ES) framework. While it touches on aspects of CI/CD processes and mentions integration with Git, it lacks a comprehensive discussion on the principles, components, or best practices of 1ES. The content does not provide depth in terms of how these practices align with the broader goals of standardisation and integration across teams, which are central to 1ES.",
     "level": "Ignored"
   }
 }

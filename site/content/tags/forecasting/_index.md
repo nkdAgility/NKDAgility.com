@@ -24,6 +24,9 @@ headline:
   subtitle: Empower decision-making through data-driven predictions, risk management, and value optimisation for effective project delivery.
   content: Utilise empirical data to enhance prediction accuracy for project timelines, enabling informed decision-making and effective risk management. Posts should explore techniques for value optimisation, the impact of variability on delivery, and methods for integrating feedback loops to improve forecasting reliability in complex environments.
   updated: 2025-02-13T12:04:26Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

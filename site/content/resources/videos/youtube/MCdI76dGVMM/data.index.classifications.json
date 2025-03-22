@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T19:55:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:11:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master and the importance of professionalism within the Scrum framework. While it touches on themes of continuous learning and improvement, which are relevant to DevOps, it does not explicitly mention DevOps principles or practices. The focus is on Scrum methodologies rather than the integration of development and operations, which is central to DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -88,11 +91,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T19:55:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:11:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the challenges of professionalism in becoming a Scrum Master, without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the challenges of becoming a professional Scrum Master, focusing on professionalism and mastery within the Scrum framework. It does not explicitly mention Evidence-Based Management or its key topics, nor does it provide any empirical evidence or metrics related to decision-making or value delivery. The discussion is centred around Agile and Scrum methodologies without a focus on data-informed practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -327,15 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the challenges of becoming a professional Scrum Master, which is not directly related to release management.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T19:56:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the challenges of becoming a professional Scrum Master, which is unrelated to the principles and practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -640,11 +637,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T19:57:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T19:11:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master and the importance of professionalism within Agile methodologies. While it touches on themes of continuous learning and improvement, it does not explicitly address Continuous Delivery principles, practices, or tools. The focus is on Scrum rather than the delivery aspect of software development.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -733,11 +733,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T19:57:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the challenges of becoming a professional Scrum Master, which is more focused on Scrum roles and personal development rather than the Agile Product Operating Model as a whole.",
+    "calculated_at": "2025-03-21T19:11:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master and the importance of professionalism within that role. While it touches on agile principles, it does not explicitly address the Agile Product Operating Model or its core themes such as product management, continuous delivery, or operational stability. The focus is more on individual development within Scrum rather than the broader organisational framework of APOM.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1455,6 +1458,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the journey to becoming a professional Scrum Master, focusing on professionalism and mastery within the Scrum framework. It does not mention the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is centred around Scrum roles and personal development rather than integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:11:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of professionalism and continuous learning in the context of becoming a Scrum Master, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the challenges of professionalism rather than providing a comprehensive discussion on Continuous Improvement practices or strategies. The mention of continuous learning hints at the category but lacks depth and specific techniques related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:11:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the journey to becoming a professional Scrum Master, emphasising professionalism and mastery in the role. However, it lacks explicit references to Common Goals as defined in the category, such as shared objectives or alignment within teams. While it touches on the importance of professionalism, it does not connect this to broader organisational goals or frameworks like OKRs, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:11:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content discusses the importance of professionalism and continuous learning in the context of becoming a Scrum Master, which aligns well with the principles of competence. It explicitly mentions the need for mastery and expertise, indicating a strong focus on skill development. The depth of discussion is substantial, as it explores the challenges faced in achieving professionalism and the commitment required to excel in the role. However, while competence is a primary theme, the content could benefit from more specific strategies for fostering a culture of competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:11:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role and challenges of becoming a professional Scrum Master, focusing on Scrum methodologies rather than the One Engineering System framework. There are no direct mentions of 1ES principles, components, or its impact on software development practices. The discussion is centred around Scrum, which is outside the scope of 1ES, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

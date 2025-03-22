@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:08:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:25:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the upcoming features and support for TFS 2013 Update 2 RC, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the upcoming features of TFS 2013 Update 2 RC and the support available for upgrading, with no explicit mention of Evidence-Based Management principles or metrics. While it touches on improvements that could enhance development processes, it lacks a focus on empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T04:38:36",
+    "calculated_at": "2025-03-22T07:24:54",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily discusses the upcoming features of TFS 2013 Update 2 RC and the support for upgrading, which is related to software development tools. However, it lacks a direct focus on DevOps principles, practices, or cultural shifts. While it mentions features that could support DevOps practices, such as release management and API improvements, the overall discussion does not delve into the integration of people, processes, and tools that characterise DevOps. Therefore, the confidence score reflects a low direct mention and depth of discussion, with some conceptual alignment to DevOps tools.",
+    "reasoning": "The content primarily discusses the upcoming features and support for TFS 2013 Update 2 RC, which is more focused on a specific tool rather than the broader DevOps philosophy. While there are mentions of features that could relate to DevOps practices, such as release management and performance improvements, the overall discussion lacks depth in exploring the core principles of DevOps, such as collaboration, automation, and shared accountability. The content does not explicitly address the cultural shifts or practices necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,7 +332,7 @@
     "reasoning": "Content primarily discusses the features and updates of Team Foundation Server 2013, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T11:09:27",
     "ai_confidence": 0,
@@ -340,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T11:09:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:25:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features and updates related to Team Foundation Server, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the upcoming features of TFS 2013 Update 2 RC and does not discuss the Agile Product Operating Model or its principles. While it mentions some agile-related tools and features, it lacks a direct connection to the core themes of APOM, such as product management practices or continuous delivery. The discussion is more aligned with traditional project management and software development tools rather than the agile product operating model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -421,11 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T11:31:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:25:16",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the features and updates of Team Foundation Server 2013, with no clear focus on Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses an upcoming update for Team Foundation Server (TFS) and its new features, which are more related to software development tools rather than Continuous Delivery practices. While there are mentions of improvements that could potentially enhance delivery processes, the focus is not on Continuous Delivery principles, automation, or the cultural aspects of delivery. The discussion lacks depth in terms of Continuous Delivery concepts and does not provide a comprehensive exploration of the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1473,6 +1482,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the upcoming features and improvements in Team Foundation Server (TFS) 2013 Update 2 RC, with no explicit mention of the Shift-Left Strategy or its principles. While there are references to testing and release management, these are not framed within the context of integrating processes earlier in the development lifecycle, which is central to the Shift-Left concept. The focus is more on the upgrade and new functionalities rather than on proactive quality assurance or early integration of testing and security.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:24:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the announcement of TFS 2013 Update 2 RC and its new features, with no explicit discussion on Continuous Improvement principles. While it mentions performance improvements and new functionalities, it lacks a direct connection to the core themes of Continuous Improvement, such as empirical evidence, culture of experimentation, or strategies for integrating improvement into processes. The depth of discussion is limited to feature descriptions rather than a comprehensive exploration of Continuous Improvement practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:25:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the announcement of TFS 2013 Update 2 RC and its features, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it mentions improvements and features that may enhance team collaboration, it does not connect these to shared objectives or strategic alignment, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:25:06",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the upcoming TFS 2013 Update 2 RC and its features, with minimal direct discussion on competence or continuous skill development. While it mentions expert support, it does not delve into the importance of competence in Agile or DevOps contexts, nor does it explore strategies for fostering a culture of competence. The discussion lacks depth and does not align closely with the core themes of the category.",
     "level": "Ignored"
   }
 }

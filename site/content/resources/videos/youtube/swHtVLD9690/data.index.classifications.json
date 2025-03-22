@@ -658,15 +658,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T18:21:39",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-21T17:20:04",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content primarily discusses DevOps practices and challenges, with only brief mentions of Continuous Delivery principles. While it touches on aspects like feedback loops and rapid iteration, it lacks a focused discussion on Continuous Delivery methodologies, automation, and maintaining a production-ready state, which are core to the category.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses DevOps practices, which are closely related to Continuous Delivery, particularly in terms of rapid iteration and feedback loops. However, it primarily focuses on the challenges of adopting DevOps rather than explicitly detailing Continuous Delivery principles or practices. While it touches on aspects like risk management and the importance of feedback, it lacks a thorough exploration of Continuous Delivery's core themes, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -832,11 +832,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T01:36:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses challenges in adopting DevOps practices, focusing on risk management and feedback loops, rather than the principles of Evidence-Based Management.",
+    "calculated_at": "2025-03-21T17:20:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses challenges in adopting DevOps practices and highlights the importance of feedback loops and real-world testing. However, it primarily focuses on DevOps rather than Evidence-Based Management. While there are mentions of adapting based on feedback and managing risks, these concepts are not deeply tied to empirical decision-making or the specific metrics outlined in Evidence-Based Management. Thus, the content does not align closely enough with the category to warrant a higher confidence score.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1487,15 +1490,6 @@
     "reasoning": "Content primarily discusses challenges in adopting DevOps practices, focusing on traditional models and risk management rather than the principles of BetaCodex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:19:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses challenges in adopting DevOps practices, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:15:21",
@@ -1569,6 +1563,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses DevOps practices and the importance of feedback loops, which are related to the Shift-Left Strategy. However, it primarily focuses on the challenges of adopting DevOps rather than explicitly integrating testing, security, and compliance earlier in the development process. The mention of risk management and feedback loops aligns conceptually with Shift-Left principles, but the depth of discussion does not provide sufficient detail on the specific practices or tools associated with the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:19:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of feedback loops and continuous improvement within the context of DevOps practices. It highlights the need for rapid iteration and adaptation based on real-world feedback, which aligns with the principles of Continuous Improvement. However, the primary focus is on the challenges of adopting DevOps rather than a dedicated exploration of Continuous Improvement itself, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:19:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses challenges in adopting DevOps practices and the importance of feedback loops, but it does not explicitly address Common Goals or their significance in aligning strategy with execution. While there are mentions of adaptability and continuous improvement, which are related to the broader themes of Agile and DevOps, the primary focus remains on risk management and feedback rather than on shared objectives or alignment within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:19:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the challenges of adopting DevOps practices, touching on the importance of feedback loops and risk management, which are indirectly related to competence. However, it lacks a direct focus on continuous learning and skill development, which are core to the competence category. The discussion is more about processes and challenges rather than the development of skills and capabilities, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:20:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses DevOps practices and challenges, with no direct mention of the One Engineering System (1ES). While it touches on themes of integration and feedback loops, these are framed within the context of DevOps rather than the specific principles or components of 1ES. The discussion lacks depth regarding 1ES, focusing instead on the evolution of risk management in a DevOps environment.",
     "level": "Ignored"
   }
 }

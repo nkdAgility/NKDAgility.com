@@ -1,15 +1,15 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:07:12",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
+    "calculated_at": "2025-03-21T20:03:57",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 83.0,
-    "reasoning": "The content primarily focuses on common challenges in DevOps, discussing the integration of Agile principles and the importance of automation in the delivery process. It explicitly mentions DevOps multiple times and explores its relationship with Agile methodologies, which aligns well with the core themes of the category. The depth of discussion is substantial, covering various aspects such as feedback loops, compliance challenges, and the mindset required for successful DevOps implementation.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses DevOps challenges and practices, focusing on automation and feedback loops, which are core themes of DevOps. It provides detailed insights into overcoming obstacles in the delivery process and emphasises the importance of mindset shifts and collaboration, aligning well with the principles of DevOps. The depth of discussion is substantial, covering various aspects of the DevOps philosophy, thus justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -250,12 +250,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps consulting and Agile methodologies, without a central focus on Continuous Delivery principles or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T20:04:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses challenges in delivering products quickly, which aligns with the principles of Continuous Delivery. It mentions automation and feedback loops, both of which are crucial for Continuous Delivery practices. However, the focus is more on general DevOps challenges rather than a deep exploration of Continuous Delivery itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -393,15 +396,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on DevOps and Agile consulting, with no clear primary discussion on Value Stream Management principles or techniques.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses DevOps and Agile methodologies, with a focus on Scrum training and consulting, rather than the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1195,11 +1189,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on DevOps challenges and Agile consulting, without a specific focus on the Agile Product Operating Model or a product-centric approach.",
+    "calculated_at": "2025-03-21T20:04:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses challenges in DevOps and the importance of agile principles, but it primarily focuses on DevOps practices rather than the Agile Product Operating Model itself. While there are mentions of agile methodologies and the need for a mindset shift, the discussion lacks a direct focus on the core principles and frameworks of the Agile Product Operating Model. The content does not delve deeply into product management practices or the transition from project to product ethos, which are central to the category.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1405,11 +1402,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses challenges in DevOps consulting and agile environments without a focus on Evidence-Based Management principles or empirical data application.",
+    "calculated_at": "2025-03-21T20:04:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses challenges in DevOps and agile practices, focusing on improving delivery speed and feedback loops. However, it lacks explicit references to Evidence-Based Management principles or metrics. While it touches on concepts like feedback loops and the importance of data-informed decision-making, it does not delve deeply into empirical evidence or the specific metrics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1482,6 +1482,54 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses challenges in DevOps and the importance of feedback loops, which aligns with the Shift-Left Strategy's focus on early integration of processes. However, it does not explicitly mention the Shift-Left concept or provide in-depth techniques for integrating testing, security, or compliance early in the development process. The discussion is more general about improving delivery speed and overcoming compliance barriers rather than specifically addressing the principles and methodologies of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:04:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses challenges in DevOps and the importance of feedback loops, automation, and mindset shifts, which align with Continuous Improvement principles. However, it primarily focuses on overcoming specific challenges rather than a comprehensive exploration of Continuous Improvement as a primary theme. The discussion is relevant but lacks depth in terms of structured methodologies or frameworks typically associated with Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:04:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses challenges in DevOps and Agile practices, focusing on improving delivery speed and feedback loops. However, it lacks explicit mention of Common Goals as a primary focus. While it touches on themes of alignment and collaboration, it does not delve deeply into the significance of shared objectives or frameworks like OKRs, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:04:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses challenges in DevOps and Agile practices, touching on the importance of mindset shifts and feedback loops, which are indirectly related to competence. However, it lacks a direct focus on continuous learning or skill development, which are core themes of the competence category. The discussion is more about overcoming challenges rather than explicitly fostering competence or professional development.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:04:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses DevOps challenges and agile practices, with a focus on improving delivery speed and feedback loops. While it touches on themes relevant to integration and efficiency, it does not explicitly mention the One Engineering System or its principles. The discussion lacks depth regarding the specific components or best practices of 1ES, leading to a low confidence score in alignment with the category.",
     "level": "Ignored"
   }
 }

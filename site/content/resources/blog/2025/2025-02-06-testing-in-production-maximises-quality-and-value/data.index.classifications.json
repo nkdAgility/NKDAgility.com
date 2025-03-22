@@ -721,14 +721,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T16:25:17",
+    "calculated_at": "2025-03-21T16:43:17",
     "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 85.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
     "final_score": 80.0,
-    "reasoning": "The content extensively discusses principles and practices related to Continuous Delivery, particularly focusing on audience-based deployment and its advantages over traditional deployment methods. It highlights the importance of real-time feedback, progressive rollouts, and automation, which are core tenets of Continuous Delivery. The depth of discussion is significant, providing detailed strategies and examples, particularly from Microsoft’s transformation, which aligns well with the category's focus. Overall, the content is highly relevant and provides a comprehensive view of Continuous Delivery practices.",
+    "reasoning": "The content extensively discusses audience-based deployment, a modern approach to Continuous Delivery, highlighting its principles, benefits, and practical implementations. It directly addresses the importance of rapid feedback, automation, and cultural shifts necessary for successful Continuous Delivery. The depth of discussion is significant, providing detailed strategies and examples, particularly from Microsoft, which reinforces its relevance to the category.",
     "level": "Secondary"
   },
   "Cross Functional Teams": {
@@ -1564,11 +1564,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T21:45:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:43:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses audience-based deployment and modern software engineering practices, with little focus on Evidence-Based Management principles or empirical data-driven decision-making.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses audience-based deployment and its benefits, focusing on real-time feedback and iterative improvements. However, it lacks explicit references to Evidence-Based Management principles and metrics, making it more about deployment strategies than data-informed decision-making. While there are elements of empirical decision-making, the primary focus is on deployment practices rather than the broader EBM framework.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1581,15 +1584,6 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses deployment strategies and practices that relate to software delivery and DevOps, but it does not explicitly focus on the principles of Platform Engineering or Internal Developer Platforms (IDPs). While it touches on automation and improving developer productivity, the primary focus is on audience-based deployment rather than the design and construction of internal platforms. Therefore, it aligns with the category only in a limited capacity.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:45:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses audience-based deployment and modern software delivery practices, with limited focus on the principles or integration aspects of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
@@ -1675,5 +1669,53 @@
     "final_score": 75.0,
     "reasoning": "The content discusses the concept of 'shifting left' in the context of quality assurance and deployment strategies, particularly highlighting the importance of detecting and addressing issues earlier in the development cycle. It provides insights into audience-based deployment and its benefits, which align with the principles of the Shift-Left Strategy. However, while it mentions the concept, the primary focus is on deployment strategies rather than a comprehensive exploration of Shift-Left practices, leading to a high but not perfect confidence score.",
     "level": "Secondary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:43:07",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content discusses audience-based deployment and its benefits, which align with Continuous Improvement principles such as rapid feedback and iterative processes. However, while it touches on these themes, it primarily focuses on deployment strategies rather than a comprehensive exploration of Continuous Improvement as a philosophy. The depth of discussion on Continuous Improvement concepts is moderate, but not exhaustive, leading to a high confidence score without reaching the maximum.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:43:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses audience-based deployment and its benefits, which are more focused on technical strategies rather than the alignment of common goals within Agile and DevOps frameworks. While there are mentions of team autonomy and strategic cohesion, these are not the primary focus of the content. The discussion lacks depth in exploring how common goals guide decision-making or connect individual contributions to the overall mission of the organisation.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:43:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of adapting workflows and upskilling in DevOps and CI/CD practices, which relates to competence. However, the primary focus is on deployment strategies and the technical aspects of audience-based deployment rather than a deep exploration of competence as a foundational principle. The discussion on cultural shifts and the need for discipline hints at competence but lacks a thorough examination of continuous learning and skill development.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:43:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content discusses audience-based deployment and its advantages over traditional environments, which aligns with some principles of modern software delivery. However, it does not explicitly mention the One Engineering System framework or its components, nor does it focus on integration and standardisation across teams, which are core to the 1ES category. The discussion is more centred on deployment strategies rather than the overarching framework of 1ES.",
+    "level": "Ignored"
   }
 }

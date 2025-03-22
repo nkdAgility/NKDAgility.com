@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:35:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:32:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical implementation of adding entries to a Global List using PowerShell and TFS API, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to PowerShell and TFS 2013 API, with no explicit discussion or alignment with Evidence-Based Management principles. It lacks any mention of metrics, data-informed decision-making, or strategic improvements, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T11:35:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:32:18",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on using PowerShell with the TFS 2013 API to manipulate global lists, which does not align with the core principles and practices of DevOps.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with TFS 2013 APIs for managing global lists, which is more aligned with scripting and automation rather than the broader DevOps philosophy. While automation is a key aspect of DevOps, the discussion lacks a focus on collaboration, shared accountability, or cultural shifts that are central to DevOps principles. The content does not explicitly mention DevOps or its core themes, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +326,7 @@
     "reasoning": "Content primarily discusses the use of PowerShell with the TFS 2013 API for managing global lists, focusing on technical implementation rather than Systems Thinking principles or organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T11:35:57",
     "ai_confidence": 0,
@@ -331,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T11:35:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:32:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of PowerShell with the TFS 2013 API for managing global lists, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with TFS 2013 APIs for managing global lists, which is a technical implementation rather than a discussion on the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or the key topics outlined in the APOM definition. The content lacks depth in relation to the category, making it largely irrelevant to the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -406,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T17:51:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:32:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses using PowerShell with the TFS 2013 API to manage global lists, which does not relate to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API for managing global lists, which is a specific technical task rather than a discussion on Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the content does not align with the core themes such as automation in testing, integration, or deployment. The depth of discussion is limited to a technical implementation without addressing broader Continuous Delivery concepts.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1458,6 +1470,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API for managing global lists, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on automation, it does not align with the core themes of the Shift-Left Strategy, nor does it provide depth on the principles or benefits associated with it.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:32:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for using PowerShell with TFS 2013, lacking any explicit discussion or alignment with Continuous Improvement principles. While there is a mention of automation and creating reusable functions, these concepts are not explored in the context of Continuous Improvement methodologies or practices. The content does not provide insights into empirical evidence, team effectiveness, or a culture of experimentation, which are essential for the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:32:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to using PowerShell with TFS 2013 API, without discussing the concept of Common Goals or their significance in Agile or DevOps frameworks. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the depth of discussion is limited to coding practices rather than organisational performance or team collaboration.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:32:27",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on technical implementation details of using PowerShell with TFS 2013 API, lacking explicit discussions on competence, continuous learning, or skill development. While it demonstrates some level of technical capability, it does not delve into the broader implications of competence in Agile or DevOps contexts, nor does it provide strategies for fostering a culture of competence.",
     "level": "Ignored"
   }
 }

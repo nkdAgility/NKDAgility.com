@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T23:18:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:28:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the configuration of a Build vNext Agent and related technical details, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent and does not discuss Evidence-Based Management or its key topics. There are no direct mentions of empirical decision-making or metrics related to current value, time to market, or ability to innovate. The discussion is technical and procedural, lacking any alignment with the principles of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:38:41",
-    "ai_confidence": 87.0,
-    "ai_mentions": 18,
-    "ai_alignment": 35,
-    "ai_depth": 30,
+    "calculated_at": "2025-03-21T21:28:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
-    "reasoning": "The content primarily focuses on configuring a Build vNext Agent, which is a key aspect of DevOps practices, particularly in Continuous Integration and Continuous Delivery. It discusses the new build system, its modularity, and the management of build agents, all of which are central to DevOps principles. The depth of discussion includes specific steps for setup, prerequisites, and the benefits of the new system, indicating a thorough exploration of the topic. The content aligns well with the core themes of DevOps, such as automation and collaboration between development and operations, thus justifying a high confidence score.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent, which is a specific tool within the DevOps ecosystem. While it discusses aspects of automation and the build process, it lacks a broader discussion on the cultural and philosophical aspects of DevOps. The mention of shared pools and queues indicates some alignment with DevOps principles, but the depth of discussion remains technical and tool-centric rather than philosophical or strategic.",
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -329,22 +332,16 @@
     "reasoning": "Content primarily focuses on configuring a Build vNext Agent and does not discuss Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T23:18:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the configuration of a Build vNext Agent and the features of the new build system, without a clear focus on the principles or integration aspects of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T23:18:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:28:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the configuration of a Build vNext Agent and technical details related to TFS and VSO, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent and does not discuss the Agile Product Operating Model or its principles. While it touches on aspects of agile methodologies, it does not align with the core themes of APOM, such as product management or continuous delivery. The discussion is technical and specific to build systems rather than the broader agile product framework.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -421,14 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T04:07:39",
+    "calculated_at": "2025-03-21T21:28:39",
     "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
     "final_score": 56.0,
-    "reasoning": "The content primarily focuses on configuring a Build vNext Agent, which is a specific aspect of the build process in a CI/CD pipeline. While it touches on automation and the build system, it lacks a comprehensive discussion on Continuous Delivery principles, practices, and methodologies. The mention of the build system and its configuration does not sufficiently align with the broader themes of Continuous Delivery, such as deployment strategies, risk management, or production readiness.",
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent, which is a component of the Continuous Delivery process. It discusses the setup and management of build agents, which are crucial for automating the build and deployment processes. However, while it touches on aspects of automation and the new build system's capabilities, it lacks a broader discussion on Continuous Delivery principles, rapid feedback, and cultural aspects. Therefore, while it is relevant, it does not fully explore the category's key themes in depth.",
     "level": "Tertiary"
   },
   "Strategic Goals": {
@@ -1500,6 +1497,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on configuring a Build vNext Agent and does not explicitly discuss the Shift-Left Strategy. While it touches on aspects of build systems and deployment, it lacks a clear connection to integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy. The discussion is more technical and operational rather than strategic, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:28:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent and does not explicitly discuss Continuous Improvement principles. While it touches on the new build system's modularity and user-friendliness, it lacks a direct connection to Continuous Improvement concepts such as empirical evidence, experimentation, or team effectiveness. The discussion is more technical and procedural rather than reflective or adaptive, which are key aspects of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:28:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of configuring a Build vNext Agent and does not explicitly discuss Common Goals or their significance in Agile and DevOps. While it touches on the build process, it lacks a connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:28:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of configuring a Build vNext Agent, with minimal direct discussion of competence or continuous skill development. While it touches on the importance of using the latest tools and technologies, it lacks a deeper exploration of how these practices contribute to professional competence or team trust. The discussion is more about procedural steps than fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:28:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent and discusses specific technical details about the build system. While it touches on aspects of software development processes, it does not explicitly mention or align with the core principles of the One Engineering System framework, such as integration across teams or standardisation of practices. The discussion is more about a specific tool rather than a comprehensive framework for engineering practices.",
     "level": "Ignored"
   }
 }

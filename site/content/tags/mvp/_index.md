@@ -27,6 +27,9 @@ headline:
   subtitle: Streamline product development by creating essential features to validate ideas and assess market fit efficiently.
   content: A Minimum Viable Product serves as a foundational version of a product, designed to gather user feedback and validate core assumptions with minimal resources. Posts should explore user-centric design, iterative development, rapid prototyping, and techniques for measuring market response and learning from user interactions.
   updated: 2025-02-13T12:03:45Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

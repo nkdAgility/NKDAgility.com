@@ -664,11 +664,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T04:20:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:51:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of consensus in product development and decision-making, with a focus on the role of the product owner and entrepreneurial mindset, rather than Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concept of consensus in product development, focusing on decision-making and collaboration rather than Continuous Delivery principles. While it touches on aspects of teamwork and decision-making, it does not explicitly address Continuous Delivery practices, automation, or the delivery of software in reliable cycles.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -838,11 +841,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T04:20:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:51:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the dynamics of consensus in product development and decision-making, without a clear focus on empirical evidence or the principles of Evidence-Based Management.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses consensus in product development but does not explicitly mention Evidence-Based Management or its key topics. While it touches on decision-making and the importance of trust, it lacks a strong focus on empirical evidence or data-informed practices central to EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1291,11 +1297,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T04:18:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses consensus in product development and the role of product owners, with a focus on decision-making and collaboration, rather than DevOps principles or practices.",
+    "calculated_at": "2025-03-21T18:51:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concept of consensus in product development, which is not directly related to DevOps principles. While it touches on collaboration, it lacks a focus on the core themes of DevOps such as automation, shared accountability, and continuous improvement. The discussion is more aligned with general product management rather than the specific practices and cultural shifts necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1480,12 +1489,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T18:03:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of consensus in product development and touches on the responsibilities of a product owner, which aligns with Agile principles. However, it primarily focuses on decision-making and consensus rather than a comprehensive exploration of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T18:51:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses consensus in product development, which is relevant to the Agile Product Operating Model, but it does not explicitly mention agile principles or frameworks. While it touches on decision-making and collaboration, it lacks a direct focus on the core themes of APOM, such as continuous delivery or the integration of agile methodologies with product management. The depth of discussion is moderate, primarily exploring the concept of consensus rather than the broader agile product operating model.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1503,15 +1515,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses consensus in product development and decision-making processes, with a focus on roles within Agile and Scrum, rather than platform engineering principles or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T18:03:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of consensus in product development and decision-making, with a focus on the role of product owners and entrepreneurs, rather than the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1554,6 +1557,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the concept of consensus in product development, focusing on decision-making and collaboration rather than integrating testing, security, or compliance earlier in the software development lifecycle. There are no direct mentions of the Shift-Left Strategy, and the discussion does not align with its core themes or provide depth on related practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:51:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses consensus in product development, which is tangentially related to Continuous Improvement. However, it lacks a direct focus on Continuous Improvement principles, such as empirical evidence, measurable advancements, or specific strategies for fostering a culture of experimentation. The discussion is more about decision-making dynamics rather than continuous enhancement of processes or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:51:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses consensus in product development, which is related to team alignment and decision-making. However, it primarily focuses on the dynamics of consensus rather than explicitly addressing Common Goals within Agile or DevOps frameworks. While there are mentions of collaboration and decision-making, the content lacks a direct connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:51:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses consensus in product development, touching on decision-making and the importance of trust, which are related to competence. However, it primarily focuses on consensus rather than directly addressing continuous learning, skill development, or the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:51:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of consensus in product development, which is not directly related to the One Engineering System framework. While it touches on collaboration and decision-making, it lacks explicit references to 1ES principles, components, or implementation practices. The focus is on consensus rather than the integration and standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

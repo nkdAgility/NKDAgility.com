@@ -235,14 +235,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-13T14:56:14",
+    "calculated_at": "2025-03-21T16:50:25",
     "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
     "final_score": 70.0,
-    "reasoning": "The content discusses various metrics related to organisational performance, such as innovation rate, product index, usage index, and version adoption, which align with the principles of Evidence-Based Management. It emphasises the importance of data-driven decision-making and continuous improvement, which are core themes of EBM. However, while the metrics are mentioned in detail, the overall focus is more on the implications of these metrics rather than a comprehensive exploration of EBM principles, leading to a high but not perfect confidence score.",
+    "reasoning": "The content discusses various metrics such as innovation rate, product index, and usage index, which align with the Evidence-Based Management focus on empirical data and decision-making. However, while it touches on these metrics, the primary emphasis is on waste reduction and ROI rather than a comprehensive exploration of EBM principles. The discussion lacks depth in connecting these metrics to broader EBM themes like current value and unrealised value, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Organisational Change": {
@@ -286,12 +286,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T16:50:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Continuous Delivery concepts such as continuous integration, continuous delivery, and metrics related to software delivery efficiency. However, the primary focus is on waste reduction and cost control in agile practices, making Continuous Delivery a significant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses continuous integration, continuous delivery, and continuous feedback, which are relevant to Continuous Delivery principles. However, the primary focus is on waste reduction and ROI metrics rather than a deep exploration of Continuous Delivery practices. While it touches on important aspects like agility and innovation, it lacks detailed discussion on the specific strategies and tools that support Continuous Delivery, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -1499,15 +1502,6 @@
     "reasoning": "Content primarily discusses agile metrics and waste reduction in organisations, without a clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T11:58:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses agile metrics and waste reduction in software development, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:38:14",
@@ -1584,6 +1578,54 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of continuous feedback and testing, which aligns with the Shift-Left Strategy principles. However, it primarily focuses on metrics related to waste and ROI rather than explicitly addressing the integration of testing, security, and compliance earlier in the development process. The discussion lacks depth in terms of specific techniques or tools that support a Shift-Left approach, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:50:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of continuous improvement in the context of Agile metrics and waste reduction, which aligns with the principles of Continuous Improvement. It mentions continuous practices like integration, delivery, and feedback, indicating a commitment to ongoing enhancement. However, while it touches on relevant metrics and their implications, the depth of discussion on specific Continuous Improvement strategies and frameworks is limited, preventing a higher confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:50:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses metrics related to waste reduction and ROI in Agile contexts, but it does not explicitly address the concept of Common Goals or their significance in aligning strategy with execution. While it touches on the importance of agility and innovation, it lacks a focused discussion on shared objectives or frameworks like OKRs that operationalise Common Goals. The primary focus is on metrics and waste rather than the alignment of team efforts with overarching strategic objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:50:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of continuous improvement and metrics that can enhance organisational performance, which aligns with the concept of competence. It mentions the need for a continuous mindset and the role of metrics in understanding and improving processes, indicating a focus on skill development and quality outcomes. However, while competence is a theme, it is not the primary focus, as the content leans more towards metrics and waste reduction rather than explicitly discussing competence in terms of skill development and professionalism.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:50:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on agile metrics and waste reduction in software development, which does not directly address the principles or components of the One Engineering System. While it touches on themes of efficiency and performance, it lacks explicit discussions on the integration of tools and processes across teams, best practices for implementing 1ES, or the impact of 1ES on software quality. The content is more aligned with general agile practices rather than the specific framework of 1ES.",
     "level": "Ignored"
   }
 }

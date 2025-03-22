@@ -25,16 +25,16 @@ aliasesArchive:
 - /stop-hiding-behind-complexity-and-start-delivering-continuously
 - /blog/stop-hiding-behind-complexity-and-start-delivering-continuously
 tags:
-- Continuous Delivery
 - Software Development
+- Continuous Delivery
 - Product Delivery
 - Metrics and Learning
 - Working Software
+- Continuous Improvement
 - Frequent Releases
 - Azure DevOps
 - Release Management
 - Engineering Practices
-- Value Delivery
 categories:
 - DevOps
 - Engineering Excellence

@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T22:17:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:24:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting a specific error related to Team Foundation Server's build system, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of data-informed decision-making or the key topics outlined in the EBM category. The discussion is technical and operational rather than strategic, lacking any depth in relation to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:37:13",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-03-21T21:24:13",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
-    "reasoning": "The content discusses a specific error encountered while setting up a build system in Team Foundation Server, which is relevant to DevOps practices. It mentions the configuration of a build agent and the troubleshooting steps taken, indicating a focus on Continuous Integration (CI) processes. However, while it touches on automation and build systems, it lacks a broader discussion on DevOps principles, cultural shifts, or tools beyond the specific context of the error. Therefore, while it is relevant, it does not provide a comprehensive exploration of the DevOps category.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server's build system, which is a tool used in DevOps practices. However, it lacks a broader discussion on DevOps principles, such as collaboration, automation, or shared accountability. While it mentions the build process, it does not delve into the cultural or philosophical aspects of DevOps, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -332,22 +335,16 @@
     "reasoning": "Content primarily discusses a technical issue related to Team Foundation Server and PowerShell, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T22:18:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses troubleshooting issues with Team Foundation Server's vNext build system, which is not central to the principles of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T22:18:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:24:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and PowerShell, with no focus on Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server and does not discuss any principles or practices related to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management, or the key topics outlined in the APOM framework. The content is technical and operational in nature, lacking any connection to the product-oriented mindset or continuous delivery aspects of APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -424,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T22:18:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:24:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting issues with Team Foundation Server's build system rather than Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to the Team Foundation Server's build system, which is a part of the broader Continuous Delivery process. However, it lacks a direct discussion on Continuous Delivery principles, automation, or strategies for improving software quality. While it touches on aspects of build configuration and error resolution, it does not delve into the core themes of Continuous Delivery, such as rapid feedback or cultural aspects. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1488,6 +1488,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a specific error encountered during the setup of a build system in Team Foundation Server, with no explicit mention of the Shift-Left Strategy. While it touches on aspects of configuration and troubleshooting, it does not align with the core themes of integrating testing, security, or compliance early in the development process. The discussion lacks depth regarding Shift-Left principles, techniques, or metrics, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:24:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server and does not discuss Continuous Improvement principles. While there are mentions of problem-solving and learning from errors, these are not framed within the context of Continuous Improvement methodologies or strategies. The discussion lacks depth and does not align with the core themes of Continuous Improvement, such as fostering a culture of experimentation or integrating improvement into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:24:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to the TFS build system, lacking any discussion on shared objectives, alignment, or strategic goals within Agile or DevOps frameworks. It does not address the principles of Common Goals, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:24:21",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server and does not explicitly discuss competence or continuous skill development. While it touches on problem-solving and the need for certain skills (like understanding PowerShell versions), these are not the main focus. The discussion lacks depth regarding the principles of competence, such as fostering a culture of learning or the impact of competence on team dynamics.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:24:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server (TFS) and does not discuss the principles, components, or implementation of the One Engineering System. While it mentions build systems, it lacks a direct connection to the integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

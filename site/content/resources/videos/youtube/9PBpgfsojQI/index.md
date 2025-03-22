@@ -33,13 +33,13 @@ tags:
 - People and Process
 - Pragmatic Thinking
 - Scrum Product Development
-- Agile Product Operating Model
 - Agile Product Management
 - Agile Frameworks
 - Agile Strategy
 - Operational Practices
 - Product Strategy
 - Agile Project Management
+- Software Development
 resourceTypes:
 - video
 categories:

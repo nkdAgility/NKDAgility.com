@@ -27,6 +27,9 @@ headline:
   subtitle: Exploring methodologies and tools to enhance workflow efficiency and team collaboration across various frameworks and practices.
   content: A comprehensive exploration of methodologies and tools designed to optimise workflow and enhance team collaboration. Posts delve into visual management techniques, iterative development, continuous delivery, and evidence-based decision-making, drawing insights from industry thought leaders and frameworks to foster effective practices in dynamic environments.
   updated: 2025-02-13T11:58:54Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

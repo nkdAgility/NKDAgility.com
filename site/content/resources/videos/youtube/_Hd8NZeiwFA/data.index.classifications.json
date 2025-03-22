@@ -185,15 +185,6 @@
     "reasoning": "Content heavily discusses the role and importance of Scrum Masters, which is unrelated to Behaviour Driven Development principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-25T12:12:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
     "calculated_at": "2025-02-25T12:12:51",
@@ -811,11 +802,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-25T12:14:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and importance of Scrum Masters without focusing on evidence-based management principles or practices.",
+    "calculated_at": "2025-03-21T16:41:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master and critiques the concept of a 'junior Scrum Master'. While it touches on aspects of team dynamics and competence, it does not engage with the principles of Evidence-Based Management or provide empirical evidence to support its claims. The focus is on Agile practices rather than data-informed decision-making or metrics related to value delivery.",
     "level": "Ignored"
   },
   "Software Developers": {
@@ -1180,11 +1174,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-25T12:15:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:41:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role and misconceptions surrounding Scrum Masters within Agile teams, without any direct reference to Continuous Delivery principles or practices. While it touches on aspects of team dynamics and competence, it does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or delivery techniques. The focus is on Scrum methodology rather than the delivery of software, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1425,6 +1422,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the role and misconceptions surrounding Scrum Masters, with no direct mention of the Shift-Left Strategy or its principles. While it touches on aspects of team dynamics and competence, it does not align with the core themes of integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:41:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of a Scrum Master and the misconceptions surrounding it, touching on the importance of experience and competence in fostering effective team dynamics. While it does mention the need for reflection and improvement within teams, it primarily focuses on the Scrum Master role rather than a broader discussion on Continuous Improvement principles. Therefore, while there are relevant elements, they are not the primary focus of the content.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:41:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the misconceptions surrounding the role of a Scrum Master rather than focusing on Common Goals within Agile and DevOps. While it touches on the importance of expertise and experience in leadership roles, it does not explicitly address shared objectives or alignment with organisational goals, which are central to the concept of Common Goals. The discussion lacks depth in connecting these ideas to the broader themes of Agile and DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:41:38",
+    "ai_confidence": 87.0,
+    "ai_mentions": 4,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses the concept of competence in relation to the Scrum Master role, highlighting the importance of experience and skill development. It aligns well with the core themes of competence, such as the necessity for continuous learning and the impact of competence on team effectiveness. The depth of discussion is significant, providing detailed insights into the complexities of the role and the misconceptions surrounding it.",
+    "level": "Primary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:41:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master within Agile methodologies, focusing on misconceptions about the term 'junior Scrum Master'. While it touches on aspects of team dynamics and organisational context, it does not directly address the principles or components of the One Engineering System (1ES). The discussion is centred around Scrum, which is a specific framework rather than the broader integration and standardisation of engineering processes that 1ES encompasses.",
     "level": "Ignored"
   }
 }

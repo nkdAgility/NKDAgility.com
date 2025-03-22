@@ -29,6 +29,8 @@ isShort: true
 tags:
 - Technical Leadership
 - Discovery and Learning
+- Competence
+- Continuous Improvement
 - Software Development
 sitemap:
   filename: sitemap.xml

@@ -26,6 +26,7 @@ preview: https://i.ytimg.com/vi/sIhG2i7frpE/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
+- Continuous Improvement
 - Continuous Learning
 - Transparency
 - Operational Practices
@@ -35,7 +36,6 @@ tags:
 - Lean Principles
 - Pragmatic Thinking
 - Transparency and Accountability
-- Decision Making
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:15:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:17:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects of migrating and consolidating Team Projects in TFS, without a focus on evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical aspects of consolidating Team Projects in TFS, with no explicit discussion on Evidence-Based Management principles or metrics. While it touches on process improvements, it lacks a clear connection to data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:55:46",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-22T08:17:43",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses the migration and consolidation of Team Projects within Team Foundation Server (TFS), which relates to DevOps practices, particularly in terms of automation and streamlining workflows. However, it primarily focuses on specific technical issues and processes rather than broader DevOps principles or cultural shifts. While it touches on tools and processes relevant to DevOps, the depth of discussion is more technical and less about the overarching DevOps philosophy.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the consolidation of Team Projects in TFS, which is more focused on project management and specific tools rather than the broader DevOps philosophy. While it touches on collaboration and workflow streamlining, it lacks a deep exploration of core DevOps principles such as automation, shared accountability, and continuous improvement. The discussion is more technical and tool-centric, which does not align well with the cultural and philosophical aspects of DevOps.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -332,7 +335,7 @@
     "reasoning": "Content primarily discusses the technical aspects of migrating and consolidating Team Projects within Team Foundation Server, without a focus on Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-03-15T05:53:33",
     "ai_confidence": 72.0,
@@ -346,11 +349,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:16:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:17:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the migration and consolidation of Team Projects within Team Foundation Server, focusing on technical processes rather than Agile principles or product-centric development.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the technical aspects of consolidating Team Projects in TFS, which is more aligned with traditional project management and tool-specific processes rather than the Agile Product Operating Model. While there are mentions of Scrum and process templates, the discussion lacks a clear connection to the core principles of APOM, such as customer-centric value delivery, continuous improvement, or the integration of agile methodologies with product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -430,11 +436,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:56:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:18:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content predominantly discusses Team Foundation Server (TFS) migrations and process template consolidation, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses strategies for consolidating Team Projects in TFS, focusing on migration and integration processes rather than Continuous Delivery principles. While it touches on aspects of workflow and collaboration, it lacks a direct focus on Continuous Delivery practices, automation, or rapid feedback mechanisms.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1512,6 +1521,42 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the migration and consolidation of Team Projects within Team Foundation Server (TFS) without explicitly addressing the Shift-Left Strategy. While it touches on aspects of process improvement, it lacks a clear focus on integrating testing, security, or compliance earlier in the development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:17:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses strategies for consolidating Team Projects and improving workflows, which aligns with the principles of Continuous Improvement. However, it primarily focuses on technical migration processes rather than a broader discussion on Continuous Improvement methodologies or cultural aspects. The mention of enhancing collaboration and streamlining workflows indicates some alignment, but the depth of discussion on Continuous Improvement concepts is limited.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:17:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on technical aspects of consolidating Team Projects in TFS, with limited direct discussion on Common Goals. While it touches on collaboration and process improvement, it lacks a clear connection to shared objectives or strategic alignment within Agile or DevOps frameworks. The depth of discussion is more about technical execution rather than the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:17:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical processes related to consolidating Team Projects in TFS, with limited direct discussion on competence as a foundational principle. While it touches on aspects of skill development and process improvement, it lacks a thorough exploration of continuous learning, professionalism, or the impact of competence on team dynamics and quality outcomes.",
     "level": "Ignored"
   }
 }

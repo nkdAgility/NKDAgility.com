@@ -31,6 +31,7 @@ tags:
 - Agile Transformation
 - Agile Project Management
 - Agile Frameworks
+- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

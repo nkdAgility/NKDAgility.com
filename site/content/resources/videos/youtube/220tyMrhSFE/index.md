@@ -28,6 +28,7 @@ tags:
 - Operational Practices
 - Transparency
 - Pragmatic Thinking
+- Continuous Improvement
 - Team Collaboration
 - Team Performance
 sitemap:

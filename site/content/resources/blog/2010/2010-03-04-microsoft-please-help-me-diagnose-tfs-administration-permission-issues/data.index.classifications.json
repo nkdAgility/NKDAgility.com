@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:31:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:03:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting a permission issue in TFS Administration, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting TFS administration permission issues, which does not align with the principles of Evidence-Based Management. There are no direct mentions of evidence-based practices, metrics, or data-informed decision-making. The discussion is centred around personal experiences and technical troubleshooting rather than strategic management or empirical evidence.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T01:31:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:03:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting permission issues related to TFS administration, which is not central to DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on troubleshooting TFS (Team Foundation Server) administration permission issues, which is more aligned with specific tool usage rather than the broader DevOps philosophy. While it touches on aspects of collaboration and permissions, it lacks a comprehensive discussion on DevOps principles such as automation, shared accountability, or continuous improvement. The mention of TFS does not inherently connect to the core themes of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -311,7 +317,7 @@
     "reasoning": "Content primarily discusses troubleshooting a specific technical issue related to TFS Administration permissions, without any focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:32:23",
     "ai_confidence": 0,
@@ -322,11 +328,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:32:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:03:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting permission issues in TFS Administration, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting TFS 2010 administration permission issues, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM category. The discussion is centred around technical issues with TFS, lacking any depth or alignment with the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:22:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:03:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses troubleshooting permission issues in TFS but does not address Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting TFS administration permission issues, which is not directly related to Continuous Delivery principles or practices. While it touches on aspects of software management, it lacks explicit discussions on Continuous Delivery, automation, or delivery practices. The mention of TFS does not align with the core themes of Continuous Delivery, and the depth of discussion is minimal, focusing instead on a specific technical issue.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1437,6 +1449,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a specific issue related to TFS administration permissions without any reference to the Shift-Left Strategy. There are no mentions of integrating testing, security, or compliance earlier in the software development lifecycle, nor does it provide any insights into the principles or benefits of the Shift-Left approach. The focus is entirely on troubleshooting a permission error, which is unrelated to the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:03:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to TFS administration permissions. While it includes some elements of problem-solving and reflection on the troubleshooting process, it does not explicitly discuss Continuous Improvement principles or strategies. The mention of 'troubleshooting journey' is too vague to align with the core themes of Continuous Improvement, and the depth of discussion is minimal, lacking any structured approach or empirical evidence that would typically characterise Continuous Improvement discussions.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:03:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to TFS administration permissions. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment. The mention of permissions and troubleshooting is too specific and technical, lacking any broader context related to team alignment or organisational goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:03:24",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to TFS permissions, which does not directly address the concept of competence in terms of continuous learning or skill development. While there are elements of problem-solving and understanding of permissions, these do not align with the core themes of competence as defined in Agile and DevOps contexts. The discussion lacks depth regarding the importance of competence in delivering quality outcomes or fostering a culture of continuous improvement.",
     "level": "Ignored"
   }
 }

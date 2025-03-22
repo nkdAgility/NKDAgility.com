@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:09:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:55:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of upgrading Visual Studio and Team Foundation Server, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical aspects of Visual Studio and Team Foundation Server upgrades, with no explicit mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any depth in discussing how empirical evidence informs management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:21:21",
+    "calculated_at": "2025-03-22T07:55:37",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses the compatibility and upgrade paths between different versions of Team Foundation Server (TFS) and build servers, which relates to DevOps practices. However, it primarily focuses on technical details of upgrading and configuration rather than broader DevOps principles such as CI/CD, automation, or cultural shifts. While it touches on aspects of build infrastructure, it lacks a comprehensive discussion on the integration of people, processes, and tools that characterise DevOps.",
+    "reasoning": "The content primarily discusses the integration of Visual Studio 2012 with older build servers, focusing on technical details of upgrading and configuration. While it touches on aspects of build automation and infrastructure management, it lacks a broader discussion on the DevOps philosophy, principles, or cultural shifts. The mention of build processes and server configurations is relevant but does not align closely with the core themes of DevOps, such as collaboration, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -323,7 +326,7 @@
     "reasoning": "Content primarily discusses the technical aspects of upgrading Visual Studio and Team Foundation Server, with no focus on Systems Thinking principles or organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:10:50",
     "ai_confidence": 0,
@@ -334,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:10:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:55:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of Visual Studio and Team Foundation Server upgrades, with no focus on Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the technical aspects of Visual Studio 2012 and its integration with older build servers, focusing on upgrade paths and configuration details. It does not mention or align with the Agile Product Operating Model, nor does it discuss any principles or practices related to agile methodologies or product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -415,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:12:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:55:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the compatibility and upgrade paths for Visual Studio and Team Foundation Server, without discussing Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the integration of Visual Studio 2012 with older build servers, focusing on upgrade paths and technical configurations. While it touches on aspects of build processes, it does not explicitly address Continuous Delivery principles, practices, or benefits. The discussion lacks depth in relation to Continuous Delivery, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1470,6 +1479,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the compatibility and upgrade paths for Visual Studio and Team Foundation Server, focusing on technical details of build server configurations. It does not address the Shift-Left Strategy, which involves integrating testing, security, and compliance earlier in the software development lifecycle. There are no direct mentions of Shift-Left principles, nor does the content explore the benefits or techniques associated with this strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:55:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of integrating Visual Studio 2012 with older build servers, discussing upgrade paths and configurations. While it touches on the idea of simplifying upgrades, it does not engage with the principles of Continuous Improvement, such as fostering a culture of experimentation or data-driven decision-making. The discussion lacks depth in relation to Continuous Improvement methodologies and does not provide empirical evidence or strategies for enhancing processes or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:55:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical details regarding the integration of Visual Studio 2012 with 2010 Build Servers. It does not discuss Common Goals, Agile, or DevOps principles. While it touches on upgrade paths and customer challenges, these are not aligned with the concept of shared objectives or strategic alignment within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:55:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of integrating Visual Studio 2012 with 2010 Build Servers, discussing upgrade paths and configuration details. While it touches on the challenges of upgrading workflows, it does not explicitly address the concept of competence or continuous skill development in a professional context. The discussion lacks depth in relation to the principles of competence, such as fostering a culture of learning or the impact of competence on team dynamics.",
     "level": "Ignored"
   }
 }

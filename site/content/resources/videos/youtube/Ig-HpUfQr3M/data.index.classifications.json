@@ -253,14 +253,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T16:56:20",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T16:51:30",
+    "ai_confidence": 78.0,
     "ai_mentions": 15,
-    "ai_alignment": 30,
-    "ai_depth": 25,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses hypothesis-driven engineering, which aligns with the principles of Evidence-Based Management by emphasising data-driven decision-making and iterative experimentation. It provides a real-world example from Azure DevOps, illustrating the application of empirical evidence in managing product investments. However, while it touches on key aspects of EBM, such as measuring progress and learning from failures, it does not delve deeply into the broader principles of EBM or its integration with Agile methodologies, which slightly limits its depth of discussion.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses hypothesis-driven engineering, which aligns closely with Evidence-Based Management principles, particularly in terms of empirical decision-making and maximising value through data-informed strategies. It provides a detailed approach to managing product investments, emphasising the importance of measuring progress and learning from experiments. However, while it touches on key EBM concepts, it does not explicitly frame the discussion within the broader context of Evidence-Based Management, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Organisational Change": {
@@ -301,11 +301,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T16:01:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:51:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses hypothesis-driven engineering practices and budget allocation in product development, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses hypothesis-driven engineering, which aligns with the principles of Continuous Delivery in terms of rapid testing and validation of ideas. However, it does not explicitly mention Continuous Delivery or its specific practices, making it a secondary focus rather than a primary one. The depth of discussion on Continuous Delivery concepts is limited, focusing more on product investment strategies and learning from failures.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -1496,15 +1499,6 @@
     "reasoning": "The content discusses hypothesis-driven engineering practices and the need for adaptive decision-making in product development, which aligns with the principles of decentralisation and human-centric approaches. However, it primarily focuses on product management rather than a comprehensive exploration of BetaCodex principles.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T11:59:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses hypothesis-driven engineering practices and product management rather than the principles or implementation of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:38:36",
@@ -1581,6 +1575,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses hypothesis-driven engineering and the importance of rapid testing and validation, which aligns with the proactive nature of the Shift-Left Strategy. However, it does not explicitly mention the Shift-Left concept or focus on integrating testing, security, or compliance earlier in the development process. The discussion is more centred on product management and experimentation rather than the specific principles and practices of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:51:17",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses hypothesis-driven engineering, which aligns with Continuous Improvement principles through the emphasis on experimentation, learning from failures, and adapting strategies based on empirical evidence. However, while it touches on these themes, it does not explicitly focus on Continuous Improvement as a primary topic, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:51:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses hypothesis-driven engineering and its role in maximising product value, which indirectly relates to aligning efforts with strategic goals. However, it primarily focuses on individual practices and examples rather than explicitly addressing the concept of Common Goals within Agile and DevOps frameworks. The mention of aligning efforts with desired results and the need for collaboration hints at the importance of shared objectives, but the overall discussion lacks depth in exploring how these practices connect to broader organisational goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:51:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses hypothesis-driven engineering and the importance of learning from failures, which indirectly relates to competence through the lens of continuous improvement and skill development. However, it lacks direct mentions of competence as a primary focus, and while it aligns with some core themes, it does not delve deeply into the principles of professionalism and quality delivery.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:51:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses hypothesis-driven engineering and product investment strategies, which are not directly related to the One Engineering System (1ES). While there are elements of collaboration and resource allocation that could tangentially relate to 1ES principles, the focus is on individual practices rather than the integration and standardisation of engineering processes across teams. The mention of Azure DevOps does not explicitly connect to 1ES, and the overall discussion lacks depth in addressing the core themes of 1ES.",
     "level": "Ignored"
   }
 }

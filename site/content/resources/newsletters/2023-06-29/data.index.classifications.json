@@ -25,11 +25,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T21:13:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:23:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on agile methodologies and training for agile practitioners, with no clear discussion on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on agile methodologies and training for agile practitioners, which is not directly aligned with the core principles of DevOps. While there are mentions of collaboration and continuous improvement, these concepts are framed within the context of agile rather than DevOps. The discussion lacks depth regarding DevOps-specific practices such as automation, shared accountability, or feedback loops, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -103,11 +106,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T21:13:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:23:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on introducing NKD Agility's training programmes and the development of agile practitioners, without a clear emphasis on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting immersive learning experiences in agile methodologies without any explicit discussion of Evidence-Based Management principles. While it mentions the importance of adaptability and innovation, it lacks direct references to empirical evidence, data-informed decision-making, or the specific metrics outlined in the EBM category. The emphasis is on training and personal development rather than on evidence-based practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -357,15 +363,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on agile training and methodologies, without a clear emphasis on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T21:13:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on agile methodologies and training, with no clear discussion on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -703,11 +700,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T21:14:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:23:52",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on agile methodologies and training for agile practitioners, with no clear discussion on Continuous Delivery principles or practices.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on agile methodologies and training for agile practitioners, with no direct mention of Continuous Delivery principles or practices. While it touches on themes of collaboration and continuous improvement, it lacks depth in discussing automation, rapid feedback, or specific Continuous Delivery strategies. Overall, the content is more aligned with general agile practices rather than the specific focus of Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -805,15 +805,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T23:15:37",
-    "ai_confidence": 62.0,
-    "ai_mentions": 50.0,
-    "ai_alignment": 70.0,
-    "ai_depth": 60.0,
+    "calculated_at": "2025-03-21T19:23:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses the development of agile practitioners and the importance of methodologies like Scrum and agile leadership, which aligns with the principles of the Agile Product Operating Model. However, it primarily focuses on training and personal development rather than directly addressing the operational model itself. While it touches on key themes such as collaboration and continuous improvement, it lacks in-depth exploration of product-centric strategies and metrics for value delivery.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content primarily focuses on promoting NKD Agility's immersive learning experiences in agile methodologies, which includes elements of Scrum and agile leadership. However, it lacks a direct discussion on the Agile Product Operating Model itself, such as transitioning from project to product ethos or specific principles of APOM. While there is some alignment with the themes of continuous improvement and collaboration, the depth of discussion on APOM principles is limited, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1545,6 +1545,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on promoting NKD Agility's training programmes for agile practitioners, discussing methodologies like Scrum and agile leadership. However, it does not explicitly mention the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth regarding integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy. Overall, the content is more about agile training than about the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:23:38",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of continuous learning and improvement within agile methodologies, highlighting immersive learning experiences and the development of agile practitioners. However, while it touches on themes of collaboration and adaptability, it lacks a detailed exploration of continuous improvement strategies or empirical evidence, which are crucial for a higher confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:23:41",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of agile methodologies and the development of agile practitioners, which aligns with the concept of Common Goals in fostering collaboration and continuous improvement. However, it primarily focuses on promoting training and personal development rather than explicitly addressing shared objectives or strategic alignment within teams. The discussion lacks depth in connecting these concepts to organisational performance or specific frameworks like OKRs, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:23:44",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the importance of mastering agile methodologies and developing skills, which aligns well with the concept of competence. It highlights immersive learning experiences aimed at personal and professional growth, emphasising continuous learning and the practical application of skills. The depth of discussion is significant, detailing how the training will equip individuals to excel in agile settings, thus fostering a culture of competence. However, while competence is a primary focus, the content also touches on broader themes of collaboration and community, which slightly dilutes the focus on competence alone.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:23:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on agile methodologies and training for agile practitioners, which does not directly address the principles or components of the One Engineering System (1ES). While there are mentions of collaboration and continuous improvement, these concepts are framed within the context of agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES framework. The discussion lacks depth regarding the specific impacts of 1ES or its implementation challenges, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

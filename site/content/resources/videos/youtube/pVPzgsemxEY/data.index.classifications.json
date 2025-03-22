@@ -50,15 +50,6 @@
     "reasoning": "Content heavily discusses Kaizen and continuous improvement within the context of Scrum and Kanban, which are more aligned with traditional agile practices rather than the principles of BetaCodex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:17:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the concept of Kaizen and its application in Scrum and Kanban, without a focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-03-14T18:17:47",
@@ -346,14 +337,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T18:17:47",
+    "calculated_at": "2025-03-21T17:19:00",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content discusses Kaizen and its application in Scrum, focusing on continuous improvement and workflow optimisation. However, it lacks explicit references to Evidence-Based Management principles, empirical data, or metrics that guide decision-making. While it touches on the importance of measuring progress, it does not delve deeply into the core themes of EBM, such as the integration of empirical evidence in management practices.",
+    "reasoning": "The content primarily discusses Kaizen and its application in Scrum, focusing on continuous improvement rather than evidence-based management principles. While it touches on measuring progress and optimising workflows, it lacks a strong emphasis on empirical decision-making or the specific metrics outlined in the Evidence-Based Management category.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -1084,11 +1075,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T13:52:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:18:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the concept of Kaizen and continuous improvement in the context of Scrum and Kanban, without directly addressing the principles or practices of Continuous Delivery.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Kaizen and its application within Scrum and Agile methodologies, focusing on continuous improvement rather than Continuous Delivery specifically. While it touches on principles of incremental changes and optimisation, it lacks a direct focus on Continuous Delivery practices, automation, or deployment strategies, which are central to the category. The discussion is more about general improvement processes rather than the specific delivery practices outlined in the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1527,6 +1521,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Kaizen and its application in Scrum, focusing on continuous improvement rather than integrating testing, security, or compliance earlier in the software development lifecycle. While there are elements of process optimisation, they do not specifically relate to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:18:48",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 36,
+    "non_ai_confidence": 20,
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses the concept of Kaizen, which is synonymous with continuous improvement, and its application within Scrum and Kanban frameworks. It provides detailed insights into how continuous improvement can be integrated into team practices, particularly through Sprint Retrospectives and workflow optimization. The depth of discussion includes practical tips, personal experiences, and examples, demonstrating a strong alignment with the principles of continuous improvement. The content is not merely a mention but a thorough exploration of the topic, making it a primary focus.",
+    "level": "Primary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:18:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Kaizen and its application in Scrum, focusing on continuous improvement. However, it primarily centres on the concept of Kaizen rather than explicitly addressing Common Goals. While there are mentions of team collaboration and improvement, the discussion lacks a direct connection to shared objectives or strategic alignment, which are core to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:18:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content extensively discusses the concept of Kaizen, which is closely related to continuous improvement and competence in Agile and Scrum environments. It highlights the importance of small, incremental changes and the role of retrospectives in fostering a culture of continuous learning and skill development. The depth of discussion on applying Kaizen principles in Scrum, including practical tips and personal experiences, further supports its alignment with the competence category. However, while competence is a significant theme, the primary focus remains on Kaizen itself, which slightly reduces the overall confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:18:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of Kaizen within Scrum and Agile methodologies, which does not align with the core principles of the One Engineering System. While it discusses continuous improvement, it does not address the integration or standardisation of engineering processes across teams, which is central to 1ES. The discussion is more about personal experiences and practices in Scrum rather than the unified framework of 1ES.",
     "level": "Ignored"
   }
 }

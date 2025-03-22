@@ -1,12 +1,15 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:26:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum training and Agile methodologies, which are not central to DevOps principles.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T20:15:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content explicitly discusses DevOps and its role in value delivery, highlighting its impact on streamlining processes and automation. It aligns well with the core themes of collaboration and continuous improvement, although it also delves into agile methodologies, which slightly detracts from its focus on DevOps as a standalone philosophy. The depth of discussion is substantial, particularly in the context of training and value creation, but it could benefit from a more direct exploration of DevOps principles without the intertwining of agile methodologies.",
+    "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -259,11 +262,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses immersive Scrum training, focusing on Scrum roles and certification, with no mention of Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T20:15:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses DevOps and agile methodologies, which are related to Continuous Delivery, but it does not explicitly focus on Continuous Delivery principles or practices. The mention of value delivery and training approaches indicates some alignment with Continuous Delivery concepts, but the primary focus is on training and value creation rather than the delivery process itself. The depth of discussion on Continuous Delivery is limited, as it does not explore specific practices or tools associated with Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -405,15 +411,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum training and methodologies without any focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum training and the immersive learning format, which is unrelated to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1213,11 +1210,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum training and certification, not the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T20:15:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses agile methodologies and their impact on training and value delivery, but it does not explicitly focus on the Agile Product Operating Model. While it touches on principles like prioritising value and continuous improvement, it lacks a detailed exploration of the APOM framework and its core themes, such as the transition from project to product ethos or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1426,11 +1426,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:15:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the new immersive learning format for Scrum training and the role of NKD Agility in agile coaching and consulting, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses value delivery and prioritising value over revenue, which aligns with the core themes of Evidence-Based Management. However, it primarily focuses on training methodologies and DevOps practices without explicitly addressing empirical decision-making or the specific metrics outlined in the EBM framework. The discussion lacks depth in terms of evidence-based practices and does not provide concrete metrics or data to support its claims.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1503,6 +1506,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses DevOps and training methodologies but does not explicitly mention the Shift-Left Strategy or its principles. While there are themes of improving processes and value delivery, the focus is more on training and learning rather than integrating testing, security, and compliance early in the development lifecycle. Therefore, the alignment with the Shift-Left Strategy is weak.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:15:32",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of agile methodologies and continuous improvement in training approaches, particularly through the lens of DevOps and immersive learning. While it does mention continuous improvement and reflects on the need for better training methods, the primary focus is on training transformation rather than a comprehensive exploration of continuous improvement principles. The depth of discussion on continuous improvement concepts is moderate, as it touches on value delivery and learning models but lacks extensive detail on specific continuous improvement strategies or frameworks.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:15:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of value delivery and the role of DevOps and agile methodologies in enhancing training experiences. However, it primarily focuses on personal experiences and training methods rather than explicitly addressing Common Goals within Agile and DevOps frameworks. While there are mentions of collaboration and value creation, the discussion lacks depth in connecting these concepts to shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:15:37",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of effective training and learning approaches in the context of Agile and DevOps, which aligns with the principles of competence. It highlights the need for continuous improvement and adapting training methods to enhance learning outcomes, reflecting a commitment to developing skills and capabilities. However, while competence is a significant theme, it is not the primary focus, as the content also heavily emphasises value delivery and training methodologies without deeply exploring the concept of competence itself.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:15:41",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses agile methodologies and DevOps, which are related to software development practices, but it does not explicitly mention the One Engineering System (1ES) or its principles. The focus is more on training and value delivery rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:23:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:37:37",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Kanban and does not discuss DevOps principles, practices, or related topics.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on TFS Preview as a project management tool, discussing its features and functionalities without delving into DevOps principles or practices. While it touches on collaboration and workflow management, it lacks a direct connection to the core themes of DevOps, such as automation, shared accountability, or continuous improvement. The discussion is more aligned with project management methodologies rather than the DevOps philosophy.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -238,11 +241,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:37:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily revolves around Kanban and Team Foundation Service, with no clear discussion on Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on TFS Preview as a project management tool, discussing its features and functionalities without addressing Continuous Delivery principles or practices. While it touches on aspects of Agile and project management, it does not delve into Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback, which are essential for the category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -371,7 +377,7 @@
     "reasoning": "Content is primarily about Kanban in the context of Team Foundation Service and does not clearly address Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-18T12:23:52",
     "ai_confidence": 0,
@@ -1132,11 +1138,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Kanban and Team Foundation Service, without a clear emphasis on the Agile Product Operating Model or its principles.",
+    "calculated_at": "2025-03-22T07:37:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on TFS Preview as a project management tool, discussing its features and functionalities without a clear emphasis on the Agile Product Operating Model. While it touches on agile concepts like backlog management and Kanban boards, these are presented in the context of project management rather than a product-oriented mindset. The discussion lacks depth in terms of APOM principles and does not explore the transition from project to product ethos, which is central to the category.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1339,11 +1348,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Kanban and Team Foundation Service without discussing Evidence-Based Management principles or practices.",
+    "calculated_at": "2025-03-22T07:37:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on TFS Preview as a project management tool, discussing its features and functionalities without any explicit mention of Evidence-Based Management principles or metrics. While it touches on aspects of project management that could relate to EBM, such as workflow management and team collaboration, it lacks a direct connection to empirical decision-making or the specific key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1416,6 +1428,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on TFS Preview and its features for project management, with no explicit discussion of the Shift-Left Strategy. While it mentions testing as part of the TFS capabilities, it does not delve into integrating testing or security early in the development process, which is central to the Shift-Left concept. The overall discussion is more aligned with Agile project management rather than the proactive measures of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:37:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on TFS Preview as a project management tool, with limited direct discussion on Continuous Improvement principles. While it touches on aspects of Agile methodologies and workflow management, it lacks a thorough exploration of Continuous Improvement strategies, empirical evidence, or a culture of experimentation. The mention of WIP limits and backlog management hints at some alignment with Continuous Improvement, but the overall depth and focus on the category are minimal.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:37:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on TFS Preview as a project management tool, discussing its features and functionalities without explicitly addressing the concept of Common Goals. While it touches on Agile principles, it lacks a direct connection to shared objectives or strategic alignment, which are central to the Common Goals category. The discussion is more about tool usage than about aligning team efforts with overarching strategic objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:37:46",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on TFS Preview as a project management tool, with limited discussion on competence. While it touches on aspects of Agile and project management, it does not delve into continuous learning, skill development, or the importance of competence in delivering quality outcomes. The mention of Agile is brief and does not explore the core themes of competence, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

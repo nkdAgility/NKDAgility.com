@@ -655,14 +655,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T23:20:07",
+    "calculated_at": "2025-03-21T19:26:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
     "final_score": 11.0,
-    "reasoning": "The content primarily discusses the roles of Agile consultants and coaches in Scrum teams, with no direct mention of Continuous Delivery principles or practices. While it touches on the importance of understanding technical processes, it does not align with the core themes of Continuous Delivery, such as automation, deployment strategies, or maintaining a production-ready state. The depth of discussion is also minimal, focusing instead on coaching methodologies rather than CD-specific topics.",
+    "reasoning": "The content primarily discusses the role of Agile consultants versus professional coaches in Scrum teams, focusing on coaching and mentoring rather than Continuous Delivery principles. While it touches on the need for teams to create usable products regularly, it does not delve into Continuous Delivery practices, automation, or related strategies, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -832,11 +832,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T04:49:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the roles of Agile consultants and coaches, focusing on technical understanding and coaching methodologies rather than empirical evidence or data-driven decision-making.",
+    "calculated_at": "2025-03-21T19:26:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the roles of Agile consultants versus professional coaches in Scrum teams, without a focus on evidence-based management principles or metrics. It lacks direct mentions of empirical decision-making or the key topics outlined in the EBM category, such as current value or outcome management.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1288,15 +1291,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T15:55:29",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "calculated_at": "2025-03-21T19:25:49",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
-    "reasoning": "The content discusses the importance of understanding DevOps principles and practices in the context of Agile coaching. While it does mention DevOps and its components, the primary focus is on Agile consulting and coaching rather than a comprehensive exploration of DevOps itself. The discussion touches on the relationship between Agile and DevOps, but it lacks depth in terms of specific DevOps practices, tools, or metrics, which limits its alignment with the core themes of the DevOps category.",
-    "level": "Secondary"
+    "final_score": 28.0,
+    "reasoning": "The content primarily discusses the role of Agile consultants versus professional coaches in Scrum teams, which is more focused on Agile methodologies rather than DevOps principles. While there are mentions of technical understanding and practices, the core discussion does not align with the key themes of DevOps, such as collaboration, automation, or shared accountability. The content lacks depth in discussing DevOps concepts, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1477,12 +1480,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T21:36:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile coaching and consulting, which are relevant to the Agile Product Operating Model, but the primary focus is on the roles and responsibilities of Agile coaches rather than the broader principles of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T19:26:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the role of Agile consultants versus professional coaches in the context of Scrum teams. While it touches on Agile principles, it does not focus on the Agile Product Operating Model or its core themes such as product management, continuous delivery, or operational stability. The discussion is more about coaching and technical understanding rather than the broader framework of APOM.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1500,15 +1506,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content heavily discusses Agile coaching and Scrum practices without a direct connection to platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T21:36:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Agile coaching and Scrum practices without a focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1551,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the roles of Agile consultants and coaches in Scrum teams, focusing on the need for technical understanding and mentoring rather than addressing the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy. The discussion lacks depth in relation to the principles and benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:25:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the differences between Agile consultants and professional coaches, focusing on the need for technical understanding and mentoring in Scrum teams. While it touches on aspects of team development and learning, it does not explicitly address Continuous Improvement principles or provide a detailed exploration of its methodologies, tools, or strategies. Therefore, the confidence score reflects a low alignment with the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:25:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the differences between Agile consultants and professional coaches, focusing on the technical understanding required for Scrum teams. While it touches on the importance of understanding processes and practices, it does not explicitly address the concept of Common Goals or their significance in Agile and DevOps frameworks. The discussion lacks depth in connecting individual contributions to overarching strategic objectives, which is crucial for the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:25:58",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of understanding and technical depth in Agile and Scrum contexts, which aligns with the principles of competence. It highlights the need for continuous learning and the role of Agile consultants in fostering this understanding. However, while competence is a significant theme, the focus is more on the comparison between coaching approaches rather than a deep exploration of competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:26:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the benefits of Agile consultants over professional coaches in the context of Scrum teams. It does not mention the One Engineering System (1ES) framework, nor does it address its principles, components, or implementation. The focus is on Scrum methodology rather than the integration and standardisation of engineering processes, which is central to 1ES.",
     "level": "Ignored"
   }
 }

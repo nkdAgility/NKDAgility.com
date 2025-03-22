@@ -664,11 +664,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T00:15:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:21:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Sprint Review workshop within the Agile framework, discussing its importance for stakeholder engagement and product alignment. While it touches on aspects of feedback and improvement, it does not explicitly address Continuous Delivery principles, practices, or tools. The discussion is centred around Agile methodologies rather than Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -838,11 +841,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T00:16:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses the Sprint Review workshop and its role in Scrum, focusing on stakeholder engagement rather than empirical evidence or data-driven decision-making.",
+    "calculated_at": "2025-03-21T19:22:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Sprint Review workshop within Agile development, discussing its benefits for stakeholder engagement and product alignment. While it touches on aspects of value delivery and improvement, it lacks a direct emphasis on empirical evidence or data-informed decision-making, which are central to Evidence-Based Management. The discussion is more about Agile practices than evidence-based metrics or outcomes.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1288,11 +1294,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T00:13:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T19:21:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Sprint Review workshop within Agile development, which is a specific methodology rather than a discussion on DevOps principles. While it touches on collaboration and stakeholder engagement, it lacks a direct connection to the core themes of DevOps, such as automation, shared accountability, or continuous improvement. The discussion is more aligned with Agile practices than with the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1468,12 +1477,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T21:04:58",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Sprint Review workshop, which is a key event in Scrum, and touches on stakeholder engagement and feedback mechanisms. However, it primarily focuses on Scrum practices rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T19:21:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content primarily focuses on the Sprint Review workshop, which is a specific Agile practice rather than a broader discussion on the Agile Product Operating Model. While it touches on stakeholder engagement and market alignment, which are relevant to APOM, it lacks a comprehensive exploration of the core principles and broader themes of the Agile Product Operating Model. The discussion is more about the mechanics of the Sprint Review rather than the integration of agile methodologies with product management principles.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1490,15 +1502,6 @@
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T21:05:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -1542,6 +1545,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the Sprint Review workshop within Agile development, discussing its importance for stakeholder engagement and product alignment. It does not address the Shift-Left Strategy, which emphasises early integration of testing, security, and compliance in the software development lifecycle. The discussion is centred around Agile practices rather than the proactive measures associated with Shift-Left methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:21:46",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the Sprint Review workshop, which is a key Agile event that facilitates stakeholder engagement and product alignment. While it touches on aspects of continuous improvement, such as reflection and enhancement, the primary focus is on the workshop itself rather than a broader discussion of continuous improvement principles. The content does not provide extensive detail on continuous improvement strategies or frameworks, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:21:49",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the Sprint Review workshop, which is a specific Agile event, but it does not explicitly address the concept of Common Goals. While it touches on stakeholder engagement and market alignment, which are related to shared objectives, the primary focus remains on the mechanics of the Sprint Review rather than on aligning strategy with execution or fostering collaboration across teams. Therefore, the confidence score reflects a moderate alignment with the category, but it lacks depth in discussing Common Goals directly.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:21:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the Sprint Review workshop, which indirectly relates to competence through the emphasis on learning, implementation, and reflection phases. However, while it touches on skill development and stakeholder engagement, it lacks a deeper exploration of continuous learning and mastery, which are core to the competence category.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:21:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Sprint Review workshop within the Agile framework, discussing its benefits and implementation. It does not mention or align with the principles of the One Engineering System, which is centred on standardising and integrating software development practices across teams. The discussion is narrowly focused on Scrum practices, lacking any reference to the broader integration or standardisation themes of 1ES.",
     "level": "Ignored"
   }
 }

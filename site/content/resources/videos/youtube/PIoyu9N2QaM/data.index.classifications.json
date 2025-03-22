@@ -631,11 +631,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T03:35:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:08:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and responsibilities of a Scrum Master, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of Scrum Masters within the Agile framework, without any direct mention or discussion of Continuous Delivery principles, practices, or benefits. While it touches on Agile methodologies, it does not explore Continuous Delivery as a disciplined software delivery practice, nor does it address key topics such as automation, incremental improvements, or software quality. Therefore, the content does not align with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -808,11 +811,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T03:35:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:08:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and responsibilities of Scrum Masters without addressing Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of Scrum Masters, focusing on the distinction between 'newbie' and 'professional' Scrum Masters. While it touches on professionalism and effectiveness, it does not engage with the core themes of Evidence-Based Management, such as data-informed decision-making or empirical metrics. The discussion lacks depth in relation to EBM principles, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1252,11 +1258,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T03:33:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:08:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters within the Agile framework, discussing the differences between newbie and professional Scrum Masters. While it touches on accountability and team effectiveness, it does not engage with core DevOps principles such as collaboration, automation, or shared accountability across development and operations. The discussion is centred around Scrum, which is a methodology rather than a philosophy of DevOps, leading to a very low confidence score in alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1436,22 +1445,16 @@
     "reasoning": "Content heavily discusses the role and responsibilities of a Scrum Master, which is primarily focused on Scrum methodology rather than the principles of Beta Codex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:19:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the roles and responsibilities of Scrum Masters, which is unrelated to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:19:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:08:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role and responsibilities of a Scrum Master, which is more focused on Scrum practices rather than the Agile Product Operating Model.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters rather than the Agile Product Operating Model itself. While it discusses aspects of Agile methodology, it does not delve into product management principles or the broader framework of APOM. The discussion is more about the nuances of Scrum roles than about transitioning to a product-oriented mindset or integrating product management practices.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1503,6 +1506,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master, focusing on the distinction between 'newbie' and 'professional' Scrum Masters. It does not mention the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is centred around Agile and Scrum practices without addressing the integration of testing, security, or compliance earlier in the software development lifecycle, which is essential for a Shift-Left classification.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:08:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the roles and perceptions of Scrum Masters rather than discussing Continuous Improvement directly. While it touches on enhancing team effectiveness, it lacks a detailed exploration of Continuous Improvement principles, techniques, or strategies. The discussion is more about the professional identity of Scrum Masters than about ongoing improvement practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:08:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the distinctions between newbie and professional Scrum Masters, which does not directly address the concept of Common Goals. While it touches on the responsibilities of a Scrum Master and the importance of professionalism, it lacks explicit discussions on shared objectives or alignment within Agile frameworks. The mention of Scrum roles is relevant but does not delve into how these roles contribute to overarching strategic goals, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:08:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the concept of competence in the context of Scrum Masters, emphasising that taking on the role requires demonstrated capability and professionalism. It challenges the notion of 'newbie' versus 'professional' by asserting that all Scrum Masters must show competence. The discussion aligns well with the core themes of competence, particularly in relation to continuous learning and the importance of professionalism in delivering quality outcomes. However, while it touches on these themes, it does not delve deeply into strategies for fostering a culture of competence or methods for inspecting and adapting competence over time, which slightly limits the depth of discussion.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:08:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters within the Agile framework, discussing their responsibilities and the misconceptions surrounding their titles. It does not address the One Engineering System (1ES) framework, its principles, or its integration across teams, which are essential for alignment with the category. The discussion is centred on Scrum, which is a specific methodology rather than the broader integration and standardisation of engineering processes that 1ES entails.",
     "level": "Ignored"
   }
 }

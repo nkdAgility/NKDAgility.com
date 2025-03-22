@@ -33,10 +33,9 @@ tags:
 - Engineering Practices
 - Software Developers
 - Value Delivery
-- Technical Excellence
+- Continuous Delivery
 categories:
 - Engineering Excellence
-- DevOps
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

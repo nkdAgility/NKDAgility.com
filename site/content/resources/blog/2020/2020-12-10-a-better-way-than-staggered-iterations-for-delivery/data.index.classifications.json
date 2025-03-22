@@ -991,14 +991,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T02:46:01",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "calculated_at": "2025-03-21T20:47:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the drawbacks of staggered iterations and advocates for practices that align with Continuous Delivery principles, such as cross-functional teams and the importance of delivering working software each iteration. However, it primarily focuses on Scrum methodologies and does not explicitly mention Continuous Delivery as a primary topic, leading to a moderate confidence score.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of delivering working software frequently and the need for cross-functional teams, which aligns with Continuous Delivery principles. It mentions automation and the necessity of integrating testing within the development cycle, both of which are key aspects of Continuous Delivery. However, the focus is more on agile methodologies and the pitfalls of staggered iterations rather than a comprehensive exploration of Continuous Delivery itself, which slightly reduces the confidence score.",
     "level": "Secondary"
   },
   "Test Automation": {
@@ -1126,11 +1126,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T22:00:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:47:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the drawbacks of staggered iterations and advocates for agile practices without a clear focus on empirical evidence or data-driven decision-making principles central to Evidence-Based Management.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses agile delivery methods and the pitfalls of staggered iterations, with a focus on improving team dynamics and reducing technical debt. While it touches on aspects of empirical decision-making and the importance of delivering working software, it lacks a direct focus on Evidence-Based Management principles. The discussion is more centred on agile practices rather than the strategic use of empirical evidence to drive management decisions.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -1214,15 +1217,6 @@
     "reasoning": "Content primarily discusses Agile methodologies and the issues with staggered iterations, rather than focusing on installation or configuration of tools or software.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T22:01:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses agile methodologies and the drawbacks of staggered iterations, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-17T09:08:37",
@@ -1279,14 +1273,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:26:31",
+    "calculated_at": "2025-03-21T20:47:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 30,
     "final_score": 68.0,
-    "reasoning": "The content discusses agile methodologies and the importance of cross-functional teams, which are relevant to DevOps principles. However, it primarily focuses on Scrum practices and does not explicitly mention DevOps concepts such as Continuous Integration or Continuous Delivery. While there are references to automation and team collaboration, the depth of discussion on DevOps-specific tools and practices is limited, leading to a moderate confidence score.",
+    "reasoning": "The content discusses the importance of cross-functional teams and automation in the context of software delivery, which aligns with DevOps principles. However, it primarily focuses on agile methodologies and Scrum practices, making DevOps a secondary theme rather than the primary focus.",
     "level": "Secondary"
   },
   "Organisational Agility": {
@@ -1354,15 +1348,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-11T14:48:58",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-03-21T20:47:29",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses the drawbacks of staggered iterations and promotes cross-functional teams, which aligns with the Agile Product Operating Model's emphasis on continuous value delivery and team collaboration. However, it primarily focuses on technical practices and Scrum methodologies rather than a holistic view of the Agile Product Operating Model, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses agile delivery methods and the importance of cross-functional teams, which aligns with some principles of the Agile Product Operating Model. However, it primarily focuses on the drawbacks of staggered iterations and does not explicitly mention the Agile Product Operating Model or its core principles. The depth of discussion is limited to practical advice rather than a comprehensive exploration of the APOM framework.",
+    "level": "Tertiary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1546,5 +1540,53 @@
     "final_score": 70.0,
     "reasoning": "The content discusses the importance of integrating testing and quality assurance within the Sprint, which aligns with the Shift-Left Strategy. It emphasises the need for cross-functional teams and test-first approaches, which are key principles of the strategy. However, the primary focus is on the critique of staggered iterations rather than a comprehensive exploration of Shift-Left practices, leading to a moderate confidence score.",
     "level": "Secondary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:47:17",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content discusses the drawbacks of staggered iterations and advocates for cross-functional teams, asynchronous development, and continuous delivery, which align with Continuous Improvement principles. However, while it touches on these themes, it does not explicitly frame them within a Continuous Improvement context, leading to a lower score in direct mentions. The depth of discussion is moderate, providing practical solutions but lacking extensive exploration of Continuous Improvement methodologies.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:47:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of cross-functional teams and the need for collaboration in Agile delivery, which aligns with the concept of Common Goals. However, it primarily focuses on the critique of staggered iterations and the promotion of specific practices rather than explicitly addressing shared objectives or strategic alignment. The discussion lacks depth in connecting these practices to overarching organisational goals, resulting in a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:47:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of cross-functional teams and continuous delivery, which are essential for fostering competence in Agile environments. It highlights the need for teams to take responsibility for delivering working software and the significance of skills development within those teams. However, while competence is a recurring theme, the focus is more on delivery processes and methodologies rather than a deep exploration of competence itself, leading to a moderately high confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:47:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses agile methodologies and the drawbacks of staggered iterations, which are not directly related to the One Engineering System framework. While it touches on concepts like cross-functional teams and quality assurance, it lacks a clear focus on the integration and standardisation of engineering processes as outlined in the 1ES principles. The discussion is more centred on Scrum practices rather than the broader 1ES context.",
+    "level": "Ignored"
   }
 }

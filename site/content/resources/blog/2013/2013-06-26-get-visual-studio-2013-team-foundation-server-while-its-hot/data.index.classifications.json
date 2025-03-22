@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:26:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:46:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2013 Team Foundation Server, focusing on Agile Portfolio Management, team collaboration, and testing tools, without a clear emphasis on Evidence-Based Management principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the features of Visual Studio 2013 Team Foundation Server, discussing Agile practices and tools for collaboration and testing. While it touches on Agile Portfolio Management, it does not engage with the core themes of Evidence-Based Management, such as empirical decision-making or metrics for current value and unrealised value. The discussion lacks depth in relation to evidence-based practices, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:06:25",
+    "calculated_at": "2025-03-22T07:46:18",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily discusses features of Visual Studio 2013 and Team Foundation Server, focusing on Agile Portfolio Management, team collaboration, and testing capabilities. While these topics touch on aspects of DevOps, such as collaboration and continuous delivery, they do not explicitly address core DevOps principles or practices. The discussion lacks depth in terms of DevOps-specific metrics, automation, or cultural shifts, leading to a low confidence score in alignment with the DevOps category.",
+    "reasoning": "The content primarily discusses features of Visual Studio 2013 Team Foundation Server, focusing on Agile practices and collaboration tools. While it touches on aspects of team collaboration and iterative delivery, which are relevant to DevOps, it lacks a comprehensive exploration of DevOps principles such as automation, shared accountability, and cultural shifts. The discussion is more aligned with Agile methodologies rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -332,7 +335,7 @@
     "reasoning": "Content primarily discusses new features of Visual Studio 2013 Team Foundation Server, focusing on Agile Portfolio Management, team collaboration, and testing tools, without a clear emphasis on Systems Thinking principles or methodologies.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:27:49",
     "ai_confidence": 0,
@@ -343,15 +346,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-11T14:59:09",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "calculated_at": "2025-03-22T07:46:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 55.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses Agile Portfolio Management and team collaboration features in Team Foundation Server 2013, which are relevant to the Agile Product Operating Model. However, it primarily focuses on specific tools and features rather than a comprehensive discussion of the Agile Product Operating Model itself. While there are mentions of Agile principles, the depth of discussion is more about the technical aspects of the software rather than the broader organisational framework.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses Agile Portfolio Management and team collaboration features in Team Foundation Server 2013, which are relevant to the Agile Product Operating Model. However, it primarily focuses on specific tools and features rather than a comprehensive discussion of the APOM principles or frameworks. While there are direct mentions of agile practices, the depth of discussion is more tool-centric than conceptually aligned with the broader themes of the Agile Product Operating Model.",
+    "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -427,11 +430,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:09:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:46:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2013 and Team Foundation Server, focusing on Agile Portfolio Management, team collaboration, and testing functionalities, which are not directly related to Continuous Delivery principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses features of Visual Studio 2013 Team Foundation Server, focusing on Agile practices and team collaboration. While it touches on aspects of testing and iterative delivery, it does not explicitly address Continuous Delivery principles or practices. The discussion is more aligned with Agile methodologies rather than the specific practices of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1536,6 +1542,42 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses features of Team Foundation Server 2013, including testing and collaboration tools, but does not explicitly mention the Shift-Left Strategy or its principles. While there are references to testing and agile practices, the focus is primarily on new features rather than integrating testing and security earlier in the development lifecycle. Therefore, the alignment with the Shift-Left Strategy is weak, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:46:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on new features in Visual Studio 2013 Team Foundation Server, with a strong emphasis on Agile practices and tools for collaboration and testing. While it touches on aspects of team effectiveness and iterative delivery, it lacks a direct discussion on Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation. The mention of iterative feature delivery hints at Continuous Improvement but does not delve into its core themes or provide substantial depth on the topic.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:46:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses features of Visual Studio 2013 Team Foundation Server, including Agile Portfolio Management and team collaboration tools. While it touches on aspects of Agile practices, it lacks a focused discussion on Common Goals as defined in the category. The mentions of backlogs and features relate to tactical commitments but do not explicitly connect to overarching strategic objectives or the importance of shared goals across teams. The depth of discussion is primarily technical and feature-oriented rather than strategic, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:46:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the features of Visual Studio 2013 Team Foundation Server, discussing tools for collaboration and testing rather than directly addressing the concept of competence. While it touches on aspects of Agile practices, it does not delve into continuous learning, skill development, or the professional growth of teams, which are central to the competence category. The discussion lacks depth in exploring how these tools contribute to competence or quality outcomes.",
     "level": "Ignored"
   }
 }

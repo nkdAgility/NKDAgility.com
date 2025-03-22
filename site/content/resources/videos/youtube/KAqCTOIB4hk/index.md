@@ -32,6 +32,7 @@ sitemap:
   priority: 0.6
 tags:
 - Metrics and Learning
+- Continuous Improvement
 - People and Process
 - Discovery and Learning
 - Continuous Learning
@@ -39,8 +40,7 @@ tags:
 - Pragmatic Thinking
 - Agile Product Management
 - Ability to Innovate
-- Organisational Change
-- Value Delivery
+- Evidence Based Management
 resourceTypes:
 - video
 categories:

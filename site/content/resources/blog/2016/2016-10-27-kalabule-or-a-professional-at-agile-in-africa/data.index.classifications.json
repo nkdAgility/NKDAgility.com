@@ -40,11 +40,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T20:53:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:17:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses professionalism in software development and Scrum practices, with no clear focus on Continuous Delivery principles or methodologies.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses professionalism in the software industry and critiques the lack of understanding of Scrum practices. While it touches on the importance of delivering working software regularly, it does not explicitly focus on Continuous Delivery principles or practices. The mention of delivering software on a regular cadence aligns somewhat with Continuous Delivery, but the overall discussion is more about Agile and professionalism rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1120,11 +1123,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T21:46:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:17:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses professionalism in the software industry and critiques poor management practices without focusing on evidence-based management principles or empirical data.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses professionalism in the software industry and critiques the lack of understanding of Scrum practices. While it touches on the need for better management and values in software development, it does not explicitly mention Evidence-Based Management or its key topics. The focus is more on Agile practices and the cultural mindset rather than on empirical decision-making or metrics that align with EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -1219,11 +1225,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T21:46:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:17:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum principles and professionalism in the software industry, but it does not focus on DevOps practices or principles.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses professionalism in the software industry and critiques the misuse of Scrum practices, which are not directly related to DevOps principles. While it touches on themes of collaboration and accountability, it lacks a focused discussion on DevOps as a philosophy or its core practices. The mention of values like courage and respect aligns somewhat with DevOps culture, but the overall emphasis is on Agile and Scrum rather than DevOps specifically.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1424,25 +1433,16 @@
     "reasoning": "Content primarily discusses professionalism in software development and Agile practices, not focusing on Systems Thinking principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T21:46:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses professionalism in the software industry and Scrum practices without a clear focus on the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T03:49:33",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-21T21:17:40",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses professionalism in the context of Agile and Scrum, highlighting issues with current practices and the need for values in software development. However, it does not explicitly focus on the Agile Product Operating Model or its principles, strategies, or metrics. The mention of Scrum and the critique of unprofessional practices suggest some alignment with Agile principles, but the overall discussion is more about professionalism than the specific operating model, leading to a moderate confidence score.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses professionalism in the software industry and mentions Scrum, but it primarily focuses on the issues of unprofessionalism ('kalabule') rather than the Agile Product Operating Model itself. While there are references to agile values and the need for professionalism, the discussion lacks a direct focus on the principles and practices of the Agile Product Operating Model, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -1539,6 +1539,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses professionalism in the software industry and critiques the lack of understanding of Scrum practices. While it touches on the need for better practices and values in software development, it does not explicitly mention the Shift-Left Strategy or its principles, benefits, or techniques. The focus is more on general Agile practices and professionalism rather than integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:17:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses professionalism in the software industry and critiques the 'kalabule' mindset, which indirectly relates to Continuous Improvement by advocating for better practices and values. However, it lacks explicit discussions on Continuous Improvement methodologies or frameworks, and the focus is more on professionalism rather than systematic improvement processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:17:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses professionalism in the software industry and the need for values like courage, focus, and respect, which are somewhat related to the concept of Common Goals. However, it primarily focuses on the critique of unprofessional practices ('kalabule') rather than explicitly addressing shared objectives or alignment within Agile and DevOps frameworks. The discussion lacks depth in connecting these values to strategic goals or frameworks like OKRs, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:17:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of professionalism in the software industry, directly addressing the need for competence and the rejection of unprofessional practices ('kalabule'). It highlights the necessity for continuous improvement and adherence to Agile values, which aligns well with the core themes of competence. The depth of discussion is substantial, as it critiques current practices and advocates for a cultural shift towards professionalism, although it could benefit from more specific strategies for fostering competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:17:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses professionalism in the software industry and critiques the misuse of Scrum practices, which does not align with the core principles of the One Engineering System. While it touches on values relevant to software development, it lacks direct references to 1ES, integration of tools, or standardisation of processes, making it peripheral to the category.",
     "level": "Ignored"
   }
 }

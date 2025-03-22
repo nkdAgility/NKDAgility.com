@@ -26,6 +26,9 @@ headline:
   subtitle: Enhance team synergy and responsiveness through focused daily check-ins, ensuring alignment with objectives and adaptability to change.
   content: Facilitate team cohesion and responsiveness through structured, time-boxed discussions. Emphasise progress evaluation, plan adjustments, and commitment to objectives, fostering a culture of transparency and continuous improvement. Explore topics such as team dynamics, goal alignment, and adaptive planning strategies.
   updated: 2025-02-13T12:05:10Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

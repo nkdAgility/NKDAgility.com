@@ -664,11 +664,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T07:19:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile principles and business predictability, with no clear focus on Continuous Delivery practices or methodologies.",
+    "calculated_at": "2025-03-21T17:02:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile principles and their role in achieving business predictability, rather than focusing on Continuous Delivery practices. While it touches on aspects of adaptability and collaboration, which are relevant to Continuous Delivery, it lacks a direct emphasis on the specific principles, practices, and tools associated with Continuous Delivery. The discussion is more about Agile methodologies in general, making Continuous Delivery a secondary theme rather than a primary focus.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -841,14 +844,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T17:28:19",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-21T17:02:18",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses Agile principles and their role in achieving predictability, which aligns with some aspects of Evidence-Based Management, particularly in terms of using data-driven insights and continuous improvement. However, it lacks a direct focus on EBM principles, metrics, or empirical evidence, and instead centres on Agile methodologies and practical steps for predictability without a strong emphasis on evidence-based decision-making.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile principles and their role in achieving predictability, but it primarily focuses on general Agile practices rather than specifically on Evidence-Based Management. While there are mentions of data-driven insights and the importance of aligning business goals, the discussion lacks a strong emphasis on empirical evidence and metrics that are central to EBM. The content does not delve deeply into the key topics outlined for EBM, such as current value metrics or unrealised value analysis.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1493,15 +1496,6 @@
     "reasoning": "The content discusses agile principles and their role in enhancing predictability within businesses, touching on decentralisation and the importance of empowering individuals in decision-making. However, it primarily focuses on predictability rather than the core tenets of BetaCodex.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:05:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses agile principles and business predictability, with no clear focus on the One Engineering System framework or its components.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:42:28",
@@ -1578,6 +1572,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile principles and their role in achieving predictability in business, without explicitly addressing the Shift-Left Strategy. While it touches on themes of collaboration and continuous improvement, it lacks a focused discussion on integrating testing, security, or compliance early in the software development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:02:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of predictability in business and how Agile methodologies can enhance it. While it touches on continuous improvement through the lens of optimizing systems and processes, the primary focus is on predictability rather than a deep exploration of continuous improvement principles. The mention of continuous optimization and the need for a commitment to continuous improvement indicates some alignment, but the depth of discussion on continuous improvement techniques and frameworks is limited.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:02:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of aligning business goals for predictability, which directly relates to the concept of Common Goals. It highlights the need for clear objectives and effective communication to ensure that all team members are working towards shared outcomes. However, while it touches on these themes, the primary focus is on predictability and Agile methodologies rather than a deep exploration of Common Goals themselves. The discussion lacks extensive detail on frameworks like OKRs or the relationship between strategic and tactical commitments, which limits the depth of the alignment with the category.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:02:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 4,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile principles and their role in achieving predictability, which indirectly touches on competence through the emphasis on continuous improvement and adaptability. However, it primarily focuses on predictability rather than explicitly addressing competence as a foundational principle. The mention of 'continuous optimization' and 'collaboration' suggests a connection to competence, but the depth of discussion on skill development and mastery is limited.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:02:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile principles and their role in achieving business predictability, without explicitly discussing the One Engineering System framework or its components. While it touches on systems and processes, it does not align closely with the core themes of 1ES, such as integration across teams or standardisation of practices. The discussion lacks depth regarding 1ES and does not provide relevant case studies or comparisons, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

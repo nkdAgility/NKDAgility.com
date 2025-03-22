@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T21:36:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:26:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the rewarding aspects of being a Scrum developer, which is primarily focused on Scrum roles and events rather than DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum development and the personal satisfaction derived from it, with no explicit discussion of DevOps principles or practices. While it touches on teamwork and meaningful work, these concepts are not aligned with the core themes of DevOps, such as automation, shared accountability, or continuous improvement. The content lacks depth in discussing any DevOps-related topics, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -85,11 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T21:36:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:26:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the personal rewards and motivations of being a Scrum developer, rather than focusing on evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the personal satisfaction and meaning derived from being a Scrum developer, without any explicit discussion of Evidence-Based Management principles or metrics. While it touches on the importance of meaningful work, it does not align with the core themes of EBM, such as data-informed decision-making or empirical evidence. The discussion is more about personal experiences and motivations rather than evidence-based practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -327,15 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the rewarding aspects of being a Scrum developer without any focus on release management processes or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T21:37:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses personal motivations and experiences related to being a Scrum developer, without reference to the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -646,11 +643,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T21:37:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:26:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the rewarding aspects of being a Scrum developer, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the personal experiences and motivations of a Scrum developer, discussing the joy and meaning behind their work. While it mentions concepts related to Agile and teamwork, it does not explicitly address Continuous Delivery principles, practices, or tools. The discussion lacks depth in relation to Continuous Delivery, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -742,11 +742,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T21:38:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the personal rewards of being a Scrum developer rather than the Agile Product Operating Model or its principles.",
+    "calculated_at": "2025-03-21T19:26:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the personal experiences and motivations of a Scrum developer, discussing the joy and meaning derived from their work. While it mentions Scrum, it does not explicitly address the Agile Product Operating Model or its principles. The discussion lacks depth in terms of product management practices and does not explore the broader themes of APOM, such as operational stability or data-driven measures. Therefore, while there is some alignment with agile principles, it does not meet the criteria for a strong focus on the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1473,6 +1476,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the personal satisfaction and meaning derived from being a Scrum Developer, without any explicit discussion of the Shift-Left Strategy or its principles. While it touches on the importance of meaningful work, it does not address integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:26:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the personal satisfaction and meaning derived from being a Scrum developer, rather than discussing Continuous Improvement principles. While it touches on themes of meaningful work and creativity, it lacks explicit references to Continuous Improvement practices, empirical evidence, or strategies for enhancing processes. The discussion is more about individual motivation than organisational improvement, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:26:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the personal satisfaction and meaning derived from being a Scrum developer, rather than discussing Common Goals in the context of Agile and DevOps. While it touches on themes of purpose and meaningful work, it lacks explicit references to shared objectives, alignment, or frameworks like OKRs that are central to the Common Goals category. The discussion is more anecdotal and motivational, which does not align closely with the category's focus.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:26:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the joy and purpose of being a Scrum developer, touching on meaningful work and creativity, which aligns with the concept of competence. However, it lacks direct mentions of continuous learning, skill development, or strategies for fostering competence, making it more of a secondary focus rather than a primary discussion.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:26:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the personal experiences and motivations of a Scrum developer, discussing the joy and meaning derived from Scrum practices. It does not address the One Engineering System framework, its principles, or its integration with other processes, which are essential for alignment with the category. The discussion is centred around individual perspectives rather than the standardisation and integration of engineering practices.",
     "level": "Ignored"
   }
 }

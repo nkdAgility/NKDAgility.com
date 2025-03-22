@@ -30,8 +30,8 @@ tags:
 - Products and Books
 - Product Delivery
 - Value Delivery
-- Agile Product Operating Model
 - Scrum Product Development
+- Agile Project Management
 
 ---
 **Dear Innovators and Product Enthusiasts,**

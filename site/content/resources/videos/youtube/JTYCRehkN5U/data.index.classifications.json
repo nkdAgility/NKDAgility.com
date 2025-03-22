@@ -664,12 +664,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T17:33:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of delivering a usable working product regularly, which aligns with Continuous Delivery principles. However, the primary focus is on technical excellence and Agile methodologies rather than Continuous Delivery itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of delivering a usable working product at the end of each iteration, which aligns with Continuous Delivery principles. It highlights the role of technical excellence in mitigating risks and improving product quality, which are key aspects of Continuous Delivery. However, the primary focus is on Agile practices and technical excellence rather than Continuous Delivery itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -841,14 +844,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T18:58:24",
+    "calculated_at": "2025-03-21T17:33:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content discusses technical excellence in Agile development, focusing on the importance of delivering a usable product and mitigating risks. However, it lacks explicit references to Evidence-Based Management principles, empirical data, or metrics that guide decision-making. While it touches on continuous improvement and real-world examples, it does not delve deeply into EBM practices or the integration of EBM with Agile methodologies.",
+    "reasoning": "The content discusses Agile principles and technical excellence but does not explicitly focus on Evidence-Based Management or its key topics. While it touches on the importance of quality and risk mitigation, it lacks a strong emphasis on empirical decision-making or metrics that align with EBM principles.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1297,15 +1300,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-14T18:58:05",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-21T17:32:54",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 50,
-    "final_score": 34.0,
-    "reasoning": "The content primarily discusses Agile methodologies and technical excellence, with a focus on Scrum practices. While it touches on aspects of DevOps, such as continuous delivery and the importance of quality in software development, it does not explicitly centre on DevOps principles or practices. The discussion lacks depth in DevOps-specific tools, cultural shifts, or metrics, leading to a lower confidence score in alignment with the DevOps category.",
-    "level": "Ignored"
+    "final_score": 43.0,
+    "reasoning": "The content primarily focuses on Agile development and technical excellence, with only brief mentions of DevOps principles, such as the Azure DevOps team's transformation. While it touches on concepts like continuous delivery and risk mitigation, it lacks a comprehensive discussion on the broader DevOps philosophy, practices, and cultural shifts necessary for effective implementation.",
+    "level": "Tertiary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1484,23 +1487,17 @@
     "reasoning": "Content primarily discusses technical excellence and agile development practices, with no clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:45:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Agile development and technical excellence, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:45:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T17:33:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile principles and the importance of technical excellence in product development, but it primarily focuses on technical practices rather than a holistic view of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses Agile principles and the importance of technical excellence, which aligns with some aspects of the Agile Product Operating Model. However, it primarily focuses on technical practices and Scrum roles rather than the broader framework of APOM, such as product management integration and operational governance.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1563,6 +1560,54 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of technical excellence and delivering a usable product at the end of each iteration, which aligns with the Shift-Left Strategy's focus on integrating quality early in the development process. However, it primarily centres on Agile principles and technical debt rather than explicitly addressing the Shift-Left Strategy itself. While there are relevant themes, such as risk mitigation and the need for a strong Definition of Done, the discussion lacks a direct focus on integrating testing, security, and compliance earlier in the lifecycle, which is crucial for a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:32:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of technical excellence and continuous delivery, which are related to Continuous Improvement principles. However, it primarily focuses on technical excellence rather than explicitly addressing Continuous Improvement as a primary theme. While it mentions the need for continuous improvement in processes and product quality, the depth of discussion on Continuous Improvement techniques and strategies is limited.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:32:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on technical excellence in Agile development rather than explicitly discussing Common Goals. While it touches on the importance of delivering a usable product and maintaining quality, it does not delve into shared objectives or alignment of strategy with execution, which are central to the Common Goals category. The discussion lacks depth in connecting individual contributions to overarching organisational missions, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:33:00",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses the importance of technical excellence, which is closely tied to competence in Agile environments. It highlights continuous improvement, the necessity of a well-defined 'Definition of Done', and the impact of technical debt on quality and delivery. These elements align well with the core themes of competence, such as skill development and maintaining trust through quality outcomes. The depth of discussion is significant, providing real-world examples and actionable recommendations, reinforcing the primary focus on competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:33:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile development and technical excellence, with no direct mention of the One Engineering System (1ES). While it discusses principles that could align with 1ES, such as quality and risk mitigation, it does not delve into the integration of tools or processes across teams, which is central to 1ES. The examples provided, including the Azure DevOps transformation, are relevant to Agile practices rather than the unified engineering framework of 1ES.",
     "level": "Ignored"
   }
 }

@@ -32,10 +32,10 @@ tags:
 - People and Process
 - Professional Scrum
 - Agile Frameworks
+- Competence
 - Software Development
 - Scrum Product Development
 - Accountability
-- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

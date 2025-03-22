@@ -34,6 +34,7 @@ tags:
 - Agile Transformation
 - Coaching
 - Team Collaboration
+- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -23,6 +23,9 @@ headline:
   subtitle: Empowering teams to navigate change, enhance collaboration, and drive continuous value delivery in a complex business environment.
   content: Leadership encompasses the art of guiding teams through uncertainty, fostering a culture of accountability, and driving continuous improvement. Explore practices for enhancing decision-making, cultivating adaptive leadership, and building resilient teams, while navigating the complexities of modern organisational landscapes and promoting effective collaboration.
   updated: 2025-02-17T13:03:01Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

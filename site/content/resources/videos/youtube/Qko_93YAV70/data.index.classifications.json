@@ -50,15 +50,6 @@
     "reasoning": "Content heavily discusses Caman and its relationship with Scrum, without a clear focus on BetaCodex principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:25:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Caman and its relationship with Scrum, without focusing on the principles or components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T12:25:34",
@@ -343,11 +334,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T12:26:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Caman as a strategy for process optimisation, with no clear focus on Evidence-Based Management principles or practices.",
+    "calculated_at": "2025-03-21T17:22:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Caman in relation to Scrum, focusing on process optimisation and transparency rather than directly addressing Evidence-Based Management principles. While it touches on concepts like optimisation and insights, it lacks explicit references to empirical decision-making or the specific metrics outlined in the EBM category. The discussion is more about enhancing workflows than about data-informed management practices.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -1057,11 +1051,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T13:54:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:22:38",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on Caman and its relationship with Scrum, with no discussions on Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses Caman and its relationship with Scrum, focusing on process optimisation rather than Continuous Delivery principles. While it touches on transparency and workflow insights, it lacks direct references to Continuous Delivery practices, automation, or the specific benefits of delivering software in reliable cycles.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1500,6 +1497,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Caman as a tool for process optimisation in relation to Scrum, without any explicit mention or focus on the Shift-Left Strategy. While it touches on themes of transparency and optimisation, these concepts do not directly align with the core principles of integrating testing, security, and compliance earlier in the software development lifecycle. The discussion lacks depth regarding Shift-Left practices and does not provide relevant techniques, case studies, or metrics related to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:22:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Caman as a tool for process optimisation and transparency, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the relationship between Caman and Scrum rather than delving deeply into Continuous Improvement methodologies or strategies. While it mentions optimisation and transparency, it lacks extensive detail on empirical evidence, data-driven decision-making, or specific Continuous Improvement frameworks, which limits its depth of discussion.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:22:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Caman in relation to Scrum, focusing on process optimisation and transparency. However, it lacks a direct emphasis on shared objectives or alignment with strategic goals, which are central to the concept of Common Goals. While it touches on enhancing workflows and team engagement, it does not delve deeply into how these efforts connect to overarching organisational missions or accountability, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:22:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 8,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Caman as a tool that complements Scrum, focusing on transparency and optimisation of processes. While it touches on the importance of understanding and improving workflows, it does not explicitly address continuous learning or skill development, which are central to the concept of competence. The discussion is more about process improvement than the development of professional capabilities, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:22:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Caman and its relationship with Scrum, without addressing the core principles or components of the One Engineering System. While it touches on process optimisation and transparency, it does not delve into the integration of tools or methodologies specific to 1ES, nor does it provide any insights into its implementation or impact on software quality. Therefore, the content does not align well with the category.",
     "level": "Ignored"
   }
 }

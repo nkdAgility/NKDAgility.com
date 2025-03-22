@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:58:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:09:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses WPF and MVVM implementation details, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on implementing WPF Scale Transform Behaviour in MVVM applications, with no direct mention or discussion of Evidence-Based Management principles. It lacks alignment with the core themes of EBM, such as data-informed decision-making or metrics related to value delivery, and does not provide any depth on these topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T01:59:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:09:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses WPF and MVVM concepts, with no clear focus on DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on implementing WPF Scale Transform Behaviour in MVVM applications, which is related to UI development rather than DevOps principles. There are no direct mentions of DevOps concepts, and the discussion does not align with the core themes of collaboration, automation, or continuous value delivery that define DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses WPF and MVVM implementation details, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:59:28",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:59:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:09:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses WPF and MVVM implementation details, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on implementing WPF Scale Transform Behavior in MVVM applications, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM category. The discussion is technical and specific to UI development, lacking any connection to agile practices or product-oriented mindsets.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -400,11 +409,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:46:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:10:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses WPF (Windows Presentation Foundation) and a custom scale transform behavior, with no relation to Continuous Delivery practices or principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on implementing WPF Scale Transform Behaviour in MVVM applications, which is related to UI development rather than Continuous Delivery. There are no direct mentions of Continuous Delivery principles, practices, or tools, and the discussion does not align with the core themes of Continuous Delivery such as automation, rapid feedback, or software quality. The content lacks depth in any relevant Continuous Delivery topics, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1428,6 +1440,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on WPF and MVVM implementation details, with no direct mention or discussion of the Shift-Left Strategy. While there may be some implicit benefits of early integration of UI scaling, it does not address testing, security, or compliance in the software development lifecycle, which are core to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:09:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on implementing a WPF Scale Transform Behaviour in MVVM applications, which does not directly discuss Continuous Improvement principles. While there may be some implicit references to enhancing user interfaces, the content lacks explicit discussions on continuous improvement methodologies, empirical evidence, or strategies for fostering a culture of experimentation and learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:09:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on implementing a WPF Scale Transform Behaviour in MVVM applications, which is a technical discussion about UI development. It does not address the concept of Common Goals, nor does it relate to Agile or DevOps principles. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the depth of discussion is entirely technical without connecting to the overarching themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:09:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on implementing a WPF Scale Transform Behaviour in MVVM applications, which is a technical implementation rather than a discussion on competence. While it may indirectly touch on skills related to WPF and MVVM, it does not explicitly discuss continuous learning, skill development, or the importance of competence in Agile or DevOps environments. The depth of discussion is technical and lacks a focus on the broader implications of competence in professional settings.",
     "level": "Ignored"
   }
 }

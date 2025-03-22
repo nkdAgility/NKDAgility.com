@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:32:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:03:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting a build failure in Team Foundation Build Services, focusing on code issues and debugging rather than evidence-based management principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting build failures in Team Foundation Server and does not discuss Evidence-Based Management principles or metrics. While it touches on aspects of project management, such as creating bugs and managing sprints, it lacks a clear emphasis on data-informed decision-making or empirical evidence, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,15 +133,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T13:06:47",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-22T09:03:36",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses troubleshooting a build failure in Team Foundation Build Services, which relates to CI/CD practices in DevOps. However, it primarily focuses on debugging and code review processes rather than broader DevOps principles or cultural shifts. While it touches on aspects of automation and workflow, it lacks a comprehensive exploration of DevOps tools or metrics, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on troubleshooting build failures in Team Foundation Server (TFS) and does not explicitly discuss DevOps principles or practices. While it touches on aspects of collaboration and accountability through the mention of bug tracking and code reviews, these are not explored in the context of DevOps as a philosophy. The discussion lacks depth in terms of DevOps culture, automation, or continuous improvement, leading to a low confidence score in alignment with the DevOps category.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -332,7 +335,7 @@
     "reasoning": "Content primarily discusses troubleshooting a build failure in Team Foundation Build Services, focusing on specific coding issues and debugging practices rather than Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:33:36",
     "ai_confidence": 0,
@@ -343,11 +346,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:33:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:03:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting a build failure in Team Foundation Build Services, focusing on technical issues and code rather than Agile principles or product-centric development.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting build issues in Team Foundation Server (TFS) and does not explicitly discuss the Agile Product Operating Model or its principles. While there are brief mentions of Scrum practices, they are not the main focus of the content. The discussion lacks depth regarding the transition to a product-oriented mindset or the integration of agile methodologies with product management, which are core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -424,11 +430,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T01:39:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:03:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting build failures and testing within a specific environment, focusing on issues related to software configuration and problem-solving rather than the principles or practices of Continuous Delivery.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on troubleshooting build failures in Team Foundation Server (TFS) rather than discussing Continuous Delivery principles or practices. While it touches on aspects of software quality and error resolution, it lacks a direct focus on Continuous Delivery as a disciplined practice. The discussion is more about debugging and development processes, which are not central to Continuous Delivery. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1533,6 +1542,42 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses debugging a failing build and the importance of code reviews, which are tangentially related to the Shift-Left Strategy. However, it does not explicitly mention integrating testing or security earlier in the development process, nor does it provide a comprehensive exploration of the Shift-Left principles or techniques. The focus is more on immediate troubleshooting rather than proactive quality assurance.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:03:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific issue in Team Foundation Server 2010, with a detailed examination of a failing build and code review practices. While it touches on aspects of improvement through code review and bug tracking, it lacks a broader discussion on Continuous Improvement principles, such as fostering a culture of experimentation or integrating Continuous Improvement into organisational processes. The content does not explicitly mention Continuous Improvement as a concept, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:03:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to Team Foundation Server and does not explicitly discuss Common Goals or their significance in Agile or DevOps. While there are brief mentions of creating a bug and adding it to the sprint backlog, these actions are more tactical and do not connect to the overarching theme of aligning strategy with execution or fostering collaboration across teams. The discussion lacks depth in exploring how these actions contribute to shared objectives or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:03:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses troubleshooting and resolving issues in a build process, which indirectly relates to competence through the need for skill development and problem-solving capabilities. However, it primarily focuses on technical troubleshooting rather than a broader discussion on competence in Agile or DevOps contexts. The mention of code reviews and defensive programming hints at the importance of competence, but these points are not explored in depth, leading to a lower confidence score.",
     "level": "Ignored"
   }
 }

@@ -26,6 +26,9 @@ headline:
   subtitle: Core beliefs and guiding principles that shape decision-making and foster effective behaviours in complex environments.
   content: A guiding framework that influences decision-making and behaviour in dynamic environments, emphasising values such as transparency, collaboration, and adaptability. Posts should explore themes like empirical processes, self-organisation, iterative progress, and the importance of feedback loops in fostering continuous growth and improvement.
   updated: 2025-03-19T12:17:41Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

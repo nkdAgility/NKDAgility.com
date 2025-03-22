@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:16:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:44:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting issues related to Windows 8.1 updates, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on troubleshooting a specific technical issue related to Windows 8.1 updates, with no mention of Evidence-Based Management principles or metrics. It does not discuss data-informed decision-making or any of the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T18:17:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:44:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Windows 8.1 updates and installation, which is not relevant to DevOps practices or principles.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on troubleshooting a specific Windows update issue, which is unrelated to DevOps principles, practices, or cultural shifts. There are no discussions of collaboration, automation, or shared accountability, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -308,7 +314,7 @@
     "reasoning": "Content primarily discusses troubleshooting and installation issues related to Windows 8.1, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:17:44",
     "ai_confidence": 0,
@@ -319,11 +325,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:17:45",
+    "calculated_at": "2025-03-22T07:44:17",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Windows 8.1 update installation, which is unrelated to the Agile Product Operating Model.",
+    "reasoning": "The content focuses entirely on troubleshooting a Windows 8.1 update issue, with no references to agile methodologies, product management principles, or any related concepts. It does not discuss the Agile Product Operating Model or its key topics.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -394,11 +403,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T18:25:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:44:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on troubleshooting a Windows update issue and does not discuss Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses troubleshooting issues related to the Windows 8.1 update process, which is unrelated to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, automation, or software delivery cycles, and the focus is on resolving a specific technical problem rather than exploring the broader themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1425,6 +1437,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses issues related to the installation of a Windows update, with no mention of software development processes, testing, security, or compliance. It does not align with the principles of the Shift-Left Strategy, which focuses on integrating critical processes earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:44:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to Windows 8.1 updates. It does not discuss Continuous Improvement principles, nor does it reflect on processes, products, or team effectiveness. The mention of enhancing system performance is too vague and does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:44:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on troubleshooting a specific technical issue related to Windows 8.1 updates. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it mention shared objectives or strategic alignment. The content is purely instructional and technical, lacking any connection to the category's core themes.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:44:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to Windows 8.1 updates. It does not discuss competence, continuous learning, or skill development in any meaningful way. While it provides detailed solutions to a technical problem, it lacks any reference to the principles of professionalism, quality delivery, or the development of skills and capabilities.",
     "level": "Ignored"
   }
 }

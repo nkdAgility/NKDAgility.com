@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T17:22:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:46:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the use of Lego in Scrum training, which is unrelated to DevOps principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the use of LEGO in Scrum training, which is focused on Agile methodologies rather than DevOps principles. While it touches on themes of training and transformation, it does not engage with core DevOps concepts such as collaboration, automation, or shared accountability. The discussion is centred around the appropriateness of a training tool rather than the integration of people, processes, and technology in a DevOps context.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -85,11 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T17:22:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:46:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the use of Lego in training and its impact on communication, rather than focusing on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the use of LEGO in Scrum training, focusing on its appropriateness and effectiveness. It does not mention Evidence-Based Management or its key topics, nor does it provide any empirical evidence or metrics related to decision-making in management. The discussion is centred around the perception of training methods rather than data-informed practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -324,15 +330,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the use of Lego in Scrum training, which is unrelated to release management practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:23:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the use of Lego in Scrum training, which is unrelated to the principles of the One Engineering System.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -628,11 +625,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T17:23:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:46:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the use of Lego in Scrum training, which is unrelated to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the use of LEGO in Scrum training, which is unrelated to Continuous Delivery. While it touches on training methodologies, it does not address any principles, practices, or benefits of Continuous Delivery, nor does it mention automation, incremental improvements, or rapid feedback. The focus is on the appropriateness of training tools rather than software delivery practices.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -718,11 +718,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:24:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:46:25",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of Lego in Scrum training, which does not align with the Agile Product Operating Model.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the use of LEGO in Scrum training, which is a specific agile practice but does not align with the broader principles of the Agile Product Operating Model. While it touches on aspects of Scrum, it lacks a focus on product management, continuous delivery, or the other key topics outlined in the APOM definition. The discussion is more about training methods than the operational model itself.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1428,6 +1431,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the appropriateness of using Lego in Scrum training, focusing on the seriousness and credibility of training methods rather than addressing the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it explore the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:46:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily critiques the use of LEGO in Scrum training, focusing on its potential to undermine the seriousness of the training rather than discussing Continuous Improvement principles. While it touches on the importance of choosing appropriate tools and maintaining context, it lacks a direct focus on Continuous Improvement methodologies, empirical evidence, or strategies for fostering a culture of experimentation and learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:46:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily critiques the use of LEGO in Scrum training, focusing on its potential to undermine the seriousness of the training rather than discussing Common Goals. While it touches on the importance of aligning training methods with professional objectives, it lacks a direct discussion of Common Goals, their significance, or their operationalisation within Agile or DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:46:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the appropriateness of using LEGO in Scrum training, touching on the importance of maintaining professionalism and the seriousness of the training context. However, it primarily critiques a specific teaching method rather than focusing on broader themes of competence, continuous learning, or skill development. The discussion lacks depth in exploring how competence can be fostered or assessed, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:46:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the use of LEGO in Scrum training, which is unrelated to the One Engineering System framework. There are no direct mentions of 1ES principles, components, or its impact on software development practices. The focus is on the appropriateness of a training tool rather than on integration or standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

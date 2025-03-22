@@ -631,14 +631,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T19:24:04",
+    "calculated_at": "2025-03-21T17:41:23",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
     "final_score": 11.0,
-    "reasoning": "The content primarily discusses Kanban strategies and the consequences of ignoring problems within that framework. It does not mention Continuous Delivery or its principles, practices, or methodologies. The focus is on addressing issues in a Kanban context, which is unrelated to Continuous Delivery, leading to a very low confidence score.",
+    "reasoning": "The content primarily discusses Kanban and the pitfalls of ignoring problems within that framework. While it touches on aspects of workflow management, it does not explicitly mention Continuous Delivery or its principles. The focus is on addressing issues in Kanban rather than on Continuous Delivery practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -820,11 +820,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-11T23:15:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:41:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the negative impacts of ignoring problems and the importance of addressing issues within a team context, without reference to empirical evidence or the principles of Evidence-Based Management.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the pitfalls of ignoring problems within a Kanban strategy, focusing on the consequences of avoidance rather than on evidence-based management principles. While it touches on the importance of addressing issues, it does not provide empirical evidence or metrics related to value delivery, innovation, or decision-making, which are central to Evidence-Based Management.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1261,11 +1264,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T23:12:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:41:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Kanban and personal anecdotes about ignoring problems, without a clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban, a specific methodology, rather than discussing DevOps principles or practices. While it touches on issues related to workflow and team dynamics, it does not align with the core themes of DevOps, such as collaboration, automation, or shared accountability. The discussion lacks depth in relation to DevOps concepts, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1433,22 +1439,16 @@
     "reasoning": "Content primarily discusses issues related to Kanban and team behaviours, with no clear focus on platform engineering or internal developer platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:14:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to Kanban and personal anecdotes about ignoring problems, without any clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:41:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the negative impacts of ignoring problems in processes, using personal anecdotes and metaphors, without a clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban, discussing the pitfalls of ignoring problems within that framework. While it touches on agile principles, it does not explicitly address the Agile Product Operating Model or its core themes, such as product management or continuous delivery. The discussion is more aligned with general agile practices rather than the specific integration of agile methodologies with product management principles.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1512,6 +1512,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content discusses the importance of addressing problems in a Kanban strategy but does not explicitly mention the Shift-Left Strategy or its principles. While it touches on proactive problem-solving, it lacks a direct focus on integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:41:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which aligns with the principles of Continuous Improvement. It highlights the consequences of ignoring issues and suggests practical steps for proactive problem-solving, reflecting a commitment to enhancing processes. However, the primary focus is on the pitfalls of ignoring problems rather than a broader discussion on Continuous Improvement methodologies or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:41:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the pitfalls of ignoring problems within a Kanban strategy, which does not directly address the concept of Common Goals. While it touches on the importance of addressing issues for effective workflow, it lacks explicit discussions on shared objectives, alignment, or strategic goals that are central to the Common Goals category. The content is more about problem avoidance and management rather than aligning team efforts with overarching organisational objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:41:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 4,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which indirectly relates to competence by emphasising the need for teams to develop skills in problem-solving and maintaining workflow efficiency. However, it does not explicitly focus on continuous learning or skill development, which are core themes of competence. The depth of discussion on addressing issues is substantial, but the primary focus remains on the consequences of ignoring problems rather than on competence itself.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:41:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content focuses exclusively on Kanban and its pitfalls, without any mention of the One Engineering System or its principles. While it discusses issues related to workflow and process improvement, it does not align with the core themes of 1ES, such as integration across teams or standardisation of practices. The depth of discussion is also limited to Kanban, further distancing it from the 1ES framework.",
     "level": "Ignored"
   }
 }

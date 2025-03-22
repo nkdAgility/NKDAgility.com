@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:37:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:10:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal experience with TFS Integration Tools and conflict resolution, lacking focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS Integration Tools and conflict resolution, with no explicit mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and provides minimal depth on any related concepts.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T19:37:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:09:51",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to TFS Integration Tools and conflict resolution, which are not central to DevOps principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on resolving conflicts related to TFS Integration Tools, which is more aligned with version control and migration issues rather than the broader principles of DevOps. While there are elements of collaboration and problem-solving, the discussion lacks depth in core DevOps themes such as automation, shared accountability, or continuous improvement. The mention of experts and collaboration is minimal and does not significantly contribute to a DevOps-centric narrative.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +326,7 @@
     "reasoning": "Content primarily discusses a specific technical issue related to TFS Integration Tools and conflict resolution, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:38:19",
     "ai_confidence": 0,
@@ -331,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:38:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:10:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to TFS Integration Tools and conflict resolution, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses issues related to TFS Integration Tools and conflict resolution during migration processes, with no direct mention of Agile Product Operating Model principles or practices. While there may be a tangential connection to agile methodologies in terms of problem-solving, the focus is not on product management or the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -406,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:03:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:10:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on conflict resolution in TFS Integration Tools and troubleshooting issues related to version control, with no clear emphasis on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses issues related to TFS Integration Tools and conflict resolution during a migration process. While it touches on aspects of software delivery, it does not explicitly address Continuous Delivery principles, practices, or benefits. The focus is on troubleshooting specific technical problems rather than exploring Continuous Delivery as a disciplined practice.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1456,5 +1468,41 @@
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a personal experience with conflict resolution in TFS Integration Tools, focusing on specific technical issues rather than the principles or practices of the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance earlier in the development process, nor does it provide any techniques or methodologies related to the Shift-Left approach. The discussion is more about troubleshooting and resolving conflicts rather than enhancing software quality or delivery speed.",
     "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:09:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving specific technical issues related to TFS Integration Tools and does not explicitly discuss Continuous Improvement principles. While there are elements of learning from mistakes and seeking expert advice, these are not framed within the context of Continuous Improvement methodologies or strategies. The discussion lacks depth in terms of systematic improvement processes or empirical evidence, which are central to the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:09:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to TFS Integration Tools and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, which are central to the category. The discussion is more about personal experiences and troubleshooting rather than fostering collaboration or accountability within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:10:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses a personal experience with conflict resolution in TFS Integration Tools, highlighting a learning process and the journey towards improved competence. However, while it touches on the theme of competence, it primarily focuses on specific technical issues and resolutions rather than a broader discussion on continuous learning or skill development in a professional context.",
+    "level": "Tertiary"
   }
 }

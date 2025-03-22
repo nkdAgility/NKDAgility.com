@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:20:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:45:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses upgrading a process template in TFS and does not focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on upgrading a process template in TFS 2013 and discusses technical steps related to Scrum practices. It does not explicitly mention Evidence-Based Management or its key topics, nor does it provide a data-informed decision-making framework. The discussion is largely practical and lacks depth in relation to EBM principles.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T18:20:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:45:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on upgrading a Scrum process template in TFS, which is more related to project management and Agile methodologies rather than DevOps principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on upgrading a specific process template in Team Foundation Server (TFS) and discusses project management practices related to Scrum. While it touches on aspects of agile methodologies, it does not engage with the core principles of DevOps, such as collaboration, automation, or shared accountability. The discussion is more aligned with project management and Scrum practices rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -326,7 +332,7 @@
     "reasoning": "Content primarily focuses on upgrading a process template in Team Foundation Server and does not discuss Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:21:15",
     "ai_confidence": 0,
@@ -337,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:21:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:45:28",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses upgrading a process template in TFS and technical steps related to Visual Studio Scrum, without a clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on upgrading a specific process template in TFS related to Scrum, which is a methodology rather than a comprehensive discussion on the Agile Product Operating Model. While it mentions agile practices, it does not delve into the broader principles or frameworks of APOM, such as product management integration or continuous delivery. The discussion is more technical and procedural, lacking the necessary depth and alignment with the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -415,11 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:04:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:45:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses upgrading a process template in TFS specifically related to Scrum, without mention of Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on upgrading a process template in TFS 2013, which is related to Scrum practices rather than Continuous Delivery. While it touches on aspects of project management and agile practices, it does not explicitly discuss Continuous Delivery principles, automation, or the delivery of software in reliable cycles. The discussion lacks depth in Continuous Delivery concepts and does not provide relevant strategies or tools associated with the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1485,6 +1497,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on upgrading the Visual Studio Scrum process template in TFS 2013, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on Agile practices, it does not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:45:18",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on upgrading a specific process template in TFS 2013, which is more about technical implementation than Continuous Improvement. While it touches on aspects of enhancing project management practices, it lacks a thorough discussion on the principles of Continuous Improvement, such as empirical evidence, culture of experimentation, or strategies for integrating these practices into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:45:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading to the Visual Studio Scrum 3.0 process template in TFS 2013. While it touches on Agile practices, it does not explicitly discuss Common Goals or their significance in aligning strategy with execution. The discussion lacks depth regarding the relationship between strategic goals and tactical commitments, and it does not provide insights into frameworks like OKRs or the impact of Common Goals on organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:45:24",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical steps for upgrading a process template in TFS 2013, with minimal direct discussion on competence. While it touches on the need for familiarity with tools and processes, it lacks a deeper exploration of continuous learning, skill development, or the impact of competence on team dynamics and quality outcomes.",
     "level": "Ignored"
   }
 }

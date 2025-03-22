@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T20:55:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:20:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and personal influences in Agile training, with no clear focus on DevOps practices or principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of Product Owners within Agile and Scrum frameworks, which are not directly related to DevOps principles. While there are mentions of accountability and empowerment, these concepts are framed within the context of Agile methodologies rather than the broader DevOps philosophy. The focus on Scrum roles and the lack of direct references to DevOps practices or principles significantly diminish the relevance to the DevOps category.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -88,11 +91,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T20:55:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:20:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal admiration for an Agile facilitator and does not address Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of Product Owners in Agile and Scrum contexts, focusing on their feelings of control and empowerment. While it touches on themes of accountability and influence, it lacks direct references to Evidence-Based Management principles, empirical decision-making, or relevant metrics. The discussion is more about personal experiences and sentiments rather than data-informed management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -321,15 +327,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and personal influences rather than release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T20:56:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal opinions and experiences related to Agile and a specific individual, rather than focusing on the principles or components of the One Engineering System.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -634,11 +631,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T20:57:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:20:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and personal experiences in a PSPO course, with no mention of Continuous Delivery practices or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of Product Owners within Agile and Scrum frameworks, focusing on empowerment and accountability rather than Continuous Delivery principles. There are no direct mentions of Continuous Delivery, and the discussion does not align with the core themes of Continuous Delivery such as automation, incremental improvements, or rapid feedback. The depth of discussion is also minimal, as it does not provide any insights into Continuous Delivery practices or tools.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -727,11 +727,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T20:57:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal admiration for an individual in the Agile community rather than the Agile Product Operating Model itself.",
+    "calculated_at": "2025-03-21T19:20:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses the role of the Product Owner, which is relevant to the Agile Product Operating Model, but it primarily focuses on individual experiences and empowerment rather than the broader principles and frameworks of APOM. While there are mentions of product management challenges, the discussion lacks depth in addressing the core themes of the Agile Product Operating Model, such as continuous delivery, operational stability, and integration of agile practices with product management.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1449,6 +1452,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the role and empowerment of Product Owners within Agile and Scrum frameworks, without any explicit mention or alignment to the Shift-Left Strategy. It focuses on the challenges faced by Product Owners rather than integrating testing, security, or compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:20:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the challenges faced by Product Owners in Agile environments, focusing on empowerment and accountability rather than Continuous Improvement principles. While it touches on the need for introspection and proactive steps, it lacks a direct discussion on Continuous Improvement methodologies or frameworks. The themes of empowerment and role elevation are relevant but do not align closely with the core topics of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:20:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners in influencing product goals and strategic direction, which touches on the concept of alignment with organisational objectives. However, it primarily focuses on personal empowerment and accountability rather than explicitly addressing Common Goals within Agile and DevOps frameworks. The discussion lacks depth in exploring how these challenges relate to shared objectives or strategic alignment, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:20:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners and highlights the importance of recognising gaps in competence as a pathway to empowerment. It directly mentions competence in the context of accountability and elevating one's role, aligning well with the core themes of continuous learning and skill development. However, while it touches on these themes, the depth of discussion is somewhat limited, focusing more on personal reflections and less on broader strategies for fostering a culture of competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:20:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of Product Owners within the context of Agile and Scrum, without any direct mention or focus on the One Engineering System framework. It does not address the integration or standardisation of engineering processes, which are core themes of 1ES. The discussion is centred around personal experiences and sentiments of Product Owners, lacking depth in relation to the principles and components of 1ES.",
     "level": "Ignored"
   }
 }

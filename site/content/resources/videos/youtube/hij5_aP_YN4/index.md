@@ -34,13 +34,13 @@ tags:
 - Coaching
 - Agile Philosophy
 - Mentoring
+- Competence
 - Agile Values and Principles
 - People and Process
 - Software Development
 - Agile Project Management
 - Agile Leadership
 - Agile Transformation
-- Value Delivery
 resourceTypes:
 - video
 categories:

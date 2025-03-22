@@ -35,8 +35,8 @@ tags:
 - Deployment Frequency
 - Pragmatic Thinking
 - Product Delivery
-- Continuous Delivery
 - Engineering Practices
+- Test Automation
 resourceTypes:
 - video
 sitemap:

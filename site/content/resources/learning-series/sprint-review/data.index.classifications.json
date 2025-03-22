@@ -595,11 +595,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T21:26:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:05:09",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about Scrum roles and events, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the Sprint Review, which is a Scrum event rather than Continuous Delivery. While it touches on aspects of stakeholder engagement and decision-making, it does not explicitly discuss Continuous Delivery principles, practices, or the role of automation, which are central to the category. The mention of future states and increments is too vague and does not provide substantial alignment with Continuous Delivery concepts.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -757,11 +760,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T21:26:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:05:11",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide any relevant information or discussion related to Evidence-Based Management; it is incomplete and lacks context.",
+    "final_score": 14.0,
+    "reasoning": "The content briefly touches on decision-making related to the future state of the product but lacks explicit discussion on Evidence-Based Management principles or metrics. It primarily focuses on the Sprint Review process without providing empirical evidence or data-informed decision-making insights.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1346,15 +1352,6 @@
     "reasoning": "Content does not provide any relevant information or discussion related to BetaCodex principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T17:29:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss the One Engineering System (1ES) or its principles; it is unrelated and lacks relevant information.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:43:54",
@@ -1416,6 +1413,54 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content does not explicitly mention the Shift-Left Strategy or its principles. It appears to be a placeholder with no relevant information, making it difficult to assess any alignment or depth regarding the category. The minimal mention of 'coming soon' does not provide any context or discussion related to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:04:59",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly touches on the concept of making decisions about the future based on the current state, which aligns with the idea of Continuous Improvement. However, it lacks explicit discussions on the principles of Continuous Improvement, empirical evidence, or detailed strategies for fostering a culture of experimentation and learning. The focus is primarily on the Sprint Review process within Scrum, which does not fully encapsulate the broader themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:05:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the purpose of the Sprint Review in relation to future decision-making and stakeholder involvement, which aligns with the concept of Common Goals. However, it lacks explicit discussions on shared objectives, strategic alignment, or detailed frameworks like OKRs. The overall depth of discussion is minimal, focusing more on the event itself rather than its role in achieving common goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:05:04",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content briefly touches on the importance of stakeholder involvement in decision-making during the Sprint Review, which can relate to competence in terms of ensuring informed choices. However, it lacks explicit discussions on continuous learning, skill development, or the core themes of competence. The depth of discussion is minimal, focusing primarily on the purpose of the Sprint Review without delving into how competence plays a role in achieving its objectives.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:05:07",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the Sprint Review, a specific Scrum event, which does not directly relate to the One Engineering System framework. There are no explicit mentions of 1ES principles, components, or its impact on software development practices. The discussion lacks depth and does not address integration, standardisation, or best practices relevant to 1ES.",
     "level": "Ignored"
   }
 }

@@ -34,6 +34,7 @@ sitemap:
 tags:
 - Discovery and Learning
 - Metrics and Learning
+- Continuous Improvement
 resourceTypes:
 - video
 categories: []

@@ -31,10 +31,10 @@ tags:
 - Scrum Master
 - Events and Presentations
 - Software Development
+- Competence
 - Continuous Learning
 - Agile Frameworks
 - Scrum Team
-- Coaching
 sitemap:
   filename: sitemap.xml
   priority: 0.6

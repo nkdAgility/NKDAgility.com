@@ -631,12 +631,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T04:12:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses security practices and the concept of 'shifting left' in software development, rather than focusing on Continuous Delivery principles or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T16:55:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the concept of 'shifting left' in software development, which aligns with Continuous Delivery principles by emphasising early quality assurance and integration. However, while it touches on Continuous Delivery practices, the primary focus is on security and quality rather than on Continuous Delivery itself. The depth of discussion on related practices like Test-Driven Development and continuous feedback loops adds to the relevance, but the overall emphasis is not strictly on Continuous Delivery.",
+    "level": "Tertiary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -796,11 +799,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T04:13:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:55:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses security practices in software development, focusing on the concept of 'shifting left' and security by design, rather than on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the concept of 'shifting left' in software development, which is more about quality assurance and engineering practices rather than evidence-based management. While it touches on some aspects of improving processes and outcomes, it does not explicitly discuss metrics or empirical decision-making related to EBM. The discussion lacks depth in terms of evidence-based practices and does not align closely with the key topics outlined for EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1418,15 +1424,6 @@
     "reasoning": "Content primarily discusses security practices in software development, focusing on the concept of 'shifting left' and does not address BetaCodex principles or themes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:01:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses security practices and the concept of 'shifting left' in software development, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:40:04",
@@ -1501,5 +1498,53 @@
     "final_score": 84.0,
     "reasoning": "The content explicitly discusses the Shift-Left Strategy, detailing its principles, benefits, and practical techniques for integrating quality and security early in the software development lifecycle. It provides a comprehensive overview of the concept, including real-world examples and specific methodologies like Test-Driven Development and Continuous Feedback Loops, demonstrating a strong alignment with the core themes of the category. The depth of discussion is significant, covering various aspects of the strategy and its impact on software quality and team dynamics.",
     "level": "Primary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:55:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the concept of 'shifting left' in software development, which aligns with Continuous Improvement principles by emphasising early quality assurance and proactive problem-solving. However, while it touches on themes of team empowerment and iterative processes, it primarily focuses on specific practices and tools rather than a broader discussion of Continuous Improvement as a philosophy. The depth of discussion on Continuous Improvement concepts is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:55:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the concept of 'shifting left' in software development, which is more about quality assurance and engineering practices rather than discussing common goals within Agile and DevOps frameworks. While it touches on team empowerment and accountability, it lacks a direct discussion on shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:55:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the concept of 'shifting left' in software development, which aligns with the principles of competence by emphasising the importance of embedding quality and security from the start. It highlights the need for continuous learning and skill development, particularly through practices like Test-Driven Development (TDD) and pair programming. However, while competence is a significant theme, the primary focus is more on processes and practices rather than a deep exploration of competence itself, leading to a moderately high confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:55:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the concept of 'shifting left' in software development, focusing on quality and security practices. While it touches on themes relevant to engineering processes, it does not explicitly mention the One Engineering System (1ES) framework or its principles. The discussion lacks depth in relation to 1ES, and the focus remains on individual practices rather than a unified engineering system.",
+    "level": "Ignored"
   }
 }

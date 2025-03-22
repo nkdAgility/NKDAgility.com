@@ -664,11 +664,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T13:58:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:39:38",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum principles and practices, focusing on adaptability and resilience within Scrum frameworks, without addressing Continuous Delivery concepts or methodologies.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses Scrum and its principles, focusing on adaptability and resilience in product development rather than Continuous Delivery specifically. While there are elements of iterative development and responsiveness to change, the discussion lacks a direct focus on Continuous Delivery practices, such as automation, deployment strategies, or rapid feedback mechanisms. The content does not provide substantial detail on Continuous Delivery, making it a secondary theme rather than a primary focus.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1291,14 +1294,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-14T19:17:50",
+    "calculated_at": "2025-03-21T17:39:23",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily focuses on Scrum, a framework within Agile methodologies, rather than discussing DevOps principles or practices. While it touches on adaptability and team dynamics, which are relevant to DevOps, it lacks explicit discussions on CI/CD, automation, or the integration of development and operations. The depth of discussion on Scrum is significant, but it does not align closely with the core themes of DevOps.",
+    "reasoning": "The content primarily focuses on Scrum, a framework for agile project management, rather than on DevOps principles. While it touches on themes of adaptability and collaboration, which are relevant to DevOps, it does not explicitly discuss DevOps as a philosophy or its core practices. The depth of discussion is limited to Scrum-specific elements, making it more aligned with agile methodologies than with the broader DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1456,12 +1459,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T09:08:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T17:39:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the application of Scrum principles and the importance of adaptability and empiricism, which are relevant to Evidence-Based Management, but the primary focus is on Scrum practices rather than EBM itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum and its application in a practical context, focusing on adaptability and resilience rather than on evidence-based management principles. While it touches on empirical aspects of Scrum, it does not provide a strong emphasis on data-informed decision-making or the specific metrics outlined in the Evidence-Based Management category.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1472,23 +1478,17 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:47:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on the practical application of Scrum rather than the principles or components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T17:39:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum principles and their adaptability in product development, which aligns with the Agile Product Operating Model. However, the primary focus is on Scrum rather than a broader discussion of the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses Scrum practices and experiences, which are related to agile methodologies but do not explicitly focus on the Agile Product Operating Model (APOM). While it touches on adaptability and resilience in product development, it lacks a direct connection to the core principles of APOM, such as product-oriented mindset and integration with product management practices. The depth of discussion is more centred on Scrum rather than the broader APOM framework.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1563,6 +1563,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the application of Scrum and its principles, focusing on adaptability and resilience in project management. While it touches on elements of process visibility and adaptation, it does not explicitly address the Shift-Left Strategy or its core themes such as early integration of testing, security, or compliance in the software development lifecycle. The discussion is more centred on Scrum methodology rather than the proactive measures associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:39:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the adaptability and resilience fostered by Scrum, which aligns with Continuous Improvement principles. However, while it touches on themes of flexibility and learning from challenges, it does not explicitly focus on Continuous Improvement as a primary topic. The discussion is more centred on Scrum practices rather than a dedicated exploration of Continuous Improvement strategies or frameworks.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:39:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses Scrum and its adaptability, which indirectly relates to Common Goals, but it primarily focuses on personal experiences and challenges faced during a specific program. While it mentions elements like Sprint Goals and Product Goals, the emphasis is more on the practical application of Scrum rather than a direct exploration of aligning strategy with execution or shared objectives across teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:39:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the application of Scrum and the importance of adaptability and resilience in product development, which aligns with the principles of competence. However, while it touches on the need for skill development and the ability to navigate complexities, it does not explicitly focus on continuous learning or the development of capabilities as a primary theme. The depth of discussion on how these experiences contribute to competence is moderate, but the overall emphasis is more on the practical application of Scrum rather than a thorough exploration of competence itself.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:39:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Scrum, discussing its principles and practices in a specific context (Minecraft), which does not align with the One Engineering System framework. While it touches on adaptability and resilience, it lacks direct references to 1ES, its components, or its implementation. The discussion is more about Scrum as a methodology rather than the integration and standardisation of engineering processes as required by the 1ES category.",
     "level": "Ignored"
   }
 }

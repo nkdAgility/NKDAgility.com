@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:39:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:33:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to SQL Server and TFS installation errors, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS 2013 and SQL Server 2012 SP1, focusing on error resolution rather than any evidence-based management principles. There are no direct mentions of EBM concepts, and the discussion lacks depth in relation to data-informed decision-making or metrics relevant to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T11:39:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:33:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an installation error related to SQL Server and TFS, with no focus on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to TFS 2013 and SQL Server 2012 SP1, which does not align with the core principles of DevOps. While it mentions installation and configuration processes, it lacks discussions on collaboration, automation, or cultural shifts that are central to DevOps. The content is more technical support than a philosophical or strategic discussion on DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses a technical issue related to SQL Server and TFS installation errors, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T11:40:18",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T11:40:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:33:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to SQL Server and TFS installation errors, with no relevance to Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on resolving a technical issue related to TFS 2013 and SQL Server 2012, with no mention or discussion of agile methodologies, product management principles, or the Agile Product Operating Model. It does not align with any of the key topics outlined for the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T11:40:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:33:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an installation error related to SQL Server and TFS, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a specific error related to the installation of TFS 2013 and SQL Server 2012 SP1, focusing on troubleshooting and solutions for a technical issue. It does not address Continuous Delivery principles, practices, or benefits, nor does it explore automation, incremental improvements, or cultural aspects related to Continuous Delivery. The mention of TFS (Team Foundation Server) is tangential and does not align with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1434,6 +1446,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses an installation error related to SQL Server and Team Foundation Server, with no mention of integrating testing, security, or compliance earlier in the software development lifecycle. It does not align with the principles or benefits of the Shift-Left Strategy, nor does it provide any techniques, case studies, or tools related to this approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:33:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to TFS 2013 and SQL Server 2012 SP1. While it discusses solutions to a technical problem, it does not engage with the principles of Continuous Improvement, such as fostering a culture of experimentation or integrating improvement strategies into processes. The mention of a solution does not reflect a commitment to ongoing enhancement or empirical evidence-driven practices, which are central to the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:33:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical issue related to TFS 2013 and SQL Server 2012 SP1, providing troubleshooting steps and solutions. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment within teams. The mention of TFS is incidental and does not connect to the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:33:51",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on resolving a technical error related to TFS 2013 and SQL Server 2012 SP1. While it discusses troubleshooting and solutions, it does not explicitly address the concept of competence or continuous skill development. The discussion lacks depth in relation to the principles of professionalism and quality delivery, which are central to the category of competence.",
     "level": "Ignored"
   }
 }

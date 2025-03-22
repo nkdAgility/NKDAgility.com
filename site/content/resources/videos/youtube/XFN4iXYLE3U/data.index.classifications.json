@@ -50,15 +50,6 @@
     "reasoning": "Content heavily discusses Kanban principles and limiting work in progress, which are not central to the BetaCodex principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:35:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Kanban principles and practices, which are unrelated to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-03-06T13:41:52",
@@ -82,11 +73,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T12:35:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:28:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban principles and practices, which are not central to DevOps.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban methodology and limiting work in progress, which are not directly related to DevOps principles. While there are some mentions of workflow efficiency and team productivity, the discussion lacks a clear connection to the core themes of DevOps, such as collaboration, automation, and shared accountability.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -118,11 +112,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:35:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:28:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban practices and limiting work in progress, without a clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban and limiting work in progress, which are not central to the Agile Product Operating Model. While it touches on agile principles, it does not discuss product management practices or the broader themes of APOM, such as transitioning to a product ethos or integrating Scrum with product management.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -331,11 +328,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T12:35:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:28:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban principles and the importance of limiting work in progress, without a focus on evidence-based management practices or empirical data.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Kanban and limiting work in progress, with only a brief mention of value delivery. While it discusses workflow efficiency and team productivity, it lacks a strong emphasis on empirical evidence or data-informed decision-making, which are central to Evidence-Based Management.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -1048,11 +1048,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T13:55:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Kanban and limiting work in progress, which are not central to Continuous Delivery principles and practices.",
+    "calculated_at": "2025-03-21T17:28:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Kanban and limiting work in progress (WIP), which are not directly related to Continuous Delivery principles. While it touches on aspects of workflow management that could indirectly support Continuous Delivery, it does not explicitly discuss Continuous Delivery practices, automation, or rapid feedback mechanisms. Therefore, the confidence score reflects a low alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1488,6 +1491,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the importance of limiting work in progress (WIP) within the Kanban methodology, focusing on workflow management rather than integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on quality and efficiency, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:28:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses limiting work in progress (WIP) within the context of Kanban, which is a technique that supports continuous improvement by enhancing workflow and productivity. While it does mention aspects of continuous improvement, such as monitoring and adjusting WIP limits, the primary focus is on Kanban practices rather than a broader discussion of continuous improvement principles. The content provides some depth in terms of personal experiences and practical steps, but it does not fully explore the wider implications of continuous improvement in organisational processes or team effectiveness.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:28:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the concept of limiting work in progress (WIP) within the Kanban framework, which is a specific project management technique. While it touches on themes of productivity and workflow, it does not explicitly discuss Common Goals or their significance in Agile or DevOps contexts. The discussion lacks depth regarding shared objectives or alignment with strategic goals, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:28:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 2,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses limiting work in progress (WIP) in the context of Kanban, which indirectly relates to competence by emphasising the importance of focus and quality in delivering outcomes. However, it primarily centres on workflow management rather than explicitly addressing continuous learning or skill development, which are core themes of competence. The depth of discussion on competence is limited, focusing more on practical implementation rather than fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:28:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Kanban and limiting work in progress, which are not directly related to the One Engineering System framework. While it discusses workflow management and efficiency, it does not address the principles, components, or implementation of 1ES, nor does it provide insights into integration across teams or methodologies. Therefore, the confidence score reflects a minimal connection to the specified category.",
     "level": "Ignored"
   }
 }

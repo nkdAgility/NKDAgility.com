@@ -27,6 +27,9 @@ headline:
   subtitle: Ensure software quality by defining clear, testable criteria before development, aligning outcomes with business objectives and user needs.
   content: Establish a framework for software development that prioritises quality through the definition of clear, testable criteria prior to implementation. Emphasise collaboration among stakeholders to ensure that outcomes meet user needs and business objectives, while fostering a culture of continuous improvement and adaptability.
   updated: 2025-02-13T12:06:36Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

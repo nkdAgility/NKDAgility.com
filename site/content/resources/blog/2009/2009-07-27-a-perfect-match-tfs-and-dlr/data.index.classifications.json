@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:15:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:12:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Team Foundation Server check-in policies and development processes, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses technical aspects of Team Foundation Server (TFS) and the Dynamic Language Runtime (DLR) without any explicit mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery metrics. The depth of discussion is focused on implementation details rather than strategic management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,11 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:15:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:12:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Team Foundation Server check-in policies and personal development tasks, lacking a central focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the mechanics of Team Foundation Server (TFS) check-in policies and the use of the Dynamic Language Runtime (DLR) to streamline development processes. While it touches on aspects of automation and improving development workflows, it does not explicitly address the core principles of DevOps such as collaboration, shared accountability, or continuous improvement. The focus is more on specific tools and methodologies rather than the broader DevOps philosophy, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -323,7 +329,7 @@
     "reasoning": "Content primarily discusses technical aspects of Team Foundation Server and Dynamic Language Runtime, without a focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:15:56",
     "ai_confidence": 0,
@@ -334,11 +340,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:15:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:12:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Team Foundation Server check-in policies and technical implementation details, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses technical aspects of Team Foundation Server (TFS) and the Dynamic Language Runtime (DLR), with no direct mention of the Agile Product Operating Model or its principles. While it touches on development processes, it does not align with the core themes of APOM, such as product management or agile methodologies. The depth of discussion is focused on specific technical implementations rather than the broader agile product framework.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -412,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:28:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:13:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Team Foundation Server check-in policies and personal projects related to web services and development, lacking relevance to Continuous Delivery principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS) check-in policies and the Dynamic Language Runtime (DLR), which are not directly related to Continuous Delivery principles. While there is a mention of streamlining development processes, it lacks explicit discussions on Continuous Delivery practices, automation, or rapid feedback mechanisms. The focus is more on specific tools and personal development experiences rather than the broader concepts of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1470,6 +1482,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Team Foundation Server (TFS) check-in policies and the integration of Dynamic Language Runtime (DLR) with a focus on simplifying policy management. While it touches on development processes, it does not explicitly mention the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth regarding early integration of testing, security, or compliance, which are core to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:12:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical solutions for streamlining TFS check-in policies and does not explicitly discuss Continuous Improvement principles. While there is a mention of simplifying processes, it lacks a clear connection to the core themes of Continuous Improvement, such as empirical evidence, team effectiveness, or a culture of experimentation. The depth of discussion is also limited, focusing more on technical implementation rather than strategic improvement initiatives.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:12:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical aspects of TFS check-in policies and the Dynamic Language Runtime, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on development processes, it lacks alignment with the core themes of shared objectives and strategic alignment, and does not provide depth on how these concepts relate to team collaboration or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:12:53",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly touches on the author's personal experience and challenges with learning new technologies (IronPython, IronRuby) and mentions the need for skill development in the context of implementing a solution. However, it primarily focuses on technical implementation details and does not deeply engage with the principles of competence as defined in the category. The discussion lacks a strong emphasis on continuous learning or the broader implications of competence in Agile or DevOps environments.",
     "level": "Ignored"
   }
 }

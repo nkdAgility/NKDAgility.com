@@ -652,11 +652,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T03:21:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses systemic issues in Agile organisations and the challenges of implementing Agile methodologies, without a clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T17:54:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile practices and systemic issues within organisations, rather than focusing on Continuous Delivery principles. While it touches on themes of continuous improvement, it lacks direct mentions of Continuous Delivery, automation in deployment, or specific tools and frameworks related to the category. The discussion is more about Agile methodologies and their challenges, which does not align closely with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -832,15 +835,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T19:57:16",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T17:54:52",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of measuring the right metrics and emphasises systematic and continuous improvement, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on addressing systemic issues in Agile organisations rather than explicitly discussing EBM principles or practices. The mention of metrics and the need for empirical data supports the category, but the overall depth and direct references to EBM are limited.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of measuring key metrics like ROI and profit per team member, which aligns with the Evidence-Based Management focus on data-informed decision-making. However, the primary emphasis is on Agile practices and systemic issues rather than a direct exploration of EBM principles. While it touches on relevant metrics, it lacks a comprehensive discussion on how these metrics inform strategic improvements or prioritise investments, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1291,15 +1294,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T13:07:57",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 30,
-    "final_score": 41.0,
-    "reasoning": "The content discusses Agile methodologies and the challenges organisations face in implementing them, which indirectly relates to DevOps principles. However, it primarily focuses on Agile practices and organisational change rather than the core aspects of DevOps, such as CI/CD, automation, or collaboration between development and operations teams. The mention of DevOps is brief and not the primary focus, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T17:54:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile practices and their implementation, focusing on systemic issues within organisations rather than the core principles of DevOps. While it touches on themes like continuous improvement and the need for organisational change, it does not explicitly address DevOps concepts such as collaboration between development and operations, automation, or shared accountability. The discussion is more aligned with Agile methodologies than with the DevOps philosophy.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1486,12 +1489,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:14:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T17:54:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the challenges and systemic issues in Agile organisations, touching on the need for continuous improvement and the importance of aligning organisational structure with Agile principles, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses Agile practices and the need for systemic change within organizations, but it does not explicitly focus on the Agile Product Operating Model or its principles. While it touches on continuous improvement and metrics, it lacks a direct connection to product management or the specific themes outlined in the APOM framework.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1513,15 +1519,6 @@
     "final_score": 60.0,
     "reasoning": "The content discusses Agile practices and the need for systemic change within organizations, which aligns with the principles of self-organisation and continuous improvement. However, while it touches on collaboration and decision-making, it primarily focuses on the challenges and metrics of Agile rather than explicitly addressing social technologies or frameworks that promote collaboration. The depth of discussion on these themes is moderate, leading to a moderately high confidence score.",
     "level": "Tertiary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:14:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses systemic issues in agile organisations and does not focus on the principles or implementation of the One Engineering System framework.",
-    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1563,6 +1560,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses systemic issues in Agile organisations and the need for fundamental changes, but it does not explicitly mention the Shift-Left Strategy or its principles. While there are themes of improvement and metrics that could relate to early integration of processes, the primary focus is on Agile practices rather than the proactive integration of testing, security, and compliance earlier in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:54:38",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of addressing systemic issues within Agile organisations, emphasising the need for continuous improvement and the courage to make significant changes. It aligns well with the core themes of Continuous Improvement, such as fostering a culture of experimentation, focusing on meaningful metrics, and the necessity of fundamental changes for long-term success. The depth of discussion is substantial, providing insights and reflections on the challenges and strategies related to Continuous Improvement in an Agile context.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:54:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses systemic issues in Agile organisations and the need for meaningful change, but it does not explicitly focus on Common Goals. While it touches on the importance of metrics and continuous improvement, it lacks a direct connection to shared objectives or alignment with strategic goals, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:54:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of addressing systemic issues and the need for fundamental changes in Agile practices, which aligns with the concept of competence. It mentions the role of Agile coaches and the necessity for continuous improvement, indicating a focus on skill development and capability. However, the primary focus is more on systemic issues rather than directly on competence itself, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:54:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Agile practices and systemic issues within organisations, without a direct focus on the One Engineering System framework. While it touches on themes of organisational change and improvement, it does not explicitly mention 1ES or its principles, components, or implementation strategies. The discussion is more about Agile methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

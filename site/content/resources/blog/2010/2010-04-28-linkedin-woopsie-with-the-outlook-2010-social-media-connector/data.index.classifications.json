@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:46:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:57:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal experience with LinkedIn and Outlook 2010, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a personal experience with LinkedIn and Outlook 2010, focusing on an account suspension issue. There are no direct mentions of Evidence-Based Management or its key topics. The discussion lacks any empirical evidence or data-informed decision-making principles, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T00:47:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:56:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal experience with LinkedIn account suspension and customer service, with no focus on DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a personal experience with LinkedIn and Outlook 2010, focusing on an account suspension issue. There are no direct mentions of DevOps principles, practices, or cultural shifts. The content does not align with the core themes of DevOps, such as collaboration, automation, or shared accountability, and lacks depth in discussing any relevant topics. Overall, it is unrelated to the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -311,7 +317,7 @@
     "reasoning": "Content primarily discusses a personal experience with LinkedIn account suspension and customer service, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:47:36",
     "ai_confidence": 0,
@@ -322,11 +328,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:47:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:57:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal experience with LinkedIn and Outlook 2010, with no relevance to Agile principles or product operating models.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a personal experience with LinkedIn and Outlook 2010, with no direct mentions or relevant discussions about the Agile Product Operating Model. It lacks any alignment with the core themes of APOM, such as product management principles or agile methodologies.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:28:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:57:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a personal experience with LinkedIn account suspension and issues related to Outlook 2010, not about Continuous Delivery.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a personal experience with a LinkedIn account suspension related to the Outlook 2010 Social Media Connector. It does not mention Continuous Delivery, its principles, practices, or any related topics. The focus is on a specific incident rather than software delivery practices, making it largely irrelevant to the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1425,6 +1437,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a personal experience with LinkedIn and Outlook 2010, focusing on account suspension and customer service interactions. There are no direct mentions of the Shift-Left Strategy, nor does it align with its core themes of integrating testing, security, or compliance early in the software development lifecycle. The discussion lacks depth regarding any relevant methodologies or practices associated with the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:57:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a personal experience with a LinkedIn account suspension and does not discuss Continuous Improvement principles. While there is a brief mention of learning from the experience, it lacks depth and does not align with the core themes of Continuous Improvement, such as data-driven decision-making or fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:57:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience with LinkedIn and Outlook 2010, discussing an account suspension and customer service interaction. It does not address the concept of Common Goals, nor does it relate to Agile or DevOps principles. The discussion lacks any strategic alignment or shared objectives that would connect to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:57:05",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses a personal experience with a LinkedIn account suspension and the resolution process with customer service. While it touches on the use of tools (LinkedIn and Outlook 2010), it does not focus on competence, continuous learning, or skill development. The mention of customer service resolution is not aligned with the core themes of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

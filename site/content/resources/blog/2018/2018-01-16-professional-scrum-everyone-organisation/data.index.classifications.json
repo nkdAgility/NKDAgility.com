@@ -31,15 +31,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-10T12:32:13",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T21:11:15",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the implementation of Scrum and its impact on organisational change, which aligns with the principles of Evidence-Based Management. It mentions the importance of empirical understanding and the need for transparency in processes, which are key aspects of EBM. However, while it touches on these themes, the primary focus is on Scrum training and personal experiences rather than a thorough exploration of EBM principles or empirical data application. The discussion of organisational change backlogs and the role of stakeholders hints at EBM but lacks depth in empirical measurement techniques or case studies, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses Scrum and its implementation within organisations, focusing on collaboration and agile transformation. While it touches on the importance of empirical understanding and mentions the Agility Guide for Evidence-based Management, the overall emphasis is on Scrum practices rather than a comprehensive exploration of Evidence-Based Management principles. The discussion lacks depth in terms of specific metrics or empirical decision-making processes, which are central to the Evidence-Based Management category.",
+    "level": "Tertiary"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -139,11 +139,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T18:46:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:10:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile methodologies rather than DevOps principles and practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum and agile methodologies, focusing on training and collaboration within teams. While it touches on themes of collaboration and value delivery, which are relevant to DevOps, it does not explicitly address DevOps principles or practices. The emphasis is on Scrum rather than the broader DevOps philosophy, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -347,26 +350,17 @@
     "reasoning": "The content discusses the implementation of Scrum and the importance of organisational change, which aligns with Systems Thinking principles. However, it primarily focuses on Scrum methodologies and training rather than a comprehensive exploration of Systems Thinking itself.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T18:46:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Scrum practices and training rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T03:34:46",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T21:11:09",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the implementation of Scrum and its impact on organisational change, which aligns with the Agile Product Operating Model. However, it primarily focuses on Scrum practices rather than a comprehensive exploration of the Agile Product Operating Model itself. While it touches on value delivery and the importance of cross-functional teams, it lacks a detailed examination of the broader principles and strategies associated with the Agile Product Operating Model.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content primarily discusses the implementation of Scrum and its impact on organisational change, which is related to agile practices but does not explicitly focus on the Agile Product Operating Model. While it touches on themes of collaboration and value delivery, it lacks a comprehensive exploration of the APOM principles and does not delve into product management aspects or the transition from project to product ethos. Therefore, while there is some relevance, the content does not meet the criteria for a strong alignment with the Agile Product Operating Model.",
+    "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -436,11 +430,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T18:47:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:11:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile methodologies rather than Continuous Delivery principles and practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum and Agile practices, focusing on team dynamics and organisational change rather than Continuous Delivery principles. While there are mentions of value delivery and the importance of collaboration, the discussion lacks a direct focus on Continuous Delivery practices such as automation, incremental improvements, or rapid feedback mechanisms. The content does not delve into the specific tools or frameworks that support Continuous Delivery, which diminishes its relevance to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1539,6 +1536,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Scrum and Agile methodologies, focusing on team dynamics and organisational change rather than explicitly addressing the Shift-Left Strategy. While there are elements of early involvement and collaboration that align with Shift-Left principles, the discussion lacks a direct focus on integrating testing, security, or compliance early in the software development lifecycle. The content does not provide specific techniques or case studies related to Shift-Left practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:10:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the implementation of Scrum and its impact on organisational change, which aligns with Continuous Improvement principles. It mentions the importance of fostering a culture of experimentation and learning, as well as the need for transparency and meaningful discussions to drive change. However, while Continuous Improvement is a significant theme, it is not the primary focus, as the content primarily revolves around Scrum training and its benefits rather than a systematic approach to Continuous Improvement itself.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:10:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the implementation of Scrum and the importance of involving everyone in the organisation, which aligns with the concept of Common Goals. However, while it touches on the significance of shared objectives and collaboration, it primarily focuses on personal experiences and anecdotes rather than providing a structured discussion on Common Goals as defined in Agile and DevOps frameworks. The depth of discussion on the specific principles of Common Goals is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:11:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of training and understanding Scrum principles, which directly relates to competence in Agile environments. It highlights the need for continuous learning and skill development, as well as the role of competence in fostering collaboration and driving value. The depth of discussion is significant, with examples of training sessions and the impact on participants' understanding of Scrum, indicating a strong alignment with the core themes of competence. However, while competence is a primary focus, the content also touches on broader organisational dynamics, which slightly dilutes the focus.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:11:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Scrum and its implementation within organisations, focusing on agile transformation rather than the One Engineering System framework. While there are mentions of collaboration and organisational change, the discussion does not explicitly address the principles or components of 1ES, nor does it provide detailed insights into integrating tools and processes across teams. The content is more aligned with Scrum practices than with the standardisation and integration goals of 1ES.",
     "level": "Ignored"
   }
 }

@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:09:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:00:52",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses product ownership and management within the context of Agile and Scrum, with only a brief mention of DevOps, making it not central to the topic.",
+    "final_score": 26.0,
+    "reasoning": "The content primarily discusses product ownership and management within an Agile context, with only a brief mention of DevOps in relation to one of the hosts. The main focus is on the roles of product owners and product managers, which does not align with the core principles of DevOps. While there is a mention of DevOps, it is not a primary focus of the discussion, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -256,11 +259,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:01:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the roles of product managers and product owners within Agile and Scrum, without any mention of Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the roles of product owners and product managers within the Agile framework, specifically Scrum. While it touches on Agile principles, it does not address Continuous Delivery practices, automation, or the delivery of software in reliable cycles, which are central to the Continuous Delivery category. Therefore, the content's relevance to Continuous Delivery is minimal.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -399,15 +405,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content is primarily focused on the roles and distinctions between product ownership and product management within the Scrum framework, without addressing value stream management concepts.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on product ownership and management within Agile and Scrum frameworks, which are not directly related to the One Engineering System (1ES).",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1186,14 +1183,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T00:34:20",
+    "calculated_at": "2025-03-21T20:01:12",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 20,
     "final_score": 31.0,
-    "reasoning": "The content discusses the roles of product owners and product managers within an Agile context, but it does not explicitly address the Agile Product Operating Model or its principles. While it touches on Agile concepts, the focus is more on the debate between product ownership and management rather than on the broader framework of value delivery and product-centric development. Therefore, the confidence score reflects a low alignment with the category.",
+    "reasoning": "The content primarily discusses the roles of product owners and product managers within the context of Agile, but it does not explicitly address the Agile Product Operating Model or its core principles. While it touches on product management, it lacks a comprehensive exploration of the APOM framework, making it a secondary focus rather than a primary discussion.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1399,11 +1396,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:01:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses product ownership and management in the context of Agile methodologies, without a clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the roles of product owners and product managers within Agile frameworks, without a focus on evidence-based practices or metrics. While it touches on Agile concepts, it lacks direct references to Evidence-Based Management principles, empirical decision-making, or relevant metrics that would align it with the category.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1473,6 +1473,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the roles of product owners and product managers within Agile frameworks, without any explicit mention or discussion of the Shift-Left Strategy. While it touches on Agile principles, it does not address integrating testing, security, or compliance earlier in the software development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:00:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the roles of product owners and product managers within an Agile context, without a focus on Continuous Improvement principles. While it touches on Agile methodologies, it lacks explicit discussions on empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning, which are central to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:00:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the roles of product owners and product managers, which is tangentially related to team dynamics but does not explicitly address Common Goals. There are no direct mentions of shared objectives or alignment within Agile or DevOps frameworks. The discussion lacks depth regarding the significance of Common Goals, making it a secondary focus at best.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:01:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the roles of product owners and product managers, which is tangentially related to competence but does not focus on the continuous development of skills or the core themes of competence in Agile methodologies. While there are mentions of expertise and roles, the discussion lacks depth regarding the importance of competence in delivering quality outcomes or fostering a culture of continuous learning.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:01:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the roles of product owners and product managers within the context of Agile and Scrum methodologies. It does not address the principles or components of the One Engineering System framework, nor does it explore integration of tools and processes across teams, which are key topics for the 1ES category. The focus is on a specific debate rather than the broader themes of standardisation and integration in software development.",
     "level": "Ignored"
   }
 }

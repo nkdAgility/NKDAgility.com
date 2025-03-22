@@ -32,16 +32,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Competence
 - Continuous Learning
 - Discovery and Learning
 - People and Process
+- Continuous Improvement
 - Organisational Culture
 - Team Motivation
 - Personal
 - Resilience and Change
 - Team Performance
-- Enterprise Agility
-- Organisational Agility
 categories:
 - Leadership
 

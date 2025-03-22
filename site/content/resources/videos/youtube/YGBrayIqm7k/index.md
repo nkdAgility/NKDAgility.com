@@ -39,7 +39,7 @@ tags:
 - Product Strategy
 - Agile Project Management
 - Agile Strategy
-- Working Software
+- Evidence Based Management
 resourceTypes:
 - video
 categories:

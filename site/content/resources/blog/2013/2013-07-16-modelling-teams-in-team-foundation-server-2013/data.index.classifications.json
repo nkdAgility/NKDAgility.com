@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:05:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:41:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the modelling of teams and project management within Team Foundation Server, without a focus on evidence-based management principles or empirical data.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Team Foundation Server 2013 and its functionalities, such as team modelling and project management, without discussing Evidence-Based Management principles or metrics. While it touches on aspects of project management, it lacks explicit references to empirical decision-making or data-informed practices central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -133,14 +136,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T04:59:24",
+    "calculated_at": "2025-03-22T07:41:12",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily focuses on Team Foundation Server (TFS) and its functionalities related to project management and team structuring. While it touches on automation and some aspects of collaboration, it lacks a direct focus on core DevOps principles such as Continuous Integration (CI) and Continuous Delivery (CD). The discussion is more aligned with project management and team dynamics rather than the integration of development and operations, which is central to DevOps. Therefore, the confidence score reflects a low alignment with the DevOps category.",
+    "reasoning": "The content primarily focuses on Team Foundation Server (TFS) and its functionalities related to project management and source control. While it touches on aspects of collaboration and automation, which are relevant to DevOps, it does not explicitly discuss the broader DevOps philosophy or its core principles. The discussion is more centred on TFS as a tool rather than on the cultural and process-oriented aspects of DevOps, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -338,7 +341,7 @@
     "reasoning": "Content primarily discusses the configuration and management of Team Foundation Server 2013, focusing on project and team structures without a clear emphasis on Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:06:20",
     "ai_confidence": 0,
@@ -349,11 +352,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:06:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:41:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Team Foundation Server and its features for project management, without a clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Team Foundation Server (TFS) and its functionalities related to team management and project structuring. While it touches on concepts like teams and projects, it does not explicitly discuss the Agile Product Operating Model or its principles. The discussion is more aligned with traditional project management and TFS-specific practices rather than the core themes of APOM, such as continuous delivery, customer-centric value, or the integration of agile methodologies with product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -427,11 +433,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:06:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:41:30",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Team Foundation Server (TFS) and its project management features, with no clear connection to Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on Team Foundation Server (TFS) and its functionalities related to team management and source control. While it briefly touches on automation, which is a component of Continuous Delivery, the overall discussion does not align with the core principles or practices of Continuous Delivery. The content lacks explicit discussions on delivery cycles, user feedback, or software quality, which are central to the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1506,6 +1515,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the modelling of teams and project management within Team Foundation Server 2013, with no explicit mention of integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on aspects of team organisation and project structure, it does not align with the core themes of the Shift-Left Strategy, which focuses on proactive measures in software development. The discussion lacks depth regarding the principles, benefits, or techniques associated with the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:41:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of modelling teams and managing projects within Team Foundation Server 2013. While it touches on aspects of team structure and project management, it lacks a clear emphasis on Continuous Improvement principles such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The discussion is more about operational setup rather than ongoing reflection and adaptation aimed at enhancing processes or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:41:18",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical aspects of modelling teams and managing projects within Team Foundation Server 2013. While it touches on team structures and roles, it lacks a direct discussion on Common Goals as defined in Agile and DevOps frameworks. The mention of teams and projects is more about operational details rather than aligning strategy with execution or fostering collaboration towards shared objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:41:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of modelling teams and managing projects within Team Foundation Server 2013. While it touches on the importance of structuring teams and managing workflows, it lacks a direct discussion on continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The mention of team structures and roles is relevant but does not delve into fostering a culture of competence or the impact of competence on quality outcomes and trust within teams.",
     "level": "Ignored"
   }
 }

@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T17:54:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:37:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses personal life changes and consulting work without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on personal experiences and transitions rather than discussing Evidence-Based Management principles. While it mentions Agile practices and consulting, it lacks explicit references to empirical decision-making, metrics, or the core themes of EBM. The discussion is more anecdotal and does not provide depth on how data informs management decisions.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -133,14 +136,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T04:52:58",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-03-22T07:37:16",
+    "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
-    "reasoning": "The content primarily focuses on personal life changes and experiences rather than discussing DevOps principles or practices. While there are mentions of Agile and ALM, these are not explored in the context of DevOps, and the overall discussion lacks depth in DevOps-related topics.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on personal experiences and transitions rather than discussing DevOps principles or practices. While it mentions Agile practices and ALM, it lacks a direct focus on the core themes of DevOps such as collaboration, automation, and shared accountability. The discussion is more about personal career changes and consulting work rather than the cultural shifts and methodologies central to DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -344,7 +347,7 @@
     "reasoning": "Content primarily discusses personal life changes and consulting work without a focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T17:55:10",
     "ai_confidence": 0,
@@ -355,12 +358,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T07:37:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile adoption planning, coaching, and training, which are relevant to the Agile Product Operating Model, but the primary focus is on personal circumstances and consulting work rather than a detailed exploration of the model itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions agile practices and includes some elements of agile adoption and coaching, but it primarily focuses on personal experiences and transitions rather than a detailed discussion of the Agile Product Operating Model. While there are references to agile methodologies, they are not the primary focus, and the content lacks depth in exploring the core principles of APOM.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -436,11 +442,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T18:25:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:37:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses personal life changes and consulting work but does not address Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal experiences and transitions in the author's life, with only brief mentions of Agile practices and ALM consulting. It lacks a direct discussion on Continuous Delivery principles, automation, or specific strategies related to software delivery. The alignment with the core themes of Continuous Delivery is minimal, and the depth of discussion does not provide substantial insights into the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1537,5 +1546,41 @@
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on personal life changes and consulting work rather than discussing the Shift-Left Strategy. While there are mentions of Agile practices and ALM improvements, these are not explicitly tied to the Shift-Left concept, which requires a focus on integrating testing, security, and compliance early in the development process. The discussion lacks depth and does not provide specific techniques, case studies, or metrics related to the Shift-Left Strategy.",
     "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:37:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile practices and the author's intent to help improve processes, which aligns with Continuous Improvement. However, it lacks a detailed discussion on the principles, techniques, or empirical evidence related to Continuous Improvement, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:37:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the author's personal journey and family life, with only brief mentions of Agile practices and consulting work. While there are references to Agile adoption and coaching, these are not explored in depth or connected to the broader themes of Common Goals within Agile and DevOps. The discussion lacks a clear focus on shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:37:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the author's professional journey and plans to provide consulting and coaching in Agile practices, which aligns with the themes of competence. However, it lacks explicit discussions on continuous learning or skill development, and while it mentions Agile adoption and mentoring, it does not delve deeply into the strategies for fostering a culture of competence.",
+    "level": "Tertiary"
   }
 }

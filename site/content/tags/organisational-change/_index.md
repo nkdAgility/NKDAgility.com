@@ -24,6 +24,9 @@ headline:
   subtitle: Transforming structures and processes to enhance adaptability and foster resilience in dynamic environments.
   content: Facilitating transformation initiatives that enhance adaptability and resilience within organisations. Posts should explore frameworks for continuous improvement, the role of team dynamics, the impact of leadership on change, and strategies for managing complexity in evolving environments.
   updated: 2025-02-13T12:03:39Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

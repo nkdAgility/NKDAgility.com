@@ -52,15 +52,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-07T13:16:56",
-    "ai_confidence": 45.0,
-    "ai_mentions": 60.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 42.0,
-    "reasoning": "The content explicitly mentions 'evidence-based management' and discusses its relevance to leadership within an Agile context, indicating a direct mention. However, it lacks depth and detail on the principles, practices, or empirical evidence that underpin Evidence-Based Management, resulting in a moderate alignment with the core themes. The discussion is somewhat superficial, focusing more on the skills of leaders rather than on the application of empirical evidence in decision-making processes.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T18:15:45",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 30,
+    "final_score": 81.0,
+    "reasoning": "The content explicitly discusses evidence-based management (EBM) as a transformative approach for leaders in Agile, highlighting its importance in making data-driven decisions and fostering continuous improvement. It provides specific examples and personal experiences related to EBM, demonstrating a strong alignment with the core themes of the category. The depth of discussion is substantial, covering various aspects of EBM, including collaboration and practical recommendations for leaders. Overall, the content is well-focused on EBM, justifying a high confidence score.",
+    "level": "Primary"
   },
   "Personal": {
     "category": "Personal",
@@ -349,20 +349,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T15:04:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on evidence-based management for leaders in Agile, without a clear emphasis on the Agile Product Operating Model or its principles.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T18:15:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content primarily focuses on evidence-based management (EBM) within an Agile context, which is a component of the Agile Product Operating Model. However, it does not explicitly discuss the broader principles of the Agile Product Operating Model or its transition from project to product ethos. While EBM is mentioned and aligned with continuous improvement, the depth of discussion is limited to personal experiences and recommendations rather than a comprehensive exploration of APOM principles.",
+    "level": "Tertiary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T15:04:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:15:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on evidence-based management within Agile, with no clear discussion of DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on evidence-based management within the Agile framework, which, while it touches on continuous improvement and collaboration, does not explicitly address DevOps principles or practices. The discussion lacks direct mentions of DevOps as a philosophy or its core themes, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -381,15 +387,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on evidence-based management for leaders in Agile, without a clear emphasis on flow efficiency or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T15:04:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on evidence-based management in Agile, which is not directly related to the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -1054,11 +1051,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses leadership skills in the context of Agile rather than any practices or principles related to Continuous Delivery.",
+    "calculated_at": "2025-03-21T18:15:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses evidence-based management within an Agile context, focusing on data-driven decisions and continuous improvement. While it touches on themes of continuous improvement and collaboration, it does not explicitly address Continuous Delivery principles or practices. The discussion lacks depth regarding Continuous Delivery, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1497,6 +1497,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses evidence-based management within an Agile context, focusing on data-driven decision-making and continuous improvement. While there are elements of improving processes, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth regarding the integration of testing, security, or compliance early in the development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:15:27",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses continuous improvement as a core tenet of Agile and connects it to evidence-based management. It highlights the importance of data-driven decisions and fostering a culture of experimentation, which aligns well with the principles of Continuous Improvement. However, while it provides valuable insights and personal experiences, the depth of discussion on Continuous Improvement techniques and frameworks could be more extensive, leading to a slightly lower confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:15:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses evidence-based management and its role in Agile, but it primarily focuses on personal experiences and recommendations rather than explicitly addressing Common Goals. While it touches on collaboration and shared objectives, these themes are secondary to the main narrative about personal growth and data-driven decision-making. The discussion lacks depth in connecting these concepts to the overarching strategic objectives of an organisation.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:15:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses the importance of continuous learning and skill enhancement, which aligns closely with the core themes of competence. It provides detailed insights into evidence-based management and its role in fostering a culture of continuous improvement and data-driven decision-making. The depth of discussion is significant, as it includes personal experiences and practical recommendations for leaders, reinforcing the importance of competence in Agile environments.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:15:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on evidence-based management within Agile, discussing its principles and personal experiences rather than the One Engineering System framework. While there are mentions of collaboration and continuous improvement, these concepts are not directly tied to 1ES, and the content lacks depth in discussing the integration of tools and processes across teams, which is central to the 1ES category.",
     "level": "Ignored"
   }
 }

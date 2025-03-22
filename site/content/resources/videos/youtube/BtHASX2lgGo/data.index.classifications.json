@@ -52,11 +52,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T14:27:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:59:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the limitations of burndown charts and planning in Agile methodologies, without a clear focus on Evidence-Based Management principles or empirical data application.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses agile practices, specifically criticising burndown charts and advocating for a flexible approach to Sprint planning. While it references data from the Standish Group's Chaos Report, which aligns with the empirical decision-making aspect of Evidence-Based Management, the overall focus remains on Agile methodologies rather than a comprehensive exploration of EBM principles. The discussion lacks depth in terms of current value metrics, unrealised value, or outcome management, which are central to EBM.",
     "level": "Ignored"
   },
   "Personal": {
@@ -349,23 +352,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-13T15:07:07",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T17:58:58",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses agile practices, particularly around Sprint planning and the limitations of burndown charts, which indirectly relate to the Agile Product Operating Model. However, it primarily focuses on specific practices rather than the broader principles of product-centric development or value delivery. While it touches on the need for flexibility and adaptability in product development, it lacks a comprehensive exploration of the Agile Product Operating Model's key themes, such as cross-functional teams and continuous feedback mechanisms.",
-    "level": "Secondary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses agile practices, particularly around Sprint planning and the use of burndown charts, but it does not explicitly address the Agile Product Operating Model or its core principles. While it touches on themes of flexibility and adaptability in product development, it lacks a comprehensive exploration of the APOM framework, such as the transition from project to product ethos or the integration of product management practices. The focus is more on critiquing specific agile practices rather than aligning with the broader APOM concepts.",
+    "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T14:28:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:58:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and Sprint planning, with no clear focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile methodologies, specifically Sprint planning and the critique of burndown charts, which are not central to DevOps principles. While there are elements of continuous flow mentioned, the overall discussion does not align closely with the core themes of DevOps, such as collaboration between development and operations, automation, or shared accountability. The content lacks a direct focus on DevOps as a philosophy, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -391,15 +397,6 @@
     "final_score": 61.0,
     "reasoning": "The content discusses the limitations of burndown charts and advocates for a more flexible approach to Sprint planning, which aligns with the principles of Flow Efficiency. It highlights the importance of minimising overhead and adapting plans to enhance throughput, which are key themes in Flow Efficiency. However, while it touches on these concepts, the primary focus is on critiquing specific Agile practices rather than a comprehensive exploration of flow efficiency principles, resulting in a moderate confidence score.",
     "level": "Secondary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:28:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Agile methodologies and Sprint planning, with no focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1081,11 +1078,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:59:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile methodologies and critiques burndown charts without focusing on Continuous Delivery principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Sprint planning and critiques the use of burndown charts within Agile methodologies. While it touches on concepts of flexibility and adaptability, which are relevant to Continuous Delivery, it does not explicitly address Continuous Delivery principles, practices, or tools. The focus is more on Agile practices rather than the specific aspects of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1539,6 +1539,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Sprint planning and critiques the use of burndown charts, which are not directly related to the Shift-Left Strategy. While it touches on agile principles and the need for flexibility in planning, it does not address integrating testing, security, or compliance earlier in the development process, nor does it provide insights into the benefits or methodologies of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:58:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the limitations of traditional burndown charts and advocates for a more flexible, adaptive approach to Sprint planning, which aligns with the principles of Continuous Improvement. However, while it touches on the need for ongoing reflection and adaptation, it does not delve deeply into empirical evidence or specific Continuous Improvement frameworks. The focus is more on Agile practices rather than a comprehensive exploration of Continuous Improvement as a standalone concept.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:58:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily critiques the use of burndown charts in Sprint planning, focusing on the need for flexibility and adaptability rather than discussing shared objectives or alignment with strategic goals. While it touches on the importance of planning and reassessment, it does not explicitly address the concept of Common Goals or their significance in Agile and DevOps frameworks. The discussion lacks depth in connecting individual contributions to overarching organisational objectives, which is a key aspect of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:58:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the limitations of burndown charts and promotes a flexible approach to Sprint planning, which indirectly relates to competence by emphasising adaptability and continuous improvement. However, it lacks direct mentions of competence as a primary focus and does not delve deeply into strategies for skill development or fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:58:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses agile practices, specifically sprint planning and the use of burndown charts, which are not directly related to the One Engineering System framework. While it touches on themes of flexibility and efficiency, it does not address the integration or standardisation of engineering processes, nor does it provide insights into the principles or components of 1ES. Therefore, the confidence score reflects a very low alignment with the category.",
     "level": "Ignored"
   }
 }

@@ -29,6 +29,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Evidence Based Management
 - Agile Product Management
 - Business Agility
 - Deployment Frequency
@@ -38,7 +39,6 @@ tags:
 - Continuous Learning
 - Discovery and Learning
 - Evidence Based Leadership
-- Evidence Based Management
 resourceTypes:
 - video
 categories:

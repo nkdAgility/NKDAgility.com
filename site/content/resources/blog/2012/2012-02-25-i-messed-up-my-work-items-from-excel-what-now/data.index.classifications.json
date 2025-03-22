@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:57:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:25:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to bulk editing in Excel and TFS, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on troubleshooting and solutions for managing work items in TFS after errors in Excel, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on data management, it lacks a clear connection to empirical decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:57:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:25:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to managing work items in TFS and Excel, without a clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting issues related to TFS work items and Excel, with no explicit discussion of DevOps principles or practices. While it touches on aspects of version control and data management, it lacks a clear connection to the core themes of DevOps such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses issues related to bulk editing in Excel and TFS, focusing on specific problems and solutions rather than exploring Systems Thinking principles or interconnectedness within organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:58:19",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:58:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:25:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to bulk editing work items in TFS and Excel, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting issues related to TFS work items and Excel, with no direct discussion of Agile Product Operating Model principles or practices. It does not address any key topics associated with APOM, such as product-oriented mindsets, continuous delivery, or agile processes. Therefore, it has minimal relevance to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:31:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:25:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to managing work items in TFS and Excel, with no focus on Continuous Delivery principles, practices, or automation.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on recovering from mistakes made in Excel when managing work items in TFS, which is not directly related to Continuous Delivery principles or practices. While it touches on aspects of work item management, it lacks discussions on automation, testing, deployment, or the cultural aspects of Continuous Delivery. The mention of TFS and work items does not align with the core themes of Continuous Delivery, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1452,6 +1464,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses issues related to bulk editing work items in TFS and does not address the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance earlier in the development process, nor does it explore the principles or benefits of the Shift-Left approach. The focus is on troubleshooting and solutions for a specific problem rather than on proactive strategies in software development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:25:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting and recovering from mistakes made in Excel when managing TFS work items. While it discusses the need for effective solutions and prevention of future errors, it does not explicitly address Continuous Improvement principles such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The discussion is more about immediate problem-solving rather than ongoing improvement processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:25:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting and solutions for issues related to TFS work items and Excel, with no explicit discussion of Common Goals, Agile, or DevOps principles. While it touches on the importance of data integrity and management, it does not connect these points to shared objectives or strategic alignment within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:25:36",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on troubleshooting and solutions for errors in TFS work items due to Excel mistakes. While it touches on the need for careful data management, it does not explicitly discuss continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The discussion is more about practical problem-solving rather than fostering a culture of competence or professional growth.",
     "level": "Ignored"
   }
 }

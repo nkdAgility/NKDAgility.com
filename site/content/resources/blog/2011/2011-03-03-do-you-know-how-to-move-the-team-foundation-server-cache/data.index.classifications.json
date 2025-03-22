@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T23:41:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:45:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical steps for moving the Team Foundation Server cache, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for moving the Team Foundation Server cache, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and provides minimal depth on any related topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T23:41:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:44:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of moving the Team Foundation Server cache, which is more related to server management than the principles or practices of DevOps.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on moving the Team Foundation Server cache, which is a technical task related to server management rather than a discussion on DevOps principles or practices. While it touches on performance improvement and server organisation, it lacks explicit references to DevOps concepts such as collaboration, automation, or shared accountability. The discussion is more about a specific technical procedure than the broader philosophy of DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -317,7 +323,7 @@
     "reasoning": "Content primarily discusses the technical steps for moving the Team Foundation Server cache, with no focus on Systems Thinking principles or organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T23:42:34",
     "ai_confidence": 0,
@@ -328,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T23:42:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:45:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical steps for moving the Team Foundation Server cache, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on moving the Team Foundation Server cache, which is a technical task related to server management and optimisation. It does not discuss any aspects of the Agile Product Operating Model, such as product management principles, agile methodologies, or continuous delivery. The content is strictly about a specific technical procedure, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:41:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:45:09",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses moving the Team Foundation Server cache and does not reference Continuous Delivery principles, practices, or related concepts.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on moving the Team Foundation Server cache, which is a specific technical task related to server management rather than Continuous Delivery. There are no direct mentions of Continuous Delivery principles, practices, or related topics. The discussion lacks depth and does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or incremental improvements.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1452,6 +1464,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on moving the Team Foundation Server cache and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. The content is more about server management than software development practices related to Shift-Left.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:44:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical guide for moving the Team Foundation Server cache, which does not directly address Continuous Improvement principles. While it mentions performance improvement, it lacks a broader discussion on continuous processes, empirical evidence, or a culture of experimentation. The content is more about a specific task rather than an ongoing practice of reflection and adaptation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:44:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on technical instructions for moving the Team Foundation Server cache, which does not relate to the concept of Common Goals in Agile or DevOps. There are no discussions on shared objectives, alignment, or strategic goals, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:45:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical guide for moving the Team Foundation Server cache, which does not directly address the principles of competence in Agile or DevOps. While it implies a need for skill in managing server configurations, it lacks explicit discussions on continuous learning, quality outcomes, or fostering a culture of competence. The mention of performance improvement is too vague to align with the core themes of competence.",
     "level": "Ignored"
   }
 }

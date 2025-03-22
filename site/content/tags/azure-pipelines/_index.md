@@ -25,6 +25,9 @@ headline:
   subtitle: Streamlining software delivery through automated workflows for efficient builds, testing, and deployment processes.
   content: Automating the software delivery lifecycle enhances collaboration and accelerates time-to-market. Posts should explore continuous integration, continuous deployment, and the integration of testing within workflows, while addressing the principles of flow, feedback, and iterative improvement to optimise delivery efficiency and quality.
   updated: 2025-02-13T12:05:52Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

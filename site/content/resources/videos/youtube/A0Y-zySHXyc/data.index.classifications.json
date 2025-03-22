@@ -655,11 +655,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T09:55:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:46:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of the Product Owner in Scrum and the barriers to their authority, which is not related to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the relationship between developers and Product Owners, focusing on accountability and decision-making within agile teams. While it touches on aspects of team dynamics that could indirectly relate to Continuous Delivery, it does not explicitly mention Continuous Delivery principles, practices, or tools. The discussion is more aligned with Agile methodologies rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -835,11 +838,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T09:56:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the barriers to accepting a Product Owner's authority, focusing on interpersonal dynamics and respect rather than empirical evidence or data-driven management practices.",
+    "calculated_at": "2025-03-21T18:46:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the relationship dynamics between developers and Product Owners, focusing on accountability and decision-making. While it touches on themes relevant to team dynamics and decision authority, it lacks a direct focus on evidence-based practices or metrics that inform management decisions. The discussion is more about interpersonal relationships rather than empirical evidence or data-driven management strategies, which are central to Evidence-Based Management.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1279,11 +1285,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T09:53:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the challenges of product ownership and team dynamics within a Scrum framework, without a clear focus on DevOps principles or practices.",
+    "calculated_at": "2025-03-21T18:45:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the relationship between developers and Product Owners, focusing on accountability and decision-making within agile teams. While it touches on themes of collaboration and accountability, which are relevant to DevOps, it does not explicitly address DevOps principles or practices. The discussion is more aligned with agile methodologies rather than the broader DevOps philosophy, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1465,15 +1474,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T21:50:58",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 28,
-    "ai_depth": 22,
+    "calculated_at": "2025-03-21T18:46:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the relationship between developers and Product Owners, which is relevant to the Agile Product Operating Model. It touches on accountability, decision-making, and the importance of open communication, aligning with the principles of product-centric development. However, it lacks a broader discussion on Agile methodologies and value delivery, focusing more on interpersonal dynamics than on the operational model itself.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the relationship between developers and Product Owners, focusing on accountability and decision-making, which are relevant to the Agile Product Operating Model. However, it primarily addresses interpersonal dynamics rather than the broader principles and frameworks of APOM. While it touches on themes of ownership and collaboration, it lacks a comprehensive exploration of the Agile Product Operating Model's core concepts, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1491,15 +1500,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of the product owner in Agile and Scrum, which is not directly related to platform engineering.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:22:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges faced by developers in accepting a Product Owner's authority, focusing on Scrum roles and dynamics rather than the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1542,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the relationship between developers and Product Owners, focusing on accountability and decision-making rather than integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on collaboration and communication, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:45:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the relationship between developers and Product Owners, focusing on accountability and decision-making. While it touches on themes of trust and communication, which are relevant to Continuous Improvement, it does not explicitly address the principles of Continuous Improvement or provide strategies for fostering a culture of experimentation and learning. The primary focus is on interpersonal dynamics rather than systematic improvement processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:45:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the relationship between developers and Product Owners, focusing on accountability and decision-making. While it touches on themes of ownership and the importance of respect, it does not explicitly address the concept of Common Goals or how they align with Agile and DevOps principles. The discussion is more centred on interpersonal dynamics rather than shared objectives that guide decision-making across teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:46:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 4,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of accountability and trust in the relationship between developers and Product Owners, which indirectly relates to competence. However, it primarily focuses on barriers to decision-making rather than on continuous skill development or the core themes of competence. The discussion lacks depth in exploring how competence can be fostered or measured within the team dynamics.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:46:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the relationship between developers and Product Owners, focusing on accountability and decision-making within agile teams. It does not address the principles or components of the One Engineering System, nor does it explore integration of tools or processes across teams. The discussion is centred on interpersonal dynamics rather than the standardisation and integration of engineering practices, which is the core focus of the 1ES framework.",
     "level": "Ignored"
   }
 }

@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T00:24:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:12:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical details of moving Azure storage blobs and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for moving Azure storage blobs using PowerShell, with no direct mention or discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any depth on these topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T00:24:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:12:26",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses moving Azure storage blobs and PowerShell scripting, with no clear focus on DevOps principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on moving Azure storage blobs using PowerShell, which is a technical task related to cloud storage management rather than a discussion on DevOps principles. While it touches on automation through scripting, it lacks a broader discussion on collaboration, shared accountability, or cultural shifts that are central to the DevOps philosophy. The mention of Azure and PowerShell does not align with the core themes of DevOps, and the depth of discussion is limited to a specific technical process without connecting it to the overarching DevOps framework.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -145,11 +151,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T08:57:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:12:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of moving Azure storage blobs and does not relate to Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for moving Azure storage blobs using PowerShell, with no direct mention of Agile methodologies, product management principles, or the Agile Product Operating Model. While there is a brief mention of project management in the context of training, it does not align with the core themes of the Agile Product Operating Model, nor does it provide any depth on the subject. Overall, the content is unrelated to the category.",
     "level": "Ignored"
   },
   "Products and Books": {
@@ -188,7 +197,7 @@
     "reasoning": "Content primarily discusses the technical process of moving Azure storage blobs and does not address any principles or practices related to BetaCodex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T08:57:50",
     "ai_confidence": 0,
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T17:51:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:12:43",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses moving Azure storage blobs and managing virtual machines in Azure, with no relevant connection to Continuous Delivery principles or practices.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on moving Azure storage blobs using PowerShell, which is a specific technical task related to cloud storage management. It does not discuss Continuous Delivery principles, practices, or benefits, nor does it mention automation in testing, integration, or deployment. The content lacks depth in relation to Continuous Delivery, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1440,6 +1452,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the process of moving Azure storage blobs and does not address the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. The focus is on a technical task related to Azure, which is unrelated to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:12:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical guide for moving Azure storage blobs using PowerShell. While it mentions a desire for efficiency and simplification, it does not engage with the principles of Continuous Improvement, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The discussion lacks depth in relation to Continuous Improvement concepts, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:12:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical guide for moving Azure storage blobs using PowerShell. It does not discuss Common Goals, Agile, or DevOps principles. While it mentions a personal project, it lacks any connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:12:36",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on a technical task related to moving Azure storage blobs using PowerShell. While it involves some level of skill and knowledge, it does not explicitly discuss competence in the context of continuous learning, quality outcomes, or professional development. The mention of teaching a course suggests some level of competence, but it is not the primary focus of the content. Overall, the discussion lacks depth and alignment with the core themes of competence as defined in the category.",
     "level": "Ignored"
   }
 }

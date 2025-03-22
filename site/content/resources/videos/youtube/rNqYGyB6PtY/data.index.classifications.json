@@ -634,11 +634,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T02:41:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:32:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges of managing incompetent teams and does not focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the challenges faced by a product owner with an underperforming team, discussing incompetence and training rather than Continuous Delivery principles. While there are brief mentions of team dynamics and improvement, the core themes of Continuous Delivery, such as automation, rapid feedback, and deployment practices, are not addressed.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -802,11 +805,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T02:42:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:32:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the management of team performance and personal experiences with team incompetence, lacking a focus on empirical evidence or data-driven decision-making principles central to Evidence-Based Management.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses team dynamics and management strategies without a focus on empirical evidence or metrics related to Evidence-Based Management. While it touches on the importance of training and support, it lacks a clear connection to the core themes of EBM such as current value, time to market, or outcome management.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1240,15 +1246,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T11:56:01",
-    "ai_confidence": 62.0,
-    "ai_mentions": 2,
-    "ai_alignment": 50.0,
-    "ai_depth": 75.0,
+    "calculated_at": "2025-03-21T18:31:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 50,
-    "final_score": 61.0,
-    "reasoning": "The content discusses a DevOps consultant's experience with a team that resisted using source control, highlighting the importance of automation and proper practices in software development. While it touches on DevOps principles, the primary focus is on team dynamics and incompetence rather than a comprehensive exploration of DevOps practices. The mention of Azure DevOps and source control indicates some relevance, but the overall discussion leans more towards team management than the core themes of DevOps.",
-    "level": "Secondary"
+    "final_score": 34.0,
+    "reasoning": "The content primarily focuses on the challenges faced by a product owner regarding team performance, with a significant emphasis on identifying incompetence versus knowledge gaps. While it briefly mentions Azure DevOps, the overall discussion does not align closely with the core principles of DevOps as a philosophy. The content lacks depth in discussing DevOps practices, automation, or collaboration, which are central to the category. Therefore, the confidence score reflects a low alignment with the DevOps category.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1426,11 +1432,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:05:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:32:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges of managing an incompetent team rather than focusing on the Agile Product Operating Model or its principles.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the challenges faced by a product owner with an underperforming team, focusing on incompetence and knowledge gaps rather than the Agile Product Operating Model itself. While it touches on aspects of team dynamics and improvement, it lacks a direct connection to the core principles of APOM, such as continuous delivery, product-oriented mindset, or integration of agile methodologies with product management. The discussion is more aligned with general team management rather than the specific framework of APOM.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1449,15 +1458,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses team dynamics and management issues, with a focus on incompetence and DevOps practices, but does not centre on platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:05:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the challenges of managing incompetent teams and personal experiences with specific teams, without focusing on the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1500,6 +1500,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the challenges of managing an incompetent team and does not address the Shift-Left Strategy or its principles. While it touches on training and knowledge gaps, it lacks a focus on integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:32:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses team performance and the importance of training and support, which aligns with the principles of Continuous Improvement. However, the primary focus is on addressing incompetence rather than a systematic approach to ongoing improvement. While there are mentions of providing resources and feedback, the overall discussion lacks depth in Continuous Improvement methodologies and does not explore broader strategies or frameworks that support this category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:32:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on addressing team performance issues and the distinction between incompetence and lack of knowledge. While it touches on the importance of team dynamics and improvement, it does not explicitly discuss Common Goals or their significance in Agile and DevOps frameworks. The mention of Scrum and Agile at the end is too vague and does not connect to the core themes of Common Goals, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:32:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the concept of incompetence in teams, distinguishing it from lack of knowledge and experience, which aligns with the core themes of competence. It provides strategies for addressing knowledge gaps and emphasises the importance of training and support, reflecting a commitment to continuous development. However, the primary focus is on incompetence rather than competence itself, which slightly lowers the confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:32:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the challenges faced by a product owner with an underperforming team, discussing incompetence and training rather than the principles or practices of the One Engineering System. While it touches on aspects of team dynamics and improvement, it does not explicitly mention 1ES or its components, nor does it provide a structured discussion on integrating tools or processes across teams.",
     "level": "Ignored"
   }
 }

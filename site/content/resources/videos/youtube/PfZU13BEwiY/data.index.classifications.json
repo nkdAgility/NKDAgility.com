@@ -182,15 +182,6 @@
     "reasoning": "Content primarily discusses technical debt and scaling in Agile environments, without a clear focus on Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-25T12:04:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical debt and scaling practices without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
     "calculated_at": "2025-02-25T12:04:41",
@@ -817,11 +808,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-25T12:06:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:40:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical debt and scaling in Agile environments, without a focus on evidence-based management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses technical debt and its impact on scaling and productivity, but it does not explicitly mention Evidence-Based Management or its key topics. While there is some alignment with the concept of empirical decision-making through the emphasis on sustainable practices and automation, the focus remains primarily on technical debt rather than on data-informed decision-making or metrics that assess value delivery.",
     "level": "Ignored"
   },
   "Software Developers": {
@@ -1186,12 +1180,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-25T12:07:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T16:40:55",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 26,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses automated testing and continuous integration, which are relevant to Continuous Delivery, but the primary focus is on scaling and managing technical debt rather than Continuous Delivery principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses automation and continuous integration, which are key components of Continuous Delivery. It highlights the importance of automated testing and consistent deployments, aligning with the principles of Continuous Delivery. However, the primary focus is on managing technical debt rather than a comprehensive exploration of Continuous Delivery practices, which slightly reduces the overall confidence score.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -1432,5 +1429,53 @@
     "final_score": 62.0,
     "reasoning": "The content discusses the importance of managing technical debt and highlights practices like automated testing and continuous integration, which align with the Shift-Left Strategy. However, the primary focus is on technical debt rather than explicitly on integrating testing and security earlier in the development lifecycle. While there are relevant elements, the overall discussion does not centre on the Shift-Left Strategy itself.",
     "level": "Secondary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:40:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of managing technical debt and implementing sustainable practices, which aligns with the principles of Continuous Improvement. However, it primarily focuses on technical debt rather than a broader discussion of Continuous Improvement methodologies or frameworks. While it touches on aspects like automation and feedback loops, it lacks a comprehensive exploration of Continuous Improvement as a primary focus.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:40:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses technical debt and its implications for scaling, which is not directly related to the concept of Common Goals. While it touches on the importance of sustainable practices and team collaboration, it lacks explicit discussions on shared objectives or alignment with strategic goals. The focus is more on technical challenges rather than the foundational principles of Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:40:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 25,
+    "ai_depth": 34,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of managing technical debt and implementing sustainable practices, which indirectly relates to competence in terms of ensuring quality outcomes and maintaining trust within teams. However, it does not explicitly focus on continuous learning or skill development, which are key aspects of the competence category. The depth of discussion on sustainable practices and automation contributes positively, but the overall focus remains more on technical processes rather than on competence as a foundational principle.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:40:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses technical debt and scaling practices but does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on sustainable practices and automation, which could align with 1ES themes, the primary focus is on technical debt rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
   }
 }

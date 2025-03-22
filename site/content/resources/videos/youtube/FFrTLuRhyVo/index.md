@@ -33,6 +33,7 @@ tags:
 - Technical Debt
 - Product Delivery
 - Ability to Innovate
+- Continuous Improvement
 - Operational Practices
 sitemap:
   filename: sitemap.xml

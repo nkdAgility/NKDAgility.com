@@ -664,12 +664,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:08:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T17:16:47",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses DevOps practices and CI/CD as part of the responsibilities of a Scrum Master, indicating a secondary theme related to Continuous Delivery, but the primary focus is on Scrum and Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of Scrum Masters within Agile teams, with a focus on Scrum practices. While it briefly touches on DevOps and mentions CI/CD, the overall emphasis is on Agile methodologies rather than Continuous Delivery specifically. The discussion lacks depth in Continuous Delivery principles and practices, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -1465,14 +1468,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T18:10:54",
-    "ai_confidence": 68.0,
+    "calculated_at": "2025-03-21T17:16:50",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 18.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the role of Scrum Masters and the importance of understanding evidence-based management within the context of Agile practices. While it mentions EBM briefly, the primary focus is on the competencies required for Scrum Masters rather than a thorough exploration of EBM principles or practices. The discussion on metrics and continuous improvement aligns with EBM, but the overall depth and direct mentions are limited.",
+    "final_score": 62.0,
+    "reasoning": "The content briefly mentions evidence-based management in the context of what a Scrum Master should know, indicating some relevance to the category. However, the primary focus is on the skills and competencies required for Scrum Masters rather than a thorough exploration of evidence-based management principles. While there is some alignment with the core themes, such as metrics and continuous improvement, the depth of discussion on EBM itself is limited.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -1483,15 +1486,6 @@
     "final_score": 1.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T09:08:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content briefly mentions 1ES as part of a broader discussion on the competencies required for Scrum Masters, but the primary focus is on Scrum and Agile methodologies rather than the integration and standardisation of engineering processes.",
-    "level": "Tertiary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -1579,5 +1573,53 @@
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the role and responsibilities of Scrum Masters within Agile teams, discussing their competencies and the challenges they face. While it touches on Agile principles and practices, it does not explicitly address the Shift-Left Strategy or its core themes, such as early integration of testing, security, or compliance in the software development lifecycle. The discussion lacks depth regarding the proactive measures associated with Shift-Left practices.",
     "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:16:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of Scrum Masters and their impact on team effectiveness, which aligns with Continuous Improvement principles. It mentions metrics and continuous improvement explicitly, indicating a focus on measurable advancements. However, the primary focus is on the shortcomings of Scrum Masters rather than a comprehensive exploration of Continuous Improvement strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:16:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the skills and competencies required for Scrum Masters, with some mention of the Scrum framework and Agile practices. However, it lacks a direct discussion on Common Goals as a concept, and while it touches on team effectiveness and accountability, it does not explicitly connect these to shared objectives or strategic alignment within Agile or DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:16:41",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the importance of competence for Scrum Masters, highlighting the skills and knowledge necessary for effective performance in Agile environments. It directly addresses the lack of competence among many Scrum Masters and outlines specific areas where they need to develop their skills. The depth of discussion is significant, providing detailed expectations for Scrum Masters and emphasising the need for continuous learning and improvement, which aligns closely with the principles of competence in Agile methodologies.",
+    "level": "Primary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:16:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content briefly mentions '1ES (One Engineering System)' within a broader discussion on Scrum and Agile practices. While it touches on modern engineering practices, the primary focus is on the role and effectiveness of Scrum Masters, which does not align closely with the core principles of the One Engineering System framework. The discussion lacks depth regarding the integration and standardisation of engineering processes, which is essential for a higher confidence score.",
+    "level": "Tertiary"
   }
 }

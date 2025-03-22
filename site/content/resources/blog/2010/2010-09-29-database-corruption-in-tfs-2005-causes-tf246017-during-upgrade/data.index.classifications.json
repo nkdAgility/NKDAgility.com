@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:12:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:49:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to database corruption during a software upgrade, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to upgrading TFS and database corruption, with no explicit mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and does not provide any depth on these topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T06:47:33",
+    "calculated_at": "2025-03-22T08:49:25",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses a specific technical issue related to upgrading Team Foundation Server (TFS), which is a tool often used in DevOps practices. However, it primarily focuses on a troubleshooting scenario rather than broader DevOps principles or practices. While it touches on aspects of deployment and database management, it lacks a comprehensive discussion on DevOps methodologies, cultural shifts, or automation, which are key themes in the DevOps category.",
+    "reasoning": "The content primarily focuses on a specific technical issue related to upgrading TFS (Team Foundation Server) and resolving a database error. While TFS is a tool often used in DevOps practices, the discussion does not explicitly address DevOps principles, practices, or cultural shifts. The mention of TFS and database management is more aligned with technical troubleshooting rather than the broader DevOps philosophy of collaboration, automation, and continuous improvement. Therefore, the confidence score reflects a low alignment with the core themes of DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +323,7 @@
     "reasoning": "Content primarily discusses a technical issue related to database corruption during a software upgrade, without any focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:13:11",
     "ai_confidence": 0,
@@ -331,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:13:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:49:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to upgrading TFS and database corruption, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to upgrading TFS (Team Foundation Server) and does not mention or align with the Agile Product Operating Model. It focuses on database errors and resolutions, which are unrelated to agile methodologies or product management principles.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -409,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T01:08:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:49:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to upgrading TFS and database errors, without a focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a specific error encountered during an upgrade of TFS (Team Foundation Server) from 2005 to 2010, focusing on database corruption and resolution steps. While it touches on aspects of software deployment, it does not explicitly address Continuous Delivery principles, practices, or benefits. The discussion lacks depth in Continuous Delivery concepts and does not explore automation, rapid feedback, or cultural aspects related to Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1455,6 +1464,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a specific technical issue encountered during a database upgrade process in TFS, focusing on error messages and troubleshooting steps. It does not address the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any insights into collaboration or metrics related to Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:49:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical issue related to upgrading TFS and resolving a specific error. While it does touch on problem-solving and fixing a database issue, it lacks a broader discussion on Continuous Improvement principles, such as fostering a culture of experimentation or integrating improvement strategies into processes. The mention of identifying and repairing a database corruption does not align with the core themes of Continuous Improvement, which emphasises ongoing reflection and adaptation rather than addressing a one-time technical issue.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:49:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical issue related to upgrading TFS and does not discuss Common Goals or their significance in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or frameworks like OKRs. The discussion is centred around troubleshooting a specific error, which does not connect to the principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:49:33",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on a technical issue related to upgrading TFS and resolving a specific error. While it demonstrates a level of competence in troubleshooting and problem-solving, it does not explicitly discuss the broader themes of continuous learning, skill development, or the importance of competence in Agile or DevOps environments. The mention of using commands like 'dbcc checkdb' indicates some level of technical skill, but it lacks depth in exploring how this relates to professional competence or team dynamics.",
     "level": "Ignored"
   }
 }

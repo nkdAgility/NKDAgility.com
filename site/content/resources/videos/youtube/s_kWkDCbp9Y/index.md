@@ -33,6 +33,7 @@ tags:
 - Software Development
 - People and Process
 - Agile Transformation
+- Competence
 resourceTypes:
 - video
 categories: []

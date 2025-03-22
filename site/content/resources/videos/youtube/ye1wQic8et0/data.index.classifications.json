@@ -22,15 +22,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-14T21:50:59",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-21T18:46:33",
+    "ai_confidence": 42.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which indirectly relates to DevOps principles of efficiency and collaboration. However, it primarily focuses on traditional management practices rather than specific DevOps practices, tools, or cultural shifts. The mention of agile and the need for quicker decision-making aligns with some DevOps concepts, but the overall depth and focus on DevOps are limited.",
-    "level": "Ignored"
+    "final_score": 41.0,
+    "reasoning": "The content primarily discusses the impact of committees on decision-making and agility within organisations, which aligns with some principles of DevOps, such as the need for collaboration and empowerment of teams. However, it does not explicitly focus on DevOps as a philosophy or its core practices, leading to a moderate confidence score. The mention of DevOps is brief and secondary, while the depth of discussion on DevOps principles is limited.",
+    "level": "Tertiary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -97,12 +97,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T17:26:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:46:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the drawbacks of committees in decision-making processes and the impact on time to market, without a focus on empirical evidence or the principles of Evidence-Based Management.",
-    "level": "Ignored"
+    "final_score": 57.0,
+    "reasoning": "The content discusses the impact of committees on time to market and decision-making, which aligns with the Evidence-Based Management focus on metrics like time to market. However, it primarily revolves around agile methodologies and does not deeply engage with empirical evidence or the broader EBM themes. The discussion lacks substantial depth in terms of data-informed decision-making and does not provide specific metrics or outcomes related to EBM.",
+    "level": "Tertiary"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -354,15 +357,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without a clear focus on release management processes or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:27:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -703,11 +697,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T17:28:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:46:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without a clear focus on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which indirectly relates to Continuous Delivery principles. However, it primarily focuses on the broader topic of agile methodologies rather than Continuous Delivery specifically. There are no direct mentions of Continuous Delivery practices, and while it touches on themes of agility and responsiveness, it lacks depth in discussing Continuous Delivery techniques or tools.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -802,15 +799,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T21:51:43",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T18:46:46",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and agility, which aligns with the Agile Product Operating Model's emphasis on value delivery and team empowerment. However, it primarily focuses on the drawbacks of traditional practices rather than providing a comprehensive exploration of the Agile Product Operating Model itself. While it touches on relevant themes, it lacks direct references to product-centric development and specific Agile methodologies, resulting in a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses the impact of committees on agility and decision-making, which aligns with the principles of the Agile Product Operating Model. However, it primarily focuses on the drawbacks of traditional management practices rather than providing a comprehensive exploration of the Agile Product Operating Model itself. The mention of agile methodologies is present, but the depth of discussion on APOM principles is limited.",
+    "level": "Tertiary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1554,6 +1551,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the impact of committees on decision-making and agility within agile methodologies, without any direct reference to the Shift-Left Strategy. While it touches on themes of agility and decision-making speed, it does not address integrating testing, security, or compliance earlier in the software development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:46:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the negative impact of committees on decision-making and agility, which aligns with the principles of Continuous Improvement. It highlights the need for organisations to empower teams and adapt to change, reflecting a commitment to enhancing processes. However, the primary focus is on the drawbacks of committees rather than a comprehensive exploration of Continuous Improvement practices, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:46:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which indirectly relates to the concept of Common Goals by highlighting the need for alignment and empowerment within teams. However, it primarily focuses on the drawbacks of committees rather than explicitly addressing shared objectives or strategic alignment, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:46:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which indirectly relates to competence by highlighting the need for teams to be empowered and adaptable. However, it primarily focuses on the drawbacks of committees rather than on the development of skills or continuous learning, which are central to the concept of competence. The discussion lacks depth in exploring how competence can be fostered or measured within teams.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:46:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the impact of committees on decision-making and agility within organisations, focusing on agile methodologies rather than the One Engineering System framework. While it touches on themes of efficiency and team empowerment, it does not explicitly mention or align with the principles, components, or implementation of 1ES. The discussion is more about general agile practices and the drawbacks of traditional management structures, which are outside the scope of 1ES.",
     "level": "Ignored"
   }
 }

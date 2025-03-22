@@ -985,12 +985,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:49:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of delivery and quality in software development, touching on predictability and the importance of working software, which are relevant to Continuous Delivery. However, the primary focus is on agile methodologies and release planning rather than Continuous Delivery principles specifically.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses release planning and predictable delivery in agile environments, which touches on aspects of Continuous Delivery, such as the importance of delivering working software and managing technical debt. However, it primarily focuses on agile methodologies and release management rather than the specific principles and practices of Continuous Delivery. While there are relevant points about quality and predictability, the depth of discussion on Continuous Delivery itself is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1123,15 +1126,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T02:51:56",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-21T20:49:09",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses agile methodologies and the importance of quality in software development, which aligns with some principles of Evidence-Based Management. However, it primarily focuses on practical aspects of release planning and software delivery rather than explicitly addressing the empirical evidence and data-driven decision-making central to EBM. The discussion lacks depth in terms of metrics, KPIs, or case studies that would strengthen its alignment with the EBM category.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses agile release planning and the unpredictability of software development, touching on aspects of empirical decision-making and the importance of quality. However, it primarily focuses on agile practices and methodologies rather than explicitly addressing Evidence-Based Management principles. The discussion lacks a strong emphasis on metrics or data-informed decision-making, which are central to EBM.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -1217,15 +1220,6 @@
     "reasoning": "Content primarily discusses agile principles, release planning, and the unpredictability of software development, without focusing on installation or configuration processes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses agile methodologies and release planning, which are relevant to software development practices. However, it primarily focuses on Scrum and agile principles rather than the integration and standardisation aspects central to the One Engineering System framework.",
-    "level": "Tertiary"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-03-10T12:26:55",
@@ -1282,14 +1276,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:26:52",
+    "calculated_at": "2025-03-21T20:48:50",
     "ai_confidence": 67.0,
     "ai_mentions": 12,
-    "ai_alignment": 28,
+    "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 50,
     "final_score": 65.0,
-    "reasoning": "The content discusses the integration of agile practices with release management, touching on the importance of quality, predictability, and continuous delivery, which are core principles of DevOps. It mentions the need for cultural shifts and collaboration, aligning with DevOps themes. However, the primary focus is on agile methodologies rather than DevOps practices specifically, which slightly lowers the confidence score.",
+    "reasoning": "The content discusses agile release planning and its relationship with predictability, which is relevant to DevOps principles. It mentions the importance of quality, continuous improvement, and the need for collaboration among teams, aligning with DevOps culture. However, the primary focus is on agile methodologies rather than DevOps as a philosophy, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Organisational Agility": {
@@ -1354,14 +1348,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-11T14:49:12",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 30,
+    "calculated_at": "2025-03-21T20:49:03",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the Agile Product Operating Model in detail, particularly focusing on the principles of agile release planning, the unpredictability of software development, and the importance of quality in product delivery. It aligns well with the core themes of product-centric development and continuous feedback, while also addressing the role of cross-functional teams and the need for a cultural shift within organisations. However, it does not explicitly mention all key topics outlined in the category description, which slightly lowers the confidence score.",
+    "final_score": 63.0,
+    "reasoning": "The content discusses agile principles and practices related to release planning and delivery, which aligns with the Agile Product Operating Model. However, it primarily focuses on the challenges of predictability in software development rather than a comprehensive exploration of the APOM framework. While it touches on aspects like continuous quality and team dynamics, it lacks a thorough examination of the core principles and operational structures of the Agile Product Operating Model.",
     "level": "Secondary"
   },
   "Market Adaptability": {
@@ -1545,6 +1539,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses aspects of agile and release management, touching on quality and predictability in software development. However, it does not explicitly focus on the Shift-Left Strategy or its core principles. While there are mentions of quality and technical debt, the discussion lacks depth in integrating testing, security, and compliance early in the development process, which are key elements of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:48:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses aspects of agile release planning and the importance of quality in software development, which are related to Continuous Improvement. However, it primarily focuses on release management and predictability rather than explicitly addressing Continuous Improvement principles. While it mentions the need for a culture shift and strategies for improving quality, the depth of discussion on Continuous Improvement concepts is limited, making it a secondary focus rather than a primary one.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:48:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the challenges of aligning agile practices with release planning and predictable delivery, touching on the importance of quality and the role of teams in achieving goals. However, it primarily focuses on practical strategies and challenges rather than explicitly defining or discussing Common Goals as a central theme. While there are mentions of team collaboration and the need for alignment, the depth of discussion on Common Goals is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:48:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of quality in software development and the need for continuous improvement, which aligns with the principles of competence. It highlights the necessity for developers to possess the skills and knowledge to deliver working software, reflecting a focus on professional capability. The depth of discussion on strategies to enhance quality and manage technical debt further supports the competence theme, although it does not explicitly mention continuous learning or skill development as a primary focus.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:49:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses agile release planning and delivery, which is tangentially related to the principles of the One Engineering System. However, it lacks a direct focus on the integration and standardisation of engineering processes across teams, which is central to 1ES. While it touches on some relevant themes, such as quality and team collaboration, it does not provide in-depth discussion or examples specifically about 1ES or its implementation.",
     "level": "Ignored"
   }
 }

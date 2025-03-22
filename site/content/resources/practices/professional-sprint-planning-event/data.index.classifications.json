@@ -250,11 +250,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T09:29:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:08:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the Sprint Planning event in Scrum, focusing on its purpose, execution, and stakeholder communication, without addressing Evidence-Based Management principles or empirical data.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Sprint Planning event within the Scrum framework, discussing its purpose, structure, and importance in team communication and stakeholder engagement. While it touches on aspects of planning and understanding team capacity, it does not explicitly address Evidence-Based Management principles or metrics. The discussion lacks depth in empirical decision-making or data-informed practices, which are central to EBM.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -295,11 +298,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-13T09:29:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:08:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Sprint Planning event within the Scrum framework, discussing its purpose, structure, and importance. While it touches on aspects of planning and stakeholder communication, it does not address Continuous Delivery principles, practices, or benefits. The discussion lacks direct mentions of Continuous Delivery and does not align with its core themes, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -1451,15 +1457,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:11:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:44:47",
@@ -1533,6 +1530,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the Sprint Planning event within the Scrum framework, discussing its purpose, importance, and execution. While it touches on aspects of collaboration and stakeholder communication, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth regarding early integration of testing, security, or compliance, which are core to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:07:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Sprint Planning event within the Scrum framework, discussing its purpose, structure, and importance. While it touches on aspects of team effectiveness and stakeholder communication, it lacks a strong emphasis on Continuous Improvement principles such as empirical evidence, data-driven decision-making, or a culture of experimentation. The discussion is more about planning and execution rather than ongoing reflection and adaptation, which are core to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:08:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the Sprint Planning event in detail, highlighting its importance in creating a Sprint Goal, which aligns with the concept of Common Goals. It mentions the need for clarity in the Product Goal and how this impacts the planning process, indicating a connection to shared objectives. However, while it touches on the significance of stakeholder communication and support, it does not delve deeply into the broader implications of Common Goals within Agile and DevOps frameworks, which slightly limits its depth of discussion.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:08:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the Sprint Planning event in detail, highlighting its importance in understanding team capacity and capability, which aligns with the concept of competence. However, while it touches on aspects of competence, such as the need for clear understanding and effective communication with stakeholders, it primarily focuses on the mechanics of the Sprint Planning process rather than a broader discussion on continuous learning or skill development. Therefore, while competence is a significant theme, it is not the primary focus, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:08:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Sprint Planning event within the Scrum framework, discussing its purpose, execution, and importance. It does not address the One Engineering System (1ES) principles, components, or its integration with other processes. The discussion is centred around Scrum practices rather than the standardisation and integration of engineering practices across teams, which is the core of 1ES.",
     "level": "Ignored"
   }
 }

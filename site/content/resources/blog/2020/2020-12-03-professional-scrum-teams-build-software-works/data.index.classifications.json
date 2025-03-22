@@ -988,12 +988,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:48:24",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of quality in software delivery and mentions automation in testing and deployment processes, which are relevant to Continuous Delivery. However, the primary focus is on Scrum practices and team accountability rather than Continuous Delivery principles.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses the importance of quality in software delivery and mentions automation and accountability, which are relevant to Continuous Delivery. However, it primarily focuses on Scrum practices and roles rather than the broader principles and practices of Continuous Delivery. The discussion lacks depth in Continuous Delivery-specific techniques and strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1123,14 +1126,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T02:48:47",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-21T20:48:27",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 40.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
-    "reasoning": "The content discusses the importance of quality in software development and the accountability of developers, which aligns with some principles of Evidence-Based Management, particularly in relation to continuous improvement and empirical decision-making. However, it primarily focuses on Scrum practices and does not explicitly address the broader concepts of EBM, such as the use of empirical evidence to inform management practices or the integration of EBM with Agile methodologies. The discussion lacks specific metrics or case studies that would strengthen its alignment with EBM.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Scrum practices and the importance of quality in software development, but it lacks a direct focus on Evidence-Based Management principles. While it touches on accountability and the need for empirical decision-making, it does not provide a comprehensive exploration of EBM concepts such as current value metrics or unrealised value analysis. The discussion is more centred on Scrum roles and responsibilities rather than a data-informed management approach.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -1214,15 +1217,6 @@
     "reasoning": "Content heavily discusses Scrum roles, accountability for quality, and the importance of working software, but does not provide any actionable instructions or insights related to installation or configuration of tools or software.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T22:09:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Scrum methodology rather than the principles and components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-03-15T02:48:45",
@@ -1282,14 +1276,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T16:01:58",
+    "calculated_at": "2025-03-21T20:48:07",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 50,
     "final_score": 70.0,
-    "reasoning": "The content discusses the importance of quality in software delivery and mentions DevOps practices, particularly automation and continuous delivery. However, the primary focus is on Scrum methodologies and the roles within Scrum teams, which makes DevOps a secondary theme rather than the main subject. While there are relevant points about automation and accountability that align with DevOps principles, the depth of discussion on DevOps itself is limited compared to the extensive focus on Scrum.",
+    "reasoning": "The content discusses the importance of quality in software development and mentions DevOps practices, particularly in relation to automation and accountability. However, the primary focus is on Scrum methodologies rather than the broader DevOps philosophy. While there are relevant points about automation and continuous improvement, the depth of discussion on DevOps principles is limited, making it a secondary theme rather than a primary focus.",
     "level": "Secondary"
   },
   "Organisational Agility": {
@@ -1351,12 +1345,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:48:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and the importance of quality in software delivery, which aligns with Agile principles. However, it primarily focuses on Scrum roles and events rather than a broader discussion on the Agile Product Operating Model as a whole.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Professional Scrum practices and the accountability of developers in delivering quality software. While it touches on some agile principles, it lacks a direct focus on the Agile Product Operating Model as a framework. The discussion is more centred on Scrum roles and responsibilities rather than the broader themes of product management and continuous delivery that characterise the APOM.",
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1545,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of quality in software development and mentions the need for accountability among developers, which aligns with the Shift-Left Strategy's focus on integrating quality earlier in the development process. However, it primarily revolves around Scrum practices and does not explicitly address the integration of testing, security, or compliance early in the lifecycle, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:48:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of quality in software development and the accountability of developers, which aligns with Continuous Improvement principles. It mentions the need for teams to inspect and adapt, reflecting a commitment to ongoing enhancement. However, while it touches on Continuous Improvement, the primary focus is on Scrum roles and responsibilities rather than a comprehensive exploration of Continuous Improvement strategies or frameworks.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:48:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of quality in software delivery and the accountability of developers, which aligns with the principles of Agile and DevOps. However, it primarily focuses on the execution of Scrum practices rather than explicitly addressing the concept of Common Goals. While there are mentions of team accountability and the need for alignment in delivering quality software, the discussion lacks depth on how these elements connect to overarching strategic objectives or shared goals within the organisation.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:48:16",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses the importance of quality in software development, emphasising the accountability of developers and the necessity for continuous improvement and skill development. It highlights the need for professional standards and practices, aligning well with the core themes of competence. The depth of discussion on quality assurance, technical debt, and the role of Scrum in fostering a culture of competence further supports a high confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:48:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the accountability of Scrum teams in delivering quality software. While it touches on aspects of quality and accountability, it does not explicitly discuss the One Engineering System framework, its principles, or its integration across teams. The discussion is more centred on Scrum methodology rather than the broader integration and standardisation of engineering processes that 1ES entails.",
     "level": "Ignored"
   }
 }

@@ -24,6 +24,9 @@ headline:
   subtitle: Empower organisations to swiftly adapt and innovate, ensuring continuous delivery of value in a dynamic marketplace.
   content: Foster an environment where organisations can swiftly respond to market changes, enhance innovation, and ensure consistent value delivery. Posts should explore frameworks for iterative improvement, visual workflow management, team collaboration, and decision-making under uncertainty, drawing insights from complexity theory and evidence-based management.
   updated: 2025-02-13T11:59:51Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

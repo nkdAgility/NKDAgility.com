@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:08:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and responsibilities, focusing on Agile practices rather than DevOps principles.",
+    "calculated_at": "2025-03-21T20:00:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master within Agile methodologies, discussing accountability and the importance of questioning established practices. While there are elements of collaboration and organisational impact that could tangentially relate to DevOps principles, the core discussion revolves around Scrum and Agile rather than the broader DevOps philosophy. Therefore, the confidence score reflects a low alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -256,11 +259,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:21:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:00:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum roles and responsibilities, focusing on the Scrum Master's accountability and implications rather than Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master within Agile practices, discussing accountability and the importance of questioning existing processes. While it touches on themes of organisational agility, it does not explicitly address Continuous Delivery principles, practices, or tools. The discussion is more aligned with Scrum and Agile methodologies rather than Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -402,15 +408,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and responsibilities, without a clear focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:21:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and the responsibilities of the Scrum Master within Agile frameworks, which is not aligned with the core principles of the One Engineering System.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1237,11 +1234,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:21:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:00:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses the role and responsibilities of the Scrum Master within a team, focusing on Scrum practices rather than the Agile Product Operating Model as a holistic framework for product-centric development.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master and their responsibilities within an agile framework, which is relevant to agile practices but does not explicitly address the Agile Product Operating Model. While it touches on themes of accountability and organisational impact, it lacks a direct discussion on product management principles or the transition from project to product ethos, which are core to the APOM. The depth of discussion on the Scrum Master's role provides some insight into agile practices, but it does not sufficiently cover the broader aspects of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1459,11 +1459,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:21:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:00:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master in the context of Agile practices, without a focus on empirical evidence or data-driven decision-making principles central to Evidence-Based Management.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master and their responsibilities within Agile frameworks, with limited direct mention of Evidence-Based Management principles. While it touches on accountability and questioning practices, it lacks a strong emphasis on empirical decision-making or metrics that align with EBM. The discussion is more about personal growth and facilitation rather than data-informed management strategies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1536,6 +1539,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the role of the Scrum Master within Agile frameworks, discussing accountability and the importance of questioning existing practices. While it touches on themes of collaboration and organisational influence, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. Therefore, the confidence score reflects a minimal connection to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:00:27",
+    "ai_confidence": 47.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of the Scrum Master and the importance of questioning existing practices, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the Scrum Master's responsibilities rather than a broader discussion on Continuous Improvement methodologies or frameworks. The mention of fostering a culture of inquiry and challenging the status quo indicates some alignment, but the depth of discussion on Continuous Improvement concepts is limited.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:00:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the role of the Scrum Master and their responsibilities, which indirectly relates to the concept of Common Goals by highlighting the need for alignment within teams and the organisation. However, it primarily focuses on the Scrum Master's personal growth and broader responsibilities rather than explicitly addressing shared objectives or strategic alignment. The discussion lacks depth in connecting these responsibilities to overarching organisational goals, resulting in a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:00:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of the Scrum Master and the importance of understanding broader responsibilities, which aligns with the concept of competence in Agile. It highlights the need for continuous learning and questioning established practices, reflecting the importance of skill development. However, while competence is a significant theme, the focus is more on the Scrum Master's role and responsibilities rather than a direct exploration of competence itself, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:00:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master within Agile frameworks, discussing responsibilities and accountability rather than the One Engineering System. While it touches on organisational dynamics, it does not explicitly mention 1ES or its principles, components, or implementation practices, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

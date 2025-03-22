@@ -38,9 +38,9 @@ tags:
 - Metrics and Learning
 - Agile Values and Principles
 - Psychological Safety
+- Evidence Based Management
 - Agile Strategy
 - Agile Transformation
-- Team Performance
 resourceTypes:
 - video
 categories: []

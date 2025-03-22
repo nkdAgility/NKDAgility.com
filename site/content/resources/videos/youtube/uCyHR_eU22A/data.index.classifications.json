@@ -649,11 +649,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T00:39:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:41:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the selection of items for the Sprint backlog within the Scrum framework, which is a specific Agile methodology. While it touches on aspects of planning and prioritisation, it does not directly address Continuous Delivery principles, practices, or benefits. The discussion lacks explicit references to Continuous Delivery concepts such as automation, rapid feedback, or incremental improvements, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -814,11 +817,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T00:40:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:41:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the selection of items for the Sprint backlog within the context of Scrum, without a focus on evidence-based management principles or empirical data.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the selection of items for the Sprint backlog in Scrum, which is more focused on Agile practices rather than Evidence-Based Management. While it touches on the importance of aligning with business context and stakeholder collaboration, it lacks a strong emphasis on empirical evidence or metrics that are central to EBM. The discussion is more about the process and collaboration in Agile rather than data-informed decision-making.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1276,11 +1282,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T00:37:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T19:41:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile methodologies, discussing the selection of items for the Sprint backlog. While it touches on collaboration and stakeholder involvement, which are relevant to DevOps, it does not explicitly address DevOps principles or practices. The discussion lacks depth in terms of DevOps concepts such as automation, shared accountability, or continuous improvement, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1453,15 +1462,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T23:56:20",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
+    "calculated_at": "2025-03-21T19:41:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the selection of items for the Sprint Backlog, which is a key aspect of Agile product development. It highlights the importance of collaboration among stakeholders and aligning with business context, which aligns with the principles of the Agile Product Operating Model. However, while it touches on value delivery and team dynamics, it does not delve deeply into broader themes such as continuous feedback, metrics, or case studies, which limits its depth of discussion.",
-    "level": "Secondary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the selection of items for the Sprint backlog within the Scrum framework, which is a specific agile practice rather than a discussion on the Agile Product Operating Model as a whole. While it touches on collaboration and value delivery, it lacks a comprehensive exploration of the APOM principles, such as transitioning to a product ethos or integrating product management practices. The depth of discussion is moderate, but it does not sufficiently address the broader themes of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1475,15 +1484,6 @@
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T23:17:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:17:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
     "final_score": 1.0,
@@ -1530,6 +1530,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the selection of items for the sprint backlog within Agile methodologies, discussing the collaborative nature of prioritisation and the importance of various stakeholder inputs. However, it does not explicitly mention or align with the Shift-Left Strategy, which emphasises early integration of testing, security, and compliance in the software development lifecycle. The discussion is more centred on Agile principles rather than the proactive measures characteristic of a Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:41:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the selection of items for the Sprint backlog in Scrum, which is a specific aspect of Agile methodology. While it touches on the importance of collaboration and understanding various contexts, it does not explicitly discuss Continuous Improvement principles or practices. The discussion lacks depth in terms of Continuous Improvement strategies, empirical evidence, or a culture of experimentation, which are key themes of the category. Therefore, while there are elements of alignment, they are not sufficiently developed to warrant a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:41:28",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the selection of Sprint backlog items, which is related to aligning team efforts with strategic objectives. It mentions the importance of collaboration among stakeholders and the need for a cohesive approach, which aligns with the principles of Common Goals. However, the focus is primarily on the mechanics of backlog selection rather than a deep exploration of Common Goals themselves, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:41:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the selection of Sprint backlog items, which indirectly relates to competence through the emphasis on strategic insights and collaboration among team members. However, it lacks a direct focus on continuous learning or skill development, which are core themes of competence. The depth of discussion on the collaborative nature of backlog selection provides some insight into competence but does not fully explore the principles of professionalism and quality delivery.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:41:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically the selection of items for the Sprint backlog, which is not directly related to the One Engineering System framework. While it touches on collaboration and prioritisation, it lacks explicit discussion of 1ES principles, components, or its impact on software quality and delivery timelines.",
     "level": "Ignored"
   }
 }

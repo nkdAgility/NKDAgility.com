@@ -658,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T22:55:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:04:42",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of continuous learning for product owners, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on continuous learning for product owners, which is a broader topic and does not specifically address Continuous Delivery principles or practices. While it mentions tools and techniques relevant to product management, it lacks a direct discussion on Continuous Delivery, its automation aspects, or its cultural implications. The content is more aligned with personal development and product management rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -832,14 +835,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T20:20:45",
-    "ai_confidence": 68.0,
+    "calculated_at": "2025-03-21T18:04:46",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 18.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
-    "reasoning": "The content briefly mentions Evidence-Based Management as one of several tools for product owners, but it does not delve deeply into its principles or practices. While it aligns with the theme of continuous learning and data-driven decision-making, the discussion lacks the depth and focus required for a strong alignment with the category of Evidence-Based Management.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses continuous learning for product owners and briefly mentions Evidence-Based Management as a tool for making data-driven decisions. However, the primary focus is on continuous learning rather than a deep exploration of Evidence-Based Management principles. While it aligns with some key topics, such as empirical decision-making, the overall depth and direct discussion of EBM are limited.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1294,11 +1297,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T22:52:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:04:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses continuous learning for product owners, focusing on tools and techniques relevant to product management rather than DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on continuous learning for product owners, discussing tools and techniques relevant to product management rather than DevOps principles. While there are mentions of methodologies like Scrum and Lean UX, these do not align with the core themes of DevOps, such as collaboration between development and operations or automation. The discussion lacks depth in DevOps-related topics, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1477,12 +1483,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:40:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of continuous learning for product owners, which aligns with the Agile Product Operating Model's focus on maximising value delivery and adapting to market dynamics. However, it primarily centres on personal development rather than the broader principles and strategies of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T18:04:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses continuous learning for product owners, touching on Agile methodologies and tools like Evidence-Based Management and OKRs, which align with the Agile Product Operating Model. However, the primary focus is on personal development rather than a comprehensive exploration of the APOM framework itself.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1503,15 +1512,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses continuous learning and its importance for product owners, which touches on aspects of collaboration and decision-making. However, it primarily focuses on individual development rather than the broader social frameworks and methodologies that characterise social technologies. While there are mentions of tools and techniques that could enhance team dynamics, the overall emphasis is on personal growth and knowledge acquisition rather than fostering collective intelligence or organisational culture.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:40:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of continuous learning for product owners, focusing on tools and techniques rather than the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1554,6 +1554,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on continuous learning for product owners, discussing tools and techniques relevant to their role. While it touches on concepts like evidence-based management and A/B testing, which could relate to early testing and validation, it does not explicitly address the Shift-Left Strategy or its principles. The discussion lacks depth in terms of integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:04:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content focuses heavily on the concept of continuous learning, which is a key aspect of Continuous Improvement. It discusses various tools and techniques that align with the principles of evidence-based management and hypothesis-driven engineering, both of which are integral to Continuous Improvement practices. The depth of discussion is substantial, providing practical advice and examples that illustrate the importance of ongoing learning and adaptation in the role of a product owner. However, while it aligns well with the category, it does not explicitly frame these discussions within the broader context of Continuous Improvement as a systematic approach, which slightly lowers the confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:04:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses continuous learning for product owners, which is relevant to personal development but does not focus on aligning team efforts with organisational goals. While it mentions OKRs, it does not explore their role in creating alignment or ownership within teams, nor does it connect individual contributions to a broader mission. The emphasis is more on personal growth and tools rather than on shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:04:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content focuses heavily on the importance of continuous learning for product owners, which directly aligns with the concept of competence in Agile and DevOps. It discusses strategies for skill development, the significance of staying updated with industry trends, and the necessity of mastering tools and techniques to enhance decision-making and effectiveness. The depth of discussion is substantial, providing practical advice and examples, which reinforces the primary focus on competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:04:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on continuous learning for product owners, discussing tools and techniques relevant to individual development rather than the integration and standardisation of engineering processes as outlined in the One Engineering System framework. While it briefly touches on methodologies like Scrum and Agile, it does not delve into the principles or components of 1ES, nor does it provide insights into its implementation or impact on software quality and delivery timelines.",
     "level": "Ignored"
   }
 }

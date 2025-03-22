@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T10:59:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content primarily discusses Agile concepts and the notion of transformation, without a clear focus on DevOps principles or practices.",
+    "calculated_at": "2025-03-21T20:50:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of change and agility in organisations, touching on themes of continuous improvement and experimentation, which are relevant to DevOps. However, it primarily focuses on agile methodologies and organisational transformation rather than the specific principles and practices of DevOps. The mention of 'DevOps transformation' is brief and serves more as a critique than a discussion of DevOps itself, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -250,11 +253,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:51:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile transformation and organizational change rather than Continuous Delivery principles and practices.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses agility and organisational change but does not specifically address Continuous Delivery principles or practices. While it touches on themes of experimentation and adaptation, which are relevant to Continuous Delivery, it lacks direct mentions and detailed exploration of Continuous Delivery concepts such as automation, rapid feedback, or specific tools. The focus is more on general agility and management practices rather than the specific discipline of Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -390,15 +396,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile concepts and transformation without a clear focus on Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile concepts and transformations without focusing on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1204,11 +1201,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:50:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of agility as an organic evolution rather than focusing on the Agile Product Operating Model or product-centric approaches.",
+    "final_score": 39.0,
+    "reasoning": "The content discusses agility and organisational change but lacks a direct focus on the Agile Product Operating Model. While it touches on themes of continuous experimentation and the need for speed in adapting to change, it does not delve into specific principles or practices of the APOM. The discussion is more general about agility rather than product management, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1429,11 +1429,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile concepts and the idea of evolution in organizations, lacking a focus on evidence-based management principles or practices.",
+    "calculated_at": "2025-03-21T20:51:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses agility and organisational change but lacks direct references to Evidence-Based Management principles. While it touches on the importance of experimentation and adapting to change, it does not provide empirical evidence or metrics that align with the core themes of EBM. The focus is more on philosophical perspectives rather than data-informed decision-making.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1503,6 +1506,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile evolution and organisational change without explicitly addressing the Shift-Left Strategy. While it touches on themes of continuous experimentation and adaptation, it lacks a direct focus on integrating testing, security, or compliance early in the software development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:50:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of embracing change and continuous experimentation, which aligns with the principles of Continuous Improvement. However, while it touches on relevant themes, such as the need for speed and the evolution of management practices, it does not delve deeply into specific Continuous Improvement strategies or frameworks. The focus is more on agility and organisational evolution rather than a structured approach to Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:50:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of embracing change and evolving organisations, which indirectly relates to the concept of Common Goals. However, it lacks explicit mentions of shared objectives or alignment within teams, focusing more on personal insights and general management philosophies. The depth of discussion on Common Goals is minimal, as it does not delve into specific frameworks or techniques that operationalise these goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:50:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of continuous evolution and experimentation in organisations, which aligns with the concept of competence in terms of ongoing learning and adaptation. However, it lacks direct mentions of competence as a primary focus and does not delve deeply into strategies for fostering a culture of competence or the impact of competence on decision-making. The discussion is more about agility and change rather than explicitly addressing competence.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:50:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses agility, organisational change, and management practices without any explicit mention of the One Engineering System (1ES) framework. While it touches on themes of evolution and adaptation in software development, it does not align with the core principles of 1ES, such as standardisation and integration of tools and processes. The discussion lacks depth regarding 1ES, focusing instead on broader agile concepts and personal insights.",
     "level": "Ignored"
   }
 }

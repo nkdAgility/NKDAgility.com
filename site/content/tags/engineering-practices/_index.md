@@ -22,6 +22,9 @@ headline:
   subtitle: 'Best practices for software development: prioritising quality, automation, and iterative improvement for effective delivery and team collaboration.'
   content: Practices that enhance software quality and team efficiency through principles of clean code, automation, and iterative development. Posts should explore topics such as continuous integration, testing methodologies, code reviews, and collaborative workflows, fostering an environment of ongoing improvement and effective delivery.
   updated: 2025-02-13T12:04:44Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

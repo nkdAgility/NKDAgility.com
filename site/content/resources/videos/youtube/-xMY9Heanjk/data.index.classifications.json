@@ -658,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T12:40:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:28:11",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on team dynamics and Agile methodologies rather than Continuous Delivery principles.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses Scrum and Agile practices, focusing on team dynamics and the challenges of working with new Scrum teams. While it touches on concepts like empirical feedback loops, which are relevant to Continuous Delivery, the main focus is on Scrum mechanics rather than Continuous Delivery principles. The discussion lacks depth in Continuous Delivery practices, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -832,15 +835,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T01:46:27",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "calculated_at": "2025-03-21T20:28:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the importance of empirical evidence and the empirical process control in the context of Scrum and Agile methodologies. It highlights the need for teams to understand and leverage empirical loops to improve their performance, which aligns with the principles of Evidence-Based Management. However, the primary focus is on the challenges of working with new Scrum teams rather than a comprehensive exploration of EBM principles, resulting in a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses the importance of empirical processes and data-driven decision-making within the context of Scrum teams, which aligns with Evidence-Based Management principles. However, the primary focus is on Scrum practices rather than a comprehensive exploration of EBM concepts, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1294,11 +1297,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T12:36:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:27:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile methodologies, discussing the challenges of working with Scrum teams rather than the principles and practices of DevOps. While there are mentions of concepts like feedback loops and empirical processes, these are framed within the context of Agile and Scrum, which do not align with the core themes of DevOps. The discussion lacks depth in DevOps-specific practices, making it clear that the content is not centred on DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1484,23 +1490,17 @@
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on empirical processes rather than the principles of Beta Codex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:36:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile practices rather than the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:36:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and the importance of understanding empirical processes, which are relevant to Agile principles, but it primarily focuses on the challenges of working with new Scrum teams rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T20:28:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content primarily discusses the challenges of working with a new Scrum team, focusing on Scrum practices rather than the broader Agile Product Operating Model. While it touches on concepts like empirical process control and product development, it lacks a direct focus on the principles and frameworks of the Agile Product Operating Model. The discussion is more about Scrum mechanics and coaching rather than the integration of agile methodologies with product management principles, which is central to the APOM.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1551,6 +1551,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the challenges of working with new scrum teams and focuses on agile principles rather than the Shift-Left Strategy. While it touches on concepts like feedback loops and empirical processes, it does not explicitly address integrating testing, security, or compliance earlier in the development lifecycle, which are core to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:27:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the challenges of working with new Scrum teams and highlights the importance of understanding empirical processes and feedback loops, which are essential for Continuous Improvement. However, while it touches on the need for teams to evolve and improve, it primarily focuses on the mechanics of Scrum rather than a broader commitment to Continuous Improvement practices. The discussion lacks detailed strategies or frameworks specifically aimed at fostering a culture of Continuous Improvement, which limits its depth in this area.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:28:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the challenges of working with new Scrum teams and highlights the importance of understanding core Agile principles, which indirectly relates to Common Goals. However, it primarily focuses on individual team dynamics and the mechanics of Scrum rather than explicitly addressing shared objectives or strategic alignment. The discussion lacks depth in connecting these concepts to overarching organisational goals, resulting in a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:28:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the challenges of working with new Scrum teams, focusing on their lack of knowledge and expertise in core Scrum principles. It highlights the importance of mastering foundational elements of Scrum and the need for continuous learning and skill development, which aligns well with the concept of competence. The depth of discussion is significant, as it explores the implications of competence on team performance and the transition from novice to mastery. However, while competence is a primary focus, the content also touches on related themes such as team dynamics and Scrum mechanics, which slightly dilutes the overall focus on competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:28:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum and Agile practices, focusing on the challenges of working with new Scrum teams. While it touches on concepts like empirical process control, it does not directly address the One Engineering System framework or its principles. The discussion is centred around Scrum methodology rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

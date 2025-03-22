@@ -33,6 +33,7 @@ sitemap:
 tags:
 - People and Process
 - Agile Transformation
+- Continuous Improvement
 - Organisational Change
 - Pragmatic Thinking
 - Agile Philosophy
@@ -40,7 +41,6 @@ tags:
 - Organisational Agility
 - Organisational Physics
 - Enterprise Agility
-- Agile Strategy
 resourceTypes:
 - video
 categories: []

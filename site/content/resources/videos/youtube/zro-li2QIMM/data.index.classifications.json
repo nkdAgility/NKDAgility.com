@@ -226,11 +226,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T14:27:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:12:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal motivations and informal conversations about agile, lacking a focus on empirical evidence or structured management practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on inviting individuals to discuss agile and technical challenges in a general sense, without explicitly addressing Evidence-Based Management principles or metrics. While it touches on themes of empowerment and community impact, it lacks direct references to empirical decision-making or the specific metrics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -274,11 +277,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T14:27:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile principles and personal motivations rather than Continuous Delivery practices or methodologies.",
+    "calculated_at": "2025-03-21T18:12:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses agile practices and personal empowerment rather than focusing on Continuous Delivery principles. While it touches on themes of collaboration and improvement, it lacks direct mentions of Continuous Delivery, automation, or specific practices related to software delivery cycles.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -1195,11 +1201,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T14:26:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:11:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses agile principles and personal motivations rather than DevOps practices or principles.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on agile practices and technical challenges rather than DevOps specifically. While it touches on themes of collaboration and continuous improvement, which are relevant to DevOps, it lacks direct mentions of DevOps principles or practices. The discussion is more about general empowerment and community impact rather than the specific cultural and operational shifts associated with DevOps.",
     "level": "Ignored"
   },
   "People and Process": {
@@ -1411,11 +1420,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:54:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:12:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal engagement and support in agile contexts without focusing on the Agile Product Operating Model or its principles.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses agile practices and the importance of empowerment and collaboration within organisations, which aligns with some core themes of the Agile Product Operating Model. However, it lacks direct mentions of the APOM framework, specific principles, or detailed discussions on product management practices, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1438,15 +1450,6 @@
     "final_score": 65.0,
     "reasoning": "The content discusses the importance of collaboration, empowerment, and community impact within organisations, which aligns with the core themes of Social Technologies. However, it lacks explicit references to specific frameworks or methodologies, and the depth of discussion on these themes is somewhat limited, focusing more on personal motivation and general encouragement rather than detailed exploration of social technologies.",
     "level": "Secondary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile challenges and personal interactions rather than the principles or implementation of the One Engineering System.",
-    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1488,6 +1491,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on general agile practices and personal engagement rather than explicitly discussing the Shift-Left Strategy. While it touches on themes of empowerment and collaboration, it lacks direct references to integrating testing, security, or compliance early in the development process, which are core to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:11:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses empowerment and fostering a culture of collaboration and continuous improvement, which aligns with the principles of Continuous Improvement. However, it lacks direct mentions of specific Continuous Improvement techniques or frameworks, and the depth of discussion is more focused on general support rather than detailed strategies or empirical evidence.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:11:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of collaboration and empowerment within organisations, which aligns with the principles of Common Goals. However, it primarily focuses on personal engagement and support rather than explicitly defining or detailing Common Goals in the context of Agile or DevOps. The mention of collective success and community impact hints at shared objectives, but the discussion lacks depth in connecting these ideas to specific frameworks or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:11:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of helping others succeed in agile practices and technical challenges, which aligns with the concept of competence. However, it lacks direct mentions of continuous learning or skill development, focusing more on empowerment and community impact. The depth of discussion is moderate, providing insights into the benefits of collaboration and knowledge sharing but not delving deeply into the principles of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:11:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal engagement and support in agile practices rather than discussing the One Engineering System framework. While it touches on agile methodologies, it lacks direct references to 1ES principles, components, or implementation strategies, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

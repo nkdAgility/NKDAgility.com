@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T19:28:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:07:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile and Scrum methodologies, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on agile principles and Scrum training, which are not aligned with the core themes of DevOps. While it mentions agility, it does not discuss DevOps concepts such as collaboration, automation, or shared accountability. The emphasis is on agile methodologies rather than the DevOps philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -91,11 +94,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T19:28:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:07:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile consultancy and Scrum training, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses agile principles and Scrum training without any explicit mention of Evidence-Based Management or its core themes. While it touches on agility, it does not provide empirical evidence or metrics related to decision-making, value delivery, or outcome management, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -336,15 +342,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile and Scrum without a focus on release processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T19:28:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile and Scrum methodologies, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -640,11 +637,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T19:29:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:07:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile and Scrum methodologies, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses agile principles and Scrum, with no direct mention of Continuous Delivery. While it touches on themes of agility and improvement, it does not delve into the specific practices, principles, or benefits of Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -733,11 +733,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T19:29:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:07:16",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile consultancy and training, with a focus on Scrum, rather than the Agile Product Operating Model itself.",
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions agile principles and discusses agility in the context of a specific sport, but it does not focus on the Agile Product Operating Model or its core themes. The references to agile and Scrum are general and do not delve into product management or the specific aspects of the APOM framework.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1467,6 +1470,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on Agile and Scrum methodologies without any explicit mention or discussion of the Shift-Left Strategy. While it touches on themes of collaboration and team improvement, it does not address integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:07:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions agile principles and the role of an agile consultancy, but it does not explicitly discuss Continuous Improvement as a primary focus. While there are references to improving teams and customer experience, the discussion lacks depth and specific strategies related to Continuous Improvement. The connection to the category is weak, as it primarily revolves around agile training and coaching without delving into the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:07:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on agile principles and mentions the importance of a happy and inspired workforce, which aligns with the idea of common goals in fostering collaboration. However, it lacks a direct discussion of common goals, their significance, or specific frameworks like OKRs. The focus is more on agile consultancy services rather than a deep exploration of common goals within Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:07:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions agile principles and the importance of a happy and inspired workforce, which can relate to competence. However, it lacks a direct focus on continuous learning, skill development, or the specific strategies for fostering competence. The discussion is more about agile consultancy and training rather than a deep exploration of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:07:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses agile principles and Scrum, which are not directly related to the One Engineering System framework. While it mentions agility and collaboration, it does not address the specific components or principles of 1ES, nor does it provide any depth on its implementation or impact.",
     "level": "Ignored"
   }
 }

@@ -29,6 +29,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Continuous Improvement
 - Operational Practices
 - Lean Principles
 - Agile Project Management

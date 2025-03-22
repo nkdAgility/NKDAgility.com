@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T23:10:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:27:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM, TFS, and Scrum, without any substantial discussion on Evidence-Based Management principles. While it mentions the importance of customer needs and backlog management, it lacks a clear emphasis on empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T23:10:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:27:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on consulting and training in Visual Studio ALM and Scrum, without a clear emphasis on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM, TFS, and Scrum, which are methodologies and tools rather than core DevOps principles. While there are tangential references to collaboration and backlog management, the overall emphasis is on specific frameworks and training rather than the broader DevOps philosophy of integration, automation, and shared accountability.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -332,25 +338,16 @@
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, without a focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T23:11:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM, TFS, and Scrum, without a focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T04:06:25",
-    "ai_confidence": 32.0,
-    "ai_mentions": 20.0,
-    "ai_alignment": 30.0,
-    "ai_depth": 40.0,
+    "calculated_at": "2025-03-21T21:27:43",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM and Scrum, with limited direct discussion on the Agile Product Operating Model. While it mentions Scrum and touches on backlog management, it lacks a comprehensive exploration of product-centric development principles, value delivery strategies, or the integration of Agile methodologies within the product lifecycle. The discussion is more aligned with technical practices and training rather than a holistic approach to product development.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM, TFS, and Scrum, with minimal direct discussion of the Agile Product Operating Model. While Scrum is mentioned, it is not explored in the context of product management principles or the broader themes of the Agile Product Operating Model. The content lacks depth in discussing the transition from project to product ethos or the integration of agile methodologies with product management, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -427,11 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T23:11:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:27:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM, TFS, and Scrum, with no direct discussion of Continuous Delivery principles or practices. While it mentions Agile methodologies, it does not delve into Continuous Delivery concepts such as automation, rapid feedback, or incremental improvements, which are essential for this category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1533,6 +1533,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM and Scrum, with no explicit discussion of the Shift-Left Strategy or its principles. While there are mentions of backlog management and customer engagement, these do not align with the core themes of integrating testing, security, and compliance early in the software development lifecycle. The content lacks depth in discussing any Shift-Left practices or methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:27:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on offering consulting and training services related to Visual Studio ALM, TFS, and Scrum, with no explicit discussion on Continuous Improvement principles. While there are mentions of backlog management and customer engagement, these are not explored in the context of Continuous Improvement methodologies or practices. The content lacks depth and does not provide empirical evidence or strategies related to Continuous Improvement, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:27:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting consulting and training services related to Visual Studio ALM, TFS, and Scrum. While it mentions Scrum, it does not discuss the concept of Common Goals or their significance in Agile and DevOps frameworks. The content lacks a clear connection to shared objectives or alignment strategies, which are central to the Common Goals category. Therefore, the confidence score reflects minimal relevance to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:27:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on offering consulting and training services in Visual Studio ALM, TFS, and Scrum, which indirectly relates to competence through the provision of expertise and skill development. However, it lacks a direct discussion on the importance of continuous learning or the role of competence in delivering quality outcomes. The mention of training and consulting suggests a surface-level engagement with the concept of competence, but it does not delve into strategies for fostering a culture of competence or the impact of competence on decision-making. Overall, while competence is a theme, it is not the primary focus of the content.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:27:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM, TFS, and Scrum, with no explicit discussion of the One Engineering System framework or its principles. While it mentions Agile methodologies like Scrum, it does not align with the core themes of 1ES, such as integration of tools and processes or best practices for implementing a unified engineering system.",
     "level": "Ignored"
   }
 }

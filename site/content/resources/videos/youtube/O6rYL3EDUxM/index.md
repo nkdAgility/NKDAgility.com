@@ -35,12 +35,12 @@ tags:
 - Working Software
 - Agile Strategy
 - Agile Philosophy
+- Continuous Improvement
 - Agile Project Management
 - Agile Transformation
 - Software Development
 - Pragmatic Thinking
 - People and Process
-- Product Delivery
 resourceTypes:
 - video
 categories:

@@ -23,6 +23,9 @@ headline:
   subtitle: Empowered teams equipped with diverse skills to deliver comprehensive solutions and drive continuous improvement across projects.
   content: Teams composed of diverse skill sets collaborate to enhance problem-solving and innovation, ensuring seamless delivery of value. Posts should explore team dynamics, communication strategies, roles and responsibilities, and methods for fostering a culture of continuous improvement and adaptability in complex environments.
   updated: 2025-02-13T12:05:22Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

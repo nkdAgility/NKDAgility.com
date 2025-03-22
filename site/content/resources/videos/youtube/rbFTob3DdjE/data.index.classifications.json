@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T18:16:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:53:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the use of digital whiteboards in Agile collaboration, specifically within Scrum practices. While it touches on themes of collaboration and engagement, which are relevant to DevOps, it does not explicitly discuss DevOps principles or practices. The discussion lacks depth in terms of DevOps philosophy, automation, or shared accountability, leading to a low confidence score in alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -88,11 +91,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T18:16:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:53:48",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the use of digital whiteboards in Agile collaboration, without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the use of digital whiteboards in Agile collaboration, discussing their benefits for team engagement and interaction. While it touches on aspects of team dynamics and collaboration, it does not explicitly mention Evidence-Based Management principles or metrics. The discussion lacks depth in terms of empirical decision-making or data-informed practices, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -336,15 +342,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses digital whiteboards and their use in Agile collaboration, without a focus on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T18:17:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses digital whiteboards and their use in Scrum, which is not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -655,11 +652,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T18:18:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:53:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses digital whiteboards and their role in Agile collaboration, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the use of digital whiteboards in Agile collaboration, discussing their benefits for team engagement and communication. While it touches on aspects of Agile practices, it does not directly address Continuous Delivery principles, automation, or the delivery of software in reliable cycles. The discussion lacks depth in relation to Continuous Delivery, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -754,11 +754,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T18:19:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:53:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses digital whiteboards and their use in Scrum, but does not focus on the Agile Product Operating Model or its principles.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the use of digital whiteboards in enhancing collaboration within agile teams, which is a tool-centric discussion rather than a direct exploration of the Agile Product Operating Model. While it touches on agile practices and team dynamics, it lacks a comprehensive discussion on the principles and frameworks of APOM, such as transitioning to a product ethos or integrating product management practices. Therefore, the confidence score reflects a low primary focus on the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1488,6 +1491,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the use of digital whiteboards in Agile collaboration, discussing their benefits for team engagement and communication. It does not mention the Shift-Left Strategy or its principles, nor does it address integrating testing, security, or compliance early in the development process. The discussion is centred around collaboration tools rather than the proactive measures associated with the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:53:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the use of digital whiteboards to enhance collaboration and engagement within Agile teams. While it touches on aspects of team dynamics and effectiveness, it does not explicitly discuss Continuous Improvement principles or strategies. The mention of adapting tools and practices hints at a broader theme of improvement, but it lacks depth in exploring Continuous Improvement as a systematic approach. Overall, the content is more about tools and techniques rather than a commitment to ongoing improvement processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:53:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the use of digital whiteboards in enhancing collaboration and engagement within Agile teams, which indirectly relates to the concept of Common Goals. However, it primarily focuses on the tools and personal experiences rather than explicitly addressing shared objectives or strategic alignment. While there are mentions of setting clear objectives and fostering engagement, these points are not deeply connected to the core themes of Common Goals, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:53:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the use of digital whiteboards in enhancing collaboration and engagement within Agile teams. While it touches on aspects of team dynamics and effective practices, it does not explicitly discuss competence as a foundational principle. The mentions of engagement and participation hint at the importance of skills and capabilities, but the depth of discussion does not sufficiently explore continuous learning or professional development, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:53:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the use of digital whiteboards in Agile collaboration, specifically from a Scrum Master's perspective. While it discusses collaboration and engagement, it does not directly address the principles or components of the One Engineering System (1ES) framework, nor does it explore integration of tools and processes across teams. The discussion is more about personal experiences and recommendations regarding digital tools rather than the standardisation and unification of engineering practices that 1ES entails.",
     "level": "Ignored"
   }
 }

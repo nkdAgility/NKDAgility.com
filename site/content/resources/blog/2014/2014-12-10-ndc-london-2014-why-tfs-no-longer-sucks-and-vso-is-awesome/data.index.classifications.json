@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T23:34:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:31:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a demonstration of TFS and VSO, focusing on technical aspects and personal experiences rather than evidence-based management principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the transformation of TFS and VSO, discussing technical aspects and personal experiences rather than evidence-based management principles. While there are mentions of workflows and processes, they do not align with the core themes of EBM, such as empirical decision-making or current value metrics. The discussion lacks depth in relation to EBM concepts, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:39:25",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 30,
-    "ai_depth": 25,
+    "calculated_at": "2025-03-21T21:30:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the use of Team Foundation Server (TFS) and Visual Studio Online (VSO) in the context of a demo, highlighting aspects of deployment, release management, and automation. It mentions automated deployments and the creation of a release pipeline, which are key components of DevOps practices. However, the primary focus is on the demonstration and features of TFS/VSO rather than a broader discussion of DevOps principles or cultural shifts. While there are relevant mentions and some depth in discussing deployment processes, the overall emphasis leans more towards specific tools rather than the holistic integration of people, processes, and tools that characterises DevOps.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses TFS and VSO, which are tools related to software development and deployment, but it primarily focuses on specific features and workflows rather than the broader DevOps philosophy. While there are mentions of automation and release management, the discussion lacks depth in core DevOps principles such as collaboration, shared accountability, and continuous improvement. The content is more aligned with tool-specific discussions rather than the cultural and philosophical aspects of DevOps.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -335,23 +338,17 @@
     "reasoning": "Content primarily discusses the features and functionalities of TFS and VSO, along with personal experiences during a demo, without a focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T23:35:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses TFS and VSO, focusing on personal experiences and technical demonstrations rather than the principles or implementation of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T21:31:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile practices and workflows, particularly in the context of a demo involving TFS and VSO, but it primarily focuses on technical aspects and specific tools rather than a comprehensive discussion on the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the transformation of TFS and VSO, focusing on technical demonstrations and workflows rather than the Agile Product Operating Model itself. While there are mentions of agile practices, such as feedback loops and roles like Product Owner and Tester, the discussion lacks a comprehensive exploration of the APOM principles and does not delve into the broader themes of product management or continuous delivery. The content is more aligned with specific tools and processes rather than the overarching framework of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -430,15 +427,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-11T16:44:00",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T21:31:16",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses aspects of deployment and release management, which are relevant to Continuous Delivery. However, the primary focus is on TFS and VSO, with only brief mentions of Continuous Delivery principles. While there are some relevant details about automated deployment and release pipelines, the overall discussion is more centred on specific tools and experiences rather than a comprehensive exploration of Continuous Delivery methodologies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses aspects of TFS and VSO, including automated deployment and release management, which are relevant to Continuous Delivery. However, the primary focus is on the demonstration of TFS features rather than a comprehensive exploration of Continuous Delivery principles. While there are mentions of automation and deployment, the depth of discussion on Continuous Delivery practices is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -1539,6 +1536,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses a demonstration of TFS and VSO, focusing on Agile practices and release management rather than explicitly addressing the Shift-Left Strategy. While there are mentions of testing and bug workflows, these are not framed within the context of integrating processes earlier in the development lifecycle, which is central to the Shift-Left concept. The discussion lacks depth on the principles, benefits, or specific techniques related to Shift-Left, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:30:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses improvements in TFS and VSO, highlighting updates and enhancements in the development process. However, it primarily focuses on specific features and personal experiences rather than a structured approach to Continuous Improvement principles. While there are mentions of feedback and bug workflows, the overall discussion lacks depth in exploring Continuous Improvement as a systematic practice, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:31:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a personal experience and technical demonstrations related to TFS and VSO, with minimal direct discussion of Common Goals. While it touches on Agile practices, it lacks a clear connection to shared objectives or strategic alignment within teams, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:31:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the transformation of TFS and VSO, focusing on technical demonstrations and workflows. While it touches on aspects of competence, such as the need for preparation and the ability to adapt during demos, it lacks a direct and explicit discussion on continuous learning or skill development. The primary focus is on the tools and processes rather than on fostering a culture of competence or the importance of professional capability.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:31:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses TFS and VSO, focusing on their features and improvements rather than the One Engineering System framework. While there are mentions of workflows and processes, they do not explicitly align with the core principles of 1ES, such as standardisation and integration across teams. The discussion lacks depth in terms of 1ES implementation or its impact on software quality and delivery timelines.",
     "level": "Ignored"
   }
 }

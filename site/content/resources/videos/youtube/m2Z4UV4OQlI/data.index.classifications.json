@@ -661,11 +661,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T04:38:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:52:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of metrics and leadership in organisations, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Evidence-Based Management (EBM) and the use of metrics in leadership rather than discussing Continuous Delivery principles or practices. While it touches on aspects of iterative improvement and data-driven decision-making, it does not explicitly address Continuous Delivery concepts or provide in-depth discussion on its practices.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -835,14 +838,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T19:48:27",
+    "calculated_at": "2025-03-21T17:52:22",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 30,
     "final_score": 81.0,
-    "reasoning": "The content extensively discusses the Professional Agile Leadership - Evidence-Based Management (PAL-EBM) class, highlighting its focus on metrics, transparency, and empirical data in decision-making. It aligns well with the core themes of Evidence-Based Management, such as the importance of data-driven approaches and the impact of metrics on organisational behaviour. The depth of discussion is significant, providing examples and insights into how EBM can transform leadership practices, making it a primary focus rather than a secondary mention.",
+    "reasoning": "The content explicitly discusses the PAL-EBM class, which is centred on Evidence-Based Management principles. It highlights the importance of metrics, empirical data, and the human impact of these metrics, aligning closely with the core themes of EBM. The depth of discussion is substantial, providing examples and insights into how metrics can drive organisational success and avoid negative behaviours, thus demonstrating a strong understanding of EBM concepts.",
     "level": "Primary"
   },
   "Backlog Refinement": {
@@ -1294,11 +1297,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T04:36:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:52:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of metrics and leadership conversations in organisations, with a focus on the PAL EBM class, rather than DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Evidence-Based Management (EBM) and metrics within leadership roles, which are more aligned with Agile methodologies rather than the core principles of DevOps. While there are mentions of collaboration and transparency, the discussion lacks a direct focus on DevOps practices, cultural shifts, or the integration of development and operations teams. The content does not delve deeply into the specific themes of DevOps, such as automation, shared accountability, or continuous improvement, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1483,11 +1489,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:05:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of metrics in an Agile context and how they can impact organisational success, which aligns with the Agile Product Operating Model. However, the primary focus is on the PAL EBM class and its benefits rather than a comprehensive discussion of the Agile Product Operating Model itself.",
+    "calculated_at": "2025-03-21T17:52:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content primarily focuses on the PAL-EBM class and its importance in leadership roles, discussing metrics and their impact on organisational success. While it touches on agile principles and the importance of data-driven decision-making, it does not explicitly address the Agile Product Operating Model or its core themes in depth. The discussion is more aligned with general agile practices rather than the specific framework of APOM.",
     "level": "Tertiary"
   },
   "Beta Codex": {
@@ -1510,15 +1519,6 @@
     "final_score": 65.0,
     "reasoning": "The content discusses the importance of metrics in leadership and decision-making, which aligns with the principles of social technologies. It highlights the role of transparency, collaboration, and the human impact of metrics, which are key themes in the category. However, while it touches on these aspects, the primary focus is on the PAL-EBM class and metrics rather than a broader discussion of social technologies as a framework. The depth of discussion on social frameworks is moderate, leading to a strong but not overwhelming confidence score.",
     "level": "Secondary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:05:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the PAL EBM class and its impact on organisational metrics, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1560,6 +1560,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the Professional Agile Leadership - Evidence-Based Management (PAL-EBM) class and its emphasis on metrics in leadership rather than discussing the Shift-Left Strategy. While it touches on the importance of metrics and transparency, it does not explicitly address integrating testing, security, or compliance earlier in the software development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:52:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of metrics and evidence-based management, which aligns with Continuous Improvement principles. It highlights the need for transparency and data-driven decision-making, and it addresses the iterative adjustment of strategies based on empirical evidence. However, while it touches on these themes, the primary focus is on the PAL-EBM class rather than a broader discussion of Continuous Improvement practices, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:52:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of metrics and evidence-based management in leadership, which indirectly relates to aligning team efforts with organisational goals. However, it primarily focuses on the use of metrics rather than explicitly addressing common goals within Agile and DevOps frameworks. The discussion lacks depth in connecting these metrics to shared objectives or strategic alignment, resulting in a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:52:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of understanding metrics and their impact on organisational success, which aligns with the concept of competence in terms of continuous learning and skill development. It highlights the need for leaders to engage in strategic conversations and make data-driven decisions, reflecting a commitment to professionalism and quality outcomes. However, while competence is a significant theme, the focus is more on metrics and leadership rather than a deep exploration of competence itself, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:52:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the PAL-EBM class and its benefits for leadership in using metrics effectively. While it touches on themes of collaboration and decision-making, it does not explicitly discuss the One Engineering System framework or its principles. The discussion is more aligned with Agile methodologies rather than the integration and standardisation of engineering processes as defined by 1ES.",
     "level": "Ignored"
   }
 }

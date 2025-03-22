@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:40:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:20:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of .NET 4.0 Beta 1 and its features, with no relevance to Evidence-Based Management.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on the installation process of .NET 4.0 Beta 1 and discusses features of the framework without any reference to Evidence-Based Management principles or metrics. There are no mentions of data-informed decision-making or any of the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:40:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:20:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of .NET Framework 4.0, with no focus on DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of .NET 4.0 Beta 1 on Windows Vista, with no discussion of DevOps principles, practices, or cultural shifts. It lacks any mention of collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The content is technical in nature but does not align with the key topics outlined for the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -308,7 +314,7 @@
     "reasoning": "Content primarily discusses the installation process of .NET 4.0 Beta 1 and its features, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:41:20",
     "ai_confidence": 0,
@@ -319,11 +325,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:41:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:20:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on the installation process of .NET Framework and does not discuss Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the installation of .NET 4.0 Beta 1 and does not mention or align with any principles or discussions related to the Agile Product Operating Model. It is strictly technical and product-specific without any reference to agile methodologies or product management practices.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:20:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of the .NET Framework and its features, with no relevance to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of .NET 4.0 Beta 1 and discusses its features, which does not relate to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, automation, or related strategies, and the discussion lacks depth in any relevant areas.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1431,6 +1443,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation process of .NET 4.0 Beta 1 and does not discuss any aspects of the Shift-Left Strategy. There are no mentions of integrating testing, security, or compliance early in the development lifecycle, nor does it provide any insights into the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:20:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the installation process of .NET 4.0 Beta 1 and highlights new features and improvements. While it mentions improvements in installation time compared to previous versions, it does not engage with the principles of Continuous Improvement, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The discussion lacks depth and does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:20:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of .NET 4.0 Beta 1 and discusses its features, which are unrelated to the concept of Common Goals in Agile and DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth in relation to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:20:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation process of .NET 4.0 Beta 1 and discusses its features, but it does not address the concept of competence in Agile, Scrum, or DevOps contexts. There are no explicit mentions of continuous learning, skill development, or the importance of competence in delivering quality outcomes. The discussion lacks depth regarding the principles of professionalism and quality delivery, which are central to the competence category.",
     "level": "Ignored"
   }
 }

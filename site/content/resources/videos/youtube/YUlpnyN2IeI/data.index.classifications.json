@@ -649,11 +649,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T22:03:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum principles and practices, with no clear focus on Continuous Delivery.",
+    "calculated_at": "2025-03-21T19:38:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile methodologies, discussing flexibility and adaptability within those frameworks. While it touches on themes of iterative processes and continuous improvement, it does not explicitly address Continuous Delivery principles, practices, or tools. The discussion is more about Scrum advice rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -826,11 +829,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-11T22:03:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:38:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum advice and personal experiences rather than focusing on Evidence-Based Management principles or empirical data.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum methodologies and the importance of flexibility over rigid adherence to frameworks. While it touches on concepts of adaptability and innovation, it does not explicitly mention Evidence-Based Management or its key topics. The focus remains on Scrum practices rather than data-informed decision-making or empirical evidence, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1279,11 +1285,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T22:01:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum principles and practices, which are not central to DevOps discussions.",
+    "calculated_at": "2025-03-21T19:37:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum, which is a framework within Agile project management, rather than discussing DevOps principles or practices. While it touches on themes of flexibility and adaptability, it does not explicitly mention DevOps or its core concepts such as collaboration, automation, or shared accountability. The discussion is centred around Scrum methodologies, making it largely irrelevant to the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1465,12 +1474,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T22:55:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the flexibility of frameworks like Scrum, which aligns with the Agile Product Operating Model, but it primarily focuses on Scrum practices rather than a comprehensive discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T19:38:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum practices and the importance of flexibility within the Scrum framework, which is more aligned with agile methodologies than the Agile Product Operating Model specifically. While it touches on themes of adaptability and continuous improvement, it lacks a direct focus on product management principles or the broader aspects of the Agile Product Operating Model, such as operational stability, governance, or the integration of Scrum with product management practices.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1488,15 +1500,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum principles and advice, with no clear focus on platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T22:55:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Agile methodologies, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1539,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum principles and the importance of flexibility within Agile methodologies. It does not explicitly mention the Shift-Left Strategy or its core themes, such as early integration of testing, security, or compliance in the software development lifecycle. The focus is on adapting Scrum practices rather than addressing the proactive measures associated with Shift-Left approaches.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:37:52",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability within Scrum, which aligns with the principles of Continuous Improvement. It highlights the need for teams to adapt frameworks to their unique contexts, reflecting a commitment to ongoing enhancement. However, while it touches on Continuous Improvement, it primarily focuses on Scrum practices and advice, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:37:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses flexibility and adaptability within Scrum, which indirectly relates to the concept of Common Goals. However, it primarily focuses on personal reflections and advice rather than explicitly addressing shared objectives or alignment within teams. The mention of aligning strategies with organisational objectives is present but not deeply explored, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:37:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability in Scrum, which indirectly relates to competence by emphasising the need for teams to develop their own strategies and skills. However, it does not explicitly focus on continuous learning or skill development, which are core aspects of competence. The discussion is more about the application of Scrum principles rather than a deep dive into competence as a foundational principle.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:38:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum, discussing its principles and practices without any direct reference to the One Engineering System (1ES). While it touches on themes of flexibility and adaptation, which are relevant to engineering practices, it does not align with the core topics of 1ES such as integration of tools, standardisation, or implementation best practices. The discussion is centred around Scrum methodologies rather than the overarching framework of 1ES.",
     "level": "Ignored"
   }
 }

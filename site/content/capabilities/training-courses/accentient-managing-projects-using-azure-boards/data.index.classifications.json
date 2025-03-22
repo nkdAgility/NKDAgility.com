@@ -88,11 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T07:21:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on training related to Azure Boards and Agile methodologies, without discussing the principles or practices of Evidence-Based Management.",
+    "calculated_at": "2025-03-21T15:03:27",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on Azure Boards and agile project management tools without explicitly discussing Evidence-Based Management principles. While it mentions planning and tracking work, it lacks a clear emphasis on empirical decision-making or metrics related to current value, time to market, or outcome management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -318,15 +321,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content primarily discusses Azure Boards and Agile project management, without a clear focus on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:21:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily focuses on Azure Boards and agile project management without discussing the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -619,11 +613,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T07:21:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T15:03:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on managing projects using Azure Boards, which is related to Agile project management rather than Continuous Delivery.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Azure Boards and agile project management rather than Continuous Delivery specifically. While it mentions planning and tracking work, it lacks explicit discussions on Continuous Delivery principles, automation, or rapid feedback mechanisms. The alignment with Continuous Delivery themes is minimal, and the depth of discussion does not provide substantial insights into Continuous Delivery practices.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on using Azure Boards for project management within an agile framework. While it mentions planning and tracking work, it does not explicitly discuss the Shift-Left Strategy or its principles. The alignment with the category is weak, as it lacks detailed exploration of integrating testing, security, or compliance early in the development process. Overall, the content is more about project management tools than the proactive approach of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T15:03:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions agile practices and teamwork, which are related to Continuous Improvement, but it primarily focuses on the use of Azure Boards for project management rather than discussing Continuous Improvement principles or strategies in depth.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T15:03:18",
+    "ai_confidence": 52.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 48.0,
+    "reasoning": "The content mentions the use of Azure Boards for agile teams, which implies a focus on collaboration and planning. However, it does not explicitly discuss Common Goals or their significance in Agile and DevOps. The alignment with the category is present but not strong, as the content primarily focuses on the tools and training rather than the foundational principles of Common Goals. The depth of discussion is moderate, as it touches on teamwork and collaboration but lacks a thorough exploration of how these elements connect to overarching strategic objectives.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T15:03:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions the use of Azure Boards to empower agile teams, which aligns with the concept of competence in terms of skill development and effective collaboration. However, it lacks a detailed discussion on continuous learning, mastery, or the broader implications of competence in Agile methodologies. The focus is more on the tools and processes rather than on the development of skills and capabilities, which limits the depth of the discussion.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T15:03:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Azure Boards and agile methodologies, with limited direct mention of the One Engineering System (1ES). While it discusses tools for planning and tracking work, it does not delve into the principles or components of 1ES, nor does it address integration across teams or best practices for implementing 1ES. The discussion lacks depth regarding the impact of 1ES on software quality or delivery timelines, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

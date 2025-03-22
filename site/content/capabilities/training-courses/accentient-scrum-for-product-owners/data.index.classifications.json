@@ -88,11 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T00:45:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T15:04:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum roles and practices without focusing on evidence-based management principles or data-driven decision-making.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on enhancing the effectiveness of Product Owners within the Scrum framework, which is more aligned with Agile practices than with Evidence-Based Management. While it mentions driving value, it lacks explicit discussions on empirical evidence, metrics, or data-informed decision-making that are central to EBM. The depth of discussion is limited to Scrum roles and responsibilities without a clear connection to the key topics of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -318,15 +321,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without a focus on release management.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T00:45:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and framework, which is unrelated to the One Engineering System (1ES).",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -619,11 +613,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T00:45:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T15:04:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of Product Owners within the Scrum framework, which does not directly address Continuous Delivery principles or practices. While there may be indirect implications for software delivery, the discussion lacks explicit references to Continuous Delivery concepts, automation, or the importance of rapid feedback and validation from users.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on enhancing the effectiveness of Product Owners within the Scrum framework, with no direct mention or discussion of the Shift-Left Strategy. While there may be some implicit connections to early involvement in the development process, the core themes of integrating testing, security, and compliance earlier in the software lifecycle are not addressed.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T15:04:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on enhancing the effectiveness of Product Owners within the Scrum framework, which is related to team roles and responsibilities rather than Continuous Improvement as a primary focus. While there is a mention of driving value, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation and learning. The alignment with Continuous Improvement concepts is minimal, and the depth of discussion does not provide substantial insights into the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T15:04:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role of Product Owners within Scrum, which is a specific aspect of Agile but does not explicitly discuss Common Goals or their significance in aligning strategy with execution. While it touches on the responsibilities of Product Owners, it lacks a clear connection to shared objectives or the broader implications of Common Goals in Agile and DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T15:04:11",
+    "ai_confidence": 52.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 47.0,
+    "reasoning": "The content focuses on enhancing the effectiveness of Product Owners, which indirectly relates to competence through skill development and understanding responsibilities. However, it lacks explicit discussions on continuous learning or the broader implications of competence in Agile methodologies.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T15:04:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the role of Product Owners, which are not directly related to the One Engineering System framework. There are no explicit mentions of 1ES principles, integration of tools, or standardisation of processes, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

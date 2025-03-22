@@ -33,6 +33,7 @@ sitemap:
 tags:
 - Agile Values and Principles
 - Agile Planning
+- Common Goals
 - People and Process
 - Strategic Goals
 - Agile Leadership
@@ -40,7 +41,6 @@ tags:
 - Software Development
 - Team Motivation
 - Agile Project Management
-- Agile Strategy
 resourceTypes:
 - video
 categories:

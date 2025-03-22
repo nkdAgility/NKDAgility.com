@@ -29,6 +29,7 @@ categories:
 - Scrum
 tags:
 - Agile Project Management
+- Common Goals
 - Working Agreements
 - Transparency
 

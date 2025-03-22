@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T10:44:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:37:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile philosophy and its application, without a focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile practices and their application in product development, with minimal direct mention of DevOps principles. While there are some overlaps in themes such as collaboration and feedback loops, the discussion does not delve into the core aspects of DevOps, such as shared accountability or automation. The emphasis is on Agile methodologies rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -250,11 +253,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T12:22:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:37:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Agile philosophy and personal growth, not on Continuous Delivery principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile practices and their importance in modern product development, with a focus on adaptability and risk mitigation. While it touches on concepts related to Continuous Delivery, such as delivering working products regularly and gathering feedback, it does not explicitly define or delve into Continuous Delivery principles or practices. The discussion remains more aligned with Agile methodologies rather than the specific practices of Continuous Delivery, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -393,15 +399,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile philosophy and principles, but does not focus on Value Stream Management or the flow of value.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T12:22:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily discussing Agile philosophy and its applications rather than topics related to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1225,12 +1222,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the application of agile philosophy and personal growth, without a focus on the Agile Product Operating Model or product-centric development.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T20:37:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 40,
+    "final_score": 64.0,
+    "reasoning": "The content discusses Agile practices and their importance in modern product development, highlighting the shift from traditional project management to a more adaptive approach. However, it lacks a direct focus on the Agile Product Operating Model specifically, as it primarily addresses general Agile principles and practices without delving into the specific frameworks or structures that define APOM. While it touches on relevant themes such as delivering value incrementally and adapting to change, it does not provide in-depth insights into the integration of Agile methodologies with product management principles or the operational aspects of APOM.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1447,11 +1447,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile philosophy and personal growth, not focused on Evidence-Based Management principles or practices.",
+    "calculated_at": "2025-03-21T20:37:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Agile practices and their relevance to modern product development, with a focus on adaptability and risk mitigation. While it touches on concepts like delivering value incrementally and the importance of feedback, it lacks a strong emphasis on empirical evidence or metrics that are central to Evidence-Based Management. The discussion is more about Agile methodologies rather than a direct application of evidence-based practices in management decisions.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1524,6 +1527,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Agile practices and their importance in modern product development but does not explicitly mention the Shift-Left Strategy or its principles. While it touches on concepts like risk mitigation and feedback loops, which are relevant to Shift-Left, the primary focus is on Agile methodologies rather than integrating testing, security, or compliance earlier in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:37:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile practices and their role in adapting to complexity, which aligns with Continuous Improvement principles. However, it primarily focuses on Agile methodologies rather than explicitly addressing Continuous Improvement as a standalone concept. While it mentions the importance of feedback and incremental delivery, it lacks detailed exploration of Continuous Improvement techniques or frameworks, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:37:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile practices and their importance in modern product development, touching on themes of adaptability and value delivery. However, it lacks a direct focus on Common Goals as defined in the category, such as shared objectives or alignment with strategic goals. While it mentions the need for alignment with customer needs, it does not delve deeply into how these align with overarching organisational goals or frameworks like OKRs. The discussion is more about Agile methodologies and their benefits rather than explicitly addressing Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:37:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile practices and their importance in adapting to complexity, which indirectly relates to competence through the need for continuous learning and skill development. However, it lacks explicit discussions on competence as a primary focus, making it more of a secondary theme. The depth of discussion on competence-related strategies is also limited.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:37:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile practices and their relevance in modern product development, without any direct mention or discussion of the One Engineering System (1ES). While it touches on themes of adaptability and efficiency, it does not align with the core principles of 1ES, such as standardisation and integration of tools and processes across teams. The depth of discussion is also limited to Agile methodologies, which are not the focus of the 1ES framework.",
     "level": "Ignored"
   }
 }

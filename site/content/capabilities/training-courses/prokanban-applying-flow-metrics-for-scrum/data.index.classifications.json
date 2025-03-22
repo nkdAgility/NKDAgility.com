@@ -88,12 +88,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T14:59:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses flow metrics and data-driven practices within Scrum, making it relevant to Evidence-Based Management principles, but it is primarily focused on Scrum and flow metrics rather than EBM directly.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on flow metrics within the Scrum framework, which is more aligned with Agile practices than with Evidence-Based Management. While it mentions metrics like Cycle Time, it does not explicitly discuss how these metrics inform decision-making or enhance value delivery based on empirical evidence. The discussion lacks a direct connection to the core themes of EBM, such as current value or unrealised value, and does not provide a comprehensive exploration of how these metrics can lead to data-informed management decisions.",
+    "level": "Ignored"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -318,15 +321,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on flow metrics in Scrum, which is centered around Agile practices rather than the specific topic of release management.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum and flow metrics, which are not related to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -619,11 +613,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T14:59:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily focuses on Scrum practices and flow metrics, which are not central to Continuous Delivery principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and flow metrics, which are related to Agile practices rather than Continuous Delivery. While there is a mention of improving team efficiency and project outcomes, it does not explicitly discuss Continuous Delivery principles, automation, or the specific practices associated with it. The discussion lacks depth in terms of Continuous Delivery concepts, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on flow metrics within the Scrum framework, which does not directly address the Shift-Left Strategy. While there is a mention of improving team efficiency and project outcomes, it lacks explicit discussions on integrating testing, security, or compliance earlier in the development process. The core themes of the Shift-Left Strategy are not aligned with the content's focus on Scrum practices and metrics.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T14:59:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the application of flow metrics within Scrum, which indirectly supports the principles of Continuous Improvement by promoting reflection and adaptation. However, the primary focus is on flow metrics rather than a broader discussion of Continuous Improvement strategies or philosophies. While there is a mention of fostering a reflective learning environment, the depth of discussion on Continuous Improvement concepts is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T14:59:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on flow metrics within the Scrum framework, which is a specific aspect of Agile practices. While it mentions improving team efficiency and project outcomes, it does not explicitly discuss Common Goals or their significance in aligning strategy with execution. The discussion lacks depth regarding how these metrics contribute to shared objectives or overall organisational performance, which are key themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T14:59:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the application of flow metrics in Scrum, which directly relates to the continuous learning and skill development aspect of competence. It highlights the importance of understanding and applying these metrics to improve team efficiency and project outcomes, aligning well with the core themes of competence. The depth of discussion is significant, as it details the course structure and the reflective practices involved, indicating a strong focus on developing professional capabilities. However, while competence is a primary focus, the content is more centred on the specific metrics rather than a broader discussion of competence itself, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T14:59:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and flow metrics, which are specific to Agile practices rather than the One Engineering System framework. While it discusses improving team efficiency and project outcomes, it does not address the principles, integration, or standardisation aspects of 1ES. Therefore, it lacks direct relevance and depth concerning the One Engineering System.",
     "level": "Ignored"
   }
 }

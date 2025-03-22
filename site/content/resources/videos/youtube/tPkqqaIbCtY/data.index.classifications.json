@@ -46,11 +46,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T14:50:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:09:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses user engagement and perceptions of products, lacking a focus on evidence-based management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses user engagement and the importance of empathy and communication, which are relevant to understanding user perception and value delivery. However, it lacks direct references to evidence-based management principles, empirical decision-making, or specific metrics that would align it more closely with the category. The focus is more on qualitative aspects of user relationships rather than data-informed decision-making.",
     "level": "Ignored"
   },
   "Personal": {
@@ -331,20 +334,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:51:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:09:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses user engagement and perceptions of the product rather than the Agile Product Operating Model or its principles.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses user engagement and the importance of empathy and communication in product development, which aligns with some principles of the Agile Product Operating Model, such as continuous improvement and user-centric value. However, it lacks direct mentions of agile methodologies, product management practices, or the specific frameworks associated with APOM, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T14:51:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:09:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses user engagement and perceptions of products, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on user engagement and product perception, which are not central to DevOps principles. While it touches on themes of communication and continuous improvement, these are framed within a product development context rather than the collaborative and automated practices of DevOps. The lack of explicit references to DevOps concepts or practices results in a low confidence score.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -366,15 +375,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses user engagement and perceptions of products, with no clear focus on flow efficiency or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:51:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses user engagement and perceptions of products, with no clear focus on the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -1015,11 +1015,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T15:05:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses user engagement and perceptions of products, with no focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T18:09:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on user engagement and perception rather than Continuous Delivery principles. While it briefly touches on iterative improvements, which is a concept related to Continuous Delivery, it lacks explicit discussions on automation, testing, or deployment practices. The overall emphasis is on user relationships and product value, which does not align closely with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1446,6 +1449,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on user engagement and product perception, with no explicit mention of the Shift-Left Strategy or its principles. While it discusses the importance of user feedback and iterative improvements, these concepts do not directly relate to integrating testing, security, or compliance earlier in the software development lifecycle. Therefore, the content does not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:09:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of user feedback and iterative improvements, which aligns with the principles of Continuous Improvement. However, it primarily focuses on user perception and relationship building rather than a comprehensive exploration of Continuous Improvement methodologies or frameworks. The mention of 'continuous improvements' is brief and lacks depth in discussing specific strategies or empirical evidence related to the category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:09:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses user engagement and the importance of empathy and communication, which are relevant to aligning user needs with product goals. However, it lacks a direct focus on the concept of Common Goals within Agile or DevOps frameworks. The discussion is more centred on user relationships rather than shared objectives that guide decision-making in teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:09:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses user engagement and the importance of empathy and communication, which are indirectly related to competence in terms of understanding user needs and improving product value. However, it lacks a direct focus on continuous learning, skill development, or the professional principles of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:09:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on user engagement and product perception, which are not directly related to the One Engineering System framework. While it touches on aspects of communication and improvement, it lacks explicit discussion of 1ES principles, integration of tools, or standardisation of processes.",
     "level": "Ignored"
   }
 }

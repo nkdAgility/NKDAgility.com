@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T03:01:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:24:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a quick reference guide for testing tools and does not focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a quick reference guide for Visual Studio Team Test, discussing troubleshooting and optimization of testing processes. While it mentions real-world problems and solutions, it does not explicitly address Evidence-Based Management principles or metrics. The discussion lacks depth in relation to EBM themes such as empirical decision-making or outcome management, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T03:01:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:24:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on testing tools and methodologies rather than DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on testing processes within Visual Studio Team Test, which is more aligned with software testing than the broader DevOps philosophy. While it touches on collaboration and problem-solving, it lacks explicit discussions on key DevOps principles such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +326,7 @@
     "reasoning": "Content primarily discusses a quick reference guide for testing in Visual Studio, focusing on practical solutions and workarounds rather than Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T03:02:04",
     "ai_confidence": 0,
@@ -331,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T03:02:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:24:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a testing guide for Visual Studio Team Test, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on testing processes and tools related to Visual Studio Team Test, with no explicit discussion of the Agile Product Operating Model or its principles. While it may touch on aspects of agile methodologies in a broad sense, it does not align with the core themes of APOM, such as product management or continuous delivery. The depth of discussion is limited to practical testing insights, which are not relevant to the APOM framework.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -412,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:24:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a testing guide for Microsoft Visual Studio Team Test, lacking discussions related to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting and optimising testing processes within Visual Studio Team Test, which does not directly address Continuous Delivery principles or practices. While testing is a component of Continuous Delivery, the discussion lacks explicit references to Continuous Delivery concepts, automation in deployment, or the cultural aspects of Continuous Delivery. The content is more about practical testing solutions rather than the broader context of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1461,6 +1473,42 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses testing tools and provides practical solutions for testing issues, which aligns with the Shift-Left Strategy's focus on integrating testing early in the development process. However, it lacks explicit mention of the Shift-Left concept and does not delve deeply into its principles or benefits, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:24:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses troubleshooting and optimizing testing processes, which aligns with the principles of Continuous Improvement. However, it lacks explicit discussions on Continuous Improvement methodologies or frameworks, and the focus is more on practical solutions rather than a systematic approach to improvement. The depth of discussion is limited to practical insights without a broader context of continuous improvement practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:24:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific resource for testing processes and does not discuss Common Goals in Agile or DevOps. While it mentions collaboration and problem-solving, it lacks explicit references to shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:24:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses troubleshooting and optimising testing processes, which relates to competence in terms of skill development and problem-solving. However, it lacks explicit discussions on continuous learning or the broader implications of competence in Agile or DevOps contexts. The depth of discussion is limited to practical solutions rather than a comprehensive exploration of competence as a principle.",
     "level": "Ignored"
   }
 }

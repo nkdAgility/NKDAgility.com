@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:40:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:50:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses enabling feedback support in Team Foundation Server 2012, focusing on configuration steps rather than evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on enabling feedback support in Team Foundation Server 2012, detailing configuration steps and permissions. It does not discuss Evidence-Based Management principles or metrics, nor does it provide empirical evidence or data-informed decision-making insights. The mention of feedback could tangentially relate to user engagement, but it lacks a direct connection to the core themes of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T18:41:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:50:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on enabling feedback support in Team Foundation Server 2012, which is more about configuration and permissions rather than DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on enabling feedback support in Team Foundation Server 2012, which is more about specific configurations and permissions rather than discussing DevOps principles or practices. While it touches on aspects of collaboration and user engagement, it lacks a direct connection to the core themes of DevOps such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -317,7 +323,7 @@
     "reasoning": "Content primarily discusses enabling feedback support in Team Foundation Server 2012, focusing on configuration steps and permissions, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:41:41",
     "ai_confidence": 0,
@@ -328,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:41:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:50:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses enabling feedback support in Team Foundation Server 2012, focusing on technical configurations rather than Agile product development principles or value delivery.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on enabling feedback support in Team Foundation Server 2012, which is a technical guide rather than a discussion on the Agile Product Operating Model. There are no direct mentions of agile principles, product management practices, or the core themes of the APOM. The content lacks depth in relation to the Agile Product Operating Model, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -403,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T18:42:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:50:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses enabling feedback support in Team Foundation Server 2012, which is not directly related to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on enabling feedback support in Team Foundation Server 2012, which is a specific configuration task rather than a discussion on Continuous Delivery principles or practices. While it touches on user engagement and configuration, it lacks direct mentions of Continuous Delivery concepts such as automation, rapid feedback loops, or incremental improvements. The discussion is too narrow and does not explore the broader implications or benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1470,6 +1482,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on enabling feedback support in Team Foundation Server 2012, which is more about configuration and user permissions rather than integrating testing, security, or compliance earlier in the software development lifecycle. There are no direct mentions of Shift-Left principles, and the discussion lacks depth in relation to the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:50:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on enabling feedback support in Team Foundation Server 2012, detailing configurations and permissions. While it touches on user engagement, it lacks a direct discussion on Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation and learning. The content does not align with the core themes of Continuous Improvement, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:50:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for enabling feedback support in Team Foundation Server 2012. While it touches on user engagement, it does not discuss the alignment of strategy with execution or shared objectives that guide decision-making, which are central to the concept of Common Goals. The discussion lacks depth in relation to Agile or DevOps principles, and there are no explicit mentions of frameworks like OKRs or the relationship between strategic and tactical goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:50:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical configurations for enabling feedback support in Team Foundation Server 2012. While it touches on aspects of user permissions and settings, it does not explicitly discuss competence, continuous learning, or skill development. The discussion lacks depth in relation to the principles of professionalism and quality delivery, which are central to the competence category.",
     "level": "Ignored"
   }
 }

@@ -23,6 +23,9 @@ headline:
   subtitle: Empowering software creators with innovative practices and frameworks for enhanced collaboration and delivery efficiency.
   content: Empowering developers through modern engineering practices that enhance collaboration, streamline workflows, and foster continuous improvement. Posts should explore topics such as iterative development, visual management, team dynamics, process optimisation, and the integration of feedback loops to drive effective delivery and innovation.
   updated: 2025-02-13T12:02:17Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

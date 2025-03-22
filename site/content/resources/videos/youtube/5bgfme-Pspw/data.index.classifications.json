@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T23:43:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:48:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of momentum in product delivery and organisational change, without a clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the concept of momentum in product development and agile methodologies, specifically Scrum. While it touches on themes of team collaboration and performance, it does not explicitly discuss DevOps principles or practices. The emphasis is on agile practices rather than the integration of development and operations, which is central to DevOps. Therefore, the alignment with the DevOps category is minimal.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -94,11 +97,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:49:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily discussing the concept of momentum in product delivery and organizational change without providing empirical evidence or explicitly relating to Evidence-Based Management principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concept of momentum in product development and organisational culture, focusing on team dynamics and direction rather than empirical evidence or data-informed decision-making. While it mentions Agile and Scrum, it does not delve into Evidence-Based Management principles or metrics, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -330,15 +336,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses the concept of momentum in product delivery but does not focus specifically on release management processes, strategies, or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the concept of momentum in product delivery and organization change, but does not focus on the One Engineering System or its principles, tools, or practices.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -652,11 +649,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:49:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses momentum in product delivery without specific reference to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concept of 'momentum' in the context of agile teams and product delivery, but it does not explicitly address Continuous Delivery principles or practices. While it touches on themes of team movement and direction, it lacks a focus on automation, incremental improvements, or the specific strategies associated with Continuous Delivery. The discussion is more aligned with general agile methodologies rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -751,14 +751,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T00:10:37",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "calculated_at": "2025-03-21T19:49:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
-    "reasoning": "The content discusses the concept of 'momentum' in the context of product delivery, which aligns with the Agile Product Operating Model's focus on value delivery and team dynamics. However, it lacks direct references to the Agile Product Operating Model itself and does not delve deeply into specific Agile principles or methodologies. The mention of Agile and Scrum is present but is more promotional than analytical, leading to a moderate confidence score.",
+    "final_score": 31.0,
+    "reasoning": "The content discusses the concept of momentum in product development and organisational culture, which is relevant to agile practices. However, it lacks direct references to the Agile Product Operating Model and does not delve into its core principles or frameworks. The focus is more on general agile methodologies and team dynamics rather than the specificities of the APOM.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1515,6 +1515,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the concept of 'momentum' in product delivery and team dynamics, with a focus on Agile and Scrum methodologies. It does not explicitly mention the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is more about team movement and direction rather than integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:48:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses 'momentum' in the context of product development and team performance, which is somewhat related to Continuous Improvement. However, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or specific strategies for fostering a culture of experimentation and learning. The focus is more on the concept of momentum rather than a structured approach to continuous improvement, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:48:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the concept of momentum in product development and team dynamics, which indirectly relates to the idea of shared objectives and direction. However, it lacks explicit references to Common Goals as defined in Agile and DevOps frameworks. While it touches on the importance of moving in the same direction, it does not delve deeply into the strategic alignment or operationalisation of Common Goals, resulting in a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:48:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses 'momentum' in the context of product delivery and team direction, which indirectly relates to competence through the idea of moving towards shared goals. However, it lacks explicit mentions of continuous learning, skill development, or the professional principles that underpin competence. The focus is more on the concept of momentum rather than on competence itself, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:48:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the concept of 'momentum' in product development and agile methodologies, particularly Scrum. While it touches on themes relevant to team performance and direction, it does not explicitly discuss the One Engineering System framework or its principles. The discussion lacks depth regarding integration, standardisation, or the specific impacts of 1ES, leading to a low confidence score in alignment with the category.",
     "level": "Ignored"
   }
 }

@@ -22,14 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-14T22:34:56",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-21T19:05:21",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses Scrum and Agile methodologies, focusing on coaching and feedback loops within a team context. While it briefly mentions DevOps at the end, the main focus is on Scrum practices rather than the integration of development and operations, which is central to DevOps. The discussion lacks depth in DevOps principles, tools, and practices, leading to a low confidence score.",
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses agile methodologies, specifically focusing on Scrum and immersive learning experiences. While it touches on concepts like feedback loops and continuous improvement, which are relevant to DevOps, the overall emphasis is on agile coaching rather than the broader DevOps philosophy. The discussion lacks depth in core DevOps principles such as automation, shared accountability, and cross-functional collaboration, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -100,11 +100,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T19:20:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:05:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning and coaching in Agile methodologies, with a focus on feedback loops and training effectiveness, rather than empirical evidence or data-driven decision-making.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses an immersive learning experience related to Scrum and coaching, with a focus on continuous improvement and feedback loops. However, it lacks explicit references to Evidence-Based Management principles, such as empirical decision-making or metrics related to current value, time to market, or unrealised value. While there are elements of learning and adaptation, the discussion does not centre on data-informed decision-making or the strategic application of evidence in management, which are core to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -357,15 +360,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T19:20:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum coaching and immersive learning experiences, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -706,11 +700,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T19:21:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:05:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on coaching and feedback loops rather than Continuous Delivery principles.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses agile methodologies and the importance of feedback loops and continuous improvement, which are relevant to Continuous Delivery. However, it primarily focuses on immersive learning and coaching rather than the specific principles and practices of Continuous Delivery. The mention of continuous support and improvement aligns somewhat with the category, but the overall focus is more on training and agile coaching rather than on Continuous Delivery itself.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -811,14 +808,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T22:35:49",
+    "calculated_at": "2025-03-21T19:05:38",
     "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 25,
-    "ai_depth": 25,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
     "final_score": 57.0,
-    "reasoning": "The content discusses agile principles and practices, particularly focusing on immersive learning and coaching within agile frameworks like Scrum. However, it primarily centres on training and coaching rather than the broader Agile Product Operating Model. While it touches on continuous improvement and feedback loops, it lacks a comprehensive exploration of product-centric development, value delivery, and cross-functional team dynamics, which are core to the Agile Product Operating Model.",
+    "reasoning": "The content discusses agile methodologies and the importance of continuous improvement and feedback loops, which align with the Agile Product Operating Model. However, it primarily focuses on the EPS immersive learning experience and coaching rather than the broader principles of APOM. While it touches on relevant themes, it does not delve deeply into the specific aspects of the Agile Product Operating Model, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Employee Engagement": {
@@ -1551,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses agile methodologies, specifically the immersive learning experience and Scrum practices, without any explicit mention or focus on the Shift-Left Strategy. While it touches on concepts like feedback loops and continuous improvement, these are general agile principles rather than specific to integrating testing, security, or compliance earlier in the development process. Therefore, the alignment with the Shift-Left Strategy is minimal.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:05:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content explicitly discusses Continuous Improvement in the context of an immersive learning experience, highlighting the importance of feedback loops and iterative learning. It aligns well with the core themes of Continuous Improvement, such as fostering a culture of learning and adapting based on empirical evidence. The depth of discussion is substantial, covering structured feedback, coaching, and the iterative nature of the training process, although it could benefit from more specific strategies or tools related to Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:05:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the EPS immersive learning experience and its potential to enhance team performance, which indirectly relates to the concept of Common Goals. However, it primarily focuses on the learning process and coaching rather than explicitly addressing shared objectives or alignment within Agile frameworks. While there are mentions of continuous improvement and feedback loops, these are more about personal development and training rather than the strategic alignment of goals across teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:05:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of continuous learning and feedback loops, which are essential for developing competence within Agile frameworks. It highlights structured coaching and the iterative nature of learning, aligning well with the core themes of competence. However, while it touches on these aspects, it does not delve deeply into strategies for fostering a culture of competence or the distinction between performative activity and genuine progress, which slightly limits its depth of discussion.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:05:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the EPS immersive learning experience and its relation to Scrum, which is not directly aligned with the One Engineering System framework. While there are mentions of continuous improvement and feedback loops, these concepts are more focused on agile methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES category. The discussion lacks depth regarding the principles and components of 1ES, and does not provide examples or case studies relevant to the category.",
     "level": "Ignored"
   }
 }

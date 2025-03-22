@@ -670,11 +670,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T11:52:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:43:48",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and Scrum practices, with no clear focus on Continuous Delivery methodologies or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses Agile practices, specifically focusing on the pitfalls of gluttony in Agile and Scrum. While it touches on aspects of backlog management and sprint planning, which are relevant to software delivery, it does not explicitly address Continuous Delivery principles or practices. The discussion lacks depth in Continuous Delivery concepts, and the primary focus remains on Agile methodologies rather than the Continuous Delivery framework.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -844,14 +847,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T21:45:44",
+    "calculated_at": "2025-03-21T18:43:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses Agile practices and the importance of prioritisation and value delivery, which are relevant to Evidence-Based Management. However, it primarily focuses on avoiding pitfalls in Agile rather than explicitly applying empirical evidence to enhance decision-making processes. The discussion lacks direct references to EBM principles or techniques for measuring performance, resulting in a lower confidence score.",
+    "reasoning": "The content primarily discusses Agile practices and the pitfalls of gluttony in backlog management, which does not directly address Evidence-Based Management principles. While it touches on prioritisation and value delivery, it lacks a strong focus on empirical evidence or metrics that are central to EBM. The discussion is more about Agile methodologies than data-informed decision-making.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1300,11 +1303,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T11:50:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Agile principles and practices, particularly focusing on Scrum roles and backlog management, without a clear emphasis on DevOps practices or principles.",
+    "calculated_at": "2025-03-21T18:43:26",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on Agile methodologies, specifically discussing the pitfalls of gluttony in Agile and Scrum. While it touches on concepts like prioritisation and value delivery, which are relevant to DevOps, it does not explicitly address DevOps principles or practices. The discussion lacks depth in terms of DevOps culture, automation, or collaboration, leading to a low confidence score in alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1480,11 +1486,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:14:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T18:43:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile principles and practices, particularly focusing on backlog management and value delivery, which are relevant to the Agile Product Operating Model. However, it primarily centres on the concept of 'gluttony' in Agile practices rather than a comprehensive exploration of the Agile Product Operating Model itself.",
+    "final_score": 58.0,
+    "reasoning": "The content primarily discusses the pitfalls of gluttony in Agile, focusing on backlog management and sprint planning. While it touches on Agile principles, it lacks a direct connection to the Agile Product Operating Model, which emphasises a product-oriented mindset and continuous delivery. The discussion is more about Agile practices rather than the integration of product management principles, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Beta Codex": {
@@ -1503,15 +1512,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and practices, specifically focusing on backlog management and team dynamics, without any direct connection to platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:14:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Agile practices and issues related to backlog management, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1554,6 +1554,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile practices and the pitfalls of backlog management, which are not directly related to the Shift-Left Strategy. While there are mentions of prioritisation and value delivery, these concepts do not explicitly address integrating testing, security, or compliance earlier in the development process, which is the core of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:43:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses Agile practices and the importance of prioritisation and realistic planning, which are related to Continuous Improvement. However, it primarily focuses on avoiding pitfalls rather than explicitly promoting a culture of Continuous Improvement or detailing strategies for ongoing enhancement. The mention of backlog grooming and feature audits aligns with Continuous Improvement principles, but the overall emphasis is more on avoiding mistakes than on fostering a proactive improvement culture.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:43:32",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of prioritisation and setting realistic goals within Agile and Scrum, which aligns with the concept of Common Goals. However, it primarily focuses on the pitfalls of gluttony rather than explicitly addressing shared objectives or strategic alignment. The depth of discussion on backlog management and sprint planning provides some insight into how these practices can support common goals, but the overall emphasis is more on avoiding pitfalls than on the foundational principles of Common Goals.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:43:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of maintaining a focused and prioritised backlog, which aligns with the concept of competence in Agile by emphasising the need for continuous improvement and skill development. It highlights strategies for effective sprint planning and the significance of delivering quality outcomes, which are core themes of competence. However, while it touches on these aspects, the primary focus is on the pitfalls of gluttony rather than a deep exploration of competence itself, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:43:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile practices and the pitfalls associated with them, specifically the concept of 'gluttony' in Agile. While it discusses backlog management and sprint planning, it does not mention or align with the principles of the One Engineering System (1ES). The discussion is centred around Agile methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

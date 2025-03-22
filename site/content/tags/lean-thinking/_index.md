@@ -23,6 +23,9 @@ headline:
   subtitle: Optimising workflows by minimising waste and enhancing efficiency through systematic thinking and continuous improvement principles.
   content: A systematic approach to enhancing operational effectiveness by identifying and eliminating non-value-adding activities. Posts should explore workflow optimisation, value stream mapping, process improvement techniques, and the integration of feedback loops to foster a culture of continuous enhancement and responsiveness to change.
   updated: 2025-02-13T12:03:56Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

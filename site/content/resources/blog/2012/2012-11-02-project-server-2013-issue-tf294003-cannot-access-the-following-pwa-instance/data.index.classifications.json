@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T15:18:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:02:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to Project Server and Team Foundation Server, with no direct mention of Evidence-Based Management principles or metrics. While it discusses problem-solving and configuration, it lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery metrics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:30:57",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-22T08:02:15",
+    "ai_confidence": 12.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses a specific issue related to Team Foundation Server and Project Server integration, which touches on aspects of deployment and permissions management. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The focus is primarily on troubleshooting a technical error rather than on the integration of people, processes, and tools that characterise DevOps.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to Project Server and Team Foundation Server, which does not align with the core principles of DevOps. While it touches on integration and permissions, it lacks a broader discussion on DevOps philosophy, practices, or cultural shifts. The mention of TFS and Project Server is more about troubleshooting than about collaboration, automation, or shared accountability, which are central to DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +323,7 @@
     "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server, focusing on error resolution and permissions, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-14T15:19:17",
     "ai_confidence": 0,
@@ -331,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T15:19:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:02:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to Project Server and Team Foundation Server, with no direct mention of agile methodologies, product management principles, or the Agile Product Operating Model. The discussion is centred around permissions and server configurations, which are unrelated to the core themes of APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -406,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T15:19:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:02:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an issue related to Team Foundation Server and Project Server integration, which does not align with the principles or practices of Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to Project Server and Team Foundation Server integration, with no direct discussion of Continuous Delivery principles, practices, or benefits. While it touches on configuration and permissions, it does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or incremental improvements.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1446,6 +1455,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a specific error related to Team Foundation Server and Project Server integration, focusing on troubleshooting and permissions rather than any principles or practices related to the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:02:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to Project Server and Team Foundation Server, with no explicit discussion of Continuous Improvement principles. While it does touch on problem-solving and configuration adjustments, it lacks a broader context of ongoing reflection, adaptation, or empirical evidence that characterises Continuous Improvement. Therefore, it does not align well with the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:02:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to Project Server and Team Foundation Server, with no discussion of Common Goals, Agile, or DevOps principles. It lacks any mention of shared objectives or alignment strategies, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:02:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to Project Server and Team Foundation Server, with no explicit discussion on competence, continuous learning, or skill development. While it touches on the importance of permissions and configurations, it does not align with the core themes of competence as defined in Agile and DevOps methodologies.",
     "level": "Ignored"
   }
 }

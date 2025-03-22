@@ -619,11 +619,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T21:37:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:33:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on using Minecraft as a tool for teaching Scrum principles, with no direct mention or discussion of Continuous Delivery practices. While it touches on Agile methodologies, it does not explore Continuous Delivery's core themes, such as automation, rapid feedback, or software quality. The discussion is centred around educational techniques rather than software delivery practices.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -793,11 +796,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-11T21:38:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:33:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of Minecraft Education for teaching Scrum, without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on using Minecraft Education to teach Scrum methodologies, with no direct discussion of Evidence-Based Management principles or metrics. While it mentions collaboration and complexity, it does not provide empirical evidence or data-informed decision-making related to EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1228,11 +1234,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T21:35:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:33:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on using Minecraft Education Edition to teach Scrum principles, which is not aligned with the core themes of DevOps. While it mentions collaboration and teamwork, it does not discuss DevOps practices, automation, or the cultural shifts necessary for effective DevOps implementation. The emphasis is on Agile methodologies rather than the DevOps philosophy.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1409,22 +1418,16 @@
     "reasoning": "Content primarily discusses the use of Minecraft Education for teaching Scrum, focusing on practical applications rather than the principles of Beta Codex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:41:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, which is unrelated to the principles of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:41:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:33:49",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on using Minecraft Education to teach Scrum, without a clear emphasis on the Agile Product Operating Model or its principles.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on using Minecraft as a tool for teaching Scrum principles rather than discussing the Agile Product Operating Model. While it mentions Agile teams and Scrum, it does not delve into the core themes of APOM, such as product management principles or the transition from project to product ethos. The discussion lacks depth regarding the operational aspects and governance of product delivery, which are central to the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1476,6 +1479,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on using Minecraft Education to teach Scrum principles, with no direct mention or discussion of the Shift-Left Strategy. While it touches on collaboration and complexity in product development, it does not address integrating testing, security, or compliance earlier in the software development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:33:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on using Minecraft Education to enhance the Applying Professional Scrum (APS) course, which is more about practical application and engagement in Agile methodologies rather than Continuous Improvement. While there are elements of improving team collaboration and learning through a new medium, the discussion lacks a direct focus on Continuous Improvement principles, empirical evidence, or strategies for integrating such practices into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:33:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on using Minecraft as a tool for teaching Scrum principles, rather than discussing Common Goals directly. While it mentions collaboration and complexity, it lacks explicit references to shared objectives or strategic alignment within Agile or DevOps frameworks. The discussion is more about the educational methodology than the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:33:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on using Minecraft as a tool for teaching Scrum principles, which indirectly relates to competence through the enhancement of collaborative skills and understanding of complex environments. However, it lacks direct discussions on continuous learning, skill development, or the professional aspects of competence. The mention of complexity and collaboration hints at the importance of competence but does not delve deeply into the foundational principles of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:33:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on using Minecraft Education Edition to teach Scrum principles, which is not aligned with the One Engineering System framework. While it discusses collaboration and Agile practices, it does not address the core themes of 1ES, such as standardisation, integration of tools, or best practices for implementing a unified engineering system.",
     "level": "Ignored"
   }
 }

@@ -241,15 +241,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-11T00:15:59",
-    "ai_confidence": 68.0,
+    "calculated_at": "2025-03-21T16:49:15",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 18.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the importance of understanding and measuring systems to improve decision-making and outcomes, which aligns with the principles of Evidence-Based Management. However, it lacks explicit references to EBM concepts and does not delve deeply into empirical evidence or case studies, resulting in a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses system optimisation and value delivery, which aligns with some principles of Evidence-Based Management. However, it lacks explicit references to empirical decision-making or specific metrics related to current value, time to market, or unrealised value. The focus is more on cultural transformation and general optimisation rather than a rigorous evidence-based approach.",
+    "level": "Tertiary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -292,11 +292,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T15:28:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:49:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses creating a culture of engineering excellence and optimising value delivery, without a clear focus on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses organisational culture and system optimisation but does not explicitly mention Continuous Delivery or its principles. While there are elements related to improving processes and delivering value, the focus is more on general optimisation and cultural change rather than the specific practices and benefits of Continuous Delivery. The depth of discussion on related concepts is moderate, but it lacks a direct connection to Continuous Delivery as a primary focus.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -1499,15 +1502,6 @@
     "reasoning": "Content primarily discusses system optimisation and engineering excellence without a clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T11:57:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses organisational culture and system optimisation without a clear focus on the principles or components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:37:50",
@@ -1584,6 +1578,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses organisational culture and system optimisation but does not explicitly mention the Shift-Left Strategy or its principles. While there are elements of early measurement and optimisation that could align with Shift-Left concepts, the primary focus is on general engineering excellence and value maximisation rather than integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:49:02",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of understanding and optimising systems to achieve engineering excellence, which aligns with the principles of Continuous Improvement. It mentions monitoring systems, creating metrics, and making substantive changes, indicating a focus on iterative processes and data-driven decision-making. However, while it touches on key aspects of Continuous Improvement, it does not delve deeply into specific techniques or frameworks, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:49:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of understanding and optimising systems to achieve organisational goals, which aligns with the concept of Common Goals. However, it primarily focuses on system optimisation and engineering excellence rather than explicitly addressing shared objectives or alignment within Agile and DevOps frameworks. The discussion lacks depth in connecting these ideas to the principles of Common Goals, resulting in a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:49:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of understanding and optimising systems to achieve engineering excellence, which indirectly relates to competence. However, it primarily focuses on organisational culture and system optimisation rather than explicitly addressing continuous learning, skill development, or the core themes of competence. The mention of technical leadership and metrics suggests a connection to competence, but it lacks depth in discussing strategies for fostering a culture of competence or the impact of competence on decision-making.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:49:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses system optimisation and engineering excellence but does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on concepts like understanding workflows and metrics, it lacks a direct focus on the integration and standardisation of engineering processes that characterise 1ES. The discussion is more about general organisational culture and optimisation rather than the specific framework of 1ES.",
     "level": "Ignored"
   }
 }

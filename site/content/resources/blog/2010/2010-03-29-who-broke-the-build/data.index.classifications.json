@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:19:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:00:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses build processes and issues related to software development, lacking a focus on evidence-based management principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses build management and code quality in software development, with no explicit focus on Evidence-Based Management principles. While it touches on the importance of maintaining quality and identifying issues, it lacks a direct connection to empirical decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -139,14 +142,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:38:56",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
+    "calculated_at": "2025-03-22T09:00:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
-    "reasoning": "The content discusses the importance of maintaining a successful build process, which is a key aspect of DevOps practices. It highlights the need for collaboration among developers to ensure builds pass and identifies issues that can lead to build failures. The mention of tools like 'Build Notifications' and the reference to TFS (Team Foundation Server) indicate a focus on automation and continuous integration, aligning well with DevOps principles. However, while the content is relevant, it does not delve deeply into broader DevOps cultural shifts or metrics, which slightly limits its depth.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses build management and the importance of maintaining code quality, which are relevant to DevOps practices. However, it primarily focuses on the technical aspects of build failures and notifications rather than the broader DevOps philosophy, such as collaboration, automation, and shared accountability. While it touches on some principles of DevOps, it lacks a comprehensive exploration of the cultural and process-oriented aspects that define the category.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -338,7 +341,7 @@
     "reasoning": "Content primarily discusses build processes and troubleshooting in software development, lacking a focus on Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:20:12",
     "ai_confidence": 0,
@@ -349,11 +352,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:20:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:00:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses build processes and issues related to software development, without a clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses build management and code quality, which are not central to the Agile Product Operating Model. While it touches on aspects of team responsibility and quality gates, it lacks a direct focus on product management principles or agile methodologies as defined in the APOM framework.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -427,14 +433,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T07:08:12",
+    "calculated_at": "2025-03-22T09:00:26",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
     "final_score": 60.0,
-    "reasoning": "The content discusses the importance of maintaining a passing build and the implications of broken builds, which aligns with Continuous Delivery principles. However, it primarily focuses on the operational aspects of build management rather than the broader methodologies and practices of Continuous Delivery. While it touches on automation and quality assurance, it lacks a comprehensive exploration of Continuous Delivery strategies, metrics, or case studies.",
+    "reasoning": "The content discusses the importance of maintaining build quality and the implications of broken builds, which are relevant to Continuous Delivery. However, it primarily focuses on build management rather than the broader principles and practices of Continuous Delivery. While it touches on aspects like code quality and developer responsibility, it lacks a comprehensive exploration of Continuous Delivery practices, automation, and cultural aspects, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Strategic Goals": {
@@ -1533,6 +1539,42 @@
     "non_ai_confidence": 0,
     "final_score": 56.0,
     "reasoning": "The content discusses the importance of maintaining a passing build and identifies early detection of problems as a key benefit, which aligns with the Shift-Left Strategy. However, it primarily focuses on build management and developer responsibilities rather than explicitly integrating testing, security, or compliance earlier in the development lifecycle. While it touches on relevant themes, it lacks a comprehensive exploration of Shift-Left principles and techniques.",
+    "level": "Tertiary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:00:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of maintaining code quality and the implications of broken builds, which aligns with the principles of Continuous Improvement. However, it primarily focuses on build management rather than a broader discussion on Continuous Improvement practices. While it touches on the need for standards and quality, it lacks depth in exploring strategies for fostering a culture of experimentation or integrating Continuous Improvement into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:00:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses build management and the importance of maintaining code quality, which is somewhat related to team collaboration and accountability. However, it lacks a direct focus on Common Goals as defined in the category. While it touches on the need for ownership of builds and the implications of broken builds, it does not explicitly connect these points to shared objectives or strategic alignment within Agile or DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:00:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of maintaining code quality and the implications of broken builds, which indirectly relates to competence in terms of skill development and quality assurance. However, it lacks a direct focus on continuous learning or strategies for fostering a culture of competence, resulting in a moderate confidence score.",
     "level": "Tertiary"
   }
 }

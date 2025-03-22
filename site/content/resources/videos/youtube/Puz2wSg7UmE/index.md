@@ -32,6 +32,8 @@ sitemap:
   priority: 0.6
 tags:
 - Ability to Innovate
+- Continuous Improvement
+- Evidence Based Management
 - Discovery and Learning
 - Entrepreneurship
 - Evidence Based Leadership
@@ -39,8 +41,6 @@ tags:
 - Metrics and Learning
 - Business Agility
 - Pragmatic Thinking
-- Technical Debt
-- Software Development
 resourceTypes:
 - video
 categories: []

@@ -50,15 +50,6 @@
     "reasoning": "Content primarily discusses evidence-based management and metrics for project success, which does not align with the principles of BetaCodex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:12:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses evidence-based management and metrics for project success, which are not central to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T12:12:38",
@@ -331,14 +322,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-11T13:09:59",
-    "ai_confidence": 82.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 75.0,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content explicitly discusses evidence-based management and its application in measuring progress towards outcomes, which aligns well with the core themes of the category. It mentions metrics and decision-making, which are key aspects of Evidence-Based Management. The depth of discussion is moderate, providing tactical insights but could benefit from more detailed examples or case studies.",
+    "calculated_at": "2025-03-21T17:15:31",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses evidence-based management, detailing its role in defining outcomes and selecting metrics. It aligns well with the core themes of the category, such as empirical decision-making and the importance of data in driving project success. The depth of discussion is substantial, providing practical examples and a structured approach to implementing evidence-based practices.",
     "level": "Secondary"
   },
   "AI and Automation in Agility": {
@@ -1066,11 +1057,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T13:52:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses evidence-based management and metrics for project outcomes, which is not focused on Continuous Delivery principles.",
+    "calculated_at": "2025-03-21T17:15:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses evidence-based management and metrics for project success, which are relevant to software delivery but do not specifically address Continuous Delivery principles or practices. While there are mentions of improving delivery speed and quality, the focus is primarily on outcome definition and metric selection rather than Continuous Delivery itself.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1512,6 +1506,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses evidence-based management and metrics but does not explicitly mention the Shift-Left Strategy or its principles. While it touches on the importance of defining outcomes and using metrics, it lacks a focus on integrating testing, security, or compliance early in the software development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:15:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses evidence-based management and the importance of defining outcomes and metrics, which aligns with the principles of Continuous Improvement. However, while it touches on data-driven decision-making and iterative processes, it lacks a direct focus on Continuous Improvement as a primary theme. The discussion is more centred on project success and metrics rather than a comprehensive exploration of Continuous Improvement strategies or frameworks.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:15:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of defining outcomes and metrics, which aligns with the concept of Common Goals. However, it primarily focuses on evidence-based management rather than explicitly addressing shared objectives within Agile or DevOps frameworks. While there are mentions of aligning outcomes with broader organisational objectives, the depth of discussion on Common Goals is limited, and the primary focus remains on metrics and personal experiences rather than strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:15:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of defining outcomes and metrics, which indirectly relates to competence through the lens of informed decision-making and continuous improvement. However, it lacks a direct focus on skill development or the professional growth aspects of competence, making it a secondary theme rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:15:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on evidence-based management and metrics for project success, which does not directly address the principles or components of the One Engineering System. While it touches on aspects of project management that could relate to software development, it lacks explicit discussion on integration, standardisation, or the specific methodologies of 1ES.",
     "level": "Ignored"
   }
 }

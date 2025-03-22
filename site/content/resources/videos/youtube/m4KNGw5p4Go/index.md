@@ -39,7 +39,7 @@ tags:
 - Agile Philosophy
 - Product Delivery
 - Experimentation
-- Continuous Learning
+- Continuous Improvement
 resourceTypes:
 - video
 categories:

@@ -27,6 +27,7 @@ preview: https://i.ytimg.com/vi/X4QzM00onL4/maxresdefault.jpg
 duration: 66
 isShort: false
 tags:
+- Common Goals
 - Agile Project Management
 - Team Motivation
 - Agile Strategy
@@ -36,7 +37,6 @@ tags:
 - Agile Product Management
 - People and Process
 - Organisational Culture
-- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

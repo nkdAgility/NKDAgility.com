@@ -646,11 +646,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T01:23:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:42:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the Sprint Backlog within the context of Scrum, focusing on its role, elements, and importance for teams. While it touches on aspects of agility and adaptability, it does not directly address Continuous Delivery principles, practices, or tools. The discussion is centred around Scrum methodology rather than Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -829,11 +832,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T01:24:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:42:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the concept of a Sprint backlog within the context of Scrum, focusing on its components and implications for team performance, rather than on evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Sprint Backlog within the context of Scrum, discussing its components and importance for teams. While it touches on concepts like flexibility and adaptability, it does not engage with the core themes of Evidence-Based Management, such as empirical decision-making or metrics for value delivery. The discussion lacks depth in relation to EBM principles, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1273,11 +1279,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T01:22:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T19:42:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Sprint Backlog within the Scrum framework, which is a specific Agile methodology. While it touches on themes of team success and adaptability, it does not engage with the core principles of DevOps, such as collaboration between development and operations, automation, or shared accountability. Therefore, it lacks direct mentions and depth in relation to DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1450,14 +1459,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T23:57:31",
+    "calculated_at": "2025-03-21T19:42:27",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
     "final_score": 31.0,
-    "reasoning": "The content primarily discusses the Sprint Backlog, a specific Scrum artefact, rather than the broader Agile Product Operating Model. While it touches on Agile principles and the importance of flexibility and adaptability, it lacks a direct focus on product-centric development, value delivery, or the integration of Agile methodologies within the product lifecycle. The discussion is more about Scrum practices than the overarching Agile Product Operating Model.",
+    "reasoning": "The content primarily focuses on the Sprint Backlog within the Scrum framework, which is a specific agile practice rather than a discussion on the Agile Product Operating Model. While it touches on agile principles such as flexibility and responsiveness, it does not delve into the broader themes of product management or the transition from project to product ethos that characterise the APOM. The discussion lacks depth in terms of how these concepts integrate into a product-oriented mindset, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1476,15 +1485,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:20:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1527,6 +1527,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the Sprint Backlog within the context of Scrum, focusing on its components and the importance of flexibility in Agile practices. There is no direct mention of the Shift-Left Strategy, nor does it align with its core themes of integrating testing, security, and compliance early in the development process. The discussion lacks depth regarding Shift-Left principles, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:42:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Sprint Backlog within the Scrum framework, discussing its components and importance for team success. While it touches on themes of flexibility and adaptability, which are relevant to Continuous Improvement, it does not explicitly address Continuous Improvement principles or practices. The discussion lacks depth in terms of empirical evidence, data-driven decision-making, or specific strategies for fostering a culture of experimentation, which are key aspects of the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:42:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the Sprint Goal, which is a component of Common Goals in Agile, but it primarily focuses on the Sprint Backlog and its elements. While it touches on the importance of aligning tasks with the Sprint Goal, the overall emphasis is more on the mechanics of the Sprint Backlog rather than a comprehensive exploration of Common Goals as a concept. Therefore, while there is some relevant discussion, it does not fully align with the core themes of Common Goals.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:42:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the Sprint Backlog in Scrum, focusing on its components and importance for team success. While it touches on aspects of team performance and goal setting, it does not explicitly address continuous learning, skill development, or the broader implications of competence in Agile methodologies. The discussion is more about the mechanics of Scrum rather than fostering a culture of competence or professional development.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:42:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Sprint Backlog within the Scrum framework, which is not directly related to the One Engineering System. While it discusses aspects of Agile and team dynamics, it does not address the principles, integration, or implementation of 1ES. The discussion is centred on Scrum practices rather than the standardisation and integration of engineering processes across teams.",
     "level": "Ignored"
   }
 }

@@ -658,15 +658,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-13T14:57:18",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-21T16:56:21",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the importance of a culture of quality and engineering excellence, which are relevant to Continuous Delivery principles. However, it primarily focuses on organisational culture and Agile methodologies rather than the specific practices and methodologies of Continuous Delivery. While CI/CD pipelines are mentioned, they are not the main focus of the discussion, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of building a culture of quality and mentions CI/CD practices, which are relevant to Continuous Delivery. However, the primary focus is on cultural aspects and engineering excellence rather than the specific principles and practices of Continuous Delivery itself. While it touches on automation and quality, it lacks detailed exploration of Continuous Delivery techniques and strategies.",
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -829,11 +829,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T06:00:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:56:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses CI/CD practices and automation in software development, lacking a focus on evidence-based management principles or empirical data application.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of a culture of quality and engineering excellence, which aligns with some principles of Evidence-Based Management, particularly in terms of empirical decision-making and delivering value. However, it primarily focuses on cultural aspects and does not provide specific metrics or data-driven discussions that are central to EBM. The mention of empirical learnings is too vague to strongly support the category, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1475,18 +1478,6 @@
     "reasoning": "Content primarily discusses CI/CD practices and automation in software development, with no clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-03-14T17:13:15",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content discusses the importance of a culture of quality and engineering excellence but does not explicitly mention the One Engineering System (1ES) framework or its principles. While it touches on themes relevant to software quality and organisational culture, it lacks a direct focus on the integration and standardisation of engineering processes as outlined in the 1ES category. The discussion is more about general engineering practices and Agile methodologies rather than the specific components and best practices of 1ES.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:40:22",
@@ -1560,6 +1551,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of a culture of quality and engineering excellence, which aligns with the Shift-Left Strategy's emphasis on integrating quality earlier in the development process. However, it lacks direct mentions of specific Shift-Left practices, techniques, or tools, and does not provide detailed discussions on testing, security, or compliance integration. The focus is more on cultural aspects rather than the specific processes that define the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:56:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of building a culture of quality and technical excellence, which aligns with the principles of Continuous Improvement. It mentions the need for empirical learning and the impact of culture on product quality, indicating a focus on incremental advancements. However, the discussion is more centred on quality culture and engineering excellence rather than a comprehensive exploration of Continuous Improvement practices, which limits the depth of the content in this specific category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:56:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of a culture of quality and technical excellence within organisations, which indirectly relates to the concept of Common Goals. However, it primarily focuses on individual behaviours and cultural aspects rather than explicitly addressing shared objectives or alignment within Agile and DevOps frameworks. The mention of Agile frameworks is brief and does not delve into how they connect to Common Goals, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:56:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of technical excellence and engineering capability, which are directly related to competence. It highlights the need for a culture of quality and continuous improvement, aligning well with the core themes of competence in Agile and DevOps. The depth of discussion is significant, as it provides examples and insights into how organisational culture impacts competence and quality outcomes. However, while competence is a primary focus, the content also touches on broader themes of culture and tools, which slightly dilutes the focus.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:56:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses the importance of a culture of quality and technical leadership in software development, which aligns with some principles of the One Engineering System. However, it primarily focuses on personal experiences and opinions rather than the specific framework of 1ES. There are no direct mentions of 1ES or its components, and the depth of discussion on standardisation and integration of processes is limited.",
     "level": "Ignored"
   }
 }

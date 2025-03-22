@@ -613,11 +613,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T21:33:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:09:54",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Definition of Done, which is not directly related to Continuous Delivery principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the Definition of Done (DoD), which is a concept related to project completion rather than Continuous Delivery. While it may touch on aspects of software delivery, it does not explicitly discuss Continuous Delivery principles, practices, or the role of automation, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -778,11 +781,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T21:34:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:09:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Definition of Done in the context of Scrum, which is not directly related to Evidence-Based Management principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Definition of Done (DoD) within a workshop context, which does not directly address Evidence-Based Management principles. While it may touch on aspects of project completion, it lacks explicit discussions on empirical evidence, data-informed decision-making, or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1379,15 +1385,6 @@
     "reasoning": "Content primarily focuses on the Definition of Done in a Scrum context, which does not align with the principles of BetaCodex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T17:25:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the Definition of Done, which is not central to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:11:40",
@@ -1449,6 +1446,54 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on the Definition of Done in a Scrum context, with no explicit mention or discussion of the Shift-Left Strategy. It lacks alignment with the core themes of integrating testing, security, or compliance early in the development process, and does not provide any depth on the topic of Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:09:45",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the Definition of Done (DoD) within a workshop context, which is more about project completion criteria than Continuous Improvement. While there are elements of team understanding and exercises that could indirectly relate to improvement, the core themes of Continuous Improvement, such as empirical evidence, culture of experimentation, and strategic agility, are not explicitly addressed. The discussion lacks depth and does not provide substantial insights into Continuous Improvement practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:09:47",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the Definition of Done (DoD) rather than discussing Common Goals. While the DoD is relevant to Agile practices, it does not explicitly address shared objectives or alignment within teams, which are central to the concept of Common Goals. The content lacks depth in exploring how the DoD connects to overarching strategic objectives or team alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:09:49",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions the Definition of Done, which is related to project completion but does not explicitly discuss competence or continuous skill development. The focus is more on the workshop structure rather than on fostering a culture of competence or the importance of skills in Agile methodologies.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:09:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Definition of Done (DoD) within a workshop context, which is a specific aspect of Agile methodologies rather than the broader principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion does not align with the core themes of integration, standardisation, or the comprehensive framework of 1ES. The depth of discussion is limited to workshop activities without exploring the implications or practices related to 1ES.",
     "level": "Ignored"
   }
 }

@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:12:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:43:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues and solutions related to Team Foundation Server configuration, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific error in Team Foundation Server 2013 and managing permissions, with no direct mention or discussion of Evidence-Based Management principles. It lacks alignment with the core themes of EBM, such as data-informed decision-making or metrics related to value delivery. The depth of discussion is limited to practical solutions for a technical issue, which does not engage with the strategic aspects of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:02:34",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-22T07:43:01",
+    "ai_confidence": 12.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily discusses permissions and configurations within Team Foundation Server (TFS), which is a tool often used in DevOps environments. However, it lacks explicit discussions on core DevOps principles such as CI/CD, automation, or cultural shifts. While it touches on aspects of team collaboration and permissions management, it does not delve deeply into the broader DevOps practices or metrics, leading to a moderate confidence score.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to Team Foundation Server (TFS) and managing permissions, which does not align with the core principles of DevOps. While it touches on aspects of project management and user permissions, it lacks a discussion on collaboration, automation, or cultural shifts that are central to DevOps. The mention of permissions is too specific and does not reflect a broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +323,7 @@
     "reasoning": "Content primarily discusses technical issues and solutions related to permissions in Team Foundation Server, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:12:56",
     "ai_confidence": 0,
@@ -331,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:12:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:43:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses permissions and configuration issues in Team Foundation Server, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific error in Team Foundation Server 2013 and managing permissions, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or the core themes of APOM. The discussion is technical and project-specific, lacking any depth or alignment with the principles of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -409,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:53:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:43:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on permissions and configuration issues in Team Foundation Server, which is unrelated to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to permissions in Team Foundation Server (TFS) and does not discuss Continuous Delivery principles, practices, or benefits. While it touches on project management and configuration, it lacks any direct mention of Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback. The discussion is narrowly focused on TFS configuration issues, which are not aligned with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1452,6 +1461,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses permission management in Team Foundation Server (TFS) and does not address the Shift-Left Strategy. While it touches on aspects of project administration, it lacks any mention of integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy. The focus is on resolving a specific error and providing solutions related to user permissions, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:43:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific error in Team Foundation Server 2013 and managing permissions, with no explicit discussion on Continuous Improvement principles. While it touches on configuration and user management, it lacks depth in exploring themes such as empirical evidence, experimentation, or strategies for enhancing processes, which are central to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:43:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific error in Team Foundation Server 2013 and managing permissions, which does not directly address the concept of Common Goals in Agile or DevOps. While it touches on project management and permissions, it lacks explicit discussions on shared objectives, alignment, or strategic goals that are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:43:10",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical error in Team Foundation Server 2013 and managing permissions. While it touches on aspects of user permissions and configuration, it does not explicitly discuss competence in terms of continuous learning, skill development, or fostering a culture of competence. The mention of permissions could relate to competence but lacks depth and direct relevance to the core themes outlined in the category definition.",
     "level": "Ignored"
   }
 }

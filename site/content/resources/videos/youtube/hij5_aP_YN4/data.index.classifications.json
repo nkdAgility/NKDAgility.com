@@ -130,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T15:40:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:22:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses agile coaching and community involvement, with only a brief mention of DevOps, making it not central to the topic.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Agile coaching and the importance of community and feedback in that context. While it briefly mentions Agile principles that overlap with DevOps, such as continuous improvement and feedback loops, it does not delve into DevOps-specific practices, cultural shifts, or the integration of development and operations. Therefore, it lacks a strong alignment with the core themes of DevOps.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -172,11 +175,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:35:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:23:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile coaching and community engagement, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile coaching and the importance of community and feedback in personal growth, with only a brief mention of continuous improvement in relation to delivering value to customers. While it touches on themes relevant to Continuous Delivery, such as the need for rapid feedback and adaptation, it does not delve into the specific practices, principles, or tools associated with Continuous Delivery itself.",
     "level": "Ignored"
   },
   "Test First Development": {
@@ -958,11 +964,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:35:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:23:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on the personal development of an agile coach and the importance of community rather than on the Agile Product Operating Model itself.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the role of community and personal growth for Agile coaches, with only brief mentions of Agile principles. While it touches on continuous improvement and customer value, it lacks a direct discussion on the Agile Product Operating Model and its core themes, such as product management integration and operational governance.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1165,11 +1174,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:35:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:23:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of community in agile coaching rather than focusing on evidence-based management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role of community and feedback in Agile coaching, with limited direct references to Evidence-Based Management principles. While it touches on the importance of feedback and continuous improvement, it lacks a strong emphasis on empirical decision-making or specific metrics related to value delivery, time to market, or innovation capacity.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1224,15 +1236,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses agile coaching and community involvement, but does not focus on employee engagement or motivation as a primary theme.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:35:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the role of community in agile coaching, without direct relevance to the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -1494,6 +1497,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the role of community and feedback in Agile coaching, with no direct mention of the Shift-Left Strategy or its principles. While it touches on continuous improvement, it does not discuss integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:22:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of continuous improvement in the context of Agile coaching, highlighting the need for feedback and growth. However, while it touches on the principles of continuous improvement, it primarily focuses on community and personal development rather than providing a comprehensive exploration of continuous improvement strategies or frameworks.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:23:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of community and feedback for Agile coaches, which indirectly relates to the concept of Common Goals. However, it primarily focuses on personal growth and community dynamics rather than explicitly addressing shared objectives or alignment within teams. The mention of delivering value to customers touches on strategic goals but lacks depth in connecting these to overarching organisational objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:23:02",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 38.0,
+    "ai_depth": 29.0,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content discusses the importance of community and feedback in the context of Agile coaching, which aligns with the principles of competence. It emphasises continuous growth, the value of diverse perspectives, and the necessity of feedback for improvement. However, while competence is a significant theme, the primary focus is more on community dynamics rather than a direct exploration of competence itself, leading to a high but not perfect confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:23:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile coaching and the importance of community in personal growth, with no direct mention of the One Engineering System (1ES) or its principles. While it touches on themes of continuous improvement and feedback, which are relevant to software development, it does not discuss the integration or standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

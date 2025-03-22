@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T03:06:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:25:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a book on design patterns and learning techniques, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a book on design patterns and its effectiveness for learners, particularly those with dyslexia. It does not mention Evidence-Based Management or its key topics, nor does it provide any empirical evidence or metrics related to management decisions.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T03:07:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:25:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a book on design patterns and learning principles, with no clear focus on DevOps topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a book on design patterns and learning techniques, with no direct mention of DevOps principles, practices, or cultural shifts. While it touches on effective learning methods, it does not align with the core themes of DevOps, such as collaboration, automation, or shared accountability. The depth of discussion is focused on educational techniques rather than any aspect of DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -317,7 +323,7 @@
     "reasoning": "Content primarily discusses the book 'Head First Design Patterns' and its approach to learning, without any focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T03:07:35",
     "ai_confidence": 0,
@@ -328,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T03:07:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:25:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a book on design patterns and learning techniques, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a book on design patterns and learning techniques, with no direct mention of Agile methodologies, product management, or the Agile Product Operating Model. The themes of the content do not align with the core principles of APOM, and the depth of discussion is minimal, focusing instead on educational methods for developers.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -406,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:25:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a book on design patterns, not directly related to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a book on design patterns and learning techniques, with no direct mention or alignment to Continuous Delivery principles, practices, or discussions.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1434,6 +1446,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a book on design patterns and learning methodologies, with no direct mention or alignment to the Shift-Left Strategy in software development. It focuses on cognitive aspects of learning rather than integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:25:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the learning techniques used in 'Head First Design Patterns' and how they benefit individuals with dyslexia. While it touches on effective learning methods, it does not explicitly discuss Continuous Improvement principles or practices. The mention of improving learning experiences is too vague and does not align with the core themes of Continuous Improvement, such as empirical evidence or organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:25:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the book 'Head First Design Patterns' and its approach to learning, particularly for individuals with dyslexia. It does not address the concept of Common Goals within Agile or DevOps frameworks, nor does it explore shared objectives or alignment strategies. The focus is on personal learning experiences and techniques rather than organisational goals or team alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:25:42",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses a book that enhances learning for developers, particularly those with dyslexia, but it does not explicitly address the concept of competence in terms of continuous skill development or professionalism. While it touches on effective learning techniques, it lacks a direct focus on competence as defined in Agile and DevOps contexts.",
     "level": "Ignored"
   }
 }

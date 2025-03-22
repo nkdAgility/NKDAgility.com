@@ -26,6 +26,7 @@ preview: https://i.ytimg.com/vi/kT9sB1jIz0U/maxresdefault.jpg
 duration: 62
 isShort: false
 tags:
+- Competence
 - Organisational Culture
 sitemap:
   filename: sitemap.xml

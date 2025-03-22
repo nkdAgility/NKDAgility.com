@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T18:41:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:10:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum practices and techniques rather than focusing on Evidence-Based Management principles or empirical data-driven decision-making.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum practices and the flow of work across Sprint boundaries, which is more focused on Agile methodologies rather than Evidence-Based Management. While there are mentions of transparency and empirical process control, these concepts are not explored in the context of data-informed decision-making or the specific metrics outlined in the EBM category. The discussion lacks depth in terms of empirical evidence and does not provide a strong connection to the key topics of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -133,14 +136,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T03:33:13",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "calculated_at": "2025-03-21T21:10:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content primarily discusses Scrum practices and the flow of work across Sprint boundaries, which are more aligned with Agile methodologies than with DevOps principles. While Continuous Delivery (CD) is mentioned, it is not the main focus, and the discussion lacks depth on DevOps practices, tools, or cultural shifts. The content does not sufficiently address the integration of development and operations teams or the broader DevOps framework.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum practices and methodologies, focusing on how to manage work across Sprint boundaries. While it touches on concepts like Continuous Delivery (CD) and automation, which are relevant to DevOps, the main emphasis is on Scrum rather than the broader DevOps philosophy. The discussion lacks depth in core DevOps principles such as collaboration, shared accountability, and cultural shifts, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -341,23 +344,17 @@
     "reasoning": "Content primarily discusses Scrum practices and the flow of work across Sprint boundaries, without a focus on Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T18:42:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum practices and methodologies, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T21:10:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and the flow of work across Sprint boundaries, which relates to Agile principles, but primarily focuses on Scrum rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum practices and the flow of work across Sprint boundaries, which is more focused on Scrum methodology rather than the broader Agile Product Operating Model. While it touches on concepts like Continuous Delivery and the importance of meeting Sprint Goals, it lacks a direct focus on the principles of the Agile Product Operating Model, such as transitioning to a product ethos or integrating product management practices. The depth of discussion on Scrum practices is significant, but it does not sufficiently align with the core themes of APOM.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -430,14 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-11T16:41:14",
+    "calculated_at": "2025-03-21T21:10:44",
     "ai_confidence": 78.0,
-    "ai_mentions": 70.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 70.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
     "final_score": 72.0,
-    "reasoning": "The content discusses Continuous Delivery (CD) in the context of Scrum, highlighting its importance for maintaining a production-ready state and ensuring that teams can deliver working software. It mentions practices that support CD, such as automation, feature flags, and test-driven development, which align well with the principles of Continuous Delivery. However, the primary focus is on Scrum practices, which slightly detracts from the overall emphasis on CD, leading to a high but not perfect confidence score.",
+    "reasoning": "The content discusses Continuous Delivery (CD) in the context of Scrum, highlighting its importance for maintaining flow and delivering working software. While it mentions CD explicitly and connects it to Scrum practices, the primary focus is on Scrum roles and processes rather than a deep exploration of Continuous Delivery principles. The discussion includes some relevant practices that support CD, but it does not provide extensive detail on the broader implications or benefits of Continuous Delivery itself.",
     "level": "Secondary"
   },
   "Strategic Goals": {
@@ -1542,6 +1539,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum practices and the flow of work across Sprint boundaries, which does not directly address the Shift-Left Strategy. While there are mentions of Continuous Delivery and some practices that could relate to early testing and validation, the focus remains on Scrum methodology rather than integrating testing, security, or compliance earlier in the development lifecycle. Therefore, the alignment with the Shift-Left Strategy is minimal.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:10:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses enhancing Scrum processes and the flow of work across Sprint boundaries, which aligns with Continuous Improvement principles. It mentions practices like Continuous Delivery and the importance of maintaining a Definition of Done, indicating a focus on incremental improvements. However, the primary focus is on Scrum mechanics rather than a broader discussion of Continuous Improvement strategies or culture, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:10:27",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of the Sprint Goal and how it provides focus and direction for the team, which aligns with the concept of Common Goals. However, the primary focus is on the mechanics of Scrum and the flow of work across Sprint boundaries rather than a deep exploration of shared objectives or strategic alignment. While it touches on the significance of the Sprint Goal, it does not extensively cover the broader implications of Common Goals in Agile and DevOps frameworks.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:10:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of maintaining a Definition of Done and the need for Continuous Delivery, which are related to competence in delivering quality outcomes. However, while it touches on these aspects, the primary focus is on Scrum processes rather than a deep exploration of competence as a foundational principle. The discussion lacks explicit strategies for fostering a culture of competence or continuous learning, which limits its alignment with the category.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:10:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Scrum practices and methodologies, particularly around the flow of work across Sprint boundaries. While it touches on concepts like Continuous Delivery and transparency, it does not focus on the One Engineering System framework or its principles. The discussion is more aligned with Scrum than with the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

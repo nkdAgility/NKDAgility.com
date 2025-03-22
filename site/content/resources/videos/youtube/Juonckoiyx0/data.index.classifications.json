@@ -664,11 +664,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T05:40:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:58:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses stakeholder engagement in Scrum Sprint reviews, which is more aligned with Agile practices rather than Continuous Delivery. While it touches on aspects of communication and collaboration, it does not explicitly address Continuous Delivery principles, automation, or the delivery of software in reliable cycles. The focus is on improving stakeholder interactions rather than the delivery process itself.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -844,11 +847,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T05:41:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:58:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses stakeholder engagement during Sprint reviews, which is more focused on Scrum practices rather than the principles of Evidence-Based Management.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses stakeholder engagement in Scrum Sprint reviews, which is more aligned with Agile practices than with Evidence-Based Management. While it touches on the importance of understanding stakeholder needs and communication, it lacks a focus on empirical evidence or metrics that are central to EBM. The discussion does not delve into data-informed decision-making or the specific metrics outlined in the EBM definition, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1294,11 +1300,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T05:38:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T18:58:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on stakeholder engagement within the context of Scrum Sprint reviews, which is more aligned with Agile methodologies than DevOps principles. While it briefly touches on concepts like feedback loops, it lacks a comprehensive discussion on core DevOps themes such as automation, shared accountability, or continuous improvement. Therefore, the confidence score reflects a minimal alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1477,12 +1486,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T18:41:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses stakeholder engagement and collaboration during Sprint reviews, which are relevant to Agile principles and product-centric development, but it primarily focuses on Scrum practices rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T18:58:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses stakeholder engagement in Scrum Sprint reviews, which is a specific agile practice rather than a broader discussion on the Agile Product Operating Model. While it touches on themes of collaboration and communication, it lacks a direct focus on the principles and frameworks of APOM, such as transitioning to a product ethos or integrating product management practices. The depth of discussion is limited to engagement strategies rather than a comprehensive exploration of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1500,15 +1512,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T18:41:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on stakeholder engagement during Sprint reviews, which is not aligned with the principles of the One Engineering System.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1551,6 +1554,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses stakeholder engagement during Sprint reviews, which is not directly related to the Shift-Left Strategy. While it touches on aspects of collaboration and communication, it does not address integrating testing, security, or compliance earlier in the development process, nor does it provide any techniques or metrics relevant to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:58:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on stakeholder engagement during Sprint reviews, which is a specific aspect of Agile practices rather than a broader discussion on Continuous Improvement. While it touches on themes like feedback loops and adapting communication styles, it lacks a comprehensive exploration of Continuous Improvement principles, such as empirical evidence, measurable advancements, or strategies for integrating Continuous Improvement into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:58:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses stakeholder engagement during Sprint reviews, which is a tactical aspect of Scrum rather than a direct discussion on Common Goals. While it touches on aligning team efforts with stakeholder interests, it lacks a clear focus on shared objectives or strategic alignment that defines Common Goals. The discussion is more about communication strategies and engagement tactics rather than the foundational principles of aligning strategy with execution within Agile and DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:58:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses stakeholder engagement in Sprint reviews, which is tangentially related to competence but does not focus on the development of skills or capabilities. While it mentions the importance of understanding stakeholder needs and communication, it lacks a direct emphasis on continuous learning or professional development, which are core to the competence category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:58:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses stakeholder engagement in Scrum Sprint reviews, which is a specific Agile methodology. It does not mention the One Engineering System (1ES) framework or its principles, components, or implementation strategies. The focus is on enhancing communication and engagement within a Scrum context, which is outside the scope of 1ES discussions.",
     "level": "Ignored"
   }
 }

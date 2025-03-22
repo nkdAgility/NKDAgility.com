@@ -655,11 +655,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T21:34:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:21:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum and Agile methodologies, focusing on their complexities and challenges rather than Continuous Delivery principles. While there are tangential references to concepts like feedback and value creation, these are not explicitly tied to Continuous Delivery practices. The discussion lacks depth in Continuous Delivery topics such as automation, incremental improvements, or specific tools and frameworks that support Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -838,14 +841,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T01:24:06",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-21T20:21:13",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
-    "reasoning": "The content discusses Scrum and its complexities, touching on concepts like transparency and empirical process control, which are relevant to Evidence-Based Management. However, it primarily focuses on the challenges of understanding and mastering Scrum rather than providing a thorough exploration of EBM principles or empirical data application in decision-making. The discussion lacks specific techniques for measuring performance or case studies, which diminishes its alignment with the core themes of EBM.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Scrum and Agile methodologies, focusing on the challenges of understanding and mastering these frameworks. While it touches on concepts like transparency and the importance of understanding the purpose behind Scrum events, it does not explicitly discuss Evidence-Based Management or its key topics. The references to empirical processes and the need for data-informed decisions are present but are not the main focus of the content. Therefore, the alignment with the Evidence-Based Management category is limited.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1288,11 +1291,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T21:31:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:20:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Agile methodologies, which are not central to DevOps principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum, an Agile framework, rather than DevOps principles. While there are mentions of collaboration and team dynamics, the discussion does not align with the core themes of DevOps, such as automation, shared accountability, or continuous value delivery. The depth of discussion on DevOps is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1481,23 +1487,17 @@
     "reasoning": "Content primarily discusses Scrum and its challenges, rather than focusing on the principles and practices of BetaCodex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:33:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum and Agile methodologies, which are not directly related to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:33:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:21:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Scrum and Agile principles extensively, highlighting the challenges of mastering these frameworks and their implications for product development, but it primarily focuses on Scrum rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Scrum and its complexities rather than the Agile Product Operating Model (APOM). While it touches on agile principles and the importance of value creation, it lacks a direct focus on the APOM framework and its specific components. The discussion is more about Scrum's implementation challenges than about transitioning to a product-oriented mindset or integrating product management practices, which are central to APOM.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1548,6 +1548,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Scrum and Agile methodologies, focusing on their complexities and challenges in implementation. It does not explicitly mention the Shift-Left Strategy or its principles, benefits, or techniques. While there are references to improving processes and understanding within Agile frameworks, these do not align with the proactive integration of testing, security, and compliance earlier in the software development lifecycle that characterises the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:20:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the challenges of mastering Scrum and the importance of understanding its principles, which indirectly relates to Continuous Improvement. However, it primarily focuses on Scrum's complexities rather than explicitly addressing Continuous Improvement practices or strategies. While there are mentions of transparency and the need for a culture of learning, the overall emphasis is on Scrum rather than on Continuous Improvement as a primary focus.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:20:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Scrum and its complexities, touching on aspects of alignment and transparency, which are relevant to Common Goals. However, it primarily focuses on the challenges of understanding and mastering Scrum rather than explicitly addressing shared objectives or strategic alignment within Agile and DevOps frameworks. The mention of OKRs and the importance of transparency hints at Common Goals but lacks a thorough exploration of how these concepts connect to overarching strategic objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:20:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the complexities of mastering Scrum and Agile methodologies, highlighting the importance of understanding underlying principles and values. It addresses the need for continuous learning and skill development, which aligns well with the concept of competence. The depth of discussion on comprehension and the challenges faced in traditional environments further supports this alignment. However, while competence is a significant theme, the focus is somewhat diluted by broader discussions on Scrum and Agile practices, preventing a higher confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:20:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum, an agile framework, rather than discussing the One Engineering System (1ES). While it touches on themes of collaboration and team dynamics, it does not explicitly mention 1ES principles, components, or its impact on software quality and delivery timelines. The discussion is centred around the challenges of mastering Scrum, which is outside the scope of 1ES.",
     "level": "Ignored"
   }
 }

@@ -217,11 +217,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T16:11:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:52:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a change in working location and scheduling, with no mention of Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not discuss any aspects of Evidence-Based Management. There are no direct mentions of EBM concepts, and the content lacks any alignment with the key topics outlined for the category. The depth of discussion is also minimal, as it does not provide any insights or data-informed decision-making related to management practices.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -262,11 +265,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T16:11:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:52:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a temporary change in working location and meeting schedules, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not discuss any aspects of Continuous Delivery. There are no direct mentions of Continuous Delivery principles, practices, or related topics, and the content lacks any depth or alignment with the category's key themes.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -1337,15 +1343,6 @@
     "reasoning": "Content primarily discusses a temporary change in working location and does not address any principles or practices related to BetaCodex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T11:59:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a temporary change in working location and does not address any principles or components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:38:48",
@@ -1419,6 +1416,54 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is a personal update regarding a change in working location and does not discuss any aspects of the Shift-Left Strategy or related software development processes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:51:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not discuss Continuous Improvement principles or practices. There are no direct mentions of Continuous Improvement, nor does it align with the core themes such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is minimal, as it is a straightforward communication about availability rather than a reflection on processes or improvements.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:51:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not discuss any aspects of Common Goals, Agile, or DevOps. While it mentions ongoing commitments to clients, it lacks any explicit connection to shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:51:56",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on a change in working location and logistical details regarding meeting schedules. While it briefly mentions a commitment to supporting teams and projects, it does not delve into discussions about continuous learning, skill development, or the principles of competence as defined in the category. The overall emphasis is on personal circumstances rather than professional competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:51:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not discuss any principles, components, or practices related to the One Engineering System. There are no mentions of integration, standardisation, or software development methodologies, which are core to the 1ES category.",
     "level": "Ignored"
   }
 }

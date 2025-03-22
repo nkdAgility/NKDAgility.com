@@ -88,12 +88,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T00:10:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the Professional Scrum Master course, which includes elements of Evidence-Based Management, such as empiricism and continuous improvement. However, the primary focus is on Scrum principles and training rather than a comprehensive exploration of EBM.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T15:07:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum methodologies and training for Scrum Masters, with no explicit discussion of Evidence-Based Management principles or metrics. While it mentions the importance of measuring progress in a Scrum context, it does not delve into empirical decision-making or the core themes of EBM, such as current value or unrealised value.",
+    "level": "Ignored"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -318,15 +321,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content primarily focuses on Scrum principles and training, without a clear emphasis on release management processes or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T00:12:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum principles and training, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -619,11 +613,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T00:15:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on Scrum principles and training, with no clear discussion on Continuous Delivery practices or methodologies.",
+    "calculated_at": "2025-03-21T15:07:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum methodologies and practices, which are related to Agile project management rather than Continuous Delivery. While there are mentions of improving team collaboration and productivity, the core principles and practices of Continuous Delivery, such as automation in testing and deployment, are not addressed. The discussion lacks depth in Continuous Delivery concepts, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum methodologies and leadership training rather than discussing the Shift-Left Strategy. While it touches on Agile principles, it does not explicitly mention integrating testing, security, or compliance earlier in the development process, which are key aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T15:07:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses fostering a culture of continuous improvement within teams, which aligns with the principles of Continuous Improvement. It mentions strategies for handling impediments and promoting transparency, inspection, and adaptation, which are key aspects of the category. However, the primary focus is on Scrum methodologies rather than a dedicated exploration of Continuous Improvement itself, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T15:07:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Professional Scrum Master course and its objectives, with limited direct discussion on Common Goals. While it touches on team collaboration and the importance of Scrum principles, it lacks a thorough exploration of how these elements align with overarching strategic objectives or the operationalisation of Common Goals within Agile and DevOps frameworks. The depth of discussion on related topics is present, but it does not sufficiently connect to the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T15:07:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the Professional Scrum Master course, which focuses on developing skills and understanding of Scrum principles, aligning well with the concept of competence. It explicitly mentions the importance of continuous improvement, skill development, and fostering a culture of learning, which are key aspects of competence. The depth of discussion is significant, covering various learning objectives and strategies for effective Scrum implementation, indicating a strong emphasis on competence in Agile environments.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T15:07:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Professional Scrum Master course and Scrum methodologies, which are not directly related to the One Engineering System framework. While there are mentions of team collaboration and productivity, these concepts are framed within the context of Scrum rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

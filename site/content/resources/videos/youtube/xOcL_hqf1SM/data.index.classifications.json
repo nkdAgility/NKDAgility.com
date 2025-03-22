@@ -124,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T15:42:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:23:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Agile methodologies, specifically Scrum and Kanban, without a primary focus on DevOps principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Agile coaching, discussing frameworks like Scrum and Kanban, which are methodologies rather than DevOps principles. While there is a brief mention of DevOps in the conclusion, it is not a primary focus. The discussion lacks depth in DevOps concepts such as automation, shared accountability, or continuous improvement, which are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -166,11 +169,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:23:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile coaching and methodologies such as Scrum and Kanban, without focusing on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile coaching and methodologies, with mentions of frameworks like Scrum and Kanban. While it touches on principles relevant to Agile, it does not specifically address Continuous Delivery practices or principles. The discussion lacks depth in Continuous Delivery topics such as automation, rapid feedback, or case studies, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Test First Development": {
@@ -967,11 +973,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:23:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum and other Agile practices without a clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Agile coaching and methodologies like Scrum, Kanban, and Lean, which are related to Agile practices but do not specifically address the Agile Product Operating Model. While it discusses principles and frameworks relevant to Agile, it lacks a direct focus on product management principles, operational stability, or the transition from project to product ethos, which are key aspects of the Agile Product Operating Model. Therefore, the confidence score reflects a moderate alignment with the category, primarily due to the mention of Agile principles and frameworks.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1174,11 +1183,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:23:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile coaching and techniques related to Scrum and Kanban, without a clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile coaching and methodologies, discussing frameworks like Scrum and Kanban without a direct emphasis on Evidence-Based Management principles. While it touches on the importance of understanding principles and practices, it lacks specific references to empirical evidence, metrics, or data-informed decision-making that are central to EBM. The discussion is more about coaching techniques rather than evidence-based practices.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1242,15 +1254,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile coaching, processes, tools, and technical expertise, which are not directly related to employee engagement.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies such as Scrum, Kanban, and Lean, without a focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -1509,6 +1512,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Agile coaching and methodologies, discussing frameworks like Scrum and Kanban without any explicit mention of the Shift-Left Strategy. While it touches on principles and practices relevant to Agile, it does not address integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:23:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile coaching and the importance of knowledge in enhancing team effectiveness, which aligns with Continuous Improvement principles. However, it primarily focuses on coaching techniques and frameworks rather than explicitly addressing Continuous Improvement as a primary topic. The mention of 'experiment and reflect' hints at Continuous Improvement, but the overall depth and direct discussion are limited.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:23:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the knowledge and skills required for Agile coaching rather than explicitly discussing Common Goals. While it touches on frameworks and principles relevant to Agile, it lacks a direct emphasis on shared objectives or alignment within teams, which are central to the Common Goals category. The discussion is more about individual coaching effectiveness and knowledge acquisition than about connecting team efforts to overarching strategic objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:23:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of knowledge and continuous learning in Agile coaching, which aligns well with the principles of competence. It highlights the need for understanding frameworks, principles, and technical expertise, all of which are crucial for demonstrating capability. The depth of discussion on practical recommendations for enhancing coaching skills further supports the focus on competence, although it does not explicitly use the term 'competence' frequently.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:23:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile coaching and methodologies such as Scrum, Kanban, and Lean, which are not directly related to the One Engineering System framework. While it discusses principles and practices relevant to Agile, it does not address the integration or standardisation of engineering processes as outlined in the 1ES category. Therefore, the confidence score reflects a minimal connection to the specified category.",
     "level": "Ignored"
   }
 }

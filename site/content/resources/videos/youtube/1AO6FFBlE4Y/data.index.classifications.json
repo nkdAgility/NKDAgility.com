@@ -661,14 +661,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-13T16:29:01",
+    "calculated_at": "2025-03-21T16:58:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
     "final_score": 57.0,
-    "reasoning": "The content discusses the importance of code quality and its impact on productivity and deployment efficiency, which are relevant to Continuous Delivery. However, it primarily focuses on the costs of poor-quality code and does not explicitly address Continuous Delivery principles or practices. While it mentions branching strategies and the need for continuous integration, these points are not explored in depth, leading to a moderate confidence score.",
+    "reasoning": "The content discusses the importance of code quality and its impact on productivity and brand reputation, which are relevant to Continuous Delivery. However, it primarily focuses on the costs associated with poor-quality code rather than the principles and practices of Continuous Delivery itself. While there are mentions of improving processes and reducing technical debt, the discussion lacks a direct focus on Continuous Delivery practices such as automation, rapid feedback, or specific delivery techniques.",
     "level": "Tertiary"
   },
   "Cross Functional Teams": {
@@ -838,11 +838,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T12:13:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:58:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the costs associated with poor quality code and the impact on productivity and brand reputation, without a focus on evidence-based management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the costs of poor-quality code and the benefits of investing in quality, which aligns with the concept of improving outcomes and productivity. However, it lacks direct references to Evidence-Based Management principles and does not focus on empirical metrics or data-informed decision-making, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1484,15 +1487,6 @@
     "reasoning": "Content primarily discusses the costs associated with poor quality code and the impact on productivity and brand reputation, without a clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:03:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the costs of poor quality code and its impact on productivity and brand reputation, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:41:05",
@@ -1567,5 +1561,53 @@
     "final_score": 65.0,
     "reasoning": "The content discusses the importance of improving code quality and integrating security into the development process, which aligns with the Shift-Left Strategy. However, it primarily focuses on the costs of poor-quality code and general practices for improvement rather than explicitly detailing the Shift-Left approach or its principles. The mention of reducing feedback loops and baking security into the process indicates some alignment, but the overall depth and direct focus on Shift-Left practices are limited.",
     "level": "Secondary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:57:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of improving code quality and its impact on productivity and brand reputation, which aligns with the principles of Continuous Improvement. However, while it touches on relevant themes such as reducing technical debt and enhancing team effectiveness, it does not explicitly frame these discussions within the context of Continuous Improvement methodologies or strategies. The focus is more on the consequences of poor quality rather than a structured approach to ongoing improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:57:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of code quality and its impact on productivity and brand reputation, which indirectly relates to common goals in Agile and DevOps. However, it lacks explicit discussions on shared objectives or alignment strategies, focusing more on the consequences of poor quality rather than how to align team efforts with overarching goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:57:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of high-quality code and its impact on productivity, team morale, and brand reputation, which aligns with the core themes of competence. It mentions strategies for improving code quality, such as reducing branching and investing in engineering excellence, indicating a focus on skill development and continuous improvement. However, while competence is a significant theme, the primary focus is on the costs of poor-quality code rather than a direct exploration of competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:58:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of code quality and its impact on productivity and brand reputation, which are relevant to the principles of the One Engineering System. However, it does not explicitly mention 1ES or its components, nor does it focus on integration and standardisation of engineering processes. The discussion is more centred on general software quality rather than the specific framework of 1ES.",
+    "level": "Ignored"
   }
 }

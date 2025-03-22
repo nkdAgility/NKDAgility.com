@@ -33,13 +33,13 @@ tags:
 - Flow Efficiency
 - Operational Practices
 - Software Development
+- Continuous Improvement
 - Practical Techniques and Tooling
 - Agile Frameworks
 - Agile Project Management
 - Lean Thinking
 - Pragmatic Thinking
 - Value Delivery
-- Lean Principles
 resourceTypes:
 - video
 categories:

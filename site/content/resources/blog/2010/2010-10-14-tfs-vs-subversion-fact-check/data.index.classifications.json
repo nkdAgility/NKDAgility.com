@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:09:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:49:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the comparison between TFS and Subversion, focusing on specific features and user experiences rather than evidence-based management principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the differences between TFS and Subversion, focusing on user experiences and technical features rather than evidence-based management practices. There are no direct mentions of empirical decision-making or metrics related to value delivery, innovation, or outcome management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T00:10:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:48:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the comparison between TFS and Subversion, focusing on version control features rather than DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on comparing TFS and Subversion, which are version control systems, rather than discussing DevOps principles or practices. While there are mentions of collaboration and some aspects of software development processes, the core themes of DevOps, such as automation, shared accountability, and continuous improvement, are not adequately addressed.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +326,7 @@
     "reasoning": "Content primarily discusses the comparison between TFS and Subversion, focusing on specific features and user experiences rather than exploring Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:10:50",
     "ai_confidence": 0,
@@ -331,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:10:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:48:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the comparison between TFS and Subversion, focusing on version control issues rather than Agile product development principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the differences between TFS and Subversion, focusing on version control and source management rather than the Agile Product Operating Model. There are no direct mentions of agile principles, product management practices, or the core themes outlined in the APOM definition.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -412,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:46:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:49:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the comparison between TFS and Subversion, focusing on version control systems rather than Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the differences between TFS and Subversion, focusing on version control aspects rather than Continuous Delivery principles. While it touches on some relevant topics like branching and reverting changes, it lacks a comprehensive exploration of Continuous Delivery practices, automation, or cultural aspects, which are essential for a higher confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1455,6 +1467,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the comparison between TFS and Subversion, focusing on version control features and user experiences. It does not address the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any case studies or tools related to Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:48:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on comparing TFS and Subversion, addressing specific user challenges and misconceptions. While it touches on improvements in TFS 2010, it lacks a comprehensive discussion on Continuous Improvement principles, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The content does not align with the core themes of Continuous Improvement, making it a secondary topic at best.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:48:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on comparing TFS and Subversion, discussing specific features and user experiences rather than addressing the concept of Common Goals within Agile or DevOps frameworks. While it touches on aspects of project management and user challenges, it lacks a clear connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:48:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on comparing TFS and Subversion, discussing specific features and user experiences rather than addressing competence in Agile, Scrum, or DevOps contexts. While there are mentions of user challenges and solutions, these do not directly relate to the continuous development or professionalism aspects of competence.",
     "level": "Ignored"
   }
 }

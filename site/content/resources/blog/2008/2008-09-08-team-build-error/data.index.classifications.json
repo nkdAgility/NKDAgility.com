@@ -73,14 +73,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T07:29:20",
+    "calculated_at": "2025-03-22T09:43:45",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses a build error related to MS Build and Team Foundation Server (TFS), which are tools relevant to DevOps practices. However, the focus is primarily on troubleshooting a specific issue rather than on broader DevOps principles or practices. While there are mentions of build processes and tools, the discussion lacks depth in terms of DevOps concepts such as CI/CD, automation, or cultural shifts. Therefore, it aligns with the category but does not provide a comprehensive exploration of DevOps.",
+    "reasoning": "The content primarily discusses troubleshooting MS Build errors in Visual Studio, which is more focused on specific technical issues rather than the broader principles and practices of DevOps. While it touches on aspects of build processes, it lacks a clear connection to the core themes of DevOps such as collaboration, automation, or shared accountability. The discussion is technical and specific, with minimal relevance to the DevOps philosophy.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +112,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:53:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:43:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to MS Build and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to MS Build errors in Visual Studio, with no direct mention of agile methodologies, product management principles, or the Agile Product Operating Model. It focuses on troubleshooting and solutions for specific software development problems rather than the broader themes of agile product delivery or organisational effectiveness.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -172,11 +175,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:53:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:44:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to MS Build and does not address Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to MS Build errors in Visual Studio, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and does not provide any depth on these topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -242,7 +248,7 @@
     "reasoning": "Content primarily discusses a technical error related to MS Build and does not focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:53:32",
     "ai_confidence": 0,
@@ -907,11 +913,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:36:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:43:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific build error related to Visual Studio and MS Build, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses troubleshooting MS Build errors in Visual Studio, which is more focused on build issues rather than Continuous Delivery practices. While it touches on aspects of software delivery, such as updates and integration, it lacks a direct discussion of Continuous Delivery principles, automation, or cultural aspects. The mention of 'Business Intelligence projects' and 'updating GDR' does not sufficiently align with the core themes of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1455,6 +1464,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a specific build error related to MS Build and does not address the Shift-Left Strategy or its principles. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any techniques, case studies, or tools related to the Shift-Left approach. The focus is on troubleshooting a technical issue rather than on software development strategies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:43:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting MS Build errors in Visual Studio, which does not directly relate to Continuous Improvement principles. While there is a mention of resolving issues and updates, it lacks a clear discussion on empirical evidence, data-driven decision-making, or a culture of experimentation. The content does not provide substantial detail on Continuous Improvement strategies or frameworks, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:43:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses technical issues related to MS Build errors in Visual Studio, with no explicit mention of Common Goals or their significance in Agile or DevOps. While it touches on project management aspects, it lacks a focus on shared objectives or alignment with strategic goals, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:43:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses technical issues related to MS Build errors and solutions for Visual Studio, with no explicit focus on competence, continuous learning, or skill development. While it touches on problem-solving, it does not align with the core themes of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

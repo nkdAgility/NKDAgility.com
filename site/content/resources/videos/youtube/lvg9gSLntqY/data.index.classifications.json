@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T23:38:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:45:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the limitations of traditional project management in complex environments, with a focus on Agile and Scrum methodologies, rather than DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses project management and its limitations in complex environments, focusing on Agile methodologies rather than DevOps principles. While it touches on the need for adaptability in project management, it does not explicitly mention DevOps or its core themes such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -91,11 +94,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T07:25:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:45:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Project Management strategies for complex environments, without a focus on evidence-based principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the limitations of traditional project management in complex environments and suggests agile solutions, but it does not explicitly mention Evidence-Based Management or its key topics. The focus is primarily on Agile methodologies rather than on empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -333,15 +339,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content heavily discusses the challenges of traditional project management in complex environments without focusing on release management practices or topics.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:25:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges of Project Management in complex environments and focuses on Agile methodologies rather than the integration and standardization principles of One Engineering System.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -652,11 +649,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T07:25:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:45:42",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Project Management and its limitations in complex environments, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the limitations of traditional project management in complex environments and advocates for Agile methodologies. While it touches on project management practices, it does not explicitly mention Continuous Delivery or its principles, nor does it explore the specific themes related to Continuous Delivery such as automation, incremental improvements, or rapid feedback. The focus is on Agile solutions rather than the Continuous Delivery framework itself.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -742,11 +742,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T07:25:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:45:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on the limitations of traditional project management in complex environments, with only a brief mention of Agile as an alternative.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the limitations of traditional project management in complex environments, which is tangentially related to agile methodologies. However, it does not explicitly address the Agile Product Operating Model or its core principles. The mention of agile solutions is brief and lacks depth, focusing instead on project management failures rather than a product-oriented mindset or the integration of agile practices with product management.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1491,6 +1494,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the challenges of traditional project management in complex environments, with no direct mention of the Shift-Left Strategy or its principles. While it touches on Agile methodologies, it does not explore the integration of testing, security, or compliance early in the development process, which are key aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:45:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the limitations of traditional project management in complex environments and suggests a shift towards Agile methodologies. However, it does not explicitly mention Continuous Improvement or delve into its principles. The focus is more on the inadequacies of existing project management approaches rather than on the ongoing practice of reflection and adaptation that characterises Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:45:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the limitations of traditional project management in complex environments, which is somewhat tangential to the concept of Common Goals. While it touches on the need for Agile solutions, it does not explicitly mention Common Goals or their significance in aligning strategy with execution. The discussion lacks depth regarding how shared objectives guide decision-making or connect individual contributions to organisational missions, which are key aspects of the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:45:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the limitations of traditional project management in complex environments, hinting at the need for competence in adapting to these challenges. However, it primarily focuses on project management methodologies rather than directly addressing competence as a foundational principle. The mention of Agile solutions suggests a connection to continuous learning, but the depth of discussion on competence itself is minimal.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:45:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the limitations of traditional project management in complex environments and advocates for agile methodologies. It does not mention the One Engineering System (1ES) framework, its principles, or its components. The focus is on project management rather than the integration and standardisation of engineering processes, which is central to 1ES.",
     "level": "Ignored"
   }
 }

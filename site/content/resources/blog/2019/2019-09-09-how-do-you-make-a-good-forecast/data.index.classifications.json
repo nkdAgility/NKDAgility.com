@@ -34,14 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-10T12:31:23",
+    "calculated_at": "2025-03-21T21:08:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
-    "ai_alignment": 30,
+    "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 10,
     "final_score": 66.0,
-    "reasoning": "The content discusses forecasting within an Agile context, touching on metrics and their impact on predictability, which aligns with Evidence-Based Management principles. It mentions empirical metrics like Cycle Time and Throughput, which are relevant to EBM. However, while it provides insights into metrics and their application, it lacks a comprehensive exploration of EBM principles and practices, resulting in a moderate confidence score.",
+    "reasoning": "The content discusses forecasting in agile projects, focusing on metrics that enhance predictability and budget planning. It mentions empirical metrics like Cycle Time, Throughput, and Work In Process, which align with Evidence-Based Management principles. However, the primary focus is on Scrum practices rather than a comprehensive discussion of EBM, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Code and Complexity": {
@@ -130,14 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T03:25:03",
+    "calculated_at": "2025-03-21T21:07:49",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 30,
     "final_score": 32.0,
-    "reasoning": "The content primarily discusses Scrum practices and forecasting within Agile project management, with only a brief mention of transitioning from a project-based to a product-based budget, which aligns with DevOps principles. However, the focus remains on Scrum methodologies rather than core DevOps practices such as CI/CD, automation, or collaboration between development and operations teams.",
+    "reasoning": "The content primarily focuses on agile project management and forecasting within Scrum, which is not directly aligned with the core principles of DevOps. While it briefly touches on the transition from project-based to product-based budgeting, which could relate to DevOps, the overall discussion lacks depth in DevOps practices, automation, and collaboration. The mention of 'DevOps' is minimal and does not serve as a primary focus, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -347,25 +347,16 @@
     "reasoning": "The content discusses forecasting within an agile context, touching on metrics and the transition from project-based to product-based budgeting. While it hints at interconnectedness and complexity in organisational dynamics, it primarily focuses on specific agile methodologies and metrics rather than a holistic exploration of Systems Thinking principles. The mention of transitioning roles and involving stakeholders suggests some alignment with Systems Thinking, but the overall focus remains on linear problem-solving and specific methodologies, which detracts from a stronger classification in this category.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T18:15:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum practices and forecasting in agile projects, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T03:25:08",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-03-21T21:08:06",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses aspects of Agile methodologies, particularly in relation to forecasting and budgeting within Scrum teams. It touches on the transition from project-based to product-based budgeting, which aligns with the Agile Product Operating Model. However, the primary focus is on forecasting techniques and metrics rather than a comprehensive exploration of the Agile Product Operating Model itself. While it does mention the need for a product-centric approach, the depth of discussion on key topics such as cross-functional teams and continuous feedback is limited.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses forecasting in agile projects, touching on metrics and the transition from project-based to product-based budgeting, which aligns with the Agile Product Operating Model. However, the primary focus is on forecasting techniques rather than a comprehensive exploration of APOM principles. The discussion of moving from a team-based to a product-based budget indicates some alignment with APOM, but it lacks depth in covering the broader themes and principles of the model.",
     "level": "Secondary"
   },
   "Organisational Agility": {
@@ -436,11 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T18:16:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:08:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles, forecasting, and project management practices, which are not directly related to Continuous Delivery principles.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses forecasting in agile projects, focusing on Scrum practices and metrics rather than Continuous Delivery principles. While it touches on aspects of predictability and team dynamics, it does not explicitly address Continuous Delivery concepts such as automation, rapid feedback, or deployment strategies. The discussion is more aligned with Agile methodologies than with Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1542,6 +1536,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses forecasting within Agile and Scrum contexts, focusing on metrics and budget considerations rather than integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on Agile principles, it does not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:07:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses forecasting in agile projects and touches on metrics that can improve predictability, which aligns with the principles of Continuous Improvement. However, it primarily focuses on forecasting techniques rather than a broader discussion on Continuous Improvement practices. The mention of transitioning from project-based to product-based budgeting hints at a continuous improvement mindset, but the overall depth and focus on the category are limited.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:07:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses forecasting in agile projects, touching on metrics and budget considerations, which are relevant to the execution of common goals. However, it primarily focuses on forecasting techniques and metrics rather than explicitly discussing the alignment of strategy with execution or shared objectives. While there are mentions of transitioning from project-based to product-based budgeting, the core theme of common goals is not the primary focus, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:08:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses forecasting in agile projects, touching on metrics and their impact on predictability, which indirectly relates to competence in terms of skill development and effective decision-making. However, it lacks a direct focus on continuous learning or the development of capabilities, which are central to the competence category. The discussion is more about practical application rather than fostering a culture of competence or professional growth.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:08:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on agile project management and Scrum practices, discussing forecasting and metrics rather than the One Engineering System framework. While it touches on aspects of predictability and team dynamics, it does not explicitly mention 1ES or its principles, nor does it provide a detailed exploration of integration and standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

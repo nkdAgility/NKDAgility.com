@@ -646,11 +646,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T01:53:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:40:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Kanban strategy and visualization techniques, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban and visualisation techniques within Agile methodologies, without directly addressing Continuous Delivery principles or practices. While it touches on aspects of workflow and team alignment, it lacks explicit discussions on automation, incremental improvements, or the rapid feedback loops that are central to Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -832,11 +835,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T01:53:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:40:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the visualization of work in a Kanban strategy, focusing on team dynamics and workflow definition rather than empirical evidence or data-driven decision-making.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Kanban strategies and visualisation techniques, with only brief mentions of metrics and alignment. While it touches on the importance of clarity and accountability, it lacks a strong emphasis on empirical evidence or data-informed decision-making, which are central to Evidence-Based Management.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1291,11 +1297,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T01:50:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content primarily discusses Kanban strategy and visualization techniques, with only a brief mention of Azure DevOps and Jira, which are tools rather than core DevOps principles.",
+    "calculated_at": "2025-03-21T17:40:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Kanban and Scrum methodologies, discussing visualization and workflow optimisation. While it touches on concepts like accountability and transparency, which are relevant to DevOps, it does not explicitly address the core principles of DevOps as a philosophy or its cultural shifts. The discussion lacks depth in terms of DevOps practices and does not integrate the broader DevOps context, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1475,22 +1484,16 @@
     "reasoning": "Content primarily discusses Kanban strategy and visualisation techniques, with no clear focus on platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:13:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Kanban strategy and visualization techniques, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:13:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the implementation of a Kanban strategy and the importance of visualising work, without a clear focus on the Agile Product Operating Model or its principles.",
+    "calculated_at": "2025-03-21T17:40:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Kanban strategies and visualisation techniques rather than the Agile Product Operating Model. While it touches on agile principles and mentions Scrum, it does not delve into the core themes of the APOM, such as product management integration or continuous delivery. The discussion lacks depth regarding the transition from project to product ethos and does not address the broader implications of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1554,6 +1557,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on visualizing work within a Kanban strategy and does not explicitly discuss the Shift-Left Strategy. While it touches on aspects of collaboration and workflow definition, it lacks a direct connection to integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:40:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of visualizing work in a Kanban strategy, which indirectly relates to Continuous Improvement by emphasising clarity, accountability, and alignment within teams. However, it primarily focuses on visualization techniques rather than a broader discussion on Continuous Improvement principles, such as empirical evidence or systematic strategies for enhancing processes. While it touches on aspects of team effectiveness and alignment, it lacks depth in exploring Continuous Improvement as a holistic practice.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:40:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of alignment within teams, particularly in the context of visualising workflows in Kanban. It highlights the need for shared understanding and clear definitions of workflows, which are essential for achieving common goals. The emphasis on collaboration and defining rules aligns well with the principles of Common Goals in Agile and DevOps. However, while it touches on these themes, the primary focus is on visualization techniques rather than a comprehensive exploration of Common Goals, which slightly lowers the confidence score.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:40:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of visualization in Kanban, which indirectly relates to competence by emphasising clarity, accountability, and alignment within teams. However, it primarily focuses on the mechanics of Kanban rather than explicitly addressing continuous learning or skill development, which are core to the competence category.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:40:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Kanban and Scrum methodologies, discussing visualization and workflow optimisation without directly addressing the principles or components of the One Engineering System. While there are mentions of team alignment and collaboration, these are not explicitly tied to the 1ES framework, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

@@ -25,6 +25,9 @@ headline:
   subtitle: Mapping workflows to uncover bottlenecks and enhance efficiency in delivering value across processes.
   content: Visualising workflows to pinpoint inefficiencies and enhance the flow of value delivery. Posts should explore techniques for mapping processes, identifying bottlenecks, and implementing improvements, drawing on insights from systems thinking, process optimisation, and continuous improvement methodologies.
   updated: 2025-02-13T12:01:18Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

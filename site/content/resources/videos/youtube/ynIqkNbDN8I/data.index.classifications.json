@@ -170,15 +170,6 @@
     "reasoning": "Content primarily focuses on unrealized value and product management techniques without personal anecdotes or individual insights.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-20T18:40:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of unrealized value in product development and emphasizes practices like hypothesis-driven development, which are not central to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Lean": {
     "category": "Lean",
     "calculated_at": "2025-02-20T18:40:50",
@@ -787,11 +778,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-20T18:40:50",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the concept of unrealized value within the framework of evidence-based management, emphasizing empirical validation and decision-making based on data.",
+    "calculated_at": "2025-03-21T16:43:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses 'unrealised value' within the context of evidence-based management, highlighting its importance in product development. It aligns well with the core themes of empirical decision-making and understanding market needs, although it does not cover all key topics in depth. The discussion on hypothesis-driven development and market understanding adds to its relevance, but the overall focus is somewhat narrow, primarily centred on unrealised value.",
     "level": "Secondary"
   },
   "Lean Thinking": {
@@ -1198,12 +1192,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-20T18:40:50",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses deployment frequency and feedback loops, which are related to Continuous Delivery, but the primary focus is on unrealized value and product management, making CD a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T16:43:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of deployment frequency and feedback loops, which are relevant to Continuous Delivery. However, the primary focus is on unrealised value and hypothesis-driven development, with only a brief mention of Continuous Deployment. The overall discussion does not deeply explore Continuous Delivery principles or practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1425,6 +1422,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the concept of unrealised value in product development and the importance of market understanding and hypothesis-driven practices. While it touches on aspects of feedback loops and deployment frequency, it does not explicitly address the Shift-Left Strategy or its core principles, such as integrating testing, security, and compliance early in the development process. Therefore, the alignment with the Shift-Left Strategy is minimal.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:43:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the concept of unrealised value and the importance of market understanding, which aligns with Continuous Improvement principles. It emphasises hypothesis-driven development and the need for continuous learning and adaptation, reflecting a commitment to improving product strategies. However, while it touches on relevant themes, it does not explicitly focus on Continuous Improvement as a primary topic, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:43:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the concept of unrealised value and its importance in product development, which indirectly relates to aligning team efforts with user needs. However, it lacks a direct focus on Common Goals as defined in Agile and DevOps frameworks. The discussion is more centred on market understanding and hypothesis-driven development rather than on shared objectives or strategic alignment within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:43:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of understanding user needs and validating assumptions through hypothesis-driven development, which aligns with the principles of competence in continuous learning and skill development. However, the primary focus is on unrealised value and market insights rather than directly addressing competence as a foundational principle. The depth of discussion on competence-related themes is moderate, but it does not fully centre on the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:43:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of unrealised value in product development and hypothesis-driven practices, which are not directly related to the One Engineering System framework. While there are mentions of product strategy and user feedback, these discussions do not align with the core principles of 1ES, such as standardising and integrating software development practices across teams. The content lacks depth in discussing the integration of tools, processes, or methodologies that are central to 1ES.",
     "level": "Ignored"
   }
 }

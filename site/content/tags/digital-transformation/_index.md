@@ -24,6 +24,9 @@ headline:
   subtitle: Embracing innovative technologies to enhance organisational responsiveness and foster continuous improvement.
   content: Harnessing cutting-edge digital technologies to enhance organisational adaptability and stimulate innovation. Posts should explore the integration of data-driven decision-making, process optimisation, and customer-centric approaches, while addressing the challenges of complexity and fostering a culture of continuous learning and improvement.
   updated: 2025-02-13T12:04:55Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

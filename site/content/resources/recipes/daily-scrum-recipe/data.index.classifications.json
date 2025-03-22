@@ -250,11 +250,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T09:45:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:14:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the Daily Scrum event within the Scrum framework, focusing on its purpose, structure, and facilitation techniques, rather than on evidence-based management principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the Daily Scrum event within the Scrum framework, discussing its purpose, structure, and facilitation techniques. While it touches on aspects of transparency and collaboration, which are relevant to Evidence-Based Management, it lacks a direct emphasis on empirical decision-making or the specific metrics outlined in the EBM category. The discussion is more about Scrum practices than about using data to inform management decisions, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -298,11 +301,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-13T09:45:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:14:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Daily Scrum event within the Scrum framework, discussing its purpose, structure, and facilitation techniques. While it touches on aspects of collaboration and transparency, it does not explicitly address Continuous Delivery principles, practices, or benefits. The discussion is centred around Scrum practices rather than Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -1481,15 +1487,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on the Daily Scrum process rather than the principles of BetaCodex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:11:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the Daily Scrum event within the Scrum framework, which is not related to the One Engineering System (1ES) principles or practices.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:12:12",
@@ -1563,6 +1560,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the Daily Scrum event within the Scrum framework, discussing its purpose, structure, and facilitation techniques. While it touches on aspects of proactive management and collaboration, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is more aligned with Agile practices rather than the specific integration of testing, security, or compliance earlier in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:14:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the Daily Scrum, which is a key event in the Scrum framework, focusing on collaboration and strategic planning. While it touches on aspects of reflection and adaptation, it does not explicitly frame these discussions within the broader context of Continuous Improvement. The content provides some depth regarding the Daily Scrum's purpose and practices, but it lacks a comprehensive exploration of Continuous Improvement principles, such as empirical evidence or a culture of experimentation.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:14:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the Daily Scrum and its role in achieving the Sprint Goal, which aligns with the concept of Common Goals. However, while it mentions the importance of collaboration and strategising towards the Sprint Goal, it does not deeply explore the broader implications of Common Goals within Agile and DevOps frameworks. The focus is primarily on the mechanics of the Daily Scrum rather than on aligning team efforts with overarching strategic objectives.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:14:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the Daily Scrum and its purpose in the Scrum framework, focusing on collaboration and strategic planning. While it touches on aspects of competence, such as the need for Developers to reflect on their progress and adapt practices, it primarily centres on the mechanics of the Daily Scrum rather than a deep exploration of competence as a foundational principle. The discussion lacks a strong emphasis on continuous learning or skill development, which are key themes of the competence category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:14:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Daily Scrum event within the Scrum framework, discussing its purpose, structure, and facilitation techniques. While it touches on collaboration and transparency, which are relevant to engineering practices, it does not explicitly mention or align with the principles of the One Engineering System (1ES). The discussion is centred around Scrum-specific practices rather than the integration and standardisation of engineering processes across teams, which is the core focus of 1ES.",
     "level": "Ignored"
   }
 }

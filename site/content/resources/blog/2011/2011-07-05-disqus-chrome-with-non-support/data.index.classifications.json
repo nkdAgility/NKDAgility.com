@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T22:18:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:39:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues with a third-party tool and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to Disqus comments not loading in Chrome, with no direct mention or alignment to Evidence-Based Management principles. It lacks any empirical data or metrics relevant to decision-making in management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T22:18:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:39:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues with Disqus comments on a blog, which is unrelated to DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to Disqus comments not loading in Chrome, which is unrelated to DevOps principles or practices. There are no direct mentions of DevOps concepts, and the discussion lacks depth in any relevant areas such as automation, collaboration, or continuous improvement.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -311,7 +317,7 @@
     "reasoning": "Content primarily discusses technical issues with Disqus comments on a blog, focusing on troubleshooting and communication with support, rather than exploring Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T22:19:07",
     "ai_confidence": 0,
@@ -322,11 +328,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T22:19:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:39:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Disqus comments on a blog, with no relevance to Agile principles or product operating models.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to Disqus comments not loading in Chrome, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any relevant topics outlined in the APOM framework. The focus is on troubleshooting a specific problem rather than discussing agile practices or product delivery strategies.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -394,11 +403,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:06:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:39:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a problem with comments on a blog using Disqus and Chrome, which is unrelated to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses troubleshooting issues with Disqus comments in Chrome, which is unrelated to Continuous Delivery. There are no direct mentions of Continuous Delivery principles, practices, or tools, and the discussion does not align with the core themes of the category. The content lacks depth in any relevant aspects of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1419,6 +1431,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses issues related to a third-party commenting tool and does not mention or align with the principles of the Shift-Left Strategy in software development. There are no references to testing, security, or compliance processes, nor any proactive measures to enhance software quality. The focus is on troubleshooting a specific problem rather than integrating critical processes earlier in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:39:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue with Disqus comments not loading in Chrome, focusing on troubleshooting and user experience rather than Continuous Improvement principles. There are no direct mentions of Continuous Improvement, nor does the content align with its core themes such as data-driven decision-making or fostering a culture of experimentation. The discussion lacks depth in relation to Continuous Improvement, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:39:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue with Disqus comments not loading in Chrome, which is unrelated to the concept of Common Goals in Agile or DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth on any relevant themes. The focus is on troubleshooting a specific problem rather than fostering collaboration or accountability within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:39:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to Disqus comments not loading in Chrome, which does not align with the principles of competence in Agile, Scrum, DevOps, or Lean methodologies. There are no direct mentions of continuous learning, skill development, or professionalism, and the discussion lacks depth on any related themes.",
     "level": "Ignored"
   }
 }

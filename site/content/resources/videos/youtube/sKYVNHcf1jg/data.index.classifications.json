@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:21:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses agile consulting and Scrum, which are not central to DevOps principles.",
+    "calculated_at": "2025-03-21T20:09:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses experiences and lessons learned as an agile consultant, focusing on readiness and engagement rather than core DevOps principles. While it touches on themes of continuous improvement and the importance of collaboration, it does not explicitly mention DevOps or its specific practices. The discussion is more aligned with agile methodologies than with the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -247,11 +250,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:22:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:10:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses agile consulting and Scrum, without a clear focus on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the challenges faced by an agile consultant, focusing on readiness and engagement rather than Continuous Delivery principles. While it touches on themes of continuous improvement and the importance of feedback, it does not explicitly address Continuous Delivery practices, automation, or specific tools. The discussion is more about general agile practices and the consultant's experiences, which do not align closely with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -387,15 +393,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses agile consulting and Scrum roles, with no focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:22:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile consulting and Scrum, without a clear focus on the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1192,11 +1189,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:22:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:09:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on experiences as an agile consultant and discusses Scrum and agile practices, but does not center on the Agile Product Operating Model itself.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of readiness and engagement in the context of agile consulting, which aligns with some principles of the Agile Product Operating Model. However, it primarily focuses on personal experiences and challenges faced as a consultant rather than providing a detailed exploration of the Agile Product Operating Model itself. The mention of 'agile' is too vague and does not specifically address the core themes of APOM, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1402,11 +1402,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:22:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:10:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile consulting experiences rather than evidence-based management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses personal experiences as an agile consultant, focusing on readiness and engagement rather than empirical evidence or data-informed decision-making. While it touches on themes of organisational readiness and continuous improvement, it lacks direct references to Evidence-Based Management principles or metrics. The discussion is more anecdotal and does not provide substantial detail on how data could inform management decisions.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1476,6 +1479,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the challenges faced by an agile consultant, focusing on readiness and engagement rather than the Shift-Left Strategy. While it touches on themes of organisational preparedness and continuous improvement, it does not explicitly mention or align with the core principles of integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:09:46",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of readiness and engagement in the context of agile consulting, which aligns with the principles of Continuous Improvement. It mentions the need for organisations to act on feedback and highlights the iterative nature of Agile. However, while Continuous Improvement is a theme, it is not the primary focus of the content, which centres more on personal experiences and lessons learned rather than a structured discussion on Continuous Improvement practices.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:09:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on personal experiences and challenges faced as an agile consultant, with a strong emphasis on readiness and engagement rather than on the concept of Common Goals. While it touches on themes relevant to Agile, such as the importance of readiness for change and continuous improvement, it lacks explicit discussions on shared objectives or alignment within teams. The insights provided are more anecdotal and do not delve deeply into the strategic alignment or operationalisation of Common Goals, which diminishes its relevance to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:09:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of readiness and engagement in the context of agile consulting, which aligns with the principles of competence. It highlights the necessity for organisations to be prepared for change and the role of continuous improvement, reflecting on the consultant's experiences. However, while competence is a theme, it is not the primary focus, as the narrative centres more on personal experiences rather than a detailed exploration of competence itself.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:09:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal experiences as an agile consultant, discussing readiness and engagement rather than the principles or components of the One Engineering System. There are no direct mentions of 1ES, and the discussion does not align with the core themes of integration, standardisation, or best practices related to 1ES. The depth of discussion is minimal, as it lacks specific details on implementing or evaluating a unified engineering system.",
     "level": "Ignored"
   }
 }

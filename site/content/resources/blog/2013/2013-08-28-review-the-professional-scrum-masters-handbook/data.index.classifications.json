@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:56:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:36:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a review of a Scrum handbook, focusing on personal opinions and critiques rather than empirical evidence or the principles of Evidence-Based Management.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a critical review of a Scrum handbook, discussing Scrum roles and practices rather than evidence-based management principles. While it touches on some aspects of project management, it lacks direct references to empirical decision-making or metrics that align with Evidence-Based Management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T11:56:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:36:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum methodologies and the role of Scrum Masters, which are not aligned with the core principles of DevOps. While there are mentions of project management and team dynamics, the discussion does not address key DevOps themes such as automation, shared accountability, or continuous improvement. The content lacks depth in relation to DevOps practices, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -326,7 +332,7 @@
     "reasoning": "Content primarily discusses the review of a Scrum handbook, focusing on Scrum roles and practices rather than Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T11:56:52",
     "ai_confidence": 0,
@@ -337,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T11:56:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:36:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the Professional Scrum Masters Handbook and its insights on Scrum practices, rather than focusing on the Agile Product Operating Model or its principles.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on a review of 'The Professional Scrum Masters Handbook', which discusses Scrum practices rather than the Agile Product Operating Model. While it touches on some agile principles, it does not delve into the product-oriented mindset or the broader themes of APOM. The discussion is more about Scrum mechanics and project management rather than the integration of agile methodologies with product management principles.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -415,11 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T11:57:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:36:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum and its principles, focusing on the role of Scrum Masters and Project Managers. While it touches on aspects of software delivery, it does not explicitly address Continuous Delivery practices, principles, or the importance of automation and rapid feedback, which are central to the category. The discussion is more about Scrum mechanics than Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1527,6 +1539,42 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the Professional Scrum Masters Handbook and critiques its approach to Scrum principles. While it touches on project management and Scrum practices, it does not explicitly address the Shift-Left Strategy or its core themes such as early integration of testing, security, or compliance in the software development lifecycle. The focus is on Scrum mechanics rather than the proactive measures associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:36:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily critiques a specific book on Scrum, focusing on its mechanics rather than discussing Continuous Improvement principles. While it touches on some aspects of Scrum that could relate to Continuous Improvement, such as the importance of understanding processes and avoiding anti-patterns, it lacks a direct focus on Continuous Improvement as a concept. The discussion is more about the author's opinions on Scrum practices than about fostering a culture of experimentation or learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:36:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a critical review of a specific book related to Scrum, discussing its mechanics and the author's perspective rather than addressing the concept of Common Goals directly. While it touches on Scrum principles, it lacks a clear discussion on aligning strategy with execution or shared objectives, which are central to the Common Goals category. The review does not provide substantial depth on how these principles impact team collaboration or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:36:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the Professional Scrum Masters Handbook and critiques its approach to Scrum principles, which indirectly touches on competence in terms of understanding and applying Scrum effectively. However, the primary focus is on the book's content and the author's perspective rather than a direct exploration of competence as a foundational principle in Agile methodologies. The discussion lacks depth in terms of strategies for fostering competence or continuous learning, leading to a moderate confidence score.",
     "level": "Ignored"
   }
 }

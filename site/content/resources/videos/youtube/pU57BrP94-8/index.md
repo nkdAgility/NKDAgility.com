@@ -36,6 +36,7 @@ tags:
 - Organisational Agility
 - Coaching
 - Team Collaboration
+- Competence
 resourceTypes:
 - video
 categories:

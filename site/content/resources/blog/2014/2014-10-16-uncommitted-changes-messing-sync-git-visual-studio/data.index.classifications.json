@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T00:20:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:12:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to version control systems and workflows, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses Git and version control systems, focusing on practical issues related to uncommitted changes and workflow management. It does not mention Evidence-Based Management or its key topics, nor does it provide any empirical evidence or metrics related to management decisions.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,14 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T04:17:38",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "calculated_at": "2025-03-22T07:11:44",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily discusses issues related to version control systems, specifically the transition from StarTeam to Git. While it touches on aspects of workflow and conflict resolution, it lacks a direct focus on broader DevOps principles such as Continuous Integration, automation, or cultural shifts. The discussion is more technical and specific to version control rather than encompassing the collaborative and process-oriented nature of DevOps.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on Git and version control systems, discussing the challenges of transitioning from a server-based version control system to a distributed one. While it touches on aspects of workflow management, it does not explicitly address DevOps principles such as collaboration, automation, or shared accountability. The discussion lacks depth in relation to the core themes of DevOps, making it a secondary mention rather than a primary focus.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +317,7 @@
     "reasoning": "Content primarily discusses issues related to version control systems and workflows, without a focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T00:20:44",
     "ai_confidence": 0,
@@ -325,11 +328,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T00:20:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:11:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to version control systems and Git, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Git workflows and version control systems, with no direct mention or alignment to the Agile Product Operating Model. It focuses on technical aspects of source control rather than product management or agile methodologies.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -400,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T00:21:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:12:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to version control systems and workflows, specifically the transition from StarTeam to Git, without addressing Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses issues related to version control systems, specifically the transition from StarTeam to Git, and does not address Continuous Delivery principles, practices, or benefits. While it touches on workflow management, it lacks a focus on automation, incremental improvements, or rapid feedback, which are key aspects of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1440,6 +1449,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses issues related to version control systems and the transition from server-based to distributed systems. It does not address the Shift-Left Strategy, which focuses on integrating testing, security, and compliance earlier in the software development lifecycle. The discussion is more about workflow challenges and version control mechanics rather than proactive quality assurance or early integration of critical processes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:11:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the challenges of transitioning from one version control system to another, specifically from StarTeam to Git. While it touches on workflow management and productivity, it does not explicitly discuss Continuous Improvement principles or strategies. The mention of improving workflows is too vague and does not align with the core themes of Continuous Improvement, such as empirical evidence, culture of experimentation, or measurable advancements.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:11:50",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on technical challenges and workflows related to Git and version control systems, without discussing the concept of Common Goals or their significance in Agile or DevOps. It lacks explicit mentions of shared objectives, alignment, or strategic goals, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:11:56",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the technical aspects of using Git and managing uncommitted changes, which does not directly address the concept of competence in Agile or DevOps. While there are mentions of workflow and productivity, these are not explored in the context of continuous learning or skill development, which are key themes of competence. The discussion lacks depth regarding the importance of competence in delivering quality outcomes or fostering a culture of continuous improvement.",
     "level": "Ignored"
   }
 }

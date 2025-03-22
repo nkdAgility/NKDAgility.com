@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T17:30:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:46:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile leadership and transformation, with no clear discussion of DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation, which, while related to software development practices, does not explicitly discuss DevOps principles or practices. There are no direct mentions of DevOps, and the discussion lacks depth in terms of DevOps concepts such as automation, shared accountability, or continuous improvement. The content is more aligned with Agile methodologies rather than the DevOps philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -94,11 +97,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T17:31:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:47:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Agile leadership and transformation, without a clear emphasis on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile Leadership and Transformation, with no explicit discussion of Evidence-Based Management principles or metrics. While it mentions strategies and insights related to Agile, it does not align with the core themes of EBM, such as empirical decision-making or current value metrics. The depth of discussion on EBM is minimal, as the content does not provide any data-informed decision-making frameworks or outcomes related to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -345,15 +351,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile leadership and transformation, without a clear emphasis on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:31:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile leadership and transformation, which is not directly related to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -676,11 +673,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T17:32:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:47:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile leadership and transformation, with no clear discussion on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation, with no direct mention of Continuous Delivery principles or practices. While Agile methodologies can relate to Continuous Delivery, the discussion does not delve into the specific themes of Continuous Delivery such as automation, incremental improvements, or software quality. Therefore, the content does not align well with the category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -775,11 +775,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:32:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:47:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Agile leadership and transformation rather than the Agile Product Operating Model specifically.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Agile Leadership and Transformation rather than the Agile Product Operating Model specifically. While it discusses Agile methodologies and leadership roles, it does not delve into product management principles or the specific themes outlined in the APOM framework. The mention of Agile transformation is relevant but does not directly address the core aspects of the Agile Product Operating Model, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1542,6 +1545,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Agile leadership and transformation, with no explicit mention of the Shift-Left Strategy. While it discusses Agile principles, it does not address integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy. The discussion lacks depth and detail on the topic, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:46:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting a webcast about Agile Leadership and Transformation, with no direct discussion of Continuous Improvement principles. While Agile methodologies are mentioned, the content lacks depth in exploring Continuous Improvement concepts, empirical evidence, or strategies for fostering a culture of experimentation. It does not provide actionable insights or case studies related to Continuous Improvement, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:46:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily promotes a webcast on Agile Leadership and Transformation, which indirectly relates to Common Goals by discussing leadership in Agile contexts. However, it lacks explicit discussions on shared objectives or alignment strategies, focusing instead on expert insights and transformational strategies without delving into the foundational principles of Common Goals in Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:47:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily promotes a webcast on Agile Leadership and Transformation, which indirectly relates to competence through the mention of 'transformational strategies' and 'actionable takeaways.' However, it lacks direct discussions on continuous learning, skill development, or the core themes of competence as defined. The depth of discussion is limited, focusing more on the event's promotional aspects rather than a thorough exploration of competence in Agile contexts.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:47:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation, which are not directly related to the One Engineering System framework. While Agile methodologies may share some principles with 1ES, the discussion does not explicitly mention 1ES or its components, nor does it delve into the integration of tools and processes across teams as required by the category. The content is more about promoting a webcast on Agile topics rather than discussing the standardisation and integration of engineering practices.",
     "level": "Ignored"
   }
 }

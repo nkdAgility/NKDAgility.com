@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T21:14:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:20:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical steps for moving OneDrive files and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on practical steps for moving OneDrive files and does not discuss Evidence-Based Management principles or metrics. It lacks any mention of data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T21:14:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:19:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses moving OneDrive files and managing disk space, which is not related to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on moving OneDrive for Business files and does not discuss any DevOps principles, practices, or cultural shifts. There are no direct mentions of DevOps concepts, and the discussion lacks depth in relation to the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,22 +320,16 @@
     "reasoning": "Content primarily discusses the process of moving OneDrive files and managing disk space, with no focus on Systems Thinking principles or organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T21:15:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses moving OneDrive files and personal experiences with file management, which is unrelated to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T21:15:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:20:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical steps for moving OneDrive files and does not relate to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on moving OneDrive files and does not mention or align with any principles of the Agile Product Operating Model. It lacks any discussion of agile methodologies, product management, or related frameworks.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +397,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T21:15:57",
+    "calculated_at": "2025-03-21T21:20:08",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses moving OneDrive files and managing disk space, which is unrelated to Continuous Delivery principles or practices.",
+    "reasoning": "The content focuses on moving OneDrive for Business files and does not discuss Continuous Delivery principles, practices, or related topics. It is entirely unrelated to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1428,6 +1431,54 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content focuses on moving OneDrive files and does not discuss any aspects of the Shift-Left Strategy, such as integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:19:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical guide for moving OneDrive files, with no explicit discussion of Continuous Improvement principles. While it touches on efficiency and problem-solving, it lacks depth in continuous improvement methodologies, empirical evidence, or a culture of experimentation. The content does not align with the core themes of Continuous Improvement, making it a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:19:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical guide for moving OneDrive files, with no explicit discussion of Common Goals, Agile, or DevOps principles. It lacks alignment with the core themes of shared objectives or strategic alignment, and the depth of discussion is minimal, as it is a straightforward procedural guide.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:20:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical guide for moving OneDrive files, with no explicit discussion of competence, continuous learning, or skill development. While it touches on practical skills related to file management, it lacks depth and alignment with the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:20:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on moving OneDrive for Business files and does not discuss the One Engineering System framework, its principles, or any related topics. It is primarily a how-to guide for file management rather than a discussion on engineering practices or integration of tools.",
     "level": "Ignored"
   }
 }

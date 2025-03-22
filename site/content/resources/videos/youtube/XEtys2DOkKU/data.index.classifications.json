@@ -44,15 +44,6 @@
     "reasoning": "Content primarily discusses cloud migration and technical aspects of using Microsoft's tool, with no relevance to BetaCodex principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:07:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses cloud migration and specific tools related to Microsoft, with no clear focus on the principles or components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T12:07:45",
@@ -310,11 +301,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T12:08:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:03:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses cloud migration tools and customizations, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on cloud migration and the use of a specific Microsoft tool, with no direct mention of Evidence-Based Management principles. While it discusses preparation and proactive measures, it lacks a clear connection to data-informed decision-making or the key topics outlined in the EBM category. The discussion is more about practical steps in migration rather than empirical evidence or metrics related to management.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -1006,11 +1000,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T14:40:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:03:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses cloud migration and tools related to database management, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on cloud migration using a specific Microsoft tool, which does not directly address Continuous Delivery principles or practices. While it mentions preparation and proactive measures, these concepts are not aligned with the core themes of Continuous Delivery, such as automation, rapid feedback, or incremental improvements. The discussion lacks depth in relation to Continuous Delivery, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1435,5 +1432,53 @@
     "final_score": 60.0,
     "reasoning": "The content discusses a proactive approach to cloud migration, emphasising the importance of identifying potential issues before they arise, which aligns with the Shift-Left Strategy. However, it primarily focuses on migration tools and processes rather than explicitly addressing testing, security, or compliance in the software development lifecycle. The mention of a tool that identifies issues early contributes to the discussion but does not delve deeply into the broader principles or methodologies of the Shift-Left Strategy.",
     "level": "Tertiary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:03:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses cloud migration and the use of a specific tool to streamline the process, which touches on proactive approaches and preparation. However, it lacks a direct focus on Continuous Improvement principles, such as empirical evidence or a culture of experimentation. While it mentions planning and addressing issues proactively, it does not delve into broader strategies or frameworks associated with Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:03:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on cloud migration strategies and the use of a specific tool, with minimal reference to shared objectives or alignment within teams. While it discusses preparation and planning, it does not connect these actions to the broader principles of Common Goals in Agile or DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:03:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of preparation and proactive measures in cloud migration, which aligns with the concept of competence in terms of skill development and quality outcomes. However, it lacks direct mentions of competence as a primary focus and does not delve deeply into strategies for fostering a culture of competence or continuous learning.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:03:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on cloud migration using a specific Microsoft tool, which does not align with the principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion lacks depth regarding integration or standardisation of engineering processes.",
+    "level": "Ignored"
   }
 }

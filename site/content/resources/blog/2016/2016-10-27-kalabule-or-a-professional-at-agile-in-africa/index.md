@@ -30,6 +30,7 @@ tags:
 - Software Development
 - Agile Philosophy
 - People and Process
+- Competence
 categories: []
 preview: clip_image001-2-2.png
 

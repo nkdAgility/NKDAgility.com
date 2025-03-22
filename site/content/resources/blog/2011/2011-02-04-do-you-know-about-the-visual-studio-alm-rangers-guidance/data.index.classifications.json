@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:00:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:46:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio ALM Rangers Guidance and does not focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Visual Studio ALM Rangers Guidance and does not explicitly mention Evidence-Based Management or its key topics. While it touches on the value of guidance and resources, it lacks a focus on empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T00:00:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:46:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio ALM Rangers guidance and related resources, which does not align with the core principles of DevOps.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Visual Studio ALM Rangers Guidance, which focuses on development tools and resources rather than the core principles of DevOps. While there is a mention of enhancing the development experience, it lacks explicit discussions on collaboration, automation, or shared accountability that are central to DevOps. The content does not delve into the cultural shifts or practices necessary for effective DevOps implementation, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -317,7 +323,7 @@
     "reasoning": "Content primarily discusses Visual Studio ALM Rangers Guidance and related resources, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:01:04",
     "ai_confidence": 0,
@@ -328,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:01:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:46:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Visual Studio ALM Rangers Guidance and does not focus on Agile Product Operating Model principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses Visual Studio ALM Rangers Guidance, which is focused on development tools rather than the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or the core themes of APOM. The content lacks depth in discussing any relevant aspects of the Agile Product Operating Model, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -409,11 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:44:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:46:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Visual Studio ALM Rangers and their guidance, with no focus on Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Visual Studio ALM Rangers Guidance, which focuses on development tools and resources rather than Continuous Delivery principles. There are no direct mentions of Continuous Delivery, and the discussion lacks alignment with its core themes such as automation, incremental improvements, or rapid feedback. The depth of discussion is minimal, as it does not delve into any Continuous Delivery practices or strategies.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1440,6 +1452,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Visual Studio ALM Rangers and their guidance, without explicitly addressing the Shift-Left Strategy or its principles. While it mentions software development tools, it does not delve into integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:46:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Visual Studio ALM Rangers Guidance and does not explicitly discuss Continuous Improvement principles. While it mentions enhancing development experiences, it lacks a direct connection to the core themes of Continuous Improvement, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The depth of discussion is limited to guidance resources without exploring Continuous Improvement strategies or frameworks.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:46:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Visual Studio ALM Rangers Guidance and does not explicitly discuss Common Goals within Agile or DevOps frameworks. While it mentions the contributions of the ALM Rangers, it lacks a clear connection to shared objectives or strategic alignment, which are central to the concept of Common Goals. The discussion is more about resources and guidance rather than the alignment of strategy with execution.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:46:49",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the Visual Studio ALM Rangers Guidance and does not explicitly discuss competence or its importance in Agile, Scrum, or DevOps contexts. While it mentions the contributions of skilled individuals (the Rangers), it lacks a detailed exploration of continuous learning, skill development, or the impact of competence on team dynamics and quality outcomes.",
     "level": "Ignored"
   }
 }

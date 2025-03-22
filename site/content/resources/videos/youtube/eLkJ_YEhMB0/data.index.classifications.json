@@ -655,11 +655,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T08:05:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile practices rather than Continuous Delivery principles.",
+    "calculated_at": "2025-03-21T18:02:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile certifications and their impact on learning and professional development, without a direct focus on Continuous Delivery principles or practices. While it touches on aspects of Agile, it does not delve into Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback, which are essential to the category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -838,14 +841,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T20:17:50",
+    "calculated_at": "2025-03-21T18:02:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content discusses Agile certifications and their impact on learning and professional development, but it does not explicitly address Evidence-Based Management principles or practices. While it touches on the importance of real-world experience over certifications, it lacks a focus on empirical evidence, metrics, or data-driven decision-making that are central to EBM. The discussion is more about personal experiences and opinions regarding certifications rather than a structured analysis of EBM concepts.",
+    "reasoning": "The content primarily discusses the value and impact of Agile certifications rather than focusing on evidence-based management principles. While it touches on the importance of real-world experience and learning, it lacks direct references to empirical decision-making or metrics that assess current value, time to market, or ability to innovate, which are core themes of Evidence-Based Management.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1279,11 +1282,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T08:02:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:02:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile practices rather than DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile certifications and their impact on learning and professional development within the Agile framework. While it touches on themes of value delivery and team effectiveness, it does not explicitly address DevOps principles, practices, or cultural shifts. The focus remains on Agile methodologies rather than the integration of development and operations, which is central to DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1477,12 +1483,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:37:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T18:02:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices, particularly focusing on the Daily Scrum and value delivery, which aligns with the Agile Product Operating Model. However, it primarily revolves around Scrum roles and events rather than a comprehensive discussion on the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the value and implications of Agile certifications rather than the Agile Product Operating Model itself. While it touches on Agile principles, it does not delve into the core themes of the APOM, such as product-oriented mindsets or continuous delivery. The focus is more on individual qualifications and experiences rather than organisational effectiveness in product delivery.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1503,15 +1512,6 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses Agile certifications and their impact on learning and team dynamics, which aligns with the themes of self-organisation and value delivery. However, the primary focus is on certifications rather than on social technologies or frameworks that promote collaboration and decision-making. While there are mentions of team effectiveness and the importance of real-world experience, the depth of discussion on social technologies is limited, leading to a moderate confidence score.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:37:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Agile practices and Scrum roles, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1554,6 +1554,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the value and implications of Agile certifications rather than focusing on integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on the importance of real-world experience and learning, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:02:23",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of learning and real-world experience over certifications, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the critique of certifications rather than providing a comprehensive discussion on Continuous Improvement practices or strategies. While it touches on themes of enhancing team effectiveness and the value of experience, it lacks depth in exploring Continuous Improvement frameworks or empirical evidence.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:02:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the value and implications of Agile certifications rather than focusing on Common Goals within Agile and DevOps frameworks. While it touches on the importance of real-world skills and team effectiveness, it does not explicitly address shared objectives or alignment with strategic goals, which are central to the Common Goals category. The discussion is more about individual learning and professional development than about collective team objectives or organisational alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:02:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 30,
+    "final_score": 73.0,
+    "reasoning": "The content discusses the value and limitations of certifications in Agile, emphasising the importance of real-world experience and continuous learning, which aligns well with the principles of competence. It critiques the performative nature of certifications and advocates for a focus on genuine skill development, thus addressing key topics related to competence. However, while competence is a significant theme, the content also delves into the critique of certifications, which slightly dilutes the primary focus on competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:02:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile certifications and their impact on learning and professional development, with no direct mention or focus on the One Engineering System framework. It does not address integration of tools or processes, best practices for implementing 1ES, or any of the key topics outlined for this category.",
     "level": "Ignored"
   }
 }

@@ -655,11 +655,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T10:45:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses evidence-based management and its application in organisational behaviour, without a clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T17:16:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and its role in decision-making, with no direct focus on Continuous Delivery principles or practices. While it touches on metrics and outcomes, it does not explore Continuous Delivery's core themes such as automation, rapid feedback, or deployment strategies.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -832,14 +835,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-13T15:00:24",
+    "calculated_at": "2025-03-21T17:16:28",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 40,
     "non_ai_confidence": 10,
     "final_score": 84.0,
-    "reasoning": "The content extensively discusses Evidence-Based Management (EBM), detailing its principles, the importance of metrics, and how data can inform decision-making without controlling it. It provides practical steps for implementing EBM, examples of metrics, and highlights the benefits of adopting an evidence-based approach. The depth of discussion is significant, covering various aspects of EBM and its application in organisational contexts.",
+    "reasoning": "The content extensively discusses Evidence-Based Management (EBM), providing a clear definition, practical steps for implementation, and the importance of using data to inform decisions. It aligns well with the key topics of EBM, such as current value, empirical decision-making, and outcome management. The depth of discussion is significant, with detailed examples and practical advice, demonstrating a strong focus on the category.",
     "level": "Primary"
   },
   "Backlog Refinement": {
@@ -1487,15 +1490,6 @@
     "reasoning": "Content primarily discusses evidence-based management practices and metrics, without a clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:14:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses evidence-based management in Agile, focusing on metrics and decision-making rather than the principles or implementation of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:13:52",
@@ -1572,6 +1566,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and its role in decision-making, without explicitly addressing the Shift-Left Strategy. While it touches on metrics and their influence on team behaviour, it does not delve into integrating testing, security, or compliance earlier in the software development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:16:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in making informed, data-driven decisions, which aligns with the principles of Continuous Improvement. However, while it touches on aspects of improvement and metrics, it does not delve deeply into the continuous nature of improvement practices or provide extensive strategies for fostering a culture of experimentation and learning. The focus is more on decision-making rather than a comprehensive exploration of Continuous Improvement as a primary theme.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:16:17",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in aligning strategic goals with tactical actions, which is relevant to the concept of Common Goals. It mentions the importance of defining desired outcomes and using metrics to measure progress towards those goals, indicating a connection to shared objectives. However, the primary focus is on EBM rather than explicitly on Common Goals, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:16:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of using data to inform decision-making, which aligns with the concept of competence in terms of making informed choices and fostering a culture of continuous improvement. However, while it touches on aspects of competence, such as the need for understanding metrics and their impact on team behaviour, it does not delve deeply into continuous learning or skill development, which are core themes of the competence category. The focus is more on data-driven management rather than on the development of skills and capabilities.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:16:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Evidence-Based Management (EBM) and its application in decision-making processes, which does not directly relate to the One Engineering System (1ES). While there are mentions of metrics and data-driven decision-making, these concepts are not aligned with the core principles of 1ES, such as standardising and integrating software development practices across teams. The discussion lacks depth regarding the integration of tools and processes or the impact of a unified engineering system, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

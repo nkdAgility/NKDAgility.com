@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T17:00:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:05:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses automated testing in software development, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on automated testing within software development, discussing its importance and various types of tests. While it touches on quality assurance and efficiency, it does not explicitly address Evidence-Based Management principles or metrics. The discussion lacks a clear connection to data-informed decision-making or the specific key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,15 +133,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:14:33",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "calculated_at": "2025-03-22T08:05:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
-    "reasoning": "The content discusses automated testing, which is a crucial aspect of DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, while it touches on the importance of automation and integration within the software development lifecycle, it lacks a broader discussion on the cultural shifts, collaboration, and specific DevOps tools that are essential for a comprehensive understanding of the DevOps category. The focus is primarily on testing rather than the holistic integration of development and operations.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses automated testing, which is a crucial aspect of the DevOps philosophy, particularly in terms of automation and continuous delivery. It highlights the importance of integrating automated testing into the development lifecycle to enhance software quality and streamline processes, aligning well with DevOps principles. However, while it touches on relevant themes, it does not deeply explore the broader cultural and collaborative aspects of DevOps, which slightly limits its overall alignment.",
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -338,7 +341,7 @@
     "reasoning": "Content primarily discusses automated testing in software development, focusing on tools and techniques rather than Systems Thinking principles or organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-14T17:01:46",
     "ai_confidence": 0,
@@ -349,11 +352,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T17:01:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:05:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses automated testing in software development, without a clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on automated testing within the software development lifecycle, discussing its importance and various types of tests. While it touches on aspects of agile methodologies, such as iterative delivery and quality assurance, it does not explicitly address the Agile Product Operating Model or its core principles. The discussion lacks depth in relation to product management practices and does not explore the transition from project to product ethos, which are central to the APOM framework.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -427,14 +433,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T05:40:13",
+    "calculated_at": "2025-03-22T08:05:39",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
     "final_score": 60.0,
-    "reasoning": "The content discusses automated testing extensively, which is a crucial aspect of Continuous Delivery. However, it primarily focuses on the implementation and benefits of automated testing rather than the broader principles and practices of Continuous Delivery itself. While it touches on the importance of maintaining a production-ready state and reducing cycle time, it lacks a comprehensive exploration of Continuous Delivery methodologies, deployment strategies, and the relationship with DevOps practices.",
+    "reasoning": "The content discusses automated testing extensively, which is a crucial aspect of Continuous Delivery. It highlights the importance of automation in maintaining software quality and reducing cycle times, aligning with the principles of Continuous Delivery. However, it does not explicitly mention Continuous Delivery as a concept or its broader implications, which limits its direct relevance. The depth of discussion on automated testing is substantial, but the lack of explicit focus on Continuous Delivery as a primary topic affects the overall confidence score.",
     "level": "Tertiary"
   },
   "Strategic Goals": {
@@ -1516,5 +1522,41 @@
     "final_score": 65.0,
     "reasoning": "The content discusses automated testing extensively, which is a key component of the Shift-Left Strategy. It highlights the importance of integrating testing early in the software development lifecycle to ensure quality and reduce cycle time. However, while it aligns with the principles of the Shift-Left Strategy, it does not explicitly mention the broader context of security and compliance integration, nor does it provide detailed case studies or metrics for measuring impact, which limits its depth of discussion on the topic.",
     "level": "Secondary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:05:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses automated testing and its role in enhancing software quality and development processes, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the technical aspects of testing rather than a broader discussion on Continuous Improvement practices, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:05:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on automated testing within the software development lifecycle, discussing its importance and various types of tests. While it touches on the need for quality and efficiency, it does not explicitly address the concept of Common Goals or how they relate to Agile and DevOps frameworks. The discussion lacks depth in connecting individual contributions to overarching strategic objectives, which is essential for the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:05:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses automated testing and its importance in the software development lifecycle, which indirectly relates to competence through the emphasis on quality and the need for continuous improvement in testing practices. However, it lacks a direct focus on the broader themes of competence, such as continuous learning and skill development, and does not delve deeply into strategies for fostering a culture of competence. The primary focus is on technical aspects of automated testing rather than on the professional development of individuals or teams.",
+    "level": "Ignored"
   }
 }

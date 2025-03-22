@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:34:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:04:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to building a Silverlight application on Team Foundation Build Services, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical issues related to building Silverlight applications using Team Foundation Build Services, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on project management aspects, it lacks a clear connection to data-informed decision-making or the core themes of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,15 +127,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T13:07:00",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-22T09:03:56",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the use of Team Foundation Build Services (TFS) for automating builds, which is a relevant aspect of DevOps. However, it primarily focuses on troubleshooting specific build issues related to Silverlight rather than broader DevOps principles or practices. While there are mentions of build automation, the depth of discussion is limited to specific problems and solutions without addressing the cultural or collaborative aspects of DevOps.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on troubleshooting build issues with Silverlight applications using Team Foundation Build Services 2010. While it touches on aspects of automation and build processes, it lacks a comprehensive discussion of DevOps principles such as collaboration, shared accountability, or continuous improvement. The mention of Team Foundation Server and build automation is relevant but does not delve into the broader DevOps philosophy or practices, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -323,7 +326,7 @@
     "reasoning": "Content primarily discusses technical issues related to building a Silverlight application using Team Foundation Build Services, without any focus on Systems Thinking principles or methodologies.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:35:00",
     "ai_confidence": 0,
@@ -334,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:35:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:04:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to building a Silverlight application using Team Foundation Build Services, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical issues related to building Silverlight applications using Team Foundation Build Services, with no explicit discussion of the Agile Product Operating Model or its principles. While there are brief mentions of Scrum in the context of a retrospective, the overall content does not align with the core themes of the Agile Product Operating Model, such as product management practices or continuous delivery.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -412,11 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:04:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to setting up a build server for a Silverlight application, focusing on specific errors and resolutions, rather than on the principles or practices of Continuous Delivery.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on troubleshooting build issues with Silverlight applications using Team Foundation Build Services 2010. While it touches on aspects of automation and build processes, it lacks a comprehensive discussion on Continuous Delivery principles, practices, or cultural aspects. The mention of build failures and solutions does not align closely with the core themes of Continuous Delivery, which emphasises reliable software delivery cycles and user feedback. Therefore, the confidence score reflects a low alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1485,6 +1494,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses technical issues related to building a Silverlight application using Team Foundation Build Services, without addressing the Shift-Left Strategy. While it touches on build processes and troubleshooting, it does not integrate testing, security, or compliance earlier in the development lifecycle, nor does it discuss the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:04:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting and technical solutions for building Silverlight applications using Team Foundation Build Services. While it touches on aspects of problem-solving and iterative fixes, it lacks a clear emphasis on Continuous Improvement principles such as empirical evidence, culture of experimentation, or strategic business agility. The discussion is more about immediate technical challenges rather than a broader commitment to ongoing process enhancement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:04:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical issues related to building Silverlight applications using Team Foundation Build Services, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While there is a brief mention of a retrospective at the end of a sprint, it does not delve into the alignment of strategy with execution or shared objectives that guide decision-making. The content lacks depth in discussing how these technical challenges relate to overarching strategic goals or team alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:04:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical challenges and solutions related to building Silverlight applications using Team Foundation Build Services. While it touches on aspects of competence, such as the need for specific skills and knowledge to resolve build issues, it does not explicitly discuss continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The depth of discussion is limited to problem-solving rather than fostering a culture of competence or professional growth.",
     "level": "Ignored"
   }
 }

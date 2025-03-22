@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T10:36:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:20:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical process of configuring Jenkins with TFS, with no focus on evidence-based management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on configuring Jenkins with TFS, lacking any discussion on Evidence-Based Management principles or metrics. It does not address data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:49:25",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-03-22T07:20:28",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
-    "reasoning": "The content primarily focuses on configuring Jenkins to work with TFS, which is relevant to DevOps practices, particularly in the context of Continuous Integration (CI). It discusses the integration of tools (Jenkins and TFS) and touches on automation aspects, but lacks a broader discussion on DevOps principles, cultural shifts, or metrics. While it provides practical steps and details, it does not delve deeply into the overarching themes of DevOps, such as collaboration between teams or the impact of automation on deployment frequency.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on configuring Jenkins to integrate with TFS, which is a specific technical task rather than a broader discussion on DevOps principles. While it touches on aspects of automation and collaboration, it lacks a comprehensive exploration of the DevOps philosophy, such as shared accountability or continuous improvement. The discussion is more about tool integration than the cultural and process-oriented aspects of DevOps.",
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -326,7 +329,7 @@
     "reasoning": "Content primarily focuses on configuring Jenkins with TFS, discussing technical steps and tools without addressing Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T10:36:55",
     "ai_confidence": 0,
@@ -337,11 +340,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T10:36:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:20:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects of configuring Jenkins with TFS, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on configuring Jenkins to integrate with TFS 2013, which is a technical guide rather than a discussion on the Agile Product Operating Model. While there are mentions of team collaboration and build processes, these do not align with the core principles of APOM, such as product-oriented mindsets or continuous delivery. The content lacks depth in discussing agile methodologies or product management practices.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -415,14 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T04:30:14",
+    "calculated_at": "2025-03-22T07:20:46",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily focuses on configuring Jenkins to work with TFS, which is related to Continuous Delivery practices. However, it lacks a thorough discussion of Continuous Delivery principles, automation, or deployment strategies. While it mentions aspects of build management and source control, it does not delve deeply into the methodologies or practices that define Continuous Delivery, resulting in a low confidence score.",
+    "reasoning": "The content primarily focuses on configuring Jenkins to integrate with TFS, which is more about build management and source control rather than Continuous Delivery practices. While it touches on aspects of automation and build processes, it lacks a comprehensive discussion on Continuous Delivery principles, such as rapid feedback, incremental improvements, or cultural aspects. The mention of Jenkins and TFS does not explicitly connect to the broader themes of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1485,6 +1491,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on configuring Jenkins to work with TFS, detailing the steps for source code management and build configuration. While it briefly touches on aspects of testing and build management, it does not explicitly discuss the Shift-Left Strategy or its principles. The discussion lacks depth in terms of integrating testing and security early in the development process, which is central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:20:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of configuring Jenkins with TFS 2013, with minimal reference to Continuous Improvement principles. While it discusses moving source code and integrating systems, it lacks a clear emphasis on ongoing reflection, adaptation, or empirical evidence that characterises Continuous Improvement. The discussion is largely procedural and does not delve into strategies for fostering a culture of experimentation or learning, nor does it provide insights into team effectiveness or business agility.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:20:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of configuring Jenkins with TFS, with minimal reference to shared objectives or alignment within teams. While it discusses the transition of source code management, it lacks a clear connection to the principles of Common Goals in Agile or DevOps, such as strategic alignment or team ownership.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:20:37",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical process of configuring Jenkins with TFS, with minimal direct discussion on competence or skill development. While it touches on the need for a smooth transition and mentions the importance of ensuring teams are reassured about TFS's capabilities, it lacks a deeper exploration of continuous learning or professional development, which are core themes of the competence category.",
     "level": "Ignored"
   }
 }

@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:10:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:42:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses company culture and collaboration in agile environments, without a clear focus on evidence-based management principles or empirical data.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of collaboration and team culture in achieving agility, which aligns with some aspects of Evidence-Based Management, particularly in fostering a culture that supports value delivery. However, it lacks direct mentions of empirical evidence or specific metrics related to current value, time to market, or outcome management. The discussion is more focused on cultural aspects rather than data-informed decision-making, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,15 +133,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:01:09",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-22T07:42:37",
+    "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the importance of collaboration and team culture in achieving agility, which is a key aspect of DevOps. However, it primarily focuses on cultural issues rather than specific DevOps practices, tools, or metrics. While it touches on themes relevant to DevOps, such as teamwork and problem-solving, it lacks direct references to DevOps principles like Continuous Integration or Continuous Delivery, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of collaboration and team culture, which aligns with DevOps principles of shared accountability and cross-functional collaboration. However, it primarily focuses on agile methodologies and cultural shifts rather than explicitly addressing DevOps practices or principles. The depth of discussion on DevOps is limited, as it does not delve into automation, feedback loops, or other core DevOps themes.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -344,7 +347,7 @@
     "reasoning": "The content discusses the importance of collaboration and team dynamics in achieving agility, which aligns with Systems Thinking principles. However, it primarily focuses on cultural issues and individual behaviours rather than explicitly exploring interconnected systems or providing detailed frameworks for analysis. The mention of a 'unit mentality' and the need for a collaborative culture hints at Systems Thinking, but the depth of discussion is limited and lacks specific techniques or tools associated with the category.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:11:38",
     "ai_confidence": 0,
@@ -355,11 +358,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T07:42:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of collaboration and team culture in achieving agility, which aligns with the Agile Product Operating Model. However, it primarily focuses on cultural aspects rather than specific Agile practices or frameworks.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the importance of collaboration and team dynamics in achieving agility, which aligns with the Agile Product Operating Model's emphasis on a product-oriented mindset. However, it primarily focuses on cultural aspects rather than the specific principles and practices of the APOM. The mention of agility and team collaboration is relevant but lacks depth in discussing the operational frameworks or methodologies associated with the Agile Product Operating Model.",
     "level": "Tertiary"
   },
   "Organisational Agility": {
@@ -430,11 +436,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:42:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses company culture and teamwork in Agile methodologies, rather than the principles and practices of Continuous Delivery.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of collaboration and team culture in achieving agility, which is tangentially related to Continuous Delivery. However, it does not explicitly mention Continuous Delivery principles, practices, or tools. The focus is more on cultural aspects of agile practices rather than on the specific mechanisms of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1539,6 +1548,42 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of collaboration and team dynamics in software development, which is tangentially related to the Shift-Left Strategy. However, it does not explicitly mention testing, security, or compliance processes being integrated earlier in the development lifecycle. The focus is more on cultural aspects and agility rather than the specific principles and techniques of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:42:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of collaboration and team culture in achieving agility, which aligns with the principles of Continuous Improvement. It highlights the need for a culture of change and experimentation, suggesting that fostering collaboration can lead to better outcomes. However, while it touches on relevant themes, it does not delve deeply into specific Continuous Improvement techniques or frameworks, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:42:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of collaboration and team culture in achieving agility, which aligns with the concept of Common Goals. However, it primarily focuses on cultural issues rather than explicitly defining or detailing Common Goals within Agile or DevOps frameworks. The mention of team dynamics and the need for a unit mentality supports the idea of shared objectives, but the depth of discussion on strategic alignment and operationalising Common Goals is limited.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:42:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of collaboration and teamwork in achieving agility, which indirectly relates to competence. However, it primarily focuses on cultural issues rather than explicitly addressing continuous learning or skill development. While it mentions the need for a team mentality and the impact of individual work on problem-solving, it lacks a detailed exploration of competence as a foundational principle in Agile methodologies.",
     "level": "Ignored"
   }
 }

@@ -25,15 +25,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T14:13:49",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T19:02:48",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 63.0,
-    "reasoning": "The content discusses Kanban and its application in optimising workflows, which is relevant to DevOps principles. It mentions the integration of processes and the flow of value, aligning with DevOps themes. However, the primary focus is on Kanban rather than DevOps itself, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 59.0,
+    "reasoning": "The content discusses Kanban extensively, which is primarily a workflow management method rather than a direct focus on DevOps principles. While it briefly touches on DevOps in the context of optimising workflows and enhancing delivery speed, the primary focus remains on Kanban as a strategy. The alignment with DevOps concepts is present but not deeply explored, and the depth of discussion on DevOps is minimal, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -97,14 +97,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-10T12:02:29",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 0,
-    "final_score": 65.0,
-    "reasoning": "The content discusses data-driven insights and the application of Kanban to monitor and optimise workflows, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on Kanban and its methodologies rather than explicitly addressing EBM principles or practices. While it touches on forecasting and the use of historical data, it lacks a comprehensive exploration of EBM as a primary focus, resulting in a moderate confidence score.",
+    "calculated_at": "2025-03-21T19:03:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the application of data-driven insights in Kanban, particularly in relation to optimising workflows and enhancing delivery speed. It explicitly mentions the use of historical data for forecasting and the importance of probabilistic thinking in stakeholder communication, which aligns well with the principles of Evidence-Based Management. However, the primary focus remains on Kanban rather than EBM itself, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Code and Complexity": {
@@ -357,15 +357,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban and its application in workflow optimisation, without a clear focus on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T19:04:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Kanban and its application in various processes, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -697,11 +688,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T19:05:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Kanban and its application in workflow optimisation, with no clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T19:03:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on Kanban as a workflow optimisation tool rather than Continuous Delivery. While it touches on aspects of delivery speed and process improvement, it does not explicitly discuss Continuous Delivery principles, automation, or rapid feedback mechanisms. The discussion is more about Kanban's applicability and data-driven insights, which are not central to Continuous Delivery practices.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -793,11 +787,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T19:05:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:03:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 15,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Kanban as a workflow strategy and its application in various processes, without a clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on Kanban as a workflow optimisation tool rather than discussing the Agile Product Operating Model directly. While it touches on concepts like continuous improvement and stakeholder engagement, which are relevant to APOM, it lacks a direct connection to product management principles and the transition from project to product ethos. The depth of discussion on Kanban and its applications overshadows any alignment with the core themes of APOM.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1554,6 +1551,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Kanban as a workflow optimisation tool and does not explicitly mention the Shift-Left Strategy or its principles. While it touches on improving processes and stakeholder engagement, it lacks a direct focus on integrating testing, security, or compliance earlier in the development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:02:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Kanban as a framework for optimising workflows and enhancing delivery speed, which aligns with the principles of Continuous Improvement. It mentions the use of data analysis for continuous improvement and highlights the importance of monitoring flow and making informed tweaks to processes. However, while it touches on relevant themes, the primary focus is on Kanban rather than a broader discussion of Continuous Improvement practices, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:02:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Kanban as a workflow optimisation tool rather than discussing Common Goals within Agile or DevOps frameworks. While it touches on strategic aspects and stakeholder engagement, it lacks explicit references to shared objectives or alignment with organisational missions, which are central to the Common Goals category. The discussion is more about process improvement and data-driven insights than about aligning team efforts with overarching strategic objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:02:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Kanban as a framework for optimising workflows and enhancing delivery speed, which indirectly relates to competence through the lens of continuous improvement and skill development. However, it primarily focuses on the mechanics of Kanban rather than explicitly addressing the concept of competence itself. While there are mentions of improving processes and engaging stakeholders, the depth of discussion on competence as a foundational principle in Agile or DevOps is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:02:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Kanban as a workflow optimisation tool and does not discuss the One Engineering System framework or its principles. While it touches on improving processes and stakeholder engagement, it lacks direct relevance to the integration and standardisation of engineering practices as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

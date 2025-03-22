@@ -667,11 +667,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T06:48:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T18:56:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and Agile coaches in motivating Scrum teams, which is more aligned with Agile practices rather than Continuous Delivery. While it touches on aspects of team dynamics and improvement, it does not explicitly discuss Continuous Delivery principles, automation, or delivery practices. The mention of continuous improvement and feedback loops is relevant but not sufficient to classify the content under Continuous Delivery as a primary focus.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -847,11 +850,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T06:49:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:56:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and team motivation without a focus on empirical evidence or data-driven decision-making.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on motivating Scrum teams and the role of Scrum Masters and Agile coaches, which does not directly address Evidence-Based Management principles. While it touches on aspects of team engagement and goal alignment, it lacks explicit discussions on empirical evidence, metrics, or data-informed decision-making that are central to EBM. The mention of stakeholder engagement and aligning goals could be seen as tangentially related, but the overall emphasis is on motivation rather than evidence-based practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1288,11 +1294,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T06:46:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T18:55:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile methodologies, specifically the role of Scrum Masters and Agile coaches in motivating teams. While it briefly touches on concepts like feedback loops and continuous improvement, which are relevant to DevOps, the overall emphasis is on Agile practices rather than the broader DevOps philosophy. Therefore, the alignment with the DevOps category is minimal.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1477,12 +1486,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T18:28:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T18:56:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of team motivation and effectiveness within the Scrum framework, which relates to Agile principles, but it primarily focuses on Scrum roles and events rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and Agile coaches in motivating Scrum teams, which is more aligned with Agile practices than the Agile Product Operating Model itself. While it touches on aspects of team motivation and engagement that could relate to product delivery, it lacks a direct discussion of the APOM principles, such as transitioning to a product ethos or operational governance. The depth of discussion is also limited to motivational strategies rather than a comprehensive exploration of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1500,15 +1512,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T18:28:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and team motivation, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1551,6 +1554,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the role of Scrum Masters and Agile coaches in motivating teams, with no direct mention of the Shift-Left Strategy. While it discusses aspects of Agile practices, it does not align with the core themes of integrating testing, security, or compliance early in the development process. The discussion lacks depth regarding Shift-Left principles, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:55:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of Scrum Masters and Agile coaches in motivating teams, which indirectly relates to Continuous Improvement through the mention of regular retrospectives and feedback loops. However, the primary focus is on motivation techniques rather than a comprehensive exploration of Continuous Improvement principles. While there are elements that touch on improvement and adaptability, the overall discussion does not deeply engage with the core themes of Continuous Improvement, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:55:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of aligning team goals with stakeholder expectations and organisational objectives, which is a key aspect of Common Goals. However, the primary focus is on motivation techniques rather than a deep exploration of Common Goals themselves. While it mentions misaligned goals and reframing Sprint goals, it does not provide extensive detail on the broader implications of Common Goals within Agile and DevOps frameworks.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:55:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of Scrum Masters and Agile coaches in motivating teams, which indirectly relates to competence through the emphasis on continuous learning and skill development. However, the primary focus is on motivation rather than competence itself. The mention of 'Mastery' and 'continuous learning' aligns with competence, but the overall discussion is more about engagement and motivation strategies, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:55:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum methodologies and the role of Scrum Masters and Agile coaches in motivating teams, which does not align with the core principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion lacks depth regarding integration or standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:21:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:15:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation issues related to Office 2010 and does not address Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical challenges related to installing Office 2010 on a 64-bit system, with no direct mention of Evidence-Based Management principles or metrics. It does not align with the core themes of EBM, such as data-informed decision-making or value delivery, and lacks depth in discussing any relevant concepts.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:21:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:14:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to installing Office 2010 and does not address any DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the challenges of installing Office 2010 on a 64-bit system, which is unrelated to DevOps principles. While there is a brief mention of automation challenges, it does not delve into any core DevOps themes such as collaboration, continuous delivery, or shared accountability. The focus is on a specific software installation issue rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -308,7 +314,7 @@
     "reasoning": "Content primarily discusses installation issues related to Office 2010 and does not address Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:22:22",
     "ai_confidence": 0,
@@ -319,11 +325,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:22:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:15:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical issues related to installing Office 2010 and does not discuss Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the technical challenges of installing Office 2010 on a 64-bit system, with no mention of agile methodologies, product management principles, or any related concepts that align with the Agile Product Operating Model. It does not discuss transitioning from project to product ethos, operational stability, or any other key topics outlined in the category description.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -391,11 +400,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:15:15",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on an installation issue related to Office 2010 and discusses challenges regarding software installation, not Continuous Delivery principles or practices.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses challenges related to installing Office 2010 on a 64-bit system, which is not relevant to Continuous Delivery. While there is a brief mention of automation challenges, it does not delve into Continuous Delivery principles, practices, or tools. The focus is on installation issues rather than software delivery cycles or quality enhancement.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1422,6 +1434,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses issues related to installing Office 2010, specifically the challenges of upgrading from a 32-bit to a 64-bit version. It does not mention or align with the principles of the Shift-Left Strategy, which focuses on integrating testing, security, and compliance early in the software development lifecycle. The discussion is entirely unrelated to software development processes or the proactive identification of issues, thus resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:15:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses technical challenges related to installing Office 2010 on a 64-bit system, with no explicit focus on Continuous Improvement principles. While it touches on potential issues and considerations for future upgrades, it lacks a structured discussion on empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning, which are core to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:15:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical challenges related to installing Office 2010 on a 64-bit system, which does not align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth in relation to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:15:07",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses technical challenges related to installing Office 2010 on a 64-bit system, which does not directly address the principles of competence in Agile, Scrum, DevOps, or Lean methodologies. While there are mentions of challenges and considerations for installation, these do not align with the core themes of continuous learning, skill development, or professionalism that define the competence category.",
     "level": "Ignored"
   }
 }

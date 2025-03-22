@@ -26,6 +26,9 @@ headline:
   subtitle: Cultivating a responsive environment that fosters innovation, collaboration, and continuous improvement for transformative success.
   content: Exploring the dynamics of workplace culture and its impact on collaboration, innovation, and adaptability. Posts delve into practices that enhance team engagement, foster psychological safety, and drive continuous improvement, drawing insights from complexity theory and evidence-based management to navigate organisational challenges effectively.
   updated: 2025-02-13T12:03:37Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

@@ -25,6 +25,9 @@ headline:
   content: A framework for managing projects that prioritises iterative development, team collaboration, and responsiveness to change. It encompasses practices for visualising workflows, enhancing communication, and fostering continuous improvement, while addressing complexity and uncertainty in project environments. Topics include team dynamics, process optimisation, and value delivery.
   updated: 2025-03-17T14:46:22Z
 trustpilot: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

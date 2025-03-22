@@ -24,6 +24,9 @@ headline:
   subtitle: Foster sustainable innovation by leveraging empirical insights to enhance value delivery and informed decision-making within your organisation.
   content: Enhance your organisation's capacity for innovation by utilising empirical insights to drive sustainable value creation. Explore practices that foster a culture of experimentation, informed decision-making, and continuous improvement, while addressing topics such as measurement frameworks, team dynamics, and the interplay between complexity and innovation.
   updated: 2025-02-13T12:06:39Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

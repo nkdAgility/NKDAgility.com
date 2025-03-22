@@ -50,15 +50,6 @@
     "reasoning": "Content primarily discusses workflow management principles rather than the principles of BetaCodex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:20:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the principles of Caman workflow management, which is not directly related to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-03-06T13:38:17",
@@ -337,11 +328,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T12:21:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses workflow management principles without a clear focus on Evidence-Based Management or empirical data-driven decision-making.",
+    "calculated_at": "2025-03-21T17:20:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses workflow management principles but does not explicitly mention Evidence-Based Management or its key topics. While it touches on concepts like continuous improvement and feedback loops, which align with EBM's focus on empirical decision-making, it lacks a strong emphasis on data-informed decision-making or metrics that assess value delivery. The discussion is more about practical workflow strategies rather than evidence-based practices.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -1051,11 +1045,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T13:53:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Caman workflow management principles, which are unrelated to Continuous Delivery.",
+    "calculated_at": "2025-03-21T17:20:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses workflow management principles that focus on clarity, active management, and continuous improvement. While these concepts can relate to Continuous Delivery, the content does not explicitly mention Continuous Delivery or its specific practices. The discussion is more aligned with general workflow management rather than the specific principles and practices of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1491,6 +1488,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses workflow management principles within the Caman framework, focusing on clarity, active management, and continuous improvement. While these concepts may tangentially relate to efficiency in software development, they do not explicitly address the Shift-Left Strategy or its core themes such as early integration of testing, security, or compliance. The discussion lacks direct mentions of Shift-Left practices and does not provide depth on how these principles could be applied to enhance software quality or delivery speed.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:20:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content explicitly mentions 'continuous improvement' as one of the core principles of the Caman workflow management framework, which directly aligns with the category. However, while it discusses the importance of feedback loops and experimentation, the overall focus is more on workflow management rather than a deep exploration of Continuous Improvement principles. The depth of discussion on Continuous Improvement is present but not exhaustive, leading to a moderately high confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:20:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses workflow management principles that can enhance team efficiency but does not explicitly address Common Goals within Agile or DevOps frameworks. While it touches on collaboration and accountability, it lacks a direct focus on shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:20:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses principles of workflow management that indirectly relate to competence through continuous improvement and active management. However, it lacks explicit references to skill development or professionalism, which are central to the competence category. The focus is more on practical strategies rather than a deep exploration of competence as a foundational principle.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:20:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the Caman workflow management framework, focusing on its principles of clarity, active management, and continuous improvement. While it touches on themes of collaboration and efficiency, it does not explicitly mention or align with the One Engineering System (1ES) framework or its core principles. The discussion is centred around a specific methodology rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

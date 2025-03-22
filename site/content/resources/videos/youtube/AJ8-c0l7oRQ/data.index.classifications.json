@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T17:17:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:45:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the use of Minecraft and Lego in training, focusing on complexity and collaboration, but does not address DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the use of tools (Lego and Minecraft) in Scrum training, which is a specific methodology rather than a discussion on DevOps principles. While there are mentions of collaboration and complexity, these concepts are framed within the context of Scrum rather than the broader DevOps philosophy. The focus is on training methods rather than the integration of people, processes, and technology for continuous value delivery, which is central to DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -88,11 +91,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:36:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:45:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of Minecraft over Lego in training sessions without addressing Evidence-Based Management principles or empirical data.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the use of Lego and Minecraft as tools for Scrum training, focusing on their effectiveness in conveying complexity rather than providing any evidence-based management insights. It lacks direct mentions of EBM principles, and while it touches on the importance of effective learning experiences, it does not align with the core themes of EBM such as data-informed decision-making or metrics related to value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -327,15 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the use of Lego and Minecraft in training but does not relate to release management strategies, practices, or any associated topics.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:36:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the use of Lego and Minecraft in training, primarily related to Scrum, with no mention of the One Engineering System or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -631,11 +628,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:36:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:45:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses training methods using Lego and Minecraft, focusing on complexity and collaboration, which is unrelated to Continuous Delivery principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the use of tools in Scrum training, specifically comparing Lego and Minecraft. While it touches on aspects of complexity and collaboration, it does not directly address Continuous Delivery principles, practices, or benefits. The focus is on training methodologies rather than software delivery practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -724,11 +724,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:36:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:45:29",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of Minecraft and Lego in a training context, focusing on complexity and collaboration, without addressing the Agile Product Operating Model or its principles.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily critiques the use of Lego in Scrum training, focusing on the effectiveness of different tools rather than discussing the Agile Product Operating Model itself. While it touches on Scrum methodologies, it does not delve into the principles or practices of the Agile Product Operating Model, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1446,6 +1449,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the use of Lego and Minecraft as tools for Scrum training, focusing on their effectiveness in illustrating complexity and collaboration. It does not address the Shift-Left Strategy, which involves integrating testing, security, and compliance earlier in the software development lifecycle. The discussion is more about training methodologies rather than software development processes, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:45:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the effectiveness of different tools for Scrum training, focusing on the balance between simplicity and complexity. While it touches on the importance of creating impactful learning experiences, it does not explicitly address Continuous Improvement principles or strategies. The discussion is more about tool selection rather than a commitment to ongoing enhancement of processes or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:45:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily critiques the use of Lego in Scrum training and discusses alternative tools like Minecraft. While it touches on the importance of conveying the complexities of Scrum, it does not explicitly address Common Goals or their significance in Agile and DevOps frameworks. The focus is more on training tools rather than aligning strategy with execution or shared objectives, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:45:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the effectiveness of different tools for Scrum training, particularly contrasting Lego and Minecraft. While it touches on the importance of delivering a realistic learning experience, it does not explicitly focus on the continuous development of competence or the professional growth of individuals within Agile methodologies. The discussion is more about the tools used rather than the underlying principles of competence, which limits its alignment with the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:45:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the use of Lego and Minecraft as tools for Scrum training, which deviates from the core principles of the One Engineering System. While it touches on aspects of collaboration and complexity in software development, it does not explicitly mention or focus on the integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

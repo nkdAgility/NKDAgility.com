@@ -27,6 +27,9 @@ headline:
   subtitle: Delivering incremental enhancements swiftly to maximise value for users and stakeholders through continuous improvement practices.
   content: Facilitating the rapid and consistent delivery of enhancements, this classification emphasises practices that promote responsiveness to user feedback and evolving requirements. Posts should explore topics such as iterative development, minimising cycle times, prioritising value delivery, and leveraging metrics for informed decision-making.
   updated: 2025-02-13T12:04:23Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

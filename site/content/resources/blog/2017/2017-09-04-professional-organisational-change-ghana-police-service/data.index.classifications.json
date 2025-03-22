@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T21:13:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses organisational transformation and the need for empirical approaches, but it primarily focuses on the Ghana Police Service's change efforts rather than a comprehensive exploration of Evidence-Based Management principles.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses organisational transformation within the Ghana Police Service, touching on the need for empirical approaches and frameworks, which aligns with Evidence-Based Management principles. However, it primarily focuses on agile practices and leadership rather than providing a detailed analysis of evidence-based metrics or decision-making processes. The mention of empirical approaches is present but not the primary focus, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Code and Complexity": {
@@ -127,14 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T03:41:25",
+    "calculated_at": "2025-03-21T21:13:17",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
-    "ai_depth": 3.0,
+    "ai_depth": 7.0,
     "non_ai_confidence": 0,
     "final_score": 11.0,
-    "reasoning": "The content primarily discusses organisational change within the Ghana Police Service, focusing on leadership, vision, and the adoption of Scrum as a framework for transformation. While it briefly mentions Scrum, which is related to Agile methodologies, it does not delve into DevOps principles, practices, or tools. The discussion lacks a clear focus on the integration of development and operations, automation, or continuous delivery, which are core to the DevOps category.",
+    "reasoning": "The content primarily discusses organisational change within the Ghana Police Service, focusing on agile practices and leadership rather than the core principles of DevOps. While there are mentions of frameworks and transformation, they do not align with the specific themes of DevOps, such as automation, shared accountability, or continuous improvement in a software delivery context.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -338,22 +341,16 @@
     "reasoning": "The content discusses organisational change within the Ghana Police Service, touching on the need for a structured approach and leadership vision, which aligns with Systems Thinking principles. However, it primarily focuses on specific methodologies like Scrum and does not deeply explore the interconnectedness of system components or provide extensive analysis of complex systems. While it mentions the need for a framework rather than a methodology, the discussion lacks a thorough exploration of Systems Thinking concepts such as feedback loops and holistic analysis.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T19:08:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses organisational change within the Ghana Police Service, focusing on leadership, vision, and the adoption of Scrum, rather than the principles and components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T21:13:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses organisational transformation using Agile principles, particularly Scrum, but primarily focuses on the broader context of change management rather than specifically on the Agile Product Operating Model.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses organisational transformation within the Ghana Police Service, touching on agile practices and frameworks like Scrum. However, it primarily focuses on leadership and change management rather than the specific principles and practices of the Agile Product Operating Model. While there are mentions of agile methodologies, they are not the primary focus, and the depth of discussion on APOM-related topics is limited.",
     "level": "Tertiary"
   },
   "Organisational Agility": {
@@ -424,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T19:09:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:13:35",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational change and transformation within the Ghana Police Service, focusing on leadership and frameworks like Scrum, rather than Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content discusses organisational transformation and agile practices, but it primarily focuses on leadership and change management rather than Continuous Delivery principles. While there are mentions of frameworks and methodologies like Scrum, the core themes of Continuous Delivery, such as automation in deployment and rapid feedback loops, are not addressed. The discussion lacks depth in Continuous Delivery specifics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1545,6 +1545,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses organisational change within the Ghana Police Service, focusing on leadership, vision, and frameworks for transformation. While it touches on Agile principles and frameworks like Scrum, it does not explicitly address the Shift-Left Strategy or its core themes of integrating testing, security, and compliance early in the software development lifecycle. The discussion lacks depth in relation to the Shift-Left Strategy, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:13:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the Ghana Police Service's transformation and the need for a structured approach to change, which aligns with Continuous Improvement principles. It mentions the importance of a framework over a methodology and highlights the role of leadership in fostering change. However, while it touches on relevant themes, it lacks a detailed exploration of Continuous Improvement techniques and empirical evidence, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:13:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the need for a clear vision and structured approach to organisational change, which aligns with the concept of Common Goals. It mentions the importance of leadership and shared objectives in the transformation of the Ghana Police Service. However, while it touches on these themes, the primary focus is on the transformation process itself rather than explicitly detailing how these goals connect to Agile or DevOps principles. The depth of discussion on aligning strategy with execution is moderate, but it lacks a comprehensive exploration of frameworks like OKRs or specific tactical commitments.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:13:27",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the transformation of the Ghana Police Service and touches on the need for a structured approach and leadership in driving change, which aligns with the principles of competence. However, while it mentions the importance of frameworks and leadership styles, it does not delve deeply into continuous learning or skill development, which are core themes of the competence category. The focus is more on organisational change rather than on the development of individual or team competencies.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:13:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses organisational transformation within the Ghana Police Service, focusing on agile practices and frameworks like Scrum. While it touches on the need for a structured approach and mentions frameworks, it primarily centres on leadership and change management rather than the specific principles and components of the One Engineering System. The discussion lacks a direct focus on integration and standardisation of engineering processes, which is essential for a higher confidence score in this category.",
     "level": "Ignored"
   }
 }

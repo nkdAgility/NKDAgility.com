@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T18:51:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:59:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses training and team dynamics without a focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile training and the use of a Minecraft case study to enhance engagement and team dynamics. While it touches on collaboration and teamwork, which are relevant to DevOps, it does not explicitly discuss DevOps principles or practices. The emphasis is on Agile methodologies rather than the broader DevOps philosophy, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -88,11 +91,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T18:51:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:00:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a trainer's effectiveness and a specific case study without focusing on evidence-based management principles or empirical data.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on an innovative training method using a Minecraft case study to enhance Agile practices. While it discusses engagement and team dynamics, it lacks direct references to Evidence-Based Management principles or metrics. The discussion is more about training effectiveness rather than empirical decision-making or value delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -321,15 +327,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses training and team dynamics related to an Agile case study, with no focus on release management practices or processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T18:52:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific training case study and personal opinions on a trainer, without focusing on the principles or components of the One Engineering System.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -631,11 +628,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T18:53:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:00:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses training and team dynamics related to a case study, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile training and the use of a Minecraft case study to enhance engagement and team dynamics. While it touches on aspects of Agile methodologies, it does not explicitly discuss Continuous Delivery principles, practices, or tools. The mention of Agile practices is secondary to the main theme of training and engagement, leading to a low confidence score in relation to Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -727,11 +727,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T18:53:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a trainer and a specific case study without focusing on Agile principles or the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T19:00:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses Agile training and the use of a Minecraft case study to enhance understanding of Agile practices. However, it primarily focuses on training methods rather than the Agile Product Operating Model itself. While there are mentions of Agile practices and their application, the content lacks a direct discussion of the APOM framework, its principles, or its operational aspects, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1446,6 +1449,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Agile training and the effectiveness of a Minecraft case study in enhancing team dynamics and engagement. It does not explicitly discuss the Shift-Left Strategy or its principles, benefits, or techniques. While there are mentions of Agile practices, they do not align with the core themes of integrating testing, security, or compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:00:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses an innovative training method using a Minecraft case study, which indirectly relates to Continuous Improvement by enhancing team dynamics and engagement in Agile practices. However, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or strategies for integrating these practices into organisational processes. The focus is more on the training method rather than a systematic approach to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:00:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile training and the use of a Minecraft case study, which indirectly relates to team dynamics and engagement. However, it lacks a direct focus on Common Goals, such as shared objectives or strategic alignment within Agile frameworks. The discussion is more about the training method and personal experiences rather than the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:00:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile training and the effectiveness of the Minecraft case study, which indirectly relates to competence through engagement and real-world application. However, it primarily focuses on the training method and team dynamics rather than explicitly addressing continuous learning or skill development, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:00:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on an Agile training case study using Minecraft, which does not directly discuss the One Engineering System framework or its principles. While it touches on themes of team dynamics and engagement, it lacks explicit references to 1ES, integration of tools, or standardisation of processes, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

@@ -37,12 +37,12 @@ tags:
 - Practical Techniques and Tooling
 - Decision Making
 - Discovery and Learning
-- Evidence Based Management
 - Hypothesis Driven Development
 - Product Discovery
 - Product Validation
 - Metrics and Learning
 - Products and Books
+- Value Delivery
 categories:
 - Product Management
 preview: NKDAgility-Courses-PSVS-16x9-1.png

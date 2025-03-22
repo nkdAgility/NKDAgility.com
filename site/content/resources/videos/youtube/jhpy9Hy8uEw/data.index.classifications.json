@@ -646,11 +646,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T05:49:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:22:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles, training, and the differences between Scrum.Org and Scrum Alliance, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the author's preference for Scrum.org over Scrum Alliance, focusing on Scrum training and certification rather than Continuous Delivery practices. While it touches on themes of continuous improvement and community development, it lacks direct references to Continuous Delivery principles, automation, or deployment strategies, which are essential for a higher confidence score in this category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -823,11 +826,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T05:49:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:22:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and preferences regarding Scrum certification tracks, lacking a focus on empirical evidence or data-driven management practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses personal experiences and preferences regarding Scrum training organisations, specifically Scrum.org and Scrum Alliance. While it touches on some aspects of Scrum and Agile values, it does not focus on Evidence-Based Management principles or metrics. There are no direct mentions of empirical decision-making or the key topics outlined in the EBM definition, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1270,11 +1276,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T05:47:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:21:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Scrum training and certification rather than DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the differences between Scrum.org and Scrum Alliance, focusing on Scrum training and certification rather than DevOps principles. While it touches on themes of continuous improvement and community development, these are not explicitly linked to DevOps practices or philosophy. The lack of direct mentions and minimal alignment with core DevOps topics results in a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1466,22 +1475,16 @@
     "reasoning": "Content primarily discusses personal experiences and preferences regarding Scrum.Org and Scrum Alliance, focusing on certification processes and community development rather than the principles of Beta Codex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:34:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses personal experiences and opinions regarding Scrum.Org and Scrum Alliance, which are unrelated to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:34:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:22:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses personal experiences and opinions regarding Scrum certification tracks, rather than focusing on the Agile Product Operating Model or its principles.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the author's preference for Scrum.org over Scrum Alliance, focusing on Scrum training and certification rather than the Agile Product Operating Model. While it touches on agile values and principles, it lacks a direct discussion of the APOM framework or its key topics, making it more aligned with Scrum practices than the broader APOM context.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1533,6 +1536,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the author's experience with Scrum.Org versus Scrum Alliance, focusing on certification processes and community development within Scrum training. It does not address the Shift-Left Strategy or its principles, benefits, or techniques, which are essential for alignment with the category. The discussion is centred around Scrum methodologies rather than integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:21:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the author's preference for Scrum.Org over Scrum Alliance, highlighting aspects of community development and continuous improvement within Scrum.Org's training approach. While it mentions continuous improvement, it does so in a limited context, primarily focusing on personal experiences and comparisons rather than a broader discussion on Continuous Improvement principles. The alignment with key topics is present but not deeply explored, and the depth of discussion is moderate, primarily anecdotal rather than empirical or strategic.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:21:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on personal experiences and preferences regarding Scrum certification tracks rather than discussing the concept of Common Goals within Agile or DevOps frameworks. While it touches on some Agile principles, it lacks a direct discussion on shared objectives or alignment strategies that are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:21:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the author's journey and experiences with Scrum.org, highlighting the importance of competence in training and certification. It emphasises continuous improvement, community development, and the value of professional integrity, which aligns well with the core themes of competence. The depth of discussion regarding the differences between Scrum.org and Scrum Alliance, particularly in terms of skill validation and community support, further supports the focus on competence. However, while competence is a significant theme, the content also touches on other aspects such as organisational ethos and personal experiences, which slightly dilutes the primary focus.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:22:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the differences between Scrum.org and Scrum Alliance, focusing on personal experiences and opinions regarding Scrum training and certification. It does not address the principles or components of the One Engineering System framework, nor does it discuss integration of tools and processes across teams, best practices for implementing 1ES, or any of the other key topics outlined for this category. Therefore, it has minimal relevance to the One Engineering System.",
     "level": "Ignored"
   }
 }

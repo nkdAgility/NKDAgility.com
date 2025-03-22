@@ -670,15 +670,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T18:06:14",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-21T17:15:12",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily discusses evidence-based management in Scrum, focusing on value areas rather than Continuous Delivery principles. While it touches on aspects like 'Time to Market' and 'Ability to Innovate', which are relevant to CD, the overall emphasis is on Scrum methodologies and metrics rather than the core practices of Continuous Delivery. Therefore, the confidence score reflects a low alignment with the Continuous Delivery category.",
-    "level": "Ignored"
+    "final_score": 57.0,
+    "reasoning": "The content discusses aspects of delivery speed and efficiency, particularly in the context of 'Time to Market' and 'Ability to Innovate', which are relevant to Continuous Delivery. However, the primary focus is on Evidence-Based Management within Scrum, rather than Continuous Delivery principles. The discussion lacks depth in Continuous Delivery practices and does not explicitly mention automation or incremental delivery techniques, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -847,14 +847,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T18:06:26",
+    "calculated_at": "2025-03-21T17:15:15",
     "ai_confidence": 92.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 95.0,
-    "ai_depth": 90.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 20,
     "final_score": 85.0,
-    "reasoning": "The content explicitly discusses evidence-based management in the context of Scrum, detailing its principles and the four key value areas. It aligns closely with the core themes of EBM, such as data-driven decision-making and the importance of metrics. The depth of discussion is substantial, providing specific metrics and strategies for implementation, which reinforces the focus on empirical evidence.",
+    "reasoning": "The content explicitly discusses Evidence-Based Management (EBM) in the context of Scrum, detailing the four key value areas: Current Value, Unrealised Value, Ability to Innovate, and Time to Market. Each area is thoroughly explained with relevant metrics and examples, demonstrating a strong alignment with the core themes of EBM. The depth of discussion is significant, providing actionable insights and strategies for implementation, which reinforces the primary focus on evidence-based practices.",
     "level": "Primary"
   },
   "Backlog Refinement": {
@@ -1490,15 +1490,6 @@
     "reasoning": "Content primarily discusses evidence-based management and Scrum roles, with no clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:12:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on evidence-based management rather than the principles and components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:13:29",
@@ -1572,6 +1563,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses evidence-based management in Scrum, focusing on value areas and metrics rather than integrating testing, security, or compliance earlier in the development process. While it touches on aspects of efficiency and innovation, it does not explicitly address the Shift-Left Strategy or its principles.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:14:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses evidence-based management and its four key value areas, which align with the principles of Continuous Improvement. It emphasises data-driven decision-making and the importance of measuring performance to enhance organisational capabilities. However, while it touches on relevant themes, the primary focus is on specific metrics and value areas rather than a broader discussion of Continuous Improvement practices or strategies. Therefore, the confidence score reflects a moderate alignment with the category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:15:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses evidence-based management in Scrum, focusing on key value areas that contribute to organisational performance. While it touches on aspects of alignment and strategic decision-making, it primarily centres on metrics and operational efficiency rather than explicitly addressing shared objectives or the foundational principles of Common Goals in Agile and DevOps. The discussion lacks depth in connecting these concepts to overarching strategic objectives, resulting in a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:15:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of organisational capability and the ability to innovate, which are closely related to competence. It mentions metrics for assessing these areas, indicating a focus on continuous improvement and skill development. However, while competence is a theme, it is not the primary focus of the content, which centres more on evidence-based management and value areas in Scrum.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:15:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management within the Scrum framework, focusing on value areas rather than the principles or components of the One Engineering System. While it touches on aspects of organisational capability and efficiency, it does not explicitly mention 1ES or its integration and standardisation goals, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

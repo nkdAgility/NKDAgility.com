@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T17:07:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:33:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile planning rather than DevOps principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile methodologies, discussing planning within those frameworks. While it briefly mentions DevOps in the conclusion, it does not delve into DevOps principles or practices, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -97,11 +100,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T21:19:40",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-21T18:33:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content discusses planning within Scrum and Agile contexts but does not focus on evidence-based management principles, empirical data use, or relevant metrics.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum and the importance of planning within Agile methodologies, which does not directly address Evidence-Based Management. While it touches on the need for effective planning and coordination, it lacks a focus on empirical evidence or metrics that are central to EBM. The discussion is more about Agile practices than data-informed decision-making, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -345,15 +351,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without a clear focus on Release Management practices or processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum roles, events, and planning processes, which are not directly related to the principles of One Engineering System (1ES).",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -685,11 +682,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile planning rather than Continuous Delivery principles, practices, and methodologies.",
+    "calculated_at": "2025-03-21T18:33:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile planning, with no direct mention of Continuous Delivery principles or practices. While it discusses planning, it does not address automation, incremental improvements, or rapid feedback, which are key aspects of Continuous Delivery. The discussion is centred around Scrum events and the importance of planning, making it largely irrelevant to the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -784,15 +784,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T21:20:51",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 25,
-    "ai_depth": 25,
+    "calculated_at": "2025-03-21T18:33:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 30,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses Scrum and the importance of planning within Agile frameworks, which is relevant to the Agile Product Operating Model. However, it focuses more on Scrum practices rather than the broader principles of a product-centric approach or the Agile Product Operating Model itself. While it touches on themes like alignment and planning in large teams, it lacks a comprehensive exploration of the Agile Product Operating Model's core themes, such as continuous feedback, cross-functional teams, and value delivery metrics.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Scrum and the importance of planning within that framework, which is more aligned with traditional Agile practices rather than the Agile Product Operating Model. While it touches on themes like planning and coordination, it lacks a direct focus on product management principles and the broader aspects of the Agile Product Operating Model, such as continuous delivery and customer-centric value. The depth of discussion on planning is significant, but it does not sufficiently address the core principles of APOM.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1548,6 +1548,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the importance of planning within the Scrum framework, discussing various planning events and strategies. While it touches on Agile principles, it does not explicitly address the Shift-Left Strategy or its core themes such as early integration of testing, security, or compliance in the software development lifecycle. The discussion lacks depth regarding the proactive measures associated with Shift-Left practices, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:33:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the importance of planning within the Scrum framework, which is a component of Agile methodologies. While it touches on aspects of effective planning and team alignment, it does not explicitly discuss Continuous Improvement principles or practices. The discussion lacks depth in terms of empirical evidence, techniques for fostering a culture of experimentation, or strategies for integrating Continuous Improvement into organisational processes. Therefore, while there are relevant themes, they are not the primary focus, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:33:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of planning within Scrum, which indirectly relates to Common Goals through the mention of Vision and Product Goals that guide team alignment. However, the primary focus is on planning techniques rather than explicitly addressing the concept of Common Goals or their significance in Agile and DevOps. The depth of discussion on Common Goals is minimal, as it does not explore the relationship between strategic goals and tactical commitments in detail.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:33:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of planning in Scrum, which indirectly relates to competence by emphasising the need for effective strategies and decision-making. However, it primarily focuses on planning rather than directly addressing competence as a foundational principle. The discussion lacks depth in exploring continuous learning or skill development, which are key aspects of competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:33:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile methodologies, discussing planning within those frameworks. While it touches on coordination in large teams, it does not explicitly mention or align with the principles of the One Engineering System (1ES). The discussion is centred around Scrum practices rather than the integration and standardisation of engineering processes as defined by 1ES.",
     "level": "Ignored"
   }
 }

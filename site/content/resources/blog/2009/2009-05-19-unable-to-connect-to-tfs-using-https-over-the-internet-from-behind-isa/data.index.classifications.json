@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:39:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:18:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to connecting to TFS and proxy authentication, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to connecting to TFS via HTTPS and does not mention Evidence-Based Management or its key topics. It lacks any empirical decision-making or metrics related to value delivery, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:39:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:18:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to connecting to TFS and proxy authentication, which are not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a technical issue related to connecting to TFS via HTTPS and proxy authentication problems. While it touches on aspects of software development and tools, it does not engage with the core principles of DevOps, such as collaboration, automation, or shared accountability. The focus is on a specific technical workaround rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -308,7 +314,7 @@
     "reasoning": "Content primarily discusses technical issues related to connecting to TFS and proxy authentication, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:40:04",
     "ai_confidence": 0,
@@ -319,11 +325,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:40:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:18:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to connecting to TFS and proxy authentication, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to connecting to TFS via HTTPS and does not mention or align with any principles of the Agile Product Operating Model. It focuses on troubleshooting and workarounds for proxy authentication problems, which are unrelated to agile methodologies or product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -394,11 +403,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:18:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to connecting to TFS through a proxy and does not address principles or practices related to Continuous Delivery.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses issues related to connecting to TFS via HTTPS and proxy authentication problems, which are not directly related to Continuous Delivery principles or practices. There are no explicit mentions of Continuous Delivery, and the discussion lacks depth on any relevant topics such as automation, incremental improvements, or software quality. Overall, the content does not align with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1428,6 +1440,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a technical issue related to connecting to TFS through a proxy server, with no mention of testing, security, or compliance processes in the software development lifecycle. It does not align with the core themes of the Shift-Left Strategy, which focuses on integrating these critical processes earlier in development. The discussion is limited to troubleshooting a specific connectivity problem, lacking any depth or relevance to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:18:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to connecting to TFS via HTTPS and does not discuss Continuous Improvement principles or practices. There are no direct mentions of Continuous Improvement, nor does it align with the core themes such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is limited to a specific problem and workaround, lacking any broader context or strategies related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:18:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to connecting to TFS via HTTPS and does not address the concept of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth on any related themes.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:18:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses technical issues related to connecting to TFS via HTTPS and does not focus on competence, continuous learning, or skill development. While it touches on problem-solving, it lacks depth in discussing the principles of competence as defined in Agile and DevOps contexts.",
     "level": "Ignored"
   }
 }

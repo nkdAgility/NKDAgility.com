@@ -655,11 +655,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T08:47:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:38:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses organisational culture and employee engagement, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the culture of contempt within Agile teams and leadership dynamics, which does not directly address Continuous Delivery principles or practices. While it touches on team dynamics and productivity, it lacks explicit references to Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback mechanisms.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -835,11 +838,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T08:47:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:38:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational culture and employee engagement, lacking a focus on empirical evidence or data-driven decision-making.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the impact of leadership decisions on team morale and productivity, which indirectly relates to evidence-based management principles. However, it lacks direct references to empirical metrics or data-informed decision-making, focusing instead on cultural issues within Agile teams.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1291,11 +1297,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T08:45:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses issues related to organisational culture and employee engagement, primarily within the context of Agile and Scrum, without a clear focus on DevOps principles or practices.",
+    "calculated_at": "2025-03-21T18:38:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses issues related to Agile teams and leadership dynamics, which are not directly aligned with DevOps principles. While it touches on themes of collaboration and communication, it lacks a focus on the core DevOps concepts such as automation, shared accountability, and continuous improvement. The discussion is more centred on Agile methodologies rather than the integration of development and operations, which is essential for DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1480,12 +1489,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:10:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T18:38:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the disconnect between leadership and team members in an Agile context, highlighting the importance of engagement and input from product teams, which aligns with the Agile Product Operating Model. However, it primarily focuses on organisational culture and employee sentiment rather than the specific principles and practices of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the culture of contempt within Agile teams, touching on leadership and team dynamics, which are relevant to the Agile Product Operating Model. However, it primarily focuses on interpersonal relationships and morale rather than the core principles of APOM, such as product management practices or operational governance. The discussion lacks depth in terms of specific Agile methodologies or frameworks, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1503,15 +1515,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses issues related to Agile and Scrum teams, focusing on organisational culture and leadership, without any mention of platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:11:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues of organisational culture and employee engagement within Agile and Scrum teams, without a focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1554,6 +1557,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the culture of contempt within Agile teams and does not address the Shift-Left Strategy or its principles, benefits, or techniques. While it touches on team dynamics and decision-making, it lacks any direct mention or detailed exploration of integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:38:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the negative impact of a culture of contempt on team morale and productivity, which indirectly relates to Continuous Improvement. However, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or structured strategies for improvement. The focus is more on addressing cultural issues rather than on systematic enhancement of processes or products.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:38:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the negative impact of a culture of contempt on Agile teams and highlights the importance of fostering a positive culture, which indirectly relates to the concept of Common Goals. However, it primarily focuses on issues of morale and leadership rather than explicitly addressing shared objectives or alignment within Agile frameworks. The discussion lacks depth in connecting these themes to the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:38:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the impact of a culture of contempt on team morale and productivity, which indirectly relates to competence. However, it primarily focuses on team dynamics and leadership strategies rather than on the development of skills or continuous learning, which are central to the competence category. The mention of fostering open communication and involving teams in decision-making touches on competence but lacks depth in discussing skill development or mastery.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:38:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the culture of contempt within Agile teams and leadership dynamics, which does not directly relate to the One Engineering System framework. While it touches on team dynamics and productivity, it lacks explicit references to 1ES principles, integration of tools, or standardisation of processes, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

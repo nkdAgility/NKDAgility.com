@@ -1,14 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:27:05",
+    "calculated_at": "2025-03-21T20:59:49",
     "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
+    "ai_mentions": 50.0,
     "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
     "final_score": 43.0,
-    "reasoning": "The content briefly mentions DevOps as a topic for discussion, but it does not delve into specific principles, practices, or tools associated with DevOps. The focus is more on a Q&A format with a Scrum Trainer, which suggests a secondary emphasis on Agile methodologies rather than a primary focus on DevOps itself.",
+    "reasoning": "The content mentions DevOps as a topic of discussion during the AMA, indicating a direct mention. However, the primary focus appears to be on Agility and Scrum, with DevOps being a secondary topic. The alignment with core DevOps themes is limited, as there is no in-depth exploration of DevOps principles or practices. The depth of discussion is also minimal, as it primarily invites questions rather than providing substantive content on DevOps.",
     "level": "Tertiary"
   },
   "Social Technologies": {
@@ -244,11 +244,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:22:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:00:11",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content invites questions on a wide range of topics including DevOps and Agility, but does not focus primarily on Continuous Delivery principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on an AMA session with a Scrum Trainer discussing DevOps and Agility, without a specific emphasis on Continuous Delivery principles or practices. While DevOps is related to Continuous Delivery, the discussion does not delve into the core themes or detailed aspects of Continuous Delivery itself.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -378,15 +381,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on DevOps and Agile topics without a clear emphasis on Value Stream Management.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:22:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile and Scrum topics rather than the central principles of the One Engineering System.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1141,11 +1135,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:22:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:00:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about an open Q&A session related to various topics, including DevOps and Agility, without a focused discussion on Agile Product Operating Model principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a live Q&A session with a Scrum Trainer, discussing general topics related to DevOps and Agility. It does not explicitly mention the Agile Product Operating Model or its core principles, nor does it delve into the specific themes outlined in the category description. The discussion appears to be more about Scrum and general agile practices rather than the product-oriented mindset central to the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1348,11 +1345,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:22:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:00:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a Q&A format about various topics, including DevOps and Agility, without a clear emphasis on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on an AMA session with a Scrum Trainer, discussing topics related to DevOps and Agility. There are no direct mentions of Evidence-Based Management or its key themes, and the discussion lacks depth regarding empirical decision-making or metrics related to value delivery.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1422,6 +1422,54 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily invites questions on various topics related to DevOps and Agility without specifically addressing the Shift-Left Strategy. There are no direct mentions or discussions of integrating testing, security, or compliance earlier in the software development lifecycle, which are core to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:59:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on an AMA session with a Scrum Trainer, discussing topics related to DevOps and Agility. While it may touch on aspects of Agile methodologies, it does not explicitly address Continuous Improvement principles or provide any depth on the subject. The lack of direct mentions and minimal alignment with the core themes of Continuous Improvement results in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:59:55",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily promotes an AMA session with a Scrum Trainer, focusing on general questions about DevOps and Agility. While it mentions Agile and DevOps, it does not explicitly discuss Common Goals or their significance in aligning strategy with execution. The discussion lacks depth and does not provide detailed insights into how Common Goals impact team alignment or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:59:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Martin's qualifications as a Professional Scrum Trainer and Microsoft MVP, which implies a level of competence. However, it does not delve into discussions about continuous learning, skill development, or the importance of competence in Agile or DevOps environments. The focus is more on the AMA format rather than on the principles of competence, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:00:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on an AMA session with a Scrum Trainer, discussing topics related to DevOps and Agility, which are not directly aligned with the One Engineering System framework. There are no explicit mentions of 1ES principles, components, or its implementation, and the discussion lacks depth regarding the integration and standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

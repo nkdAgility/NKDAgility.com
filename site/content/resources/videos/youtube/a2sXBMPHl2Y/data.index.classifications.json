@@ -652,14 +652,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T00:22:22",
+    "calculated_at": "2025-03-21T19:54:33",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
     "final_score": 31.0,
-    "reasoning": "The content briefly mentions 'continuous delivery to production' within a broader discussion about private training courses and Agile methodologies. While it touches on relevant themes, the primary focus is on training rather than Continuous Delivery principles or practices. The depth of discussion on Continuous Delivery is minimal, making it a secondary topic rather than a primary focus.",
+    "reasoning": "The content briefly mentions 'continuous delivery to production' within a broader discussion on private training courses focused on Agile and Scrum. However, the primary focus is on the benefits of private training rather than on Continuous Delivery principles or practices. The alignment with the core themes of Continuous Delivery is weak, as the content does not delve into automation, incremental improvements, or the cultural aspects of Continuous Delivery. Overall, while there is a mention of Continuous Delivery, it is not a primary focus, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -829,11 +829,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T09:52:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:54:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the benefits of private training courses and the dynamics of conversations within those settings, rather than focusing on evidence-based management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the benefits of private training courses in Agile and Scrum contexts, without directly addressing Evidence-Based Management principles. While it mentions enhancing team effectiveness and driving success, it lacks explicit discussions on empirical evidence, metrics, or data-informed decision-making that are central to EBM. The alignment with EBM themes is minimal, and the depth of discussion does not delve into the core aspects of EBM, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1285,15 +1288,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:14:09",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-21T19:54:13",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 50,
-    "final_score": 61.0,
-    "reasoning": "The content briefly mentions DevOps in the context of training and discussions around Agile practices. However, it primarily focuses on the benefits of private training courses and the dynamics of conversations within those settings, rather than providing a detailed exploration of DevOps principles, practices, or tools. While there is some alignment with DevOps themes, the depth of discussion is limited, and the primary focus is not on DevOps itself.",
-    "level": "Secondary"
+    "final_score": 34.0,
+    "reasoning": "The content briefly mentions DevOps in the context of training but primarily focuses on private training courses and Agile methodologies, particularly Scrum. While there are references to continuous delivery and Agile practices, the discussion lacks depth and does not align closely with the core principles of DevOps, such as collaboration, automation, and shared accountability.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1481,23 +1484,17 @@
     "reasoning": "Content primarily discusses the benefits of private training courses and the dynamics of conversations within those settings, without a clear focus on BetaCodex principles or themes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:29:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the benefits of private training courses and the dynamics of conversations in training settings, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T07:29:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T19:54:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and training but primarily focuses on the benefits of private training courses rather than the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile and Scrum training but does not focus on the Agile Product Operating Model specifically. While it mentions Agile principles and the benefits of private training, it lacks a direct connection to the core themes of the APOM, such as product management practices or operational governance. The discussion is more about training effectiveness rather than the integration of agile methodologies with product management.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1548,6 +1545,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses private training courses in Agile and DevOps, focusing on the benefits of candid conversations and team dynamics rather than integrating testing, security, or compliance early in the software development lifecycle. There are no direct mentions of the Shift-Left Strategy, and the discussion lacks depth in relation to its principles or techniques.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:54:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the benefits of private training courses in enhancing team effectiveness and fostering open dialogue, which aligns with the principles of Continuous Improvement. However, it primarily focuses on training rather than a systematic approach to Continuous Improvement. While there are mentions of candid conversations and realisations of possibilities, the depth of discussion on Continuous Improvement methodologies and frameworks is limited.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:54:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses private training courses in the context of Agile and DevOps but does not explicitly address Common Goals or their significance in aligning strategy with execution. While it touches on team effectiveness and the potential for candid discussions, it lacks a direct focus on shared objectives or the operationalisation of Common Goals. The discussion is more about the benefits of training rather than how these relate to overarching strategic goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:54:24",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the benefits of private training courses in enhancing team effectiveness and fostering open dialogue, which aligns with the themes of continuous learning and skill development. It mentions the importance of candid conversations and realisation of capabilities, indicating a focus on competence. However, while it touches on these aspects, it does not delve deeply into strategies for fostering a culture of competence or the impact on decision-making, which limits the depth of discussion.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:54:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on private training courses related to Agile and Scrum, with no direct mention or discussion of the One Engineering System framework. While it touches on themes of team effectiveness and collaboration, it does not align with the core principles of 1ES, such as standardisation and integration of software development practices across teams. The depth of discussion is limited to training benefits rather than the implementation or impact of a unified engineering system.",
     "level": "Ignored"
   }
 }

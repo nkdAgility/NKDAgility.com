@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:40:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:10:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS Integration Tools and does not address Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS Integration Tools and does not mention or align with the principles of Evidence-Based Management. It lacks any discussion on metrics, data-informed decision-making, or value delivery, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:46:03",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-22T08:10:25",
+    "ai_confidence": 12.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses a specific issue related to TFS Integration Tools, which is a tool used in DevOps practices. However, it primarily focuses on a technical problem and workaround rather than broader DevOps principles, practices, or cultural shifts. The mention of TFS suggests a connection to DevOps, but the lack of discussion on CI/CD, automation, or team collaboration limits its alignment with the category.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to TFS Integration Tools, which does not align with the core principles of DevOps. While it mentions tools used in a development context, it lacks discussions on collaboration, automation, or cultural shifts that are central to DevOps. The content is more about resolving technical issues rather than exploring the DevOps philosophy or practices.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +323,7 @@
     "reasoning": "Content primarily discusses a technical issue related to TFS Integration Tools and does not address Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:40:48",
     "ai_confidence": 0,
@@ -331,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:40:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:10:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS Integration Tools and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS Integration Tools and does not mention or align with any principles of the Agile Product Operating Model. It focuses on troubleshooting a specific error rather than product management or agile methodologies.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -409,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T23:26:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:10:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to TFS Integration Tools and error messages, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a specific error related to TFS Integration Tools and provides a workaround for it. There are no direct mentions of Continuous Delivery principles, practices, or related topics. The focus is on troubleshooting a technical issue rather than exploring Continuous Delivery concepts or methodologies.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1455,6 +1464,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a technical issue related to TFS Integration Tools and does not address the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance earlier in the development process, nor does it explore the principles or benefits of the Shift-Left approach. The focus is on troubleshooting a specific error rather than on proactive strategies in software development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:10:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error in TFS Integration Tools and provides a workaround. While it does suggest a solution to improve the migration process, it lacks a broader discussion on Continuous Improvement principles, such as empirical evidence, team effectiveness, or a culture of experimentation. The mention of a workaround does not align with the core themes of Continuous Improvement, which requires a more systematic approach to enhancing processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:10:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical issue related to TFS Integration Tools and does not discuss or align with the concept of Common Goals in Agile or DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth on these topics.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:10:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error in TFS Integration Tools, with no direct discussion of competence, continuous learning, or skill development. While it does imply a level of technical competence required to resolve the issue, it does not explore the broader themes of competence as defined in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

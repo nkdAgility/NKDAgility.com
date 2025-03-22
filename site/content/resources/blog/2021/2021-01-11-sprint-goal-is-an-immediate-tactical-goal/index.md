@@ -30,11 +30,11 @@ tags:
 - Scrum Product Development
 - Professional Scrum
 - Agile Project Management
+- Common Goals
 - Software Development
 - Value Delivery
 - Product Delivery
 - Agile Planning
-- Agile Frameworks
 categories:
 - Scrum
 - Product Management

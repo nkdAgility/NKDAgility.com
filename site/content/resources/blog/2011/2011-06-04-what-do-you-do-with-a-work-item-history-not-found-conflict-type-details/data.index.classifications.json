@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T22:48:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:41:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS migration and does not focus on evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS migration and does not focus on Evidence-Based Management principles. There are no explicit mentions of data-informed decision-making or the key topics outlined in the EBM definition. The discussion is more about resolving specific migration conflicts rather than applying empirical evidence to management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T13:01:13",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 25,
-    "ai_depth": 20,
+    "calculated_at": "2025-03-22T08:41:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses issues related to the migration of work items in TFS (Team Foundation Server), which is a tool commonly used in DevOps practices. It touches on aspects of continuous integration and delivery, particularly in the context of managing work item histories and revisions. However, while it mentions technical details relevant to DevOps, it lacks a broader discussion on DevOps principles, cultural shifts, or metrics for success, which limits its depth of discussion in the category.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to TFS migration conflicts, which is more focused on a tool and its operational challenges rather than the broader principles and cultural aspects of DevOps. While it touches on aspects of integration and workflow, it lacks a comprehensive discussion on DevOps philosophies such as collaboration, automation, or shared accountability. Therefore, it does not align closely with the core themes of the DevOps category.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -323,7 +326,7 @@
     "reasoning": "Content primarily discusses technical issues related to TFS migration and work item history conflicts, without a focus on Systems Thinking principles or methodologies.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T22:50:00",
     "ai_confidence": 0,
@@ -334,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T22:50:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:41:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS migration and work item history, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS migration and work item history conflicts, with no direct references to Agile Product Operating Model principles or practices. It lacks any discussion on agile methodologies, product management, or the core themes outlined in the APOM definition.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -412,11 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T23:10:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:41:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to TFS migration and work item history, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses issues related to TFS migration conflicts and does not focus on Continuous Delivery principles, practices, or benefits. While it mentions a migration process that could be part of a delivery pipeline, it lacks explicit discussions on automation, rapid feedback, or cultural aspects of Continuous Delivery. The content is more about troubleshooting specific errors rather than exploring Continuous Delivery as a practice.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1476,6 +1485,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses issues related to TFS migration and work item history conflicts without addressing the principles or practices of the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it provide insights into the benefits or methodologies associated with a Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:41:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to TFS migration conflicts, with minimal reference to Continuous Improvement principles. While there are mentions of resolving errors and improving processes, the discussion lacks a broader context of ongoing reflection, adaptation, or empirical evidence that characterises Continuous Improvement. The content does not provide strategies, case studies, or frameworks that would typically align with the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:41:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical details related to TFS migration conflicts and does not discuss or align with the concept of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or frameworks like OKRs, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:41:21",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on technical issues related to TFS migration and does not discuss competence, continuous learning, or skill development. While it touches on problem-solving, it lacks a clear connection to the principles of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

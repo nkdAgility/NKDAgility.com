@@ -658,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T02:30:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:34:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses agile consulting and coaching, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses agile consulting and coaching, focusing on internal competencies and leadership rather than Continuous Delivery principles. While it touches on themes of improvement and agile practices, it does not explicitly address Continuous Delivery concepts such as automation, rapid feedback, or deployment strategies.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -835,15 +838,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T02:06:59",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-21T20:34:41",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 59.0,
-    "reasoning": "The content discusses agile consulting and the importance of developing internal capabilities, but it lacks a strong focus on Evidence-Based Management principles. While it mentions the use of data and evidence in decision-making, it does not delve deeply into EBM practices or metrics, which are central to the category. The discussion is more about agile coaching and consulting rather than a comprehensive exploration of EBM.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses agile consulting and the importance of developing internal capabilities, but it primarily focuses on the roles of agile coaches and consultants rather than on evidence-based management practices. While there are mentions of using data and evidence to inform decisions, the overall emphasis is on agile methodologies rather than the specific metrics and empirical decision-making central to Evidence-Based Management.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1285,11 +1288,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T02:28:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:34:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile consulting and coaching, focusing on internal competencies and leadership rather than DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses agile consulting and coaching, focusing on internal competencies and the role of agile consultants versus coaches. While there are some overlaps with DevOps principles, such as collaboration and continuous improvement, the main focus is on agile methodologies rather than the broader DevOps philosophy. The content does not explicitly mention DevOps or its key topics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1478,23 +1484,17 @@
     "reasoning": "The content discusses agile consulting and the importance of developing internal leadership capabilities, which aligns with human-centric approaches and decentralisation principles of BetaCodex, but it primarily focuses on agile coaching rather than the broader principles of BetaCodex.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:42:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile consulting and coaching, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:42:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:34:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses agile consulting and coaching, which are related to the Agile Product Operating Model, but the primary focus is on the roles and effectiveness of agile consultants versus coaches rather than on the principles and practices of the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses agile consulting and the importance of developing internal capabilities rather than relying on external coaches. While it touches on agile principles, it does not explicitly focus on the Agile Product Operating Model or its key topics. The discussion is more about agile coaching and consulting rather than the product-oriented mindset and continuous delivery aspects central to the APOM.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1545,6 +1545,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses agile consulting and coaching, focusing on internal competencies and the role of consultants versus coaches. It does not explicitly mention the Shift-Left Strategy or its principles, benefits, or techniques. While there are elements of improving processes and capabilities, they do not align with the core themes of integrating testing, security, or compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:34:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of agile consultants in fostering internal capabilities and continuous improvement within teams. It highlights the importance of developing internal leadership and agile competencies, which aligns with the principles of Continuous Improvement. However, the primary focus is on the role of consultants rather than a deep exploration of Continuous Improvement practices themselves, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:34:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile consulting and the importance of developing internal capabilities, which indirectly relates to the concept of Common Goals. However, it primarily focuses on the role of agile consultants and coaches rather than explicitly addressing shared objectives or alignment within teams. The mention of internal competencies and leadership development touches on aspects of Common Goals but lacks depth and direct discussion of how these relate to strategic alignment in Agile and DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:34:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of developing internal competencies and capabilities within organisations, particularly in the context of agile consulting. It highlights the risks of outsourcing core competencies and emphasises the need for continuous improvement and internal leadership development. The discussion is detailed, addressing the distinction between agile coaches and consultants, and the necessity for organisations to build their own capabilities rather than relying on external support. This aligns well with the principles of competence, making it a primary focus of the content.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:34:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses agile consulting and coaching, focusing on the roles and impacts of agile consultants versus coaches. While it touches on themes of internal capabilities and leadership, it does not explicitly mention or align with the One Engineering System framework, its principles, or its implementation. The discussion is more centred on agile methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

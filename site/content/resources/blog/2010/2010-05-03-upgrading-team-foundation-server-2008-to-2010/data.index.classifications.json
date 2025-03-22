@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:42:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:56:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of upgrading Team Foundation Server, with no focus on evidence-based management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on aspects of project management, it lacks a clear connection to data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T06:58:35",
+    "calculated_at": "2025-03-22T08:55:55",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
+    "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) from 2008 to 2010, which is related to software development and version control. However, it lacks a direct discussion of DevOps principles, practices, or cultural shifts. While it touches on aspects of deployment and backup processes, it does not delve into broader DevOps themes such as Continuous Integration, Continuous Delivery, or team collaboration. Therefore, it only partially aligns with the DevOps category.",
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server from 2008 to 2010, which is more aligned with software development and system administration than the broader DevOps philosophy. While it touches on aspects of collaboration and process management, it lacks a comprehensive discussion of DevOps principles such as automation, shared accountability, or cultural shifts. The mention of team collaboration is minimal and does not delve into the core themes of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -326,7 +329,7 @@
     "reasoning": "Content primarily focuses on the technical process of upgrading Team Foundation Server, with no clear discussion of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:43:04",
     "ai_confidence": 0,
@@ -337,11 +340,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:43:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:56:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of upgrading Team Foundation Server, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server from 2008 to 2010, with no direct mention of the Agile Product Operating Model or its principles. While there are references to Agile templates, the discussion does not align with the core themes of the APOM, such as product management practices or continuous delivery. The depth of discussion is also minimal, as it lacks any substantial exploration of agile methodologies in a product context.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -415,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T01:18:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:56:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on upgrading Team Foundation Server from 2008 to 2010, which does not discuss Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server from 2008 to 2010, which does not directly address Continuous Delivery principles or practices. While there are mentions of processes that could relate to software delivery, such as backups and upgrades, the discussion lacks a focus on Continuous Delivery concepts like automation, rapid feedback, or cultural aspects. Therefore, the confidence score reflects a very low alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1473,6 +1482,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server from 2008 to 2010, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on project management and migration processes, it does not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:55:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server from 2008 to 2010, detailing steps and considerations for a successful migration. While it touches on aspects of ensuring a smooth transition, it lacks a clear emphasis on Continuous Improvement principles such as empirical evidence, culture of experimentation, or strategies for integrating improvement into organisational processes. The discussion is more about technical execution rather than reflective practices aimed at enhancing processes or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:56:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server from 2008 to 2010, with no explicit discussion of Common Goals or their significance in Agile or DevOps frameworks. While there are mentions of team dynamics and project management, these are not connected to the core themes of Common Goals, such as alignment, ownership, or strategic objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:56:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, with minimal discussion on competence, continuous learning, or skill development. While it touches on the importance of ensuring a smooth transition, it lacks depth in exploring how competence impacts the upgrade process or team dynamics.",
     "level": "Ignored"
   }
 }

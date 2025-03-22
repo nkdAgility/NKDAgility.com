@@ -658,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T03:17:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:19:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and educational methodologies, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content focuses on immersive learning experiences and does not discuss Continuous Delivery principles, practices, or related topics. There are no direct mentions of Continuous Delivery, and the themes presented are unrelated to software delivery practices.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -832,14 +835,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T23:04:49",
+    "calculated_at": "2025-03-21T19:19:21",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
     "final_score": 57.0,
-    "reasoning": "The content discusses immersive learning experiences and their benefits, which are not directly related to Evidence-Based Management. While it touches on the empirical process and the importance of evidence-based adjustments, the primary focus is on learning methodologies rather than management practices. The discussion lacks depth in EBM principles and does not provide insights into organisational agility or decision-making processes.",
+    "reasoning": "The content discusses immersive learning experiences and their benefits, which does not directly relate to Evidence-Based Management. While it touches on the empirical process in learning, it lacks a strong focus on data-informed decision-making or the specific metrics outlined in the EBM category. The primary emphasis is on engagement and retention in learning rather than on management practices based on empirical evidence.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -1282,11 +1285,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T03:15:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and educational methodologies, with only a brief mention of Agile, Scrum, and DevOps at the end, which does not constitute a central theme.",
+    "calculated_at": "2025-03-21T19:19:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on immersive learning experiences and does not discuss any principles, practices, or cultural shifts related to DevOps. While there are mentions of support and community, these concepts are not aligned with the core themes of DevOps, such as automation, shared accountability, or continuous improvement in software delivery.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1471,11 +1477,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T20:51:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:19:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and does not focus on the Agile Product Operating Model or its principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on immersive learning experiences and does not discuss the Agile Product Operating Model or its principles. While there are mentions of iterative processes and support structures, these concepts are not directly related to the APOM framework. The content lacks any explicit reference to product management or agile methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1494,15 +1503,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning experiences and does not relate to platform engineering or internal developer platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T20:51:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and does not focus on the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1545,6 +1545,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content focuses on immersive learning experiences and does not discuss software development processes, testing, security, or compliance. It lacks any direct mention or relevant alignment with the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:19:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses immersive learning experiences and their benefits, which indirectly relate to Continuous Improvement through concepts like ongoing practice, reflection, and adaptation. However, while it touches on the importance of continuous growth and the empirical process, it lacks a direct focus on Continuous Improvement principles and does not provide in-depth strategies or frameworks typically associated with the category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:19:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on immersive learning experiences and their benefits, without any explicit discussion of Common Goals, Agile, or DevOps principles. While it touches on themes of support and community, these are not directly related to the alignment of strategy and execution within an organisational context.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:19:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses immersive learning experiences, highlighting their role in enhancing engagement, retention, and practical application of knowledge, which aligns with the principles of competence. It mentions continuous growth, support, and the importance of a nurturing environment for learning, which are key aspects of competence in professional settings. However, while it touches on these themes, the primary focus is on immersive learning rather than a direct exploration of competence itself, leading to a moderately high confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:19:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 20,
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on immersive learning experiences and does not mention or align with the principles of the One Engineering System. It discusses educational methodologies without any reference to software development practices, integration of tools, or standardisation, which are core to 1ES.",
     "level": "Ignored"
   }
 }

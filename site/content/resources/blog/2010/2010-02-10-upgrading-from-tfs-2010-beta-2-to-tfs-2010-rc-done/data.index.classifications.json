@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:35:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:04:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the upgrade process of TFS 2010 and does not focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading TFS and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T07:17:51",
+    "calculated_at": "2025-03-22T09:04:17",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
+    "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 20.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server (TFS) and does not explicitly discuss DevOps principles or practices. While it touches on aspects of software deployment and configuration, it lacks a comprehensive exploration of DevOps concepts such as CI/CD, automation, or cultural shifts. The mention of TFS and its configuration is relevant to DevOps but is not the main focus, leading to a low confidence score.",
+    "reasoning": "The content primarily focuses on the upgrade process of TFS (Team Foundation Server) and does not explicitly discuss DevOps principles or practices. While it touches on aspects of efficiency and team collaboration, it lacks a comprehensive exploration of the DevOps philosophy, such as automation, shared accountability, or continuous improvement. The discussion is more technical and procedural, which does not align closely with the core themes of DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -323,7 +326,7 @@
     "reasoning": "Content primarily discusses the upgrade process of TFS 2010, focusing on technical steps and troubleshooting, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:36:31",
     "ai_confidence": 0,
@@ -334,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:36:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:04:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server and does not focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical upgrade process of TFS 2010, with no direct discussion of Agile Product Operating Model principles or practices. While it mentions Scrum in passing, it does not explore any of the key topics related to APOM, such as product management or continuous delivery.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -415,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:02:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:04:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses upgrading the TFS software rather than Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the upgrade process of TFS 2010, detailing steps and issues encountered during the upgrade. While it touches on aspects of software deployment, it does not explicitly discuss Continuous Delivery principles, practices, or benefits. The mention of upgrading tools and ensuring a smooth transition is relevant but does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or cultural aspects. Overall, the content lacks depth and direct relevance to Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1473,6 +1482,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the upgrade process of TFS 2010 and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any case studies or tools related to Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:04:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical steps involved in upgrading from TFS 2010 Beta 2 to TFS 2010 RC, with no explicit discussion on Continuous Improvement principles. While there are mentions of efficiency and problem-solving, these are not framed within the context of Continuous Improvement methodologies or philosophies. The content lacks depth in exploring how the upgrade process contributes to ongoing enhancements or team effectiveness, which are key aspects of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:04:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading TFS and does not discuss Common Goals or their significance in Agile or DevOps. While it mentions team members and their roles, it lacks a clear connection to shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:04:24",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading TFS, with minimal direct discussion of competence or skill development. While it implies a level of expertise in executing the upgrade, it does not delve into continuous learning or the broader implications of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

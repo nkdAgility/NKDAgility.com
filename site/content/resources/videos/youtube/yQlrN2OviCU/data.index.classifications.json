@@ -40,11 +40,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T13:25:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on peer feedback in immersive learning rather than on evidence-based management principles or practices.",
+    "calculated_at": "2025-03-21T17:48:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on immersive learning and peer feedback within Scrum training, with only brief mentions of concepts that could relate to Evidence-Based Management. While it discusses practical application and continuous improvement, it lacks a strong emphasis on empirical evidence or metrics that are central to EBM. The discussion is more about training methodologies than data-informed decision-making.",
     "level": "Ignored"
   },
   "Personal": {
@@ -319,20 +322,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:26:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses peer feedback in immersive learning, which is not directly related to the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T17:48:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on immersive learning and peer feedback within Scrum training, which is a specific agile practice rather than a discussion on the Agile Product Operating Model. While it touches on concepts like continuous improvement and practical application, it lacks a direct focus on the principles and frameworks of the Agile Product Operating Model, leading to a low confidence score.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T13:26:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:48:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses peer feedback in immersive learning, which is not related to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and immersive learning rather than DevOps principles. While it touches on concepts like continuous improvement and collaboration, these are framed within the context of Scrum training rather than the broader DevOps philosophy. The lack of direct references to DevOps practices or principles significantly lowers the confidence score.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -354,15 +363,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses peer feedback in immersive learning, which is not related to optimising work throughput or flow efficiency.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:26:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses peer feedback in immersive learning, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -1006,11 +1006,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T13:28:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on peer feedback in immersive learning, which is unrelated to Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T17:48:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on immersive learning and peer feedback within Scrum training, which does not directly address Continuous Delivery principles or practices. While it touches on concepts like continuous improvement, it lacks explicit discussions on automation, deployment, or the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1470,6 +1473,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on immersive learning and peer feedback within Scrum training, with no direct mention or discussion of the Shift-Left Strategy. While it touches on concepts of continuous improvement and collaborative learning, these are not specifically tied to integrating testing, security, or compliance earlier in the software development lifecycle, which is the essence of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:48:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses continuous improvement in the context of Scrum training, particularly through the lens of peer feedback and immersive learning. While it does mention continuous improvement explicitly, the primary focus is on the mechanics of peer feedback rather than a comprehensive exploration of continuous improvement principles. The alignment with the category is present but not deeply explored, and the depth of discussion is moderate, primarily highlighting peer feedback's role in enhancing learning rather than broader continuous improvement strategies.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:48:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on immersive learning and peer feedback in Scrum training, which are not directly aligned with the concept of Common Goals. While there are mentions of collaboration and shared experiences, the discussion lacks a clear connection to strategic alignment or organisational objectives, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:48:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of peer feedback and immersive learning in developing skills as a Scrum practitioner, which aligns well with the principles of competence. It highlights continuous improvement, real-world application, and collaborative learning, all of which are key aspects of competence in Agile methodologies. The depth of discussion on how peer feedback enhances learning and fosters a culture of competence is significant, though it could benefit from more explicit references to competence as a foundational principle.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:48:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on immersive learning and peer feedback within Scrum training, which does not align with the core principles of the One Engineering System. While it discusses aspects of collaboration and learning, it does not address the integration of tools, processes, or methodologies specific to 1ES. The mention of Scrum is secondary and does not contribute to a discussion on standardising engineering practices.",
     "level": "Ignored"
   }
 }

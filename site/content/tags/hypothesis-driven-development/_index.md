@@ -26,6 +26,9 @@ headline:
   subtitle: Driving product decisions through experimentation and learning to enhance value delivery and adapt to changing needs.
   content: Utilising structured experimentation and empirical evidence to inform product decisions enhances value delivery and responsiveness to user needs. Posts should explore methodologies for hypothesis formulation, testing, data analysis, and iterative learning, alongside frameworks that support decision-making in complex environments.
   updated: 2025-02-13T12:04:21Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

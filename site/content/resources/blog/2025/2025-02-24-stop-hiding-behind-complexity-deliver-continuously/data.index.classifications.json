@@ -613,14 +613,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-04T13:03:55",
+    "calculated_at": "2025-03-21T16:41:29",
     "ai_confidence": 92.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 95.0,
-    "ai_depth": 90.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
     "non_ai_confidence": 20,
     "final_score": 85.0,
-    "reasoning": "The content extensively discusses the principles and practices of Continuous Delivery, highlighting the importance of automation, metrics, and cultural shifts necessary for successful implementation. It provides detailed examples from Microsoft and Starbucks, illustrating real-world applications of CD. The discussion is focused and in-depth, addressing key topics such as the need for investment in quality, the role of automation, and strategies for overcoming complexity, which aligns closely with the core themes of Continuous Delivery.",
+    "reasoning": "The content explicitly discusses Continuous Delivery (CD) as a primary focus, detailing its principles, the importance of automation, and the need for cultural shifts within organisations. It provides specific examples, such as Microsoft's transition to CD, and outlines strategies for overcoming complexity and technical debt. The depth of discussion is substantial, covering various aspects of CD, including metrics for measuring velocity and the significance of rapid feedback. Overall, the content aligns closely with the key topics of the Continuous Delivery category.",
     "level": "Primary"
   },
   "Software Developers": {
@@ -1009,14 +1009,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-04T13:05:31",
+    "calculated_at": "2025-03-21T16:41:31",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 20,
     "final_score": 72.0,
-    "reasoning": "The content discusses continuous delivery and the importance of metrics in software development, which aligns with the principles of Evidence-Based Management. It mentions the EBM guide and the four Key Value Areas, indicating a connection to EBM concepts. However, the primary focus is on continuous delivery practices rather than a thorough exploration of EBM itself, leading to a moderate confidence score.",
+    "reasoning": "The content discusses continuous delivery and the importance of metrics in software development, which aligns with Evidence-Based Management principles. It mentions key metrics like Time to Build, Time to Deploy, and the four Key Value Areas defined by EBM, indicating a focus on data-informed decision-making. However, the primary focus is on continuous delivery rather than a comprehensive exploration of EBM itself, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1715,18 +1715,6 @@
     "reasoning": "The content primarily discusses continuous delivery and DevOps practices, with a focus on overcoming complexity in software development. While it touches on automation and process improvement, it does not explicitly mention or explore the role of Artificial Intelligence in these contexts, which is a key requirement for the category. Therefore, the confidence score reflects a low alignment with the specified category.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content discusses continuous delivery and the evolution of Microsoft's Azure DevOps, which touches on aspects of standardisation and integration in software development. However, it primarily focuses on continuous delivery practices rather than the One Engineering System framework itself. While there are mentions of automation and process improvement, the content lacks a direct focus on the principles and components of 1ES, making it more of a secondary discussion rather than a primary one.",
-    "level": "Ignored"
-  },
   "Working Software": {
     "category": "Working Software",
     "calculated_at": "2025-03-04T13:08:34",
@@ -1870,5 +1858,53 @@
     "final_score": 70.0,
     "reasoning": "The content discusses the Shift-Left concept explicitly, particularly in the context of embedding quality assurance throughout the development process. It aligns with the core themes of the Shift-Left Strategy by advocating for early testing and continuous integration, which are essential for improving software quality and reducing defects. However, while it touches on these principles, the overall focus is more on continuous delivery and organisational change rather than a deep exploration of Shift-Left practices alone. Therefore, while it is relevant, it does not dominate the discussion.",
     "level": "Secondary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:41:17",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the principles of Continuous Improvement, particularly in the context of software delivery and organisational processes. It highlights the importance of investing in fixing technical debt, automating processes, and fostering a culture of continuous improvement, which aligns closely with the key topics of the category. The depth of discussion is significant, providing detailed examples from Microsoft and Starbucks, and outlining specific strategies such as automation, trunk-based development, and the use of metrics to enhance team effectiveness and responsiveness. Overall, the content is a strong fit for the Continuous Improvement category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:41:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses continuous delivery and the importance of organisational investment in overcoming complexity, but it lacks a direct focus on shared objectives or alignment within teams. While it touches on the need for collaboration and improvement, it does not explicitly connect these ideas to the principles of Common Goals in Agile or DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:41:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of investing in skills and capabilities to overcome complexity in software delivery, which aligns with the principles of competence. It highlights the need for continuous improvement and the role of deliberate practice in achieving effective outcomes. However, while competence is a theme, the primary focus is more on continuous delivery and overcoming technical challenges rather than a deep exploration of competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:41:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses continuous delivery and automation, which are relevant to the principles of the One Engineering System. However, it primarily focuses on the challenges and solutions related to continuous delivery rather than explicitly addressing the integration and standardisation of engineering processes across teams, which is central to 1ES. The mention of Azure DevOps and its evolution provides some alignment, but the overall depth and focus on 1ES principles are limited.",
+    "level": "Ignored"
   }
 }

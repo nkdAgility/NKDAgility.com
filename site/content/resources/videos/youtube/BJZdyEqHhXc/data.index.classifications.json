@@ -655,11 +655,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T23:29:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of consultants versus contractors in organisations, focusing on change management rather than Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T17:34:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile and DevOps principles but does not explicitly mention Continuous Delivery. While it touches on themes of continuous improvement and team empowerment, it lacks a direct focus on Continuous Delivery practices, automation, or specific strategies related to software delivery cycles.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -829,11 +832,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T23:30:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:35:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of consultants versus contractors and the nature of organisational change, without a clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on the fallacy of quick fixes in Agile and DevOps rather than providing empirical evidence or metrics related to value delivery, innovation, or decision-making. The discussion lacks direct references to the key topics of EBM, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1279,12 +1285,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T23:27:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:34:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content primarily discusses the role of consultants versus contractors in organisations, focusing on change management rather than DevOps principles or practices.",
-    "level": "Ignored"
+    "final_score": 75.0,
+    "reasoning": "The content discusses the misconceptions surrounding quick fixes in Agile and DevOps, emphasising the importance of internal capability and continuous improvement, which aligns with DevOps principles. However, it primarily focuses on the role of consultants and the need for organisational change rather than deeply exploring DevOps practices or cultural shifts. The mention of DevOps is present but not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1463,22 +1472,16 @@
     "reasoning": "Content heavily discusses Agile and consulting practices without a direct connection to platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:11:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of consultants versus contractors in Agile and DevOps, without focusing on the principles or implementation of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:11:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:34:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of consultants versus contractors in organisations, without a clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile and DevOps principles but does not specifically address the Agile Product Operating Model or its key topics. While it touches on themes of empowerment and continuous improvement, it lacks a direct focus on product management practices or the transition from project to product ethos, which are central to the APOM framework.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1545,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Agile and DevOps principles but does not explicitly mention the Shift-Left Strategy or its core themes. While it touches on the importance of empowering teams and fostering collaboration, it lacks a direct focus on integrating testing, security, or compliance early in the development process, which are key aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:34:43",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of continuous improvement in the context of Agile and DevOps, emphasising the need for organisations to invest in their teams and foster a culture of learning. It mentions continuous improvement explicitly and aligns with the core themes of the category, such as the ongoing process of change and the importance of internal capability building. However, while it touches on these themes, the depth of discussion could be more comprehensive, focusing more on specific techniques or frameworks for continuous improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:34:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns with the principles of Common Goals. However, it primarily focuses on the fallacy of quick fixes and the role of consultants rather than explicitly addressing shared objectives or strategic alignment. While there are mentions of organisational goals and internal capability building, these are secondary to the main theme of the content.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:34:52",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the importance of empowering teams and fostering a culture of continuous learning, which aligns closely with the principles of competence. It highlights the need for internal capability building and the role of consultants in provoking change rather than providing quick fixes. The depth of discussion on investing in people and encouraging collaboration further supports the focus on competence, making it a primary theme throughout the content.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:34:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile and DevOps methodologies, focusing on the misconceptions of quick fixes and the role of consultants. While it touches on themes of empowerment and continuous improvement, it does not explicitly mention or align with the principles of the One Engineering System framework, nor does it provide depth on integration or standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

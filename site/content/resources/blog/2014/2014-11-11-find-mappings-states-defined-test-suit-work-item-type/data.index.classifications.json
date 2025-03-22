@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T08:56:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:03:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS and case sensitivity problems in work item types, which is not related to Evidence Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS and does not engage with the principles of Evidence-Based Management. There are no direct mentions of data-informed decision-making or the key topics outlined in the EBM definition. The focus is on troubleshooting a specific error rather than on strategic management practices or empirical evidence.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T08:56:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:03:26",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS and process configurations, without a focus on DevOps principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses a specific error related to TFS (Team Foundation Server) and its configuration, which is more focused on troubleshooting a technical issue rather than the broader principles and practices of DevOps. While it touches on aspects of process configuration, it lacks a clear connection to the core themes of DevOps such as collaboration, automation, or shared accountability. The discussion is technical and specific, with minimal emphasis on the cultural or philosophical aspects of DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,22 +326,16 @@
     "reasoning": "Content primarily discusses technical issues and solutions related to TFS and MTM, rather than exploring Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T08:56:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content mainly discusses an issue related to TFS and test work item configurations, without addressing the central principles of the One Engineering System framework or its core topics.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T08:56:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:03:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on troubleshooting technical errors in TFS and MTM, with no discussion of Agile principles or product operating models.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS (Team Foundation Server) and does not address any principles or practices of the Agile Product Operating Model. While it touches on aspects of process configuration, it lacks any direct mention or alignment with agile methodologies, product management principles, or the core themes of APOM. The focus is on resolving a specific error rather than discussing agile frameworks or product-oriented mindsets.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -409,11 +409,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T08:56:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:03:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily addresses a technical issue related to Test Suite configurations in TFS rather than Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily addresses a specific error related to TFS (Team Foundation Server) and does not discuss Continuous Delivery principles, practices, or benefits. While it touches on configuration and management of work items, it lacks a focus on automation, incremental improvements, or user feedback, which are core themes of Continuous Delivery. The discussion is technical and specific to a problem resolution rather than a broader exploration of Continuous Delivery concepts.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1464,6 +1467,54 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily discusses a specific error related to work item types in TFS and provides solutions for configuration issues. It does not explicitly mention the Shift-Left Strategy or its principles, nor does it address integrating testing or security early in the development process. The focus is on troubleshooting and configuration rather than proactive quality assurance or early integration of critical processes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:03:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily addresses a specific technical issue related to TFS and does not discuss Continuous Improvement principles. While it provides solutions to a problem, it lacks a focus on ongoing reflection, adaptation, or a culture of experimentation, which are central to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:03:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical issue related to TFS and does not discuss Common Goals, Agile, or DevOps principles. It lacks explicit mentions of shared objectives or alignment strategies, and the depth of discussion is limited to troubleshooting a specific error without connecting to broader organisational goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:03:32",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 15,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily addresses a technical issue related to TFS and does not focus on the principles of competence in Agile or DevOps. While it mentions the need for correct configurations and customisations, it lacks a broader discussion on continuous learning, skill development, or fostering a culture of competence. The mention of ensuring correct casing in work item states is more about technical accuracy than about developing professional capabilities or trust within teams.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-22T07:03:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses a specific error related to TFS (Team Foundation Server) and provides solutions for resolving it. While it touches on aspects of process configuration, it does not explicitly mention or align with the core principles of the One Engineering System framework. The focus is on troubleshooting a technical issue rather than discussing integration, standardisation, or best practices related to 1ES.",
     "level": "Ignored"
   }
 }

@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T07:30:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:55:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses traditional management and agile methodologies, specifically focusing on hierarchies of competence and Scrum, without addressing DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content discusses hierarchies of competence, respect, and collaboration in the workplace, which are relevant to team dynamics but do not specifically address DevOps principles or practices. There are no direct mentions of DevOps, and while some concepts like collaboration and continuous learning are touched upon, they are not explored in the context of DevOps. The overall focus is more on workplace culture rather than the integration of people, processes, and technology in a DevOps framework.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -244,11 +247,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses hierarchies in management and agile practices, specifically Scrum, without focusing on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T19:55:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses hierarchies of competence, respect, and collaboration in the workplace, which are not directly related to Continuous Delivery principles. While it touches on themes of continuous learning and collaboration, these concepts are presented in a general context rather than specifically addressing Continuous Delivery practices or methodologies.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -387,15 +393,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses hierarchies of competence in management rather than Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses hierarchies of competence versus hierarchies of control in management, focusing on agile and scrum concepts without addressing the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1213,11 +1210,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:55:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on hierarchies of competence vs. hierarchies of control without addressing the Agile Product Operating Model directly.",
+    "final_score": 11.0,
+    "reasoning": "The content discusses hierarchies of competence and their impact on workplace dynamics, focusing on respect, collaboration, and continuous learning. However, it does not explicitly mention the Agile Product Operating Model or its principles. While there are themes of collaboration and expertise that could align with agile methodologies, the primary focus is on workplace culture rather than product management or agile frameworks.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1432,11 +1432,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content mainly discusses hierarchies of competence versus control and does not focus on evidence-based management principles or practices.",
+    "calculated_at": "2025-03-21T19:55:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses hierarchies of competence and their impact on workplace dynamics, focusing on respect, collaboration, and expertise. However, it does not explicitly mention Evidence-Based Management or its key topics. While there is some conceptual alignment with the idea of valuing expertise and collaboration, the discussion lacks depth in terms of empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1506,6 +1509,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses hierarchies of competence and collaboration in the workplace but does not mention or align with the Shift-Left Strategy. It focuses on respect and expertise rather than integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:55:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of respect, collaboration, and continuous learning, which are relevant to Continuous Improvement. However, it does not explicitly mention Continuous Improvement or its methodologies. The focus on hierarchies of competence aligns with the principles of fostering a culture of learning and improvement, but lacks depth in discussing specific strategies or empirical evidence related to Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:55:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses hierarchies of competence and their impact on collaboration and respect in the workplace. While it touches on themes of collaboration and shared purpose, which are relevant to Common Goals, it does not explicitly mention or focus on the alignment of strategy with execution within Agile or DevOps frameworks. The discussion is more centred on personal experiences and the importance of respect and expertise rather than on the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:55:39",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses hierarchies of competence, emphasising respect, expertise, and continuous learning, which are core themes of the category. It provides detailed insights into how these principles can transform workplaces, highlighting the importance of collaboration and the value of individual capabilities. The depth of discussion is significant, with practical examples illustrating the impact of competence on team dynamics and outcomes.",
+    "level": "Primary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:55:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content discusses hierarchies of competence and their impact on workplace dynamics, focusing on respect, collaboration, and expertise. However, it does not explicitly mention the One Engineering System or its principles, components, or implementation. The themes of collaboration and expertise are somewhat aligned with the goals of 1ES, but the discussion lacks depth and direct relevance to the standardisation and integration of software development practices.",
     "level": "Ignored"
   }
 }

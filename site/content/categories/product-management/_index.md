@@ -24,6 +24,9 @@ headline:
   subtitle: Navigating customer desires, business objectives, and technical realities for effective product strategy and delivery.
   content: Integrating user insights, organisational objectives, and technical constraints to shape effective product strategies. Posts should explore prioritisation techniques, stakeholder engagement, iterative development, and performance measurement, while considering frameworks that enhance adaptability and responsiveness in complex environments.
   updated: 2025-02-13T12:03:21Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

@@ -49,15 +49,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-07T13:08:22",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content explicitly mentions the need for evidence-based management and its role in measuring the impact of changes, which aligns with the core themes of EBM. However, it lacks detailed discussion on specific techniques, metrics, or case studies, resulting in a moderate confidence score.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-21T17:55:49",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
+    "non_ai_confidence": 30,
+    "final_score": 86.0,
+    "reasoning": "The content explicitly discusses Evidence-Based Management (EBM) as a framework for measuring and improving value delivery in Agile environments. It provides a thorough explanation of EBM, including its key elements such as Current Value, Time to Market, Ability to Innovate, and Unrealised Value. The depth of discussion is significant, with practical examples and actionable steps for implementation, demonstrating a strong alignment with the core themes of the category.",
+    "level": "Primary"
   },
   "Personal": {
     "category": "Personal",
@@ -367,23 +367,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T20:00:27",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T17:55:45",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses evidence-based management (EBM) within Agile environments, which aligns with the Agile Product Operating Model's focus on value delivery and continuous improvement. However, it primarily centres on EBM rather than the broader principles of the Agile Product Operating Model, leading to a moderate confidence score. While it touches on metrics and decision-making, it lacks a comprehensive exploration of product-centric development and cross-functional team dynamics.",
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) within Agile environments, which is a relevant aspect of the Agile Product Operating Model. However, it does not explicitly address the broader principles of the APOM or the transition from project to product ethos. While it aligns with the themes of data-driven decision-making and continuous improvement, it lacks depth in discussing the integration of product management practices and operational governance, which are key components of the APOM.",
     "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T14:17:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:55:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses evidence-based management in Agile environments, without a clear focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Evidence-Based Management (EBM) within Agile environments, which is not directly aligned with the core principles of DevOps. While it touches on concepts like measuring success and continuous improvement, it does not explicitly discuss DevOps practices, collaboration between teams, or automation, which are central to the DevOps philosophy. The mention of feedback loops is relevant but not sufficient to classify the content as primarily about DevOps.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -405,15 +408,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses evidence-based management and measuring success rather than optimising work throughput or flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:17:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses evidence-based management in Agile environments, which is not directly related to the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -1099,11 +1093,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T15:05:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on evidence-based management in Agile environments, which is not primarily about Continuous Delivery processes, principles, or practices.",
+    "calculated_at": "2025-03-21T17:55:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) within Agile environments, which is not directly related to Continuous Delivery. While it touches on aspects like measuring success and making informed decisions, it lacks a focus on Continuous Delivery principles, practices, and the role of automation in deployment. The discussion is more about Agile methodologies rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1548,6 +1545,54 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses evidence-based management in Agile environments, focusing on metrics and decision-making. While it touches on aspects of early measurement and continuous improvement, it does not explicitly address the Shift-Left Strategy or its principles. The primary focus is on evidence-based management rather than integrating testing, security, or compliance earlier in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:55:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses Evidence-Based Management (EBM) within Agile environments, highlighting its role in measuring and improving processes, which aligns closely with the principles of Continuous Improvement. It directly addresses the importance of data-driven decision-making and the need for ongoing reflection and adaptation, key themes of Continuous Improvement. The depth of discussion is significant, providing practical tips and personal examples that illustrate the application of EBM to foster a culture of continuous improvement. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:55:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) in Agile environments, which indirectly relates to Common Goals by emphasising the importance of metrics and data-driven decision-making. However, it does not explicitly address the concept of Common Goals or their significance in aligning strategy with execution. The focus is more on the implementation of EBM rather than on shared objectives or alignment within teams, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:55:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of evidence-based management in Agile environments, which indirectly relates to competence through the emphasis on informed decision-making and continuous improvement. However, while it touches on aspects of competence, such as measuring success and adapting strategies based on data, it does not delve deeply into the foundational principles of competence itself, such as skill development or fostering a culture of mastery.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:55:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Evidence-Based Management (EBM) within Agile environments, which is not directly related to the One Engineering System (1ES). While it discusses metrics and decision-making processes, it does not address the principles, components, or implementation of 1ES. The discussion is centred on Agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

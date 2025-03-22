@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T22:08:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:23:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of renaming a Team Project in TFS 2015, with no focus on evidence-based management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of renaming a Team Project in TFS 2015, with no direct mention of Evidence-Based Management principles or metrics. While it discusses aspects of project management, it lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management. The depth of discussion is limited to procedural instructions, further indicating a minimal connection to the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T22:08:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:22:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of renaming a Team Project in TFS 2015, which is not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of renaming a Team Project in TFS 2015, which is a specific task related to project management rather than a discussion on DevOps principles or practices. While it touches on aspects of workflow and project administration, it lacks explicit references to DevOps philosophy, collaboration, automation, or shared accountability. The discussion does not delve into the cultural or strategic elements of DevOps, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,22 +320,16 @@
     "reasoning": "Content primarily discusses the process of renaming a Team Project in TFS 2015, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T22:09:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of renaming a Team Project in TFS 2015, which does not align with the core principles of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T22:09:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:23:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of renaming a Team Project in TFS 2015, with no focus on Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the technical process of renaming a Team Project in TFS 2015, with no direct mentions or discussions related to the Agile Product Operating Model. It lacks alignment with the core themes of APOM, such as product management principles or agile methodologies. The depth of discussion is limited to procedural instructions, which do not contribute to the understanding of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -400,11 +400,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T22:09:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:23:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses renaming a Team Project in TFS 2015, which is unrelated to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the process of renaming a Team Project in TFS 2015, which is a specific task related to project management rather than Continuous Delivery. There are no direct mentions of Continuous Delivery principles, practices, or benefits. The discussion lacks depth in terms of Continuous Delivery concepts, and while it touches on aspects of project management, it does not align with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1437,6 +1440,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the process of renaming a Team Project in TFS 2015, with no explicit discussion of the Shift-Left Strategy or its principles. While it touches on project management aspects, it does not address integrating testing, security, or compliance earlier in the development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:22:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of renaming a Team Project in TFS 2015, with minimal discussion on Continuous Improvement principles. While it mentions the need for careful consideration of impacts and suggests a methodical approach to renaming, it lacks a broader context of continuous improvement practices, empirical evidence, or a culture of experimentation. The discussion is largely procedural and does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:23:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of renaming a Team Project in TFS 2015, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on project management aspects, it lacks depth and alignment with the core themes of shared objectives and strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:23:04",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on the technical process of renaming a Team Project in TFS 2015, with minimal reference to competence or skill development. While it mentions the need for a Team Project Administrator and discusses potential impacts of renaming, it does not delve into continuous learning, quality outcomes, or fostering a culture of competence, which are central to the category. The discussion lacks depth and does not align with the core themes of competence in Agile or DevOps environments.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:23:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the technical process of renaming a Team Project in TFS 2015, with no explicit discussion of the One Engineering System framework or its principles. While it touches on aspects of project management, it does not align with the core themes of integration, standardisation, or best practices related to 1ES. The discussion lacks depth and does not provide insights into the impact of such actions on software quality or team collaboration.",
     "level": "Ignored"
   }
 }

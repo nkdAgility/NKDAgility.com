@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T18:59:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:01:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the qualifications and experiences of a trainer, with no clear focus on DevOps principles, practices, or related topics.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific trainer and his approach to Product Ownership, with no direct mention of DevOps principles or practices. While there are themes of value maximization and collaboration, they are framed within the context of Scrum and Agile methodologies rather than the broader DevOps philosophy. The discussion lacks depth in relation to DevOps concepts such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -91,11 +94,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T18:59:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:02:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the trainer's qualifications and personal experiences rather than discussing Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting Russell as a PSPO trainer and his personal experiences, with minimal reference to evidence-based management principles. While there are mentions of value maximization and practical insights, these are not grounded in empirical evidence or metrics related to EBM. The discussion lacks depth in terms of data-informed decision-making or the specific key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -324,15 +330,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on the qualifications of a trainer and does not discuss release management practices or processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T19:00:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the qualifications and experiences of a trainer, with no focus on the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -631,11 +628,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T19:01:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:02:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the qualifications and experiences of a trainer, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Russell's qualifications and teaching style as a Professional Scrum Trainer, with an emphasis on Product Ownership rather than Continuous Delivery. While there are mentions of product development and value maximization, these do not directly address the principles or practices of Continuous Delivery. The discussion lacks depth and specific alignment with the key topics outlined for Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -721,11 +721,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T19:01:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:02:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the qualifications and experience of a trainer rather than discussing the Agile Product Operating Model or its principles.",
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on Russell as a Professional Scrum Trainer and his approach to teaching Product Ownership. While it touches on aspects of product development and value maximization, it lacks a direct discussion of the Agile Product Operating Model as a framework. The content does not delve into the principles or operational aspects of APOM, making it more of a promotional piece rather than a thorough exploration of the category.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1437,6 +1440,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Russell's qualifications and teaching philosophy regarding Product Ownership, with no explicit mention of the Shift-Left Strategy or its principles. While there are references to enhancing product value and learning through case studies, these do not align with the core themes of integrating testing, security, and compliance early in the software development lifecycle. The discussion lacks depth on the Shift-Left approach, making it peripheral to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:01:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting Russell as a PSPO trainer and his qualifications, with little to no direct discussion on Continuous Improvement principles. While it touches on value maximization and learning, these concepts are not explored in the context of Continuous Improvement methodologies or practices. The overall emphasis is on Russell's expertise rather than on systematic processes for ongoing enhancement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:01:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting Russell as a PSPO trainer and his personal experiences, rather than discussing Common Goals within Agile or DevOps frameworks. While it touches on aspects of product ownership, it lacks explicit discussions on shared objectives, alignment, or strategic goals that are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:01:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Russell's expertise and teaching methods, highlighting his experience and the value of his PSPO course. While it mentions competence indirectly through Russell's qualifications and the transformative nature of his training, it does not explicitly focus on continuous learning or skill development as core themes. The depth of discussion is moderate, providing insights into Russell's approach but lacking a thorough exploration of competence as a foundational principle.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:02:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Russell's qualifications and teaching style as a Professional Scrum Trainer, discussing his experience and philosophy in product ownership. It does not mention the One Engineering System or its principles, components, or implementation. The discussion is centred around Scrum and product ownership, which are not aligned with the core themes of 1ES.",
     "level": "Ignored"
   }
 }

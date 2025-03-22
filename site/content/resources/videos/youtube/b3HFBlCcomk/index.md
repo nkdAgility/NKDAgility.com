@@ -38,8 +38,8 @@ tags:
 - Agile Strategy
 - Pragmatic Thinking
 - Software Development
-- Agile Product Operating Model
 - Agile Product Management
+- People and Process
 resourceTypes:
 - video
 categories:

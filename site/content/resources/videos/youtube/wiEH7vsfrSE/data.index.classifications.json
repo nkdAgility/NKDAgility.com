@@ -655,11 +655,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T23:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of cost-cutting during recessions on business effectiveness and productivity, with no clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T17:31:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses cost-cutting during recessions and the importance of investing in people and processes, with a focus on business agility and effectiveness. While it touches on themes of continuous improvement and employee empowerment, it does not explicitly address Continuous Delivery principles, practices, or tools. The discussion is more aligned with general business strategy rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -829,14 +832,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T18:54:25",
+    "calculated_at": "2025-03-21T17:31:48",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
     "final_score": 56.0,
-    "reasoning": "The content discusses the importance of investing in training, agility, and employee empowerment during economic downturns, which aligns with some principles of Evidence-Based Management. However, it lacks direct references to EBM practices, metrics, or empirical data, focusing more on general management strategies and anecdotes rather than a structured approach to evidence-based decision-making.",
+    "reasoning": "The content discusses the importance of investing in processes and people during economic downturns, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on cost-cutting strategies and general business agility rather than specific evidence-based metrics or decision-making frameworks. While there are mentions of effectiveness and long-term value creation, the depth of discussion on empirical evidence and specific metrics is limited.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -1300,11 +1303,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T23:19:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the impact of cost-cutting during recessions on organisational effectiveness and productivity, with a focus on agile methodologies rather than DevOps principles or practices.",
+    "calculated_at": "2025-03-21T17:31:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of investing in processes and people during economic downturns, which aligns with some DevOps principles like continuous improvement and collaboration. However, it primarily focuses on cost-cutting strategies and business agility rather than the core DevOps philosophy. The mention of agile coaching and training hints at a connection to DevOps, but the overall discussion lacks depth in DevOps-specific practices and cultural shifts.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1481,23 +1487,17 @@
     "reasoning": "The content discusses the importance of investing in organisational effectiveness and adaptability during recessions, which aligns with some principles of BetaCodex. However, the primary focus is on cost-cutting measures and their impact on productivity rather than a deep exploration of BetaCodex principles.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:41:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the impact of cost-cutting during recessions on business effectiveness and productivity, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:41:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of investing in productivity and effectiveness during economic downturns, which aligns with principles of the Agile Product Operating Model. However, it primarily focuses on broader business strategies rather than specifically on Agile methodologies or product-centric development.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T17:31:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses agile coaching and business agility, which are relevant to the Agile Product Operating Model. However, it primarily focuses on the implications of cost-cutting during recessions rather than providing a detailed exploration of the APOM principles or practices. The mention of agile concepts is present but not central to the overall message, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1563,6 +1563,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the implications of cost-cutting during recessions and the importance of investing in efficiency and effectiveness. While it touches on themes of organisational improvement and employee empowerment, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or methodologies. The focus is more on general business agility rather than the specific integration of testing, security, and compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:31:33",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content discusses the importance of investing in processes and people during economic downturns, which aligns with the principles of Continuous Improvement. It highlights the need for a culture of learning, experimentation, and the value of empowering employees, all of which are key themes in Continuous Improvement. The depth of discussion is substantial, providing examples and insights into how organisations can adapt and improve, thus demonstrating a strong commitment to the category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:31:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of investing in people and processes during economic downturns, which aligns with the idea of maintaining strategic goals. However, it primarily focuses on cost-cutting and the implications of layoffs rather than explicitly addressing Common Goals within Agile or DevOps frameworks. The discussion lacks depth in connecting these ideas to shared objectives or frameworks like OKRs, resulting in a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:31:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of investing in training and development, which directly relates to competence. It highlights the need for continuous learning and the role of effective processes in maintaining organisational effectiveness during economic downturns. The depth of discussion on fostering a culture of learning and the empowerment of employees aligns well with the principles of competence, although it does not focus exclusively on this theme.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:31:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the implications of cost-cutting during recessions and the importance of investing in people and processes. While it touches on concepts related to business agility and effectiveness, it does not explicitly mention the One Engineering System or its principles, components, or implementation strategies. The focus is more on general business practices rather than the integration and standardisation of engineering processes, which is the core of the 1ES framework.",
     "level": "Ignored"
   }
 }

@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:18:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:13:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical implementation for retrieving file changes in a specific iteration, without any focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical implementation of listing files changed in a specific iteration using TFS API calls. It does not discuss Evidence-Based Management principles or metrics, nor does it provide any empirical evidence or data-informed decision-making insights. The mention of iteration is too vague and does not align with the core themes of EBM, such as current value or outcome management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T07:22:03",
+    "calculated_at": "2025-03-22T09:13:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 50.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily focuses on a specific coding task related to querying work items and changesets in TFS, which is a tool often used in DevOps environments. However, it lacks explicit discussions on DevOps principles, practices, or cultural shifts. While it touches on version control and automation through API calls, it does not delve into broader DevOps concepts such as CI/CD, collaboration, or metrics. The depth of the discussion is limited to a technical implementation without exploring the implications or benefits in a DevOps context.",
+    "reasoning": "The content primarily focuses on using TFS API calls to list files changed under a specific iteration, which is more aligned with version control and specific tooling rather than the broader DevOps philosophy. While it touches on aspects of automation and efficiency, it lacks a comprehensive discussion on the core principles of DevOps such as collaboration, shared accountability, or continuous improvement. The mention of 'streamlining version control' hints at a DevOps-related topic, but it does not delve into the cultural or process-oriented aspects that define DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +323,7 @@
     "reasoning": "Content primarily discusses a technical implementation for querying and listing files changed under an iteration, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:18:45",
     "ai_confidence": 0,
@@ -331,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:18:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:13:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical implementation for querying files changed under an iteration, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to TFS API calls for version control, with no explicit discussion of Agile principles, product management, or the Agile Product Operating Model. While it may touch on aspects of iteration, it does not align with the core themes of the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -409,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:51:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:13:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses how to query and list changed files in a specific iteration, without a focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on listing files changed under a specific iteration using TFS API calls, which is more related to version control and specific coding practices rather than Continuous Delivery principles. There are no direct mentions of Continuous Delivery concepts, and the discussion lacks depth in terms of automation, rapid feedback, or cultural aspects associated with Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1470,6 +1479,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on querying work items and changesets in TFS, with no explicit discussion of the Shift-Left Strategy or its principles. While it touches on aspects of software development, it does not address integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:13:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical implementation of listing files changed under a specific iteration using TFS API calls. While it briefly mentions the need for improvement in naming and layout, it does not engage with the principles of Continuous Improvement, such as fostering a culture of experimentation or discussing strategies for enhancing processes. The discussion lacks depth and does not align with the core themes of Continuous Improvement, making it unsuitable for this category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:13:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical implementation of listing files changed under a specific iteration using TFS API calls. While it touches on the concept of iterations, it does not explicitly discuss the significance of Common Goals within Agile or DevOps frameworks. The discussion lacks depth regarding alignment, ownership, or strategic objectives, which are central to the category of Common Goals. Overall, the content is more about a practical coding solution than about aligning team efforts with organisational objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:13:38",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on a technical implementation of listing files changed under a specific iteration using TFS API calls. While it briefly touches on the author's coding practices and acknowledges the need for improvement, it does not explicitly discuss competence in the context of Agile, Scrum, or DevOps methodologies. The mention of creating a proper command line utility suggests a recognition of the need for skill development, but this is not the main focus of the content. Overall, the discussion lacks depth and direct alignment with the core themes of competence.",
     "level": "Ignored"
   }
 }

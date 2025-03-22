@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:20:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:57:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a user group meeting and features of Visual Studio, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a user group meeting discussing Visual Studio features, specifically Kanban and Work Item Tags, without any direct reference to Evidence-Based Management principles or metrics. While it touches on Agile practices, it lacks empirical evidence or data-informed decision-making discussions, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T19:20:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:57:32",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features of Visual Studio and Agile methodologies, with a focus on Kanban and work item tracking, rather than DevOps principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on a user group meeting discussing Visual Studio features, specifically around Kanban and Work Item Tags, which are more aligned with project management and Agile methodologies rather than the core principles of DevOps. While there are mentions of collaboration and team dynamics, the discussion lacks depth in DevOps concepts such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -326,7 +332,7 @@
     "reasoning": "Content primarily discusses a demonstration of Visual Studio features and does not focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:20:48",
     "ai_confidence": 0,
@@ -337,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:20:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:57:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a user group meeting focused on Visual Studio features and does not address the Agile Product Operating Model or its principles.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on a user group meeting discussing specific features of Visual Studio, such as Kanban and Work Item Tags, without any substantial connection to the Agile Product Operating Model. While it mentions agile practices, it does not delve into the principles or frameworks of APOM, nor does it discuss product management or organisational effectiveness in delivering customer value.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,11 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:24:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:57:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a user group's meeting about Visual Studio ALM features with an emphasis on Kanban and Work Item Tracking, not on Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a user group meeting discussing Kanban and Work Item Tracking features in Visual Studio, which are not directly related to Continuous Delivery principles or practices. While there are mentions of Agile methodologies, the discussion lacks depth and does not explore Continuous Delivery concepts such as automation, rapid feedback, or software quality improvement.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1479,6 +1491,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a user group meeting focused on Visual Studio features, with no explicit mention of the Shift-Left Strategy or its principles. While it touches on Agile practices, it does not delve into integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:57:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a user group meeting discussing specific features of Visual Studio, such as Kanban Columns and Work Item Tags. While it mentions Kanban, which is related to Continuous Improvement, the overall discussion lacks a direct focus on the principles of Continuous Improvement, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The content does not provide substantial detail or depth on Continuous Improvement practices, making it only tangentially related.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:57:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on an event announcement and technical features of Visual Studio, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it mentions Kanban, it does not connect this to shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:57:39",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on an event announcement and technical features of Visual Studio, with minimal direct discussion of competence. While it touches on topics relevant to Agile practices, such as Kanban, it lacks a thorough exploration of continuous learning or skill development, which are central to the competence category.",
     "level": "Ignored"
   }
 }

@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:03:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:14:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the author's new role and responsibilities within the Visual Studio Industry Partner Program, focusing on opportunities for partners and product management, without addressing Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the author's new role and responsibilities within the Visual Studio Industry Partner Program, focusing on opportunities for partners and product extensibility. There are no explicit mentions of Evidence-Based Management principles or metrics, and the discussion lacks depth in relation to data-informed decision-making or empirical evidence. The content is more about personal career development and collaboration rather than evidence-based practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,14 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:49:47",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-22T08:14:33",
+    "ai_confidence": 25.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily discusses the author's new role as a Technical Product Manager within the Visual Studio Industry Partner Program, focusing on collaboration and extensibility opportunities. While there are mentions of collaboration and integration, which are relevant to DevOps, the content lacks a direct focus on DevOps principles, practices, or tools. The discussion is more centred on product management and partner relationships rather than the core themes of DevOps such as CI/CD, automation, or cultural shifts.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the author's new role as a Technical Product Manager within the Visual Studio Industry Partner Program, discussing opportunities for partners and extensibility within Visual Studio. While there are elements of collaboration and integration that could relate to DevOps, the discussion lacks a direct focus on DevOps principles, practices, or cultural shifts. The mention of collaboration is too vague and does not delve into the core themes of DevOps, such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,7 +332,7 @@
     "reasoning": "Content primarily discusses the author's new role as a Technical Product Manager and the opportunities within the Visual Studio Industry Partner Program, without a clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:04:42",
     "ai_confidence": 0,
@@ -340,14 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T05:50:25",
+    "calculated_at": "2025-03-22T08:14:44",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content primarily discusses the author's new role as a Technical Product Manager within the Visual Studio Industry Partner Program, focusing on opportunities for partners and extensibility of Visual Studio. While it touches on aspects of product management and collaboration, it lacks a direct discussion of Agile principles, product-centric development, or the Agile Product Operating Model. The mention of working with product teams and defining a taxonomy hints at some alignment with Agile concepts, but the overall focus is more on technical integration and personal career development rather than a comprehensive exploration of the Agile Product Operating Model.",
+    "reasoning": "The content briefly mentions the role of a Technical Product Manager and discusses opportunities for partners and extensibility within Visual Studio, which aligns with product management principles. However, it lacks a direct focus on the Agile Product Operating Model and does not delve into key topics such as agile processes, governance, or continuous improvement, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -427,11 +430,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:31:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:14:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about joining the VSIP team and opportunities with Visual Studio, with no direct discussion on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the author's new role as a Technical Product Manager within the Visual Studio Industry Partner Program, focusing on opportunities for partners and extensibility within Visual Studio. While there are mentions of collaboration and product management, there is no explicit discussion of Continuous Delivery principles, practices, or related topics. The content lacks depth in addressing the core themes of Continuous Delivery, such as automation, incremental improvements, or rapid feedback, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1501,5 +1507,41 @@
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the author's new role as a Technical Product Manager within the Visual Studio Industry Partner Program, focusing on opportunities for partners and extensibility within Visual Studio. There are no direct mentions of the Shift-Left Strategy, nor does it align with its core themes of integrating testing, security, or compliance early in the software development lifecycle. The discussion lacks depth regarding Shift-Left practices, making it largely irrelevant to the category.",
     "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:14:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the author's new role and responsibilities within the Visual Studio Industry Partner Program, with limited direct discussion on Continuous Improvement principles. While there are mentions of enhancing processes and collaboration, the content lacks a detailed exploration of Continuous Improvement strategies or empirical evidence. The alignment with the category is weak, as it does not delve into the core themes or provide substantial depth on Continuous Improvement practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:14:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the author's new role and responsibilities within the Visual Studio Industry Partner Program, with limited direct discussion of Common Goals. While it touches on collaboration and the need for alignment between partners and the Visual Studio product, it lacks a thorough exploration of how these elements connect to overarching strategic objectives or frameworks like OKRs. The depth of discussion on Common Goals is minimal, making it a secondary theme rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:14:41",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 30,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the author's transition to a Technical Product Manager role and mentions the importance of maintaining technical competence while taking on new challenges. However, the primary focus is on the role and responsibilities within the VSIP team rather than a deep exploration of competence as a foundational principle. The discussion of competence is present but not central, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

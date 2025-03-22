@@ -26,6 +26,9 @@ headline:
   subtitle: Exploring software quality and development practices to navigate complexity and enhance delivery efficiency.
   content: Exploring the intricacies of software code quality and development practices, this classification delves into strategies for managing complexity, enhancing delivery efficiency, and fostering collaboration. Topics include continuous improvement, workflow optimisation, and the interplay between team dynamics and technical excellence.
   updated: 2025-02-13T11:59:49Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

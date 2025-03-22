@@ -25,6 +25,9 @@ headline:
   subtitle: Insights and discussions from industry leaders on software practices, methodologies, and frameworks for effective team collaboration and delivery.
   content: Engaging discussions and presentations that explore innovative methodologies and frameworks for optimising team performance and delivery. Topics include workflow visualisation, iterative development, continuous improvement, and evidence-based decision-making, drawing insights from industry thought leaders and real-world applications.
   updated: 2025-02-13T11:59:27Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

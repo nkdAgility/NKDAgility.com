@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:48:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:33:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of creating backups in Team Foundation Server, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on technical instructions for backing up Team Foundation Server 2010 and troubleshooting related issues. It does not discuss Evidence-Based Management principles, metrics, or data-informed decision-making, which are central to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T06:19:08",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-22T08:33:05",
+    "ai_confidence": 12.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the technical aspects of backing up Team Foundation Server (TFS) and troubleshooting related issues. While it touches on some operational concerns, such as permissions and service accounts, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The mention of TFS and SQL Server does not directly align with the core themes of DevOps, which emphasise collaboration, continuous delivery, and automation. Therefore, the content is only tangentially related to DevOps.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of backing up Team Foundation Server (TFS) and troubleshooting related issues. While it touches on operational concerns, it lacks a clear discussion of DevOps principles such as collaboration, automation, or shared accountability. The content does not engage with the broader DevOps philosophy or cultural shifts, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +323,7 @@
     "reasoning": "Content primarily focuses on the technical aspects of creating backups in Team Foundation Server, including permissions and error handling, without discussing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:49:02",
     "ai_confidence": 0,
@@ -331,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T21:49:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:33:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the technical aspects of creating backups in Team Foundation Server, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on technical aspects of backing up Team Foundation Server 2010, with no direct mention of Agile methodologies, product management principles, or the Agile Product Operating Model. While there are some references to team collaboration and troubleshooting, these do not align with the core themes of the Agile Product Operating Model, which emphasises customer-centric value delivery and continuous improvement in product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -406,11 +412,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:58:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:33:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses backup procedures for Team Foundation Server, not Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the backup process for Team Foundation Server 2010, discussing permissions and troubleshooting related to SQL Server and TFS. It does not address Continuous Delivery principles, practices, or benefits, nor does it explore automation, rapid feedback, or cultural aspects of software delivery. The mention of TFS and backup processes is tangential and does not align with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1446,6 +1455,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the technical aspects of creating backups in Team Foundation Server, discussing permissions and error handling. It does not address the Shift-Left Strategy, which involves integrating testing, security, and compliance earlier in the software development lifecycle. There are no direct mentions of Shift-Left principles, nor does the content explore any related techniques or methodologies. Overall, the content is unrelated to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:33:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for backing up Team Foundation Server 2010, with detailed troubleshooting steps. While it touches on problem-solving and learning from errors, it does not explicitly discuss Continuous Improvement principles or strategies. The content lacks a clear connection to the core themes of Continuous Improvement, such as fostering a culture of experimentation or integrating improvement into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:33:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for backing up Team Foundation Server 2010, with no explicit discussion of Common Goals, Agile, or DevOps principles. While it touches on permissions and operational challenges, it lacks alignment with the core themes of shared objectives and strategic alignment that define Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:33:12",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on technical instructions for backing up Team Foundation Server 2010, with minimal reference to competence in terms of skill development or professional growth. While it discusses troubleshooting and permissions, it does not engage with the broader themes of continuous learning or the importance of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

@@ -643,11 +643,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T07:04:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on metrics for predictability in Kanban, not on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T17:44:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on Kanban and metrics for predictability rather than Continuous Delivery principles. While it touches on aspects of delivery and efficiency, it does not explicitly discuss Continuous Delivery practices, automation, or rapid feedback mechanisms. The discussion is more aligned with project management and Kanban methodologies, which are not strictly within the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -820,15 +823,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T19:32:30",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 25,
-    "ai_depth": 25,
+    "calculated_at": "2025-03-21T17:44:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses the application of metrics in project management, particularly through the lens of Kanban, which aligns with the principles of Evidence-Based Management. It highlights the importance of using empirical data to improve predictability and decision-making. However, while it touches on relevant themes, it does not explicitly mention Evidence-Based Management or its foundational principles, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the use of Kanban metrics to enhance predictability, which aligns with the concept of using data to inform decision-making. However, it primarily focuses on Kanban practices rather than explicitly addressing Evidence-Based Management principles. While it mentions metrics and informed decision-making, it lacks a comprehensive exploration of the broader EBM themes such as current value, unrealised value, and outcome management.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1267,11 +1270,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T07:02:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:44:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on metrics for predictability in Kanban, which is not central to DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Kanban and project management metrics, which are not directly aligned with the core principles of DevOps. While it touches on aspects of predictability and flow, it lacks explicit discussions on collaboration, automation, or shared accountability that are central to DevOps. The depth of discussion is limited to Kanban practices, which do not encompass the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1451,25 +1457,16 @@
     "reasoning": "Content primarily discusses metrics for predictability in Kanban, which is not directly related to platform engineering or internal developer platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:15:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses metrics for predictability in Kanban, which is not directly related to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T19:33:09",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-21T17:44:49",
+    "ai_confidence": 25.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on Kanban metrics and predictability in project management rather than the Agile Product Operating Model. While it touches on value delivery, it does not discuss the broader principles of product-centric development or the role of cross-functional teams, which are central to the Agile Product Operating Model.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on Kanban metrics and predictability in project management, which does not align with the core principles of the Agile Product Operating Model. While it touches on agile practices, it lacks a direct discussion on product management or the transition to a product-oriented mindset, which are central to the APOM framework.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1533,6 +1530,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Kanban metrics and predictability in project management, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on improving delivery and efficiency, it does not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:44:38",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on enhancing predictability through the application of Kanban metrics, which indirectly supports Continuous Improvement by promoting data-driven decision-making and efficiency. However, it lacks explicit discussions on broader Continuous Improvement principles and strategies, making it a secondary focus rather than a primary one.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:44:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on enhancing predictability through Kanban metrics, which is more about project management techniques than aligning team efforts with common goals. While it touches on aspects of team performance and delivery, it does not explicitly discuss shared objectives or strategic alignment within Agile or DevOps frameworks. The mention of stakeholder confidence and informed decision-making hints at some alignment with common goals, but it lacks depth and direct references to the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:44:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of predictability in project management and how Kanban metrics can enhance this aspect. While it touches on the need for informed decision-making and improving delivery capabilities, it does not explicitly focus on continuous learning or skill development, which are core to the competence category. The discussion is relevant but lacks depth in exploring the broader implications of competence in Agile and DevOps environments.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:44:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Kanban and its metrics for improving predictability in project management, which does not align with the core principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion is centred around Kanban practices rather than the integration and standardisation of engineering processes across teams.",
     "level": "Ignored"
   }
 }

@@ -31,16 +31,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Evidence Based Management
 - Decision Making
 - Evidence Based Leadership
+- Continuous Improvement
 - Agile Product Management
 - Pragmatic Thinking
 - Empirical Process Control
 - Software Development
 - Operational Practices
 - Ability to Innovate
-- Agile Strategy
-- Team Performance
 resourceTypes:
 - video
 categories:

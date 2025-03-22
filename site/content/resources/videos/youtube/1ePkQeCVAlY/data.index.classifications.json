@@ -646,11 +646,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T12:08:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:17:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concepts of resource efficiency and flow efficiency, which are not directly related to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses resource efficiency and flow efficiency within Agile processes, which are not directly related to Continuous Delivery. While it touches on optimisation and workflow, it lacks explicit references to Continuous Delivery principles, practices, or tools. The focus is more on general Agile concepts rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -826,11 +829,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T12:08:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:17:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concepts of resource efficiency and flow efficiency without a clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses resource and flow efficiency within Agile processes but does not explicitly mention Evidence-Based Management or its key topics. While it touches on optimisation and the importance of balancing different efficiencies, it lacks a focus on empirical evidence or data-informed decision-making, which are central to EBM. The discussion is more about Agile methodologies rather than evidence-based practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1267,12 +1273,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T12:06:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concepts of resource efficiency and flow efficiency, which are not directly related to DevOps principles or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T20:17:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 50,
+    "final_score": 61.0,
+    "reasoning": "The content discusses flow efficiency and resource efficiency, which are relevant to DevOps principles, particularly in the context of optimising processes and delivering value. However, it primarily focuses on Agile practices rather than explicitly addressing DevOps as a philosophy or its core principles. The mention of a DevOps consultant adds some relevance, but the overall discussion leans more towards Agile methodologies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1466,25 +1475,16 @@
     "reasoning": "The content primarily discusses resource efficiency and flow efficiency within Agile processes, which are not directly related to the principles of Beta Codex. While it touches on human-centric aspects by highlighting the importance of valuing individuals over treating them as mere resources, it does not explicitly mention Beta Codex or its foundational theories. The discussion lacks depth in terms of decentralisation and adaptive organisational cultures, which are key themes of the Beta Codex. Overall, the content is more focused on efficiency concepts rather than the broader organisational design principles advocated by Beta Codex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:29:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the concepts of resource efficiency and flow efficiency without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T01:15:23",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "calculated_at": "2025-03-21T20:17:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
-    "reasoning": "The content discusses Agile concepts, particularly resource and flow efficiency, which are relevant to Agile practices. However, it does not explicitly focus on the Agile Product Operating Model or its key topics, such as product-centric development or cross-functional teams. The discussion is more about efficiency in Agile processes rather than the broader organisational framework of the Agile Product Operating Model.",
+    "final_score": 31.0,
+    "reasoning": "The content discusses Agile processes and efficiency but does not explicitly mention the Agile Product Operating Model or its core principles. While it touches on concepts relevant to Agile methodologies, such as resource and flow efficiency, it lacks a direct focus on product management or the transition to a product-oriented mindset, which are central to the APOM framework.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1536,6 +1536,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses resource efficiency and flow efficiency within Agile processes, without any direct mention or alignment to the Shift-Left Strategy. It focuses on optimisation concepts rather than integrating testing, security, or compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:17:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses resource and flow efficiency, which are related to process optimisation but does not explicitly focus on Continuous Improvement principles. While it touches on aspects of improving workflows and balancing efficiencies, it lacks a direct emphasis on the ongoing practice of reflection and adaptation that defines Continuous Improvement. The discussion is more about efficiency concepts rather than a commitment to incremental advancements or a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:17:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses resource efficiency and flow efficiency within Agile processes, but it does not explicitly mention Common Goals or their significance in aligning strategy with execution. While it touches on aspects of team dynamics and optimisation, it lacks a direct focus on shared objectives or frameworks like OKRs that operationalise Common Goals. The discussion is more about efficiency concepts rather than the alignment of individual contributions to organisational missions.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:17:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses resource and flow efficiency within Agile processes, touching on the importance of optimising work systems. However, it primarily focuses on efficiency rather than directly addressing competence, continuous learning, or skill development. While there are implications for team dynamics and effectiveness, the core themes of competence are not the primary focus, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:17:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 30,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses resource efficiency and flow efficiency within Agile processes, which are not directly related to the One Engineering System framework. While it touches on optimisation and team dynamics, it does not explicitly mention 1ES principles, components, or its implementation. The focus is on efficiency concepts rather than the integration and standardisation of engineering practices.",
     "level": "Ignored"
   }
 }

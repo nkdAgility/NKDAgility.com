@@ -38,8 +38,7 @@ tags:
 - Enterprise Agility
 - Organisational Agility
 - Digital Transformation
-categories:
-- DevOps
+categories: []
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

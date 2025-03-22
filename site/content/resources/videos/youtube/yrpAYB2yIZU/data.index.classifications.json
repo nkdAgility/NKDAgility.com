@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:20:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:27:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on moving an Active Directory domain to another server, which is not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating Active Directory and setting up domain controllers, which does not align with the core principles of DevOps. While there is a brief mention of collaboration in the conclusion, it is not a primary focus of the content. The discussion lacks depth in DevOps concepts such as automation, shared accountability, or continuous improvement, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -241,11 +244,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T12:23:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:27:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses moving an Active Directory domain to another server, which is unrelated to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating Active Directory and setting up domain controllers, which does not align with the principles or practices of Continuous Delivery. There are no direct mentions of Continuous Delivery, and the discussion lacks any relevant themes such as automation, rapid feedback, or software quality improvement. The content is more about system administration rather than software delivery practices.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -374,7 +380,7 @@
     "reasoning": "Content is focused on technical instructions for moving an Active Directory domain and does not relate to Value Stream Management principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-18T12:23:44",
     "ai_confidence": 0,
@@ -1138,11 +1144,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T12:23:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:27:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on technical guidance for moving a domain controller and does not discuss Agile principles or product-centric approaches.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the technical process of migrating Active Directory and does not mention or align with any principles of the Agile Product Operating Model. It lacks any discussion of agile methodologies, product management, or the key topics outlined in the category description.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1345,11 +1354,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T12:23:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:27:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical instructions for moving an Active Directory domain, with no relevance to Evidence-Based Management principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating Active Directory and does not discuss Evidence-Based Management or its key topics. There are no direct mentions of data-informed decision-making or empirical evidence, and the discussion lacks depth in relation to EBM principles.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1422,6 +1434,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the technical process of migrating a domain controller and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any insights into collaboration or metrics related to Shift-Left initiatives.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:27:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating a domain controller and does not explicitly discuss Continuous Improvement principles. While it touches on the importance of planning and learning from experiences, these concepts are not explored in the context of Continuous Improvement methodologies or frameworks. The discussion lacks depth in relation to the key topics outlined for Continuous Improvement, such as empirical evidence, team effectiveness, or strategies for fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:27:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating Active Directory and does not discuss or align with the principles of Common Goals in Agile or DevOps. While it mentions the importance of having a plan and collaboration, these points are vague and do not connect to the core themes of shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:27:50",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical steps involved in migrating a domain controller, with minimal direct discussion on competence or continuous learning. While it touches on the importance of having a robust setup and a backup plan, these points are not deeply explored in relation to skill development or professional growth. The content lacks a thorough examination of competence as a foundational principle in Agile or DevOps methodologies.",
     "level": "Ignored"
   }
 }

@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:01:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:47:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio 2010 Architectural Guidance and practical tools, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Visual Studio 2010 Architecture Guidance, focusing on practical tips and tools for developers. It does not mention Evidence-Based Management or its key topics, nor does it provide any empirical evidence or metrics related to management decisions.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,11 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T00:02:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:47:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio 2010 Architectural Guidance and related tools, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010 Architecture Guidance, which is centred around development tools and practices rather than the core principles of DevOps. While there are mentions of practical guidance and tools, there is no explicit discussion of DevOps philosophy, collaboration, automation, or shared accountability. The content lacks depth in relation to DevOps concepts, making it only tangentially related.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -328,11 +334,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:04:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:47:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Visual Studio 2010 Architectural Guidance and practical tools, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010 Architecture Guidance, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM category. The discussion is centred around architectural tools and practical guidance for developers, lacking any connection to the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -365,7 +374,7 @@
     "reasoning": "The content discusses the Visual Studio 2010 Architectural Guidance, which is related to application architecture and tools that can assist in the application lifecycle. However, it primarily focuses on specific tools and practical guidance rather than the broader methodologies and practices of Application Lifecycle Management. While it mentions aspects of guidance and support for developers, it lacks a comprehensive discussion on the stages of the application lifecycle, governance, or integration of Agile and DevOps principles, which are key themes in ALM.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:04:09",
     "ai_confidence": 0,
@@ -415,11 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:18:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:47:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Visual Studio 2010 Architectural Guidance and related tooling rather than Continuous Delivery principles and practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Visual Studio 2010 Architecture Guidance, focusing on practical tips and tools for developers. It does not address Continuous Delivery principles, practices, or related topics, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1452,6 +1464,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the Visual Studio 2010 Architectural Guidance and its practical applications, without any explicit mention of the Shift-Left Strategy. While it touches on guidance for developers and architects, it does not address integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy. The focus is more on tooling and architectural guidance rather than proactive quality measures.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:47:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Visual Studio 2010 Architecture Guidance, providing practical tips and tools for developers. While it mentions guidance and practical advice, it does not explicitly discuss Continuous Improvement principles or strategies. The alignment with the core themes of Continuous Improvement is minimal, and the depth of discussion is superficial, lacking any substantial exploration of Continuous Improvement concepts.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:47:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Visual Studio 2010 Architecture Guidance, providing practical tips and tools for developers. It does not discuss Common Goals, Agile, or DevOps principles, nor does it connect individual contributions to organisational objectives. The mention of guidance and practical tips is too vague and does not align with the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:47:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions enhancing development skills and provides practical guidance, which aligns with the concept of competence. However, it lacks a deep discussion on continuous learning or the broader implications of competence in Agile or DevOps contexts. The focus is primarily on specific tools and guidance rather than on the foundational principles of competence.",
     "level": "Ignored"
   }
 }

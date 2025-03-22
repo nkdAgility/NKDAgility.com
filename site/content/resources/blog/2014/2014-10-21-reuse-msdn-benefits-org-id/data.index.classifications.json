@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T00:16:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:11:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on transferring MSDN benefits to an organisational account and does not discuss Evidence-Based Management or its key topics. There are no direct mentions of data-informed decision-making or metrics related to value delivery, innovation, or outcome management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T00:16:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:11:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, which is not central to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on transferring MSDN benefits to an organisational account and does not discuss any DevOps principles, practices, or cultural shifts. It lacks direct mentions of DevOps concepts, and the discussion is superficial, providing minimal detail relevant to the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses the process of reusing MSDN benefits with an Org ID, focusing on account management and subscription cancellation, which does not relate to Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T00:16:51",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T00:16:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:11:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on transferring MSDN benefits to an organisational ID and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related topics. The content lacks alignment with the core themes of APOM and provides no depth in discussing the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T00:17:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:11:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of managing MSDN subscriptions and transitioning from a Microsoft ID to an Organisational ID, with no relevance to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on transferring MSDN benefits to an organisational account and does not discuss Continuous Delivery principles, practices, or related topics. There are no direct mentions of Continuous Delivery, and the content lacks alignment with its core themes, such as automation, incremental improvements, or software quality. The depth of discussion is minimal and does not provide any relevant insights into Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1425,6 +1437,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the process of reusing MSDN benefits with an organisational ID and does not mention or align with the principles of the Shift-Left Strategy in software development. It lacks any discussion on testing, security, or compliance integration early in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:11:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on transferring MSDN benefits to an organisational account and does not discuss Continuous Improvement principles or practices. There are no direct mentions of continuous improvement, nor does it align with the core themes such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is limited to practical steps for account management, which is unrelated to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:11:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of transferring MSDN benefits to an organisational account, with no explicit discussion of Common Goals or their significance in Agile or DevOps frameworks. It lacks alignment with the core themes of shared objectives and strategic alignment, and provides minimal detail relevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:11:30",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on the technical process of transferring MSDN benefits to an organisational account, with no explicit discussion of competence, continuous learning, or skill development. While it may imply a level of technical capability, it does not engage with the core themes of competence as defined in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

@@ -23,6 +23,9 @@ headline:
   subtitle: Cultivating an environment where teams thrive, innovate, and collaborate without fear of judgement or failure.
   content: An environment where individuals feel safe to express ideas, take risks, and learn from mistakes fosters creativity and collaboration. Posts should explore team dynamics, trust-building, open communication, and the impact of a supportive culture on performance and innovation, drawing insights from various management and complexity theories.
   updated: 2025-02-13T12:03:06Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

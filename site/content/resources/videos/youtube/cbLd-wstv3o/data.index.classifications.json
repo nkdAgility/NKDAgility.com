@@ -49,14 +49,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-06T14:57:23",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content explicitly mentions evidence-based management and discusses its application in identifying unrealised value through metrics. It aligns well with the core themes of EBM, particularly in the context of using empirical data to inform decision-making. The discussion provides a moderate level of detail about metrics and their relevance to understanding product value, which is a key aspect of EBM. However, while it touches on important concepts, it could benefit from deeper exploration of EBM principles and practices.",
+    "calculated_at": "2025-03-21T17:54:33",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses Evidence-Based Management (EBM) and its application in identifying unrealized value in products. It provides a clear definition of unrealized value and outlines specific metrics and practical approaches to measure and act on this value, aligning closely with the core themes of EBM. The depth of discussion is substantial, offering detailed examples and actionable insights, which reinforces its primary focus on EBM.",
     "level": "Secondary"
   },
   "Personal": {
@@ -349,23 +349,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-11T17:28:24",
-    "ai_confidence": 82.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
+    "calculated_at": "2025-03-21T17:54:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
-    "reasoning": "The content extensively discusses the concept of unrealized value in product development, which aligns closely with the Agile Product Operating Model's focus on continuous value delivery. It mentions Evidence-Based Management (EBM) as a framework for identifying gaps in value, which is relevant to the principles of product-centric development. The discussion on metrics, stakeholder engagement, and prioritising the product backlog reflects key themes of the Agile Product Operating Model. The depth of the content is significant, providing practical examples and a case study that illustrate the application of these concepts in real-world scenarios.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in identifying unrealized value, which aligns with the principles of the Agile Product Operating Model. However, while it touches on product management and continuous improvement, it lacks a comprehensive exploration of the APOM framework and its key topics, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T14:13:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:54:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses metrics related to product value and backlog management, which are not central to DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and product development, with a focus on identifying unrealized value. While it touches on concepts like continuous improvement and stakeholder engagement, which are relevant to DevOps, it does not explicitly address DevOps principles or practices. The discussion lacks depth in terms of DevOps culture, automation, or collaboration, leading to a low confidence score in alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -387,15 +390,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses identifying unrealised value and metrics related to product management, rather than optimising work throughput or flow efficiency.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:13:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses evidence-based management and product value metrics, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -1075,11 +1069,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses metrics and unrealized value in product management, which is irrelevant to Continuous Delivery principles and practices.",
+    "calculated_at": "2025-03-21T17:54:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and the concept of unrealized value, which are related to improving product delivery and responsiveness to user needs. However, it does not explicitly focus on Continuous Delivery principles, practices, or automation in testing and deployment. The discussion is more centred on product management and metrics rather than the Continuous Delivery cycle itself.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1530,6 +1527,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and the concept of unrealized value in product development, which does not directly address the Shift-Left Strategy. While there are mentions of metrics and continuous improvement, these are not specifically tied to integrating testing, security, or compliance earlier in the development process, which is the core of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:54:19",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses Evidence-Based Management (EBM) and its role in identifying and acting on unrealized value, which aligns closely with the principles of Continuous Improvement. It highlights the importance of metrics, stakeholder engagement, and iterative development, all of which are core to fostering a culture of continuous enhancement. The depth of discussion on practical applications and real-world examples further supports a high confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:54:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the concept of unrealized value and how to identify it using Evidence-Based Management (EBM), which indirectly relates to aligning team efforts with strategic goals. However, it primarily focuses on metrics and practical approaches rather than explicitly addressing the foundational principles of Common Goals in Agile and DevOps. The mention of product backlog prioritisation hints at alignment but lacks depth in discussing shared objectives or strategic commitments.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:54:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the concept of unrealized value and the importance of continuous improvement through Evidence-Based Management (EBM), which aligns with the principles of competence. However, while it touches on metrics and stakeholder engagement, it does not delve deeply into the continuous learning aspect or the development of skills, which are central to the competence category. The focus is more on product value rather than on the competence of individuals or teams.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:54:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and unrealized value in product development, which are not directly related to the One Engineering System framework. While there are mentions of metrics and product backlogs, these concepts do not align with the core themes of 1ES, such as integration of tools and processes across teams or standardisation of engineering practices.",
     "level": "Ignored"
   }
 }

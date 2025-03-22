@@ -634,11 +634,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T23:25:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:22:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Taylorism and its influence on project management, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Taylorism and its historical influence on project management, with no direct mention of Continuous Delivery principles or practices. While it touches on project management methodologies, it does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or incremental improvements. The depth of discussion is focused on traditional management practices rather than the modern practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -808,11 +811,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-11T23:26:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:22:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Taylorism and its influence on project management, without a focus on evidence-based management principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Taylorism and its historical influence on project management, focusing on command-and-control structures rather than evidence-based practices. While it touches on the evolution of project management and mentions the need for new approaches in complex environments, it lacks a direct focus on empirical evidence or metrics that define Evidence-Based Management. The discussion is more historical and theoretical, with minimal alignment to the key topics of EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1243,11 +1249,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T23:24:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:22:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Taylorism and its influence on traditional project management, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Taylorism and its influence on project management, focusing on traditional management practices rather than DevOps principles. While it touches on efficiency and project management, it does not align with the core themes of DevOps, such as collaboration, automation, or shared accountability. The discussion is more about historical management frameworks than the cultural and technological shifts necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1427,25 +1436,16 @@
     "reasoning": "Content primarily discusses Taylorism and traditional project management practices, focusing on hierarchical structures and command-and-control management, which are contrary to the principles of Beta Codex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:34:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Taylorism and its influence on project management, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T01:29:02",
+    "calculated_at": "2025-03-21T20:22:50",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 5.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
     "final_score": 13.0,
-    "reasoning": "The content primarily discusses Taylorism and its influence on traditional project management, with a brief mention of Agile as a response to complex environments. However, it lacks a focused discussion on the Agile Product Operating Model, its principles, or strategies for value delivery in product teams. The content does not delve into the core themes of the Agile Product Operating Model, such as cross-functional teams, continuous feedback, or alignment with customer needs.",
+    "reasoning": "The content primarily discusses Taylorism and its historical influence on project management, focusing on traditional project management methodologies rather than the Agile Product Operating Model. While it briefly mentions the Agile movement, it does not delve into the principles or practices of APOM, nor does it explore the transition from project to product ethos, which is central to the category. The discussion is largely centred on command-and-control structures and the limitations of traditional project management in complex environments, which does not align with the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1497,6 +1497,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses Taylorism and its influence on project management, with no direct mention of the Shift-Left Strategy. While it touches on project management principles, it does not address integrating testing, security, or compliance earlier in the software development lifecycle, which are core themes of the Shift-Left Strategy. The discussion lacks depth regarding the proactive approach and benefits associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:22:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Taylorism and its historical impact on project management rather than focusing on Continuous Improvement principles. While it touches on the need for evolution in project management practices, it does not delve deeply into Continuous Improvement methodologies or strategies. The mention of Agile as a response to the limitations of Taylorism hints at a connection to Continuous Improvement, but it is not the main focus of the discussion.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:22:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Taylorism and its historical influence on project management, focusing on command-and-control structures rather than the alignment of strategy and execution within Agile and DevOps frameworks. While it touches on the evolution of project management and hints at the need for new approaches in complex environments, it does not explicitly address Common Goals or their significance in fostering collaboration and accountability. The discussion lacks depth in exploring how shared objectives guide decision-making or connect individual contributions to organisational missions.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:22:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Taylorism and its influence on project management, touching on aspects of efficiency and productivity. However, it primarily focuses on historical context and command-and-control structures rather than on the continuous development of skills or the importance of competence in Agile or DevOps environments. While there are mentions of managerial roles and the need for skilled professionals, the discussion lacks depth in exploring competence as a foundational principle, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:22:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses Taylorism and its influence on project management, which is not directly related to the One Engineering System framework. While it touches on standardisation and processes, it does not focus on the integration of tools or methodologies specific to 1ES, nor does it provide detailed insights into its principles or implementation. The discussion is more historical and theoretical rather than practical or aligned with the core themes of 1ES.",
     "level": "Ignored"
   }
 }

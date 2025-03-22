@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T22:15:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:38:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses upgrading process templates in Team Foundation Server, focusing on technical implementation rather than evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on upgrading process templates in Team Foundation Server, discussing various methods and their pros and cons. It does not explicitly mention Evidence-Based Management or its key topics, nor does it provide a data-informed decision-making framework. The discussion lacks depth in relation to empirical evidence or metrics that would align with EBM principles.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T22:15:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:38:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses upgrading process templates in Team Foundation Server, which is more related to project management and version control rather than core DevOps principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on upgrading process templates in Team Foundation Server (TFS), which is more aligned with project management and software development practices rather than the core principles of DevOps. While there are tangential references to workflow and process efficiency, the discussion lacks a strong emphasis on collaboration, automation, or shared accountability, which are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -326,7 +332,7 @@
     "reasoning": "Content primarily discusses upgrading process templates in Team Foundation Server, focusing on practical steps and considerations rather than exploring Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T22:16:24",
     "ai_confidence": 0,
@@ -337,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T22:16:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:38:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses upgrading process templates in Team Foundation Server, which is not directly related to the Agile Product Operating Model.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on upgrading process templates in Team Foundation Server, which is a technical task related to project management rather than the Agile Product Operating Model. There are no direct mentions of agile principles, product management practices, or the core themes of APOM. The discussion is heavily centred on technical implementation details and does not align with the key topics outlined for the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -415,11 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:50:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:38:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses upgrading process templates in Team Foundation Server, which is not directly related to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on upgrading process templates in Team Foundation Server, which is more about configuration management than Continuous Delivery. While it touches on aspects of workflow and process improvement, it lacks a direct discussion on Continuous Delivery principles, automation, or rapid feedback mechanisms. The depth of discussion is limited to specific upgrade strategies without addressing broader Continuous Delivery practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1479,6 +1491,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses upgrading process templates in Team Foundation Server, focusing on the complexities and methods of implementing changes. While it touches on aspects of workflow and testing, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth in relation to integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:38:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses upgrading process templates in Team Foundation Server, which involves some elements of improvement and adaptation. However, it primarily focuses on technical steps and strategies for implementation rather than a broader discussion on Continuous Improvement principles. While there are mentions of simplifying processes and retaining data, the content lacks a strong emphasis on empirical evidence, culture of experimentation, or integration into organisational processes, which are key aspects of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:38:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical aspects of upgrading process templates in Team Foundation Server, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on project management techniques, it lacks alignment with the core themes of shared objectives and strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:38:18",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading process templates in Team Foundation Server, with limited direct discussion on competence. While it touches on the importance of understanding the implications of changes and the need for careful planning, it does not delve deeply into continuous learning, skill development, or fostering a culture of competence. The discussion is more about practical steps and strategies rather than the underlying principles of competence in a professional context.",
     "level": "Ignored"
   }
 }

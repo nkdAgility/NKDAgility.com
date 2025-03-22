@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:07:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:34:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a promotional offer for Visual Studio Team System, focusing on tools for development rather than DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting a discount for Visual Studio Team System 2008 and enhancing collaboration through the use of tools. While it mentions collaboration, it does not delve into the core principles of DevOps, such as automation, shared accountability, or cultural shifts. The discussion lacks depth and does not explicitly address DevOps as a philosophy or its key topics.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:07:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:35:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a promotional offer for Visual Studio Team System and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a discount for Visual Studio Team System 2008 and enhancing collaboration through its tools. It does not discuss the Agile Product Operating Model or its principles, nor does it provide any depth on transitioning to a product-oriented mindset or related topics. The mention of collaboration is too vague and does not align with the core themes of APOM.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -169,11 +175,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:07:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:35:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a promotional offer for Visual Studio Team System and does not address Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting a discount for Visual Studio Team System 2008 and enhancing collaboration through the use of tools, without any explicit discussion of Evidence-Based Management principles or metrics. It lacks direct mentions of empirical decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -242,7 +251,7 @@
     "reasoning": "Content primarily discusses a promotional offer for Visual Studio Team System and does not address metrics, learning, or related themes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:07:43",
     "ai_confidence": 0,
@@ -895,11 +904,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:27:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:35:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Visual Studio Team System and its pricing, focusing on collaboration tools during the application lifecycle, but does not specifically address Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting a discount for Visual Studio Team System 2008 and enhancing collaboration through the use of tools. While it mentions improving collaboration during the application lifecycle, it does not explicitly discuss Continuous Delivery principles, practices, or the importance of automation, rapid feedback, or incremental improvements. The discussion lacks depth and does not align with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1440,6 +1452,42 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on promoting a discount for Visual Studio Team System and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. It lacks any mention of integrating testing, security, or compliance early in the development process, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:34:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting a discount for an upgrade to Visual Studio Team System 2008, with no explicit discussion of Continuous Improvement principles. While it mentions enhancing collaboration and streamlining development processes, these concepts are not explored in the context of Continuous Improvement methodologies or practices. The content lacks depth and does not provide empirical evidence, strategies, or case studies related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:35:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting a discount for Visual Studio Team System 2008 and enhancing collaboration through tool upgrades. While it mentions collaboration, it does not explicitly discuss Common Goals or their significance in Agile or DevOps frameworks. The discussion lacks depth and does not connect to strategic objectives or frameworks like OKRs, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:35:04",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on promoting a software upgrade and does not discuss competence, continuous learning, or skill development. While it mentions enhancing collaboration, it does not delve into the principles of competence as defined in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

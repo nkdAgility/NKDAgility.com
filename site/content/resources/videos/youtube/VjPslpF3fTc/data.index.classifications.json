@@ -610,11 +610,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T23:55:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:12:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and does not address Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on immersive learning for experienced Agile practitioners, discussing concepts like double-loop learning and practical assignments. While it touches on Agile methodologies, it does not explicitly address Continuous Delivery principles, practices, or tools. The discussion lacks depth in relation to Continuous Delivery, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -775,11 +778,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-11T23:56:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:12:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and does not focus on Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses immersive learning for experienced Agile practitioners, focusing on skill enhancement rather than evidence-based management principles. While it touches on concepts like double-loop learning and practical assignments, it lacks direct references to empirical decision-making or metrics that align with Evidence-Based Management. The discussion is more about personal development and learning methodologies than about data-informed management practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1204,11 +1210,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T23:53:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and does not focus on DevOps principles, practices, or related topics.",
+    "calculated_at": "2025-03-21T19:11:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content primarily focuses on immersive learning for Agile practitioners, with only a brief mention of DevOps at the end. While it discusses concepts like double-loop learning and practical assignments, which can relate to DevOps principles, the overall emphasis is on Agile methodologies rather than the core tenets of DevOps. Therefore, the confidence score reflects a low primary focus on DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1378,11 +1387,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T19:59:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and does not focus on Agile principles or the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T19:11:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses immersive learning in the context of Agile practitioners but does not explicitly address the Agile Product Operating Model or its core principles. While it touches on Agile methodologies and the development of skills, it lacks a direct focus on product management practices, governance, or the transition from project to product ethos, which are essential to the APOM framework.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1401,15 +1413,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning experiences and does not focus on platform engineering or related topics.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T19:59:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and does not focus on the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1452,6 +1455,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on immersive learning for experienced Agile practitioners, discussing concepts like double-loop learning and practical assignments. However, it does not explicitly mention or align with the Shift-Left Strategy, which is centred on integrating testing, security, and compliance earlier in the software development lifecycle. The discussion is more about professional development and learning methodologies rather than the proactive measures associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:11:48",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses immersive learning and its benefits for experienced Agile practitioners, touching on concepts like double-loop learning and practical assignments. However, it primarily focuses on skill enhancement rather than Continuous Improvement as a systematic approach. While there are elements of reflection and adaptation, the overall emphasis is on personal development rather than organisational processes or broader Continuous Improvement strategies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:11:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses immersive learning for experienced Agile practitioners but does not explicitly address Common Goals or their significance in Agile and DevOps. While it touches on professional development and the importance of tailored learning experiences, it lacks a direct connection to shared objectives or strategic alignment within teams. The focus is more on individual learning experiences rather than collective goals, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:11:53",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content focuses on how immersive learning enhances the skills of experienced Agile practitioners, which directly relates to the concept of competence. It discusses the importance of continuous learning and skill development, aligning well with the core themes of the category. The depth of discussion is significant, as it explores various aspects of learning, including double-loop learning and practical assignments, which contribute to the development of competence. Overall, the content is a strong fit for the category, with a high confidence score reflecting its primary focus on competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:11:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on immersive learning for experienced Agile practitioners, discussing concepts like double-loop learning and practical assignments. However, it does not directly address the One Engineering System framework, its principles, or its integration across teams. The discussion is more about personal development and learning methodologies rather than the standardisation and integration of engineering processes, which is the core of 1ES.",
     "level": "Ignored"
   }
 }

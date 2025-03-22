@@ -31,6 +31,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Continuous Improvement
+- Evidence Based Management
 - Discovery and Learning
 - Evidence Based Leadership
 - Product Discovery
@@ -39,8 +41,6 @@ tags:
 - Ability to Innovate
 - Decision Making
 - Pragmatic Thinking
-- Scrum Product Development
-- Agile Product Operating Model
 resourceTypes:
 - video
 categories:

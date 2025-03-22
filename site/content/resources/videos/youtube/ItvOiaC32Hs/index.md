@@ -32,10 +32,10 @@ tags:
 - Organisational Agility
 - Team Performance
 - Software Development
+- Common Goals
 - Agile Product Management
 - Agile Leadership
 - Agile Planning
-- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

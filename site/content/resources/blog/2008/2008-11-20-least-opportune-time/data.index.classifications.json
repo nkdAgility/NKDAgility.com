@@ -79,11 +79,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:01:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:33:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues with a specific server and personal experiences, lacking a focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a personal experience with server outages while launching a specific software version, which is more focused on a specific incident rather than the broader principles of DevOps. While it mentions TFS (Team Foundation Server), which is a tool often used in DevOps contexts, the discussion lacks depth on DevOps practices such as collaboration, automation, or shared accountability. The mention of server issues does not align with the core themes of DevOps, and the overall focus is more anecdotal than philosophical or methodological.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -115,11 +118,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:01:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:33:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to a server outage and personal frustrations with a development environment, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses frustrations related to server outages during the launch of a specific product, TFS Sticky Buddy v2.0. While it mentions a product launch, it does not engage with the Agile Product Operating Model principles or themes, such as transitioning to a product ethos, agile processes, or continuous improvement. The focus is on a technical issue rather than the broader framework of agile product management.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -169,11 +175,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:02:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:33:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal experience with a server outage and does not address Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses personal frustrations related to server outages during a software launch, with no explicit mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and provides minimal depth on any related topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -239,7 +248,7 @@
     "reasoning": "Content primarily discusses a personal experience with a server outage and does not focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:02:12",
     "ai_confidence": 0,
@@ -892,11 +901,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:43:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:33:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a personal experience with server issues related to TFS, lacking any discussion on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses frustrations related to server outages while attempting to launch a specific software version. While it mentions a software release, it does not delve into Continuous Delivery principles, practices, or the role of automation, which are central to the category. The focus is more on personal experiences and challenges rather than on Continuous Delivery as a disciplined practice.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1434,6 +1446,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a personal experience with a server outage related to TFS, lacking any explicit mention of the Shift-Left Strategy or its principles. There is no alignment with the core themes of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. Overall, it is focused on a specific incident rather than the broader Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:33:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a personal experience with server outages during a software launch, lacking any explicit discussion on Continuous Improvement principles. While there is a mention of frustration and a call for service improvement, it does not delve into systematic processes, empirical evidence, or strategies for fostering a culture of learning and experimentation. The overall discussion does not align with the core themes of Continuous Improvement, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:33:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the author's frustrations with server outages while trying to launch a specific product. It does not discuss Common Goals, Agile, or DevOps principles, nor does it provide any insights into aligning strategy with execution. The mention of TFS (Team Foundation Server) is more about a technical issue rather than a discussion on shared objectives or team alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:33:37",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses frustrations related to server outages during a software launch, which does not directly address the principles of competence in Agile or DevOps. While there is a brief mention of the service provided by CodePlex, it lacks a focus on continuous learning, skill development, or the importance of competence in delivering quality outcomes. The discussion is more about operational challenges rather than fostering a culture of competence or professional development.",
     "level": "Ignored"
   }
 }

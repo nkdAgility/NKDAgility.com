@@ -736,14 +736,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T17:32:42",
+    "calculated_at": "2025-03-21T17:11:02",
     "ai_confidence": 95.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 95.0,
-    "ai_depth": 90.0,
+    "ai_mentions": 20,
+    "ai_alignment": 38,
+    "ai_depth": 40,
     "non_ai_confidence": 30,
     "final_score": 88.0,
-    "reasoning": "The content extensively discusses Evidence-Based Management (EBM), detailing its principles, practices, and applications. It provides a comprehensive overview of how EBM can enhance organisational performance through empirical evidence, including specific methodologies for setting and measuring goals. The depth of discussion is significant, covering various aspects such as strategic goals, intermediate goals, and key value areas, all of which align closely with the core themes of EBM. The content is well-structured and offers practical insights, making it a primary focus on the topic.",
+    "reasoning": "The content extensively discusses Evidence-Based Management (EBM), detailing its principles, key elements, and practical applications. It provides a thorough exploration of concepts such as Current Value, Time to Market, Ability to Innovate, and Unrealised Value, aligning closely with the core themes of the category. The depth of discussion is significant, offering detailed explanations and examples that illustrate how EBM can be implemented in organisations. Overall, the content is highly relevant and focused on EBM, justifying a high confidence score.",
     "level": "Primary"
   },
   "Experimentation": {
@@ -862,11 +862,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-13T15:43:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:10:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Evidence-Based Management (EBM) and its principles, which are not directly related to Continuous Delivery practices or methodologies.",
+    "final_score": 39.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in improving value delivery, which aligns with some principles of Continuous Delivery, such as the importance of rapid feedback and incremental improvements. However, it does not explicitly focus on Continuous Delivery practices, automation in deployment, or specific tools and frameworks that support Continuous Delivery. The discussion is more about general improvement and value delivery rather than the specific practices and principles of Continuous Delivery.",
     "level": "Ignored"
   },
   "Remote Working": {
@@ -1490,15 +1493,6 @@
     "reasoning": "The content discusses principles of Evidence-Based Management which align with adaptive and human-centric approaches, but it primarily focuses on empirical methods rather than the core tenets of BetaCodex.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:09:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Evidence-Based Management (EBM) and its principles, which are not directly related to the One Engineering System framework or its integration and standardisation of engineering processes.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:12:05",
@@ -1575,6 +1569,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Evidence-Based Management (EBM) and its empirical approach to improving value delivery, which includes elements of experimentation and feedback loops. However, it does not explicitly mention the Shift-Left Strategy or its core principles, such as integrating testing, security, and compliance earlier in the development process. While there are some conceptual overlaps regarding the importance of early measurement and adaptation, the primary focus remains on EBM rather than a dedicated discussion of Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:10:48",
+    "ai_confidence": 92.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 10,
+    "final_score": 84.0,
+    "reasoning": "The content extensively discusses Evidence-Based Management (EBM) as a framework for continuous improvement, emphasising empirical approaches, goal setting, and the importance of experimentation and adaptation. It aligns closely with the principles of Continuous Improvement, detailing strategies for measuring progress and refining goals based on evidence. The depth of discussion is significant, covering various aspects of EBM and its application in improving organisational capabilities and customer outcomes.",
+    "level": "Primary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:10:51",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the concept of Evidence-Based Management (EBM) and its role in achieving strategic goals through empirical approaches. It clearly defines strategic, intermediate, and tactical goals, illustrating how these align with the overarching objectives of an organisation. The emphasis on measuring current and unrealized value, as well as the importance of transparency in goal-setting, aligns well with the principles of Common Goals in Agile and DevOps. The depth of discussion on how to operationalise these goals through experimentation and adaptation further supports a high confidence score.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:10:53",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses Evidence-Based Management (EBM) and its role in improving organisational capabilities and customer outcomes, which aligns closely with the principles of competence. It highlights the importance of continuous improvement, goal setting, and measuring outcomes, all of which are fundamental to developing competence within teams. The depth of discussion on how to adapt and inspect goals based on evidence further supports the focus on competence, making it a primary theme rather than a secondary mention.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:10:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and its principles, which do not directly relate to the One Engineering System (1ES). While there are some overlapping themes regarding goal setting and performance measurement, the focus is on EBM rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

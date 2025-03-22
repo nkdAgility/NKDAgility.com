@@ -34,14 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T06:17:28",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-22T08:32:25",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the shift from 'commitment' to 'forecasting' in Scrum, which touches on the principles of transparency and empirical evidence in Agile practices. However, it lacks a direct focus on Evidence-Based Management as a primary theme, and does not provide substantial detail on metrics, KPIs, or case studies that would strengthen its alignment with EBM principles.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the shift from commitment to forecasting in Scrum, which touches on transparency and trust but lacks a direct focus on Evidence-Based Management principles. While it mentions the importance of empirical decision-making in the context of Scrum, it does not provide substantial evidence or metrics related to current value, time to market, or other key topics of EBM. The discussion is more centred on Scrum practices rather than a comprehensive exploration of evidence-based management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -136,11 +136,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T21:44:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:32:11",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and the concept of commitment versus forecasting, which are primarily Agile topics rather than DevOps principles.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses Scrum and the shift from commitment to forecasting within Agile methodologies, which are not directly aligned with the core principles of DevOps. While there are some mentions of transparency and trust, these concepts are more relevant to Agile practices than to the broader DevOps philosophy. The focus on Scrum roles and events indicates a secondary relevance to DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -341,7 +344,7 @@
     "reasoning": "The content discusses the implications of commitment versus forecasting in Scrum, touching on the interconnectedness of roles and responsibilities within a team. However, it primarily focuses on Agile methodologies and does not delve deeply into Systems Thinking principles or techniques. The discussion lacks comprehensive exploration of feedback loops, holistic analysis, or mapping complex systems, which are central to Systems Thinking.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:45:28",
     "ai_confidence": 0,
@@ -352,12 +355,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T08:32:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the concept of commitment versus forecasting within Scrum, which relates to Agile principles and product development, but it primarily focuses on Scrum practices rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content primarily discusses the shift from commitment to forecasting within Scrum, which is a specific agile practice rather than a broader discussion on the Agile Product Operating Model. While it touches on themes of transparency and trust, it lacks a comprehensive exploration of the APOM principles, such as product-oriented mindset or integration with product management practices. The focus remains on Scrum roles and events, which does not fully align with the core topics of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -427,11 +433,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:09:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:32:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the concept of commitment within the context of Scrum, rather than focusing on Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the shift from commitment to forecasting within Scrum, which is more focused on Agile practices rather than Continuous Delivery specifically. While it touches on aspects of transparency and trust that could relate to Continuous Delivery, it does not delve into the principles, practices, or benefits of Continuous Delivery itself. The discussion lacks depth in terms of Continuous Delivery techniques, automation, or case studies, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1534,5 +1543,41 @@
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the concept of commitment versus forecasting in Scrum, which is not directly related to the Shift-Left Strategy. While it touches on aspects of Agile and transparency, it does not address integrating testing, security, or compliance earlier in the software development lifecycle, nor does it provide techniques or tools relevant to the Shift-Left approach.",
     "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:32:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the shift from commitment to forecasting in Scrum, which touches on aspects of Continuous Improvement, such as fostering transparency and trust. However, it primarily focuses on the implications of this shift rather than providing a comprehensive exploration of Continuous Improvement principles or practices. The discussion lacks depth in terms of techniques, strategies, or empirical evidence related to Continuous Improvement, making it a secondary rather than primary focus.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:32:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the shift from commitment to forecasting in Scrum, which touches on the importance of transparency and trust within teams. However, it primarily focuses on the implications of commitment rather than explicitly addressing Common Goals or their significance in Agile and DevOps. While there are mentions of team dynamics and the impact of commitments, the discussion lacks depth on how these relate to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:32:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the shift from commitment to forecasting in Scrum, which indirectly touches on competence by highlighting the importance of transparency and trust within teams. However, it primarily focuses on the implications of commitment rather than directly addressing continuous learning, skill development, or the core themes of competence. The depth of discussion on competence is limited, as it does not provide substantial strategies or methods for fostering a culture of competence.",
+    "level": "Tertiary"
   }
 }

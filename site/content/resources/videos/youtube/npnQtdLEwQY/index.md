@@ -32,6 +32,7 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Engineering Practices
+- Continuous Improvement
 - Technical Excellence
 sitemap:
   filename: sitemap.xml

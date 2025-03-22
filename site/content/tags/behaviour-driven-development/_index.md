@@ -23,6 +23,9 @@ headline:
   subtitle: Enhance collaboration and clarity in requirements to align development efforts with business objectives through Behaviour Driven Development.
   content: Facilitate alignment between technical teams and business stakeholders by fostering collaboration through shared understanding of requirements. Emphasise clear, testable specifications that drive development, ensuring that outcomes meet user needs. Explore topics such as user stories, acceptance criteria, and collaborative workshops to enhance communication and project success.
   updated: 2025-02-13T12:05:43Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

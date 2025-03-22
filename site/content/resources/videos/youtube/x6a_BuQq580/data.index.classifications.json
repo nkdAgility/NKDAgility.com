@@ -619,11 +619,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T20:17:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:58:34",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses migration processes and challenges related to cloud environments, without a focus on Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on cloud migration strategies and concerns, particularly regarding data integrity during the transition to Azure DevOps. While it touches on planning and structured processes, which are relevant to Continuous Delivery, it does not explicitly discuss Continuous Delivery principles, automation, or rapid feedback mechanisms. The discussion is more about migration challenges than the Continuous Delivery practices themselves.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -775,11 +778,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T20:18:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:58:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects of cloud migration and does not focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on cloud migration processes and practical tips for ensuring data integrity during the transition to Azure DevOps. While it touches on planning and structured processes, it does not explicitly discuss Evidence-Based Management principles or metrics related to value delivery, innovation, or empirical decision-making. The discussion lacks depth in relation to the core themes of EBM, making it only tangentially related.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1385,15 +1391,6 @@
     "reasoning": "Content primarily discusses cloud migration processes and challenges, with no focus on BetaCodex principles or organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:03:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses cloud migration and data transfer issues, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:41:16",
@@ -1467,6 +1464,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on cloud migration processes and does not explicitly discuss the Shift-Left Strategy. While it touches on planning and preparation, which are relevant to early integration of processes, it lacks a direct connection to testing, security, or compliance in the software development lifecycle. The discussion is more about migration logistics rather than proactive quality assurance or early-stage integration of critical processes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:58:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on cloud migration strategies and addressing concerns about data loss, which does not directly discuss Continuous Improvement principles. While it touches on planning and structured processes, it lacks a strong emphasis on empirical evidence, experimentation, or a culture of learning that characterises Continuous Improvement. The discussion is more operational than strategic, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:58:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on cloud migration strategies and technical considerations rather than discussing Common Goals within Agile or DevOps frameworks. While it touches on planning and communication, it does not explicitly connect these to shared objectives or strategic alignment, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:58:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses cloud migration processes and the importance of planning and communication, which are related to competence in ensuring successful outcomes. However, it does not explicitly focus on continuous learning or skill development, which are key aspects of the competence category. The discussion is more practical and operational rather than deeply exploring the principles of competence in a professional context.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:58:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on cloud migration strategies and concerns, particularly regarding Azure DevOps, without discussing the One Engineering System framework or its principles. While it touches on planning and tools, it does not align with the core themes of 1ES, such as integration of processes across teams or best practices for implementing a unified engineering system.",
     "level": "Ignored"
   }
 }

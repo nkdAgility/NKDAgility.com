@@ -649,11 +649,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T21:30:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:10:16",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses customer working agreements and Scrum roles, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on establishing a Working Agreement with customers, which is more aligned with Agile practices rather than Continuous Delivery. While it mentions aspects of agility and roles, it does not discuss Continuous Delivery principles, automation, or delivery practices. The content lacks depth in relation to Continuous Delivery, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -826,11 +829,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T21:30:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:10:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the facilitation of a Customer Working Agreement and does not focus on Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on establishing a Working Agreement with customers, detailing roles and responsibilities rather than discussing Evidence-Based Management principles. While it touches on aspects of clarity and understanding in project success, it lacks direct references to empirical decision-making, current value metrics, or any of the key topics outlined in the EBM category. The discussion is more about workshop facilitation and customer engagement than about data-informed management practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1475,15 +1481,6 @@
     "reasoning": "Content primarily focuses on a working agreement and facilitation steps for a workshop, with no clear discussion on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T17:25:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a Customer Working Agreement and facilitation steps, which are not central to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:11:51",
@@ -1545,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a Customer Working Agreement and facilitation steps for a workshop, with no direct mention of the Shift-Left Strategy. While it discusses aspects of collaboration and customer involvement, it does not address integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:09:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses establishing a Working Agreement and the importance of customer roles and goals, which touches on aspects of collaboration and clarity in processes. However, it lacks a direct focus on Continuous Improvement principles, such as empirical evidence, data-driven decision-making, or a culture of experimentation. The discussion is more about setting expectations and roles rather than reflecting on or adapting processes for improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:10:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the establishment of a Working Agreement that includes the customer's commitment to providing strategic and tactical goals, which aligns well with the principles of Common Goals in Agile. It explicitly mentions the need for a Product Vision, Product Goal, and Sprint Goal, demonstrating a clear connection to the category's focus on aligning strategy with execution. However, while the content is relevant, it primarily centres around the workshop facilitation rather than a deep exploration of Common Goals, which slightly limits its depth.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:10:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the establishment of a Working Agreement and the roles and responsibilities of the customer in an Agile context. While it touches on aspects of competence, such as the need for clear communication and understanding of roles, it primarily focuses on the logistics of a workshop rather than delving deeply into continuous learning, skill development, or the broader implications of competence in Agile methodologies. The discussion lacks depth in exploring how competence impacts quality outcomes or team trust, which are key themes in the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:10:13",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on establishing a Customer Working Agreement and does not explicitly mention the One Engineering System (1ES) or its principles. While it discusses roles and responsibilities in a project context, it lacks a direct connection to the integration and standardisation of engineering processes that 1ES emphasises. The depth of discussion is moderate, but it does not delve into the core themes of 1ES, such as best practices for implementation or the impact on software quality.",
     "level": "Ignored"
   }
 }

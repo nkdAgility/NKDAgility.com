@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:29:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:02:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses MVVM (Model-View-ViewModel) design pattern and its implementation in WPF and VB.NET, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the MVVM design pattern in software development, with no mention or discussion of Evidence-Based Management principles or practices. It does not align with the core themes of EBM, such as data-informed decision-making or metrics related to value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T01:29:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:02:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses MVVM architecture and patterns, with no relevance to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the MVVM (Model-View-ViewModel) design pattern in WPF and Silverlight, which is unrelated to DevOps principles. There are no direct mentions of DevOps, and the discussion does not align with the core themes of collaboration, automation, or continuous value delivery that define DevOps. The depth of discussion is also minimal regarding any relevant DevOps concepts.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses MVVM and related programming patterns without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:29:51",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:29:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:02:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses MVVM and related programming patterns without reference to Agile principles or product value delivery.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the MVVM (Model-View-ViewModel) design pattern in WPF and Silverlight, with no mention or discussion of the Agile Product Operating Model or its principles. It does not align with the core themes of APOM, such as product management or agile methodologies, and lacks any depth related to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -400,11 +409,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T01:39:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:02:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the MVVM pattern and its implementation, which is not related to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the MVVM (Model-View-ViewModel) design pattern in WPF and Silverlight, discussing best practices for code structure and separation of concerns. It does not mention Continuous Delivery or its principles, practices, or benefits, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1431,6 +1443,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the MVVM (Model-View-ViewModel) design pattern in WPF and Silverlight, focusing on separation of concerns and implementation details. There are no direct mentions of the Shift-Left Strategy, and the discussion does not align with the core themes of integrating testing, security, or compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:02:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the MVVM design pattern and best practices in WPF and Silverlight development. It does not discuss Continuous Improvement principles, nor does it provide insights into processes, team effectiveness, or empirical evidence related to Continuous Improvement. The mention of best practices is too vague and does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:02:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the MVVM design pattern and its implementation in WPF and Silverlight, with no direct discussion of Common Goals, Agile, or DevOps principles. While it touches on separation of concerns, it does not connect to shared objectives or strategic alignment within teams, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:02:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the MVVM design pattern and its implementation in WPF and Silverlight, which does not directly address the principles of competence as defined in Agile, Scrum, DevOps, and Lean methodologies. While there are mentions of best practices and code quality, these are not explicitly tied to continuous learning or skill development, which are core themes of competence. The discussion lacks depth in exploring how these practices contribute to professional growth or team trust.",
     "level": "Ignored"
   }
 }

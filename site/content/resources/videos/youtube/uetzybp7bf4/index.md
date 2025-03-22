@@ -30,12 +30,12 @@ tags:
 - Transparency and Accountability
 - Value Delivery
 - Accountability
+- Continuous Improvement
 - Business Agility
 - Decision Theory
 - Discovery and Learning
 - Decision Making
 - Organisational Culture
-- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

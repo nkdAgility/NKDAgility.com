@@ -36,9 +36,9 @@ tags:
 - Team Performance
 - Product Delivery
 - Pragmatic Thinking
+- Common Goals
 - People and Process
 - Scrum Master
-- Software Development
 resourceTypes:
 - video
 categories:

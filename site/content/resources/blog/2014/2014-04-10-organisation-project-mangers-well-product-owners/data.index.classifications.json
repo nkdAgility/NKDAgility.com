@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T10:59:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:22:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure rather than evidence-based management principles.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the roles of Project Managers and Product Owners, focusing on organisational structure and team dynamics rather than evidence-based management principles. While it touches on agility and team alignment, it lacks explicit references to empirical evidence or metrics that are central to Evidence-Based Management. The discussion is more about the dysfunctions arising from role overlaps and does not provide a data-informed approach to decision-making or value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T11:00:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:22:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the roles and dysfunctions of Project Managers and Product Owners, focusing on agile methodologies rather than DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the roles of Project Managers and Product Owners, focusing on organisational structure and agility rather than the core principles of DevOps. While it touches on themes of team alignment and accountability, it does not explicitly address DevOps practices, automation, or cultural shifts necessary for effective DevOps implementation. The discussion is more aligned with project management and agile methodologies than with the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -338,7 +344,7 @@
     "reasoning": "The content discusses the dysfunction of teams with both Project Managers and Product Owners, highlighting the complexities and interdependencies within organisational structures. However, it primarily focuses on the challenges of dual reporting and does not explicitly mention Systems Thinking principles or techniques. While it touches on the need for organisational reorganisation to improve agility, it lacks a comprehensive exploration of Systems Thinking concepts such as feedback loops, holistic analysis, or specific tools and frameworks. Therefore, the confidence score reflects a moderate alignment with the category, but it does not fully meet the criteria for a primary focus on Systems Thinking.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T11:00:46",
     "ai_confidence": 0,
@@ -349,14 +355,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-11T14:56:15",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
+    "calculated_at": "2025-03-22T07:22:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the dysfunction caused by having both Project Managers and Product Owners in an organisation, highlighting the challenges of accountability and value delivery in a product-centric context. It aligns well with the Agile Product Operating Model by addressing the need for a single point of authority (the Product Owner) and the importance of reorganising teams around products rather than projects. The depth of discussion is substantial, as it explores the implications of dual roles and the necessity for structural changes to achieve agility. However, it does not delve deeply into specific Agile methodologies or metrics for measuring product success, which slightly lowers the overall confidence score.",
+    "final_score": 63.0,
+    "reasoning": "The content discusses the challenges of having both Project Managers and Product Owners, which touches on the Agile Product Operating Model by highlighting the dysfunction that arises from traditional project management structures. It mentions the need for a product-oriented approach and the importance of having a single Product Owner to avoid confusion and promote agility. However, the focus is more on the dysfunction of roles rather than a comprehensive exploration of the Agile Product Operating Model principles, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Organisational Agility": {
@@ -427,11 +433,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T11:12:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:22:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the roles and dysfunctions of Project Managers and Product Owners, focusing on organizational structure and agility rather than principles of Continuous Delivery.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the roles of Project Managers and Product Owners within an organisation, focusing on the challenges and dysfunctions that arise from having both roles. While it touches on themes of agility, it does not explicitly address Continuous Delivery principles, practices, or benefits. The discussion lacks depth regarding Continuous Delivery, and the content does not provide relevant insights into automation, incremental improvements, or rapid feedback, which are key aspects of the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1533,6 +1542,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and agility rather than the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left concept. The discussion is more about roles and responsibilities in Agile rather than proactive measures to enhance software quality or delivery speed.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:22:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges of having both Project Managers and Product Owners, highlighting dysfunctions in team dynamics and the need for organisational restructuring to achieve agility. While it touches on themes of improving team effectiveness and organisational processes, it lacks a direct focus on Continuous Improvement principles. The discussion is more about identifying problems rather than providing strategies or empirical evidence for continuous enhancement, which diminishes its alignment with the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:22:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the challenges of having both Project Managers and Product Owners, highlighting the dysfunction that arises from unclear reporting structures and multiple authorities. While it touches on the importance of team alignment and the need for a single point of accountability, it does not explicitly define or deeply explore the concept of Common Goals within Agile or DevOps frameworks. The focus is more on organisational structure and the resulting dysfunction rather than on shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:22:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the dysfunctions arising from having both Project Managers and Product Owners, which indirectly touches on the importance of clear roles and responsibilities for competence within teams. However, it primarily focuses on organisational structure and team dynamics rather than on continuous learning, skill development, or the core principles of competence. The discussion lacks depth in exploring strategies for fostering competence or the impact of competence on decision-making, which limits its alignment with the category.",
     "level": "Ignored"
   }
 }

@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T10:50:59",
+    "calculated_at": "2025-03-22T09:30:54",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is a personal holiday message and does not discuss any DevOps principles, practices, or related topics.",
+    "reasoning": "The content is entirely focused on a personal holiday greeting and does not discuss any aspects of DevOps, such as collaboration, automation, or continuous improvement.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T10:51:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:31:03",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is a personal holiday message and does not discuss Agile principles or the Agile Product Operating Model.",
+    "reasoning": "The content is entirely focused on a personal holiday greeting and does not mention or align with any aspects of the Agile Product Operating Model. There are no discussions related to agile methodologies, product management principles, or any relevant topics outlined in the category description.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -166,11 +172,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T10:51:10",
+    "calculated_at": "2025-03-22T09:31:07",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is a personal holiday message and does not discuss Evidence-Based Management or related topics.",
+    "reasoning": "The content is a festive greeting and does not discuss any aspects of Evidence-Based Management or related concepts. It lacks any mention of data-informed decision-making, metrics, or strategic approaches relevant to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -236,7 +245,7 @@
     "reasoning": "Content is a personal holiday message and does not discuss metrics, learning, or related topics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T10:51:19",
     "ai_confidence": 0,
@@ -877,11 +886,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:25:43",
+    "calculated_at": "2025-03-22T09:31:05",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is a personal holiday message without any relevance to Continuous Delivery principles or practices.",
+    "reasoning": "The content is entirely focused on a festive greeting and does not discuss any aspects of Continuous Delivery, such as software delivery practices, automation, or related principles.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1416,6 +1428,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is a personal holiday message with no relevance to software development or the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:30:57",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content is a festive greeting and does not discuss any principles or practices related to Continuous Improvement. It lacks any mention of business processes, empirical evidence, or strategies for improvement, making it entirely unrelated to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:30:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content is a festive greeting that focuses on personal celebration and sharing joy, with no mention or alignment to Agile, DevOps, or the concept of Common Goals. It lacks any relevant discussion on shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:31:01",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content is a festive greeting and does not discuss any aspects of competence, continuous learning, or professional development. It is entirely focused on holiday celebrations and personal messages, with no relevance to the principles outlined in the competence category.",
     "level": "Ignored"
   }
 }

@@ -88,12 +88,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T00:47:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions 'New Ways of Measuring Success' and discusses the importance of direct evidence over subjective evidence, which aligns with evidence-based principles. However, the primary focus is on Scrum training, making EBM a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T15:04:49",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on Scrum and its benefits for stakeholders, without a clear emphasis on Evidence-Based Management principles. While it mentions discussions and insights, it lacks direct references to empirical evidence or data-informed decision-making, which are central to EBM.",
+    "level": "Ignored"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -318,15 +321,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content heavily discusses Scrum and its roles and events without focusing on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T00:47:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum principles and does not focus on the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -619,11 +613,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T00:47:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum principles and practices, which are unrelated to Continuous Delivery.",
+    "calculated_at": "2025-03-21T15:04:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum, which is a framework for Agile project management, rather than Continuous Delivery. While it mentions benefits and transformations in work, it does not discuss Continuous Delivery principles, practices, or related topics such as automation, incremental improvements, or rapid feedback. Therefore, the alignment with the Continuous Delivery category is minimal.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum and its benefits for stakeholders, with no explicit mention of the Shift-Left Strategy or its principles. The discussion is centred around Scrum roles and activities, lacking any depth or alignment with the core themes of integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T15:04:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on introducing Scrum to stakeholders, which is more about understanding the framework rather than discussing Continuous Improvement principles. While there are elements of team collaboration and transformation, the explicit mention of Continuous Improvement is minimal, and the core themes of empirical evidence, data-driven decision-making, and fostering a culture of experimentation are not adequately addressed.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T15:04:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Scrum and its benefits, which are relevant to Agile practices, but it does not explicitly discuss Common Goals or their significance in aligning strategy with execution. The focus is more on the training aspect and stakeholder engagement rather than on shared objectives or alignment within teams. Therefore, while there is some conceptual alignment, the depth of discussion on Common Goals is minimal.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T15:04:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Scrum and its benefits, but it primarily focuses on introducing Scrum to stakeholders rather than discussing competence in terms of continuous learning or skill development. While there is some alignment with the idea of working differently, the depth of discussion on competence is minimal, and the primary focus is on the Scrum framework itself rather than the development of professional capabilities.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T15:04:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum, a specific agile methodology, rather than discussing the One Engineering System (1ES). While it mentions collaboration and team activities, it does not address the principles, components, or implementation of 1ES. The discussion is centred on Scrum's benefits and stakeholder engagement, which are not aligned with the core themes of 1ES.",
     "level": "Ignored"
   }
 }

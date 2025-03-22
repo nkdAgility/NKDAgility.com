@@ -25,6 +25,9 @@ headline:
   subtitle: Guiding teams to achieve peak performance through effective coaching and continuous improvement practices.
   content: Facilitating team dynamics and fostering a culture of continuous improvement, this classification encompasses practices for enhancing collaboration, resolving conflicts, and optimising workflows. Posts should explore team coaching, performance metrics, stakeholder engagement, and adaptive planning, drawing insights from complexity theory and evidence-based management principles.
   updated: 2025-02-13T12:02:45Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

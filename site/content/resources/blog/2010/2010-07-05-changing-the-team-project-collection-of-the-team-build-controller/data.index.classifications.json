@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:28:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:53:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of Team Foundation Server (TFS) and build configurations, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for managing Team Project Collections in TFS 2010, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any depth on these topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:35:17",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 75.0,
+    "calculated_at": "2025-03-22T08:52:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the configuration of Team Build Controllers and Project Collections within Team Foundation Server (TFS), which is relevant to DevOps practices, particularly in the context of Continuous Integration (CI) and Continuous Delivery (CD). It provides specific details about managing build configurations and the relationship between build controllers and project collections, indicating a good depth of discussion. However, it lacks broader discussions on cultural shifts, automation, or metrics that are also key to DevOps, which slightly lowers the alignment score.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of configuring the Team Build Controller in TFS 2010, which is more aligned with specific tools and processes rather than the broader DevOps philosophy. While it touches on aspects of build management that could relate to DevOps practices, it lacks a discussion on collaboration, automation, or cultural shifts that are central to the DevOps ethos. The content does not explicitly mention DevOps principles, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -326,7 +329,7 @@
     "reasoning": "Content primarily discusses the configuration and management of Team Project Collections and Team Build Controllers in TFS 2010, without addressing Systems Thinking principles or their applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:29:04",
     "ai_confidence": 0,
@@ -337,11 +340,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:29:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:53:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the configuration and management of Team Foundation Server (TFS) and its build controllers, which is not related to the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of configuring Team Foundation Server (TFS) 2010 and managing Team Project Collections, which is more aligned with traditional project management practices rather than the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or the core themes of APOM. The discussion lacks depth in relation to agile methodologies and does not address the transition to a product-oriented mindset.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -415,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:54:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:53:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses configuring Team Project Collections and Team Build Controllers in TFS 2010, which is related to build processes but does not focus on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the configuration of the Team Build Controller in TFS 2010, which is related to build processes but does not explicitly address Continuous Delivery principles or practices. While it mentions aspects of build management, it lacks a focus on automation, rapid feedback, or cultural aspects of Continuous Delivery. The discussion is primarily technical and procedural, making it a secondary mention rather than a primary focus on Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1482,6 +1491,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the configuration of Team Foundation Server (TFS) and its build controller, without any explicit mention of the Shift-Left Strategy or its principles. While it touches on build processes, it does not address integrating testing, security, or compliance earlier in the development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:52:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for configuring the Team Build Controller in TFS 2010, with no explicit discussion of Continuous Improvement principles. While it touches on project management and build efficiency, it lacks a commitment to ongoing reflection, adaptation, or empirical evidence, which are core to Continuous Improvement. The content does not foster a culture of experimentation or learning, nor does it provide strategies for integrating Continuous Improvement into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:52:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for configuring the Team Build Controller in TFS 2010, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on project management aspects, it lacks a connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:53:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for configuring Team Foundation Server (TFS) and does not explicitly discuss competence or its importance in Agile or DevOps contexts. While it touches on aspects of project management and build processes, it lacks a direct connection to continuous learning, skill development, or fostering a culture of competence. The discussion is more about operational procedures than about the principles of professionalism and quality delivery.",
     "level": "Ignored"
   }
 }

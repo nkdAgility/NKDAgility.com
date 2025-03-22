@@ -35,12 +35,12 @@ tags:
 - People and Process
 - Agile Transformation
 - Agile Strategy
-- Evidence Based Management
 - Decision Making
 - Organisational Change
+- Competence
 - Pragmatic Thinking
+- Evidence Based Management
 - Agile Project Management
-- Continuous Learning
 resourceTypes:
 - video
 categories:

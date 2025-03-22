@@ -1,14 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T04:42:58",
+    "calculated_at": "2025-03-22T07:30:33",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 50.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily focuses on configuring release management within Team Foundation Server (TFS), which is a tool relevant to DevOps practices. However, it lacks explicit discussions on broader DevOps principles, such as Continuous Integration or Continuous Delivery, and does not address cultural shifts or collaboration aspects. The depth of discussion is limited to technical setup without exploring the implications or benefits of these practices in a DevOps context.",
+    "reasoning": "The content primarily focuses on configuring TFS for release management, which is a specific tool rather than a discussion on the broader DevOps philosophy. While it touches on aspects of release management that could relate to DevOps, such as troubleshooting and configuration, it lacks a comprehensive exploration of DevOps principles like collaboration, automation, and shared accountability. The discussion is more about practical steps and tips rather than the cultural and philosophical shifts necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -247,11 +247,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:35:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:30:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on configuring release management in Team Foundation Server, without discussing Continuous Delivery principles or practices.",
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on configuring TFS for release management, which is a component of Continuous Delivery. However, it lacks explicit discussions on Continuous Delivery principles, automation, or rapid feedback mechanisms. While it touches on aspects of release management, it does not delve deeply into the broader themes of Continuous Delivery, such as incremental improvements or cultural aspects. Therefore, while there is some relevance, it does not fully align with the category's core focus.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -383,7 +386,7 @@
     "reasoning": "Content primarily focuses on configuring release management in Team Foundation Server, which is not aligned with the principles or practices of Value Stream Management.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-18T11:35:48",
     "ai_confidence": 0,
@@ -1171,11 +1174,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:35:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:30:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses technical aspects of TFS release management without reference to product value delivery or Agile principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on TFS release management and does not discuss the Agile Product Operating Model or its principles. While it touches on aspects of configuration and troubleshooting, it lacks any direct mention or alignment with the core themes of APOM, such as product-oriented mindsets or continuous delivery.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1381,11 +1387,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:35:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:30:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on technical instructions for configuring release management in Team Foundation Server, with no discussion of Evidence-Based Management principles or empirical data use.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of configuring TFS release management, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on troubleshooting and setup processes, it lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1461,6 +1470,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on configuring release management in TFS, with no explicit discussion of integrating testing, security, or compliance earlier in the development process. While it touches on troubleshooting and connection verification, these aspects do not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:30:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of configuring TFS release management, with minimal direct mention of Continuous Improvement principles. While it does touch on streamlining processes and troubleshooting, it lacks a strong emphasis on empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The discussion is more about practical steps rather than a commitment to ongoing improvement or strategic agility.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:30:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of configuring TFS release management, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on the importance of a structured approach, it lacks depth in connecting these practices to shared objectives or strategic alignment, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:30:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of configuring TFS release management, with limited direct discussion on competence as a foundational principle. While it touches on troubleshooting and structured approaches, it lacks a deeper exploration of continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

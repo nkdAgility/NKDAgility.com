@@ -1,0 +1,79 @@
+{{ $taxonomyTitle := (replace  .Data.Plural "-" " " ) | title }}
+<section class="container-fluid resources-headline py-md-4">
+  <section class="container">
+    <div class="d-flex flex-column flex-md-row justify-content-between">
+      <!-- Left Section -->
+      <div class="left d-flex flex-grow-1">
+        {{ $jsonFile := .Page.Resources.GetMatch "data.index.classifications.json" }}
+        {{ $jsonData := $jsonFile | unmarshal }}
+        <div class="d-flex ">
+          <div class="resourcetypes p-1">
+            <a href="{{ .RelPermalink }}" class="btn btn-sm btn-nkdagility-primary text-nowrap" title="{{ $taxonomyTitle }}: {{ .Title }}"> {{ $taxonomyTitle }} </a>
+          </div>
+          <div class="categories p-1">
+            {{ with .Params.concepts }}
+              {{ range . }}
+                {{ $term := . }}
+                {{ $categoryData := index $jsonData $term }}
+                {{ if $categoryData }}
+                  <a href="{{ printf "/resources/%s" ($term | urlize) | relURL }}" class="btn btn-sm btn-nkdagility-secondary me-2" title="{{ $categoryData.reasoning }}&#10;&#10;Confidence: {{ $categoryData.final_score }}%&#10;Level: {{ $categoryData.level }}">
+                    {{ $term }}
+                  </a>
+                {{ else }}
+                  <a href="{{ printf "/resources/%s" ($term | urlize) | relURL }}" class="btn btn-sm btn-nkdagility-secondary me-2">
+                    {{ $term }}
+                  </a>
+                {{ end }}
+              {{ end }}
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      <!-- Right Section -->
+      <div class="right w-100 w-xl-auto text-md-end mt-2 mt-md-0">
+        <h4 title="Professional Programs">
+          {{- if strings.HasPrefix .Type "course" -}}
+            Pro·fes·sion·al Pro·grams
+          {{- else -}}
+            tech·nic·al·ly agile class·i·fic·at·ion
+          {{- end -}}
+        </h4>
+      </div>
+    </div>
+    <!-- End of Flex Container -->
+    <div>
+      <div class="row">
+        <div class="col-12 col-xl-10 d-flex flex-column">
+          <div class="flex-grow-1">
+            <h1 class="mb-4 nkda-heading-primary">{{- .Title | markdownify }}</h1>
+            {{- if .Params.subtitle }}
+              <h2 class="mb-4 nkda-heading-secondary">{{- .Params.subtitle | markdownify }}</h2>
+            {{ else }}
+              <h2 class="mb-4 nkda-heading-secondary">{{- .Description | markdownify }}</h2>
+            {{- end }}
+          </div>
+        </div>
+        <div class="col-xl-2 d-none d-xl-flex justify-content-center align-items-center">
+          <div class="position-relative">
+            <img src="/images/technically-agile-classifications-logo.png" />
+            <img src="/images/nkdagility-with-martin-hinshelwood-dark-300px.png" alt="Image" class="position-absolute top-0 end-0" style="width: 100px; height: auto;" />
+          </div>
+        </div>
+        <div class="col-xl-12 d-none d-xl-flex justify-content-end align-items-center">
+          {{ $url := "" }}
+          {{ if eq .Type "resources" }}
+            {{ $url = printf "https://nkdagility.com/resources/%s" .Params.ResourceId }}
+          {{ else }}
+            {{ $url = printf "https://nkdagility.com%s" .RelPermalink }}
+          {{ end }}
+          {{ $url }}
+        </div>
+      </div>
+    </div>
+  </section>
+</section>
+<section class="container-fluid resources-headline-sharebar">
+  <section class="container">
+    {{- partial "publications/share-bar.html" . }}
+  </section>
+</section>

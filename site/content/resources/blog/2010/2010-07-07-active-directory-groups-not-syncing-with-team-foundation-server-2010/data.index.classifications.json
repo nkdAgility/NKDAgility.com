@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:27:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:52:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Active Directory and Team Foundation Server, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to syncing Active Directory with Team Foundation Server, focusing on troubleshooting and solutions without any reference to evidence-based management principles or metrics. There are no direct mentions of data-informed decision-making or the key topics outlined in the Evidence-Based Management category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,15 +133,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T13:03:59",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-22T08:52:14",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server (TFS) and Active Directory integration, which is relevant to DevOps practices. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. While it touches on automation and troubleshooting within a CI/CD context, the focus is more on a specific problem rather than a comprehensive exploration of DevOps as a whole.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific issue with Active Directory and Team Foundation Server (TFS), which is more aligned with system administration and technical support rather than the broader DevOps philosophy. While it touches on aspects of collaboration and problem-solving, it lacks a comprehensive discussion of DevOps principles such as automation, shared accountability, or continuous improvement. The mention of TFS and Active Directory does not directly relate to the core themes of DevOps, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -329,7 +332,7 @@
     "reasoning": "Content primarily discusses a technical issue related to Active Directory and Team Foundation Server, focusing on troubleshooting and specific solutions rather than exploring Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:28:06",
     "ai_confidence": 0,
@@ -340,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:28:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:52:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical issues related to Active Directory and Team Foundation Server, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses technical issues related to syncing Active Directory with Team Foundation Server, which does not align with the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or the key topics outlined in the APOM framework. The focus is on troubleshooting and technical solutions rather than on agile methodologies or product-oriented mindsets.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,11 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:54:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:52:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Active Directory and Team Foundation Server management, without addressing Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses issues related to syncing Active Directory groups with Team Foundation Server, focusing on troubleshooting and technical solutions rather than Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion does not align with the core themes of automation, incremental improvements, or rapid feedback that characterise Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1467,6 +1476,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a technical issue related to Active Directory and Team Foundation Server, focusing on troubleshooting and resolving a specific problem. There is no explicit mention of the Shift-Left Strategy, nor does it align with the core themes of integrating testing, security, or compliance early in the software development lifecycle. The discussion is more about operational challenges rather than proactive strategies for enhancing software quality.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:52:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to Active Directory and Team Foundation Server, with no explicit discussion of Continuous Improvement principles. While there are elements of problem-solving and adaptation, they do not align with the broader themes of Continuous Improvement such as fostering a culture of experimentation or integrating improvement strategies into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:52:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical issue related to syncing Active Directory groups with Team Foundation Server, without discussing any shared objectives or alignment strategies that are central to the concept of Common Goals in Agile and DevOps. While it touches on operational challenges, it lacks a connection to overarching strategic objectives or team alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:52:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a technical issue related to Active Directory and Team Foundation Server, with no explicit discussion on competence, continuous learning, or skill development. While it touches on problem-solving and collaboration with a colleague, these aspects do not align with the core themes of competence as defined in Agile and DevOps contexts.",
     "level": "Ignored"
   }
 }

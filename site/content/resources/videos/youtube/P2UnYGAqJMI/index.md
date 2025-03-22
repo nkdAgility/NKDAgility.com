@@ -38,6 +38,7 @@ tags:
 - Software Development
 - Agile Values and Principles
 - Agile Frameworks
+- Continuous Improvement
 - Empirical Process Control
 - Team Performance
 resourceTypes:

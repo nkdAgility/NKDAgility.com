@@ -24,6 +24,9 @@ headline:
   subtitle: Optimising version control and branching techniques for efficient software development and collaboration.
   content: Effective version control and branching strategies are essential for enhancing collaboration and streamlining software development workflows. Posts should explore topics such as repository management, conflict resolution, integration techniques, and the impact of version control on team dynamics and project delivery.
   updated: 2025-02-13T12:03:47Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

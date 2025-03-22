@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T22:22:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:40:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical implementation of a PowerShell adapter for TFS Integration, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on configuring a PowerShell adapter for TFS Integration Platform, with no direct discussion or alignment with Evidence-Based Management principles. It lacks empirical evidence, metrics, or data-informed decision-making discussions, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,15 +133,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T13:00:48",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-22T08:39:46",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses the configuration of a PowerShell adapter for the TFS Integration Platform, which relates to automation and integration in software delivery. It touches on aspects of continuous integration and deployment, but lacks a broader discussion on DevOps principles, cultural shifts, or metrics. While it provides technical details, it does not fully explore the collaborative and process-oriented aspects of DevOps.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on configuring a PowerShell adapter for the TFS Integration Platform, which is more about specific technical implementation rather than discussing DevOps principles or practices. While it touches on aspects of integration and automation, it lacks a broader discussion on collaboration, shared accountability, or cultural shifts that are central to the DevOps philosophy. The mention of TFS and PowerShell does not align with the core themes of DevOps, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -326,7 +329,7 @@
     "reasoning": "Content primarily focuses on configuring a PowerShell adapter for TFS and does not discuss Systems Thinking principles, techniques, or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T22:23:39",
     "ai_confidence": 0,
@@ -337,11 +340,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T22:23:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:39:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical implementation of a PowerShell adapter for TFS Integration Platform, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on configuring a PowerShell adapter for the TFS Integration Platform, which is related to technical implementation rather than discussions on the Agile Product Operating Model. There are no direct mentions of agile principles, product management practices, or the core themes outlined in the APOM definition. The content lacks depth in discussing any relevant agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -415,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:42:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:40:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses configuring a PowerShell adapter for TFS and Perforce integration, with no clear focus on Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on configuring a PowerShell adapter for the TFS Integration Platform, which is more about integration and migration of source code rather than Continuous Delivery practices. While it touches on aspects of automation and configuration, it lacks a direct discussion on Continuous Delivery principles, practices, or benefits. The depth of discussion is limited to technical implementation details without addressing the broader context of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1476,6 +1485,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on configuring a PowerShell adapter for TFS and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. While it touches on integration processes, it lacks a clear connection to early testing, security, or compliance in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:39:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on configuring a PowerShell adapter for TFS Integration Platform, detailing technical implementation rather than discussing Continuous Improvement principles. While there are mentions of adaptability and configuration, these do not align with the core themes of Continuous Improvement, such as fostering a culture of experimentation or data-driven decision-making.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:39:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on configuring a PowerShell adapter for TFS Integration Platform, detailing technical implementation rather than discussing shared objectives or alignment within Agile or DevOps frameworks. While it touches on the need for integration and adaptability, it lacks a clear connection to the principles of Common Goals, such as strategic alignment or team ownership.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:39:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on configuring a PowerShell adapter for TFS Integration Platform, detailing technical steps and code snippets. While it implies a level of competence in using PowerShell and TFS, it does not explicitly discuss continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The discussion lacks depth in exploring how competence affects team dynamics or quality outcomes.",
     "level": "Ignored"
   }
 }

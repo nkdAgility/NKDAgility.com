@@ -244,15 +244,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T17:41:11",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-21T17:09:42",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the Sprint Review process, which includes elements of inspection and adaptation based on empirical data. However, it primarily focuses on the mechanics of the Sprint Review rather than explicitly addressing the principles of Evidence-Based Management. While there are mentions of gathering insights and making data-driven decisions, the overall emphasis is more on Scrum practices than on EBM as a primary focus.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the Sprint Review process within a Scrum framework, discussing roles, activities, and facilitation techniques. While it touches on aspects of empirical decision-making and the importance of insights from the Sprint Review, it does not explicitly address the broader themes of Evidence-Based Management. The discussion is more centred on Scrum practices rather than a strategic approach to management based on empirical evidence, which limits its alignment with the category.",
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -295,11 +295,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T14:19:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:09:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Sprint Review process within the Scrum framework, which is more about Agile practices than Continuous Delivery. While it touches on aspects of feedback and inspection that could relate to Continuous Delivery, it does not explicitly discuss Continuous Delivery principles, automation, or delivery techniques. The discussion is more centred on Scrum roles and events, leading to a low confidence score in alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -1490,15 +1493,6 @@
     "reasoning": "Content primarily discusses the structure and facilitation of a Sprint Review, focusing on Scrum roles and events rather than the principles of Beta Codex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:10:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the Sprint Review process and Scrum practices, which are not central to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:11:29",
@@ -1575,6 +1569,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the Sprint Review process and includes a section titled 'Shift & Share', which suggests a hands-on approach to inspection and feedback. However, the primary focus is on Scrum practices rather than explicitly addressing the Shift-Left Strategy. While there are elements of early feedback and inspection, the content does not delve deeply into integrating testing, security, or compliance earlier in the development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:09:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the Sprint Review process within Scrum, which includes elements of inspection and adaptation. While it mentions the importance of integrating insights and making adjustments based on feedback, it does not explicitly discuss Continuous Improvement as a primary focus. The content aligns with some core themes, such as fostering a culture of learning and adapting based on empirical evidence, but lacks depth in exploring Continuous Improvement strategies or frameworks. Overall, it reflects a commitment to iterative enhancement but does not fully embody the principles of Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:09:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the purpose of the Sprint Review, which is closely tied to the Product Goal and the alignment of team efforts. It mentions the importance of integrating changes based on insights from the Sprint, which reflects the concept of Common Goals. However, while it touches on these themes, the focus is more on the mechanics of the Sprint Review process rather than a deep exploration of Common Goals as a foundational principle. The discussion lacks extensive detail on how these goals guide decision-making or enhance accountability across teams.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:09:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the structure and flow of a Sprint Review, detailing facilitation steps and activities. While it touches on aspects of learning and adaptation, it does not explicitly discuss competence or continuous skill development as a primary theme. The mention of insights and adjustments hints at a connection to competence, but it lacks depth in exploring how these relate to professional growth or quality delivery.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:09:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Sprint Review process within the Scrum framework, discussing roles, events, and facilitation techniques. While it touches on aspects of collaboration and transparency, it does not explicitly address the One Engineering System framework, its principles, or its integration across teams. The discussion is more aligned with Scrum practices rather than the broader goals of 1ES.",
     "level": "Ignored"
   }
 }

@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:18:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:29:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation and configuration of the Release Management Client for Visual Studio 2013, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Client for Visual Studio 2013, with no direct mention or discussion of Evidence-Based Management principles. It lacks any reference to data-informed decision-making, metrics, or empirical evidence, which are central to the category. The discussion is technical and procedural, making it irrelevant to the themes of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:51:45",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "calculated_at": "2025-03-22T07:29:28",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses the installation and configuration of the Release Management Client for Visual Studio 2013, which is relevant to DevOps practices, particularly in the context of release management and deployment pipelines. However, it lacks a broader discussion on DevOps principles, cultural shifts, or automation impacts, which limits its depth and alignment with the category. The focus is primarily on installation steps rather than the integration of people, processes, and tools in a DevOps context.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Client for Visual Studio 2013, which is a specific tool rather than a discussion on DevOps principles or practices. While it mentions aspects of a release pipeline, it lacks a broader discussion on the DevOps philosophy, such as collaboration, automation, or shared accountability. The content does not delve into the cultural shifts or strategies necessary for effective DevOps implementation, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -326,7 +329,7 @@
     "reasoning": "Content primarily discusses the installation and configuration of the Release Management Client for Visual Studio 2013, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T11:19:19",
     "ai_confidence": 0,
@@ -337,11 +340,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T11:19:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:29:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and configuration of the Release Management Client for Visual Studio 2013, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Client for Visual Studio 2013, which is a technical guide rather than a discussion on the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM category. The content lacks any conceptual alignment with the core themes of APOM and does not provide any depth of discussion related to agile practices or product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -415,14 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T04:42:33",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "calculated_at": "2025-03-22T07:29:46",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the installation process of the Release Management Client for Visual Studio 2013, which is a tool that can be part of a Continuous Delivery pipeline. However, it lacks explicit discussions on the principles, practices, or methodologies of Continuous Delivery itself. While it mentions configuring aspects of a release pipeline, it does not delve into the broader concepts of automation, risk management, or production readiness that are central to Continuous Delivery. Therefore, while there is some relevance, the content does not sufficiently align with the core themes of Continuous Delivery.",
+    "final_score": 40.0,
+    "reasoning": "The content discusses the installation of the Release Management Client for Visual Studio 2013, which is related to Continuous Delivery practices. However, it primarily focuses on the installation process rather than the broader principles, practices, or benefits of Continuous Delivery. While it mentions configuring a release pipeline, it lacks depth in discussing automation, incremental improvements, or cultural aspects of Continuous Delivery. Therefore, it aligns with the category but does not provide a comprehensive exploration of its themes.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1470,6 +1476,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation process of the Release Management Client for Visual Studio 2013, with no explicit discussion of the Shift-Left Strategy or its principles. While it touches on aspects of release management, it does not address integrating testing, security, or compliance earlier in the development lifecycle, which are core themes of the Shift-Left Strategy. Therefore, the confidence score is very low.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:29:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Client for Visual Studio 2013, with no explicit discussion of Continuous Improvement principles. While it briefly mentions improvements in the installation process, it lacks depth and does not align with the core themes of Continuous Improvement, such as empirical evidence, team effectiveness, or strategies for fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:29:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Client for Visual Studio 2013, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on aspects of release management, it does not align with the core themes of shared objectives or strategic alignment, nor does it provide any depth on these topics.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:29:38",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Client for Visual Studio 2013, with no explicit discussion on competence or continuous skill development. While it touches on the importance of having users added to the system, it does not delve into the broader themes of competence, such as professional growth or quality outcomes. The discussion lacks depth and does not align with the core principles of competence in Agile or DevOps methodologies.",
     "level": "Ignored"
   }
 }

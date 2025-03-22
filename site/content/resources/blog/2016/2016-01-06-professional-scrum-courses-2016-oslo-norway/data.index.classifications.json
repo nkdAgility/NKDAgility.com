@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T21:47:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:21:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Professional Scrum courses and training, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum courses and training, with no explicit discussion of Evidence-Based Management principles or metrics. While it mentions Agile practices, it does not align with the core themes of EBM, such as empirical decision-making or current value metrics. The depth of discussion is limited to course offerings and descriptions, lacking any substantial engagement with evidence-based practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,15 +133,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:34:44",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "calculated_at": "2025-03-21T21:20:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 20,
     "non_ai_confidence": 50,
-    "final_score": 65.0,
-    "reasoning": "The content discusses Professional Scrum courses, which are related to Agile methodologies. While it briefly mentions DevOps in the context of the Professional Scrum Developer course, the primary focus is on Scrum practices rather than the broader principles of DevOps. The alignment with DevOps concepts is present but not extensive, and the depth of discussion on DevOps is limited to a few sentences. Overall, the content does touch on DevOps but does not make it a primary focus.",
-    "level": "Secondary"
+    "final_score": 43.0,
+    "reasoning": "The content primarily focuses on Scrum courses, which are methodologies rather than the DevOps philosophy. While it briefly mentions DevOps in the context of the Professional Scrum Developer course, the overall discussion is centred around Scrum practices and training, lacking a deep exploration of DevOps principles such as collaboration, automation, and shared accountability.",
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -341,22 +344,16 @@
     "reasoning": "Content primarily discusses Professional Scrum courses and their details, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T21:48:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Professional Scrum courses and methodologies, which are not related to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T21:48:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:21:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Professional Scrum courses and training, without a clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Professional Scrum courses and does not discuss the Agile Product Operating Model or its principles. While it mentions Agile practices, it does not align with the core themes of the APOM, such as product management or continuous delivery. The depth of discussion is limited to course offerings and does not provide insights into the operational model or its implications.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -433,11 +430,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T21:48:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:21:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum courses and methodologies, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Scrum courses and practices, which are related to Agile methodologies rather than Continuous Delivery specifically. While there are mentions of delivering high-quality software and some practices that could align with Continuous Delivery principles, the discussion lacks depth on the core themes of Continuous Delivery, such as automation in testing and deployment, rapid feedback, and cultural aspects. The content does not provide substantial detail on Continuous Delivery itself, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1530,6 +1530,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Professional Scrum courses and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. While it mentions Agile practices, it does not specifically address integrating testing, security, or compliance early in the development process, which is central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:20:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting Professional Scrum courses and does not explicitly discuss Continuous Improvement principles. While it mentions advanced topics relevant to Scrum, it lacks a direct connection to Continuous Improvement concepts such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The discussion is more about course offerings and skills development rather than ongoing reflection and adaptation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:21:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting Professional Scrum courses and does not explicitly discuss Common Goals or their significance in Agile and DevOps. While it mentions Scrum practices, it lacks a clear connection to shared objectives or alignment within teams, which are central to the concept of Common Goals. The discussion is more about course offerings and teaching experiences rather than the foundational principles of aligning strategy with execution.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:21:03",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Professional Scrum courses, which implies a focus on skill development and mastery in Agile practices. However, while it mentions advanced topics and the importance of not covering basics to focus on mastery, it lacks a deeper exploration of continuous learning or the broader implications of competence in Agile and DevOps environments. The primary focus is on course offerings rather than a comprehensive discussion of competence as a foundational principle.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:21:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Professional Scrum courses and Agile practices, which are not directly related to the One Engineering System framework. While it mentions concepts like collaboration and quality, it does not discuss the integration of tools or processes across teams, nor does it provide insights into the principles or challenges of implementing 1ES.",
     "level": "Ignored"
   }
 }

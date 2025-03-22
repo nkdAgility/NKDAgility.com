@@ -170,15 +170,6 @@
     "reasoning": "Content primarily discusses issues related to engineering culture and its impact on scaling technology, rather than personal experiences or reflections related to Agile methodologies.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on engineering culture and its importance in scaling technology, without discussing the principles or components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Lean": {
     "category": "Lean",
     "calculated_at": "2025-02-20T20:03:39",
@@ -787,11 +778,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:42:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the importance of culture in scaling organizations but does not primarily focus on evidence-based management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of culture in scaling technology, which indirectly relates to Evidence-Based Management principles, particularly in fostering collaboration and continuous learning. However, it lacks direct mentions of empirical evidence or specific metrics that are central to EBM. The focus is more on cultural aspects rather than data-informed decision-making, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -1198,11 +1192,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:42:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses scaling culture in engineering and the implications of DevOps, but does not mention Continuous Delivery principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of culture in scaling technology, touching on themes like collaboration and continuous learning, which are relevant to Continuous Delivery. However, it does not explicitly mention Continuous Delivery or its principles, nor does it delve into specific practices or tools associated with it. The focus is more on cultural aspects rather than the delivery process itself.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1425,6 +1422,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the importance of engineering culture in scaling technology, with a focus on collaboration, continuous learning, and the pitfalls of relying solely on tools. While it touches on themes relevant to software development, it does not explicitly mention or align with the Shift-Left Strategy, which focuses on integrating testing, security, and compliance earlier in the development lifecycle. The discussion is more about cultural aspects rather than the proactive measures associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:42:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of fostering a culture of continuous learning and collaboration, which aligns with the principles of Continuous Improvement. However, while it touches on these themes, it does not delve deeply into specific Continuous Improvement strategies or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:42:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of culture in scaling technology, touching on collaboration and continuous learning, which are relevant to Common Goals. However, it lacks explicit references to shared objectives or strategic alignment, making it more focused on cultural aspects rather than the core principles of Common Goals in Agile and DevOps.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:42:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of continuous learning and collaboration within engineering culture, which aligns well with the principles of competence. It highlights the need for ongoing skill development and the dangers of neglecting cultural evolution in the face of technological growth. The depth of discussion on fostering collaboration and embracing continuous learning indicates a strong focus on competence, although it does not explicitly mention the term 'competence' itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:42:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses the importance of engineering culture in scaling technology, which is tangentially related to the principles of collaboration and integration found in the One Engineering System. However, it does not explicitly mention 1ES or its components, nor does it delve into specific practices or case studies related to 1ES. The focus is more on cultural aspects rather than the standardisation and integration of engineering processes.",
     "level": "Ignored"
   }
 }

@@ -229,11 +229,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T15:38:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:49:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical debt and its implications on product quality and costs, without a focus on evidence-based management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses technical debt and its management, which indirectly relates to evidence-based practices in terms of decision-making and quality assurance. However, it lacks direct references to empirical metrics or the specific themes of Evidence-Based Management, such as current value or outcome management. The focus is more on the implications of technical debt rather than on data-informed decision-making, which diminishes its alignment with the category.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -274,14 +277,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T16:50:01",
+    "calculated_at": "2025-03-21T16:49:47",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
     "final_score": 40.0,
-    "reasoning": "The content discusses technical debt and its implications on software quality and release cycles, with a brief mention of continuous delivery as a solution to manage technical debt. However, the primary focus is on technical debt rather than Continuous Delivery principles, leading to a lower confidence score. While there is some alignment with Continuous Delivery concepts, such as the importance of maintaining quality and the impact of long release cycles, the depth of discussion on Continuous Delivery itself is limited.",
+    "reasoning": "The content discusses technical debt and its impact on product quality and release cycles, which are relevant to Continuous Delivery. However, it primarily focuses on the implications of technical debt rather than the principles and practices of Continuous Delivery itself. While it mentions the shift to Continuous Delivery as a solution, this is not the main focus of the discussion. The content lacks detailed exploration of Continuous Delivery practices, automation, or cultural aspects, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -1436,15 +1439,6 @@
     "reasoning": "Content primarily discusses technical debt and quality management in software development, with no clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T11:58:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses technical debt and quality issues in software development, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:38:03",
@@ -1518,6 +1512,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses technical debt and its implications on quality and efficiency, but it does not explicitly mention the Shift-Left Strategy or its principles. While there are elements of proactive quality management and continuous improvement that align with Shift-Left concepts, the primary focus is on technical debt rather than integrating testing, security, and compliance earlier in the development process. The discussion lacks depth in terms of specific techniques or tools related to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:49:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses continuous improvement in the context of managing technical debt and maintaining product quality. It highlights the importance of regular refactoring and proactive management of technical debt, which aligns with the principles of continuous improvement. However, while it touches on these themes, the primary focus is on technical debt and quality rather than a broader discussion of continuous improvement practices. The depth of discussion on continuous improvement is moderate, as it is integrated into the narrative but not extensively elaborated upon.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:49:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses technical debt and poor quality in product development, which are important topics but do not directly address the concept of Common Goals within Agile and DevOps frameworks. While there are mentions of team dynamics and the importance of quality, the focus is not on aligning strategy with execution or shared objectives that guide decision-making. The discussion lacks depth in connecting these concepts to the overarching strategic objectives of an organisation.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:49:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of managing technical debt and maintaining quality, which aligns with the principles of competence in Agile and DevOps. It highlights the need for continuous improvement and the impact of quality on productivity, reflecting a commitment to skill development and professionalism. However, while competence is a theme, it is not the primary focus, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:49:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses technical debt and quality issues in software development, which are important topics but do not directly address the principles or components of the One Engineering System (1ES). While there are mentions of continuous improvement and the impact of quality on productivity, these concepts are not explicitly tied to the 1ES framework or its integration and standardisation goals. The discussion lacks a focus on the unification of tools and processes across teams, which is central to 1ES, leading to a lower confidence score.",
     "level": "Ignored"
   }
 }

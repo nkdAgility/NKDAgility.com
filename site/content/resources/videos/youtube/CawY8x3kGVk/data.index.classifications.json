@@ -652,11 +652,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T08:40:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:34:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum and Agile principles, focusing on micromanagement myths rather than Continuous Delivery practices. While it touches on aspects of team autonomy and collaboration, it does not explicitly address Continuous Delivery principles, automation, or delivery techniques.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -841,11 +844,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T08:40:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum roles and the misconceptions surrounding them, rather than focusing on Evidence-Based Management principles or practices.",
+    "calculated_at": "2025-03-21T18:34:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Scrum and the myth of micromanagement, focusing on Agile principles rather than evidence-based management practices. While it touches on concepts like autonomy and decision-making, it lacks a direct emphasis on empirical evidence or metrics that are central to Evidence-Based Management.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1285,11 +1291,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T08:38:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile methodologies rather than DevOps principles.",
+    "calculated_at": "2025-03-21T18:33:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 50,
+    "final_score": 16.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile methodologies, discussing micromanagement myths rather than DevOps principles. While it briefly touches on collaboration and team autonomy, it lacks a direct connection to the core themes of DevOps, such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1483,12 +1492,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:07:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles and the role of developers in decision-making, which aligns with Agile principles, but it primarily focuses on Scrum rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T18:34:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Scrum and its principles, particularly focusing on the myth of micromanagement. While it touches on Agile principles, it does not explicitly address the Agile Product Operating Model or its key topics. The discussion is more centred on Scrum practices rather than the broader framework of APOM, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1505,15 +1517,6 @@
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:07:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -1557,6 +1560,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum and the myth of micromanagement, with no direct mention of the Shift-Left Strategy or its principles. While it touches on Agile practices, it does not address integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy. The focus is on Scrum's application rather than proactive quality measures, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:33:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum and micromanagement, with limited direct discussion on Continuous Improvement principles. While it touches on themes of empowerment and collaboration, it lacks a detailed exploration of Continuous Improvement strategies or frameworks, making it more of a secondary mention rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:33:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the myth of micromanagement in Scrum, focusing on the autonomy of developers and the misapplication of Scrum principles. While it touches on aspects of team empowerment and collaboration, it does not explicitly address the concept of Common Goals or their significance in aligning strategy with execution. The discussion lacks depth in connecting these ideas to overarching strategic objectives or frameworks like OKRs, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:34:01",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of Developer autonomy and decision-making within Scrum, which aligns with the principles of competence. However, the primary focus is on debunking myths about micromanagement rather than a deep exploration of continuous learning or skill development. While it touches on trust and collaboration, it lacks a thorough examination of competence as a foundational principle in Agile methodologies.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:34:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and its principles, specifically addressing misconceptions about micromanagement. It does not discuss the One Engineering System framework, its components, or its integration with other processes, which are essential for alignment with the category. The discussion is centred around Agile practices rather than the standardisation and integration of engineering processes as outlined in the 1ES definition.",
     "level": "Ignored"
   }
 }

@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T09:06:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:15:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the technical process of migrating source control from Perforce to Git, with no focus on evidence-based management principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from Perforce to Git, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on some aspects of organisational change, it lacks a clear connection to data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -133,14 +136,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:44:43",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
+    "calculated_at": "2025-03-22T07:14:58",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on the migration of source control from Perforce to Git, which is a significant aspect of DevOps practices. It discusses the implications of moving to a node-based version control system, the importance of CI builds, and the need for automation in the build process, all of which align with DevOps principles. However, while it touches on relevant topics, it lacks a broader discussion on cultural shifts, collaboration, and specific DevOps tools beyond Git and VSO, which slightly limits its depth of discussion.",
+    "final_score": 63.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from Perforce to Git, which is relevant to version control but does not deeply engage with the broader DevOps philosophy. While it mentions automation and CI builds, which are aligned with DevOps principles, the discussion lacks a comprehensive exploration of collaboration, shared accountability, or cultural shifts that are central to DevOps. The content is more about the migration process itself rather than the integration of people, processes, and technology in a DevOps context.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -338,7 +341,7 @@
     "reasoning": "Content primarily discusses the technical process of migrating source control from Perforce to Git, focusing on specific steps and challenges rather than exploring Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T09:06:52",
     "ai_confidence": 0,
@@ -349,11 +352,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T09:06:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:15:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of migrating source control from Perforce to Git, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from Perforce to Git, with no explicit discussion of the Agile Product Operating Model or its principles. While there are mentions of team structures and collaboration, these are not explored in the context of APOM. The content lacks depth in relation to the key topics outlined for the category, such as continuous delivery, product-oriented mindset, or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -430,14 +436,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T04:23:29",
+    "calculated_at": "2025-03-22T07:15:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the migration process from Perforce to Git, discussing version control and repository management. While it touches on aspects of automation and build processes, it lacks a direct focus on Continuous Delivery principles and practices. The discussion is more about version control systems rather than the methodologies that enable safe and efficient software delivery, which is the core of Continuous Delivery.",
+    "reasoning": "The content primarily focuses on the migration process from Perforce to Git on VSO, which is more about version control and migration strategies rather than Continuous Delivery practices. While it touches on aspects like CI builds and the importance of a streamlined build process, it lacks a comprehensive discussion on Continuous Delivery principles, automation, or cultural aspects. The mention of CI builds is relevant but does not constitute a primary focus on Continuous Delivery as defined in the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1500,6 +1506,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from Perforce to Git, discussing version control systems and build processes. While it touches on some benefits of improved workflows and fewer bugs, it does not explicitly discuss integrating testing, security, or compliance earlier in the development lifecycle, which are core themes of the Shift-Left Strategy. The discussion lacks depth in relation to the principles and methodologies of Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:15:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from Perforce to Git, with limited discussion on Continuous Improvement principles. While it touches on improving processes (e.g., streamlining builds, managing dependencies), it lacks a strong emphasis on empirical evidence, culture of experimentation, or strategic business agility, which are core to Continuous Improvement. The mention of benefits from the migration hints at improvement but does not delve into systematic practices or frameworks that support Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:15:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from Perforce to Git, detailing specific steps and challenges involved in the process. While it touches on team collaboration and the need for a streamlined build process, it does not explicitly discuss the concept of Common Goals or their significance in Agile and DevOps frameworks. The discussion lacks depth in connecting individual contributions to overarching strategic objectives, which is essential for alignment with the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:15:07",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from Perforce to Git, with limited direct discussion on competence. While it touches on the need for understanding and adapting to new workflows, it lacks a thorough exploration of continuous learning or skill development, which are central to the competence category. The depth of discussion on the migration process is substantial, but it does not sufficiently connect to the broader themes of competence in Agile or DevOps.",
     "level": "Ignored"
   }
 }

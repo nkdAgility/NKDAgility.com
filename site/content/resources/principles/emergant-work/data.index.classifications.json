@@ -625,11 +625,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T21:05:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:05:22",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on updating work based on user feedback, which is not directly related to Continuous Delivery principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions updating work based on user feedback, which aligns with the rapid feedback aspect of Continuous Delivery. However, it lacks explicit discussion of Continuous Delivery principles, automation, or detailed strategies for incremental improvements. The focus appears more on general work processes rather than a dedicated exploration of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -790,11 +793,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T21:05:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:05:27",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on updating work based on user feedback, which does not clearly align with the principles of Evidence-Based Management.",
+    "final_score": 24.0,
+    "reasoning": "The content briefly touches on the concept of updating work based on user feedback, which aligns with the idea of empirical decision-making. However, it lacks explicit discussion of Evidence-Based Management principles, key metrics, or a detailed exploration of how data informs decisions. The focus is more on the emergence of work rather than a structured approach to management based on evidence.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1400,15 +1406,6 @@
     "reasoning": "Content primarily discusses updating work based on user feedback, which does not align with the principles or practices of BetaCodex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T17:28:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses updating work based on user feedback, which does not align with the core principles of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:13:16",
@@ -1470,6 +1467,54 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content briefly touches on updating work based on user feedback, which could imply a focus on iterative improvement, but it does not explicitly mention or align with the principles of the Shift-Left Strategy. There is no discussion of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. Overall, the content is too vague and unrelated to the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:05:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions updating work based on user feedback, which aligns with the concept of Continuous Improvement. However, it lacks a detailed discussion on the principles, techniques, or strategies associated with Continuous Improvement, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:05:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the idea of updating work based on user feedback, which could relate to aligning efforts with goals. However, it lacks explicit discussion of Common Goals, their significance, or how they connect to Agile and DevOps principles. The mention of timelines suggests a tactical approach but does not delve into the strategic alignment or ownership aspects that are central to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:05:18",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly touches on the idea of updating work based on user feedback, which implies a level of responsiveness and adaptability. However, it lacks explicit discussions on competence, continuous learning, or skill development. The mention of 'emerging work' suggests a process but does not delve into the foundational principles of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:05:20",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 14.0,
+    "reasoning": "The content briefly touches on the concept of updating work based on user feedback, which could relate to improving processes, but it lacks explicit discussion of the One Engineering System framework or its principles. The mention of timelines suggests a focus on efficiency, but it does not provide sufficient detail or context to align with the core themes of 1ES.",
     "level": "Ignored"
   }
 }

@@ -26,6 +26,9 @@ headline:
   subtitle: Harnessing data-driven insights to enhance leadership effectiveness and foster continuous improvement in dynamic environments.
   content: Utilising empirical data to inform leadership strategies enhances decision-making and drives organisational growth. Posts should explore topics such as performance metrics, team dynamics, feedback loops, and adaptive leadership practices, emphasising the importance of evidence in navigating complex environments and fostering a culture of continuous improvement.
   updated: 2025-02-13T12:04:34Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

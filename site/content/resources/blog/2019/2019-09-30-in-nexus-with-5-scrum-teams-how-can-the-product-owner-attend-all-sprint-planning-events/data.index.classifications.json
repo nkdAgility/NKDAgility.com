@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T18:02:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:06:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum roles and scaling issues within a Nexus framework, without a focus on evidence-based management principles or empirical data.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum roles and practices, particularly focusing on the Product Owner's responsibilities in a Nexus framework. While it touches on aspects of team management and communication, it does not engage with the core themes of Evidence-Based Management, such as empirical decision-making or metrics related to value delivery. The discussion lacks a focus on data-informed decision-making and does not provide any evidence-based metrics or analysis, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,11 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T18:02:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:06:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 16.0,
+    "reasoning": "The content primarily discusses Scrum practices and the role of the Product Owner within a Nexus framework, which is more aligned with Agile methodologies than DevOps principles. While there are mentions of team collaboration and communication, the focus is not on the core themes of DevOps such as automation, shared accountability, or continuous value delivery. Therefore, the confidence score reflects a low alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -335,23 +341,17 @@
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on the Product Owner's responsibilities in a Nexus framework, rather than exploring Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T18:03:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, specifically within the context of a Nexus framework, without addressing the principles or components of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T21:06:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner in a Nexus framework, which is related to Agile product development, but primarily focuses on Scrum roles and events rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner within a Scrum framework, particularly in a Nexus setup with multiple teams. While it touches on aspects of product ownership and team dynamics, it does not explicitly address the broader principles of the Agile Product Operating Model, such as transitioning from project to product ethos or operational stability. The focus is more on Scrum practices rather than the integration of agile methodologies with product management principles, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -418,11 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T18:03:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:06:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum roles and practices, particularly focusing on the Product Owner's responsibilities in a Nexus framework. While it touches on aspects of team organisation and communication, it does not address Continuous Delivery principles, practices, or benefits. The discussion is centred around Agile methodologies rather than Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1536,6 +1539,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum roles and the challenges of scaling the Product Owner role within a Nexus framework. It does not address the Shift-Left Strategy or its principles, benefits, or techniques. The focus is on Scrum practices rather than integrating testing, security, or compliance earlier in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:06:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner in managing multiple Scrum teams within a Nexus framework. While it touches on aspects of team structure and communication, it lacks a direct focus on Continuous Improvement principles. The mention of iteration suggests a slight alignment with the concept, but the overall discussion is more about Scrum roles and practices rather than a commitment to ongoing improvement or empirical evidence-driven enhancements.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:06:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of the Product Owner in a Nexus with multiple Scrum teams, touching on the importance of communication and alignment with the overall vision and expectations. However, it primarily focuses on practical solutions for managing Sprint Planning rather than explicitly addressing the concept of Common Goals. While there are mentions of goals and ownership, the depth of discussion on aligning strategy with execution is limited, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:06:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of the Product Owner in a Nexus with multiple Scrum teams, touching on the need for effective communication and delegation, which are aspects of competence. However, it primarily focuses on practical solutions to a specific problem rather than a broader discussion on competence as a foundational principle. While it does mention the importance of skilled roles and communication, it lacks a deeper exploration of continuous learning or strategies for fostering a culture of competence.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:06:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Scrum practices and the role of the Product Owner within a Nexus framework, which is not directly related to the One Engineering System. While there are mentions of team structures and roles, the focus is on Agile methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

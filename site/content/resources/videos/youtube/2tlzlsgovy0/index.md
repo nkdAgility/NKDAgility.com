@@ -32,10 +32,10 @@ tags:
 - Agile Philosophy
 - Agile Leadership
 - Organisational Agility
+- Common Goals
 - Agile Values and Principles
 - Agile Project Management
 - Product Strategy
-- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

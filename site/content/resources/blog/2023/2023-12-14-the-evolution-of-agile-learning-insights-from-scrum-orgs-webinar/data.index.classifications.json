@@ -658,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T16:10:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:07:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning and traditional training methods in Agile environments, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses immersive learning and traditional training methods within Agile environments, with no direct mention of Continuous Delivery principles or practices. While there are references to learning and improvement, they do not specifically address Continuous Delivery concepts such as automation, rapid feedback, or deployment strategies. The focus remains on educational methodologies rather than software delivery practices.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1285,11 +1288,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T16:08:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:07:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile learning and immersive training methods, with a focus on Scrum, rather than DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile training and immersive learning methodologies, specifically within the context of Scrum. While it touches on concepts like feedback loops and continuous improvement, which are relevant to DevOps, the main emphasis is on training formats rather than the integration of people, processes, and technology in a DevOps context. Therefore, it does not align closely with the core principles of DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1444,14 +1450,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T20:27:28",
+    "calculated_at": "2025-03-21T18:07:44",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
     "final_score": 40.0,
-    "reasoning": "The content discusses immersive learning and its advantages over traditional training methods, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on learning methodologies rather than directly addressing EBM principles, metrics, or empirical evidence in decision-making. The mention of 'Evidence-Based Management' is limited and not a primary focus, leading to a moderate confidence score.",
+    "reasoning": "The content discusses immersive learning and its advantages over traditional training methods, which aligns with the principles of Evidence-Based Management. However, the primary focus is on training methodologies rather than directly addressing EBM concepts such as current value, time to market, or empirical decision-making. While there are mentions of applying learning in real-world contexts, the depth of discussion on EBM metrics and outcomes is limited.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1463,22 +1469,16 @@
     "reasoning": "Content heavily discusses Agile learning and training methodologies, specifically focusing on immersive learning and traditional training formats, without any direct connection to platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:47:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning and traditional training methods in Agile environments, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-13T21:47:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:07:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses immersive learning and traditional training methods, with no clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses immersive learning in Agile training rather than the Agile Product Operating Model itself. While it touches on Agile principles and the need for change in training methods, it lacks a direct focus on the APOM framework, its principles, or its application in product management. The discussion is more about training methodologies than the operational model of Agile product delivery.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1554,6 +1554,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses immersive learning and traditional training methods in Agile environments, with no direct mention of the Shift-Left Strategy. While there are elements of early engagement and feedback loops that could conceptually align with Shift-Left principles, the focus remains on training methodologies rather than integrating testing, security, or compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:07:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses immersive learning as a method to enhance training effectiveness, which aligns with the principles of Continuous Improvement. It highlights the need for change in traditional training methods and the importance of feedback loops, which are key aspects of Continuous Improvement. However, while it touches on these themes, the primary focus is on the evolution of training methods rather than a comprehensive exploration of Continuous Improvement practices.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:07:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses immersive learning and its advantages over traditional training methods, with only brief references to Agile principles. While it touches on the need for change in training approaches, it lacks a focused discussion on aligning strategy with execution or shared objectives that are central to the concept of Common Goals. The depth of discussion on the category is minimal, and the content does not provide substantial insights into how these learning methods connect to overarching strategic objectives within Agile or DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:07:33",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content extensively discusses the evolution of learning methodologies in Agile environments, particularly contrasting traditional training with immersive learning. It highlights the importance of continuous skill development and the need for effective learning strategies to enhance competence. The depth of discussion on immersive learning's role in fostering genuine understanding and application of skills aligns well with the core themes of competence. However, while competence is a primary focus, the content also touches on broader educational concepts, which slightly dilutes the focus.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:07:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile training and immersive learning methodologies, specifically within the context of Scrum. While it discusses training approaches, it does not address the principles, components, or implementation of the One Engineering System framework. There are no direct mentions of 1ES, and the discussion does not align with the core themes of integration and standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

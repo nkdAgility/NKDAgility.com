@@ -27,6 +27,9 @@ headline:
   subtitle: Streamline collaboration and delivery with integrated tools for continuous improvement and effective project management.
   content: A comprehensive suite of tools designed to enhance collaboration, streamline workflows, and facilitate continuous delivery. Posts should explore practices in project management, team dynamics, process optimisation, and metrics for performance evaluation, drawing insights from established methodologies and frameworks in software development and organisational management.
   updated: 2025-02-13T11:59:54Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

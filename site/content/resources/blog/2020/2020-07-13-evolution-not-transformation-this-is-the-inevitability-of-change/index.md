@@ -36,8 +36,8 @@ tags:
 - Discovery and Learning
 - Agile Leadership
 - Agile Philosophy
+- Continuous Improvement
 - Enterprise Agility
-- Market Adaptability
 categories:
 - Leadership
 preview: image-15-5-4.png

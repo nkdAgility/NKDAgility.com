@@ -1,15 +1,15 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:27:34",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 50,
-    "final_score": 70.0,
-    "reasoning": "The content discusses various aspects of Agile methodologies, particularly Scrum, and touches on DevOps principles, such as the importance of continuous delivery and feedback loops. However, the primary focus is on remote work and Agile practices rather than a deep exploration of DevOps itself. While there are relevant mentions of DevOps concepts, they are not the main focus of the discussion, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-21T21:01:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile practices and remote work dynamics, with only brief mentions of concepts like value delivery and feedback loops, which are relevant to DevOps. However, it lacks a focused discussion on the core principles of DevOps, such as automation, shared accountability, and cultural shifts necessary for effective implementation. The depth of discussion on DevOps-related themes is minimal, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -298,14 +298,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T03:11:37",
+    "calculated_at": "2025-03-21T21:01:32",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content primarily discusses Agile practices and remote work dynamics, with only a brief mention of concepts like 'zero build time' and 'feedback loops' that could relate to Continuous Delivery. However, it lacks a focused discussion on the principles and practices of Continuous Delivery itself, making it more of a secondary topic rather than a primary focus.",
+    "reasoning": "The content primarily discusses Agile practices and remote work dynamics, with only brief mentions of concepts that could relate to Continuous Delivery, such as feedback loops and value delivery. However, it lacks a focused discussion on Continuous Delivery principles, automation, or specific tools and frameworks that support these practices. The overall emphasis is on team collaboration and UX integration rather than the Continuous Delivery process itself.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -456,15 +456,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "The content primarily discusses remote work in the context of Agile and Scrum practices, rather than focusing on the specific principles and techniques of Value Stream Management.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T12:23:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses remote work and Agile/Scrum concepts, without a clear focus on the One Engineering System (1ES) framework or its integration and standardization practices.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1255,12 +1246,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T12:23:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T21:01:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of Agile and Scrum frameworks in the context of remote work and product delivery, highlighting the importance of team collaboration, UX integration, and feedback loops. However, the main focus is on remote working challenges rather than a detailed exploration of the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses Agile practices and team dynamics but does not explicitly focus on the Agile Product Operating Model. While it touches on value delivery and team collaboration, it lacks a detailed exploration of the core principles and frameworks of APOM, such as transitioning from project to product ethos or Evidence-Based Management.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1462,12 +1456,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T12:23:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T21:01:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content discusses various elements of Agile practices, including team dynamics, remote work, and UX integration, it does not primarily focus on Evidence-Based Management principles or data-driven approaches. The discussion is more oriented toward practical experiences and methodologies rather than empirical evidence in management decision-making.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile practices and team dynamics but lacks a direct focus on Evidence-Based Management principles. While it mentions the importance of value delivery and feedback loops, it does not provide empirical metrics or a structured approach to decision-making based on evidence, which are central to EBM. The discussion is more about Agile methodologies and team collaboration rather than data-informed management strategies.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1536,6 +1533,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Agile practices and team dynamics but does not explicitly mention the Shift-Left Strategy or its principles. While there are references to integrating UX early in the development process, which aligns with the Shift-Left concept, the overall focus is on remote work and team collaboration rather than on proactive testing, security, or compliance integration. Therefore, the confidence score reflects a low direct mention but some conceptual alignment.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:01:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses aspects of Agile practices and team dynamics, which are related to Continuous Improvement, but it does not explicitly focus on Continuous Improvement principles. While there are mentions of adapting tools and gathering feedback, the overall emphasis is more on remote work and team collaboration rather than a structured approach to Continuous Improvement. Therefore, the confidence score reflects a moderate alignment with the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:01:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile practices and team dynamics, which are relevant to Common Goals, but it primarily focuses on remote work and UX integration rather than explicitly addressing shared objectives or strategic alignment. While there are mentions of collaboration and team accountability, these are not deeply tied to the concept of Common Goals as defined in the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:01:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses various aspects of Agile practices, including team dynamics and UX integration, but it does not explicitly focus on competence as a primary theme. While there are mentions of collaboration and value delivery, the discussion lacks depth regarding continuous learning, skill development, or the professional standards associated with competence. The emphasis is more on team interactions and tools rather than on fostering a culture of competence or the importance of demonstrable capability.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:01:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Agile practices, remote work, and team dynamics, with no direct mention of the One Engineering System (1ES). While it touches on collaboration and integration of UX, it does not delve into the principles or components of 1ES, nor does it provide best practices or case studies related to 1ES. The focus remains on Agile methodologies rather than the standardisation and integration of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

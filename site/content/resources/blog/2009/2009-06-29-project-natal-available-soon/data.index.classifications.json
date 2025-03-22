@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:27:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:16:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a product release and does not discuss Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a product launch related to Xbox and does not discuss any aspects of Evidence-Based Management. There are no direct mentions of EBM concepts, and the content lacks any alignment with the key topics outlined for the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:27:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:15:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a product release and does not discuss any DevOps principles, practices, or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a product launch related to Xbox and does not mention any DevOps principles, practices, or discussions. There is no alignment with the core themes of DevOps, and the depth of discussion is non-existent in this context.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -305,7 +311,7 @@
     "reasoning": "Content is primarily about a product release and does not discuss Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:28:24",
     "ai_confidence": 0,
@@ -316,11 +322,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:28:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:15:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a product release and does not discuss Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a product launch related to Xbox and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related themes. The content lacks depth and relevance to the category, making it unsuitable for classification under the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -388,11 +397,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:16:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on a product release, specifically Project Natal, with no discussion of Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on the launch of a gaming product, with no direct mentions or discussions related to Continuous Delivery principles, practices, or benefits. It lacks any relevant detail or alignment with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1410,6 +1422,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content does not discuss any aspects of the Shift-Left Strategy, focusing instead on a product release with no relevance to software development processes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:15:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the launch of a product, Project Natal, and does not discuss any principles or practices related to Continuous Improvement. There are no direct mentions of improvement processes, empirical evidence, or strategies for enhancing effectiveness, which are core to the category. The content lacks depth and relevance to the themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:15:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the launch of a product related to Xbox, with no discussion of Agile, DevOps, or the concept of Common Goals. It lacks any direct mentions or alignment with the principles outlined in the category, making it irrelevant to the topic.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:15:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on the launch of a gaming product and does not discuss any aspects related to competence, continuous learning, or professional development. It lacks any direct mentions or alignment with the key topics outlined in the competence category.",
     "level": "Ignored"
   }
 }

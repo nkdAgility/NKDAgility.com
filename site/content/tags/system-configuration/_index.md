@@ -24,6 +24,9 @@ headline:
   subtitle: Optimising software and hardware setups for peak efficiency and seamless integration across systems.
   content: Optimising the arrangement and interconnection of software and hardware components to enhance system performance and reliability. Posts should explore configuration strategies, integration techniques, troubleshooting methods, and the impact of system architecture on operational efficiency, drawing insights from established frameworks and methodologies.
   updated: 2025-02-13T12:02:04Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

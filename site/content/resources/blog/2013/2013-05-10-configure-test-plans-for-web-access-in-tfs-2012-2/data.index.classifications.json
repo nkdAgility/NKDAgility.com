@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:49:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:51:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses configuring test plans in TFS 2012.2, focusing on technical details and workarounds rather than evidence-based management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, with no direct mention of Evidence-Based Management principles or metrics. While it discusses team configurations and testing processes, it lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management. The discussion is technical and operational rather than strategic, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T18:50:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:51:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on configuring Test Plans in TFS 2012.2, which is more about project management and specific tool usage rather than DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, which is more aligned with specific tool usage rather than the broader principles of DevOps. While it touches on team collaboration and configuration, it lacks a comprehensive discussion on DevOps philosophy, practices, or cultural shifts. The mention of teams and configurations does not sufficiently align with the core themes of DevOps, such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,7 +326,7 @@
     "reasoning": "Content primarily focuses on configuring Test Plans in TFS 2012.2, discussing specific technical details and workarounds without addressing Systems Thinking principles or interconnectedness within organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:50:35",
     "ai_confidence": 0,
@@ -331,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:50:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:51:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses configuring test plans in TFS 2012.2, focusing on technical aspects rather than Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, which is a technical guide rather than a discussion on the Agile Product Operating Model. While it touches on team structures and configurations, it does not engage with the core principles or themes of the APOM, such as continuous delivery, product-oriented mindset, or evidence-based management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -412,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:44:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:51:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the configuration of Test Plans in TFS, which is more related to test management than Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, which is more about test management than Continuous Delivery. While it touches on aspects of team organisation and testing processes, it does not explicitly discuss Continuous Delivery principles, automation, or the broader context of software delivery practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1467,6 +1479,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on configuring test plans in TFS 2012.2, with no explicit discussion of integrating testing or security earlier in the development lifecycle. While it touches on testing processes, it lacks a clear connection to the Shift-Left Strategy principles, benefits, or methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:51:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, with no explicit discussion on Continuous Improvement principles. While it touches on aspects of team configuration and process optimisation, it lacks a clear commitment to ongoing reflection, adaptation, or empirical evidence-driven enhancements. The discussion is more technical and procedural rather than aligned with the philosophies of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:51:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on team configurations, it lacks depth in connecting these configurations to shared objectives or strategic alignment, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:51:16",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, which is more about technical implementation than discussions on competence. While there are brief mentions of team dynamics and the need for proper configuration, it lacks a strong emphasis on continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

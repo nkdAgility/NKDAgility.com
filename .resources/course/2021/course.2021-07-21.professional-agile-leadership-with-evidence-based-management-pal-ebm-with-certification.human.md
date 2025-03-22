@@ -38,7 +38,6 @@ delivery-audiences:
 - Managers
 - Entrepreneurs
 tags:
-- Evidence Based Management
 - Metrics and Learning
 - Experimentation
 - Agile Product Management
@@ -48,6 +47,7 @@ tags:
 - Business Agility
 - Discovery and Learning
 - Evidence Based Leadership
+- Operational Practices
 categories:
 - Leadership
 - Product Management

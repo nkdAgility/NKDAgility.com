@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:08:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:16:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on technical details of migrating data between systems and does not discuss Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of migrating data between systems and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,14 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T05:51:02",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "calculated_at": "2025-03-22T08:16:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the technical aspects of migrating data between systems using the TFS Integration Platform, which is a tool relevant to DevOps practices. However, it lacks explicit discussions on broader DevOps principles such as CI/CD, automation, or cultural shifts. While it touches on the integration of tools and processes, it does not delve deeply into the collaborative or operational aspects that define DevOps, leading to a moderate confidence score.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating data between systems using the TFS Integration Platform. While it touches on tools and processes related to software development and integration, it does not engage with the broader DevOps philosophy, principles, or cultural shifts. The discussion lacks explicit references to collaboration, automation, or shared accountability, which are core to DevOps. Therefore, it aligns only marginally with the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -326,7 +329,7 @@
     "reasoning": "Content primarily focuses on technical details of migrating data between systems, with no clear discussion of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:09:53",
     "ai_confidence": 0,
@@ -337,11 +340,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:09:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:16:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on technical aspects of migrating data between systems and does not discuss Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of migrating data between systems using TFS and does not discuss Agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any direct mention of the key topics associated with APOM, such as continuous delivery, operational stability, or evidence-based management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -415,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:31:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:16:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on data migration and integration techniques rather than Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating data from FogBugz to TFS 2012 using a custom adapter, which does not directly address Continuous Delivery principles or practices. While it touches on aspects of integration and data handling, it lacks discussions on automation, rapid feedback, or cultural aspects of Continuous Delivery, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1476,6 +1485,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating data from FogBugz to TFS 2012, detailing the setup of a development environment and the use of a custom adapter. It does not discuss the principles, benefits, or techniques of the Shift-Left Strategy, nor does it address early integration of testing, security, or compliance in the software development lifecycle. The content lacks any direct mention of Shift-Left practices, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:16:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating data from FogBugz to TFS 2012, detailing specific steps and code snippets. While there are elements of improving the migration process, such as reusing a custom adapter and discussing potential pitfalls, it lacks a broader discussion on Continuous Improvement principles, empirical evidence, or a culture of experimentation. The focus is on practical implementation rather than strategic enhancement or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:16:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical details related to migrating data from FogBugz to TFS 2012, including setup instructions and code snippets. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:16:34",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on technical details related to migrating data and configuring tools, with minimal direct discussion on competence or skill development. While it implies a level of expertise in using the TFS Integration Platform, it does not explicitly address continuous learning, quality outcomes, or fostering a culture of competence, which are key themes in the category.",
     "level": "Ignored"
   }
 }

@@ -634,11 +634,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T01:57:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:55:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the transition from DevOps practitioner to consultant, focusing on personal experiences and insights rather than Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the personal journey of transitioning from a DevOps practitioner to a consultant, with a strong emphasis on personal experiences and insights rather than discussing Continuous Delivery principles or practices. While it touches on themes related to DevOps and Agile, it does not explicitly mention Continuous Delivery or its key topics, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -799,11 +802,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T01:57:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:55:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and insights related to transitioning from a DevOps practitioner to a consultant, without a focus on evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the personal journey of transitioning from a DevOps practitioner to a consultant, with an emphasis on personal experiences and insights rather than on evidence-based management principles. While it touches on themes of expertise and value delivery, it lacks direct references to empirical decision-making or the specific metrics outlined in the Evidence-Based Management category.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1249,15 +1255,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:04:04",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-21T19:54:41",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 43.0,
-    "reasoning": "The content discusses the transition from a DevOps practitioner to a consultant, which is relevant to the DevOps category. However, it primarily focuses on personal experiences and anecdotes rather than the principles, practices, or tools of DevOps. While there are mentions of DevOps roles and the importance of expertise in the field, the discussion lacks depth in terms of specific DevOps practices, automation, or cultural shifts. The content is more narrative and less technical, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the transition from a DevOps practitioner to a consultant, which is relevant to the DevOps category. However, it primarily focuses on personal experiences and insights rather than the core principles and practices of DevOps. While there are mentions of DevOps and the importance of expertise in the field, the discussion lacks depth in exploring the cultural shifts, automation, and collaboration aspects central to DevOps philosophy. Therefore, while it aligns with the category, it does so in a more peripheral manner.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1445,25 +1451,16 @@
     "reasoning": "Content primarily discusses personal experiences and insights related to transitioning from a DevOps practitioner to a consultant, without a clear focus on BetaCodex principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:29:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and insights related to transitioning from a DevOps practitioner to a consultant, without focusing on the principles or components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T00:23:16",
+    "calculated_at": "2025-03-21T19:54:57",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content briefly touches on Agile principles and offers tips for aspiring Agile consultants, but it primarily focuses on personal experiences and insights related to transitioning from a DevOps practitioner to a consultant. While there are mentions of Agile, they are not the primary focus, and the discussion lacks depth in terms of the Agile Product Operating Model's core themes.",
+    "reasoning": "The content briefly touches on Agile principles and the transition to consulting but lacks a focused discussion on the Agile Product Operating Model. While it mentions Agile and provides some insights into the journey of a DevOps consultant, it does not delve into the core themes of APOM, such as product management principles or continuous delivery. The references to Agile are secondary and do not constitute a primary focus on the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1515,6 +1512,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the transition from a DevOps practitioner to a consultant, focusing on personal experiences and insights rather than the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy. The discussion lacks depth in relation to the principles, techniques, or tools associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:54:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses personal growth and insights in the context of transitioning from a DevOps practitioner to a consultant, which touches on themes of professional development and mastery. However, it lacks a direct focus on Continuous Improvement principles, such as empirical evidence, data-driven decision-making, or specific strategies for fostering a culture of experimentation. While there are elements of learning and sharing insights, the overall discussion does not align closely with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:54:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the personal journey of transitioning from a DevOps practitioner to a consultant, with little direct mention of Common Goals or their significance in Agile and DevOps. While it touches on themes of expertise and influence, it lacks a clear connection to shared objectives or alignment within teams, which are central to the concept of Common Goals. The discussion is more anecdotal and motivational rather than analytical or strategic, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:54:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the transition from a DevOps practitioner to a consultant, highlighting the importance of competence and mastery in this journey. It mentions the recognition of expertise and the nurturing of talent, which aligns well with the core themes of competence. However, while it touches on these aspects, the discussion is more anecdotal and lacks a deeper exploration of strategies for fostering a culture of competence or methods for inspecting and adapting competence over time.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:54:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the personal journey of transitioning from a DevOps practitioner to a consultant, with no direct mention of the One Engineering System (1ES) framework or its principles. While it touches on themes related to Agile and DevOps, it does not discuss integration, standardisation, or the specific components of 1ES. The discussion lacks depth regarding the core topics outlined for the category, leading to a very low confidence score.",
     "level": "Ignored"
   }
 }

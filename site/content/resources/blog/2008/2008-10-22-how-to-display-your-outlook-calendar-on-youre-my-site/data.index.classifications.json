@@ -73,11 +73,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:36:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:39:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses configuring a web part for Outlook calendar on a SharePoint site, which is unrelated to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on configuring a web part in SharePoint to display an Outlook calendar, which is unrelated to DevOps principles or practices. There are no direct mentions of DevOps, and the discussion does not align with any core themes of the DevOps philosophy, such as collaboration, automation, or continuous improvement.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -109,11 +112,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:36:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:40:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on configuring a web part in SharePoint and does not discuss Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on configuring a web part in SharePoint to display an Outlook calendar, with no mention or relevance to the Agile Product Operating Model or its principles. It does not discuss any agile methodologies, product management practices, or related topics, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -166,11 +172,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:36:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:40:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses how to configure a web part in Outlook and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a technical guide for displaying an Outlook calendar on a SharePoint site, with no direct mentions or discussions related to Evidence-Based Management principles or metrics. It lacks any alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and provides minimal depth on any relevant topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -236,7 +245,7 @@
     "reasoning": "Content primarily discusses configuring a web part for displaying an Outlook calendar, which is unrelated to metrics or learning.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:36:29",
     "ai_confidence": 0,
@@ -880,11 +889,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:25:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:40:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses how to display an Outlook calendar in a SharePoint environment and does not reference Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on configuring a web part in SharePoint to display an Outlook calendar, which is unrelated to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion does not align with any of the key topics outlined for this category.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1422,6 +1434,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content focuses on configuring a web part for displaying an Outlook calendar on a SharePoint site, which is unrelated to the Shift-Left Strategy in software development. There are no mentions of testing, security, or compliance processes, nor any discussion of integrating these elements earlier in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:39:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a technical guide for displaying an Outlook calendar on a SharePoint site, with no discussion of Continuous Improvement principles, methodologies, or practices. It lacks any mention of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning, which are essential for the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:39:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a technical guide for displaying an Outlook calendar on a SharePoint site, which does not relate to the principles of Common Goals in Agile or DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth in these areas.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:39:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical guide for displaying an Outlook calendar on a SharePoint site. It does not discuss competence, continuous learning, or skill development, which are central to the category. There are no direct mentions of competence or related themes, and the depth of discussion is limited to procedural instructions without any connection to professional development or quality delivery.",
     "level": "Ignored"
   }
 }

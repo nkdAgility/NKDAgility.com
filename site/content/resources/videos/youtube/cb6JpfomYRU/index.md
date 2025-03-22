@@ -26,6 +26,7 @@ preview: https://i.ytimg.com/vi/cb6JpfomYRU/maxresdefault.jpg
 duration: 353
 isShort: false
 tags:
+- Competence
 - People and Process
 - Scrum Master
 - Agile Project Management
@@ -35,7 +36,6 @@ tags:
 - Team Collaboration
 - Personal
 - Organisational Agility
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

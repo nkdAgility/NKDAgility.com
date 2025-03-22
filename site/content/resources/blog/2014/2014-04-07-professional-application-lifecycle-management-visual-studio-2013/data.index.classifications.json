@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:01:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:22:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the publication of a book on Application Lifecycle Management with Visual Studio 2013, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Application Lifecycle Management (ALM) with Visual Studio 2013, discussing features and updates without any explicit reference to Evidence-Based Management principles or metrics. While it touches on aspects of software development methodologies, it does not engage with the core themes of EBM such as empirical decision-making or current value metrics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T04:32:15",
+    "calculated_at": "2025-03-22T07:22:31",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
+    "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses Application Lifecycle Management (ALM) and mentions tools and methodologies that could relate to DevOps practices. However, it primarily focuses on the book's production and features of Visual Studio 2013 rather than the core principles of DevOps, such as CI/CD, automation, or cultural shifts. While there are references to collaboration and software deployment, they are not explored in depth or as a primary focus, leading to a low confidence score in the DevOps category.",
+    "reasoning": "The content primarily focuses on Application Lifecycle Management (ALM) with Visual Studio 2013, which is related to software development practices but does not explicitly discuss DevOps principles or practices. While it mentions collaboration and streamlining processes, it lacks a direct focus on the core themes of DevOps such as automation, shared accountability, or cultural shifts. The discussion is more centred on specific tools and methodologies rather than the overarching philosophy of DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,7 +332,7 @@
     "reasoning": "Content primarily discusses the publication of a book on Application Lifecycle Management and does not focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T11:02:14",
     "ai_confidence": 0,
@@ -340,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T11:02:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:22:43",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the publication and features of a book on Application Lifecycle Management with Visual Studio, with only brief mentions of Agile methodologies without a focus on the Agile Product Operating Model.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on Application Lifecycle Management (ALM) with Visual Studio 2013, discussing features and updates rather than the Agile Product Operating Model. While there are brief mentions of agility and Scrum, these are not the main focus and do not delve into the principles or practices of the Agile Product Operating Model. The discussion lacks depth in relation to the core themes of APOM, such as product-oriented mindsets or continuous delivery.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -424,11 +430,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T11:12:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:22:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on Application Lifecycle Management (ALM) and Visual Studio features rather than Continuous Delivery principles and practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) with Visual Studio 2013, which is related to software development practices but does not specifically focus on Continuous Delivery principles. While it mentions aspects of software design and deployment, it lacks a direct discussion on Continuous Delivery concepts such as automation, rapid feedback, or incremental improvements. The content is more about the features of ALM tools rather than the Continuous Delivery methodology itself.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1494,6 +1503,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the publication of a book about Application Lifecycle Management (ALM) with Visual Studio 2013. While it mentions software development processes and tools, it does not explicitly discuss the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth regarding early integration of testing, security, or compliance, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:22:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a book about Application Lifecycle Management with Visual Studio 2013, discussing its features and updates. While it touches on aspects of software development and methodologies, it does not explicitly address Continuous Improvement principles or practices. The mention of Agile methodologies is too brief and lacks depth, making it secondary to the main topic of the book's release.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:22:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the promotion of a book about Application Lifecycle Management with Visual Studio 2013, with little to no direct discussion of Common Goals within Agile or DevOps frameworks. While it mentions Agile methodologies and tools, it does not delve into the significance of aligning strategy with execution or the importance of shared objectives, which are central to the concept of Common Goals. The discussion lacks depth and does not provide a comprehensive exploration of how these goals impact team collaboration or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:22:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the effort and expertise involved in producing a comprehensive guide on Application Lifecycle Management, which touches on the importance of competence in delivering quality outcomes. However, it primarily focuses on the book's features and updates rather than a deep exploration of competence as a principle in Agile or DevOps methodologies. The discussion lacks explicit references to continuous learning or strategies for fostering a culture of competence, leading to a lower confidence score.",
     "level": "Ignored"
   }
 }

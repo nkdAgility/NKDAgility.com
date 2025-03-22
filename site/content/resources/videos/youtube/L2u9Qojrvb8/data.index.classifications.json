@@ -625,11 +625,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T04:55:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps philosophies and unique organizational solutions, with no clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T17:19:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses DevOps practices and the importance of tailoring solutions to unique organizational needs, which indirectly relates to Continuous Delivery. However, it lacks explicit mentions of Continuous Delivery principles, automation in testing and deployment, or specific strategies for delivering incremental improvements. The focus is more on the broader DevOps philosophy rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -796,11 +799,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T04:56:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:19:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps philosophies and unique organizational solutions, without a focus on evidence-based management principles or empirical data.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses DevOps practices and the importance of tailoring solutions to unique organizational contexts. While it touches on themes of continuous improvement and learning from external expertise, it lacks a direct focus on Evidence-Based Management principles, such as empirical decision-making or specific metrics related to current value, time to market, or unrealised value.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1424,15 +1430,6 @@
     "reasoning": "Content primarily discusses DevOps and its unique implementations across various organizations, without a clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:18:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps philosophies and unique organizational solutions, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:15:00",
@@ -1506,6 +1503,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the unique challenges and solutions in implementing DevOps practices across various organizations. While it touches on themes of adaptation and continuous improvement, it does not explicitly mention or focus on the Shift-Left Strategy, which is about integrating testing, security, and compliance earlier in the software development lifecycle. The discussion lacks depth in addressing the core principles and techniques of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:19:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses continuous improvement in the context of DevOps, highlighting the importance of adapting strategies to unique organizational needs and fostering a culture of ongoing learning and growth. It provides detailed insights into how organizations can refine their processes and engage with external expertise to drive innovation and improvement, aligning well with the principles of Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:19:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the unique challenges organizations face in implementing DevOps and the importance of tailoring solutions to specific contexts. While it touches on the idea of shared objectives and continuous improvement, it primarily focuses on individual organisational experiences and personal anecdotes rather than a clear alignment with the principles of Common Goals in Agile and DevOps. The discussion lacks depth in exploring how these unique approaches connect to overarching strategic objectives or frameworks like OKRs.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:19:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of continuous improvement and adaptation in DevOps, which aligns with the core themes of competence. It mentions the need for tailored strategies and the value of external expertise, indicating a focus on skill development and professional growth. However, while competence is a significant theme, the discussion is somewhat broad and lacks detailed exploration of specific strategies for fostering a culture of competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:19:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses DevOps practices and the unique challenges faced by different organizations, without explicitly addressing the principles or components of the One Engineering System. While it touches on themes of customisation and continuous improvement, it lacks a direct focus on the integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

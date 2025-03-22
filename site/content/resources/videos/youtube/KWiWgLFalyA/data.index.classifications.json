@@ -170,15 +170,6 @@
     "reasoning": "Content primarily focuses on scaling product development and the challenges associated with it, without any personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-20T18:25:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses scaling product development and team alignment rather than the principles or components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Lean": {
     "category": "Lean",
     "calculated_at": "2025-02-20T18:25:53",
@@ -787,11 +778,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-20T18:25:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:42:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses scaling product development and the need for system optimization and clarity, but does not focus on evidence-based practices or metrics central to Evidence-Based Management.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses scaling product development and the importance of system alignment, but it does not explicitly mention Evidence-Based Management or its key topics. While there are elements of empirical decision-making and managing for outcomes, the focus is primarily on practical challenges and solutions rather than on data-informed decision-making or metrics that assess value delivery.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -1198,11 +1192,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-20T18:25:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:42:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses scaling product development teams and system optimization rather than focusing on Continuous Delivery principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses scaling product development and the challenges associated with it, such as alignment and technical debt, but it does not explicitly mention Continuous Delivery or its principles. While there are elements related to improving processes and feedback loops, the primary focus is on scaling rather than on Continuous Delivery practices. Therefore, the confidence score reflects a low direct mention and depth of discussion on Continuous Delivery, with some conceptual alignment to its themes.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1425,6 +1422,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and the challenges associated with it, such as alignment and technical debt, but does not explicitly mention the Shift-Left Strategy or its principles. While there are references to improving feedback loops and reducing friction, these concepts are not directly tied to integrating testing, security, or compliance earlier in the development process, which is the core of the Shift-Left Strategy. Therefore, the content does not align well with the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:42:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the challenges and strategies for scaling product development, which aligns with the principles of Continuous Improvement. It highlights the importance of addressing underlying system issues, managing technical debt, and fostering quick feedback loops, all of which are key aspects of Continuous Improvement. However, while these topics are relevant, the primary focus is on scaling rather than a dedicated exploration of Continuous Improvement practices, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:42:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of alignment among teams and clarity on priorities, which are key aspects of Common Goals. However, it primarily focuses on the challenges of scaling product development rather than explicitly addressing the foundational principles of Common Goals in Agile and DevOps. While it touches on alignment, the depth of discussion on strategic goals and frameworks like OKRs is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:42:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the challenges of scaling product development and the importance of alignment and system management, which indirectly relates to competence. However, it lacks direct mentions of continuous learning or skill development, and the depth of discussion on competence is limited, focusing more on processes than on individual or team capabilities.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:42:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses scaling product development and the importance of system alignment, which loosely relates to the principles of the One Engineering System. However, it does not explicitly mention 1ES or its components, nor does it delve deeply into the integration of tools and processes across teams, which are key aspects of the category. The focus is more on general scaling challenges rather than the specific framework of 1ES.",
     "level": "Ignored"
   }
 }

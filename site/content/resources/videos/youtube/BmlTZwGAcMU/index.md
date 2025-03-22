@@ -33,7 +33,9 @@ sitemap:
 tags:
 - Agile Project Management
 - Software Development
+- Competence
 - Pragmatic Thinking
+- Continuous Improvement
 - Coaching
 resourceTypes:
 - video

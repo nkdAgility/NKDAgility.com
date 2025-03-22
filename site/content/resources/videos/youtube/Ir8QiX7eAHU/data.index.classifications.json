@@ -640,11 +640,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T06:24:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:40:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Kanban strategy and WIP limits, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Kanban and WIP limits, which are related to workflow management rather than Continuous Delivery. While it touches on aspects of delivery efficiency, it does not explicitly discuss Continuous Delivery principles, automation, or rapid feedback mechanisms that are central to the category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -817,11 +820,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T06:24:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:40:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Kanban strategy and WIP limits, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Kanban strategies and WIP limits, with minimal direct mention of Evidence-Based Management principles. While it discusses the importance of setting limits and optimising workflow, it lacks a strong emphasis on empirical decision-making or data-informed practices central to EBM. The discussion is more about practical Kanban implementation rather than evidence-based metrics or outcomes.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1258,11 +1264,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T06:21:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:40:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban strategy and WIP limits, which are not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban strategies and WIP limits, which are methodologies related to workflow management rather than the core principles of DevOps. While there are mentions of team collaboration and process optimisation, these concepts are not explicitly tied to the DevOps philosophy or its key topics, such as automation, shared accountability, or continuous improvement. Therefore, the content does not align well with the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1436,22 +1445,16 @@
     "reasoning": "Content primarily discusses Kanban strategy and WIP limits, with no clear connection to platform engineering or internal developer platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:13:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Kanban strategy and WIP limits, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:13:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban strategy and WIP limits, without a clear focus on the Agile Product Operating Model or its principles.",
+    "calculated_at": "2025-03-21T17:40:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Kanban strategies and WIP limits, which are specific agile practices but do not directly address the Agile Product Operating Model. While it touches on agile principles, it lacks a clear connection to product management or the broader themes of APOM, such as continuous delivery or customer-centric value.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1515,6 +1518,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban and WIP limits, with no direct mention of the Shift-Left Strategy. While it discusses workflow optimisation, it does not address integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:40:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on WIP limits within a Kanban strategy, which is a specific technique rather than a broader discussion on Continuous Improvement. While it touches on experimentation and adjustments based on feedback, it lacks a comprehensive exploration of Continuous Improvement principles, such as empirical evidence or team effectiveness. The discussion is more about optimising workflow rather than fostering a culture of continuous improvement.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:40:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on WIP limits within a Kanban strategy, which is a specific project management technique rather than discussing Common Goals in Agile or DevOps. While it touches on team collaboration and workflow optimisation, it does not explicitly address shared objectives or strategic alignment, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:40:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on WIP limits in Kanban, with only brief mentions of team dynamics and workflow optimisation. While it touches on the importance of setting limits and experimenting for better outcomes, it lacks a strong emphasis on continuous learning, skill development, or the broader implications of competence in Agile methodologies. The discussion is more about practical application than fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:40:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Kanban strategies and WIP limits, which are not directly related to the One Engineering System framework. While it touches on workflow optimisation, it does not discuss the principles, integration, or implementation of 1ES, nor does it provide insights into its impact on software quality or delivery timelines.",
     "level": "Ignored"
   }
 }

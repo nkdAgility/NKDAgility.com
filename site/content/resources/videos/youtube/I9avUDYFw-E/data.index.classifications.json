@@ -631,11 +631,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T06:32:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of competence and culture in organizations, with no clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T17:01:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of competence and continuous learning within organisations, which aligns with the cultural aspects of Continuous Delivery. However, it does not explicitly mention Continuous Delivery or its principles, nor does it delve into automation, testing, or deployment practices that are central to the category. The focus is more on general organisational success rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -793,11 +796,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T06:33:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:01:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of competence and creating a positive work environment, without a clear focus on evidence-based management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of competence and continuous learning in organisations, which aligns with the themes of innovation and value creation. However, it lacks direct references to evidence-based management practices, empirical decision-making, or specific metrics that would strengthen its connection to the category.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1418,15 +1424,6 @@
     "reasoning": "The content discusses the importance of competence and continuous learning in organisations, which aligns with some principles of Beta Codex, such as fostering adaptive cultures and human-centric approaches. However, it does not explicitly mention Beta Codex or decentralisation, and the focus remains primarily on competence rather than the broader themes of organisational design and agility central to Beta Codex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:04:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of competence and personal growth within organisations, without reference to the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:42:04",
@@ -1503,6 +1500,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the importance of competence and creating a culture of learning within organizations, which does not directly address the Shift-Left Strategy. While there are elements of continuous learning and improvement that could tangentially relate to early integration of processes, the focus is not on testing, security, or compliance in the software development lifecycle. Therefore, it lacks the necessary depth and alignment with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:00:50",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content discusses the importance of competence and continuous learning, which aligns with the principles of Continuous Improvement. It highlights fostering a culture of experimentation and growth, and the need for ongoing investment in skills. However, while it touches on these themes, the primary focus is on competence rather than a comprehensive exploration of Continuous Improvement practices, leading to a high but not perfect confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:00:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of competence and creating a culture of learning, which indirectly relates to the concept of Common Goals. However, it lacks direct mentions of shared objectives or alignment within Agile and DevOps frameworks. The focus is more on individual and team competence rather than on collective goals that guide decision-making and connect contributions to an organisational mission.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:00:55",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content extensively discusses the importance of competence in organisations, highlighting its role in innovation, productivity, and customer satisfaction. It provides detailed strategies for fostering a culture of competence, including continuous learning, support for experimentation, and prioritising well-being. The depth of discussion is significant, with actionable insights and a clear connection to the principles of professionalism and quality delivery, aligning closely with the core themes of the category.",
+    "level": "Primary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:00:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of competence and employee well-being in organisations, which does not directly relate to the One Engineering System framework. While it touches on themes of continuous learning and team dynamics, it lacks explicit references to 1ES principles, integration of tools, or standardisation of engineering practices.",
     "level": "Ignored"
   }
 }

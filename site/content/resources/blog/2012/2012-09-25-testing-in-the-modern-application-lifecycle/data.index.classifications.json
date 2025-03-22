@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T16:56:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:05:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses manual testing processes and tools, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses manual testing in agile development and the integration of tools for quality assurance, which does not directly address Evidence-Based Management principles. While there are mentions of data collection and the importance of tracking testing progress, the focus is more on testing processes rather than on empirical decision-making or metrics that assess value delivery. The discussion lacks depth in terms of EBM concepts such as current value, unrealised value, or outcome management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -136,15 +139,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:52:47",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-22T08:05:01",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the integration of testing within the software development lifecycle, emphasising collaboration between development and operations teams, which aligns with DevOps principles. However, it primarily focuses on testing methodologies and tools rather than broader DevOps practices like CI/CD or cultural shifts. While it mentions the need for collaboration and automation, it lacks depth in discussing DevOps metrics or case studies, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the integration of testing within agile development, emphasising collaboration among development, operations, and testing teams, which aligns with DevOps principles. It highlights the need for shared accountability and the elimination of silos, key aspects of the DevOps philosophy. However, the primary focus is on manual testing tools and techniques rather than a broader discussion of DevOps practices, which limits its depth in the category.",
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -350,7 +353,7 @@
     "reasoning": "Content primarily discusses manual testing processes and tools within the context of software development, without a clear focus on Systems Thinking principles or holistic analysis of interconnected components.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T09:09:02",
     "ai_confidence": 50,
@@ -361,12 +364,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T08:05:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the integration of testing within Agile development teams and the need for collaboration across departments, which aligns with Agile principles. However, the primary focus is on testing practices rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses agile development and the integration of testing within development teams, which aligns with some principles of the Agile Product Operating Model. However, it primarily focuses on manual testing processes and tools rather than the broader framework of APOM. The mention of agile is brief and does not delve into the core themes of APOM, such as product management principles or continuous delivery. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -442,11 +448,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T08:05:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of integrating testing within the development process and the need for automation in testing, which are relevant to Continuous Delivery principles. However, the primary focus is on manual testing and specific tools rather than Continuous Delivery as a central theme.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses aspects of testing within the context of agile development and the modern application lifecycle, which are relevant to Continuous Delivery. However, it primarily focuses on manual testing practices and tools rather than the broader principles and practices of Continuous Delivery itself. While it touches on the need for integration and collaboration among teams, it lacks a comprehensive exploration of Continuous Delivery principles, such as automation in deployment or rapid feedback loops. Therefore, while there is some alignment, the depth and primary focus on testing rather than Continuous Delivery practices lead to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Strategic Goals": {
@@ -1534,5 +1543,41 @@
     "final_score": 65.0,
     "reasoning": "The content discusses the importance of integrating testing earlier in the software development lifecycle, which aligns with the Shift-Left Strategy. It highlights the need for collaboration among teams and the shift from traditional testing methods to more integrated approaches. However, while it touches on key aspects of the Shift-Left Strategy, such as building quality in and the need for tight feedback loops, it does not delve deeply into specific techniques or case studies that would strengthen its alignment with the category. The focus is more on testing tools and processes rather than a comprehensive exploration of the Shift-Left Strategy itself.",
     "level": "Secondary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:05:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the integration of testing within agile development, emphasising the need for iterative processes and continuous feedback loops. It highlights the importance of adapting testing practices to improve quality and efficiency, which aligns with Continuous Improvement principles. However, while it touches on these themes, the primary focus is on testing tools and methodologies rather than a broader discussion on Continuous Improvement as a strategic initiative.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:05:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the integration of testing within Agile development and the need for collaboration among teams, which touches on the concept of shared objectives. However, it primarily focuses on testing techniques and tools rather than explicitly addressing Common Goals as a primary focus. The discussion lacks depth in connecting these practices to overarching strategic objectives or frameworks like OKRs, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:05:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the complexities of manual testing in agile development and the need for continuous improvement in testing processes. While it touches on the importance of integrating testing with development teams and the necessity of adapting processes to achieve agility, it does not explicitly focus on competence as a primary theme. The discussion is more about tools and processes rather than the continuous development of skills and capabilities, which is central to the competence category.",
+    "level": "Tertiary"
   }
 }

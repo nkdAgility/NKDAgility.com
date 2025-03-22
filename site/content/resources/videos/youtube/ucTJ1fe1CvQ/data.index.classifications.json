@@ -670,11 +670,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T00:43:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product development, assumptions, and the feature factory problem, with no clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T17:23:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses delivery in the context of product development but primarily focuses on addressing assumptions and user needs rather than the principles and practices of Continuous Delivery. While it mentions delivery as part of the product development cycle, it does not delve into automation, rapid feedback, or the cultural aspects of Continuous Delivery, which are key themes of the category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -841,14 +844,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T18:33:25",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T17:24:01",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the importance of challenging assumptions and validating them through empirical evidence, which aligns with the principles of Evidence-Based Management. It highlights the need for data-driven decision-making and continuous improvement, particularly in the context of product development. However, while it touches on relevant themes, the primary focus is on the PPDV course and its approach rather than a comprehensive exploration of EBM principles. The depth of discussion on EBM concepts is limited, leading to a moderate confidence score.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of addressing assumptions and evidence-based decision-making in product development, which aligns with the core themes of Evidence-Based Management. However, it primarily focuses on the PPDV course and its approach rather than providing a comprehensive discussion on EBM principles. While it mentions the need for empirical evidence and validation, the depth of discussion on current value, time to market, and unrealised value is limited.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1484,15 +1487,6 @@
     "reasoning": "Content primarily discusses product development and the importance of addressing assumptions, rather than focusing on decentralised, adaptive, and human-centric organisational design principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:28:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses assumptions in product development and the PPDV course, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:16:54",
@@ -1569,6 +1563,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of challenging assumptions and validating user needs in product development, which aligns with the proactive nature of the Shift-Left Strategy. However, it primarily focuses on the concept of assumptions rather than explicitly addressing testing, security, or compliance integration early in the development process. The discussion lacks depth in terms of specific Shift-Left practices or methodologies, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:23:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of addressing assumptions in product development, which aligns with the principles of Continuous Improvement. It highlights the need for a culture of experimentation and learning, particularly through the course's focus on Discovery, Delivery, and Validation. However, while it touches on these themes, the primary focus is on product development rather than a comprehensive exploration of Continuous Improvement practices, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:23:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of addressing assumptions in product development, which indirectly relates to aligning team efforts with user needs. However, it primarily focuses on the challenges of unconscious assumptions and the 'Feature Factory' problem rather than explicitly discussing common goals within Agile or DevOps frameworks. While there are elements of alignment and collaboration mentioned, they are not the primary focus, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:23:53",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of addressing assumptions and continuous learning in product development, which aligns with the principles of competence. It mentions the need for a learning mindset and the role of experimentation, indicating a focus on skill development. However, while competence is a significant theme, the primary focus is on assumptions and product delivery rather than a deep exploration of competence itself.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:23:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product development and the importance of addressing assumptions, with no direct mention of the One Engineering System (1ES) framework or its principles. While it discusses methodologies related to product development, it does not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The depth of discussion is also minimal regarding 1ES, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

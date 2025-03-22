@@ -24,6 +24,9 @@ headline:
   subtitle: Enhance software reliability and speed up delivery by automating tests to identify issues early and minimise manual intervention.
   content: Enhancing software quality through systematic testing practices enables early detection of defects, reduces reliance on manual processes, and streamlines the delivery pipeline. Posts should explore test automation frameworks, integration strategies, continuous testing methodologies, and the impact of testing on overall project efficiency and team dynamics.
   updated: 2025-02-13T12:06:00Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

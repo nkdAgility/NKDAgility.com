@@ -1,14 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T03:09:21",
+    "calculated_at": "2025-03-21T20:57:36",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
+    "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 50,
     "final_score": 34.0,
-    "reasoning": "The content primarily discusses Agile methodologies, particularly Scrum, and the use of story points, team sizes, and emergent architecture. While there are brief mentions of DevOps, such as the reference to 'Naked agility is available for DevOps and agile training and consulting,' the focus remains on Agile practices rather than the integration of development and operations, which is central to DevOps. The discussion lacks depth in DevOps principles, practices, and tools, leading to a low confidence score in alignment with the DevOps category.",
+    "reasoning": "The content primarily focuses on agile methodologies, specifically discussing story points, team sizes, and emergent architecture. While there are tangential references to team dynamics and performance, which could relate to DevOps principles, the core discussion does not align with the fundamental aspects of DevOps as a philosophy. The mention of DevOps in the conclusion is minimal and does not substantively contribute to the overall content, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -244,11 +244,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T12:23:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile and Scrum topics, which are not focused on Continuous Delivery principles and practices.",
+    "calculated_at": "2025-03-21T20:58:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile practices, focusing on story points, team sizes, and emergent architecture, which are not directly related to Continuous Delivery. While there are mentions of improving delivery capabilities and quality, the core themes of Continuous Delivery, such as automation, rapid feedback, and incremental improvements, are not adequately addressed. The discussion lacks depth in Continuous Delivery principles, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -378,15 +381,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily invites questions about various topics including DevOps and Agile, with a focus on Scrum, rather than specifically discussing Value Stream Management.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T12:23:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and DevOps without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1150,11 +1144,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T12:23:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a Q&A format without a clear focus on the Agile Product Operating Model or its principles.",
+    "calculated_at": "2025-03-21T20:58:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses agile practices, particularly story points, team sizes, and emergent architecture, but it does not explicitly focus on the Agile Product Operating Model. While it touches on agile methodologies, it lacks a direct connection to product management principles and the core themes of APOM. The discussion is more about improving agile practices rather than integrating them into a product-oriented framework.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1357,11 +1354,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T12:23:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:58:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on an open Q&A session with no specific emphasis on Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses agile practices, focusing on story points, team sizes, and emergent architecture, which are not directly related to Evidence-Based Management. While there are mentions of improving outcomes and making informed decisions, the discussion lacks a strong emphasis on empirical evidence or metrics that are central to EBM. The content does not provide detailed insights into current value, time to market, or other key EBM topics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1431,6 +1431,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses agile practices, focusing on story points, team sizes, and emergent architecture, without explicitly addressing the Shift-Left Strategy. While there are mentions of quality and efficiency, they do not connect to integrating testing, security, or compliance earlier in the development process, which is central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:57:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the evolution of agile practices, particularly focusing on story points, team sizes, and emergent architecture. While it does not explicitly mention 'Continuous Improvement', it aligns with the core themes of the category by advocating for a shift in practices to enhance team performance and adaptability. The depth of discussion on rethinking established practices indicates a commitment to incremental improvement, although it lacks a structured approach to Continuous Improvement methodologies. Overall, the content reflects a proactive mindset towards enhancing processes, which is a key aspect of Continuous Improvement.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:57:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile practices, focusing on story points, team sizes, and emergent architecture, but it does not explicitly address Common Goals or their significance in aligning strategy with execution. While there are mentions of improving team performance and adapting practices, these do not directly connect to the core themes of Common Goals, such as shared objectives or frameworks like OKRs. The discussion lacks depth in exploring how these practices contribute to organisational alignment or accountability.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:57:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses agile practices and the importance of adapting methodologies, which indirectly relates to competence. However, it primarily focuses on specific practices like story points and team sizes rather than on the broader themes of continuous learning, skill development, or fostering a culture of competence. The depth of discussion on competence is minimal, as it does not explore strategies for skill enhancement or the impact of competence on team dynamics.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:57:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on agile methodologies, specifically discussing story points, team sizes, and emergent architecture. While these topics are relevant to software development, they do not directly address the principles or components of the One Engineering System (1ES). The discussion lacks explicit mentions of 1ES, its integration of tools and processes, or its impact on software quality and delivery timelines. Therefore, the content does not align well with the category.",
     "level": "Ignored"
   }
 }

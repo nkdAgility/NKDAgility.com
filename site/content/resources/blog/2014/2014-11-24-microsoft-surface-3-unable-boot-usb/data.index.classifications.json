@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T23:48:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:33:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Microsoft Surface devices and does not address Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses troubleshooting a technical issue with a Microsoft Surface device and does not mention or align with the principles of Evidence-Based Management. It lacks any focus on data-informed decision-making or empirical evidence related to management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T23:48:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:32:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with troubleshooting a Microsoft Surface device and does not relate to DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses troubleshooting a specific hardware issue related to the Microsoft Surface 3 and does not engage with any DevOps principles, practices, or cultural shifts. There are no direct mentions of DevOps concepts such as collaboration, automation, or shared accountability, and the focus is on personal experiences with device recovery rather than any systematic approach to software delivery or operational efficiency.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -320,22 +326,16 @@
     "reasoning": "Content primarily discusses troubleshooting a technical issue with a Microsoft Surface device, focusing on personal experiences and specific solutions rather than exploring Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T23:49:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses personal experiences and troubleshooting with Microsoft Surface devices, which is unrelated to the principles or implementation of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T23:49:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:33:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Microsoft Surface devices and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses technical issues related to booting a Microsoft Surface 3 from USB, with no direct mention of Agile methodologies, product management principles, or the Agile Product Operating Model. The focus is on troubleshooting a specific hardware problem rather than any concepts related to agile practices or frameworks.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -406,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T23:49:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:33:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to booting a Microsoft Surface device and troubleshooting Windows installation problems, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses troubleshooting issues related to booting a Microsoft Surface 3 from USB, which is unrelated to Continuous Delivery. There are no direct mentions of Continuous Delivery principles, practices, or tools, and the discussion lacks depth in any relevant areas. The focus is on a specific technical problem rather than the broader themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1443,6 +1446,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses personal experiences with troubleshooting a Microsoft Surface device and does not address the Shift-Left Strategy in software development. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it provide any techniques, case studies, or tools related to the Shift-Left approach. The focus is on hardware issues and user experiences rather than software development practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:32:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue with the Microsoft Surface 3 and does not discuss Continuous Improvement principles. While there is a mention of learning from the experience, it lacks a structured approach to Continuous Improvement, empirical evidence, or strategies for enhancing processes or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:33:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience with troubleshooting a technical issue related to a Microsoft Surface device. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment within teams. The narrative is anecdotal and lacks any connection to the core themes outlined in the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:33:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a technical issue with the Microsoft Surface 3 and does not discuss competence in the context of Agile, Scrum, DevOps, or Lean methodologies. While there are elements of problem-solving and learning from experience, these do not align with the core themes of competence as defined in the classification criteria.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:33:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 20,
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses a personal experience with troubleshooting a Microsoft Surface 3 device, focusing on booting issues and recovery methods. It does not mention or align with the principles of the One Engineering System, nor does it provide any insights into standardising or integrating software development practices across teams.",
     "level": "Ignored"
   }
 }

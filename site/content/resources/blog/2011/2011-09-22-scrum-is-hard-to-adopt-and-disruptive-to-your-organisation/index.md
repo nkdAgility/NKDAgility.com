@@ -30,10 +30,10 @@ tags:
 - Agile Transformation
 - Pragmatic Thinking
 - Agile Frameworks
+- Competence
 - Product Delivery
 - Agile Product Management
 - Scrum Product Development
-- Change Management
 categories:
 - Scrum
 - Product Management

@@ -31,6 +31,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Competence
 - Scrum Master
 - Professional Scrum
 - Agile Project Management
@@ -40,7 +41,6 @@ tags:
 - Pragmatic Thinking
 - News and Reviews
 - Agile Frameworks
-- Agile Transformation
 resourceTypes:
 - video
 categories:

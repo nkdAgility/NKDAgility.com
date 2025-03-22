@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T22:13:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:38:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum methodology and its roles, processes, and tips for agile practices, without any direct discussion on Evidence-Based Management principles or metrics. While it mentions enhancing team performance, it does not provide empirical evidence or data-informed decision-making insights that are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T22:14:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:37:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum, an agile methodology, rather than DevOps principles. While there may be some indirect relevance to DevOps through discussions of team performance and collaboration, the core themes of DevOps, such as automation, shared accountability, and continuous improvement, are not addressed. The content lacks depth in discussing DevOps concepts, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,7 +335,7 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T22:14:24",
     "ai_confidence": 0,
@@ -340,11 +346,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T22:14:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:38:01",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum methodology and its roles, rather than focusing on the Agile Product Operating Model as a holistic framework for product-centric development.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on Scrum, which is an agile methodology, but does not discuss the Agile Product Operating Model (APOM) or its principles. While it mentions agile practices and Scrum roles, it lacks a direct connection to product management or the broader themes of APOM, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,11 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:42:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:38:07",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and methodologies, which are unrelated to Continuous Delivery.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on Scrum, an Agile methodology, without any direct mention or discussion of Continuous Delivery principles, practices, or tools. While it touches on Agile practices, it does not explore Continuous Delivery's core themes such as automation, rapid feedback, or software quality improvement.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1494,6 +1506,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum methodology and its roles, with no direct mention or discussion of the Shift-Left Strategy. While it touches on agile practices, it does not address integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:37:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on introducing Scrum, discussing its roles and processes, rather than Continuous Improvement. While it touches on enhancing agile practices and team performance, it lacks a direct emphasis on Continuous Improvement principles, empirical evidence, or detailed strategies for fostering a culture of experimentation and learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:37:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on introducing Scrum, discussing its roles and processes, but does not explicitly address the concept of Common Goals or their significance in Agile and DevOps. While it touches on enhancing team performance and agile practices, it lacks a direct connection to shared objectives or strategic alignment, which are central to the Common Goals category. The discussion is more about Scrum methodology rather than the alignment of strategy with execution.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:37:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on introducing Scrum and its roles, which are related to Agile practices. However, it lacks a direct discussion on competence as a foundational principle. While it mentions enhancing agile practices and boosting team performance, it does not delve into continuous learning, skill development, or the importance of competence in delivering quality outcomes. The depth of discussion is limited to an introduction rather than a thorough exploration of competence.",
     "level": "Ignored"
   }
 }

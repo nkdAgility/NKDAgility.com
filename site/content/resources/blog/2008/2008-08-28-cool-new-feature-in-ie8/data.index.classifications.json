@@ -73,11 +73,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T12:09:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:45:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a feature in Internet Explorer 8, which is unrelated to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on a feature of Internet Explorer 8, discussing its enhancements and efficiency improvements. There are no mentions of DevOps principles, practices, or cultural shifts, nor does it align with any core themes of DevOps. The discussion lacks depth and relevance to the category.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -109,11 +112,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T12:09:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:45:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a feature in Internet Explorer 8, with no relevance to Agile principles or product operating models.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a feature of Internet Explorer 8, discussing its enhancements without any reference to agile methodologies, product management principles, or the Agile Product Operating Model. There are no mentions of relevant topics such as product ethos, operational stability, or continuous improvement, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -163,11 +169,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T12:09:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:46:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a feature in Internet Explorer 8 and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a specific feature of Internet Explorer 8, discussing its enhancements and efficiency improvements without any reference to Evidence-Based Management principles or metrics. There are no mentions of data-informed decision-making, current value, or any other key topics related to EBM. The discussion is entirely centred on a product feature, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -233,7 +242,7 @@
     "reasoning": "Content primarily discusses a new feature in Internet Explorer 8, focusing on personal efficiency rather than metrics, data, or learning principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T12:09:29",
     "ai_confidence": 0,
@@ -877,11 +886,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:40:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:46:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a new feature in Internet Explorer 8 and does not discuss Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a specific feature of Internet Explorer 8, discussing its enhancements and user experience improvements. There is no mention of Continuous Delivery principles, practices, or related topics. The content does not align with the core themes of Continuous Delivery, nor does it provide any depth on the subject. Overall, it is unrelated to the category.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1413,6 +1425,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content focuses on a feature in Internet Explorer 8 and does not discuss any aspects of the Shift-Left Strategy, such as integrating testing or security early in the development process. There are no relevant mentions or alignment with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:45:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a new feature in IE8, discussing its efficiency improvements. However, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation. The mention of improved efficiency is too vague and does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:45:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a specific feature of Internet Explorer 8, discussing its enhancements and benefits for browsing efficiency. It does not mention or align with the principles of Common Goals in Agile or DevOps, nor does it provide any depth on shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:45:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a specific feature of Internet Explorer 8, discussing its enhancements and efficiency improvements. There is no mention of competence, continuous learning, or any related themes that align with the principles of professionalism and quality delivery. The discussion is entirely centred on a technical feature rather than on competence in Agile, Scrum, or DevOps contexts.",
     "level": "Ignored"
   }
 }

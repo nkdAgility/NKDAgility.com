@@ -637,11 +637,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T00:31:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses issues related to Scrum roles and the effectiveness of agile coaches, with no mention of Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T18:36:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses issues related to Agile coaching and the incompetence of Agile practitioners, without any direct reference to Continuous Delivery principles or practices. While it touches on Agile methodologies, it does not explore Continuous Delivery's core themes such as automation, incremental improvements, or rapid feedback. The focus is on the challenges within Agile coaching rather than on software delivery practices.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -814,11 +817,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T00:31:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the incompetence of agile coaches and scrum masters, focusing on personal experiences and opinions rather than empirical evidence or evidence-based management practices.",
+    "calculated_at": "2025-03-21T18:36:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the incompetence of Agile coaches and Scrum Masters, focusing on anecdotal evidence and personal reflections rather than empirical data or evidence-based practices. While it touches on Agile principles, it does not align with the core themes of Evidence-Based Management, such as metrics for current value or empirical decision-making.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1246,11 +1252,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T00:29:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on the challenges and failures of Scrum masters rather than DevOps principles or practices.",
+    "calculated_at": "2025-03-21T18:36:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 50,
+    "final_score": 16.0,
+    "reasoning": "The content primarily focuses on Agile coaching and the challenges associated with incompetent Agile coaches, with no substantial discussion on DevOps principles or practices. While it briefly mentions Agile and Scrum, it does not align with the core themes of DevOps, such as collaboration between development and operations, automation, or shared accountability. The depth of discussion on DevOps is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1426,11 +1435,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:09:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:36:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues with agile coaches and scrum masters, rather than focusing on the Agile Product Operating Model or its principles.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile coaching and the challenges posed by incompetent coaches, which touches on Agile principles but does not focus on the Agile Product Operating Model specifically. While it mentions Agile values and practices, it lacks a direct connection to product management or the core themes of the Agile Product Operating Model, such as continuous delivery or product-oriented mindsets.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1449,15 +1461,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:09:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses issues related to Scrum and Agile practices, rather than the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1500,6 +1503,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the incompetence of Agile coaches and Scrum Masters, focusing on issues within Agile practices rather than addressing the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy. The discussion lacks depth on the principles or benefits of Shift-Left practices, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:36:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of elevating Agile coaching and the need for continuous education and improvement among Agile practitioners. While it does touch on the concept of continuous improvement, it primarily focuses on the issues caused by incompetent coaches rather than providing a thorough exploration of Continuous Improvement principles. The discussion is relevant but not the primary focus, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:36:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the incompetence of Agile coaches and Scrum Masters, which deviates from the core concept of Common Goals. While it touches on Agile principles and the importance of effective coaching, it lacks a direct focus on shared objectives or alignment within teams. The discussion is more about identifying problems rather than exploring how to align strategies with execution in Agile and DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:36:38",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 30,
+    "final_score": 77.0,
+    "reasoning": "The content explicitly discusses the issue of incompetence among Agile coaches, highlighting the importance of competence in delivering effective Agile practices. It addresses the need for continuous education and practical experience, aligning well with the core themes of competence. The depth of discussion is substantial, providing examples and solutions to combat incompetence, which reinforces the focus on competence as a critical factor in Agile success.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:36:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses issues related to Agile coaching and Scrum practices, which are not directly aligned with the principles of the One Engineering System. While it touches on themes of competence and methodology, it does not focus on the integration or standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

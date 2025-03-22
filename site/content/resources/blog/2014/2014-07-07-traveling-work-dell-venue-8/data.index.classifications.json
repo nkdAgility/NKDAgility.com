@@ -28,11 +28,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T09:15:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:17:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with travel and technology, specifically the use of devices like the Dell Venue 8, without any focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences with the Dell Venue 8 and travel productivity, lacking any discussion on Evidence-Based Management principles or metrics. It does not address data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T09:15:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:17:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal travel experiences and the use of devices, with no focus on DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences with travel and technology, specifically the Dell Venue 8 tablet. It does not discuss any DevOps principles, practices, or cultural shifts. There are no direct mentions of DevOps, and the themes of collaboration, automation, or shared accountability are absent. The content is more aligned with personal productivity and technology usage rather than the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -311,7 +317,7 @@
     "reasoning": "Content primarily discusses personal experiences with travel and technology, specifically the use of devices like the Dell Venue 8, without any focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T09:16:08",
     "ai_confidence": 0,
@@ -322,11 +328,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T09:16:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:17:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with travel and technology, specifically focusing on the use of devices and software, without any reference to Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on personal experiences with travel and technology, specifically the Dell Venue 8 tablet. There are no direct mentions of the Agile Product Operating Model or its principles. The discussion does not align with the core themes of APOM, such as product management practices or agile methodologies. The depth of discussion is limited to personal anecdotes and device specifications, which do not contribute to the understanding of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -397,11 +406,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T09:16:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:17:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with travel and technology, specifically the use of devices like the Dell Venue 8, without any mention of Continuous Delivery principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses personal experiences and insights related to travel and the use of a specific device, the Dell Venue 8. There are no direct mentions of Continuous Delivery principles, practices, or related topics. The content does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or software quality. The depth of discussion is minimal and focused on personal anecdotes rather than any relevant Continuous Delivery practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1428,6 +1440,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses personal experiences with travel and technology, specifically focusing on the use of devices like the Dell Venue 8. There are no direct mentions or discussions related to the Shift-Left Strategy, its principles, or its implementation in software development. The content does not align with the core themes of integrating testing, security, or compliance early in the development process, nor does it provide any depth on these topics.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T07:17:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences and opinions regarding travel productivity with the Dell Venue 8, lacking any substantial discussion on Continuous Improvement principles. While there are mentions of workflow changes, they do not align with the core themes of Continuous Improvement, such as empirical evidence or systematic enhancement of processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T07:17:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences and insights related to travel and the use of a specific device, the Dell Venue 8. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment within teams. The mention of productivity tools is incidental and does not connect to the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T07:17:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the author's experiences with travel and the Dell Venue 8 device, with minimal discussion on competence or skill development. While there are mentions of workflow changes and productivity tools, these do not directly relate to the core themes of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

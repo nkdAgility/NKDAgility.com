@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:29:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:21:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation of Visual Studio 2010 on Windows 8, with no direct mention of Evidence-Based Management principles or metrics. It lacks any discussion on data-informed decision-making, current value, or empirical decision-making, which are core themes of the category. The content is more technical and practical in nature, making it irrelevant to the topic of Evidence-Based Management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:29:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:21:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation of Visual Studio 2010 on Windows 8, with no explicit discussion of DevOps principles, practices, or cultural shifts. While it mentions using a VM, which could relate to automation and efficiency, it lacks depth and direct alignment with the core themes of DevOps. The discussion is more about personal setup preferences rather than collaborative practices or continuous value delivery.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, focusing on technical details and personal experiences rather than Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:30:16",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:30:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:21:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no relevance to Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation of Visual Studio 2010 on Windows 8, with no direct mentions or discussions related to the Agile Product Operating Model. While there are references to software development practices, they do not align with the core themes of APOM, such as product management principles or agile methodologies. The depth of discussion is also minimal, as it does not explore any relevant concepts or frameworks associated with APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -400,11 +409,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:31:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:21:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on installing Visual Studio 2010 on Windows 8 and managing virtual machines, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation of Visual Studio 2010 on Windows 8, with no direct discussion of Continuous Delivery principles, practices, or benefits. While it mentions using Visual Studio in a VM, it does not explore automation, incremental improvements, or any of the key topics related to Continuous Delivery. The content lacks depth and relevance to the category, making it a very low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1440,6 +1452,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation of Visual Studio 2010 on Windows 8, with no direct mention or discussion of the Shift-Left Strategy. While there are references to using Visual Studio in a development context, the content does not address integrating testing, security, or compliance earlier in the software development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:21:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 on Windows 8, with no explicit discussion of Continuous Improvement principles. While there are mentions of optimising the development environment and efficiency, these are not framed within the context of Continuous Improvement methodologies or practices. The content lacks depth in discussing any strategies, empirical evidence, or cultural aspects related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:21:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Visual Studio 2010 on Windows 8, with no explicit discussion of Common Goals, Agile, or DevOps principles. While there are mentions of team environments and software compatibility, these do not connect to the foundational principles of aligning strategy with execution or shared objectives within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:21:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Visual Studio 2010 on Windows 8, with minimal reference to competence in terms of skill development or professional growth. While it touches on the use of VMs and the efficiency of installations, it lacks a direct discussion on continuous learning, quality outcomes, or fostering a culture of competence, which are central to the category.",
     "level": "Ignored"
   }
 }

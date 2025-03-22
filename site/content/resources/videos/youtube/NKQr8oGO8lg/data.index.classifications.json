@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T20:17:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:15:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning and its benefits for employees and organisations, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on immersive learning and its benefits for individuals and organisations, without any explicit mention of DevOps principles or practices. While it touches on themes of continuous improvement and value delivery, these concepts are not framed within the context of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -85,11 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T20:17:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:15:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning and its benefits for employee development, without a clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses immersive learning and its benefits for individuals and organisations, but it does not explicitly mention Evidence-Based Management or its key topics. While there are elements of value delivery and practical application, the focus is more on training and personal development rather than on data-informed decision-making or empirical evidence, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -318,15 +324,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on immersive learning and its benefits for employees and organisations, with no relevance to release management or software delivery processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T20:18:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning and its benefits for employees and organisations, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -625,11 +622,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T20:19:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning and its benefits for employees and organisations, with no clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T19:15:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on immersive learning and its benefits for individuals and organisations, with no direct mention of Continuous Delivery principles or practices. While it touches on themes of continuous improvement and value delivery, these concepts are not explicitly linked to Continuous Delivery, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -718,11 +718,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T20:19:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:15:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning and its benefits for individuals and organisations, without a clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on immersive learning and its benefits for individual and organisational development, without any direct mention or alignment with the Agile Product Operating Model. While it discusses continuous improvement and value delivery, these concepts are not specifically tied to the APOM framework or its principles.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1452,6 +1455,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses immersive learning and its benefits for professional development, without any explicit mention or alignment with the Shift-Left Strategy. It focuses on training and coaching rather than integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:15:33",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses immersive learning and its transformative effects on individuals and organisations, which aligns with the principles of Continuous Improvement. It mentions the importance of applying knowledge for tangible improvements and fostering an environment for ongoing development. However, while it touches on continuous improvement, it does not delve deeply into specific strategies or frameworks associated with the category, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:15:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the benefits of immersive learning for both individuals and organisations, but it does not explicitly mention Common Goals or their significance in Agile and DevOps frameworks. While it touches on themes of organisational improvement and individual development, it lacks a clear connection to shared objectives or strategic alignment, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:15:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of immersive learning in professional development, highlighting its role in skill acquisition and practical application. It aligns well with the core themes of competence, such as continuous learning and the impact of skills on job performance. The depth of discussion is substantial, covering both organisational and individual perspectives, which reinforces the significance of competence in achieving quality outcomes.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:15:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on immersive learning and its benefits for individuals and organisations, with no direct mention or discussion of the One Engineering System framework or its principles. While there are themes of professional development and organisational improvement, they do not align with the specific topics outlined for 1ES, such as integration of tools and processes or best practices for implementing a unified engineering system.",
     "level": "Ignored"
   }
 }

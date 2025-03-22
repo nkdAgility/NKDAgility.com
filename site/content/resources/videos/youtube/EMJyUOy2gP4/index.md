@@ -31,6 +31,7 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
+- Competence
 - Metrics and Learning
 - People and Process
 - Scrum Team
@@ -39,7 +40,6 @@ tags:
 - Team Performance
 - Pragmatic Thinking
 - Evidence Based Leadership
-- Agile Product Management
 resourceTypes:
 - video
 categories:

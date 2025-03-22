@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:18:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:14:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum training and Agile methodologies, which are not directly aligned with the core principles of DevOps. While there are mentions of collaboration and continuous improvement, these concepts are framed within the context of Scrum rather than the broader DevOps philosophy. The discussion lacks depth in terms of DevOps-specific practices, such as automation, shared accountability, or feedback loops, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -256,11 +259,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T12:23:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T21:15:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Scrum training and its impact on team dynamics and agility, which are related to Agile methodologies rather than Continuous Delivery specifically. While there are mentions of continuous improvement and alignment with business goals, the focus remains on Scrum practices rather than the principles and practices of Continuous Delivery. Therefore, the confidence score reflects a low direct mention of Continuous Delivery, moderate conceptual alignment, and limited depth in discussing the category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -405,15 +411,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T12:23:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum methodologies and training, which doesn't align with the specific principles and discussions on the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1231,11 +1228,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T12:23:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and its impact on organizational change and business agility, which are relevant to the Agile Product Operating Model, but it primarily focuses on Scrum training rather than a comprehensive discussion of the Agile Product Operating Model itself.",
+    "calculated_at": "2025-03-21T21:15:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses Scrum training and its impact on team dynamics, which is related to agile practices but does not explicitly focus on the Agile Product Operating Model. While it touches on themes of continuous improvement and collaboration, it lacks a direct connection to the core principles of APOM, such as product management integration and operational governance.",
     "level": "Tertiary"
   },
   "Discovery and Learning": {
@@ -1450,15 +1450,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T03:43:17",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "calculated_at": "2025-03-21T21:15:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses Scrum training and its impact on team dynamics and organisational agility, which aligns with the principles of Evidence-Based Management. However, it lacks explicit references to empirical data or metrics that are central to EBM. The focus is more on personal experiences and training effectiveness rather than on data-driven decision-making or case studies that exemplify EBM practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum training and its impact on team dynamics rather than focusing on Evidence-Based Management principles. While there are mentions of aligning delivery with strategic objectives and fostering a culture of continuous improvement, these concepts are not deeply explored in the context of empirical evidence or metrics. The emphasis is more on training and collaboration than on data-informed decision-making, which is central to EBM.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1530,6 +1530,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum training and the importance of effective communication and collaboration within Agile teams. While it touches on themes of continuous improvement and alignment with business goals, it does not explicitly discuss the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is more centred around Scrum practices rather than integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:14:54",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the importance of continuous improvement in the context of Scrum training, highlighting how effective training fosters agility and collaboration. It aligns well with the core themes of Continuous Improvement, such as fostering a culture of learning and adaptation, and provides detailed insights into the impact of training on team effectiveness and organisational processes. The depth of discussion is significant, with specific examples of how the training sessions are designed to encourage iterative learning and adaptation, which are key aspects of Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:14:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of aligning training with strategic objectives and fostering a culture of agility and collaboration, which are key aspects of Common Goals. However, it primarily focuses on the training process and personal reflections rather than deeply exploring the concept of Common Goals itself. The direct mentions of alignment with business goals and team empowerment contribute positively, but the overall depth of discussion on Common Goals is limited.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:15:01",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of effective training in Scrum, highlighting continuous improvement and the empowerment of teams, which aligns well with the principles of competence. It explicitly mentions the need for ongoing learning and adaptation, reflecting a strong focus on developing skills and capabilities. The depth of discussion regarding the impact of training on team dynamics and organisational goals further supports a high confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:15:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Scrum training and personal reflections on its impact, which deviates from the core principles of the One Engineering System. While it touches on themes of collaboration and continuous improvement, it lacks direct discussion of 1ES components, integration of tools, or best practices specific to the One Engineering System framework.",
     "level": "Ignored"
   }
 }

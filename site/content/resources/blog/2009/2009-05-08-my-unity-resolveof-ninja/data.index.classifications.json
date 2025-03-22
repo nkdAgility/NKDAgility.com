@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:49:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:21:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details of the Unity Application Block in software development, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details of the Unity Application Block in software development, with no direct mention or alignment to Evidence-Based Management principles. It lacks discussions on metrics, data-informed decision-making, or any empirical evidence related to management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:50:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:21:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of the Unity Application Block in a software project, focusing on coding practices and implementation details, without addressing DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on integrating the Unity Application Block in WPF and ASP.NET, which is more aligned with software development practices rather than DevOps principles. There are no explicit discussions on collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The content lacks depth in addressing any DevOps-related topics, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses the implementation of the Unity Application Block in software development, focusing on code examples and technical details, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:50:35",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:50:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:21:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details of the Unity Application Block in software development, with no reference to Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to the Unity Application Block in WPF and ASP.NET, with no direct mention or discussion of Agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any relevant themes or depth related to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -400,11 +409,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T03:05:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:21:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on integrating the Unity Application Block in software development, with no mention of Continuous Delivery principles, practices, or relevant methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on integrating the Unity Application Block in WPF and ASP.NET, discussing code examples and development techniques. It does not address Continuous Delivery principles, practices, or related topics, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1443,6 +1455,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on integrating the Unity Application Block into a website and discusses technical implementation details in VB.NET. There are no direct mentions of the Shift-Left Strategy, nor does it align with its core themes such as early testing, security, or compliance in the software development lifecycle. The discussion lacks depth regarding the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:21:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details of integrating the Unity Application Block in WPF and ASP.NET, with no explicit discussion or alignment with Continuous Improvement principles. It lacks any mention of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning, which are key topics in Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:21:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to integrating the Unity Application Block in WPF and ASP.NET. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment within teams. The mention of personal experiences and code examples does not connect to the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:21:11",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on technical implementation details of integrating the Unity Application Block in WPF and ASP.NET, with minimal direct discussion on competence. While it touches on enhancing development skills, it lacks a thorough exploration of continuous learning, professionalism, or the broader implications of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

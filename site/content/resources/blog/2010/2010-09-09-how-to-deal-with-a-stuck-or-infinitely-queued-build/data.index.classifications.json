@@ -58,11 +58,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:19:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:50:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting and managing build processes in Team Foundation Build, with no focus on evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting build issues in Team Foundation Server, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on the importance of timely build completions, it lacks a connection to data-informed decision-making or the core themes of EBM.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -133,15 +136,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:34:22",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
+    "calculated_at": "2025-03-22T08:50:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
-    "reasoning": "The content primarily discusses issues related to build processes in Team Foundation Build, which is a key aspect of DevOps practices. It addresses the challenges of managing builds, including stuck builds and the need for timely completions, which aligns with the principles of Continuous Integration (CI) and Continuous Delivery (CD). The discussion includes practical steps for debugging and resolving build issues, demonstrating a depth of knowledge relevant to DevOps. However, while it touches on automation and build management, it lacks broader discussions on cultural shifts, collaboration, or tools beyond the specific context of Team Foundation Build, which slightly limits its overall alignment with the full scope of DevOps.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on troubleshooting build issues within Team Foundation Server, which is a tool used in DevOps practices. While it does touch on aspects of build processes and efficiency, it lacks a broader discussion on the principles and cultural shifts of DevOps. The mention of build monitoring and service management aligns with DevOps practices, but the depth of discussion is more technical and tool-specific rather than philosophical or strategic, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -332,7 +335,7 @@
     "reasoning": "Content primarily discusses troubleshooting and managing build processes in Team Foundation Build, without addressing Systems Thinking principles or interconnectedness within organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:19:41",
     "ai_confidence": 0,
@@ -343,11 +346,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:19:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:50:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to build processes in Team Foundation Build, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting build issues in Team Foundation Server, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or the key topics outlined in the APOM framework. The discussion is technical and specific to build processes rather than product delivery or agile methodologies.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -421,14 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T06:48:49",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "calculated_at": "2025-03-22T08:50:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses issues related to build processes in Team Foundation Build, which is relevant to Continuous Delivery. However, it primarily focuses on troubleshooting stuck builds rather than the broader principles and practices of Continuous Delivery. While it touches on aspects of automation and build management, it lacks a comprehensive exploration of Continuous Delivery methodologies, making it a secondary mention rather than a primary focus.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses troubleshooting stuck builds in Team Foundation Server, which is related to the build process but does not explicitly address Continuous Delivery principles or practices. While it mentions build completion and optimisation, it lacks a broader discussion on automation, incremental improvements, or user feedback, which are key aspects of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1500,6 +1506,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses issues related to build processes and troubleshooting in Team Foundation Build, with no explicit mention of integrating testing, security, or compliance earlier in the development lifecycle. While it touches on the importance of timely builds, it does not align with the core themes of the Shift-Left Strategy, which focuses on proactive measures in software development. The discussion lacks depth regarding the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:50:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on troubleshooting and optimising build processes in Team Foundation Server. While it touches on aspects of improving efficiency, it lacks a direct discussion on Continuous Improvement principles, such as fostering a culture of experimentation or integrating Continuous Improvement into organisational processes. The mention of optimising builds is relevant but does not delve into the broader themes of Continuous Improvement, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:50:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting technical issues related to build processes in Team Foundation Server. It does not discuss or align with the principles of Common Goals in Agile or DevOps, such as shared objectives or strategic alignment. The mention of developers ensuring timely builds is too vague and does not connect to the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:50:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on troubleshooting build issues in Team Foundation Server, which does not directly address the concept of competence. While it implies the need for developers to have skills in managing builds, it lacks explicit discussions on continuous learning, skill development, or fostering a culture of competence. The depth of discussion is limited to practical troubleshooting steps rather than exploring the broader implications of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

@@ -88,11 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T07:21:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on a Kanban training course and does not discuss evidence-based management principles or practices.",
+    "calculated_at": "2025-03-21T15:02:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a Kanban course and its immersive learning experience, with no direct mention of Evidence-Based Management principles or metrics. While it discusses practical application and real-world scenarios, it lacks explicit references to data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -318,15 +321,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content primarily focuses on Kanban training and methodologies, without a clear focus on release management practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:21:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily focuses on Kanban training and practices, which are not aligned with the One Engineering System framework principles or discussions.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -619,11 +613,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T07:21:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on Kanban training and principles, not on Continuous Delivery practices or methodologies.",
+    "calculated_at": "2025-03-21T15:02:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a Kanban course, which is not directly related to Continuous Delivery. While it mentions concepts like continuous learning and incremental improvements, these are not explicitly tied to Continuous Delivery principles or practices. The discussion lacks depth and does not provide specific insights into Continuous Delivery methodologies, tools, or case studies.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on a Kanban course and does not explicitly mention the Shift-Left Strategy or its principles. While it discusses continuous learning and practical application, it lacks direct references to integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T15:02:35",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content mentions continuous learning and reflects on the importance of real-world application and facilitated reflections, which align with the principles of Continuous Improvement. However, it lacks explicit discussions on empirical evidence, data-driven decision-making, or specific strategies for integrating Continuous Improvement into organisational processes. The focus is more on the course structure rather than a comprehensive exploration of Continuous Improvement concepts.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T15:02:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a Kanban course and its immersive learning experience, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it mentions collaborative growth and real-world application, these concepts are not directly tied to the foundational principles of Common Goals, such as alignment and shared objectives. The content lacks depth in addressing the category's key topics.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T15:02:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses continuous learning and skill development through the 'Applying Professional Kanban' course, which aligns with the core themes of competence. It highlights the importance of real-world application and reflective practice, indicating a focus on mastery and professional growth. However, while competence is a significant aspect, the content primarily promotes the course rather than deeply exploring the broader implications of competence in Agile or DevOps contexts.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T15:02:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a Kanban course, which is unrelated to the One Engineering System framework. There are no direct mentions of 1ES principles, components, or discussions on integration and standardisation of engineering processes. The content does not align with the core themes of 1ES, and the depth of discussion regarding 1ES is virtually non-existent.",
     "level": "Ignored"
   }
 }

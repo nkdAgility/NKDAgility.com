@@ -37,6 +37,7 @@ tags:
 - Agile Product Management
 - Discovery and Learning
 - Agile Project Management
+- Evidence Based Management
 - Software Developers
 - Agile Philosophy
 - Metrics and Learning

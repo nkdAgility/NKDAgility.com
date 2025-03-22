@@ -649,11 +649,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T02:34:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:13:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Agile Practitioner Series and its relevance to Scrum teams, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the APS course and its relevance to Scrum teams, discussing Agile principles rather than Continuous Delivery specifically. While it touches on organisational change and team dynamics, it lacks direct references to Continuous Delivery practices, automation, or the delivery cycle, which are central to the category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -832,11 +835,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T02:34:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:13:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Agile Practitioner Series course and its benefits for newbie Scrum teams, without a focus on empirical evidence or evidence-based management principles.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the APS course for Scrum teams, discussing its benefits and outcomes without a strong emphasis on evidence-based management principles. While it touches on organisational change and team empowerment, it lacks direct references to empirical decision-making or metrics that align with EBM. The discussion is more about Agile and Scrum methodologies rather than data-informed management practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1288,11 +1294,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T02:32:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:13:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Agile methodologies, which are not central to DevOps principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the APS course and its relevance to Scrum teams, which is more aligned with Agile methodologies rather than DevOps principles. While there are mentions of organisational change and team dynamics, these concepts are framed within the context of Scrum, lacking direct references to DevOps practices such as automation, shared accountability, or continuous delivery. Therefore, the content does not meet the criteria for a strong alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1478,23 +1487,17 @@
     "reasoning": "Content primarily discusses the Agile Practitioner Series course and its relevance to Scrum teams, without a clear focus on BetaCodex principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:25:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the Agile Practitioner Series (APS) course and its relevance to Scrum teams, without focusing on the principles or components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:25:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:13:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Agile Practitioner Series course and its relevance to Scrum teams, which aligns with Agile principles. However, it primarily focuses on the course itself rather than a comprehensive discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the APS course and its benefits for Scrum teams, which is more aligned with Scrum training than the Agile Product Operating Model. While it touches on organisational change and team empowerment, it lacks a direct discussion of the APOM principles and does not delve into product management practices or the broader framework of APOM. The mention of organisational change and backlog creation hints at some alignment, but the overall focus remains on Scrum rather than the product-oriented mindset central to APOM.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1545,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the Agile Practitioner Series (APS) course and its benefits for newbie Scrum teams. While it discusses organisational change and team empowerment, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is more aligned with Agile and Scrum methodologies rather than the proactive integration of testing, security, and compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:13:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the APS course and its benefits for newbie Scrum teams, touching on themes of organisational change and empowerment. However, while it mentions the need for teams to adapt and improve, it does not delve deeply into Continuous Improvement principles or provide empirical evidence or strategies for fostering a culture of experimentation. The focus is more on training and Scrum methodologies rather than a comprehensive exploration of Continuous Improvement as a primary topic.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:13:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the APS course and its benefits for newbie Scrum teams, touching on themes of organisational change and team empowerment. However, it lacks a direct focus on the concept of Common Goals as defined in the category. While it mentions the need for teams to identify changes and create a backlog, it does not explicitly connect these actions to shared objectives or strategic alignment within Agile and DevOps frameworks. The discussion is more about training and personal development rather than the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:13:39",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 32,
+    "ai_depth": 33,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the APS course's role in empowering newbie Scrum teams, emphasising the importance of skill development and organisational change, which aligns with the principles of competence. However, while it touches on continuous learning and the need for realignment, it does not delve deeply into the broader implications of competence in Agile methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:13:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Agile Practitioner Series (APS) course and its benefits for Scrum teams, which is not directly related to the One Engineering System (1ES). While it touches on themes of organisational change and team dynamics, it lacks explicit discussion of 1ES principles, integration of tools and processes, or best practices for implementing a unified engineering system. The content is more aligned with Agile and Scrum methodologies rather than the standardisation and integration goals of 1ES.",
     "level": "Ignored"
   }
 }

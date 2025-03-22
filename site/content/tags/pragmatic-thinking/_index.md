@@ -26,6 +26,9 @@ headline:
   subtitle: Navigating complex challenges with practical insights and experience-driven solutions for effective decision-making.
   content: Pragmatic Thinking emphasises practical problem-solving in intricate environments, leveraging real-world experiences to inform decisions. It encompasses topics such as workflow optimisation, iterative improvement, team dynamics, and evidence-based evaluation, drawing insights from complexity theory and management practices to enhance organisational effectiveness and adaptability.
   updated: 2025-02-13T12:03:28Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

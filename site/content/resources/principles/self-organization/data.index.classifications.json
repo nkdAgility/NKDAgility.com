@@ -631,11 +631,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T21:11:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:13:51",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions self-organization within Scrum teams, which is more related to team dynamics and Agile practices rather than Continuous Delivery specifically. There is no explicit discussion of Continuous Delivery principles, automation, or delivery techniques, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -811,11 +814,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T21:12:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:13:53",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, with no focus on evidence-based management principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses self-organization within Scrum teams, which is a concept related to Agile methodologies. While it touches on team autonomy and collaboration, it does not explicitly mention or align with the core themes of Evidence-Based Management, such as data-informed decision-making or empirical metrics. The focus is more on team dynamics rather than evidence-based practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1442,15 +1448,6 @@
     "reasoning": "The content briefly mentions self-organization within Scrum teams, which aligns with the human-centric and decentralised aspects of BetaCodex. However, it lacks a comprehensive discussion on the principles of BetaCodex, such as the broader implications of decentralisation and adaptive cultures. The focus is primarily on Scrum practices rather than a deep exploration of BetaCodex concepts.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T17:28:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:12:31",
@@ -1512,6 +1509,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on self-organization within Scrum teams, which does not directly address the Shift-Left Strategy. There are no explicit mentions of integrating testing, security, or compliance earlier in the development process, and the discussion lacks depth on the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:13:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions self-organization within Scrum teams, which is related to team effectiveness and collaboration. However, it does not explicitly discuss Continuous Improvement principles or provide depth on how self-organization contributes to ongoing enhancements in processes or products. The focus is more on team autonomy rather than the broader context of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:13:41",
+    "ai_confidence": 52.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 47.0,
+    "reasoning": "The content discusses self-organization within Scrum teams, which indirectly relates to Common Goals by highlighting team autonomy in achieving objectives. However, it lacks explicit references to shared objectives or strategic alignment, which are central to the Common Goals category. The discussion is somewhat aligned with the principles of Agile but does not delve deeply into the significance of Common Goals or their operationalisation.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:13:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions self-organization within Scrum teams, which implies a level of competence in decision-making and collaboration. However, it does not explicitly discuss continuous learning, skill development, or the importance of competence in delivering quality outcomes. The focus is more on team autonomy rather than the foundational principles of competence, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:13:49",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses self-organization within Scrum teams, which is a specific methodology rather than the broader One Engineering System framework. While it touches on collaboration and autonomy, it lacks direct references to 1ES principles, components, or its impact on software quality and delivery timelines. The discussion is too focused on Scrum to align closely with the core themes of 1ES.",
     "level": "Ignored"
   }
 }

@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T08:56:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:32:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about configuring a DNS server in an Azure Virtual Network and does not discuss Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on configuring a DNS server within an Azure Virtual Network, which is a technical guide related to cloud infrastructure. There are no direct mentions of Evidence-Based Management principles or metrics, and the discussion does not align with the core themes of EBM such as data-informed decision-making or value delivery. The content lacks depth in relation to EBM, as it does not provide any empirical evidence or metrics relevant to management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T08:56:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:32:23",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DNS server configuration in Azure, not directly related to DevOps practices or principles.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on configuring a DNS server within an Azure Virtual Network, which is more aligned with cloud infrastructure management than the core principles of DevOps. While there are elements of automation and network management that could relate to DevOps practices, the discussion lacks explicit references to DevOps philosophy, collaboration, or shared accountability. The depth of discussion is technical and specific to DNS configuration, which does not delve into broader DevOps concepts such as continuous delivery or cultural shifts.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,22 +320,16 @@
     "reasoning": "Content primarily discusses DNS configuration for an Azure Virtual Network, which does not align with the principles or applications of Systems Thinking.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T08:56:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on configuring a DNS server for an Azure Virtual Network, not on the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T08:56:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:32:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on technical configuration of a DNS server in Azure and does not discuss Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on configuring a DNS server within an Azure Virtual Network, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM category. The discussion is technical and specific to cloud infrastructure, lacking any connection to the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -400,11 +400,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T08:56:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:32:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on configuring a DNS server for an Azure Virtual Network, which is not related to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on configuring a DNS server within an Azure Virtual Network, which is a specific technical task related to cloud infrastructure rather than Continuous Delivery. While there is a brief mention of 'Release Management', it does not delve into Continuous Delivery principles, practices, or benefits. The discussion lacks depth and does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or cultural aspects. Overall, the content does not meet the criteria for a primary focus on Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1431,6 +1434,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on configuring a DNS server within an Azure Virtual Network, which is unrelated to the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the software development lifecycle, nor does it discuss any principles or benefits associated with the Shift-Left approach. The content lacks depth in relation to the category, as it does not provide any relevant techniques, case studies, or tools that support a Shift-Left strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:32:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on configuring a DNS server within an Azure Virtual Network, which is a technical guide rather than a discussion on Continuous Improvement. There are no direct mentions of Continuous Improvement principles, and the content lacks alignment with the core themes such as empirical evidence, experimentation, or team effectiveness. The depth of discussion is also minimal, as it does not explore any strategies or frameworks related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:32:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for configuring a DNS server in Azure, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on aspects of network management, it does not align with the core themes of shared objectives or strategic alignment, nor does it provide depth on these topics.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:32:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for configuring a DNS server in Azure, lacking any explicit discussion on competence, continuous learning, or skill development. While it touches on aspects of network management, it does not align with the core themes of competence as defined in Agile, Scrum, DevOps, or Lean methodologies. The depth of discussion is limited to practical steps without addressing the importance of competence in delivering quality outcomes or fostering a culture of skill development.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:32:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on configuring a DNS server within an Azure Virtual Network, which is a specific technical task unrelated to the principles or discussions surrounding the One Engineering System. There are no direct mentions of 1ES, and the content does not align with the core themes of integration, standardisation, or best practices in software development as outlined in the category description.",
     "level": "Ignored"
   }
 }

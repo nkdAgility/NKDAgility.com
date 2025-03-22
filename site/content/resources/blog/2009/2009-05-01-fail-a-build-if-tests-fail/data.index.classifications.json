@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:55:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:22:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details related to build processes in TFS2008, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on configuring TFS2008 to manage build failures based on test results, which is a technical implementation detail rather than a discussion on Evidence-Based Management. There are no direct mentions of EBM concepts, and the content lacks alignment with the core themes of data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T07:23:37",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-22T09:22:32",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses a specific technical implementation related to build processes in TFS2008, which is relevant to DevOps practices, particularly in the context of Continuous Integration (CI). However, it lacks broader discussions on DevOps principles, cultural shifts, or tools beyond this specific implementation. The mention of failing builds due to test failures aligns with CI practices but does not delve into the wider implications or benefits of DevOps methodologies.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific technical configuration related to TFS2008 for managing build failures based on test results. While this touches on quality assurance, which is a component of DevOps, it lacks a broader discussion on the principles, practices, or cultural shifts associated with DevOps. The focus is primarily on a tool-specific implementation rather than the overarching philosophy of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -323,7 +326,7 @@
     "reasoning": "Content primarily discusses a technical solution for build failures in TFS2008, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:55:58",
     "ai_confidence": 0,
@@ -334,11 +337,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:55:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:22:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details related to TFS2008 and build processes, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on configuring TFS2008 for build management and test failure handling, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or the key topics outlined in the APOM framework. The discussion lacks depth and relevance to the category, indicating a very low confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -412,14 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T07:24:11",
+    "calculated_at": "2025-03-22T09:22:48",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses a specific technical implementation related to build processes in TFS2008, which can be a part of Continuous Delivery practices. However, it lacks a broader discussion on Continuous Delivery principles, methodologies, or the role of automation in a comprehensive manner. The mention of failing builds due to test failures aligns with the automation aspect of CD but does not delve into the overall framework or strategies of Continuous Delivery.",
+    "reasoning": "The content discusses a specific configuration in TFS2008 to ensure that builds fail when tests fail, which relates to quality assurance in the software delivery process. However, it does not explicitly mention Continuous Delivery or its principles. The focus is more on build management rather than the broader practices and benefits of Continuous Delivery. While there is some alignment with the importance of testing and quality, the depth of discussion is limited to a technical configuration without exploring the cultural or strategic aspects of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1494,6 +1500,42 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions a testing-related configuration in TFS2008 that could be seen as a step towards integrating testing earlier in the development process. However, it lacks a comprehensive discussion on the Shift-Left Strategy, its principles, or its broader implications. The focus is primarily on a specific technical implementation rather than the strategic approach of shifting testing left in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:22:35",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions improving build management and ensuring quality through test failure handling, which aligns with the principles of Continuous Improvement. However, it lacks a comprehensive discussion on the broader themes of Continuous Improvement, such as empirical evidence, culture of experimentation, or strategies for integration into organisational processes. The focus is primarily on a technical configuration rather than a holistic approach to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:22:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical configuration for TFS2008 to manage build failures based on test results. While it touches on quality assurance, it does not discuss Common Goals, alignment, or strategic objectives within Agile or DevOps frameworks. The mention of build management is too specific and lacks the broader context of shared objectives or team alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:22:39",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions quality in the development process, which relates to competence, but it primarily focuses on a technical configuration for TFS2008 without a deeper exploration of continuous learning, skill development, or the broader implications of competence in Agile or DevOps environments.",
     "level": "Ignored"
   }
 }

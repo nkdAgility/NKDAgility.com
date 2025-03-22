@@ -37,8 +37,7 @@ tags:
 - Mentoring
 resourceTypes:
 - video
-categories:
-- DevOps
+categories: []
 
 ---
 ## Limits of Professional Coaching

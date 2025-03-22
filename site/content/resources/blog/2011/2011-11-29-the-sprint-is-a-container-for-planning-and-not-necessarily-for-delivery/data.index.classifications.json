@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:42:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:32:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum practices and Continuous Delivery, lacking a focus on empirical evidence or data-driven decision-making central to Evidence-Based Management.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum and Continuous Delivery practices without a direct focus on Evidence-Based Management principles. While it touches on the importance of delivering value and improving software development practices, it lacks explicit references to empirical decision-making or the specific metrics outlined in the EBM category. The discussion is more centred on Agile methodologies rather than data-informed management strategies.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -133,14 +136,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:25:48",
-    "ai_confidence": 87.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 90.0,
-    "ai_depth": 85.0,
+    "calculated_at": "2025-03-22T08:31:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
-    "reasoning": "The content discusses Continuous Delivery and its relationship with Scrum, highlighting the importance of automation and collaboration between development and operations teams. It provides detailed insights into practices that align with DevOps principles, such as automated testing and deployment, while also addressing the cultural shifts necessary for successful implementation. The focus on improving software delivery efficiency and the mention of technical debt further solidify its relevance to the DevOps category.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses Continuous Delivery, which is a key aspect of DevOps, and touches on collaboration between development and operations teams. However, the primary focus is on Scrum and its principles rather than a comprehensive exploration of DevOps as a philosophy. While it aligns with some core themes of DevOps, such as automation and minimising technical debt, the depth of discussion on DevOps principles is limited, making it a secondary focus.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -338,7 +341,7 @@
     "reasoning": "Content primarily discusses Scrum methodology and Continuous Delivery, focusing on software development practices rather than Systems Thinking principles or interconnectedness within organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:43:34",
     "ai_confidence": 0,
@@ -349,12 +352,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T08:32:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Scrum and Continuous Delivery, which are related to Agile methodologies, but the primary focus is on Scrum practices rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content primarily discusses Scrum and Continuous Delivery, which are related to agile practices but do not explicitly focus on the Agile Product Operating Model. While it touches on concepts like planning and delivery schedules, it lacks a direct connection to the core principles of APOM, such as product management integration and operational governance. The depth of discussion on agile methodologies is present, but it does not sufficiently address the product-oriented mindset or the transition from project to product ethos, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -427,14 +433,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T06:15:28",
+    "calculated_at": "2025-03-22T08:32:09",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 20,
     "final_score": 80.0,
-    "reasoning": "The content discusses Continuous Delivery explicitly, referencing its principles and methodologies, particularly in relation to Scrum. It highlights the importance of regular deployments and automation, aligning well with the core themes of Continuous Delivery. The depth of discussion is significant, providing insights into practices necessary for achieving Continuous Delivery, such as automated testing and deployment strategies. Overall, the content is focused on Continuous Delivery, making it a primary topic rather than a secondary mention.",
+    "reasoning": "The content explicitly discusses Continuous Delivery, highlighting its principles and the importance of regular deployment. It aligns well with the core themes of the category, such as the role of automation, the need for rapid feedback, and strategies for improving software quality. The depth of discussion is significant, providing detailed insights into practices and challenges associated with Continuous Delivery, making it a primary focus rather than a secondary mention.",
     "level": "Secondary"
   },
   "Strategic Goals": {
@@ -1537,5 +1543,41 @@
     "final_score": 29.0,
     "reasoning": "The content discusses aspects of Continuous Delivery and the importance of integrating testing and quality measures early in the development process, which aligns with the Shift-Left Strategy. However, the primary focus is on Scrum and Continuous Delivery rather than explicitly on the Shift-Left Strategy itself. The discussion lacks depth in terms of specific Shift-Left techniques and metrics, leading to a lower confidence score.",
     "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:31:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses Continuous Delivery and its relationship with Scrum, highlighting the importance of regular deployment and minimising technical debt. While it touches on Continuous Improvement principles, such as enhancing processes and fostering a culture of experimentation, the primary focus is on Scrum practices rather than a comprehensive exploration of Continuous Improvement as a standalone concept.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:31:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses Scrum and Continuous Delivery, touching on the importance of aligning practices with organisational goals. However, it primarily focuses on the mechanics of Scrum and Continuous Delivery rather than explicitly addressing the concept of Common Goals. While there are mentions of improving practices and collaboration, the discussion lacks a strong emphasis on shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:32:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of Continuous Delivery and the necessary practices to achieve it, which aligns with the concept of competence in terms of skill development and quality delivery. However, while it touches on competence indirectly, it primarily focuses on Scrum practices and Continuous Delivery rather than a deep exploration of competence as a standalone principle.",
+    "level": "Secondary"
   }
 }

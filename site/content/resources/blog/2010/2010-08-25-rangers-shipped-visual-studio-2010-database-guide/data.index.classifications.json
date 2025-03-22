@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:21:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:51:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses practical guidance for Visual Studio 2010 Database projects and does not focus on Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on practical guidance for Visual Studio 2010 Database projects, with no explicit discussion of Evidence-Based Management principles or metrics. While it mentions real-world scenarios and community contributions, it does not align with the core themes of EBM such as data-informed decision-making or outcome management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,15 +130,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T13:03:37",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "calculated_at": "2025-03-22T08:51:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses build and deployment automation, which aligns with DevOps principles. However, it lacks a broader discussion on cultural shifts, collaboration, or metrics, which are crucial for a comprehensive DevOps focus.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010 and its database management features, with some mention of build and deployment automation. However, it lacks a comprehensive discussion on DevOps principles, such as collaboration, shared accountability, or continuous improvement. While there are elements related to automation and project management, they do not align closely with the core themes of DevOps, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -329,7 +332,7 @@
     "reasoning": "Content primarily discusses practical guidance for Visual Studio 2010 Database projects, focusing on project management, source control, and deployment automation, without any clear emphasis on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:22:57",
     "ai_confidence": 0,
@@ -340,11 +343,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:22:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:51:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Visual Studio 2010 Database Guide and related technical practices, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010 and its database management features, with no direct mention of the Agile Product Operating Model or its principles. While it discusses project management and deployment automation, these topics do not align with the core themes of APOM, which emphasises a product-oriented mindset and agile methodologies in product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -421,15 +427,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T06:51:11",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-22T08:51:31",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses aspects of build and deployment automation, which are relevant to Continuous Delivery. However, it primarily focuses on Visual Studio Database projects and guidance rather than the broader principles and practices of Continuous Delivery. The mention of deployment automation is too brief and lacks depth in discussing Continuous Delivery methodologies, making it a secondary focus rather than a primary one.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses aspects of build and deployment automation, which is relevant to Continuous Delivery. However, it primarily focuses on Visual Studio 2010 and its database projects without a comprehensive exploration of Continuous Delivery principles or practices. The mention of deployment automation is too brief and lacks depth in discussing the broader implications of Continuous Delivery.",
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -1500,6 +1506,42 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses database testing and deployment verification, which aligns with the Shift-Left Strategy's focus on integrating testing early in the development process. However, it lacks explicit mention of the Shift-Left concept and does not delve deeply into its principles or benefits, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:51:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on providing practical guidance for using Visual Studio 2010 Database projects, with an emphasis on hands-on labs and real-world scenarios. While it mentions feedback and lessons learned, it does not explicitly discuss Continuous Improvement principles or strategies. The content lacks a strong connection to the core themes of Continuous Improvement, such as empirical evidence, culture of experimentation, or integration into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:51:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on practical guidance for using Visual Studio 2010, detailing specific features and hands-on labs. While it mentions collaboration and contributions from various individuals, it does not explicitly discuss the concept of Common Goals or their significance in Agile or DevOps frameworks. The content lacks a clear connection to shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:51:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on providing practical guidance and resources for using Visual Studio 2010, which indirectly supports competence through hands-on labs and real-world scenarios. However, it lacks explicit discussions on continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The mention of contributors and community involvement hints at a collaborative effort towards competence but does not delve deeply into the principles of professionalism or quality delivery.",
     "level": "Ignored"
   }
 }

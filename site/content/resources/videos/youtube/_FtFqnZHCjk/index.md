@@ -31,6 +31,7 @@ sitemap:
 tags:
 - Agile Product Management
 - Agile Project Management
+- Agile Product Operating Model
 - Frequent Releases
 - Agile Values and Principles
 - Product Delivery
@@ -38,7 +39,6 @@ tags:
 - Agile Transformation
 - Agile Strategy
 - Software Development
-- Agile Philosophy
 resourceTypes:
 - video
 layout: video

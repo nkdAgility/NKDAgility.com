@@ -670,11 +670,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T02:59:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:18:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product discovery and its importance in planning and direction within teams, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Product Discovery, discussing its importance and processes without addressing Continuous Delivery principles, practices, or benefits. While it touches on aspects of planning and user feedback, it does not delve into automation, incremental improvements, or the cultural aspects of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -844,11 +847,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T03:00:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:18:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product discovery and its processes, without a clear focus on Evidence-Based Management principles or empirical data-driven decision-making.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Product Discovery in detail, focusing on its importance in product development and strategic alignment. However, it does not explicitly mention Evidence-Based Management or its key topics. While there are elements of empirical decision-making and strategic direction, the primary focus remains on the concept of Product Discovery rather than on evidence-based practices. Therefore, the confidence score reflects a moderate alignment with the category.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1484,15 +1490,6 @@
     "reasoning": "Content primarily discusses product discovery processes and Scrum roles, with no clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:16:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses product discovery and its processes, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:14:46",
@@ -1569,6 +1566,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Product Discovery, discussing its importance and processes without explicitly addressing the Shift-Left Strategy. While there are elements of proactive planning and alignment, they do not directly relate to integrating testing, security, or compliance earlier in the software development lifecycle, which is the core of the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:18:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Product Discovery, which is related to improving product development processes, but it does not explicitly focus on Continuous Improvement principles. While it touches on aspects of planning, feedback, and alignment, it lacks a strong emphasis on empirical evidence, measurable advancements, or a culture of experimentation that are central to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:18:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the importance of aligning product discovery with strategic goals, particularly in the context of Agile and DevOps. It mentions the need for clear vision and goals, and how teams can translate high-level objectives into actionable plans. However, while it touches on these themes, the primary focus is on the product discovery process itself rather than a deep exploration of common goals as a standalone concept.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:18:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Product Discovery in detail, focusing on its importance in product development and strategic alignment. However, it does not explicitly address the concept of competence or continuous skill development, which are central to the category. While there are elements of planning and decision-making that relate to competence, they are not the primary focus of the discussion.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:18:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Product Discovery, which is not directly related to the One Engineering System framework. While it touches on aspects of planning and team alignment, it does not discuss the principles, components, or implementation of 1ES. The mention of teams and strategic direction is too vague and does not provide sufficient depth or direct relevance to the core themes of 1ES.",
     "level": "Ignored"
   }
 }

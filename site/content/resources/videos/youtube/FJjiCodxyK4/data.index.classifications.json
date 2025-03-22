@@ -652,11 +652,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T07:41:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:16:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile Consulting and Coaching, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile Consulting versus Agile Coaching, focusing on leadership and organisational change rather than Continuous Delivery principles. While it touches on themes of improvement and self-reliance, it lacks direct references to Continuous Delivery practices, automation, or delivery cycles, which are central to the category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -832,11 +835,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T07:42:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:16:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between Agile Consulting and Agile Coaching, focusing on leadership and internal change rather than empirical evidence or data-driven management practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile Consulting versus Agile Coaching, focusing on leadership and internal change rather than empirical evidence or data-informed decision-making. While it touches on themes of organisational improvement, it lacks direct references to Evidence-Based Management principles or metrics, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1282,11 +1288,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T07:39:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:16:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile Consulting and Coaching, focusing on leadership and organisational change, without a clear emphasis on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile consulting versus coaching, focusing on leadership and team dynamics rather than DevOps principles. While there are mentions of team improvement and self-reliance, these concepts do not directly align with the core themes of DevOps, such as automation, shared accountability, or continuous value delivery.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1478,22 +1487,16 @@
     "reasoning": "Content primarily discusses Agile Consulting versus Agile Coaching, focusing on leadership and internal change rather than the principles of Beta Codex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:27:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile Consulting versus Agile Coaching, focusing on leadership and internal change rather than the principles or implementation of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:27:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:16:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the differences between Agile consulting and coaching, focusing on leadership and internal change rather than the Agile Product Operating Model.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the differences between agile consulting and coaching, focusing on leadership and self-reliance rather than the Agile Product Operating Model itself. While it touches on agile principles, it lacks a direct focus on product management practices or the core themes of the APOM, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1545,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile Consulting versus Agile Coaching, focusing on leadership and organisational change rather than the integration of testing, security, or compliance early in the software development lifecycle. There are no direct mentions of the Shift-Left Strategy, and the discussion lacks depth in relation to the key topics outlined for this category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:16:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile Consulting and the importance of internal leadership and sustainable change, which are related to Continuous Improvement. However, it primarily focuses on the differences between consulting and coaching rather than on Continuous Improvement practices themselves. While there are mentions of empowering teams and fostering self-reliance, the depth of discussion on Continuous Improvement techniques, strategies, or empirical evidence is limited.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:16:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile Consulting versus Agile Coaching, focusing on leadership and self-reliance rather than explicitly addressing Common Goals. While it touches on themes of organisational change and empowerment, it lacks direct references to shared objectives or alignment within Agile and DevOps frameworks. The discussion is more about personal preference and experiences rather than a structured exploration of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:16:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile Consulting versus Agile Coaching, focusing on leadership and self-reliance rather than directly addressing competence. While it touches on the importance of empowering teams and fostering internal change, it lacks explicit discussions on continuous learning, skill development, or the professional standards associated with competence. The depth of discussion is moderate, but the primary focus remains on consulting versus coaching rather than on competence itself.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:16:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile Consulting versus Agile Coaching, focusing on leadership and team dynamics rather than the One Engineering System framework. There are no direct mentions of 1ES principles, components, or its impact on software quality and delivery timelines. The discussion is more about personal preferences in Agile practices, which deviates from the core themes of 1ES.",
     "level": "Ignored"
   }
 }

@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T23:39:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:44:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal achievements and blogging efforts related to Visual Studio ALM, without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the author's personal achievements and contributions to the Visual Studio ALM community, with no explicit discussion of Evidence-Based Management principles or metrics. While there is a mention of documenting problems and sharing knowledge, it lacks a clear connection to data-informed decision-making or the core themes of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T23:39:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:44:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on personal achievements and community contributions related to Visual Studio ALM, without discussing DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on an individual's recognition as an MVP in the context of Visual Studio ALM and shares personal experiences and goals related to blogging and community engagement. While it mentions Team Foundation Server (TFS), it does not delve into the core principles or practices of DevOps, such as collaboration, automation, or shared accountability. The discussion lacks depth and does not align with the key topics outlined in the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -335,7 +341,7 @@
     "reasoning": "Content primarily discusses personal achievements and goals related to blogging and Team Foundation Server, without a focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T23:39:53",
     "ai_confidence": 0,
@@ -346,11 +352,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T23:39:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:44:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal achievements and community contributions related to Visual Studio ALM, without a focus on Agile Product Operating Model principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the author's recognition as an MVP in Visual Studio ALM and their personal experiences with Team Foundation Server (TFS). It does not discuss the Agile Product Operating Model or its principles, nor does it align with the key topics outlined for the category. The mention of TFS and blogging about problem-solving does not connect to the core themes of APOM, which emphasises a product-oriented mindset and agile methodologies in product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -427,11 +436,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:54:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:44:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on receiving an MVP award and the author's community contributions rather than discussing Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the author's recognition as an MVP and their blogging efforts related to Team Foundation Server (TFS). While it mentions documenting problems and sharing knowledge, it does not explicitly discuss Continuous Delivery principles, practices, or related topics. The discussion lacks depth and does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or cultural aspects of delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1476,6 +1488,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the author's recognition as a Visual Studio ALM MVP and their blogging efforts related to Team Foundation Server (TFS). While there is a mention of documenting problems and sharing knowledge, it does not explicitly discuss the Shift-Left Strategy or its principles, benefits, or techniques. The content lacks depth in addressing the core themes of integrating testing, security, or compliance early in the development process, which are central to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:44:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the author's efforts to document problems and solutions related to Team Foundation Server (TFS), which aligns with the idea of sharing knowledge for improvement. However, it lacks a strong focus on Continuous Improvement principles, such as empirical evidence, structured methodologies, or a culture of experimentation. The discussion is more about personal achievements and goals rather than a systematic approach to enhancing processes or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:44:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions personal goals and community contributions, but it lacks a clear focus on the principles of Common Goals within Agile and DevOps. While there are references to collaboration and sharing knowledge, the discussion does not explicitly connect these to strategic alignment or organisational objectives, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:44:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the author's efforts to document problems and share knowledge through blogging, which aligns with the idea of continuous learning and skill development. However, it lacks a focused discussion on competence as a foundational principle, and the depth of exploration into strategies for fostering a culture of competence is minimal.",
     "level": "Ignored"
   }
 }

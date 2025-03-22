@@ -127,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T15:58:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:30:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on conflict management within Agile teams, specifically from the perspective of a Scrum Master. While it briefly mentions collaboration and teamwork, which are relevant to DevOps, it does not delve into the core principles of DevOps such as automation, shared accountability, or continuous improvement. The discussion is more aligned with Agile methodologies rather than the DevOps philosophy, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -166,11 +169,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:36:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:30:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and team conflict resolution, which are not directly related to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on managing team conflict within Agile projects, specifically through the lens of the Scrum Master's role. While it touches on aspects of teamwork and collaboration, it does not directly address Continuous Delivery principles, practices, or tools. The discussion is more about conflict resolution than software delivery practices, leading to a low confidence score for alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Test First Development": {
@@ -958,11 +964,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:36:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:30:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on team conflict management within Scrum rather than discussing the Agile Product Operating Model or its principles.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses conflict management within Agile teams, focusing on the role of Scrum Masters rather than the Agile Product Operating Model itself. While it touches on Agile principles, it does not delve into product management practices or the broader framework of APOM, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1159,11 +1168,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:36:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:30:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses team conflict in Agile projects and the role of Scrum Masters, without any emphasis on evidence-based management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses conflict management within Agile teams, focusing on the role of Scrum Masters. While it touches on collaboration and innovation, it does not explicitly address Evidence-Based Management principles or metrics. The discussion lacks depth in empirical decision-making and current value metrics, which are central to EBM.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1218,15 +1230,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses team conflict within the context of Agile processes and Scrum roles, rather than focusing on employee engagement strategies or motivation.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:36:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on conflict management within Agile frameworks rather than on the One Engineering System.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -1485,6 +1488,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses team conflict management within Agile projects, focusing on the role of Scrum Masters. It does not address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is centred around conflict resolution rather than integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:30:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on managing team conflict within Agile projects, specifically through the lens of the Scrum Master's role. While it touches on aspects of team dynamics and communication, which are relevant to Continuous Improvement, it does not explicitly discuss Continuous Improvement principles or strategies. The mention of fostering collaboration and managing conflict hints at a desire for improvement, but the overall focus is more on conflict resolution than on systematic improvement processes or empirical evidence. Therefore, the confidence score reflects a low alignment with the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:30:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses conflict management within Agile teams, focusing on the Scrum Master's role in facilitating collaboration. While it touches on the importance of maintaining focus on team goals, it does not explicitly define or deeply explore the concept of Common Goals as outlined in the category description. The discussion is more centred on interpersonal dynamics rather than the alignment of strategic objectives, which diminishes its relevance to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:30:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses team conflict and the role of the Scrum Master in managing it, which is more focused on team dynamics than on competence itself. While it touches on the importance of communication and collaboration, it does not delve deeply into continuous learning, skill development, or the professional growth aspects that define competence. The discussion is relevant but secondary to the main theme of conflict management.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:30:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on conflict management within Agile teams, specifically through the lens of Scrum practices. While it touches on collaboration and team dynamics, it does not discuss the One Engineering System framework, its principles, or its implementation. The discussion is centred around Scrum methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

@@ -24,6 +24,9 @@ headline:
   subtitle: Enhance collaboration and productivity through flexible workflows that empower distributed teams to thrive in dynamic environments.
   content: Facilitate effective collaboration across time zones by embracing flexible workflows that prioritise communication and transparency. Posts should explore strategies for managing work in progress, optimising team interactions, and leveraging tools that support distributed environments, enhancing overall productivity and responsiveness to change.
   updated: 2025-02-13T12:06:02Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

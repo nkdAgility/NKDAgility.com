@@ -238,14 +238,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-13T15:19:46",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T16:51:15",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the importance of financial insights and team ownership, which aligns with the principles of Evidence-Based Management. It mentions the iterative process of testing ideas and gathering feedback, reflecting a data-driven approach. However, while it touches on continuous improvement and decision-making, it lacks explicit references to EBM principles or empirical data usage, leading to a moderate confidence score.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of financial insights and team-level P&L, which aligns with the concept of empirical decision-making and current value. However, it lacks direct references to the broader principles of Evidence-Based Management and does not delve deeply into metrics or data-informed decision-making, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Organisational Change": {
@@ -292,11 +292,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T15:56:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:51:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses fostering a culture of continuous improvement and decision-making in teams, without a clear focus on Continuous Delivery principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses continuous improvement and iterative processes, which are relevant to Continuous Delivery principles. However, it primarily focuses on financial insights and team ownership rather than the specific practices and tools of Continuous Delivery. The mention of 'cultivating a culture of continuous improvement' aligns somewhat with the category, but the overall emphasis is on financial accountability rather than software delivery practices.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -1496,15 +1499,6 @@
     "reasoning": "The content discusses fostering a culture of ownership and continuous improvement, which aligns with human-centric approaches and decentralisation principles. However, it primarily focuses on financial insights and decision-making rather than the broader principles of BetaCodex.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T11:59:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses fostering a culture of ownership and financial insights within teams, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:38:29",
@@ -1581,6 +1575,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on financial insights and team ownership rather than discussing the integration of testing, security, or compliance early in the software development lifecycle. While it touches on continuous improvement and decision-making, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:51:01",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content explicitly discusses cultivating a culture of continuous improvement, detailing an iterative process of generating ideas, testing, and adapting based on feedback. This aligns well with the core themes of Continuous Improvement, particularly in fostering a culture of experimentation and learning. However, while the discussion is relevant, it is somewhat overshadowed by the focus on financial insights and team ownership, which are secondary to the main theme. The depth of discussion on Continuous Improvement is adequate but not exhaustive, leading to a high confidence score without reaching the maximum.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:51:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of ownership and financial insights for teams, which indirectly relates to aligning individual contributions with broader organisational goals. However, it lacks explicit references to Common Goals as defined in Agile and DevOps frameworks. While it touches on concepts like team-level P&L and decision-making, it does not delve deeply into the strategic alignment or operationalisation of Common Goals, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:51:05",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of fostering a culture of ownership and continuous improvement, which aligns with the principles of competence. It highlights the need for teams to understand financial contexts to make informed decisions, reflecting a commitment to skill development and quality outcomes. However, while competence is a significant theme, it is not the primary focus, as the content leans more towards financial insights and team ownership rather than explicitly discussing competence in the context of Agile or DevOps methodologies.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:51:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on fostering a culture of ownership and financial insight within teams, which does not directly address the principles or components of the One Engineering System. While it touches on continuous improvement and team accountability, it lacks explicit discussions on integration of tools, processes, or methodologies that are central to 1ES. The content does not provide depth on the impact of 1ES or best practices for its implementation, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

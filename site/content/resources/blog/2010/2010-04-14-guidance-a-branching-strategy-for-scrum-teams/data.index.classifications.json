@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:56:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:57:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses branching strategies in Scrum without a focus on evidence-based management principles or empirical data.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on branching strategies for Scrum teams, discussing practical implementation details rather than evidence-based management principles. While it touches on aspects of project management, it lacks a clear emphasis on empirical decision-making or metrics related to value delivery, innovation, or outcome management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -127,14 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T07:00:56",
+    "calculated_at": "2025-03-22T08:57:38",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily focuses on Scrum practices and branching strategies, which are more aligned with Agile methodologies than with DevOps principles. While it touches on aspects of version control and integration, it lacks a comprehensive discussion on DevOps practices such as Continuous Integration (CI), Continuous Delivery (CD), and the cultural shifts necessary for successful DevOps implementation. The depth of discussion on branching strategies is significant, but it does not sufficiently address the broader DevOps context.",
+    "reasoning": "The content primarily focuses on branching strategies within Scrum teams, which is more aligned with Agile methodologies than the core principles of DevOps. While it touches on aspects of collaboration and workflow optimisation, it lacks a comprehensive discussion on DevOps practices such as automation, shared accountability, and continuous improvement. The mention of Scrum and branching strategies indicates a secondary focus rather than a primary discussion on DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,7 +332,7 @@
     "reasoning": "Content primarily discusses branching strategies in Scrum and does not focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:57:37",
     "ai_confidence": 0,
@@ -340,12 +343,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-22T08:57:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses branching strategies within Scrum teams, which is a significant aspect of Agile methodologies, but it does not focus on the broader principles of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on branching strategies for Scrum teams, which is a specific agile practice rather than a comprehensive discussion on the Agile Product Operating Model. While it mentions Scrum and touches on aspects of agile methodologies, it lacks a thorough exploration of the core principles and broader themes of the Agile Product Operating Model, such as product management integration, operational stability, and continuous improvement. The depth of discussion is more about technical practices than the strategic framework of APOM.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -424,12 +430,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 65,
+    "calculated_at": "2025-03-22T08:57:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 58.0,
-    "reasoning": "The content discusses branching strategies in the context of Scrum, which is relevant to Continuous Delivery as version control and branching are key components of CD. However, the primary focus is on Scrum roles and practices, making Continuous Delivery a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses branching strategies within Scrum teams, which is more focused on version control and development practices rather than Continuous Delivery principles. While it touches on aspects like merging and code stability, it lacks a comprehensive exploration of Continuous Delivery's core themes such as automation, rapid feedback, and the cultural aspects of delivery. The discussion is more about managing code changes than about delivering software in reliable cycles.",
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -1536,6 +1545,42 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses branching strategies within Scrum teams and does not explicitly address the Shift-Left Strategy. While there are mentions of testing and quality gates, these are not integrated into the development process as part of a proactive Shift-Left approach. The focus remains on branching and merging practices rather than on early integration of testing, security, or compliance.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:57:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on branching strategies for Scrum teams, which is more about workflow optimisation than Continuous Improvement. While it touches on aspects of improving code quality and development processes, it lacks a strong emphasis on the principles of Continuous Improvement, such as empirical evidence, culture of experimentation, or systematic integration into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:57:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on branching strategies for Scrum teams, which is a tactical aspect of Agile development rather than a discussion on Common Goals. While it briefly touches on Scrum processes and mentions the importance of aligning development efforts, it lacks a thorough exploration of shared objectives or strategic alignment that defines Common Goals. The discussion is more about practical implementation than about fostering collaboration or accountability across teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:57:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses branching strategies for Scrum teams, which is more focused on technical processes than on the development of competence. While it touches on the importance of maintaining code quality and the implications of branching on team workflow, it lacks a direct emphasis on continuous learning, skill development, or fostering a culture of competence. The discussions around merging and integration do not sufficiently connect to the broader themes of competence as defined in Agile methodologies.",
     "level": "Ignored"
   }
 }

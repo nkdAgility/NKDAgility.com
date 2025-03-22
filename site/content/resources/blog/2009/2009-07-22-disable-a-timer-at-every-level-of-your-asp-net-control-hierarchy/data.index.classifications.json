@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:19:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:14:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details related to ASP.NET controls and does not address Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on a technical solution for managing timers in ASP.NET controls, with no direct mention or discussion of Evidence-Based Management principles. It lacks alignment with the core themes of EBM, such as data-informed decision-making or metrics related to value delivery. The depth of discussion is also minimal, as it does not explore any empirical evidence or strategic management concepts.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:19:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:13:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical implementation in ASP.NET without any reference to DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical solution for managing timers in ASP.NET controls, with no explicit mention of DevOps principles, practices, or cultural shifts. It lacks alignment with key DevOps topics such as collaboration, automation, or shared accountability, and does not provide any depth in discussing DevOps concepts.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses a technical solution for managing timers in ASP.NET controls, with no focus on Systems Thinking principles or organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:19:55",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:19:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:13:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details related to ASP.NET controls and timers, with no reference to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a technical implementation in ASP.NET, discussing how to manage timers in a control hierarchy. There are no mentions of agile methodologies, product management principles, or any related concepts that align with the Agile Product Operating Model. The discussion is purely technical and does not touch on any of the key topics outlined in the category description.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -400,11 +409,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:28:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:14:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to ASP.NET controls and does not address Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical solution for managing timers in an ASP.NET control hierarchy, with no direct mention of Continuous Delivery principles or practices. While it touches on coding techniques, it lacks alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or user feedback. The depth of discussion is limited to a specific coding problem, making it irrelevant to the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1437,6 +1449,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on a technical implementation issue related to ASP.NET controls and does not discuss or align with the principles of the Shift-Left Strategy. There are no mentions of integrating testing, security, or compliance earlier in the development process, nor does it provide any insights into the benefits or methodologies associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T09:13:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical solution for disabling timers in an ASP.NET control hierarchy. While there is a brief mention of seeking recommendations for improving the code, the overall discussion does not align with the principles of Continuous Improvement. It lacks a focus on empirical evidence, data-driven decision-making, or a culture of experimentation and learning. The content is more about a specific coding challenge rather than a broader discussion on continuous improvement practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T09:13:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a technical solution for managing timers in ASP.NET controls, with no discussion of Common Goals, Agile, or DevOps principles. It does not mention shared objectives or alignment within teams, nor does it provide any depth on strategic or tactical commitments.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T09:13:56",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on a technical solution for disabling timers in ASP.NET controls, with no explicit discussion of competence or related themes. While it touches on problem-solving and code efficiency, these aspects do not align with the core principles of competence in Agile or DevOps contexts. The mention of seeking recommendations for code improvement hints at a desire for skill development, but it is not a primary focus of the content.",
     "level": "Ignored"
   }
 }

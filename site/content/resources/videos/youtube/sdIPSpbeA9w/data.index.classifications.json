@@ -238,11 +238,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T15:42:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses automation in software development and its benefits, without a focus on Evidence-Based Management principles or practices.",
+    "calculated_at": "2025-03-21T16:50:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of automation in software development and the reduction of human error, without any explicit reference to Evidence-Based Management principles or metrics. While it touches on efficiency and process improvement, it lacks a focus on empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -283,14 +286,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-10T17:48:53",
+    "calculated_at": "2025-03-21T16:50:03",
     "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
     "final_score": 60.0,
-    "reasoning": "The content discusses the importance of automation in software development, which is a key aspect of Continuous Delivery. It highlights how automation can reduce human error and improve efficiency, aligning with the principles of CD. However, while it touches on related themes, it does not explicitly focus on Continuous Delivery practices or methodologies, leading to a moderate confidence score.",
+    "reasoning": "The content discusses the importance of automation in software development, which is a key aspect of Continuous Delivery. It highlights how automation can reduce human error, improve efficiency, and provide rapid feedback, all of which align with Continuous Delivery principles. However, while it touches on these themes, it does not explicitly focus on Continuous Delivery as a primary topic, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Working Agreements": {
@@ -1472,15 +1475,6 @@
     "reasoning": "Content primarily discusses the importance of automation in software development and the reduction of human error, without addressing the principles or practices of BetaCodex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T11:58:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the importance of automation in software development and its impact on human error, rather than focusing on the principles or implementation of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:38:08",
@@ -1554,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of automation in software development, particularly in reducing human error and improving efficiency. While it touches on aspects that could relate to the Shift-Left Strategy, such as the need for rapid feedback and the integration of testing processes, it does not explicitly mention the Shift-Left concept or its principles. The focus is more on automation as a standalone solution rather than integrating testing and compliance earlier in the development lifecycle, which is central to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:49:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses automation in software development, focusing on reducing human error and enhancing efficiency. While it touches on themes of process improvement and efficiency, it does not explicitly mention Continuous Improvement principles or frameworks. The discussion is more centred on automation rather than a broader commitment to ongoing improvement practices, which limits its alignment with the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:49:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of automation in software development and the reduction of human error, which does not directly address the concept of Common Goals. While it touches on efficiency and process improvement, it lacks explicit discussions on shared objectives, alignment within teams, or strategic goals that are central to the Common Goals category. The focus is more on individual experiences and anecdotes rather than a cohesive exploration of how automation aligns with organisational objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:49:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of automation in reducing human error, which indirectly relates to competence by highlighting the need for reliable processes and skill development. However, it primarily focuses on automation rather than directly addressing competence as a foundational principle in Agile or DevOps. The mention of human error and the need for efficient processes suggests a secondary relevance to competence, but it lacks a thorough exploration of continuous learning or skill development.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:50:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses automation in software development, which is relevant to improving efficiency and reducing human error. However, it does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on standardisation and efficiency, it lacks a direct focus on the integration of tools and processes across teams, which is central to 1ES. The depth of discussion on 1ES-related topics is minimal, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

@@ -23,6 +23,9 @@ headline:
   subtitle: A comprehensive framework for guiding goal achievement through diverse methodologies and practices, enhancing decision-making and adaptability.
   content: A structured approach for aligning organisational goals with actionable methodologies, fostering continuous improvement and adaptability. Posts should explore frameworks for decision-making, performance measurement, and the integration of practices that enhance collaboration, efficiency, and responsiveness to change in complex environments.
   updated: 2025-03-19T12:17:34Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

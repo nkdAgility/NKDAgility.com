@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T10:52:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:38:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on business agility and community discussions rather than DevOps principles. While it mentions collaboration and continuous learning, these concepts are not explicitly tied to DevOps practices or philosophy. The lack of direct references to DevOps methodologies or cultural shifts indicates a weak alignment with the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -259,11 +262,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:39:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a lean coffee event discussing Scrum-related topics, which are not directly tied to Continuous Delivery principles and practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on business agility discussions and does not explicitly mention Continuous Delivery or its principles. While there is a mention of continuous learning, it is not tied to Continuous Delivery practices. The overall discussion lacks depth and relevance to the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -402,15 +408,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum practices and general Agile discussions rather than focusing on Value Stream Management.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum methodology and roles, rather than focusing on the One Engineering System (1ES) framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1222,11 +1219,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum events and roles rather than the Agile Product Operating Model itself.",
+    "calculated_at": "2025-03-21T20:39:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on a community discussion format around business agility rather than the Agile Product Operating Model specifically. While it mentions agile principles and community engagement, it lacks direct references to the core themes of APOM, such as product management practices or operational stability. The discussion is more about general business agility rather than the specific framework of APOM.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1438,11 +1438,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:39:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses event details and questions related to Scrum, without a clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on community engagement and discussions around business agility rather than explicitly addressing Evidence-Based Management principles. While it mentions actionable insights and real-world relevance, it lacks direct references to empirical decision-making or specific metrics that align with EBM. The discussion is more about the format and benefits of the sessions rather than a deep dive into evidence-based practices.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1515,6 +1518,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on business agility discussions and the Lean Coffee format, with no explicit mention of the Shift-Left Strategy or its principles. While it touches on themes of community engagement and continuous learning, these are not directly related to integrating testing, security, or compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:38:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses a forum for business agility that encourages community engagement and continuous learning, which aligns with the principles of Continuous Improvement. However, it lacks explicit references to Continuous Improvement methodologies or frameworks, and the depth of discussion on the topic is limited. The focus is more on community and engagement rather than systematic improvement processes.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:39:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses a community forum focused on business agility, which is related to the broader themes of collaboration and shared objectives. However, it lacks explicit references to Common Goals as defined in Agile and DevOps frameworks. The discussions are more about community engagement and personal insights rather than aligning strategy with execution or operationalising Common Goals. Therefore, while there is some alignment, it is not a primary focus.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:39:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of continuous learning and community engagement, which aligns with the principles of competence. However, it primarily focuses on the format and benefits of the discussions rather than delving deeply into the development of skills or capabilities. The mention of 'continuous learning' is significant, but the overall emphasis is more on community and discussion rather than on competence as a foundational principle.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:39:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Business Agility and does not mention or discuss the One Engineering System (1ES) framework. While it touches on collaboration and community engagement, it lacks direct references to the principles, components, or implementation of 1ES, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

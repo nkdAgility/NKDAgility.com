@@ -170,15 +170,6 @@
     "reasoning": "Content primarily focuses on leadership roles and strategies in continuous delivery without sharing personal experiences or insights.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-20T19:43:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses leadership roles in continuous delivery and does not focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Lean": {
     "category": "Lean",
     "calculated_at": "2025-02-20T19:43:17",
@@ -787,11 +778,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-20T19:43:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:44:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on the role of leadership in continuous delivery and organizational change, without a clear emphasis on evidence-based management principles.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses leadership and cultural change in an agile context but lacks direct references to Evidence-Based Management principles. While it touches on themes like continuous improvement and collaboration, it does not provide empirical evidence or metrics that align with EBM's focus on data-informed decision-making.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -1198,11 +1192,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-20T19:43:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T16:44:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the leadership's role in enabling continuous delivery and mentions key principles like automation and the importance of breaking down organizational silos, making Continuous Delivery a central theme.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of leadership in driving cultural change that supports continuous delivery, explicitly mentioning the need for automation and the elimination of bottlenecks. It aligns well with the principles of Continuous Delivery, particularly in terms of investing in automation and fostering a culture of continuous learning. However, while it touches on key aspects, it does not delve deeply into specific Continuous Delivery practices or tools, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1425,6 +1422,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses leadership and cultural change in the context of agile practices, but it does not explicitly mention the Shift-Left Strategy or its core principles. While there are references to continuous delivery and automation, which are tangentially related, the primary focus is on leadership and organisational change rather than integrating testing, security, and compliance earlier in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:44:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of continuous learning and improvement, which aligns with the principles of Continuous Improvement. However, it primarily focuses on leadership and cultural change rather than providing a detailed exploration of Continuous Improvement methodologies or frameworks. While there are relevant mentions, the overall emphasis is more on leadership strategies than on the systematic practices of Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:44:46",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of setting a clear vision and goals, which aligns with the concept of Common Goals. However, it primarily focuses on leadership and cultural change rather than explicitly detailing how these goals connect to Agile and DevOps frameworks. While there are mentions of aligning team efforts with organisational objectives, the depth of discussion on Common Goals is not comprehensive enough to classify it as a primary focus.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:44:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of continuous learning and improvement, which aligns well with the core themes of competence. It highlights the need for leaders to foster a culture of learning and quality, directly addressing the necessity for skill development in Agile environments. However, while competence is a significant theme, the primary focus is on leadership and cultural change, which slightly dilutes the emphasis on competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:44:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses leadership and cultural change in the context of agile practices, which is somewhat related to the principles of the One Engineering System. However, it lacks direct mentions of 1ES and does not delve into the specific components or best practices of the framework. The focus is more on general leadership strategies rather than the integration and standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

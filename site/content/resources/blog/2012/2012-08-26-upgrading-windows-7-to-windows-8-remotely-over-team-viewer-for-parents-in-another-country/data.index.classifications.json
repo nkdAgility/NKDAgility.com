@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:34:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:09:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of upgrading an operating system remotely and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a personal experience of upgrading an operating system remotely and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of data-informed decision-making or any of the key topics outlined in the EBM definition.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T19:35:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:09:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of upgrading an operating system remotely, which does not align with DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on upgrading an operating system remotely using Team Viewer, which is not related to DevOps principles or practices. There are no direct mentions of DevOps concepts such as collaboration, automation, or shared accountability. The discussion lacks depth in any relevant DevOps themes, making it clear that the content does not align with the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -314,7 +320,7 @@
     "reasoning": "Content primarily discusses the process of upgrading an operating system remotely, focusing on technical steps and personal experiences, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:36:01",
     "ai_confidence": 0,
@@ -325,11 +331,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:36:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:09:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of upgrading an operating system remotely, with no relevance to Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on upgrading an operating system remotely and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related topics. The content is primarily technical support-oriented and does not align with the core themes of the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -400,11 +409,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:57:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:09:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about upgrading an operating system remotely and does not discuss any principles, practices, or methodologies related to Continuous Delivery.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on upgrading an operating system remotely using Team Viewer, which is unrelated to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, automation, or software delivery cycles. The discussion is centred around personal tech support rather than software development methodologies.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1437,6 +1449,42 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the process of upgrading an operating system remotely, with no explicit mention of integrating testing, security, or compliance earlier in the software development lifecycle. While there is a brief mention of security considerations during the upgrade, it does not align with the core themes of the Shift-Left Strategy, which focuses on proactive measures in software development rather than operational tasks like OS upgrades.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:09:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience of upgrading an operating system remotely, with no explicit discussion of Continuous Improvement principles. While there are elements of problem-solving and adaptation, they do not align with the core themes of Continuous Improvement, such as data-driven decision-making or fostering a culture of experimentation. The content lacks depth in discussing any strategies or frameworks related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:09:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience of upgrading an operating system remotely for family members, which does not align with the principles of Common Goals in Agile or DevOps. There are no explicit discussions of shared objectives, team alignment, or strategic goals, and the content lacks depth in relation to the category's key topics.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-22T08:09:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the practical steps for upgrading an operating system remotely, with minimal reference to the concept of competence. While it touches on the technical skills required for remote support, it lacks a deeper discussion on continuous learning, skill development, or the professional implications of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   }
 }

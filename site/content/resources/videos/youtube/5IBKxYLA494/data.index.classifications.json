@@ -748,11 +748,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T17:57:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum practices and the use of Azure DevOps, but does not focus on Evidence-Based Management principles or empirical data-driven decision-making.",
+    "calculated_at": "2025-03-21T17:38:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the use of Azure DevOps, with only a brief mention of metrics in relation to Scrum. While it discusses the importance of adapting practices to team needs, it lacks a strong emphasis on empirical evidence or data-informed decision-making, which are central to Evidence-Based Management.",
     "level": "Ignored"
   },
   "Experimentation": {
@@ -877,11 +880,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-13T17:58:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:38:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on the Scrum framework and Azure DevOps, rather than Continuous Delivery principles and practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the use of Azure DevOps to enhance those practices. While it touches on aspects of agile methodologies, it does not explicitly discuss Continuous Delivery principles, automation in deployment, or rapid feedback mechanisms that are central to Continuous Delivery. The discussion is more about Scrum roles and events rather than the Continuous Delivery process itself.",
     "level": "Ignored"
   },
   "Remote Working": {
@@ -1321,14 +1327,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T14:53:42",
-    "ai_confidence": 67.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 60.0,
-    "ai_depth": 70.0,
+    "calculated_at": "2025-03-21T17:38:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 65.0,
-    "reasoning": "The content primarily focuses on using Azure DevOps to enhance Scrum processes, which aligns with DevOps principles of integrating tools and practices for continuous delivery. It discusses automation, team collaboration, and the configuration of Azure DevOps to support agile methodologies, which are key aspects of DevOps. However, the emphasis on Scrum practices and the lack of broader DevOps topics such as CI/CD pipelines and cultural shifts slightly limits its alignment with the DevOps category.",
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on leveraging Azure DevOps within the context of Scrum, which is a specific methodology rather than a broader DevOps philosophy. While it mentions DevOps and discusses aspects of collaboration and tool integration, the emphasis is on Scrum practices and project management rather than the core principles of DevOps such as continuous value delivery, automation, and shared accountability. Therefore, while there are relevant mentions, the overall focus is more on Scrum than on DevOps as a philosophy.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -1478,23 +1484,17 @@
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on Azure DevOps for Agile practices rather than platform engineering principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:13:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum practices and Azure DevOps, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T17:38:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content primarily discusses the Scrum framework and its implementation using Azure DevOps, which is a significant aspect of Agile methodologies. However, it focuses more on technical practices and tools rather than a holistic view of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on enhancing the Scrum process using Azure DevOps, which is more aligned with traditional Scrum practices rather than the broader Agile Product Operating Model. While it touches on agile practices and mentions concepts like backlog management and refinement, it lacks a direct discussion on transitioning to a product-oriented mindset or integrating product management principles. The depth of discussion on Scrum events and tools is significant, but it does not sufficiently address the core themes of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1557,6 +1557,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum practices and the use of Azure DevOps to enhance Agile methodologies. While it discusses aspects of project management and team collaboration, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth regarding early integration of testing, security, or compliance, which are central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:38:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses Scrum practices and the use of Azure DevOps to enhance these processes, which indirectly relates to Continuous Improvement. However, while it mentions the importance of adapting tools and practices, it lacks a focused discussion on Continuous Improvement principles, empirical evidence, or specific strategies for fostering a culture of experimentation and learning. The mention of 'continuous improvement' in the conclusion is brief and does not delve into the key topics outlined for the category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:38:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the practical application of Azure DevOps within the Scrum framework, discussing specific tools and practices rather than the overarching concept of Common Goals. While it touches on aspects of team collaboration and objectives, it lacks a direct and detailed exploration of how these practices align with strategic goals or the significance of Common Goals in Agile and DevOps. The discussion is more about operationalising Scrum rather than connecting individual contributions to a shared mission.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:38:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on utilising Azure DevOps to enhance Scrum processes, with limited direct discussion on competence. While it touches on the importance of adapting practices and tools to support team behaviours, it lacks a thorough exploration of continuous learning, skill development, or the professional growth aspects that define competence. The depth of discussion on competence-related themes is minimal, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:38:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the use of Azure DevOps to enhance those practices. While it discusses some aspects of project management and team collaboration, it does not explicitly mention or align with the principles of the One Engineering System framework. The discussion is centred around Scrum and Agile methodologies, which are outside the scope of 1ES.",
     "level": "Ignored"
   }
 }

@@ -736,11 +736,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T18:03:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:38:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on implementing a Kanban strategy using Azure DevOps, with no clear discussion on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on implementing a Caman strategy using Azure DevOps, with an emphasis on visualising workflows and establishing shared rules. While it touches on aspects of team collaboration and workflow management, it lacks direct references to Evidence-Based Management principles, such as empirical decision-making or metrics related to current value, time to market, or ability to innovate. The discussion is more centred on practical tool usage rather than data-informed decision-making, which is essential for EBM.",
     "level": "Ignored"
   },
   "Experimentation": {
@@ -862,11 +865,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-13T18:03:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:38:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Kanban strategies and the use of Azure DevOps, with no clear discussion on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on leveraging Azure DevOps for visualising workflows and establishing shared rules within a Caman strategy. While it touches on aspects of team collaboration and workflow management, it does not explicitly discuss Continuous Delivery principles, practices, or the role of automation in testing and deployment. The discussion is more aligned with Kanban and Scrum methodologies rather than Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Remote Working": {
@@ -1318,14 +1324,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T11:45:20",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-03-21T17:38:36",
+    "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 50,
-    "final_score": 75.0,
-    "reasoning": "The content discusses the use of Azure DevOps in the context of implementing a Caman strategy, which is relevant to DevOps practices. It touches on the importance of visualisation in hybrid work environments and how Azure DevOps can facilitate this. However, while it mentions tools and some principles of DevOps, the primary focus is on the Caman strategy and Scrum practices rather than a comprehensive exploration of DevOps principles, practices, or cultural shifts. The depth of discussion on DevOps-related topics is limited, focusing more on specific tool usage rather than broader DevOps concepts.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on leveraging Azure DevOps for visualising workflows within a Caman strategy, which is more aligned with project management and Kanban practices than the core principles of DevOps. While it mentions Azure DevOps, which is a tool often used in DevOps practices, the discussion lacks depth in addressing the broader DevOps philosophy, such as collaboration, automation, and shared accountability. The content does not sufficiently explore the cultural shifts or principles necessary for effective DevOps implementation, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -1484,23 +1490,17 @@
     "reasoning": "Content primarily focuses on implementing a Caman strategy using Azure DevOps, discussing Scrum and Kanban methodologies rather than platform engineering principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:13:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on implementing a Caman strategy using Azure DevOps, discussing Scrum and Kanban methodologies rather than the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:13:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile methodologies and tools like Azure DevOps in the context of managing work and visualisation, which aligns with Agile principles. However, it primarily focuses on technical practices and specific tools rather than a comprehensive discussion on the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T17:38:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on implementing a Caman strategy using Azure DevOps, which is more aligned with Kanban practices rather than the Agile Product Operating Model. While it touches on collaboration and workflow visualisation, it lacks a direct discussion on the principles of APOM, such as transitioning to a product ethos or integrating product management practices. The depth of discussion on APOM-related topics is minimal, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1563,6 +1563,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Caman strategy and the use of Azure DevOps for visualisation in hybrid work environments. While it touches on workflow management, it does not explicitly discuss the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth regarding early integration of testing, security, or compliance, which are core to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:38:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of establishing shared rules and adapting workflows, which aligns with Continuous Improvement principles. However, it primarily focuses on the implementation of a Caman strategy using Azure DevOps rather than a broader discussion on Continuous Improvement itself. The mention of adapting rules and visualising workflows indicates some alignment, but the depth of discussion on Continuous Improvement concepts is limited.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:38:41",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of establishing shared rules and visualising workflows, which aligns with the concept of Common Goals. However, it primarily focuses on the practical application of Azure DevOps and Caman strategy rather than explicitly addressing the foundational principles of Common Goals in Agile and DevOps. The discussion lacks depth in connecting these practices to overarching strategic objectives, resulting in a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:38:44",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of establishing shared rules and visualising workflows, which indirectly relates to competence in terms of team collaboration and effective management. However, it primarily focuses on the use of Azure DevOps and Caman strategy rather than explicitly addressing continuous learning or skill development. The depth of discussion on competence-related themes is moderate, but the primary focus remains on tool utilisation rather than the foundational principles of competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:38:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on leveraging Azure DevOps for a Caman strategy, which is not directly related to the One Engineering System framework. While it touches on collaboration and workflow visualisation, it lacks explicit discussions on the principles, components, or best practices of 1ES. The mention of shared rules and team collaboration is too general and does not delve into the integration and standardisation aspects central to 1ES.",
     "level": "Ignored"
   }
 }

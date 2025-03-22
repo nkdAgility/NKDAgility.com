@@ -655,11 +655,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T18:29:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:02:42",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the management and optimisation of a Product Backlog, focusing on product development rather than Continuous Delivery principles or practices.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on the management of a Product Backlog, which is more aligned with Agile practices than Continuous Delivery. While it touches on aspects of product development and the importance of reflection and adaptation, it does not explicitly discuss Continuous Delivery principles, automation, or delivery practices. The discussion lacks depth in relation to Continuous Delivery, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1279,11 +1282,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T18:26:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:02:16",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the management and optimisation of a Product Backlog, focusing on product development principles rather than DevOps practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the management of a Product Backlog within the context of product development, which is more aligned with Agile methodologies than with DevOps principles. While there are brief mentions of collaboration and reflection, the core themes of DevOps, such as automation, shared accountability, and continuous delivery, are not explicitly addressed. The discussion lacks depth in relation to DevOps practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1441,12 +1447,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T21:48:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:02:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the management of the Product Backlog in product development, focusing on lean inventory and future readiness, without a clear emphasis on evidence-based management principles or empirical data.",
-    "level": "Ignored"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog and reflects on the concept of unrealised value, which aligns with the Evidence-Based Management principles. However, it primarily focuses on the practical aspects of backlog management rather than explicitly discussing empirical decision-making or data-informed strategies. The depth of discussion on the balance between current needs and future readiness provides some insight into EBM, but it lacks a comprehensive exploration of the key topics outlined in the category definition.",
+    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1457,25 +1466,16 @@
     "reasoning": "Content heavily discusses product backlog management and does not focus on platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:49:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the Product Backlog in product development, which is not directly related to the principles or components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T22:27:58",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
+    "calculated_at": "2025-03-21T19:02:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses the Product Backlog in detail, emphasising its role in product-centric development and the importance of maintaining a lean inventory that reflects unrealised value. It aligns well with the principles of the Agile Product Operating Model, particularly in terms of continuous feedback and iteration. However, while it touches on key themes, it does not explicitly mention Agile methodologies or cross-functional teams, which slightly lowers the confidence score.",
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses the concept of the Product Backlog, which is a key element in Agile product management. It aligns with the Agile Product Operating Model by emphasising the importance of maintaining a lean backlog that reflects current and future product needs. However, while it touches on agile principles, it lacks a broader discussion on the overall framework of the Agile Product Operating Model, such as governance, operational stability, or the role of organisational structure. The depth of discussion is moderate, focusing on the balance between current and future needs but not extensively covering other APOM principles.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -1548,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the management of a Product Backlog in product development, focusing on maintaining a lean inventory and future readiness. While it touches on aspects of reflection and adaptation, it does not explicitly address the Shift-Left Strategy or its core principles, such as integrating testing, security, or compliance early in the development process. The discussion lacks depth in relation to the Shift-Left Strategy, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:02:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog and the need for regular reflection and adaptation, which aligns with Continuous Improvement principles. However, while it touches on these themes, the primary focus is on backlog management rather than a comprehensive exploration of Continuous Improvement strategies or frameworks. The discussion lacks depth in terms of specific techniques or case studies related to Continuous Improvement, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:02:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of a lean Product Backlog and its role in product development, which indirectly relates to aligning team efforts with strategic objectives. However, it primarily focuses on backlog management rather than explicitly addressing Common Goals within Agile or DevOps frameworks. The discussion lacks direct mentions of shared objectives or frameworks like OKRs, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:02:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog and the need for continuous reflection and adaptation, which aligns with the principles of competence in Agile methodologies. However, it primarily focuses on backlog management rather than explicitly addressing competence as a foundational principle. The discussion on surprises and the need for regular reflection hints at the importance of skill development and adaptability, but it lacks a direct emphasis on competence as a primary theme.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:02:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of a Product Backlog in product development, discussing its importance, management, and the balance between current needs and future readiness. However, it does not explicitly mention the One Engineering System (1ES) framework or its principles, components, or integration aspects. The discussion is more aligned with agile methodologies rather than the standardisation and integration of engineering practices that 1ES promotes. Therefore, while there are some tangential connections to engineering practices, the content does not meet the criteria for a strong alignment with the One Engineering System category.",
     "level": "Ignored"
   }
 }

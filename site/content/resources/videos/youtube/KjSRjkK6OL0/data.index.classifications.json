@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T21:47:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:28:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master within Agile methodologies, discussing ineffective practices and behaviours. While it touches on collaboration, it does not engage with the core principles of DevOps, such as automation, shared accountability, or continuous improvement. The discussion is centred around Scrum, which is not aligned with the DevOps philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -88,11 +91,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T21:48:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:29:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of a Scrum Master without reference to Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of an ineffective Scrum Master and highlights issues within Agile practices, but it does not mention or align with the principles of Evidence-Based Management. It lacks empirical evidence, metrics, or a focus on data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -326,15 +332,6 @@
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-17T21:48:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T21:48:45",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
@@ -640,11 +637,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T21:50:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:29:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of an ineffective Scrum Master within Agile practices, focusing on team dynamics and collaboration rather than Continuous Delivery principles. There are no direct mentions of Continuous Delivery, and the discussion lacks alignment with its core themes such as automation, incremental improvements, or rapid feedback. The depth of discussion is minimal, as it does not provide any insights into Continuous Delivery practices or tools.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -733,11 +733,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T21:50:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of a Scrum Master, which is more focused on Scrum practices rather than the broader Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T19:29:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the pitfalls of ineffective Scrum practices, which are related to agile methodologies but do not directly address the Agile Product Operating Model. While it mentions Agile principles, it lacks a comprehensive discussion on product management, governance, or the transition to a product-oriented mindset, which are key aspects of the APOM. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1443,6 +1446,54 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily discusses the role of an ineffective Scrum Master and their impact on Agile practices, without any mention or alignment to the Shift-Left Strategy. It focuses on Scrum dynamics rather than integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:29:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the negative traits of an ineffective Scrum Master rather than discussing Continuous Improvement principles. While it touches on the need for improvement by identifying pitfalls, it lacks a detailed exploration of Continuous Improvement strategies, empirical evidence, or a culture of experimentation. The discussion is more about the shortcomings of Scrum practices than about fostering a continuous improvement mindset.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:29:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the negative behaviours of an ineffective Scrum Master rather than discussing Common Goals. While it touches on Agile principles, it does not explicitly mention or explore the concept of Common Goals, nor does it provide a detailed discussion on how these goals align with team dynamics or organisational objectives. The content lacks depth in connecting to the core themes of Common Goals, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:29:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of an ineffective Scrum Master, highlighting behaviours that hinder team progress and collaboration. While it touches on the importance of effective Scrum practices, it primarily focuses on identifying negative traits rather than fostering competence or continuous development. The discussion lacks depth in exploring strategies for improvement or the significance of competence in Agile methodologies.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:29:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master within Agile methodologies, discussing ineffective practices and behaviours. It does not mention or align with the principles of the One Engineering System, which is centred on standardising and integrating software development practices across teams. The discussion is limited to Scrum, making it irrelevant to the 1ES framework.",
     "level": "Ignored"
   }
 }

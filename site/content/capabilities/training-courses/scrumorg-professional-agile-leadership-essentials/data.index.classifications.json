@@ -88,12 +88,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T00:06:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T15:07:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of leaders in driving agile transformation and improving organisational agility, which aligns with some principles of Evidence-Based Management. However, it primarily focuses on a specific training course rather than a comprehensive discussion on EBM.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation rather than explicitly discussing Evidence-Based Management. While it touches on the importance of measuring benefits and impacts of agility, it lacks a strong emphasis on empirical evidence and data-informed decision-making, which are central to EBM. The discussion is more about leadership roles and agile practices than about the specific metrics and outcomes associated with EBM.",
+    "level": "Ignored"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -318,15 +321,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content primarily focuses on Agile leadership and training, without a clear emphasis on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T00:07:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile leadership and Scrum training, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -619,11 +613,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T00:08:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile leadership and Scrum training, with no clear discussion on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T15:06:57",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation rather than Continuous Delivery specifically. While it touches on themes of agility and organisational change, it lacks direct mentions of Continuous Delivery principles, automation in deployment, or specific practices related to delivering software in reliable cycles. The discussion is more about leadership roles in Agile contexts, which is only tangentially related to Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Agile leadership and transformation rather than explicitly discussing the Shift-Left Strategy. While it touches on themes of agility and organisational change, it does not delve into integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy. The discussion is more about leadership roles and cultural changes in Agile environments, lacking the necessary depth and direct mentions of Shift-Left principles.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T15:06:46",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the role of leaders in driving agile transformation, which aligns with Continuous Improvement principles. It mentions the need for cultural and behavioural changes, and how agility can enhance organisational performance. However, it lacks direct references to Continuous Improvement methodologies or specific strategies, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T15:06:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of leaders in facilitating agile transformation, which aligns with the concept of Common Goals by emphasising the need for alignment in objectives across the organisation. It highlights how leaders can help teams achieve better results and the importance of aligning goals and ways of working. However, while it touches on these themes, the primary focus is on the workshop structure and delivery rather than a deep exploration of Common Goals themselves.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T15:06:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of leadership in driving agile transformation, which aligns with the concept of competence in fostering a culture of continuous learning and skill development. It highlights the need for leaders to adapt their roles and provides practical skills for guiding agile teams, indicating a strong focus on competence. However, while it touches on these themes, the depth of discussion on competence itself could be more pronounced, leading to a slightly lower score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T15:06:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation rather than the One Engineering System framework. While it touches on themes of organisational change and agile practices, it does not explicitly discuss the principles, components, or implementation of 1ES. The discussion is more about Agile methodologies and leadership roles, which are not central to the 1ES category.",
     "level": "Ignored"
   }
 }

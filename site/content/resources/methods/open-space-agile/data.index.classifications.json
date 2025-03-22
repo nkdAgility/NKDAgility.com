@@ -598,11 +598,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T17:33:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:08:28",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses project management failures and mentions concepts related to Agile practices, such as sprint goals. However, it does not explicitly address Continuous Delivery principles, nor does it explore the role of automation, rapid feedback, or cultural aspects of Continuous Delivery. The focus is more on general Agile challenges rather than the specific practices and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -763,11 +766,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T17:34:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:08:30",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses failures in Agile practices without reference to evidence-based management principles or empirical data.",
+    "final_score": 14.0,
+    "reasoning": "The content briefly touches on project management failures but does not explicitly discuss Evidence-Based Management principles or metrics. It lacks a focus on data-informed decision-making and does not provide any depth or detail related to the key topics of EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1355,15 +1361,6 @@
     "reasoning": "Content primarily discusses failures in Agile practices without a clear focus on BetaCodex principles or themes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T17:29:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile concepts and failures, which are not directly related to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:43:14",
@@ -1425,6 +1422,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content briefly touches on Agile principles but does not explicitly discuss the Shift-Left Strategy or its core themes. It lacks depth and detail regarding integrating testing, security, or compliance early in the development process, which are essential aspects of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:08:15",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions project management failures, which could relate to Continuous Improvement, but it lacks explicit discussion on Continuous Improvement principles. The focus is more on identifying issues rather than exploring strategies for improvement or fostering a culture of experimentation, which are core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:08:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions 'absence of sprint goals', which relates to Common Goals, but it primarily focuses on failures in project management without a clear connection to the foundational principles of aligning strategy with execution. The discussion lacks depth and does not explore the significance of Common Goals or their impact on team alignment and organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:08:21",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly touches on project management failures, which may imply a lack of competence but does not explicitly discuss competence or its importance in Agile methodologies. The focus is more on failures rather than on continuous development or skill enhancement, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:08:25",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content briefly touches on project management failures, which may relate to software development practices, but it does not explicitly mention the One Engineering System or its principles. The discussion lacks depth and does not align with the core themes of integration, standardisation, or best practices associated with 1ES.",
     "level": "Ignored"
   }
 }

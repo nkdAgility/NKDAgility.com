@@ -628,11 +628,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T04:52:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T18:34:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and the use of story points, which are not directly related to Continuous Delivery. While it touches on Agile practices, it does not discuss Continuous Delivery principles, automation, or delivery strategies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -802,11 +805,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T04:52:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum practices and the use of story points, without a focus on evidence-based management principles or empirical data.",
+    "calculated_at": "2025-03-21T18:34:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum and the use of story points, which are not directly related to Evidence-Based Management. While it touches on concepts like empirical process control and the importance of conversation over quantification, it lacks a strong focus on data-informed decision-making or the specific metrics outlined in the EBM category. The discussion is more about Agile practices than evidence-based management principles.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1246,11 +1252,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T04:50:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T18:34:14",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 50,
+    "final_score": 28.0,
+    "reasoning": "The content primarily focuses on Scrum and the use of story points, which are specific to Agile methodologies rather than DevOps principles. While there is a brief mention of improving team collaboration and delivering value, the discussion does not delve into core DevOps themes such as automation, shared accountability, or continuous improvement. The content lacks depth in addressing DevOps as a philosophy, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1417,11 +1426,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:08:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on story points rather than the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T18:34:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Scrum and the use of story points, which are specific practices within Agile but do not directly address the broader Agile Product Operating Model. While it touches on Agile principles, it lacks a comprehensive discussion on product management, operational stability, or the transition to a product-oriented mindset, which are key aspects of the APOM.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1440,15 +1452,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:08:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1491,6 +1494,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the use of story points in Scrum, focusing on misconceptions and practices related to Agile methodologies. It does not address the Shift-Left Strategy, which involves integrating testing, security, and compliance earlier in the software development lifecycle. The discussion is centred around estimation techniques and team dynamics rather than proactive measures to enhance software quality or delivery speed.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:34:17",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of refining practices in Scrum, particularly around the use of story points, which aligns with the principles of Continuous Improvement. It encourages a shift in perspective and practices, promoting a culture of open dialogue and empirical process control. However, while it touches on aspects of Continuous Improvement, the primary focus is on debunking myths related to story points rather than a comprehensive exploration of Continuous Improvement as a standalone topic.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:34:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on debunking myths surrounding story points in Scrum, which is a specific practice rather than a discussion on Common Goals. While it touches on the importance of team conversations and collaboration, it does not explicitly address the alignment of strategy with execution or the broader implications of Common Goals within Agile and DevOps frameworks. The discussion lacks depth in connecting these practices to overarching strategic objectives, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:34:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of understanding and using story points effectively within Scrum, which aligns with the principles of competence in Agile. It emphasises continuous learning and adaptation, which are key aspects of competence. However, while it touches on these themes, the primary focus is on debunking myths rather than a deep exploration of competence itself, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:34:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and the use of story points, which are not directly related to the One Engineering System framework. While it discusses Agile practices, it does not address the principles, integration, or implementation of 1ES, nor does it provide insights into standardising engineering processes across teams.",
     "level": "Ignored"
   }
 }

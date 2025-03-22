@@ -30,7 +30,6 @@ tags:
 - Agile Product Management
 - Product Owner
 - Products and Books
-- Agile Product Operating Model
 - Scrum Product Development
 - Value Delivery
 - Pragmatic Thinking
