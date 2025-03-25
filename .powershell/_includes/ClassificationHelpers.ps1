@@ -40,52 +40,15 @@ $catalogues["catalog"]["concepts"] = Get-CatalogHashtable -Classification "conce
 $catalogues["catalog_full"] = $catalogues["catalog"]["categories"] + $catalogues["catalog"]["tags"] + $catalogues["catalog"]["concepts"]
 $catalogues["marketing"] = Get-CatalogHashtable -Classification "marketing"
 
-function Get-ClassificationsForType {
+
+function Get-ClassificationCache {
     param (
         [Parameter(Mandatory = $true)]
-        [HugoMarkdown]$hugoMarkdown,
-        [string]$ClassificationType = "classification",
-        [switch]$batch,
-        [switch]$updateMissing
+        [string]$CacheFolder,
+        [string]$ClassificationType = "classification"
     )
 
-    $CacheFolder = $hugoMarkdown.FolderPath
-
-    $batchFile = Join-Path $CacheFolder "data.index.classifications.$ClassificationType.batch"
-    $batchJsonlOutout = Join-Path $CacheFolder "data.index.classifications.$ClassificationType-output.jsonl"
-    $batchJsonlInput = Join-Path $CacheFolder "data.index.classifications.$ClassificationType-input.jsonl"
-
-    # Populate Catalogues
-    Write-InfoLog "   Populating Catalogues"
-    $catalog = @{}    
-    switch ($ClassificationType) {
-        { $_ -in "categories", "tags", "concepts" } {
-            $catalog = $catalogues["catalog"][$ClassificationType]
-            $catalog_full = $catalogues["catalog_full"]
-            $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
-        }
-        { $_ -in "catalog_full", "classification" } {
-            $catalog = $catalogues["catalog_full"]
-            $catalog_full = $catalogues["catalog_full"]
-            $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
-        }
-        "marketing" {
-            $catalog = $catalogues["marketing"]
-            $catalog_full = $catalog
-            $cacheFile = Join-Path $CacheFolder "data.index.classifications.marketing.json"
-        }
-        default {
-            Write-ErrorLog "Invalid classification type. Please use 'categories', 'tags', or 'marketing'."
-            return @()
-        }
-    }
-
-    # Load from Cache and validate its contents
-    #==========================================
-    #=================CACHE====================
-    #==========================================
-    $cachedData = @{}
-    Write-InfoLog "   Populating Cache"
+    $cacheFile = Join-Path $CacheFolder "data.index.classifications.$ClassificationType.json"
     if (Test-Path $cacheFile) {
         # Load from cache
         try {
@@ -95,45 +58,68 @@ function Get-ClassificationsForType {
             Write-WarningLog "Warning: Cache file corrupted. Resetting cache."
             $cachedData = @{}
         }
-        Write-DebugLog "Cache Contains: $($cachedData.count) items"
-        # Remove items that are not in catalogue            
-        $keysToRemove = $cachedData.keys | Where-Object { $_ -notin $catalog_full.Keys }
-        if ( $keysToRemove.Count -gt 0) {
-            # If there are keys to remove, remove them and update the cache
-            Write-DebugLog "     Remove: $($keysToRemove.Count) items not found in catalog"
-            foreach ($key in $keysToRemove) {
-                $cachedData.Remove($key)
-            }
-            Write-DebugLog "  Removed {expiredCount} Invalid Items" -PropertyValues $keysToRemove.Count
-            $cachedData | ConvertTo-Json -Depth 10 | Set-Content -Path $cacheFile -Force
-        }           
-        # Check if the cache uses the latest calculations
-        $recalculatedCount = 0
-        $keysToCheck = $cachedData.keys | ForEach-Object { $_ }
-        foreach ($key in  $keysToCheck ) {
-            $entry = $cachedData[$key]
-            $finalScore = Get-ComputedConfidence -aiConfidence $entry.ai_confidence -nonAiConfidence $entry.non_ai_confidence
-            $level = Get-ComputedLevel -confidence $finalScore
+    }
+    return  $cachedData
+}
 
-            if ($entry.final_score -ne $finalScore -or $entry.level -ne $level) {
-                $entry.final_score = $finalScore
-                $entry.level = $level
-                # Add calculated_at if it doesn't exist
-                if (-not ($entry.ContainsKey('calculated_at'))) {
-                    $entry.Insert(1, 'calculated_at', (Get-Date).ToUniversalTime().ToString("s"))
-                }
-                $entry.calculated_at = (Get-Date).ToUniversalTime().ToString("s")                
-                # Update cache
-                $cachedData[$key] = $entry
-                $recalculatedCount++
-            }
+function Remove-ClassificationCacheExpired {
+    param (
+        [Parameter(Mandatory = $true)]
+        [hashtable]$cachedData,
+        [Parameter(Mandatory = $true)]
+        [hashtable]$catalog
+    )
+    $keysToRemove = $cachedData.keys | Where-Object { $_ -notin $catalog.Keys }
+    if ( $keysToRemove.Count -gt 0) {
+        # If there are keys to remove, remove them and update the cache
+        Write-DebugLog "     Remove: $($keysToRemove.Count) items not found in catalog"
+        foreach ($key in $keysToRemove) {
+            $cachedData.Remove($key)
         }
-        if ($recalculatedCount -gt 0) {
-            Write-DebugLog "  Recalculated for {recalculatedCount} Items" -PropertyValues $recalculatedCount
-            $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force            
+        Write-DebugLog "  Removed {expiredCount} Invalid Items" -PropertyValues $keysToRemove.Count
+        $cachedData | ConvertTo-Json -Depth 10 | Set-Content -Path $cacheFile -Force
+    }  
+}
+
+function Update-ClassificationCacheCalculations {
+    param (
+        [Parameter(Mandatory = $true)]
+        [hashtable]$cachedData
+    )
+    # Check if the cache uses the latest calculations
+    $recalculatedCount = 0
+    $keysToCheck = $cachedData.keys | ForEach-Object { $_ }
+    foreach ($key in  $keysToCheck ) {
+        $entry = $cachedData[$key]
+        $finalScore = Get-ComputedConfidence -aiConfidence $entry.ai_confidence -nonAiConfidence $entry.non_ai_confidence
+        $level = Get-ComputedLevel -confidence $finalScore
+
+        if ($entry.final_score -ne $finalScore -or $entry.level -ne $level) {
+            $entry.final_score = $finalScore
+            $entry.level = $level
+            # Add calculated_at if it doesn't exist
+            if (-not ($entry.ContainsKey('calculated_at'))) {
+                $entry.Insert(1, 'calculated_at', (Get-Date).ToUniversalTime().ToString("s"))
+            }
+            $entry.calculated_at = (Get-Date).ToUniversalTime().ToString("s")                
+            # Update cache
+            $cachedData[$key] = $entry
+            $recalculatedCount++
         }
     }
-    # Bring Batch results into Cache file
+    if ($recalculatedCount -gt 0) {
+        Write-DebugLog "  Recalculated for {recalculatedCount} Items" -PropertyValues $recalculatedCount
+        $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force            
+    }
+}
+
+function Update-ClassificationFromBatch {
+    param (
+        [Parameter(Mandatory = $true)]
+        [HugoMarkdown]$hugoMarkdown,
+        [string]$batchFile
+    )
+    
     # If the batch file exists, check the status
     $batchStatus = $null
     if (Test-Path $batchFile) {
@@ -196,6 +182,74 @@ function Get-ClassificationsForType {
             }
         }
     }
+}
+
+
+function Update-ClassificationCache {
+    param (
+        [Parameter(Mandatory = $true)]
+        [HugoMarkdown[]]$hugoMarkdowns
+    )
+
+    foreach ($hugoMarkdown in $hugoMarkdowns) {
+       
+    }
+}
+
+
+
+function Get-ClassificationsForType {
+    param (
+        [Parameter(Mandatory = $true)]
+        [HugoMarkdown]$hugoMarkdown,
+        [string]$ClassificationType = "classification",
+        [switch]$batch,
+        [switch]$updateMissing
+    )
+
+    $CacheFolder = $hugoMarkdown.FolderPath
+
+    $batchFile = Join-Path $CacheFolder "data.index.classifications.$ClassificationType.batch"
+    $batchJsonlOutout = Join-Path $CacheFolder "data.index.classifications.$ClassificationType-output.jsonl"
+    $batchJsonlInput = Join-Path $CacheFolder "data.index.classifications.$ClassificationType-input.jsonl"
+
+    # Populate Catalogues
+    Write-InfoLog "   Populating Catalogues"
+    $catalog = @{}    
+    switch ($ClassificationType) {
+        { $_ -in "categories", "tags", "concepts" } {
+            $catalog = $catalogues["catalog"][$ClassificationType]
+            $catalog_full = $catalogues["catalog_full"]
+            $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
+        }
+        { $_ -in "catalog_full", "classification" } {
+            $catalog = $catalogues["catalog_full"]
+            $catalog_full = $catalogues["catalog_full"]
+            $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
+        }
+        "marketing" {
+            $catalog = $catalogues["marketing"]
+            $catalog_full = $catalog
+            $cacheFile = Join-Path $CacheFolder "data.index.classifications.marketing.json"
+        }
+        default {
+            Write-ErrorLog "Invalid classification type. Please use 'categories', 'tags', or 'marketing'."
+            return @()
+        }
+    }
+
+    # Load from Cache and validate its contents
+    #==========================================
+    #=================CACHE====================
+    #==========================================
+    $cachedData = @{}
+    Write-InfoLog "   Populating Cache"
+    $cachedData = Get-ClassificationCache -CacheFolder $CacheFolder -ClassificationType $ClassificationType
+    $cachedData = Remove-ClassificationCacheExpired -cachedData $cachedData -catalog $catalog_full
+    $cachedData = Update-ClassificationCacheCalculations -cachedData $cachedData
+    # Bring Batch results into Cache file
+    # If the batch file exists, check the status
+    Update-ClassificationFromBatch -hugoMarkdown $hugoMarkdown -batchFile $batchFile
     #==========================================
     #================/CACHE====================
     #==========================================
