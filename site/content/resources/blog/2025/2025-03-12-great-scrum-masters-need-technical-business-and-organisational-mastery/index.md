@@ -39,11 +39,19 @@ tags:
 - Technical Leadership
 
 ---
-One of the most common debates in the Scrum community is whether a Scrum Master needs technical skills. 
+Scrum Masters don’t need to be subject-matter experts in the way traditional management once required. We’re no longer in an era where managers direct unskilled labour; modern teams are intelligent, capable, and cross-functional. The Scrum Master’s responsibility is not to do the work, but to enable others to do it better. They are leaders.
 
-A Scrum Master must be an effective _Teacher, Mentor, Coach, and Facilitator_. They for sure need to be expertise in change, collaboration, coaching, facilitation but while the Scrum Guide does not explicitly require technical knowledge, the reality of working with a Scrum Team suggests otherwise.
+Leadership requires a different kind of expertise—expertise in change, collaboration, coaching, facilitation, conflict navigation, communication, team development, and personal growth. These are non-negotiable.
 
-Technical skills, in this context, mean mastery of the techniques and practices relevant to the domain in which the team operates. If a team is developing medical devices, the Scrum Master should understand the regulatory and quality requirements of that field. If they are working in industrial design, they need familiarity with prototyping, material constraints, and production processes. If they are developing software, they should understand software development practices, including Continuous Delivery, Test First, and DevOps principles. Without this domain knowledge, how can they effectively help the team deliver value?
+But these skills alone are not enough; we should recognise that for leaders to be successful, domain-specific mastery matters too. A Scrum Master who understands the *technical, business, and organisational* context their team operates in can better remove impediments, facilitate learning, and support adaptation.
+
+This idea doesn’t replace the core leadership capabilities. It **builds on them**.
+
+For a Scrum Master to be an effective *Teacher, Mentor, Coach, and Facilitator*, they require a deep understanding, or mastery, of the team's work, the business they operate in, and the organisation they are navigating.
+
+Mastery in this context means knowledge and understanding of the philosophies, methods, practices, and techniques relevant to the domain in which the team operates. If a team is developing medical devices, the Scrum Master should understand that field's regulatory and quality requirements. If they are working in industrial design, they need familiarity with prototyping, material constraints, and production processes. If they are developing software, they should understand software development practices, including Continuous Delivery, Test First, and DevOps principles.
+
+Without this domain knowledge, how can they effectively help the team deliver value?
 
 There are three key areas of mastery that make a Scrum Master truly effective: **Technical Mastery, Business Mastery, and Organisational Evolutionary Mastery.**
 
