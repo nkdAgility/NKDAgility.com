@@ -263,12 +263,13 @@ function Get-ClassificationsForType {
     $CatalogItemsToRefreshOrGet = @($CatalogItemsToRefreshOrGet) + @(
         $CatalogFromCache.Values | Where-Object {
             if (-not $_.calculated_at) {
+                ,
                 $true
             }
             elseif (
                 $catalog_full.ContainsKey($_.category) -and
                 $_.calculated_at -and
-                $catalog_full[$_.category].date
+                $catalog_full[$_.category].datebatch
             ) {
                 [DateTimeOffset]$_.calculated_at -lt [DateTimeOffset]$catalog_full[$_.category].date
             }
