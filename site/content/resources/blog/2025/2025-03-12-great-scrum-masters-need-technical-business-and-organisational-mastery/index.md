@@ -39,9 +39,9 @@ tags:
 - Technical Leadership
 
 ---
-Scrum Masters don’t need to be subject-matter experts in the way traditional management once required. We’re no longer in an era where managers direct unskilled labour; modern teams are intelligent, capable, and cross-functional. The Scrum Master’s responsibility is not to do the work, but to enable others to do it better. They are leaders.
+[Scrum Masters]({{< ref "/tags/scrum-master" >}}) don’t need to be subject-matter experts in the way traditional management once required. We’re no longer in an era where managers direct unskilled labour; modern teams are intelligent, capable, and cross-functional. The Scrum Master’s responsibility is not to do the work, but to enable others to do it better. They are leaders.
 
-Leadership requires a different kind of expertise—expertise in change, collaboration, coaching, facilitation, conflict navigation, communication, team development, and personal growth. These are non-negotiable.
+Leadership requires a different kind of expertise—expertise in change, collaboration, coaching, facilitation, conflict navigation, communication, team development, personal growth, and a [ballance of leadership with control]({{< ref "/resources/blog/2025/2025-03-12-balance-of-leadership-and-control-in-scrum" >}}). These are non-negotiable.
 
 But these skills alone are not enough; we should recognise that for leaders to be successful, domain-specific mastery matters too. A Scrum Master who understands the *technical, business, and organisational* context their team operates in can better remove impediments, facilitate learning, and support adaptation.
 
@@ -49,7 +49,7 @@ This idea doesn’t replace the core leadership capabilities. It **builds on the
 
 For a Scrum Master to be an effective *Teacher, Mentor, Coach, and Facilitator*, they require a deep understanding, or mastery, of the team's work, the business they operate in, and the organisation they are navigating.
 
-Mastery in this context means knowledge and understanding of the philosophies, methods, practices, and techniques relevant to the domain in which the team operates. If a team is developing medical devices, the Scrum Master should understand that field's regulatory and quality requirements. If they are working in industrial design, they need familiarity with prototyping, material constraints, and production processes. If they are developing software, they should understand software development practices, including Continuous Delivery, Test First, and DevOps principles.
+Mastery in this context means knowledge and understanding of the philosophies, methods, practices, and techniques relevant to the domain in which the team operates. If a team is developing medical devices, the Scrum Master should understand that field's regulatory and quality requirements. If they are working in industrial design, they need familiarity with prototyping, material constraints, and production processes. If they are developing software, they should understand software development practices, including [Continuous Delivery]({{< ref "/tags/continuous-delivery" >}}), [Test First]({{< ref "/tags/test-first-development" >}}), and [DevOps]({{< ref "/categories/devops" >}}) principles.
 
 Without this domain knowledge, how can they effectively help the team deliver value?
 
@@ -112,7 +112,7 @@ This includes that the Product Owner is able to:
 
 Without business mastery, a Scrum Master cannot effectively support the Product Owner or ensure the team's alignment with business goals.
 
-### 3. Organisational Transformation Mastery
+### 3. Organisational Evolutionary Mastery
 
 Most organisations operate within traditional hierarchical structures that prioritise control and predictability, which often conflict with the adaptability and empirical approach that Scrum fosters. Scrum enables teams to embrace change, iterate quickly, and focus on delivering value in an environment of uncertainty. To bridge this gap, Scrum Masters must actively guide organisations towards a more dynamic, self-organising model that supports agility and responsiveness to market shifts. Many Agile transformations fail due to a lack of understanding of how organisations truly function and evolve, making this mastery critical for any Scrum Master seeking lasting impact.
 

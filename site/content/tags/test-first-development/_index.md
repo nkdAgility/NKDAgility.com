@@ -1,31 +1,24 @@
 ---
 title: Test First Development
 trustpilot: false
-date: 2025-02-11T10:17:24Z
-description: Ensuring quality by defining tests before implementation.
-Instructions: |-
-  **Use this category only for discussions on Test First Development.**  
-  The purpose of this category is to explore the principles and practices of defining tests prior to the implementation of code, ensuring that quality is embedded in the development process from the outset. This approach aligns with Agile methodologies and promotes a culture of continuous feedback and improvement.
-
-  **Key Topics:**
-  - The principles of Test-Driven Development (TDD) and its role in Agile practices.
-  - The process of writing tests before code, including unit tests, integration tests, and acceptance tests.
-  - The benefits of Test First Development, such as improved code quality, reduced bugs, and enhanced collaboration among team members.
-  - Tools and frameworks that support Test First Development, including JUnit, NUnit, and other testing libraries.
-  - Case studies and examples of successful Test First Development implementations in Agile teams.
-  - The relationship between Test First Development and other Agile practices, such as Continuous Integration and Continuous Delivery.
-  - Common challenges and misconceptions related to Test First Development and strategies to overcome them.
-
-  **Strictly exclude** discussions that focus on unrelated software development practices, such as purely design-oriented approaches, or those that misinterpret the core principles of Agile and TDD.
-headline:
-  cards: []
-  title: Test First Development
-  subtitle: Prioritising quality by establishing clear criteria before development, fostering efficiency and clarity in the delivery process.
-  content: Prioritising quality through the establishment of testing criteria prior to development enhances clarity and efficiency in the delivery process. Posts should explore practices related to test design, validation techniques, integration strategies, and the impact of early testing on project outcomes and team dynamics.
-  updated: 2025-02-13T12:01:34Z
-sitemap:
-  filename: sitemap.xml
-  priority: 0.5
-
+description: Test First defines success before implementation. It supports manual and automated testing, with a strong preference for automation to improve flow and quality.
 ---
 
+**Test First** is a modern engineering practice that anchors the delivery of working software in clarity, confidence, and quality. It is a shift-left strategy where tests are defined *before* implementation begins, guiding design and enabling faster feedback loops.
+
+At its core, Test First promotes defining success criteria upfront—whether through examples, scenarios, specifications, or executable tests. This clarity ensures that teams understand what “good” looks like before they write any code or build any components.
+
+### Dual Support: Manual and Automated
+
+Test First applies to both **manual and automated validation**:
+
+- **Manual Test First** practices include defining acceptance criteria, visual specifications, and test cases before development. This enables effective collaboration between developers, testers, designers, and product owners.
+- **Automated Test First** (such as TDD or ATDD) takes it further by encoding those criteria in executable tests—written before the implementation. These tests drive design, expose ambiguity, and provide a safety net for change.
+
+While manual testing has its place in exploratory and usability validation, **automation is preferred**. It enables fast feedback, supports continuous integration, and reduces the risk of regressions. In mature teams, manual Test First practices are often transitional scaffolding toward full automation.
+
+### Test First is Not Just a Testing Practice
+
+Test First is a **design practice**, a **collaboration practice**, and a **feedback practice**. It improves flow by reducing rework, aligning expectations early, and ensuring that development efforts are always grounded in real customer outcomes.
+
+In teams using Test First well, tests are not written to prove code works—they’re written to define what “working” means.
