@@ -1,4 +1,56 @@
 - FrontMatter:
+    title: Test First Development
+    date: 2025-03-25T07:40:33Z
+    trustpilot: false
+    description: Test First is a practice that defines success before implementation. It supports manual and automated testing, with a strong preference for automation to improve flow and quality.
+    Instructions: |-
+      **Use this category only for discussions on Test First Development.**  
+      The Test First Development category focuses on the practice of defining success criteria before implementation begins, ensuring clarity, confidence, and quality in software delivery. This approach emphasises the importance of both manual and automated testing, with a strong preference for automation to enhance flow and maintain high standards.
+
+      **Key Topics:**
+      - Definition and principles of Test First Development
+      - The role of success criteria in guiding design and implementation
+      - Manual Test First practices, including acceptance criteria and visual specifications
+      - Automated Test First practices, such as Test-Driven Development (TDD) and Acceptance Test-Driven Development (ATDD)
+      - The impact of Test First on collaboration among developers, testers, designers, and product owners
+      - The benefits of fast feedback loops and continuous integration
+      - The distinction between Test First as a testing practice versus a design, collaboration, and feedback practice
+      - The transition from manual to automated testing in mature teams
+
+      **Strictly exclude** discussions that do not directly relate to the principles of Test First Development, such as unrelated software engineering practices, general testing methodologies without a focus on the Test First approach, or misinterpretations of the core concepts.
+    headline:
+      cards: []
+      title: Test First Development
+      subtitle: Empowering teams to define success upfront, enhancing collaboration and quality through proactive testing and clear criteria before implementation.
+      content: A proactive approach that establishes clear success criteria prior to development, fostering collaboration and quality through defined tests. It encompasses both manual and automated validation, driving design and enabling rapid feedback. This practice enhances alignment on expectations and ensures that development is rooted in tangible customer outcomes.
+      updated: 2025-03-25T07:40:35Z
+    sitemap:
+      filename: sitemap.xml
+      priority: 0.7
+    concepts:
+    - Method
+  BodyContent: |
+    **Test First** is a modern engineering practice that anchors the delivery of working software in clarity, confidence, and quality. It is a shift-left strategy where tests are defined *before* implementation begins, guiding design and enabling faster feedback loops.
+
+    At its core, Test First, as a practice, promotes defining success criteria upfront—whether through examples, scenarios, specifications, or executable tests. This clarity ensures that teams understand what “good” looks like before they write any code or build any components.
+
+    ### Dual Support: Manual and Automated
+
+    Test First applies to both **manual and automated validation**:
+
+    - **Manual Test First** practices include defining acceptance criteria, visual specifications, and test cases before development. This enables effective collaboration between developers, testers, designers, and product owners.
+    - **Automated Test First** (such as TDD or ATDD) takes it further by encoding those criteria in executable tests—written before the implementation. These tests drive design, expose ambiguity, and provide a safety net for change.
+
+    While manual testing has its place in exploratory and usability validation, **automation is preferred**. It enables fast feedback, supports continuous integration, and reduces the risk of regressions. In mature teams, manual Test First practices are often transitional scaffolding toward full automation.
+
+    ### Test First is Not Just a Testing Practice
+
+    Test First is a **design practice**, a **collaboration practice**, and a **feedback practice**. It improves flow by reducing rework, aligning expectations early, and ensuring that development efforts are always grounded in real customer outcomes.
+
+    In teams using Test First well, tests are not written to prove code works—they’re written to define what “working” means.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\tags\test-first-development\_index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\tags\test-first-development
+- FrontMatter:
     title: Shift-Left Strategy
     date: 2025-03-17T14:46:11Z
     trustpilot: false
@@ -40,6 +92,79 @@
     Don’t wait—**shift left and build quality in from the start**.
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\tags\shift-left\_index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\tags\shift-left
+- FrontMatter:
+    title: Scrum Master
+    date: 2025-03-25T07:35:53Z
+    trustpilot: false
+    description: The Scrum Master is a leadership accountability in Scrum—a lean-agile practitioner with technical, business, and organisational evolutionary mastery.
+    Instructions: |-
+      **Use this category only for discussions on Scrum Master.**  
+      The Scrum Master is a pivotal role within the Scrum framework, serving as a change agent who facilitates the Scrum Team's effectiveness and promotes agile principles throughout the organisation. This category encompasses the responsibilities, skills, and impact of the Scrum Master in fostering a culture of continuous improvement and value delivery.
+
+      **Key Topics:**
+      - The role and responsibilities of the Scrum Master in a Scrum Team
+      - The importance of technical, business, and organisational mastery for a Scrum Master
+      - Techniques for teaching, coaching, mentoring, and facilitating within a Scrum context
+      - The Scrum Master's influence on organisational change and agility
+      - Empirical decision-making and continuous improvement practices
+      - Distinctions between the Scrum Master and other roles (e.g., delivery manager, project manager)
+      - The impact of the Scrum Master on team dynamics and stakeholder engagement
+
+      **Strictly exclude:**  
+      Discussions that focus on unrelated roles, methodologies outside of Scrum, or misinterpretations of the Scrum Master's responsibilities, such as viewing them solely as administrative support or meeting coordinators.
+    headline:
+      cards: []
+      title: Scrum Master
+      subtitle: Empowering teams to enhance their workflows, drive value, and foster continuous improvement through effective leadership and mastery across key domains.
+      content: A Scrum Master acts as a catalyst for organisational transformation, fostering a culture of continuous improvement and self-management. They guide teams in effective practices, ensuring clarity in goals and stakeholder engagement while addressing systemic impediments. Their role encompasses technical, business, and organisational mastery to drive value delivery and enhance team effectiveness.
+      updated: 2025-03-25T07:35:55Z
+    sitemap:
+      filename: sitemap.xml
+      priority: 0.7
+    concepts:
+    - Framework
+  BodyContent: |
+    A **Scrum Master** is a **change agent** who enables a Scrum Team and its surrounding organisation to improve their system of work and deliver value professionally. Far from a passive facilitator, the Scrum Master is accountable for the **effectiveness of the Scrum Team**, actively shaping the conditions that enable empiricism, self-management, and sustainable delivery.
+
+    Scrum is a **social technology** for solving complex problems. The Scrum Master ensures it is understood and enacted, not just followed.
+
+    To fulfil this accountability, the Scrum Master must **teach, coach, mentor, and facilitate**—choosing the right stance at the right time to help the Scrum Team, Product Owner, and organisation evolve. This demands more than textbook Scrum. It requires **mastery across three critical domains**:
+
+    ### 1. **Technical Mastery**  
+    A Scrum Master must understand the domain in which their team operates. For software teams, this includes:
+    - Test-Driven Development (TDD)
+    - CI/CD and DevOps
+    - SOLID principles and Clean Code
+    - Infrastructure as Code and automated testing
+    - Observability and telemetry
+
+    Without technical fluency, they cannot guide the team towards engineering excellence or challenge ineffective practices.
+
+    ### 2. **Business Mastery**  
+    They help the Product Owner maximise value by supporting:
+    - Vision and Product Goal clarity
+    - Backlog transparency and evidence-based prioritisation
+    - Outcome-focused planning
+    - Effective stakeholder engagement
+
+    A Scrum Master without business context cannot mentor product strategy or drive real outcomes.
+
+    ### 3. **Organisational Mastery**  
+    Scrum exposes organisational dysfunction. The Scrum Master:
+    - Advocates for structural change
+    - Influences leadership
+    - Coaches towards agility
+    - Removes systemic impediments
+
+    They don’t wait for permission to lead change. They cause it.
+
+    ---
+
+    The Scrum Master is not a delivery manager, Jira admin, or meeting scheduler. They are a **lean-agile practitioner** accountable for enabling **continuous improvement, empirical decision-making**, and **value delivery**. Their impact is measured in outcomes, not ceremonies.
+
+    Without a capable Scrum Master, Scrum risks becoming theatre. With one, it becomes a lever for transformation.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\tags\scrum-master\_index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\tags\scrum-master
 - FrontMatter:
     title: Platform Engineering
     trustpilot: false
