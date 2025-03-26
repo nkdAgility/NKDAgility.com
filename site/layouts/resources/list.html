@@ -4,7 +4,7 @@
       <div>
         <div class="row">
           <div class="col-12 col-xl-8">
-            {{- partial "publications/resourceType.html" . }}
+            
           </div>
           <div class="col-xl-4 d-none d-xl-flex justify-content-end align-items-center">
             <h4>tech·nic·al·ly agile</h4>
@@ -41,6 +41,7 @@
 
 
 {{- define "main" }}
+{{ $ResourceTypes := .Params.ResourceTypes}}
 <section class="container my-2">
   {{- $resources := .Site.GetPage "section" "resources" }}
 {{- $sortedPages := sort $resources.Pages ".Pages" "desc" }}
@@ -114,29 +115,42 @@
       <div class="m-1 small">
         <h5>Categories</h5>
         <div class="columns-3">
+          
           {{ range $category, $pages := .Site.Taxonomies.categories }}
+            {{- $items := where $pages "Draft" "!=" true -}}
+            {{- if $ResourceTypes}}
+              {{- $items = where $items "Params.ResourceType" $ResourceTypes -}}
+            {{- end }}
+            {{- $count := len ($items) -}}
+            {{- if gt $count 0 }}
             <div class="d-flex align-items-center">
               <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .Page.Title }}">
                 <a href="{{ .Page.Permalink }}" title="{{ .Page.Title }} - {{ .Page.Description }}">{{ .Page.Title }}</a>
               </span>
-              {{- $count :=  len (where $pages "Draft" "!=" true) }}
               <span class="ms-1">({{ $count }})</span>
             </div>
+            {{- end }}            
           {{ end }}
         </div>
         <hr />
       </div>
       <div class="m-1 small">
-        <h6>Tags</h6>
+        <h5>Tags</h5>
         <div class="columns-4">
           {{ range $category, $pages := .Site.Taxonomies.tags }}
+          {{- $items := where $pages "Draft" "!=" true -}}
+          {{- if $ResourceTypes}}
+            {{- $items = where $items "Params.ResourceType" $ResourceTypes -}}
+          {{- end }}
+          {{- $count := len ($items) -}}
+            {{- if gt $count 0 }}
             <div class="d-flex align-items-center">
               <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .Page.Title }}">
                 <a href="{{ .Page.Permalink }}" title="{{ .Page.Title }} - {{ .Page.Description }}">{{ .Page.Title }}</a>
               </span>
-              {{- $count :=  len (where $pages "Draft" "!=" true) }}
               <span class="ms-1">({{ $count }})</span>
             </div>
+            {{- end }}
           {{ end }}
         </div>
         <hr />
