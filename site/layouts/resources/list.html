@@ -1,11 +1,51 @@
+{{- define "headline" }}
+  <section class="container-fluid resources-headline py-md-4">
+    <section class="container" style="max-width: 900px !important">
+      <div>
+        <div class="row">
+          <div class="col-12 col-xl-8">
+            {{- partial "publications/resourceType.html" . }}
+          </div>
+          <div class="col-xl-4 d-none d-xl-flex justify-content-end align-items-center">
+            <h4>tech·nic·al·ly agile</h4>
+          </div>
+          <div class="col-12 col-xl-8 d-flex flex-column">
+            <div class="flex-grow-1">
+              <h1 class="mb-4 nkda-heading-primary">{{- .Title | markdownify }}</h1>
+              {{- if .Params.subtitle }}
+                <h2 class="mb-4 nkda-heading-secondary">{{- .Params.subtitle | markdownify }}</h2>
+              {{ else }}
+                <h2 class="mb-4 nkda-heading-secondary">{{- .Description | markdownify }}</h2>
+              {{- end }}
+            </div>
+          </div>
+          <div class="col-xl-4 d-none d-xl-flex justify-content-center align-items-center">
+            <i class="fa-solid fa-bracket-curly fa-3x"></i>
+            {{ if eq .Params.ResourceTypes "videos" }}
+            <i class="fa-solid fa-video  fa-3x"></i>
+          {{ else if eq .Params.ResourceTypes "blog" }}
+            <i class="fa-solid fa-newspaper fa-3x"></i>
+          {{ else }}
+            <i class="fa-solid fa-folder-open fa-3x"></i>
+          {{ end }}
+          <i class="fa-solid fa-bracket-curly-right fa-3x"></i>
+          </div>
+        </div>
+      </div>
+    </section>
+  </section>
+  <section class="container-fluid resources-headline-sharebar">
+    <section class="container" style="max-width: 900px !important">&nbsp;</section>
+  </section>
+{{- end }}
+
+
 {{- define "main" }}
 <section class="container my-2">
   {{- $resources := .Site.GetPage "section" "resources" }}
 {{- $sortedPages := sort $resources.Pages ".Pages" "desc" }}
   <div class="row">
     <div class="col-md-2">
-      <h5>{{- $resources.Title }}</h5>
-      <p>{{- $resources.Description }}</p>
       <ul class="list-group">
         {{- range $sortedPages }}
           {{- $count :=  len (where .Pages "Draft" "!=" true) }}
@@ -16,17 +56,23 @@
       </ul>
     </div>
     <div class="col-md-10">
+      {{ $resources := where .Site.RegularPages "Type" "resources" }}
+      {{ if .Params.ResourceTypes}}
+        {{ $resources = where $resources "Params.ResourceType" .Params.ResourceTypes }}
+      {{ end }}
       <div class="m-1">
         <h5>Most recent content</h5>
         <div class="columns-2">
-          {{ range first 10 (sort (where .Site.RegularPages "Type" "resources") "Date" "desc") }}
+          {{ $recent := first 10 (sort $resources "Date" "desc") }}
+
+          {{ range $recent }}
             <div class=" text-truncate" title="{{ .Title }} - {{ .Description }}">
               {{ if eq .Params.ResourceType "videos" }}
                 <i class="fa-solid fa-video"></i>
               {{ else if eq .Params.ResourceType "blog" }}
                 <i class="fa-solid fa-newspaper"></i>
               {{ else }}
-                {{ .Params.ResourceType }}
+              <i class="fa-solid fa-{{ .Params.ResourceType }}"></i>
               {{ end }}
               {{ if .Draft }}
                 <i class="fa-brands fa-firstdraft"></i>
@@ -44,14 +90,14 @@
       <div class="m-1">
         <h5>On Engineering Excelence & Technical Leadership</h5>
         <div class="columns-2">
-          {{ range first 10 (where .Site.RegularPages.ByWeight "Type" "resources") }}
+          {{ range first 10 $resources.ByWeight  }}
             <div class=" text-truncate" title="{{ .Title }} - {{ .Description }}">
               {{ if eq .Params.ResourceType "videos" }}
                 <i class="fa-solid fa-video"></i>
               {{ else if eq .Params.ResourceType "blog" }}
                 <i class="fa-solid fa-newspaper"></i>
               {{ else }}
-                {{ .Params.ResourceType }}
+              <i class="fa-solid fa-{{ .Params.ResourceType }}"></i>
               {{ end }}
               {{ if .Draft }}
                 <i class="fa-brands fa-firstdraft"></i>
