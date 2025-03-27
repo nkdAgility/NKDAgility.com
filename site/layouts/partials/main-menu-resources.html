@@ -12,6 +12,7 @@
             <h5>{{- $resources.Title }}</h5>
             <p>{{- $resources.Description }}</p>
             <ul class="list-group">
+              <li class="list-group-item"><a href="/resources">Overview </a></li>
               {{- range $sortedPages }}
                 {{- $count :=  len (where .Pages "Draft" "!=" true) }}
                 {{- if gt $count 0 }}
@@ -106,14 +107,3 @@
     </div>
   </div>
 </li>
-<style>
-  .columns-2 {
-    column-count: 2;
-  }
-  .columns-3 {
-    column-count: 3;
-  }
-  .columns-4 {
-    column-count: 4;
-  }
-</style>

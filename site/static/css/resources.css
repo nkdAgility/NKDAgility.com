@@ -56,3 +56,16 @@
   color: whitesmoke !important;
   border-color: whitesmoke !important;
 }
+
+
+@media (min-width: 1400px) {
+  .columns-2 {
+    column-count: 2;
+  }
+  .columns-3 {
+    column-count: 3;
+  }
+  .columns-4 {
+    column-count: 4;
+  }
+}
