@@ -114,23 +114,18 @@
       </div>
       <div class="m-1 small">
         <h5>Categories</h5>
-        <div class="columns-3">
-          
+        <div class="row">
           {{ range $category, $pages := .Site.Taxonomies.categories }}
-            {{- $items := where $pages "Draft" "!=" true -}}
-            {{- if $ResourceTypes}}
-              {{- $items = where $items "Params.ResourceType" $ResourceTypes -}}
-            {{- end }}
-            {{- $count := len ($items) -}}
-            {{- if gt $count 0 }}
-            <div class="d-flex align-items-center">
-              <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .Page.Title }}">
-                <a href="{{ .Page.Permalink }}" title="{{ .Page.Title }} - {{ .Page.Description }}">{{ .Page.Title }}</a>
-              </span>
-              <span class="ms-1">({{ $count }})</span>
-            </div>
-            {{- end }}            
-          {{ end }}
+          {{- $items := where $pages "Draft" "!=" true -}}
+          {{- if $ResourceTypes}}
+            {{- $items = where $items "Params.ResourceType" "in" $ResourceTypes -}}
+          {{- end }}
+          {{- $count := len ($items) -}}
+          {{- if gt $count 0 }}   
+          <div class="col-12 col-xl-6 p-3">
+            {{- partial "components/cards/taxonomy.html" (dict "context" . "subTypes" $ResourceTypes) }}
+          </div>
+            {{end}} {{end}}
         </div>
         <hr />
       </div>
