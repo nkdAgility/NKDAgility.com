@@ -72,6 +72,21 @@
               <hr />
             </div>
             <div class="m-1 small">
+              <h5>Concepts</h5>
+              <div class="columns-3">
+                {{ range $category, $pages := .Site.Taxonomies.Concepts }}
+                  <div class="d-flex align-items-center">
+                    <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .Page.Title }}">
+                      <a href="{{ .Page.Permalink }}" title="{{ .Page.Title }} - {{ .Page.Description }}">{{ .Page.Title }}</a>
+                    </span>
+                    {{- $count :=  len (where $pages "Draft" "!=" true) }}
+                    <span class="ms-1">({{ $count }})</span>
+                  </div>
+                {{ end }}
+              </div>
+              <hr />
+            </div>
+            <div class="m-1 small">
               <h5>Categories</h5>
               <div class="columns-3">
                 {{ range $category, $pages := .Site.Taxonomies.categories }}
