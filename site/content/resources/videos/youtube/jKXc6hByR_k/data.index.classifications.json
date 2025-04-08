@@ -187,11 +187,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T15:52:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:35:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational value delivery and investment strategies without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses maximising ROI in software development and touches on quality and expertise, which are relevant to Scrum principles. However, it does not explicitly mention the role of a Scrum Master or delve into Scrum-specific practices, making it more of a general discussion on software development rather than a focused exploration of the Scrum Master role.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1078,11 +1081,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T15:54:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational value, investment, and quality in software delivery without focusing on Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T15:35:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of quality and technical expertise in software development, but it does not explicitly mention Test First Development or its principles. While there are references to quality assurance and investment in quality, the focus is more on general software development practices and ROI rather than the specific methodologies of Test First Development. The discussion lacks depth in terms of the core themes of Test First Development, such as success criteria, TDD, or ATDD.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1584,6 +1590,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses software development practices and maximising ROI but does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on quality and expertise, which are relevant to 1ES, the focus is more on general software investment strategies rather than the integration and standardisation of engineering processes central to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:35:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses maximising ROI in software development, focusing on quality and expertise, but does not explicitly mention Agentic Agility or its principles. While it touches on themes of value creation and the importance of understanding context, it lacks a clear distinction between human and AI capabilities, and does not delve into the intentional shaping of outcomes or the mechanisms of Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -472,11 +472,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T17:33:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:45:49",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses failures in Agile practices without focusing on Test First Development or its principles.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses project management failures and does not mention Test First Development or its principles. There is minimal alignment with the category's core themes, and the depth of discussion is lacking, focusing instead on unrelated issues.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -796,11 +799,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T17:34:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:45:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not specifically address the role or responsibilities of a Scrum Master, focusing instead on general Agile failures without clear reference to Scrum practices or the Scrum Master’s contributions.",
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions concepts related to Scrum, such as sprint goals, but does not explicitly discuss the role or responsibilities of a Scrum Master. The focus is more on project management failures rather than the Scrum framework or the Scrum Master's influence on team dynamics and organisational change.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1470,6 +1476,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content briefly touches on project management failures, which may relate to software development practices, but it does not explicitly mention the One Engineering System or its principles. The discussion lacks depth and does not align with the core themes of integration, standardisation, or best practices associated with 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:45:45",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses failures in project management without any explicit mention of Agentic Agility or its principles. It lacks a focus on intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is superficial and does not delve into the nuances of human or AI agency.",
     "level": "Ignored"
   }
 }

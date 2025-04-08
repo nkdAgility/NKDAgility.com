@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T06:11:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:06:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on personal experiences as an Agile consultant, with only a brief mention of TDD, which is not central to the overall narrative.",
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions TDD (Test-Driven Development) in the context of Agile and Scrum workshops, but it does not focus on Test First Development principles or practices. The primary narrative revolves around the author's experiences as an Agile consultant, with little emphasis on defining success criteria or the impact of testing methodologies on software delivery.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -859,15 +862,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T01:00:23",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "calculated_at": "2025-04-08T17:06:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses experiences related to Agile consulting and mentions Scrum in the context of workshops and training. However, it lacks a focused discussion on the specific role and responsibilities of a Scrum Master. While it touches on Agile methodologies and the impact of Scrum sessions, it does not delve deeply into the practices or challenges faced by a Scrum Master, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses experiences related to Agile consulting and Scrum workshops, which are relevant to the role of a Scrum Master. However, it primarily focuses on personal anecdotes rather than a detailed exploration of the Scrum Master's responsibilities or impact. While Scrum is mentioned, the discussion lacks depth in terms of the specific skills and techniques associated with the Scrum Master role.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1590,6 +1593,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on personal experiences as an Agile consultant, discussing Scrum and Agile methodologies without any direct reference to the One Engineering System (1ES). While it touches on themes of collaboration and team dynamics, it lacks a structured discussion on the principles, components, or implementation of 1ES. The content does not provide depth or detail relevant to the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:06:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on personal experiences as an Agile consultant, discussing the impact of Agile methodologies on teams and organisations. However, it lacks explicit discussions on the principles of Agentic Agility, such as intentional shaping of outcomes, the distinction between human and AI capabilities, or mechanisms of AI Agentic Agility. While it touches on themes of transformation and impact, it does not delve deeply into the core concepts of agency and intentionality, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

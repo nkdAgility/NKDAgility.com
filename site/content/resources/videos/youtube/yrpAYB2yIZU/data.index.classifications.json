@@ -517,11 +517,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T12:23:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about technical implementation related to Active Directory, without any reference to Scrum roles or practices.",
+    "calculated_at": "2025-04-08T17:49:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on technical aspects of Active Directory migration and does not mention the role or responsibilities of a Scrum Master. There is no discussion of Scrum principles, team dynamics, or any related topics that would align with the category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -925,11 +928,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T12:23:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on moving an Active Directory domain and does not discuss Test First Development or related practices.",
+    "calculated_at": "2025-04-08T17:49:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on the process of migrating Active Directory and does not mention or align with any principles of Test First Development. There are no discussions on success criteria, testing practices, or collaboration among development roles, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1470,6 +1476,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the technical steps involved in migrating a domain controller, with minimal direct discussion on competence or continuous learning. While it touches on the importance of having a robust setup and a backup plan, these points are not deeply explored in relation to skill development or professional growth. The content lacks a thorough examination of competence as a foundational principle in Agile or DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:49:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating Active Directory and does not discuss Agentic Agility or its principles. While it touches on planning and execution, it lacks any explicit mention of intentional shaping of outcomes, autonomy, or adaptability in the context of Agentic Agility. The discussion is strictly technical and does not differentiate between human and AI capabilities, nor does it explore the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

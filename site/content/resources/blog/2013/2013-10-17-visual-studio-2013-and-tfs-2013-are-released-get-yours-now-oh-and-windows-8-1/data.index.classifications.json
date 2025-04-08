@@ -1159,11 +1159,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T17:49:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:51:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on the release and features of Visual Studio 2013 and TFS 2013, with no clear mention or discussion of Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and TFS 2013, focusing on features and upgrades without any mention of Test First Development principles, success criteria, or testing practices. There is no alignment with the core themes of the category, and the depth of discussion is minimal, as it does not address any relevant topics related to Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1246,11 +1249,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T17:49:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:51:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Visual Studio 2013 and Team Foundation Server, with no direct relation to the role or responsibilities of a Scrum Master.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no direct mention of the Scrum Master role or its responsibilities. While there are references to Agile methodologies through TFS, the focus is on software tools rather than the Scrum Master’s impact on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1524,6 +1530,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the release and features of Visual Studio 2013 and TFS 2013, with no explicit discussion on competence or continuous skill development. While it mentions personal experience with the tools, it does not delve into the importance of competence in Agile or DevOps contexts, nor does it provide strategies for fostering a culture of competence. The discussion is more about product features and upgrades rather than professional development or quality delivery.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:51:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the release of Visual Studio 2013 and TFS 2013, discussing features and upgrades without any mention of Agentic Agility or its principles. There is no exploration of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is more about product features and updates rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

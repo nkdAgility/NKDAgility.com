@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T22:32:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:06:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of Agile consultants and the circumstances under which organisations should consider hiring them, without any focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of Agile consultants and the circumstances under which organisations should consider hiring them. It does not explicitly mention Test First Development or its principles, nor does it delve into topics related to success criteria, testing practices, or the impact of Test First on collaboration. The focus is on Agile transformation and consultancy rather than on the Test First Development methodology.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -865,11 +868,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T22:33:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:06:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the role of an Agile consultant and the circumstances under which organisations should consider hiring one, rather than focusing specifically on the responsibilities or practices of a Scrum Master.",
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of an Agile consultant and touches on Agile principles, but it does not focus specifically on the responsibilities or impact of a Scrum Master. While Scrum is mentioned, the primary focus is on consulting rather than the Scrum Master role itself, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1596,6 +1602,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the role of Agile consultants and the Agile methodology, with no direct mention of the One Engineering System (1ES) framework or its principles. While it touches on themes of improvement and collaboration, it does not provide substantial detail on integration or standardisation of engineering processes, which are core to 1ES. Therefore, the content does not align well with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:06:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the role of Agile consultants and the importance of change in organisations, but it does not explicitly address the concept of Agentic Agility or its principles. While there are mentions of improvement and adaptability, the focus is primarily on consulting rather than on intentional shaping of outcomes through agency and alignment with values.",
     "level": "Ignored"
   }
 }

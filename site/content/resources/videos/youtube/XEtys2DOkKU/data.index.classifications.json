@@ -1255,11 +1255,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T14:40:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:43:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on cloud migration tools and customizations, with no discussion of Test First Development or related principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on cloud migration and the use of a specific Microsoft tool, with no direct discussion of Test First Development principles or practices. While it mentions preparation and proactive approaches, these concepts do not align with the core themes of Test First Development, such as defining success criteria or automated testing practices.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1321,11 +1324,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T14:40:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:43:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses cloud migration and Microsoft tools, with no relevant focus on Scrum Master roles, responsibilities, or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on cloud migration and the use of a specific Microsoft tool, with no direct mention of Scrum Master responsibilities or related concepts. While there is a brief reference to 'stories' which could imply some agile methodology, it lacks depth and clear alignment with the core themes of the Scrum Master role.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1479,6 +1485,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on cloud migration using a specific Microsoft tool, which does not align with the principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion lacks depth regarding integration or standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:43:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on cloud migration and the use of a specific tool, with minimal direct mention of Agentic Agility. While it discusses proactive approaches and preparation, it does not delve into the principles of Agentic Agility, such as intent, accountability, or the interplay between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

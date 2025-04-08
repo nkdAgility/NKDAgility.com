@@ -526,11 +526,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T20:34:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:18:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum roles and their responsibilities, focusing on the Leadership, Value, and Technical Tracks. It does not mention Test First Development, success criteria, or any testing practices, which are central to the category. The discussion lacks depth and relevance to Test First Development principles.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -850,15 +853,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T02:29:34",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-04-08T17:18:52",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content mentions the Scrum Master role within the context of the Leadership Track, indicating a recognition of its importance. However, the discussion is primarily focused on broader categories of roles (Influencers, Entrepreneurs, Makers) rather than delving deeply into the specific responsibilities, practices, or challenges faced by Scrum Masters. The alignment with Scrum Master themes is present but not comprehensive, and the depth of discussion is limited, focusing more on the overall structure rather than specific Scrum Master practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of the Scrum Master within the broader context of the Leadership Track, indicating a recognition of their importance in creating environments for value delivery. However, the focus is more on the interplay between different roles (Influencers, Entrepreneurs, Makers) rather than a deep dive into the specific responsibilities and impact of the Scrum Master. While there are mentions of the Scrum Master, the discussion lacks comprehensive detail on their unique contributions and techniques, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1590,6 +1593,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum roles and their interactions rather than discussing the One Engineering System framework. While it touches on collaboration and roles within a team, it does not address the principles, integration, or best practices of 1ES, nor does it provide any depth on the impact of 1ES on software quality or delivery timelines.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:18:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum roles and their functions within a team, focusing on Influencers, Entrepreneurs, and Makers. While there are elements of accountability and value maximisation, the discussion lacks a clear focus on Agentic Agility as defined. It does not explicitly address the intentional shaping of outcomes or differentiate between human and AI capabilities in the context of agility, which are crucial for this category.",
     "level": "Ignored"
   }
 }

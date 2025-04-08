@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T03:50:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:58:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the authenticity of Agile practices and the challenges organizations face in truly adopting Agile methodologies, without a focus on Test First Development or related testing practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Agile practices and the assessment of Agile maturity, with no direct mention of Test First Development principles or practices. While it touches on concepts like continuous delivery and feedback, it does not delve into the specifics of defining success criteria or the role of testing in the context of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -874,11 +877,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T03:51:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:58:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses general Agile principles and practices without a specific focus on the role of the Scrum Master.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile principles and practices, which are relevant to the Scrum framework, but it does not specifically focus on the role of the Scrum Master. While it touches on aspects of Agile maturity and team dynamics, it lacks a direct exploration of the Scrum Master's responsibilities, techniques, or influence on organisational change, which are critical to the category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1608,6 +1614,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Agile methodologies and practices, particularly in the context of the US Department of Defense's approach to assessing Agile maturity. While it touches on themes of improvement and adaptation, it does not explicitly mention or focus on the One Engineering System framework, its principles, or its implementation. The discussion is centred around Agile rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:58:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile practices and the importance of self-reflection in assessing Agile maturity, but it does not explicitly address the concept of Agentic Agility or differentiate between human and AI capabilities. While it touches on themes of adaptability and empowerment, it lacks a focused exploration of intentionality and the transformative capacity of individuals and systems in shaping outcomes.",
     "level": "Ignored"
   }
 }

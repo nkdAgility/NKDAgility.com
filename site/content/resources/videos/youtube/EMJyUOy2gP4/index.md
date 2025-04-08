@@ -30,11 +30,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
 - Competence
 - Metrics and Learning
 - People and Process
 - Scrum Team
+- Scrum Master
 - Software Development
 - Agile Project Management
 - Team Performance

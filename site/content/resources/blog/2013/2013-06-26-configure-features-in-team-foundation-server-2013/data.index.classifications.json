@@ -1141,11 +1141,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:12:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:57:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013 and does not address Test First Development or its principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks alignment with the core themes of Test First Development and provides minimal depth on any related topics.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1225,11 +1228,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:12:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:57:35",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on configuring features in Team Foundation Server and does not discuss the role, responsibilities, or practices of a Scrum Master.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, with only a brief mention of the Visual Studio Scrum process template. It does not discuss the role, responsibilities, or impact of a Scrum Master, nor does it align with the core themes of the category. The discussion is largely technical and administrative, lacking depth in Scrum-related topics.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1503,6 +1509,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, which is more about tool usage than discussions on competence, continuous learning, or skill development. While it touches on the importance of configuration for effective project management, it does not delve into the broader themes of competence as defined in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:57:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, which is a technical guide rather than a discussion on Agentic Agility. There are no explicit mentions of the principles of Agentic Agility, nor does it explore the intentional shaping of outcomes, autonomy, or adaptability in a socio-technical context. The content lacks depth in discussing the interplay between human and AI capabilities, and it does not provide any case studies or examples related to Agentic Agility.",
     "level": "Ignored"
   }
 }

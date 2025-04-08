@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T18:40:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:39:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the management and structure of the Product Backlog in Agile development, with no clear focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Product Backlog management in Agile environments, focusing on complexity and hierarchy rather than the principles of Test First Development. There are no direct mentions of success criteria, testing practices, or the role of testing in the development process, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -847,11 +850,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T18:41:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:39:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Product Backlog and its management in Agile product development, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on managing the Product Backlog in complex environments, which is relevant to Scrum but does not explicitly discuss the role or responsibilities of the Scrum Master. While it touches on Agile principles and team autonomy, it lacks a direct focus on the Scrum Master's influence or techniques for coaching and facilitating within a Scrum context.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1600,5 +1606,17 @@
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on managing the Product Backlog within Agile frameworks, discussing hierarchy and complexity in product development. It does not explicitly mention the One Engineering System or its principles, nor does it address integration of tools or processes across teams, which are core to 1ES. The discussion is more aligned with Agile methodologies rather than the standardisation and integration aspects of 1ES.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:39:37",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of team autonomy and adaptability in managing the Product Backlog, which aligns with the principles of Agentic Agility. However, it primarily focuses on Agile practices and does not explicitly differentiate between human and AI capabilities or delve deeply into the mechanisms of AI Agentic Agility. The discussion on complexity and the need for a nuanced approach to hierarchy suggests an understanding of intentionality, but it lacks a comprehensive exploration of the category's core themes.",
+    "level": "Tertiary"
   }
 }

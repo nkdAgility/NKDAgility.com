@@ -547,14 +547,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T12:15:11",
+    "calculated_at": "2025-04-08T17:01:47",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
-    "ai_depth": 25,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
     "final_score": 66.0,
-    "reasoning": "The content discusses the importance of openness and transparency within the Scrum framework, which directly relates to the role of a Scrum Master in fostering trust and communication within teams. It highlights how these values contribute to team dynamics and the Scrum process, aligning well with the responsibilities of a Scrum Master. However, while it touches on key themes, it lacks detailed exploration of specific Scrum ceremonies or techniques for coaching, which slightly limits the depth of discussion.",
+    "reasoning": "The content discusses the importance of openness and transparency within the Scrum framework, which aligns with the Scrum Master's role in fostering team dynamics and promoting agile principles. It explicitly mentions key aspects of communication and emotional openness, which are relevant to the Scrum Master's responsibilities. However, while it touches on these themes, it does not delve deeply into the specific responsibilities or techniques of a Scrum Master, leading to a moderately high confidence score rather than a higher one.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -985,11 +985,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum values, particularly openness, rather than Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T17:01:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses openness and transparency within Scrum, focusing on team dynamics and communication rather than the principles of Test First Development. There are no direct mentions of success criteria, testing practices, or the role of automated testing, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1569,6 +1572,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum principles, specifically openness and transparency, which are not directly related to the One Engineering System framework. While it touches on communication and team dynamics, it does not discuss the integration or standardisation of engineering processes, nor does it mention 1ES or its components. Therefore, the confidence score reflects a very low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:01:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses openness and transparency within Scrum, focusing on team dynamics and communication rather than the intentional shaping of outcomes through agency and adaptability. While it touches on trust and emotional openness, it does not explicitly address the principles of Agentic Agility or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

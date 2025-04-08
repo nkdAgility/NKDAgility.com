@@ -523,11 +523,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T17:50:16",
+    "calculated_at": "2025-04-08T17:22:33",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum or the role of the Scrum Master; it appears to be unrelated to the category.",
+    "reasoning": "The content is entirely focused on a video game, Fortnite, and does not mention or relate to the role of a Scrum Master or any Scrum-related concepts. There is no discussion of Scrum principles, responsibilities, or techniques, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -928,11 +931,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T17:50:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:22:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to software development practices and focuses on a video link about Fortnite.",
+    "final_score": 4.0,
+    "reasoning": "The content is entirely focused on a video game, Fortnite, and does not mention or relate to Test First Development principles or practices in any way. There are no discussions on success criteria, testing methodologies, or any relevant topics that align with the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1461,6 +1467,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is entirely focused on a video game, Fortnite, and does not mention or relate to the One Engineering System or its principles, components, or practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:22:29",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content focuses on a video game, Fortnite, discussing gameplay and strategies without any reference to Agentic Agility or its principles. There is no mention of intentional shaping of outcomes, autonomy, adaptability, or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

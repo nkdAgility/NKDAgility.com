@@ -475,11 +475,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T11:21:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:58:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the benefits of a four-day training format and does not address Test First Development or related principles.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on the benefits of a 4-day training format and does not discuss Test First Development principles, success criteria, or testing practices. It is primarily about training structure and learner experience, with no relevant connection to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -802,11 +805,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T11:22:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:58:26",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses training formats and personal experiences rather than the role or responsibilities of a Scrum Master.",
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions a training format related to Scrum but does not explicitly discuss the role or responsibilities of a Scrum Master. The focus is primarily on the training structure rather than the Scrum Master's influence or practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1488,6 +1494,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the benefits of a specific training format and does not discuss the One Engineering System or its principles. There are no direct mentions of 1ES, and the discussion lacks alignment with the core themes of integration and standardisation in software development practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:58:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the benefits of a specific training format and does not discuss Agentic Agility or its principles. While it touches on reflection and learning, it lacks a clear connection to the intentional shaping of outcomes or the distinction between human and AI capabilities.",
     "level": "Ignored"
   }
 }

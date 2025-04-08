@@ -529,11 +529,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T06:07:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:48:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of senior leadership engagement in Agile consulting, without any mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of senior leadership engagement in Agile transformations, with no direct mention of Test First Development principles or practices. While it touches on themes of adaptability and systemic change, it does not align with the core concepts of Test First Development, such as success criteria, testing practices, or the role of testing in software delivery.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -871,11 +874,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T06:08:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:48:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of senior leadership engagement in Agile transformations, without a specific focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of senior leadership engagement in Agile transformations, which is tangentially related to the Scrum Master's role in facilitating change. However, it does not explicitly mention the Scrum Master or delve into their specific responsibilities, techniques, or impact on team dynamics. The focus is more on leadership rather than the Scrum Master role itself.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1599,6 +1605,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the importance of senior leadership engagement in Agile transformations, which is not directly related to the One Engineering System framework. While it touches on systemic change and organisational transformation, it lacks explicit references to 1ES principles, components, or best practices. The focus is more on Agile methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:48:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of senior leadership engagement in Agile transformations, which touches on aspects of adaptability and alignment with organisational goals. However, it lacks a direct focus on the concept of Agentic Agility, particularly in terms of intentional shaping of outcomes and the distinction between human and AI capabilities. The discussion is more about leadership roles in Agile rather than a deep exploration of agency and intentionality.",
     "level": "Ignored"
   }
 }

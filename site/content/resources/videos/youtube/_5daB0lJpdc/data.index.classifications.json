@@ -487,11 +487,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T13:00:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the value and implications of certifications in Agile roles, particularly Scrum, without addressing Test First Development or its principles.",
+    "calculated_at": "2025-04-08T16:13:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of flexibility and pragmatism in Agile practices, focusing on the dangers of dogmatic approaches. It does not mention Test First Development, nor does it explore any of its principles or practices. The discussion is more about Agile methodologies in general rather than specifically addressing Test First Development or its related concepts.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -826,14 +829,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T11:50:09",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-04-08T16:13:20",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the role of Scrum Masters in relation to certifications and the importance of practical experience over formal qualifications. While it touches on the responsibilities and perceptions of Scrum Masters, it does not delve deeply into the core practices or techniques associated with the role. The focus is more on the critique of certification rather than a comprehensive exploration of the Scrum Master role itself.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of a Scrum Master in the context of dogmatism versus pragmatism, providing a real-world example of a Scrum Master's inflexibility leading to negative outcomes. While it touches on the responsibilities and importance of flexibility in the Scrum framework, the primary focus is on the broader concept of agility rather than a detailed exploration of the Scrum Master's role. Therefore, while there is relevant content, it does not fully meet the criteria for a primary focus on the Scrum Master.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1536,6 +1539,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Agile methodologies and the importance of flexibility versus dogmatism, which does not align with the core principles of the One Engineering System. While it touches on aspects of collaboration and adaptation, it lacks direct references to 1ES, its components, or its implementation in software development environments.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:13:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability in Agile practices, which aligns with the principles of Agentic Agility. However, it primarily focuses on the critique of dogmatic approaches rather than explicitly addressing the intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion lacks depth in exploring the mechanisms of Agentic Agility and does not provide specific examples or case studies related to the category.",
     "level": "Ignored"
   }
 }

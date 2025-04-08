@@ -1144,11 +1144,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T11:31:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:50:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses solely on the installation and configuration of the Release Management Client for Visual Studio 2013, with no discussion of Test First Development or related concepts.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Client for Visual Studio 2013, with no direct discussion or alignment with Test First Development principles. It lacks any mention of success criteria, testing practices, or the impact of testing on software delivery, which are core to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1234,11 +1237,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T11:31:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:50:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content specifically focuses on installing and configuring a Release Management Client for Visual Studio 2013, with no mention of Scrum or Scrum Master responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the installation of the Release Management Client for Visual Studio 2013, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the core themes of the Scrum Master category, nor does it provide any depth on the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1512,6 +1518,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the installation process of the Release Management Client for Visual Studio 2013, with no explicit discussion on competence or continuous skill development. While it touches on the importance of having users added to the system, it does not delve into the broader themes of competence, such as professional growth or quality outcomes. The discussion lacks depth and does not align with the core principles of competence in Agile or DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:50:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Client for Visual Studio 2013, with no explicit discussion of Agentic Agility or its principles. While it touches on aspects of configuring a release pipeline, it does not engage with the intentional shaping of outcomes, nor does it differentiate between human and AI capabilities in the context of agility. The content lacks depth and relevance to the category, leading to a very low confidence score.",
     "level": "Ignored"
   }
 }

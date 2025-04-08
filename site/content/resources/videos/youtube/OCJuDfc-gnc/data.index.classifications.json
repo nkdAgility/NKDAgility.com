@@ -514,12 +514,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on a Q&A session about various topics including DevOps and Agility without a specific focus on the Scrum Master role.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T17:28:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses Scrum fundamentals and the scaling of agility, which are relevant to the role of a Scrum Master. However, it primarily focuses on broader agile practices and large-scale team dynamics rather than the specific responsibilities and impact of a Scrum Master. While there are mentions of Scrum and its principles, the depth of discussion on the Scrum Master's role is limited, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -925,11 +928,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:28:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an Ask Me Anything session on a variety of topics without focusing on Test First Development or its principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on scaling agility and Scrum practices, with no direct mention of Test First Development principles or practices. While it discusses agile methodologies, it does not address success criteria, testing practices, or the importance of automated testing, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1476,6 +1482,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on scaling agility and Scrum practices, which are not directly related to the One Engineering System framework. While there are mentions of collaboration and adapting practices, the discussion does not centre on the integration and standardisation of engineering processes as defined by 1ES. The content lacks depth in addressing the principles or components of 1ES, and it does not provide relevant examples or case studies related to the framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:28:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses scaling agility and Scrum practices, with minimal direct mention of Agentic Agility. While it touches on adaptability and collaboration, it lacks a focused exploration of intentional outcome shaping, accountability, or the interplay between human and AI capabilities. The discussion is more about general Agile practices rather than the specific themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

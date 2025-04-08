@@ -547,12 +547,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:22:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the historical context of management practices and their relation to Agile adoption, but does not specifically address the role, responsibilities, or practices of a Scrum Master.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T17:29:01",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses agile practices and the importance of retrospectives, which are relevant to the Scrum Master's role. However, it does not explicitly focus on the Scrum Master or their specific responsibilities, leading to a moderate confidence score. The discussion on cultural resistance and historical context provides some depth but lacks direct references to the Scrum Master as a facilitator or change agent.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -988,11 +991,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:22:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:28:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses historical management practices and critiques the adoption of Agile methodologies, without any focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses agile practices and the challenges teams face in implementing them, without any direct mention or focus on Test First Development principles. While it touches on concepts like feedback loops and iterative processes, it does not delve into the specifics of defining success criteria or the role of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1572,6 +1578,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Agile practices and Scrum methodologies, discussing the challenges and misconceptions surrounding them. While it touches on themes of collaboration and improvement, it does not explicitly mention or align with the One Engineering System framework, which is centred on standardising and integrating software development practices across teams. The discussion lacks depth regarding the principles or components of 1ES, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:28:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses agile practices and the challenges organisations face in implementing them, but it does not explicitly address the concept of Agentic Agility. While it touches on themes of autonomy and adaptability, it lacks a focused discussion on intentional shaping of outcomes or the distinction between human and AI capabilities. The emphasis is more on general Agile practices rather than the specific principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

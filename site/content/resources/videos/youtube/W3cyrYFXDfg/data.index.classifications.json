@@ -523,11 +523,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T23:39:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:18:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile leadership and management skills, with no focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on agile leadership and the transition from management to leadership, with no direct mention of Test First Development principles or practices. While it discusses the importance of training and measurement in leadership, it does not align with the core themes of Test First Development, such as success criteria, TDD, or collaboration in testing. The discussion lacks depth regarding any testing methodologies, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -871,11 +874,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T23:40:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:18:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile leadership and management skills without a specific focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile leadership and the transition from management to leadership, touching on concepts like servant leadership, which is relevant to the Scrum Master role. However, it does not explicitly focus on the Scrum Master responsibilities or the Scrum framework itself. The discussion is more about general leadership in an agile context rather than the specific role of a Scrum Master, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1602,6 +1608,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on agile leadership and training for managers, which does not directly discuss the One Engineering System framework or its principles. While there are mentions of leadership and management practices, they do not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The discussion lacks depth regarding 1ES and does not provide relevant examples or comparisons, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:18:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the transition from management to leadership within an agile context, touching on concepts like servant leadership and data-driven decision-making. However, it primarily focuses on training and development rather than explicitly addressing the intentional shaping of outcomes through agency and adaptability. While there are relevant themes, the depth and direct mentions of Agentic Agility are limited.",
     "level": "Ignored"
   }
 }

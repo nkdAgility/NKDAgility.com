@@ -1165,11 +1165,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T09:57:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:44:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses issues with Maven and TFS during build and release processes, rather than focusing on Test First Development principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses issues related to Maven and TFS during a transition from SVN, focusing on build and release processes rather than Test First Development principles. There are no explicit mentions of success criteria, automated testing, or Test-Driven Development, which are central to the Test First Development category. The discussion lacks depth in relation to the key topics outlined for Test First Development, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1249,11 +1252,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T09:57:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:44:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical challenges related to Maven and TFS, not the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to Maven and TFS, with no direct mention of Scrum Master responsibilities or concepts. While there are some elements of team collaboration and problem-solving, they are not framed within the context of Scrum or the role of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1533,6 +1539,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily discusses technical issues related to Maven and TFS, with a focus on resolving specific build problems. While there are brief mentions of best practices and the importance of understanding the tools, the discussion lacks a strong emphasis on continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The depth of discussion is more about troubleshooting than fostering a culture of competence or professional growth.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:44:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to Maven and TFS, focusing on build processes and error resolution. It does not explicitly address Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes through autonomy or adaptability. The discussion lacks depth in terms of the transformative capacity of individuals or systems, and it does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

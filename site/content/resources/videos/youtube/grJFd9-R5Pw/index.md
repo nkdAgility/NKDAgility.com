@@ -38,7 +38,7 @@ tags:
 - Software Development
 - Practical Techniques and Tooling
 - Professional Scrum
-- Scrum Master
+- Agile Transformation
 resourceTypes:
 - video
 categories:

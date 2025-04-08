@@ -502,11 +502,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T08:16:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of external perspectives in self-taught learning and organisational improvement, with no clear focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T15:51:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the limitations of self-taught learning and the value of external expertise in software development. It does not mention Test First Development, its principles, or practices such as TDD or ATDD. The focus is on learning methodologies rather than testing practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -835,11 +838,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T08:17:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:51:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses self-taught learning and the value of external perspectives, with only a brief mention of being a scrum coach and consultant, which does not centralise the Scrum Master role.",
+    "final_score": 12.0,
+    "reasoning": "The content briefly mentions the role of a Scrum coach in the context of external expertise but does not focus on the responsibilities or impact of a Scrum Master. The discussion primarily revolves around self-taught learning and the value of external perspectives, lacking depth in Scrum-specific themes.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1557,6 +1563,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the limitations of self-taught learning and the value of external expertise in software development, without directly addressing the principles or components of the One Engineering System. While it touches on themes relevant to software development and continuous learning, it does not focus on the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:51:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of external expertise and continuous learning, which touches on themes of adaptability and alignment with value. However, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. The focus is more on self-taught learning and external guidance rather than intentional shaping of outcomes, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

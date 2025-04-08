@@ -1138,11 +1138,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:08:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:58:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily addresses an issue with Team Foundation Server and does not discuss Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses an authorization error related to Team Foundation Server and its resolution through an upgrade. It does not mention Test First Development principles, success criteria, or any testing practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1225,11 +1228,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:08:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:58:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical issues and solutions related to Team Foundation Server, with no discussions on Scrum Master roles, responsibilities, or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server (TFS) and does not mention the role or responsibilities of a Scrum Master. There is no alignment with the core themes of Scrum or agile principles, and the depth of discussion is minimal, focusing solely on a specific error and its resolution.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1500,6 +1506,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS and does not discuss competence, continuous learning, or skill development. While it mentions a solution to a problem, it lacks depth in exploring the principles of competence or its impact on professional practice.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:58:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server and its resolution, with no explicit mention of Agentic Agility or its principles. The focus is on troubleshooting and upgrading software rather than on intentional shaping of outcomes or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

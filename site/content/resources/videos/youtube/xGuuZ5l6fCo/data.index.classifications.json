@@ -526,11 +526,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T23:02:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:56:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the importance of user feedback and adaptability in Agile practices, without a focus on Test First Development or related testing methodologies.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the importance of adapting to user feedback in Agile environments, which is not directly related to Test First Development principles. While it touches on the need for flexibility and responsiveness, it does not explicitly mention success criteria, testing practices, or the role of automated testing, which are core to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -871,11 +874,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T23:03:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:56:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of user feedback and adaptability in Agile environments, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile principles and the importance of empowering teams to adapt based on user feedback, which aligns with the Scrum Master's role in fostering agility. However, it does not explicitly mention the Scrum Master or delve deeply into their specific responsibilities, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1609,5 +1615,17 @@
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on Agile methodologies and the importance of user feedback in adapting requirements, which does not directly address the principles or components of the One Engineering System. While there are some tangential references to team empowerment and adaptability, these concepts are not explicitly linked to the integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:56:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of empowering teams to adapt requirements based on user feedback, which aligns with the principles of Agentic Agility. It highlights the need for autonomy and adaptability in Agile practices, addressing barriers to change and the necessity of a culture of trust. However, it lacks a clear distinction between Human and AI Agentic Agility and does not delve deeply into the mechanisms of AI systems, which limits its overall alignment with the category.",
+    "level": "Tertiary"
   }
 }

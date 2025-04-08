@@ -589,11 +589,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T22:28:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:22:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses updates to the Scrum Guide, focusing on Scrum roles and team management rather than the principles of Test First Development. There are no explicit mentions of Test First practices, success criteria, or testing methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -940,14 +943,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T02:53:42",
+    "calculated_at": "2025-04-08T17:22:17",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
     "final_score": 61.0,
-    "reasoning": "The content discusses the updates to the Scrum Guide, which includes mentions of the Scrum Team and the role of the Scrum Master. However, it primarily focuses on the overall framework and changes rather than the specific responsibilities and practices of a Scrum Master. While there are relevant points about self-managing teams and accountability, the depth of discussion on the Scrum Master role itself is limited.",
+    "reasoning": "The content discusses updates to the Scrum Guide, which includes mentions of the Scrum Team and the role of the Scrum Master. However, the focus is primarily on the overall framework and its simplification rather than a deep exploration of the Scrum Master's specific responsibilities or impact. While the Scrum Master is mentioned, the discussion lacks depth regarding their role in facilitating team effectiveness or promoting agile principles.",
     "level": "Secondary"
   },
   "Operational Practices": {
@@ -1563,6 +1566,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on updates to the Scrum framework, discussing its principles and practices without any direct reference to the One Engineering System (1ES). While it touches on team management and accountability, it does not align with the core themes of 1ES, such as integration of tools and processes across teams or the impact on software quality and delivery timelines. The discussion is limited to Scrum, which is outside the scope of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:22:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses updates to the Scrum Guide, focusing on Scrum roles and team management. While it mentions self-managing teams and accountability, it does not explicitly address the concept of Agentic Agility or its principles. The discussion lacks depth and does not differentiate between human and AI capabilities in the context of agility, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

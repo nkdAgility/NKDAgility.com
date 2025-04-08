@@ -511,11 +511,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T00:03:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:07:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile apprenticeships and mentoring, with no focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile apprenticeships and mentorship, with no direct mention of Test First Development principles or practices. While it touches on Agile concepts, it does not align with the core themes of Test First Development, such as success criteria, testing practices, or the role of automated testing. The discussion lacks depth regarding the specific practices and benefits associated with Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -859,14 +862,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T01:08:46",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-04-08T17:07:38",
+    "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses Agile apprenticeships and includes a specific mention of a Scrum Master, which indicates a connection to the category. However, the primary focus is on the concept of apprenticeships rather than the responsibilities and practices of a Scrum Master. While there are elements of coaching and mentoring, the depth of discussion on Scrum Master-specific practices and challenges is limited, leading to a moderate confidence score.",
+    "final_score": 63.0,
+    "reasoning": "The content discusses Agile apprenticeships and includes a mention of a Scrum Master, but the primary focus is on the concept of apprenticeships rather than the specific role and responsibilities of a Scrum Master. While there is some alignment with the themes of mentoring and continuous learning, the depth of discussion regarding the Scrum Master role is limited, making it a secondary topic rather than a primary focus.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1596,6 +1599,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Agile apprenticeships and personal experiences related to Agile training, with no direct mention of the One Engineering System (1ES) framework. While it discusses concepts related to Agile methodologies, it does not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The depth of discussion is also limited to personal anecdotes and does not provide substantial insights into the principles or implementation of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:07:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile apprenticeships and the importance of mentorship, which touches on themes of growth and learning. However, it lacks a direct focus on the intentional shaping of outcomes, autonomy, and adaptability as defined in Agentic Agility. The discussion is more about fostering a learning environment rather than explicitly addressing the principles of Agentic Agility or differentiating between human and AI capabilities.",
     "level": "Ignored"
   }
 }

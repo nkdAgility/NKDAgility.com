@@ -1168,11 +1168,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:04:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:56:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on upgrading the Visual Studio Scrum process template in TFS, without discussing Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on upgrading the Visual Studio Scrum 3.0 process template in TFS 2013, discussing project management and agile practices without any direct reference to Test First Development principles. While it touches on agile methodologies, it does not delve into success criteria, testing practices, or the importance of defining tests before implementation, which are core to Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1252,11 +1255,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:04:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:57:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the technical aspects of upgrading a process template in TFS and does not focus on the Scrum Master role or responsibilities.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on upgrading a process template in TFS related to Visual Studio Scrum 3.0, which is a technical task rather than a discussion on the role of a Scrum Master. While it mentions Scrum in the context of a process template, it does not delve into the responsibilities, skills, or impact of a Scrum Master, nor does it discuss coaching, mentoring, or team dynamics. The mention of Scrum is incidental and does not align with the core themes of the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1533,6 +1539,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the technical steps for upgrading a process template in TFS 2013, with minimal direct discussion on competence. While it touches on the need for familiarity with tools and processes, it lacks a deeper exploration of continuous learning, skill development, or the impact of competence on team dynamics and quality outcomes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:56:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on upgrading a process template in TFS 2013 and does not discuss Agentic Agility or its principles. While it touches on agile practices, it lacks any mention of intentional shaping of outcomes, autonomy, or adaptability, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

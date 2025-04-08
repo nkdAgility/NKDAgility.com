@@ -496,11 +496,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T01:15:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:58:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the author's journey and relationships in becoming a Scrum training provider, with no focus on Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the author's journey and relationships in becoming a Scrum training supplier for Microsoft, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. While it touches on Agile methodologies, it does not delve into the specifics of Test First Development, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -829,14 +832,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T14:21:30",
+    "calculated_at": "2025-04-08T16:58:46",
     "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
     "final_score": 57.0,
-    "reasoning": "The content discusses the author's experience as a Scrum training provider and their relationship with Microsoft, which indirectly relates to the Scrum Master role. However, it lacks direct mentions of Scrum Master responsibilities, coaching techniques, or specific Scrum practices. The focus is more on personal achievements and relationships rather than the core themes of the Scrum Master role.",
+    "reasoning": "The content discusses the author's journey as a Scrum training provider, highlighting their expertise in Scrum and Agile methodologies. While it mentions Scrum and its importance in the context of training, the primary focus is on personal relationships and business development rather than the specific role and responsibilities of a Scrum Master. The content does not delve deeply into the core themes of the Scrum Master role, such as coaching, mentoring, or facilitating within a Scrum context, which limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -1545,6 +1548,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the author's personal journey and relationships in becoming a Scrum training supplier for Microsoft, with no direct mention or discussion of the One Engineering System framework. While it touches on Agile methodologies, it does not align with the core themes of 1ES, such as integration of tools and processes or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:58:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the author's journey and relationships within the context of Scrum training for Microsoft, lacking explicit discussions on Agentic Agility principles. While there are elements of adaptability and value delivery, the content does not delve into the intentional shaping of outcomes or the distinction between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

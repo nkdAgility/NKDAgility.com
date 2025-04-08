@@ -1117,11 +1117,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T11:31:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:49:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses moving an Active Directory domain and does not mention Test First Development or related principles at all.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the process of moving an Active Directory domain and does not mention Test First Development principles, success criteria, or any related testing practices. There is no alignment with the core themes of the category, and the depth of discussion is minimal, as it does not delve into any relevant topics.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1204,11 +1207,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T11:31:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:49:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily focuses on the technical process of moving an Active Directory domain and does not relate to the Scrum Master role or responsibilities.",
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on the technical process of moving an Active Directory domain and does not mention the role or responsibilities of a Scrum Master. There is no discussion of Scrum principles, team dynamics, or any related topics that would align with the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1479,6 +1485,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the technical process of moving an Active Directory domain, with minimal discussion on competence or skill development. While it mentions the challenges faced during the migration, it does not delve into continuous learning, professionalism, or the importance of competence in achieving quality outcomes. The discussion lacks depth and does not align with the core themes of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:49:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on the technical process of moving an Active Directory domain and does not discuss Agentic Agility, its principles, or its implications. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category.",
     "level": "Ignored"
   }
 }

@@ -589,11 +589,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T22:12:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:21:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum roles, accountability for quality, and the importance of delivering working software, without a clear focus on Test First Development principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of quality in software development and mentions automation, but it does not explicitly focus on Test First Development principles. While it touches on accountability and the need for quality, it lacks a clear emphasis on defining success criteria before implementation or detailed practices related to Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). The discussion is more about Scrum practices and general quality assurance rather than the specific Test First Development approach.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -952,14 +955,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T02:48:59",
+    "calculated_at": "2025-04-08T17:21:38",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
     "final_score": 61.0,
-    "reasoning": "The content discusses the responsibilities of Developers within Scrum teams and touches on the importance of quality in software delivery, which indirectly relates to the Scrum Master's role in facilitating team dynamics and accountability. However, it lacks a direct focus on the Scrum Master’s specific responsibilities, coaching techniques, and practices. While it mentions Scrum ceremonies like Sprint Reviews and Retrospectives, the primary emphasis is on Developers and their accountability rather than on the Scrum Master’s contributions to team performance and Agile success.",
+    "reasoning": "The content discusses the role of Scrum Teams and the importance of accountability and quality in software delivery, which indirectly relates to the Scrum Master's responsibilities. However, it lacks a direct focus on the Scrum Master role itself, with minimal explicit mentions and a broader emphasis on Developers and the Scrum Team dynamics. The depth of discussion on Scrum principles and practices is present, but it does not sufficiently explore the specific responsibilities or influence of the Scrum Master.",
     "level": "Secondary"
   },
   "Operational Practices": {
@@ -1590,6 +1593,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on Scrum practices and the accountability of Scrum teams in delivering quality software. While it touches on aspects of quality and accountability, it does not explicitly discuss the One Engineering System framework, its principles, or its integration across teams. The discussion is more centred on Scrum methodology rather than the broader integration and standardisation of engineering processes that 1ES entails.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:21:32",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses Scrum practices and accountability in software development, with a focus on quality and the role of developers. While it touches on themes of accountability and the importance of quality, it does not explicitly address the concept of Agentic Agility or differentiate between human and AI capabilities. The discussion lacks depth in exploring the intentional shaping of outcomes through autonomy and adaptability, which are central to Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -1120,11 +1120,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:47:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:55:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to installation privileges for InRelease in Team Foundation Server, with no mention of Test First Development or relevant practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses an installation issue related to InRelease 3 on TFS 2013, focusing on resolving a permissions error. It does not mention Test First Development, its principles, or any related practices. The discussion is entirely centred on installation procedures and troubleshooting, which are unrelated to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1207,11 +1210,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:47:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:55:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about installation issues related to software and does not mention Scrum or the Scrum Master role at all.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a technical issue related to installing software on Team Foundation Server, with no mention or discussion of Scrum Master roles, responsibilities, or related concepts. It does not align with the core themes of the Scrum Master category, nor does it provide any depth on the subject.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on a technical issue related to software installation and does not discuss competence in terms of skill development, quality outcomes, or professional growth. While it mentions the need for elevated privileges, it does not connect this to broader themes of competence or continuous learning.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:55:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a technical installation issue related to InRelease and TFS 2013, with no explicit discussion of Agentic Agility or its principles. It lacks any mention of intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

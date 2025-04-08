@@ -493,11 +493,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T11:25:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of diligence in Agile practices, focusing on the definition of done and quality, without addressing Test First Development or related testing methodologies.",
+    "calculated_at": "2025-04-08T16:16:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses the importance of a 'Definition of Done' and maintaining quality in Agile practices, which aligns with some principles of Test First Development. However, it does not explicitly mention Test First Development practices such as Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). The focus is more on diligence and accountability rather than on the specific methodologies and practices that define Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -835,11 +838,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T11:26:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:16:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the concept of diligence in Agile but does not specifically address the role or responsibilities of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile principles and the importance of diligence, which is relevant to Scrum practices. However, it does not explicitly mention the role of the Scrum Master or delve into their specific responsibilities, techniques, or influence on team dynamics. The focus is more on general Agile practices rather than the Scrum Master role itself.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1554,6 +1560,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the concept of diligence within Agile practices, focusing on quality and accountability rather than the integration and standardisation of engineering processes as outlined in the One Engineering System framework. While it touches on some relevant themes, such as quality and adherence to standards, it does not explicitly mention or align with the core principles of 1ES, nor does it provide in-depth discussion on the framework itself.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:16:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of diligence within Agile practices, focusing on quality and accountability rather than the intentional shaping of outcomes through autonomy and adaptability. While it touches on accountability, it does not explicitly address Agentic Agility or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

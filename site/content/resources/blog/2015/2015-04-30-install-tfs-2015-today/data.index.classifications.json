@@ -1144,11 +1144,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T22:07:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:37:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the installation and configuration of TFS 2015, with no focus on Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, with no direct discussion of Test First Development principles, success criteria, or testing practices. While it briefly touches on the configuration of build agents, it lacks any substantial exploration of automated or manual testing methodologies, making it largely irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1228,11 +1231,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T22:08:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:38:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and configuration of TFS 2015, with no direct reference to the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, with no direct mention of the Scrum Master role or its responsibilities. While it touches on aspects of team project creation, it does not align with the core themes of Scrum Master discussions, such as coaching, facilitating, or promoting agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1518,6 +1524,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, which is a specific tool rather than discussing the broader principles or integration aspects of the One Engineering System. While TFS is mentioned, there is no substantial discussion on standardising practices, integration across teams, or the impact on software quality, which are core themes of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:37:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, with no explicit discussion of Agentic Agility or its principles. While it touches on aspects of technology and system setup, it does not engage with the intentional shaping of outcomes, autonomy, or adaptability in a socio-technical context, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

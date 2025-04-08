@@ -370,11 +370,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T18:00:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:33:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses asynchronous communication without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses asynchronous communication and its benefits for collaboration and productivity, without any direct reference to the role of a Scrum Master or Scrum principles. While it touches on themes of team dynamics and communication, it does not align with the specific responsibilities or impact of a Scrum Master, nor does it provide depth on Scrum-related practices.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -406,11 +409,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T18:00:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:33:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses asynchronous communication and its benefits, with no mention of Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses asynchronous communication and its benefits for collaboration and productivity, with no direct mention or alignment to Test First Development principles. It does not address success criteria, testing practices, or any related concepts, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1491,6 +1497,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on asynchronous communication and its benefits for collaboration and productivity, which does not directly relate to the One Engineering System framework. While it touches on themes of collaboration and communication, it lacks explicit discussion of 1ES principles, integration of tools and processes, or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:33:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses asynchronous communication, which relates to adaptability and flexibility, but it does not explicitly mention Agentic Agility or its principles. While it touches on themes of collaboration and productivity, it lacks a focus on intentional shaping of outcomes or the distinction between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

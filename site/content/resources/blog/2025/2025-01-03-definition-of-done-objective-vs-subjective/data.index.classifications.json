@@ -532,12 +532,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 45,
+    "calculated_at": "2025-04-08T15:34:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 42.0,
-    "reasoning": "The content primarily discusses the Definition of Done in Scrum and its importance for quality assurance, but it does not focus on Test First Development or the principles of writing tests before code, which are central to the category.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) in Scrum, which is related to quality assurance and success criteria, but it does not explicitly focus on Test First Development principles. While it mentions the importance of measurable criteria and automation, it primarily centres on the DoD rather than the broader Test First Development practices like TDD or ATDD. The discussion on automation and quality aligns with Test First concepts, but the overall focus is more on Scrum processes than on Test First Development itself.",
+    "level": "Secondary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -871,14 +874,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T14:15:54",
+    "calculated_at": "2025-04-08T15:34:27",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
     "final_score": 66.0,
-    "reasoning": "The content discusses the Definition of Done (DoD) within the Scrum framework, which is relevant to the responsibilities of a Scrum Master. However, it primarily focuses on the DoD itself rather than the broader role of the Scrum Master in facilitating Scrum processes or coaching teams. While it touches on Scrum principles and practices, it lacks a comprehensive exploration of the Scrum Master's role, leading to a moderate confidence score.",
+    "reasoning": "The content primarily discusses the Definition of Done (DoD) within the Scrum framework, which is relevant to the Scrum Master role. However, it does not explicitly mention the Scrum Master or their responsibilities. While it aligns with the core themes of quality assurance and team effectiveness, the depth of discussion focuses more on the DoD itself rather than the Scrum Master's influence or techniques. Therefore, while there is a connection to the category, it is not the primary focus.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1620,6 +1623,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the Definition of Done (DoD) within the Scrum framework, discussing subjective versus objective measures of quality. While it touches on the importance of standards and quality benchmarks, it does not explicitly address the One Engineering System (1ES) framework or its principles. The discussion is more aligned with Scrum practices rather than the integration and standardisation of engineering processes across teams, which is the core focus of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:34:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Definition of Done in Scrum, discussing the distinction between subjective goals and objective measures of quality. While it touches on themes of clarity and alignment, it does not explicitly address Agentic Agility or the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical context, which is central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

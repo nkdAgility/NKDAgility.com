@@ -1111,11 +1111,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T11:48:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:52:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses installation issues related to Visual Studio and Team Foundation Server, with no mention of Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses installation issues related to Visual Studio and Team Foundation Server, with no direct mention of Test First Development principles, success criteria, or testing practices. It lacks any alignment with the core themes of the category, focusing instead on compatibility and setup problems.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1198,11 +1201,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T11:48:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:52:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on installation issues related to Visual Studio and Team Foundation Server, with no relevance to Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical issues related to installing Visual Studio and Team Foundation Server, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the core themes of the Scrum Master category, nor does it provide any depth on the subject.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1473,6 +1479,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on technical installation issues related to Visual Studio and does not discuss competence, continuous learning, or skill development. While it addresses compatibility and requirements, these topics do not align with the core themes of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:52:01",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content focuses solely on installation issues related to Visual Studio and does not discuss Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, adaptability, or any related themes.",
     "level": "Ignored"
   }
 }

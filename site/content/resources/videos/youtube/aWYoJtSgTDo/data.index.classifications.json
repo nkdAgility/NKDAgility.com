@@ -367,12 +367,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T19:32:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:40:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses mushroom foraging with loose associations to agility, lacking a clear focus on Scrum Master responsibilities or practices.",
-    "level": "Ignored"
+    "final_score": 57.0,
+    "reasoning": "The content draws parallels between mushroom foraging and Agile principles, which indirectly relates to the role of a Scrum Master. However, it lacks direct discussion of Scrum Master responsibilities or techniques, focusing instead on general Agile concepts. The mentions of team dynamics and the importance of understanding the environment align with Scrum principles but do not delve deeply into the specific role of a Scrum Master.",
+    "level": "Tertiary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -406,11 +409,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T19:32:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:40:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses mushroom foraging and its metaphorical relation to Agile and Scrum, without any mention of Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile principles through the metaphor of mushroom foraging, with no direct mention of Test First Development or its core concepts. While it touches on themes of patience and iterative processes, these are general Agile practices rather than specific to Test First Development. The lack of focus on success criteria, testing practices, or the role of collaboration in testing diminishes its relevance to the category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1485,6 +1491,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Agile and Scrum principles through the metaphor of mushroom foraging, which does not directly relate to the One Engineering System framework. While it touches on themes of environment and team dynamics, it lacks explicit references to 1ES, its components, or its implementation. The focus is on personal insights rather than a structured discussion of standardisation and integration in software development.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:40:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile principles through the metaphor of mushroom foraging, but it does not explicitly address Agentic Agility or its key topics. While it touches on themes of adaptability and the importance of environment, it lacks a clear focus on intentional shaping of outcomes, accountability, or the interplay between human and AI capabilities. The discussion is more about general Agile practices rather than a deep exploration of Agentic Agility.",
     "level": "Ignored"
   }
 }

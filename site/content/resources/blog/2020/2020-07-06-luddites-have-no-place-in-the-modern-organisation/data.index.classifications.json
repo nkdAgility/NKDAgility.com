@@ -601,11 +601,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T09:22:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:24:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational culture and leadership in the context of Agile practices, without any mention of Test First Development or related testing methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the cultural aspects of organisational change and the resistance to new technology, with no direct mention or exploration of Test First Development principles, practices, or methodologies. It focuses on agility and innovation rather than the specifics of testing practices.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -958,11 +961,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T09:23:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:24:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational culture and leadership without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of agility and cultural change within organisations, which aligns with some themes relevant to the Scrum Master role. However, it does not explicitly mention the Scrum Master or delve into specific responsibilities, techniques, or the impact of the Scrum Master on team dynamics. The focus is more on general organisational change rather than the specific role of a Scrum Master.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1590,6 +1596,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the concept of Luddites in relation to organisational change and agility, without directly addressing the principles or components of the One Engineering System. While it touches on themes of cultural change and agile practices, it does not provide substantial detail on the integration of tools or processes across teams, nor does it discuss the One Engineering System framework itself.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:24:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the need for cultural change and the importance of hiring the right people to foster agility, which aligns with the principles of Agentic Agility. However, it primarily focuses on the negative impact of Luddites rather than exploring the intentional shaping of outcomes or the mechanisms of Agentic Agility in detail. The discussion lacks depth in terms of specific examples or case studies related to both human and AI capabilities.",
     "level": "Ignored"
   }
 }

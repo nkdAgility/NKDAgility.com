@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T19:00:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:44:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the comparison between Agile methodologies and traditional project management, focusing on risk mitigation through usable products rather than on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the comparison with traditional project management, focusing on risk mitigation through usable products rather than explicitly addressing Test First Development principles. While it touches on aspects of Agile that may relate to testing, it does not delve into the specifics of Test First practices, success criteria, or the role of testing in the development process.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -853,11 +856,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T19:01:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:45:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the comparison between Agile methodologies and traditional project management, without a clear focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile methodologies, including Scrum, but primarily focuses on the comparison between Agile's emphasis on usable products and traditional project management's documentation. While it touches on aspects relevant to the Scrum Master role, such as collaboration and transparency, it does not delve deeply into the specific responsibilities or impact of a Scrum Master. The discussion is more about Agile principles in general rather than the Scrum Master's unique contributions.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1596,6 +1602,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Agile methodologies and contrasts them with traditional project management practices, focusing on risk mitigation through usable products versus documentation. While it touches on collaboration and adaptation, it does not explicitly mention the One Engineering System framework or its principles, components, or implementation strategies. The discussion is more centred on Agile and Waterfall methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:44:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile methodologies and their focus on usable products, which aligns with the concept of adaptability. However, it primarily centres on comparing Agile and traditional project management without explicitly addressing the intentional shaping of outcomes or the principles of Agentic Agility. The discussion lacks depth in exploring the role of intent, accountability, or the interplay between human judgement and AI logic, which are crucial for a higher confidence score in this category.",
     "level": "Ignored"
   }
 }

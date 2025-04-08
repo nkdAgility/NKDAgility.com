@@ -511,11 +511,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T21:05:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:19:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the misconceptions surrounding Story Points and Velocity in Scrum, rather than focusing on Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the limitations of using Story Points and Velocity in Scrum, focusing on the need for confidence and transparency in delivery rather than addressing Test First Development principles. There are no direct mentions of Test First practices, success criteria, or testing methodologies, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -847,14 +850,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T02:37:50",
+    "calculated_at": "2025-04-08T17:19:54",
     "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
     "final_score": 66.0,
-    "reasoning": "The content discusses the use of Story Points and Velocity within the Scrum framework, which is relevant to the role of a Scrum Master. It critiques common practices and highlights the importance of understanding team dynamics and transparency, which are key responsibilities of a Scrum Master. However, the focus is more on the metrics themselves rather than on the Scrum Master's role in facilitating these discussions or coaching the team, leading to a moderate confidence score.",
+    "reasoning": "The content discusses the role of Story Points and Velocity in Scrum, challenging common misconceptions and emphasising the importance of understanding agility. It aligns with the Scrum Master's role in fostering a culture of continuous improvement and value delivery, although it does not explicitly focus on the Scrum Master's responsibilities or techniques. The depth of discussion is significant, providing insights into team dynamics and the need for empirical decision-making, which are relevant to the Scrum Master role.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1590,6 +1593,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on Scrum practices, specifically critiquing the use of Story Points and Velocity. While it touches on themes of agility and team adaptability, it does not discuss the One Engineering System framework, its principles, or its integration across teams. The discussion is centred around Scrum rather than the standardisation and integration of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:19:49",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily critiques the use of Story Points and Velocity in Scrum, focusing on traditional Agile practices rather than discussing Agentic Agility. While it touches on adaptability and the need for teams to evolve, it does not explicitly address the intentional shaping of outcomes or the distinction between human and AI capabilities in agility. The discussion lacks depth in exploring the principles of Agentic Agility, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

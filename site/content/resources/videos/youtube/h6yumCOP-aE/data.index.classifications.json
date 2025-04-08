@@ -523,11 +523,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T06:52:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:02:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of team agreements and collaboration in the context of Kanban and Scrum, without any mention of Test First Development or related testing practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of a working agreement in Kanban teams, focusing on team alignment and efficiency. It does not mention Test First Development, its principles, or practices such as TDD or ATDD. The discussion is centred around team dynamics and methodologies rather than testing practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -877,11 +880,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T19:24:16",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-08T16:02:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration, which are relevant to Scrum practices, but it primarily focuses on Kanban and general team dynamics rather than the specific role and responsibilities of a Scrum Master.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Kanban and the importance of a working agreement, with only brief mentions of Scrum. While it touches on concepts relevant to team alignment and roles, it does not delve deeply into the specific responsibilities or impact of a Scrum Master, nor does it focus on Scrum principles. Therefore, the confidence score reflects a low primary focus on the Scrum Master role.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1602,6 +1608,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban and the importance of a working agreement within that framework. While it touches on team alignment and processes, it does not discuss the One Engineering System (1ES) or its principles, components, or implementation. The discussion is centred around Kanban and Scrum, which are not aligned with the core themes of 1ES, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:02:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the importance of a working agreement in Kanban and Scrum practices, which does not directly address the concept of Agentic Agility. While it touches on team alignment and roles, it lacks explicit discussions on intentional shaping of outcomes, the distinction between human and AI capabilities, or the transformative capacity of individuals and systems. Therefore, it scores low across all dimensions.",
     "level": "Ignored"
   }
 }

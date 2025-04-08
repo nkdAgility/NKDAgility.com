@@ -520,12 +520,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T18:56:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:43:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the importance of delivering usable working products and the role of feedback loops in Agile, without a clear focus on Test First Development principles or practices.",
-    "level": "Ignored"
+    "final_score": 58.0,
+    "reasoning": "The content discusses the importance of delivering usable working products and emphasises feedback loops and automation, which are relevant to Test First Development. However, it does not explicitly mention Test First practices or principles, nor does it delve deeply into the specifics of TDD or ATDD. The focus is more on Agile practices in general rather than a dedicated exploration of Test First Development.",
+    "level": "Tertiary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -865,11 +868,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T18:57:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:43:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of usable working products in Agile practices, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile practices and the importance of delivering usable working products, which is relevant to Scrum principles. However, it does not explicitly mention the role of the Scrum Master or delve into their responsibilities, techniques, or influence on team dynamics. The focus is more on product delivery and Agile methodologies rather than the specific role of a Scrum Master.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1596,6 +1602,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on Agile practices and the importance of delivering usable working products, which does not directly address the principles or components of the One Engineering System. While it touches on concepts like feedback loops and automation, it lacks a clear discussion on the integration and standardisation of engineering processes across teams, which is central to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:43:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the importance of delivering usable working products and the role of feedback loops in Agile practices. While it touches on adaptability and responsiveness, it lacks a focused discussion on the intentional shaping of outcomes, the distinction between human and AI capabilities, and the deeper principles of Agentic Agility. The emphasis is more on Agile practices rather than the transformative capacity of individuals and systems, leading to a lower confidence score.",
     "level": "Ignored"
   }
 }

@@ -26,11 +26,11 @@ preview: https://i.ytimg.com/vi/zs0q_zz8-JY/maxresdefault.jpg
 duration: 46
 isShort: true
 tags:
+- Scrum Master
 - Professional Scrum
 - Team Motivation
 - Team Performance
 - Self Organisation
-- Scrum Master
 - People and Process
 - Scrum Product Development
 - Agile Frameworks

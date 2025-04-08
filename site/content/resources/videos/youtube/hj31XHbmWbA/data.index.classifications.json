@@ -367,11 +367,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:36:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:28:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a quote by Steve Jobs and philosophical insights rather than focusing on Scrum roles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile principles and reflective learning, which are relevant to the Scrum Master role, but it does not explicitly mention the Scrum Master or delve into their specific responsibilities. The focus is more on general Agile practices rather than the nuances of the Scrum Master position.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -403,11 +406,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:36:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:28:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a quote from Steve Jobs about looking at past experiences to inform future decisions, which does not relate to Test First Development or its principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses reflective learning in Agile environments, drawing on Steve Jobs' quote. While it touches on concepts like validation and adaptation, it does not explicitly mention Test First Development or its principles. The focus is more on general Agile practices rather than the specific methodologies and practices associated with Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1506,6 +1512,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile methodologies and the importance of reflective learning, which, while relevant to software development, does not specifically address the One Engineering System framework or its principles. There are no direct mentions of 1ES, and the discussion lacks depth regarding integration, standardisation, or best practices related to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:28:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses reflective learning and the importance of past experiences in Agile practices, which aligns with the concept of Human Agentic Agility. However, it lacks a direct focus on the intentional shaping of outcomes and does not differentiate between human and AI capabilities, leading to a lower confidence score.",
     "level": "Ignored"
   }
 }

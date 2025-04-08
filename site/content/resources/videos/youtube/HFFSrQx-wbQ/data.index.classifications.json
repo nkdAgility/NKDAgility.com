@@ -187,11 +187,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:24:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses general agile concepts and challenges but does not specifically mention or focus on Test First Development or related practices such as TDD.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses agility and the importance of flexibility within teams, without any direct mention or exploration of Test First Development principles. While it touches on continuous improvement and adaptation, it does not delve into success criteria, testing practices, or the specific methodologies associated with Test First Development.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -634,12 +637,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T21:13:09",
-    "ai_confidence": 20,
+    "calculated_at": "2025-04-08T16:24:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 18.0,
-    "reasoning": "The content mentions Agile and Scrum in a general context, but it does not focus primarily on the role of the Scrum Master or the specific responsibilities and practices associated with it.",
-    "level": "Ignored"
+    "final_score": 56.0,
+    "reasoning": "The content discusses agility and the importance of flexibility and continuous improvement, which are relevant to the Scrum Master's role. However, it does not explicitly mention the Scrum Master or delve into specific responsibilities or techniques associated with the role. The focus is more on general agile principles rather than the specific impact and responsibilities of a Scrum Master.",
+    "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -1560,6 +1566,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Agile methodologies and the challenges associated with rigidity in processes and tools. While it touches on themes of flexibility and adaptation, it does not explicitly mention the One Engineering System or its principles, components, or implementation strategies. The focus is on Agile practices rather than the integration and standardisation of engineering processes, which is central to the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:24:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses agility and the importance of flexibility and autonomy within teams, which aligns with some principles of Agentic Agility. However, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. The focus is more on general Agile practices rather than the intentional shaping of outcomes, leading to a lower confidence score.",
     "level": "Ignored"
   }
 }

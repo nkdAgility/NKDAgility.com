@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T10:31:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:43:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role of Scrum Masters and leadership in Agile, with no mention of Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the evolution of Scrum Masters into leadership roles and does not discuss Test First Development principles, success criteria, or testing practices. It lacks direct mentions of the category and does not align with its core themes.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -868,14 +871,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T10:09:12",
+    "calculated_at": "2025-04-08T16:43:12",
     "ai_confidence": 82.0,
-    "ai_mentions": 16,
-    "ai_alignment": 32,
-    "ai_depth": 30,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
     "final_score": 76.0,
-    "reasoning": "The content explicitly discusses the role of the Scrum Master and its evolution into a leadership position, aligning well with the responsibilities and skills expected of a Scrum Master. It provides a detailed perspective on how Scrum Masters can serve their teams and the organisation, which reflects a deep understanding of the role. The mention of leadership tracks and the importance of understanding organisational dynamics further enhances the relevance to the Scrum Master category.",
+    "reasoning": "The content primarily focuses on the evolution of the Scrum Master role into leadership, discussing the Professional Agile Leadership Essentials course as a natural progression for Scrum Masters. It directly mentions the Scrum Master multiple times and aligns well with the core themes of the category, such as leadership, organisational challenges, and the Scrum Master's responsibilities. The depth of discussion is substantial, providing insights into the role's evolution and the skills required for effective leadership within the Scrum framework.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1596,6 +1599,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Professional Agile Leadership Essentials course and the role of Scrum Masters in leadership, with no direct mention or discussion of the One Engineering System framework. While it touches on Agile practices, it does not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The depth of discussion is limited to personal insights on leadership rather than a structured exploration of 1ES principles.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:43:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the evolution of Scrum Masters into leadership roles, touching on aspects of autonomy and adaptability. However, it lacks a direct focus on Agentic Agility principles, such as intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion is more about leadership development within Agile frameworks rather than a deep exploration of Agentic Agility.",
     "level": "Ignored"
   }
 }

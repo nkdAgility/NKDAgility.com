@@ -376,11 +376,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T21:01:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:46:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with only a brief mention of Agile and Scrum at the end, which does not constitute a central theme.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, with only a brief mention of Agile and Scrum at the end. It does not delve into the specific responsibilities or skills of a Scrum Master, nor does it discuss the role's influence on team dynamics or organisational change, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -412,11 +415,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T21:01:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:46:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with no focus on Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, with no direct mention or discussion of Test First Development principles, practices, or methodologies. It does not align with the core themes of Test First Development, such as success criteria, testing practices, or collaboration among development teams.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1518,6 +1524,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, with no direct mention of the One Engineering System or its principles. While it discusses efficiency and integration of tools, it does not align with the core themes of 1ES, such as standardising software development practices or implementing a unified engineering system. The discussion is more about personal experiences and general productivity rather than the structured framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:46:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of AI in enhancing productivity and creativity, which touches on the concept of agency but lacks a focused discussion on Agentic Agility. While it mentions autonomy in using AI tools, it does not delve into the principles of Agentic Agility, such as intent, accountability, or the distinction between human and AI capabilities. The discussion is more about the benefits of AI rather than the intentional shaping of outcomes, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

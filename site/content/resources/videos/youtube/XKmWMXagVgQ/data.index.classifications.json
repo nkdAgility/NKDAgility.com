@@ -526,11 +526,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T22:54:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of continuous learning for product owners, with no focus on Test First Development or related testing practices.",
+    "calculated_at": "2025-04-08T16:13:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on continuous learning for product owners and does not explicitly discuss Test First Development principles. While it touches on concepts like evidence-based management and A/B testing, these are not framed within the context of Test First Development. The discussion lacks depth and direct relevance to the category, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -865,11 +868,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T22:55:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:13:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the role of Product Owners and continuous learning, with minimal reference to the Scrum Master role.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a product owner and continuous learning, with only brief mentions of Scrum methodologies. It does not delve into the specific responsibilities or impact of a Scrum Master, nor does it discuss the core themes associated with that role. The discussion is centred around product management rather than the facilitation and coaching aspects of a Scrum Master.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1602,6 +1608,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on continuous learning for product owners, discussing tools and techniques relevant to individual development rather than the integration and standardisation of engineering processes as outlined in the One Engineering System framework. While it briefly touches on methodologies like Scrum and Agile, it does not delve into the principles or components of 1ES, nor does it provide insights into its implementation or impact on software quality and delivery timelines.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:13:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses continuous learning for product owners, which touches on adaptability and informed decision-making, but it lacks a direct focus on Agentic Agility. While it mentions tools and techniques that could enhance autonomy and value creation, it does not explicitly address the intentional shaping of outcomes or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

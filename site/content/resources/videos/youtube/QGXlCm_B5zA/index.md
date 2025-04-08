@@ -28,9 +28,9 @@ duration: 280
 isShort: false
 tags:
 - Professional Scrum
+- Scrum Master
 - People and Process
 - Agile Project Management
-- Scrum Master
 - Software Development
 - Continuous Learning
 - Scrum Team

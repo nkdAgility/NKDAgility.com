@@ -1201,11 +1201,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T11:12:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:47:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the dysfunction of teams with Project Managers and Product Owners, without any focus on Test First Development or its principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the roles and challenges of Project Managers and Product Owners within an organisation, focusing on team dynamics and agility. It does not mention Test First Development, its principles, or practices, nor does it explore any related concepts such as success criteria, testing methodologies, or the impact of testing on collaboration. Therefore, it does not align with the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1282,11 +1285,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T11:12:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:47:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the roles of Project Managers and Product Owners, and the dysfunction caused by having both, without focusing on the specific responsibilities or practices associated with the Scrum Master role.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges of having both Project Managers and Product Owners, which indirectly touches on the Scrum Master's role in facilitating team dynamics and promoting agility. However, it primarily focuses on the dysfunctions arising from these roles rather than the Scrum Master's responsibilities or techniques. The mention of the need for a single master aligns with Scrum principles but lacks depth in discussing the Scrum Master's influence or practices.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1578,6 +1584,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the dysfunctions arising from having both Project Managers and Product Owners, which indirectly touches on the importance of clear roles and responsibilities for competence within teams. However, it primarily focuses on organisational structure and team dynamics rather than on continuous learning, skill development, or the core principles of competence. The discussion lacks depth in exploring strategies for fostering competence or the impact of competence on decision-making, which limits its alignment with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:47:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the challenges of having both Project Managers and Product Owners, touching on issues of team alignment and accountability. However, it primarily focuses on organisational dysfunction rather than the intentional shaping of outcomes through autonomy and adaptability, which are core to Agentic Agility. The discussion lacks explicit references to the principles of Agentic Agility and does not differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

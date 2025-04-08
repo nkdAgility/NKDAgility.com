@@ -1189,11 +1189,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T18:05:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:29:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, with no mention of Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner in managing multiple Scrum teams and does not address Test First Development principles, success criteria, or testing practices. It focuses on Scrum processes rather than the Test First approach.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1273,15 +1276,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T03:22:02",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-04-08T17:29:53",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content primarily discusses the role of the Product Owner in a Nexus framework, which is relevant to Scrum but does not focus on the Scrum Master role itself. While it mentions the need for a skilled Scrum Master to help coach the teams, this is a secondary point rather than the main focus. The discussion lacks depth on Scrum Master responsibilities and practices, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner in a Nexus framework, with only brief mentions of the Scrum Master in the context of coaching and maintaining communication. While it touches on Scrum principles, the focus is not on the Scrum Master's responsibilities or impact, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1587,6 +1590,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses Scrum practices and the role of the Product Owner within a Nexus framework, which is not directly related to the One Engineering System. While there are mentions of team structures and roles, the focus is on Agile methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:29:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum practices and the role of the Product Owner in managing multiple teams, which does not directly address the concept of Agentic Agility. While there are elements of autonomy and communication, the focus is on operational challenges rather than intentional shaping of outcomes or the interplay between human and AI capabilities. The discussion lacks depth in exploring the principles of Agentic Agility, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   }
 }

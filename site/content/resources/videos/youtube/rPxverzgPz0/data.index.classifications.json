@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T02:33:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:07:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Agile Practitioner Series course and its relevance to Scrum teams, without any focus on Test First Development or related testing practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the APS course and its benefits for newbie Scrum teams, focusing on Agile principles rather than Test First Development. There are no direct mentions of Test First practices, success criteria, or testing methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -868,14 +871,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T01:03:28",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "calculated_at": "2025-04-08T17:07:01",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the Agile Practitioner Series (APS) course and its relevance to newbie Scrum teams, which indirectly relates to the role of a Scrum Master. While it mentions Scrum and touches on concepts like organisational change and team empowerment, it lacks a direct focus on the specific responsibilities and practices of a Scrum Master. The discussion is more about training and course outcomes rather than the Scrum Master's role in facilitating Scrum processes or coaching teams.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the Agile Practitioner Series (APS) course and its benefits for newbie Scrum teams, which aligns well with the responsibilities of a Scrum Master in facilitating team effectiveness and promoting agile principles. It discusses organisational change, team empowerment, and the importance of understanding Scrum, which are key themes relevant to the Scrum Master role. However, while the content is rich in discussing the course's impact on Scrum teams, it does not delve deeply into the specific responsibilities or techniques of a Scrum Master, leading to a slightly lower depth score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1596,6 +1599,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Agile Practitioner Series (APS) course and its benefits for Scrum teams, which is not directly related to the One Engineering System (1ES). While it touches on themes of organisational change and team dynamics, it lacks explicit discussion of 1ES principles, integration of tools and processes, or best practices for implementing a unified engineering system. The content is more aligned with Agile and Scrum methodologies rather than the standardisation and integration goals of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:06:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the APS course and its benefits for newbie Scrum teams, focusing on learning and organisational change rather than explicitly addressing Agentic Agility. While it touches on themes of empowerment and proactive change, it lacks a clear distinction between human and AI capabilities and does not delve into the intentional shaping of outcomes as defined by Agentic Agility.",
     "level": "Ignored"
   }
 }

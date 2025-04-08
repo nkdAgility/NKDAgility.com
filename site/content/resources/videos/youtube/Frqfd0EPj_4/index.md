@@ -39,8 +39,8 @@ tags:
 - Agile Transformation
 - Discovery and Learning
 - Resilience and Change
+- Scrum Master
 - Scrum Product Development
-- Scrum Team
 resourceTypes:
 - video
 categories:

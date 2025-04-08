@@ -1138,11 +1138,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T19:19:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:34:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses updates and features of the VSTS Sync Migration Tool, with no focus on Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses updates and bug fixes for the VSTS Sync Migration Tool, with no explicit mention of Test First Development principles, success criteria, or testing practices. It focuses on tool functionality rather than the core themes of Test First Development, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1222,11 +1225,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T19:19:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:34:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a migration tool and its features, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on updates and features of the VSTS Sync Migration Tool, with no direct mention of the Scrum Master role or its responsibilities. While it discusses project management tools, it does not align with the core themes of Scrum or the impact of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1512,6 +1518,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on updates and features of the VSTS Sync Migration Tool, which is a specific tool for project migration rather than discussing the One Engineering System framework or its principles. There are no direct mentions of 1ES, and the content does not align with the core themes of integration, standardisation, or best practices related to 1ES. The discussion lacks depth regarding the impact of such tools on software quality or delivery timelines, which are key aspects of the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:34:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on updates and bug fixes for the VSTS Sync Migration Tool, with no explicit discussion of Agentic Agility or its principles. While it mentions user contributions and tool enhancements, it does not address intentional shaping of outcomes, autonomy, or adaptability in a socio-technical context, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

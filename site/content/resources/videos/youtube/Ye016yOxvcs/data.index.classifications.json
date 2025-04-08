@@ -379,11 +379,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T19:48:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses skills for agile consultants without a clear focus on the Scrum Master role or responsibilities.",
+    "calculated_at": "2025-04-08T16:41:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the role of an Agile consultant rather than the specific responsibilities and impact of a Scrum Master. While it mentions Agile and Scrum, the discussion does not delve into the core themes of the Scrum Master role, such as facilitating team effectiveness or promoting agile principles. The content lacks direct references to the Scrum Master's responsibilities and does not provide substantial detail on how these skills relate specifically to the Scrum Master role.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -421,11 +424,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T19:48:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:41:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the skills required for Agile consulting and does not focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the skills required for Agile consulting, discussing themes like adaptability and continuous learning. It does not explicitly mention Test First Development or its principles, nor does it delve into related practices such as TDD or ATDD. The discussion is more about general Agile practices rather than the specific focus on defining success criteria before implementation, which is central to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1566,6 +1572,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on skills for Agile consulting, discussing concepts related to Agile and Scrum without any direct mention or alignment with the One Engineering System framework. It does not address integration, standardisation, or the principles of 1ES, which are essential for this category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:41:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of adaptability and continuous learning in the context of Agile consulting, which aligns with some principles of Agentic Agility. However, it lacks explicit mentions of the category and does not differentiate between human and AI capabilities, focusing instead on general Agile practices.",
     "level": "Ignored"
   }
 }

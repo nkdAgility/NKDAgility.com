@@ -1135,11 +1135,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:28:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:57:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses an error related to Team Foundation Server and does not focus on Test First Development, TDD principles, or any testing practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a specific error related to detaching Team Project Collections in TFS, focusing on troubleshooting and solutions rather than any principles or practices of Test First Development. There are no direct mentions of success criteria, testing practices, or the role of testing in development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1219,11 +1222,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:28:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:58:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Team Foundation Server, with no reference to Scrum Master roles, responsibilities, or Agile practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to Team Foundation Server (TFS) and does not mention the role or responsibilities of a Scrum Master. It focuses on troubleshooting and solutions for a specific error, which is unrelated to Scrum practices or the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1494,6 +1500,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on a technical issue related to Team Foundation Server and does not explicitly discuss competence or continuous skill development. While it touches on the importance of resolving errors and maintaining system integrity, it lacks a direct connection to the principles of competence in Agile or DevOps contexts. The discussion is more about troubleshooting than fostering a culture of competence or professional development.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:57:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical issues related to Team Foundation Server and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is limited to troubleshooting and resolving specific errors, lacking depth in the context of agency and intentionality.",
     "level": "Ignored"
   }
 }

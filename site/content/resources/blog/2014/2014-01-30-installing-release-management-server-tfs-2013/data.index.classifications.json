@@ -1153,11 +1153,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T11:31:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:48:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content is focused on the installation and configuration of Release Management Server for TFS, with no discussion of Test First Development or its principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of the Release Management Server for TFS 2013, with no direct discussion or alignment with Test First Development principles. It lacks mentions of success criteria, testing practices, or any related concepts that would fit within the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1243,11 +1246,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T11:31:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:48:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the installation and configuration of Release Management Server for TFS 2013, with no clear relevance to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the installation and configuration of the Release Management Server for TFS 2013, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not discuss responsibilities, techniques, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1521,6 +1527,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the installation process of the Release Management Server for TFS 2013, with minimal discussion on competence or skill development. While it touches on aspects of configuration and setup, it does not delve into continuous learning, quality outcomes, or fostering a culture of competence, which are central to the category. The mention of configuration challenges is too brief and lacks depth to significantly align with the principles of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:48:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Server for TFS 2013, with no explicit discussion of Agentic Agility or its principles. While it touches on aspects of configuration and setup, it does not engage with the intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities. The content lacks depth in relation to the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

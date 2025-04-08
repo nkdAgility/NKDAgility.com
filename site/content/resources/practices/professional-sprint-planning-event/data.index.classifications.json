@@ -190,15 +190,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T18:03:28",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
+    "calculated_at": "2025-04-08T15:45:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content primarily focuses on the Sprint Planning event, which is a key Scrum ceremony that the Scrum Master facilitates. It discusses the roles of the Scrum Team, including the Scrum Master, in ensuring effective planning and communication with stakeholders. The depth of discussion includes the importance of understanding the Product Backlog and creating a Sprint Goal, which are crucial responsibilities of a Scrum Master. However, while it touches on the Scrum Master's role, it does not delve deeply into coaching techniques or broader Scrum Master responsibilities, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the Sprint Planning event, which is a key aspect of the Scrum framework. However, it does not explicitly discuss the role or responsibilities of the Scrum Master, nor does it delve into the broader impact of the Scrum Master on team dynamics or organisational change. While it touches on the importance of communication with stakeholders, it lacks depth in exploring how a Scrum Master facilitates this process or promotes agile principles. Therefore, while there is some relevance, the content does not sufficiently align with the core themes of the Scrum Master category.",
+    "level": "Tertiary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -1081,11 +1081,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T09:32:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:45:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Sprint Planning event in Scrum, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the Sprint Planning event within the Scrum framework, focusing on planning and stakeholder communication rather than the principles of Test First Development. There are no direct mentions of success criteria, testing practices, or the importance of automated testing, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1578,6 +1581,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the Sprint Planning event within the Scrum framework, discussing its purpose, execution, and importance. It does not address the One Engineering System (1ES) principles, components, or its integration with other processes. The discussion is centred around Scrum practices rather than the standardisation and integration of engineering practices across teams, which is the core of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:45:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Sprint Planning event within Scrum, discussing its purpose, structure, and importance in facilitating team communication and stakeholder engagement. While it touches on aspects of planning and stakeholder interaction, it does not explicitly address the concept of Agentic Agility, such as intentional shaping of outcomes, adaptability, or the distinction between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals or systems, which is central to Agentic Agility.",
     "level": "Ignored"
   }
 }

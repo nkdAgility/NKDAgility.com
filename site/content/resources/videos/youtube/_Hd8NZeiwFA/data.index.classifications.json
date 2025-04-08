@@ -487,11 +487,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-25T12:13:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-08T15:29:47",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role, responsibilities, and importance of experience in Scrum Mastery, making it a central theme.",
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master, discussing misconceptions about the 'junior Scrum Master' label and emphasising the complexity and expertise required for the role. It aligns well with the key topics of responsibilities, skills, and the impact of the Scrum Master on team dynamics and organisational effectiveness. The depth of discussion is substantial, providing insights into the necessary competencies and the importance of experience, which further supports its classification.",
     "level": "Secondary"
   },
   "Azure Repos": {
@@ -850,11 +853,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-25T12:14:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:29:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and importance of Scrum Masters, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role and misconceptions surrounding Scrum Masters in Agile teams, with no direct mention of Test First Development principles or practices. While it touches on aspects of team dynamics and competence, it does not align with the core themes of Test First Development, such as success criteria, testing practices, or the importance of automated testing.",
     "level": "Ignored"
   },
   "Product Backlog": {
@@ -1470,6 +1476,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master within Agile methodologies, focusing on misconceptions about the term 'junior Scrum Master'. While it touches on aspects of team dynamics and organisational context, it does not directly address the principles or components of the One Engineering System (1ES). The discussion is centred around Scrum, which is a specific framework rather than the broader integration and standardisation of engineering processes that 1ES encompasses.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:29:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the misconceptions surrounding the role of a Scrum Master, focusing on the need for experience and expertise rather than addressing the intentional shaping of outcomes or the principles of Agentic Agility. While it touches on aspects of leadership and team dynamics, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

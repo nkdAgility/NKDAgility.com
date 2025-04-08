@@ -25,8 +25,8 @@ preview: https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg
 duration: 466
 isShort: false
 tags:
-- Scrum Master
 - Competence
+- Scrum Master
 - Scrum Team
 - Software Development
 - People and Process

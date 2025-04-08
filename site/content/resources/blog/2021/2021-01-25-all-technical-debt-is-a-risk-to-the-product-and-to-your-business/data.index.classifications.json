@@ -505,11 +505,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T20:50:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:19:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical debt and its implications for business, with no clear focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses technical debt and its implications for business and product quality, without directly addressing Test First Development principles or practices. While it touches on the importance of quality and mentions automation, it does not explicitly discuss success criteria, TDD, or the Test First approach, which are central to the category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -844,14 +847,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T02:33:06",
+    "calculated_at": "2025-04-08T17:19:10",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses technical debt and its implications for product delivery, with a brief mention of Scrum in the context of Microsoft adopting 3-week Sprints. However, the primary focus is on technical debt rather than the role of the Scrum Master or Scrum practices. While there is some alignment with Agile principles, the depth of discussion on Scrum Master responsibilities and practices is minimal.",
+    "reasoning": "The content discusses technical debt and its implications for product delivery, with a brief mention of Scrum in the context of Microsoft adopting 3-week Sprints. However, the primary focus is on technical debt rather than the role of the Scrum Master or their responsibilities. While there is some alignment with Scrum principles, the depth of discussion on the Scrum Master role is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1596,6 +1599,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses technical debt and its implications for software quality and business risk, without a direct focus on the One Engineering System framework or its principles. While it touches on aspects of software delivery and quality, it does not align with the core themes of 1ES, such as integration of tools and processes or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:19:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses technical debt and its implications for product delivery and business risk, without explicitly addressing Agentic Agility or its core themes. While there are mentions of accountability and the need for quality, these are not framed within the context of intentional shaping of outcomes or the interplay between human and AI capabilities. The focus remains on technical debt management rather than on the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

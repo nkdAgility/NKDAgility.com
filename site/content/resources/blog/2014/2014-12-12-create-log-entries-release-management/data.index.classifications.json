@@ -1156,11 +1156,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T23:33:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:40:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to logging and deployment scripts, with no focus on Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses creating log entries in Release Management using PowerShell, with no direct mention of Test First Development principles or practices. While it touches on aspects of deployment and logging, it does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices. The discussion lacks depth regarding any Test First methodologies, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1246,11 +1249,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T23:33:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:40:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to deployment scripts and logging in Release Management, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of creating log entries in Release Management using PowerShell, with no direct mention of Scrum Master responsibilities or related concepts. It lacks any discussion on Scrum principles, team dynamics, or the role of a Scrum Master, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1539,6 +1545,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on creating log entries in Release Management using PowerShell, which does not directly discuss the One Engineering System framework or its principles. While it touches on deployment processes, it lacks explicit references to integration, standardisation, or best practices related to 1ES. The discussion is more about personal experiences and technical challenges rather than a structured analysis of 1ES concepts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:40:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of creating log entries in Release Management using PowerShell. It does not explicitly discuss Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes, autonomy, or adaptability in a socio-technical context. The discussion is more about troubleshooting and scripting rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

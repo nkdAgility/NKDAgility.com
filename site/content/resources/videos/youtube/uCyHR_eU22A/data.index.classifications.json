@@ -511,11 +511,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T00:38:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:54:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the selection of items for the sprint backlog and Scrum roles, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on selecting items for the Sprint backlog in Scrum, which does not directly address Test First Development principles. While it touches on collaboration and prioritisation, it lacks explicit discussions on success criteria, testing practices, or the role of automated testing, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -850,14 +853,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T23:55:26",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-04-08T16:54:47",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the selection of items for the Sprint Backlog, which is a key aspect of the Scrum process. While it does not explicitly mention the role of the Scrum Master, it aligns with the responsibilities of facilitating team collaboration and ensuring effective Sprint Planning. The depth of discussion is moderate, focusing on the collaborative nature of backlog selection, which is relevant to the Scrum Master's role in guiding teams. However, the lack of direct references to the Scrum Master role and specific Scrum ceremonies limits the overall confidence score.",
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on the selection of items for the Sprint backlog, which is a key aspect of Scrum. However, it does not explicitly mention the role of the Scrum Master or delve into their responsibilities. While it discusses collaboration and stakeholder engagement, which are relevant to the Scrum Master's influence, the depth of discussion on the Scrum Master role itself is limited. Therefore, while there is a connection to the category, it is not the primary focus.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1578,6 +1581,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum practices, specifically the selection of items for the Sprint backlog, which is not directly related to the One Engineering System framework. While it touches on collaboration and prioritisation, it lacks explicit discussion of 1ES principles, components, or its impact on software quality and delivery timelines.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:54:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the selection of items for the Sprint backlog in Scrum, discussing Agile planning and collaboration among team members. While it touches on themes of value and collaboration, it does not explicitly address Agentic Agility or its principles, nor does it differentiate between human and AI capabilities in this context. The discussion lacks depth regarding intentional shaping of outcomes and does not explore the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

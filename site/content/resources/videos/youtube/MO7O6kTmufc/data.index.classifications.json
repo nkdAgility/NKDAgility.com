@@ -1330,11 +1330,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T13:52:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:49:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on evidence-based management and metrics rather than Test First Development or its principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on evidence-based management and defining outcomes, with no explicit discussion of Test First Development principles or practices. While it touches on the importance of metrics and decision-making, it does not align with the core themes of Test First Development, such as automated testing or the role of success criteria in guiding design and implementation.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1396,11 +1399,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:52:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:49:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on evidence-based management and metrics without a specific connection to the Scrum Master role.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses evidence-based management and metrics in project success, which are relevant to Scrum practices but does not explicitly focus on the role of the Scrum Master or their responsibilities. While there are mentions of team dynamics and agile practices, the primary focus is on metrics and outcomes rather than the Scrum Master's role in facilitating these processes.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1554,6 +1560,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on evidence-based management and metrics for project success, which does not directly address the principles or components of the One Engineering System. While it touches on aspects of project management that could relate to software development, it lacks explicit discussion on integration, standardisation, or the specific methodologies of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:49:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of defining outcomes and using metrics to drive project success, which aligns with the principles of intentionality and adaptability in Agentic Agility. However, it lacks a direct focus on the distinction between human and AI capabilities, and does not delve deeply into the transformative capacity of individuals or systems in a socio-technical context. The discussion is more about evidence-based management rather than explicitly addressing Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -1153,11 +1153,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T21:54:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:37:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to build permissions and error handling in a build system, with no focus on Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses troubleshooting access issues related to TFS build systems, focusing on permissions and error messages. It does not mention Test First Development principles, success criteria, or testing practices, which are central to the category. The discussion lacks depth and relevance to Test First Development, making it a low-confidence classification.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1240,11 +1243,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T21:54:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:37:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to build systems and permissions, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses troubleshooting TFS build errors and does not mention the role or responsibilities of a Scrum Master. It lacks any direct references to Scrum principles, coaching, or team dynamics, which are essential for the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1536,6 +1542,18 @@
     "non_ai_confidence": 20,
     "final_score": 24.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific issue related to TFS build permissions and does not explicitly discuss the One Engineering System framework or its principles. While it touches on aspects of build systems, it lacks a broader discussion on integration, standardisation, or best practices that are central to 1ES. The mention of build services and permissions is too narrow and does not align with the comprehensive nature of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:37:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting access issues within a build system, lacking any explicit discussion of Agentic Agility principles. It does not address intentional shaping of outcomes, nor does it differentiate between human and AI capabilities in the context of agility. The content is more about technical problem-solving rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

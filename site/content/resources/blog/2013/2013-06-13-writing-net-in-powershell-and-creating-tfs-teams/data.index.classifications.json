@@ -1129,11 +1129,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:34:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:58:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses using PowerShell to interact with the TFS API, focusing on creating teams programmatically, and does not address Test First Development principles, practices, or related topics.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS API for creating teams, with no mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail on automated or manual testing methodologies, making it largely irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1491,6 +1494,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on technical implementation details of using PowerShell with .NET and TFS, rather than discussing competence in terms of continuous learning or skill development. While there are brief mentions of challenges faced and learning experiences, these are not the main focus. The discussion lacks depth in exploring the broader implications of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:58:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of using PowerShell with .NET and TFS API, lacking any discussion on Agentic Agility principles, intent, or the interplay between human and AI capabilities. It does not address the intentional shaping of outcomes or the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

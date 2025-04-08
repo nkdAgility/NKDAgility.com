@@ -40,7 +40,7 @@ tags:
 - Empirical Process Control
 - Daily Scrum
 - People and Process
-- Scrum Master
+- Transparency
 resourceTypes:
 - video
 layout: video

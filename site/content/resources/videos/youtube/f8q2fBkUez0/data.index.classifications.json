@@ -490,11 +490,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T23:07:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses financial literacy and organisational dynamics, with no clear focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T15:50:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses financial awareness and employee motivation, with no direct mention of Test First Development principles or practices. While it touches on agile concepts, it does not align with the core themes of Test First Development, such as success criteria, testing practices, or collaboration among development roles. The discussion lacks depth regarding any testing methodologies, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -820,11 +823,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T23:08:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:50:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses financial literacy and organizational dynamics, with only brief mentions of Agile and Scrum concepts, lacking a central focus on the Scrum Master role.",
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions the role of a Scrum trainer and discusses financial awareness in relation to team dynamics and decision-making. However, it does not focus on the responsibilities or impact of a Scrum Master within a Scrum Team, nor does it delve into the core themes of the Scrum Master role. The discussion is more centred on financial literacy and employee motivation, which are not directly aligned with the Scrum Master category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1506,6 +1512,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses financial awareness and employee motivation, with only a brief mention of agile practices and Scrum. It does not focus on the One Engineering System framework or its principles, components, or implementation. The discussion lacks depth regarding 1ES and does not address integration of tools or processes across teams, which are core themes of the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:50:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of financial awareness in motivating employees and enhancing decision-making, which aligns with the concept of agency. However, it does not explicitly address Agentic Agility or differentiate between human and AI capabilities. The focus is more on financial literacy and motivation rather than the intentional shaping of outcomes through autonomy and adaptability.",
     "level": "Ignored"
   }
 }

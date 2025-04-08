@@ -523,11 +523,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T21:13:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:20:28",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of releasing features to production and validating assumptions through user feedback, rather than focusing on the principles and practices of Test First Development.",
+    "final_score": 24.0,
+    "reasoning": "The content discusses the importance of real user feedback and validation in production, which is somewhat related to testing but does not explicitly mention Test First Development principles or practices. It focuses more on user feedback and value delivery rather than the specific methodologies of Test First Development, such as TDD or ATDD.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -853,11 +856,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T21:14:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:20:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses value delivery and user feedback in production, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of real user feedback and value delivery, which are relevant to the Scrum framework. However, it does not explicitly mention the role of the Scrum Master or delve into their responsibilities, techniques, or influence on team dynamics. The focus is more on product management and validation rather than the Scrum Master's role in facilitating these processes.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1581,6 +1587,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the importance of real user feedback and validating assumptions in production, which does not directly address the principles or components of the One Engineering System. While it touches on aspects of software delivery and value, it lacks a clear discussion on integration, standardisation, or the specific methodologies associated with 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:20:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of real user feedback and validation of assumptions in production, which aligns with the concept of shaping outcomes through understanding user needs. However, it lacks explicit references to Agentic Agility, such as the distinction between human and AI capabilities or the role of intent and accountability. The focus is more on general Agile practices rather than a deep exploration of Agentic Agility principles.",
     "level": "Ignored"
   }
 }

@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T13:49:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:49:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the Agile Manifesto and its principles, without a focus on Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the Agile Manifesto and its principles, which focus on values and practices of Agile development rather than specifically addressing Test First Development. While there are mentions of delivering working software and collaboration, these concepts do not directly align with the principles of Test First Development, such as defining success criteria or the specifics of TDD and ATDD. The content lacks depth in discussing the Test First approach, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -871,11 +874,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T13:50:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:49:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Agile Manifesto and its principles, without specific reference to the role or responsibilities of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the Agile Manifesto and its principles, which are foundational to Agile methodologies but do not specifically focus on the role of the Scrum Master. While there are mentions of team dynamics and collaboration, the content lacks direct references to the responsibilities or impact of a Scrum Master, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1602,6 +1608,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the Agile Manifesto and its principles, which focus on Agile methodologies rather than the One Engineering System framework. There are no direct mentions of 1ES, and the content does not align with the core themes of integration and standardisation of engineering processes. The depth of discussion is also minimal regarding the specific aspects of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:49:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile principles and values, which do not explicitly address the concept of Agentic Agility. While there are mentions of autonomy and adaptability, they are framed within the context of Agile practices rather than a discussion on intentional shaping of outcomes or the distinction between human and AI capabilities. The depth of discussion is limited to general Agile principles without exploring the transformative capacity or mechanisms of Agentic Agility.",
     "level": "Ignored"
   }
 }

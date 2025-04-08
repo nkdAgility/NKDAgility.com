@@ -76,11 +76,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-13T17:41:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:00:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile coaching and consulting without a specific focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions agile coaching and Scrum training, which are relevant to the role of a Scrum Master. However, it primarily focuses on the importance of language and transparency in the agile context without delving into the specific responsibilities or impact of a Scrum Master. The discussion lacks depth regarding the Scrum Master's role and does not provide substantial insights into their influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Scaling Kanban": {
@@ -538,11 +541,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T17:42:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:00:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Agile principles and the importance of language in Agile contexts, without discussing Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of language and transparency in the agile context, without any direct mention or exploration of Test First Development principles, practices, or methodologies. The focus is on agile coaching and consulting rather than on testing practices or success criteria related to Test First Development.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1533,6 +1539,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Agile practices and the importance of language in the Agile context, with no direct mention or discussion of the One Engineering System framework. While it touches on themes relevant to software development, it does not align with the core principles of 1ES, such as integration and standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:00:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of language and transparency in Agile practices, which does not directly address the concept of Agentic Agility. While there are mentions of Agile coaching and consulting, the focus is on communication rather than the intentional shaping of outcomes or the interplay between human and AI capabilities. Therefore, the content does not align well with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

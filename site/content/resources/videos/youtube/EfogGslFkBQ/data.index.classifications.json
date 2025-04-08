@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T08:08:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:11:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the drawbacks of using story points and velocity in Agile, without addressing Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile metrics, specifically critiquing the use of story points and velocity, which are not directly related to Test First Development principles. While it touches on the importance of delivering value, it does not address success criteria, testing practices, or the role of automated testing, which are core to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -862,11 +865,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T20:10:21",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-08T16:11:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses Agile metrics and their implications, but it does not focus specifically on the role or responsibilities of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile metrics, particularly story points and velocity, but does not focus on the role of the Scrum Master or their responsibilities. While it touches on Agile principles, it lacks a direct connection to the Scrum Master's influence on team dynamics or organisational change, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1575,6 +1581,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Agile methodologies, specifically critiquing the use of story points and velocity as metrics. It does not address the principles or components of the One Engineering System, nor does it explore integration or standardisation of engineering processes. The focus is on Agile practices rather than the unified framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:11:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily critiques the use of story points and velocity in Agile practices, focusing on metrics that promote value delivery rather than discussing Agentic Agility. While it touches on the importance of delivering value, it does not explicitly address the intentional shaping of outcomes, the role of agency, or the distinction between human and AI capabilities in agility.",
     "level": "Ignored"
   }
 }

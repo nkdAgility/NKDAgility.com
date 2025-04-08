@@ -1114,11 +1114,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T22:12:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:37:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses renaming a Team Project in TFS 2015, with no mention of Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on renaming a Team Project in TFS 2015, with no direct mention of Test First Development principles, success criteria, or testing practices. It lacks alignment with the core themes of the category and provides minimal detail relevant to Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1201,11 +1204,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T22:12:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:37:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of renaming a Team Project in TFS 2015, with no clear focus on Scrum Master responsibilities or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for renaming a Team Project in TFS 2015, with no direct mention of Scrum Master responsibilities or related concepts. While it briefly touches on team project management, it lacks any substantial discussion on the role of a Scrum Master, their influence on team dynamics, or agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1488,6 +1494,18 @@
     "non_ai_confidence": 10,
     "final_score": 6.0,
     "reasoning": "The content primarily focuses on the technical process of renaming a Team Project in TFS 2015, with no explicit discussion of the One Engineering System framework or its principles. While it touches on aspects of project management, it does not align with the core themes of integration, standardisation, or best practices related to 1ES. The discussion lacks depth and does not provide insights into the impact of such actions on software quality or team collaboration.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:37:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of renaming a Team Project in TFS 2015, with no explicit discussion of Agentic Agility or its principles. While it touches on aspects of project management, it does not engage with the intentional shaping of outcomes, autonomy, or adaptability as defined in the category. The content lacks depth and relevance to the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

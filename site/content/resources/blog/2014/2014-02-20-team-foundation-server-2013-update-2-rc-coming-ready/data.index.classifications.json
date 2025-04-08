@@ -1156,11 +1156,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T11:31:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:48:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the upcoming TFS Upgrade and new features of TFS 2013 Update 2 RC, with no clear focus on Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the upcoming features of TFS 2013 Update 2 RC and does not mention Test First Development or its principles. There is no focus on success criteria, testing practices, or any related concepts, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1240,11 +1243,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T11:31:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:48:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses updates and features of TFS 2013 rather than the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the upcoming features of TFS 2013 Update 2 RC and does not mention the role or responsibilities of a Scrum Master. There is minimal conceptual alignment with Scrum principles, and the depth of discussion regarding Scrum Masters is virtually non-existent.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1518,6 +1524,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the upcoming TFS 2013 Update 2 RC and its features, with minimal direct discussion on competence or continuous skill development. While it mentions expert support, it does not delve into the importance of competence in Agile or DevOps contexts, nor does it explore strategies for fostering a culture of competence. The discussion lacks depth and does not align closely with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:48:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the upcoming features of TFS 2013 Update 2 RC and the support provided by Microsoft for the upgrade. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The mention of features and support does not align with the core themes of intentionality, autonomy, or adaptability that define Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -1294,11 +1294,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T14:40:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:43:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on flexibility and inflexibility in project management rather than discussing Test First Development or its principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the balance between flexibility and inflexibility in agile methodologies without any direct mention of Test First Development principles or practices. While it touches on aspects of agile, it does not align with the core themes of Test First Development, such as defining success criteria or the role of testing in the development process. The discussion lacks depth regarding Test First practices, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1360,11 +1363,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T14:40:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:43:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum Master responsibilities or practices and is focused more on flexibility in project management without specific reference to Scrum.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile methodologies and the balance between flexibility and inflexibility, which are relevant to the Scrum framework. However, it does not explicitly mention the role of the Scrum Master or delve into specific responsibilities, techniques, or the impact of the Scrum Master on team dynamics. The focus is more on general agile practices rather than the specific role of a Scrum Master.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1518,6 +1524,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses agile methodologies, focusing on flexibility and inflexibility, without any direct mention or detailed exploration of the One Engineering System framework. While it touches on themes of adaptability and team dynamics, it does not align with the core principles of 1ES, such as integration of tools and processes or standardisation across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:43:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses flexibility and inflexibility in agile methodologies, which touches on adaptability but lacks a direct focus on the intentional shaping of outcomes or the specific principles of Agentic Agility. While it mentions decision-making and context, it does not differentiate between human and AI capabilities or delve into the transformative capacity of individuals and systems, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

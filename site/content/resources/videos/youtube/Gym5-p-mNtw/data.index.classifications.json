@@ -187,11 +187,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T15:47:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:35:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses cost control and metrics in Agile without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile metrics and the importance of reducing waste in organisations, which are relevant to the broader agile context. However, it does not explicitly mention the role of the Scrum Master or delve into their specific responsibilities, techniques, or influence on team dynamics. The focus is more on metrics and organisational performance rather than the Scrum Master's role in facilitating Scrum practices.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1105,11 +1108,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T15:50:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses waste reduction, metrics, and innovation rates in Agile practices, without a clear focus on Test First Development or its principles.",
+    "calculated_at": "2025-04-08T15:35:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses waste reduction and ROI through agile metrics, with no direct mention of Test First Development principles or practices. While it touches on continuous testing, it does not delve into the specifics of defining success criteria or the role of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1626,6 +1632,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on agile metrics and waste reduction in software development, which does not directly address the principles or components of the One Engineering System. While it touches on themes of efficiency and performance, it lacks explicit discussions on the integration of tools and processes across teams, best practices for implementing 1ES, or the impact of 1ES on software quality. The content is more aligned with general agile practices rather than the specific framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:35:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses agility and metrics related to performance and waste reduction, but it does not explicitly address the concept of Agentic Agility or the intentional shaping of outcomes. While it touches on themes of adaptability and value creation, it lacks a clear distinction between human and AI capabilities and does not delve into the principles or mechanisms of Agentic Agility. The focus is more on operational efficiency rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

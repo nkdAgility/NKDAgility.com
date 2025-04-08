@@ -29,12 +29,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum Master
 - Professional Scrum
 - Team Performance
 - Software Development
 - Competence
 - Agile Frameworks
-- Scrum Master
 - Agile Leadership
 - Continuous Improvement
 - People and Process

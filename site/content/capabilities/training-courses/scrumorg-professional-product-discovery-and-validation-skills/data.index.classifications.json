@@ -361,11 +361,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T07:20:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:57:33",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content predominantly focuses on product discovery and validation, which is more related to Product Owners and Managers rather than the specific roles and responsibilities of a Scrum Master.",
+    "final_score": 9.0,
+    "reasoning": "The content does not mention the Scrum Master role or its responsibilities. It lacks any discussion on Scrum principles or practices, making it irrelevant to the category. The title suggests a focus on product discovery and validation, which is not aligned with the Scrum Master's role.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -397,11 +400,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T07:20:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on product discovery and validation skills rather than Test First Development or its principles.",
+    "calculated_at": "2025-04-08T15:57:35",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not mention Test First Development or its principles. It lacks any discussion on success criteria, testing practices, or related topics, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content does not mention the One Engineering System or its principles, nor does it discuss any related topics. It lacks any relevant detail or context that aligns with the category's focus on standardising and integrating software development practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:57:31",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content does not provide any information or discussion related to Agentic Agility, its principles, or its applications. It lacks any mention of the key topics outlined in the category, making it irrelevant to the classification.",
     "level": "Ignored"
   }
 }

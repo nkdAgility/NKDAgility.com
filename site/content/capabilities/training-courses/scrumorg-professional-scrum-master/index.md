@@ -42,6 +42,7 @@ delivery-audiences:
 delivery-audiences_weight: 100
 tags:
 - Agile Project Management
+- Scrum Master
 - Transparency
 - Agile Product Management
 - Definition of Done
@@ -50,7 +51,6 @@ tags:
 - Scrum Product Development
 - Agile Leadership
 - Agile Planning
-- Complexity Thinking
 categories:
 - Scrum
 preview: NKDAgility-Courses-PSM-16x9.svg

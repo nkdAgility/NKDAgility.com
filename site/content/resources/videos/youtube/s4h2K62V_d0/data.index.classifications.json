@@ -529,14 +529,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-14T17:16:15",
+    "calculated_at": "2025-04-08T15:39:53",
     "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
+    "ai_mentions": 15.0,
     "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses code reviews and their role in quality assurance but does not explicitly mention Test First Development or its principles. While it touches on the importance of automated checks and quality processes, it lacks a direct focus on writing tests before code, which is central to Test First Development. The discussion is more about code review practices rather than the TDD methodology itself.",
+    "reasoning": "The content discusses code reviews and the importance of integrating quality early in the development process, which aligns with the concept of shifting left. However, it does not explicitly mention Test First Development or its principles. The focus is more on code reviews rather than on defining success criteria or automated testing practices, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -880,11 +880,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T02:14:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses software engineering practices and quality assurance, with no clear focus on the role or responsibilities of a Scrum Master.",
+    "calculated_at": "2025-04-08T15:39:49",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content briefly mentions agile and scrum but primarily focuses on code reviews and quality assurance practices. It does not delve into the specific responsibilities or impact of a Scrum Master, nor does it discuss the role in fostering team dynamics or organisational change. The discussion is more aligned with software development practices than with the core themes of the Scrum Master role.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1623,6 +1626,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses code reviews and quality assurance practices, which are relevant to software development but do not explicitly mention the One Engineering System (1ES) framework. While it touches on integration and automation in the context of code reviews, it lacks a direct focus on the principles, components, or implementation of 1ES. The discussion is more centred on agile methodologies and personal opinions rather than the standardisation and integration of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:39:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses code reviews and quality assurance in software development, focusing on practices like shifting left and automation. While it touches on improving processes, it does not explicitly address Agentic Agility or its key themes such as intentional shaping of outcomes, the distinction between human and AI capabilities, or the role of accountability and reflection. The discussion lacks depth and does not engage with the core principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

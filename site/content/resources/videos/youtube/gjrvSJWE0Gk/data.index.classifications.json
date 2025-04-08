@@ -505,11 +505,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T07:04:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:04:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on metrics for predictability in Kanban, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban metrics and predictability in project management, with no direct mention or discussion of Test First Development principles, practices, or methodologies. It does not address success criteria, testing practices, or the role of testing in software delivery, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -1081,11 +1084,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T07:23:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:04:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on metrics for predictability in Kanban, without direct reference to Scrum Master responsibilities or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban and its metrics for predictability, with no direct mention of the Scrum Master role or responsibilities. While it touches on agile principles, it does not align with the core themes of the Scrum Master category, such as coaching, facilitating, or team dynamics within a Scrum context. The discussion is more about project management and Kanban practices rather than the specific role of a Scrum Master.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -1578,6 +1584,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban and its metrics for improving predictability in project management, which does not align with the core principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion is centred around Kanban practices rather than the integration and standardisation of engineering processes across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:04:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on enhancing predictability in project management through Kanban metrics, which does not explicitly discuss Agentic Agility or its core themes. While it touches on decision-making and improving delivery processes, it lacks a clear connection to the intentional shaping of outcomes or the distinction between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

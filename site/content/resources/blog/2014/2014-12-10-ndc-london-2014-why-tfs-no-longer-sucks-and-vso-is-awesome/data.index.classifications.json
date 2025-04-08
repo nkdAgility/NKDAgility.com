@@ -1192,11 +1192,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T23:37:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:40:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses a presentation on TFS and VSO, with a focus on demo preparation and deployment issues, rather than the principles or practices of Test First Development.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the transformation of TFS and VSO, focusing on demo experiences and workflows rather than the principles of Test First Development. While there are mentions of testing and bug workflows, they are not central to the discussion, and the content lacks depth in exploring Test First practices or success criteria.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1279,11 +1282,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T23:37:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:40:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses TFS and VSO, with no clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses TFS and VSO, focusing on technical demonstrations and deployment processes rather than the role or responsibilities of a Scrum Master. While there are mentions of Agile planning and team dynamics, these are not explored in the context of the Scrum Master role, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1584,6 +1590,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses TFS and VSO, focusing on their features and improvements rather than the One Engineering System framework. While there are mentions of workflows and processes, they do not explicitly align with the core principles of 1ES, such as standardisation and integration across teams. The discussion lacks depth in terms of 1ES implementation or its impact on software quality and delivery timelines.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:40:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the functionalities and improvements of TFS and VSO, focusing on technical demonstrations and workflows rather than the intentional shaping of outcomes through autonomy and adaptability. While there are mentions of Agile practices, they do not delve into the principles of Agentic Agility or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

@@ -547,14 +547,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T01:09:50",
+    "calculated_at": "2025-04-08T17:07:52",
     "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content briefly mentions Agile and Scrum in the context of training and learning formats, but it does not focus on the specific role or responsibilities of a Scrum Master. While there are references to Agile principles, the discussion is more centred on training methodologies and DevOps rather than the Scrum Master’s role in facilitating Scrum processes or coaching teams.",
+    "reasoning": "The content briefly mentions Scrum within the context of agile methodologies but does not focus on the role or responsibilities of a Scrum Master. While it discusses value delivery and training approaches, it lacks depth in exploring the specific impact of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -979,11 +979,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum training and coaching, with no mention of Test First Development or related principles such as Test-Driven Development (TDD).",
+    "calculated_at": "2025-04-08T17:07:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses immersive training and agile methodologies, with a focus on value delivery through DevOps and training approaches. It does not explicitly mention Test First Development or its principles, nor does it delve into topics such as success criteria, TDD, or ATDD, which are central to the category. The discussion is more about training and value creation rather than testing practices.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1554,6 +1557,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content discusses agile methodologies and DevOps, which are related to software development practices, but it does not explicitly mention the One Engineering System (1ES) or its principles. The focus is more on training and value delivery rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:07:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of value creation and the role of training in enhancing learning experiences, which aligns with the principles of Agentic Agility. However, it primarily focuses on training methodologies and DevOps practices without explicitly addressing the intentional shaping of outcomes or differentiating between human and AI capabilities. The mention of double-loop learning indicates some depth, but the overall focus remains on training rather than a comprehensive exploration of Agentic Agility.",
     "level": "Ignored"
   }
 }

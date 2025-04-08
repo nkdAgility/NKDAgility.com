@@ -361,11 +361,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:10:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on metrics and forecasting in Agile and Lean project management, without specific discussion on Scrum Master roles or responsibilities.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting rather than the specific role and responsibilities of a Scrum Master. While it touches on concepts relevant to project management and decision-making, it does not explicitly discuss the Scrum Master role or its impact on team dynamics and organisational change. The mention of agile metrics aligns somewhat with the Scrum framework, but the depth of discussion lacks a direct connection to the core themes of the Scrum Master category.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -397,11 +400,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:10:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on agile metrics and forecasting, with no clear relevance to Test First Development or its principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting rather than discussing Test First Development principles. While it touches on project success and decision-making, it does not explicitly mention Test First practices, success criteria, or the role of testing in the development process. The alignment with core themes of Test First Development is minimal, and the depth of discussion regarding the category is very limited.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on agile metrics and forecasting rather than the One Engineering System framework. While it touches on project management and decision-making, it does not explicitly discuss the principles, components, or implementation of 1ES. The mention of metrics could relate to broader engineering practices but lacks direct relevance to the integration and standardisation of engineering processes as defined by 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:10:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting, which are important for project management but do not explicitly discuss Agentic Agility or its core themes. While there are mentions of data-driven decision-making and risk management, the content lacks a clear distinction between human and AI capabilities, and does not delve into the intentional shaping of outcomes or the transformative capacity of individuals and systems. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   }
 }

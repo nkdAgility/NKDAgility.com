@@ -595,11 +595,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T09:27:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:24:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the pitfalls of the Scaled Agile Framework (SAFe) and the rigidity of traditional practices, without addressing Test First Development or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily critiques the Scaled Agile Framework (SAFe) and discusses the pitfalls of adopting rigid frameworks in software development. It does not mention Test First Development, its principles, or practices, nor does it align with the core themes of defining success criteria or the importance of testing in the development process. The focus is on organisational agility rather than testing methodologies.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -952,11 +955,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T09:28:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:24:41",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily critiques the Scaled Agile Framework (SAFe) and discusses general business agility without specific reference to the Scrum Master role or responsibilities.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily critiques the Scaled Agile Framework (SAFe) and discusses the pitfalls of adopting rigid frameworks in place of true agility. While it touches on themes of organisational change and agility, it does not explicitly mention the role or responsibilities of a Scrum Master, nor does it delve into the specific skills or techniques relevant to that role. The focus is more on the critique of SAFe rather than on the Scrum Master’s influence or practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1569,6 +1575,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily critiques the Scaled Agile Framework (SAFe) and discusses the pitfalls of adopting rigid frameworks in place of true agility. While it touches on themes of organisational change and agility, it does not directly address the principles or components of the One Engineering System (1ES). The focus is on the limitations of SAFe rather than on integration, standardisation, or best practices related to 1ES, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:24:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content critiques the rigidity of the SAFe framework and discusses the need for organisations to embrace evolution and adaptability, which aligns with the concept of Agentic Agility. However, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities, leading to a lower confidence score.",
     "level": "Ignored"
   }
 }

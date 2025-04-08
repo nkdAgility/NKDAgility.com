@@ -1279,11 +1279,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:15:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on teaching a product owner apprenticeship, with no mention of Test First Development or related testing practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, drawing insights from a specific book. It does not discuss Test First Development principles, success criteria, or any related testing practices. The mention of product ownership is too tangential to the core themes of Test First Development, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1342,11 +1345,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on teaching a Product Owner, not on the role or responsibilities of a Scrum Master.",
+    "calculated_at": "2025-04-08T16:15:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, with no direct mention of the Scrum Master role or responsibilities. While it touches on collaboration and communication, which are relevant to Scrum, it does not delve into the specific duties or impact of a Scrum Master, nor does it discuss Scrum principles or practices. Therefore, the alignment with the Scrum Master category is minimal.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1500,6 +1506,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on negotiation skills for product owners, drawing insights from a specific book. It does not discuss the One Engineering System framework, its principles, or its implementation. While there are mentions of collaboration and communication, these are not directly tied to the core themes of 1ES, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:15:08",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions negotiation skills and their importance for product owners, which aligns with the concept of intentional shaping of outcomes. However, it lacks a direct focus on Agentic Agility principles, such as the distinction between human and AI capabilities, and does not delve into the mechanisms of AI Agentic Agility or the role of intent and reflection. The discussion is primarily centred on negotiation techniques rather than the broader themes of agency and adaptability.",
     "level": "Ignored"
   }
 }

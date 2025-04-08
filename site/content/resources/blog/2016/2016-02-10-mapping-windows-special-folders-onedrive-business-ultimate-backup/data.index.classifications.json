@@ -1111,11 +1111,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T21:13:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:36:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on file storage solutions and syncing with OneDrive, with no mention of Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on mapping Windows special folders to OneDrive for Business, discussing backup strategies and file syncing across devices. It does not mention Test First Development, success criteria, or any related testing practices, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1195,11 +1198,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T21:13:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:36:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on data backup solutions and cloud storage, with no relevance to Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on mapping Windows special folders to OneDrive for Business, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not discuss any responsibilities, skills, or impacts associated with the Scrum Master role, nor does it touch on agile principles or team dynamics. Therefore, it is not relevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 20,
     "final_score": 6.0,
     "reasoning": "The content primarily focuses on mapping Windows special folders to OneDrive for Business for backup purposes. It does not discuss the One Engineering System framework, its principles, or its components. There are no mentions of integration of tools or processes across teams, nor does it provide best practices or case studies related to 1ES. The discussion is centred around personal data management and cloud storage solutions, which are unrelated to the core themes of the One Engineering System.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:36:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on practical steps for mapping Windows special folders to OneDrive for Business, with no explicit discussion of Agentic Agility or its principles. While it touches on themes of data management and accessibility, it lacks depth in exploring intentional shaping of outcomes, autonomy, or adaptability in a socio-technical context.",
     "level": "Ignored"
   }
 }

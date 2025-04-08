@@ -1138,11 +1138,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T21:21:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:36:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an Agile event in Africa and does not focus on Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on promoting the Agile in Africa 2016 event and does not discuss Test First Development principles or practices. There are no explicit mentions of success criteria, testing methodologies, or the impact of Test First on collaboration, which are key topics in the category. The content lacks depth and relevance to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1222,11 +1225,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T21:22:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:36:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an Agile event in Africa without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on an Agile event in Africa and does not explicitly discuss the role or responsibilities of a Scrum Master. While it mentions Scrum Day Africa, it lacks depth in exploring the Scrum Master's impact, techniques, or responsibilities, making it peripheral to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1515,6 +1521,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on an Agile event in Africa, discussing personal experiences and the community aspect of Agile practices. It does not mention the One Engineering System framework, its principles, or its components. The discussion is centred around Agile methodologies rather than the integration and standardisation of engineering processes, which is the core of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:36:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting the Agile in Africa 2016 event and does not explicitly discuss Agentic Agility or its principles. While it touches on the importance of improving development practices in Africa, it lacks a clear connection to the intentional shaping of outcomes, autonomy, or adaptability as defined in the category. The mention of speakers and their commitment does not delve into the mechanisms of Agentic Agility or provide depth on the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

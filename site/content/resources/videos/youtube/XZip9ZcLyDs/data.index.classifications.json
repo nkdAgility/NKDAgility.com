@@ -493,11 +493,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T22:43:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:06:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role of a Scrum Master and leadership in Agile, with no mention of Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master and leadership within Agile methodologies, with no direct mention or focus on Test First Development principles, practices, or related topics.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -835,14 +838,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T18:19:26",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 30,
-    "ai_depth": 25,
+    "calculated_at": "2025-04-08T17:06:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content primarily discusses the role of a Scrum Master as a career progression for team members, highlighting leadership qualities and responsibilities associated with the position. It mentions the Scrum Master role explicitly multiple times and aligns with the themes of leadership and team effectiveness. However, it lacks detailed exploration of specific Scrum practices or techniques, which slightly lowers the depth score.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the Scrum Master role as a career option, discussing its significance in leadership development and team effectiveness. It directly mentions the Scrum Master multiple times and aligns well with the core themes of the category, such as leadership, accountability, and enhancing team performance. However, while it provides a good overview, it lacks in-depth exploration of specific Scrum Master responsibilities and techniques, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1542,6 +1545,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the role of a Scrum Master within Agile methodologies, discussing leadership and career development rather than the principles or components of the One Engineering System. It does not address integration of tools or processes, best practices for implementing 1ES, or any related challenges and solutions, which are key topics for the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:06:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and leadership within Agile practices, lacking explicit discussions on Agentic Agility. While it touches on leadership and accountability, it does not delve into the intentional shaping of outcomes or the distinction between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

@@ -1180,11 +1180,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:01:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:56:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily focuses on the complexities of migrating Team Foundation Server and logistical aspects of data handling, rather than principles or practices of Test First Development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the complexities of Team Foundation Server migrations and does not mention or align with the principles of Test First Development. There is no focus on defining success criteria, testing practices, or the role of testing in the development process.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1270,11 +1273,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:01:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:56:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss the role or responsibilities of a Scrum Master, nor does it address Scrum-specific practices or frameworks; it focuses on Team Foundation Server migrations and technical processes.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the technical complexities and processes involved in migrating Team Foundation Server, with no direct mention of the Scrum Master role or its responsibilities. While there are elements of team dynamics and project management, they are not framed within the context of Scrum or the Scrum Master's influence, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1548,6 +1554,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the technical complexities of Team Foundation Server migrations, with limited direct discussion on competence as a foundational principle. While it touches on the need for skill and knowledge in executing complex processes, it lacks a thorough exploration of continuous learning, mastery, or the impact of competence on team dynamics and quality outcomes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:56:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of Team Foundation Server migrations and does not explicitly discuss Agentic Agility or its principles. While there are elements of problem-solving and adaptability in the migration process, the content lacks a clear connection to the intentional shaping of outcomes, intent, or the interplay between human and AI capabilities. The discussion is more about operational challenges than about agency or agility in a socio-technical context.",
     "level": "Ignored"
   }
 }

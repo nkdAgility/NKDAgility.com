@@ -538,12 +538,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T10:22:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:12:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the general concept of Scrum and its efficiency claims rather than specifically focusing on the role and responsibilities of a Scrum Master.",
-    "level": "Ignored"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the misconceptions surrounding Scrum, particularly the misleading promise of increased productivity. While it touches on the importance of focusing on value over output, it does not explicitly address the role of the Scrum Master or their responsibilities. The discussion aligns with some core themes of the category, such as promoting agile principles and continuous improvement, but lacks depth in exploring the specific impact and techniques of a Scrum Master.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -967,11 +970,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:22:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:12:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Scrum framework and its value proposition, without any focus on Test First Development or related principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum and the misconceptions surrounding its promises, focusing on output versus outcome. It does not mention Test First Development or its principles, nor does it delve into testing practices, automated testing, or success criteria, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1545,6 +1551,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Scrum, a specific Agile methodology, and critiques its common misconceptions. It does not address the principles or components of the One Engineering System (1ES), nor does it explore integration or standardisation of engineering processes. The focus is on Agile practices rather than the broader framework of 1ES, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:12:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily critiques a common misconception about Scrum, focusing on output versus outcome, but does not explicitly discuss Agentic Agility or its principles. While it touches on the importance of value in Agile practices, it lacks a clear connection to the intentional shaping of outcomes or the distinction between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

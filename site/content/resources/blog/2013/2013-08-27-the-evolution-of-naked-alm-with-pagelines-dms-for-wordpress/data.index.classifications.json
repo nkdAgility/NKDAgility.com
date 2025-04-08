@@ -1126,11 +1126,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:28:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:53:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the use and customization of the Pagelines DMS framework for Wordpress, with no clear focus on Test First Development or related principles and practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the evolution of a specific WordPress framework (Pagelines DMS) and its customisation features, with no mention of Test First Development principles, success criteria, or testing practices. It lacks any relevant discussion on automated or manual testing methodologies, making it irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1207,11 +1210,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:28:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:53:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about Wordpress and Pagelines, with no relevant discussion on the role or practices of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the evolution of a WordPress platform and the Pagelines DMS, with no direct mention or relevant discussion of the Scrum Master role, responsibilities, or related agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the evolution of a specific platform (Pagelines DMS for WordPress) and its features, rather than discussing competence in the context of Agile, Scrum, or DevOps. While there are mentions of learning and customisation, these are not explored in depth or connected to the broader themes of continuous development or professionalism. The discussion lacks a clear emphasis on competence as a foundational principle.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:53:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the evolution of a specific WordPress framework (Pagelines DMS) and its customisation capabilities. While it discusses change and adaptation in a technical context, it does not explicitly address the principles of Agentic Agility, such as intentional shaping of outcomes, autonomy, or the interplay between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical environment, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

@@ -367,11 +367,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:36:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:28:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum roles or practices; it focuses on general concepts of decision-making and collaboration.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses leadership styles in an Agile context but does not specifically focus on the role of the Scrum Master. While it touches on themes relevant to team dynamics and decision-making, it lacks direct references to Scrum Master responsibilities or techniques. The discussion is more about general leadership rather than the specific impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -406,11 +409,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:36:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the concepts of dictatorship and democracy in decision-making, which is unrelated to Test First Development or its principles.",
+    "calculated_at": "2025-04-08T16:28:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses leadership styles in Agile, focusing on the balance between dictatorship and democracy. It does not mention Test First Development or its principles, nor does it provide any relevant insights into testing practices or methodologies. The discussion is centred around management rather than software development practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1518,6 +1524,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses leadership styles within Agile frameworks, focusing on the balance between dictatorship and democracy. It does not mention the One Engineering System or its principles, components, or implementation. The discussion is centred on personal leadership philosophies rather than the integration and standardisation of engineering processes, which is the core of the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:28:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses leadership styles in Agile, focusing on the balance between dictatorship and democracy. While it touches on themes of empowerment and collaboration, it does not explicitly address Agentic Agility or its principles. The discussion is more about leadership dynamics rather than the intentional shaping of outcomes through autonomy and adaptability, which are central to Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -541,11 +541,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T10:22:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:04:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the PSU course and its benefits for product development decisions, with only a brief mention of Scrum, and does not focus on Scrum Master responsibilities or practices.",
+    "final_score": 39.0,
+    "reasoning": "The content discusses a hypothesis-driven approach to product development and mentions the Professional Scrum with User Experience (PSU) course, which is related to Scrum principles. However, the primary focus is on product development techniques rather than the specific role and responsibilities of a Scrum Master. While there are elements of collaboration and continuous improvement that align with Scrum values, the content does not delve deeply into the Scrum Master's role or their impact on team dynamics and organisational change.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -985,11 +988,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:22:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the PSU course and Scrum practices, without addressing Test First Development or its principles.",
+    "calculated_at": "2025-04-08T17:04:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses a hypothesis-driven approach to product development, which is somewhat related to defining success criteria, but it does not explicitly mention Test First Development or its principles. The focus is more on collaboration and experimentation rather than on testing practices or the importance of success criteria in guiding design and implementation. While there are elements of alignment with the iterative nature of testing, the depth of discussion on Test First Development is minimal.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1569,6 +1575,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on a hypothesis-driven approach to product development and the Professional Scrum with User Experience course, which are not directly related to the One Engineering System framework. While there are mentions of collaboration and integration, they are not explicitly tied to the principles of 1ES, and the discussion lacks depth regarding the standardisation and integration of engineering processes across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:04:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses a hypothesis-driven approach to product development, which touches on aspects of intentional decision-making and user-centric design. However, it primarily focuses on Scrum practices and collaboration rather than explicitly addressing Agentic Agility principles. The discussion lacks a clear distinction between human and AI capabilities and does not delve deeply into the transformative capacity of individuals or systems in shaping outcomes.",
     "level": "Ignored"
   }
 }

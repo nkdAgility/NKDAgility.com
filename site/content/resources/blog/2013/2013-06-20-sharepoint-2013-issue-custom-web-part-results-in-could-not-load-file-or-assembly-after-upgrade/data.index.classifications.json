@@ -1120,11 +1120,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:29:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:58:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on troubleshooting SharePoint web parts after an upgrade, with no mention of test-driven development principles, practices, or discussions related to writing tests before code.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions for SharePoint upgrade issues, specifically related to custom web parts. It does not mention Test First Development principles, success criteria, or any testing methodologies. The focus is on resolving specific technical problems rather than on testing practices or development methodologies.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1204,11 +1207,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:29:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:58:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is entirely focused on SharePoint technical issues and solutions, with no mention of Scrum Master roles, responsibilities, or Agile practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical issues related to SharePoint 2013 and does not mention or discuss any aspects of the Scrum Master role, responsibilities, or related agile principles. It is primarily a troubleshooting guide for a specific software issue, which is unrelated to the Scrum framework.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1479,6 +1485,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on resolving technical issues related to SharePoint upgrades and does not discuss competence, continuous learning, or skill development. While it provides detailed solutions, it lacks any reference to the principles of professionalism or quality delivery that underpin the concept of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:58:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to SharePoint upgrades and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is strictly about troubleshooting and solutions without any connection to the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

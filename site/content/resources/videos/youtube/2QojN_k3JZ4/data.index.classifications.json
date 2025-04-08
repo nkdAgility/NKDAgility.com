@@ -1279,11 +1279,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T15:26:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:16:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the concept of 'done' in Agile teams, which is not directly related to Test First Development or TDD principles.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses the concept of 'done' in Agile, which relates to quality assurance and clarity in expectations. However, it does not explicitly mention Test First Development or its principles. While it touches on the importance of quality and collaboration, it lacks a direct focus on success criteria or testing practices, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1345,12 +1348,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T15:26:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:16:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not focus on Scrum Master roles or responsibilities; it speaks generally about expectations and quality in Agile teams without specific reference to the Scrum Master.",
-    "level": "Ignored"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the concept of 'done' in Agile, which is relevant to Scrum practices, but it does not explicitly mention the role of the Scrum Master or delve into their responsibilities. While it touches on quality assurance and team dynamics, it lacks a direct focus on the Scrum Master's influence or techniques for coaching and facilitating within a Scrum context.",
+    "level": "Tertiary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1503,6 +1509,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the concept of 'done' in Agile teams, focusing on quality and expectations, which are relevant to software development practices. However, it does not explicitly mention the One Engineering System or its principles, nor does it address integration across teams or best practices for implementing 1ES. The discussion is primarily centred on Agile methodologies rather than the unified framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:16:16",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses the concept of 'done' in Agile teams, focusing on quality and expectations, but it does not explicitly address Agentic Agility or its principles. While there are elements of intent and accountability mentioned, the primary focus is on clarifying definitions and improving team processes rather than on the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

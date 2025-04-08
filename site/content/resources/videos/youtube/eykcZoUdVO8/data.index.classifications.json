@@ -373,11 +373,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T19:44:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:41:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on influential figures in Agile rather than the specific role and responsibilities of a Scrum Master.",
+    "final_score": 31.0,
+    "reasoning": "The content discusses influential figures in Agile, particularly focusing on Simon Randell's facilitation and communication skills, which are relevant to the Scrum Master role. However, it lacks a direct focus on the specific responsibilities and impact of a Scrum Master within a Scrum Team. While there are mentions of facilitation and Agile principles, the overall discussion is more about personal influence and inspiration rather than a detailed exploration of the Scrum Master role itself.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -415,11 +418,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T19:44:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:41:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses influential figures in Agile and their impact, with no focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, particularly Simon Randell, and discusses his facilitation and communication skills. There is no direct mention of Test First Development principles, success criteria, or testing practices. The discussion is more about Agile philosophy and personal insights rather than the specific practices of Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1521,6 +1527,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on personal insights about influential figures in Agile, particularly Simon Randell, rather than discussing the One Engineering System framework or its principles. While Agile is mentioned, it does not align with the core themes of 1ES, such as integration of tools and processes or best practices for implementation. The discussion lacks depth regarding 1ES, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:41:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, particularly Simon Randell, and discusses his facilitation and communication skills. While it touches on themes of influence and transformation, it does not explicitly address the concept of Agentic Agility or the intentional shaping of outcomes. The discussion lacks depth regarding the principles of Agentic Agility and does not differentiate between human and AI capabilities, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

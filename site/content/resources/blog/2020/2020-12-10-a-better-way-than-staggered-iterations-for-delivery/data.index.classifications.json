@@ -595,14 +595,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-15T02:45:40",
+    "calculated_at": "2025-04-08T17:21:18",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 30,
     "final_score": 73.0,
-    "reasoning": "The content discusses the concept of 'test first' in detail, highlighting its importance in ensuring that work is only done when there is a measurable test in place. It aligns well with the principles of Test-Driven Development (TDD) and Agile practices, emphasising the need for unit tests and acceptance criteria. The depth of discussion is substantial, providing insights into how test first practices can lead to improved code quality and reduced rework. However, while it is a significant focus, the content also covers broader Agile practices, which slightly dilutes its primary focus on Test First Development.",
+    "reasoning": "The content discusses the importance of 'Test First' practices explicitly, highlighting the need for measurable tests before implementation. It aligns well with the principles of Test First Development, particularly in the context of creating tests from acceptance criteria and ensuring that development is guided by these tests. The depth of discussion includes practical examples and solutions related to fostering cross-functional teams and integrating testing within the sprint, which are key aspects of Test First Development. However, the primary focus is on the broader topic of agile delivery rather than solely on Test First Development, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Digital Transformation": {
@@ -955,14 +955,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T02:46:17",
+    "calculated_at": "2025-04-08T17:21:20",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
     "final_score": 61.0,
-    "reasoning": "The content discusses the importance of cross-functional teams and the need for working software at the end of each iteration, which aligns with Scrum principles. However, it lacks direct references to the Scrum Master role and specific Scrum ceremonies, leading to a moderate confidence score.",
+    "reasoning": "The content discusses agile delivery methods and the importance of cross-functional teams, which aligns with the Scrum Master's role in fostering team effectiveness. However, it lacks direct mentions of the Scrum Master role and responsibilities, focusing more on delivery techniques rather than the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Secondary"
   },
   "Operational Practices": {
@@ -1587,6 +1587,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses agile methodologies and the drawbacks of staggered iterations, which are not directly related to the One Engineering System framework. While it touches on concepts like cross-functional teams and quality assurance, it lacks a clear focus on the integration and standardisation of engineering processes as outlined in the 1ES principles. The discussion is more centred on Scrum practices rather than the broader 1ES context.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:21:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses agile delivery methods and the importance of cross-functional teams, which aligns with some principles of Agentic Agility, such as adaptability and proactive intervention. However, it lacks a clear focus on the intentional shaping of outcomes and does not differentiate between human and AI capabilities. The discussion is more about improving agile practices rather than exploring the transformative capacity of individuals and systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

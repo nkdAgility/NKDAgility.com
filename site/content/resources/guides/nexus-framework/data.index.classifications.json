@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T13:44:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:49:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the Nexus framework for scaling Scrum, focusing on roles, events, and artifacts, without addressing Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Nexus framework for scaling Scrum and does not explicitly discuss Test First Development principles or practices. While it touches on collaboration and integration among teams, it lacks direct references to success criteria, testing methodologies, or the importance of defining tests before implementation, which are core to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -892,14 +895,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T17:38:17",
+    "calculated_at": "2025-04-08T15:49:14",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 32.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
     "final_score": 76.0,
-    "reasoning": "The content discusses the role of the Scrum Master within the Nexus framework, highlighting their responsibilities in ensuring the framework is understood and enacted. It also mentions the Scrum Master's involvement in coaching and guiding Scrum Teams, which aligns with the core themes of the Scrum Master role. However, the primary focus of the content is on the Nexus framework itself rather than exclusively on the Scrum Master, leading to a slightly lower confidence score.",
+    "reasoning": "The content discusses the Nexus framework, which builds upon Scrum and includes the role of the Scrum Master within the Nexus Integration Team. While it mentions the Scrum Master and their responsibilities, the primary focus is on the Nexus framework itself rather than an in-depth exploration of the Scrum Master's role. The content aligns with the category by addressing the Scrum Master's accountability in ensuring the framework is understood and enacted, but it does not provide extensive detail on the broader responsibilities or impact of the Scrum Master in fostering agile principles or team dynamics.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1614,6 +1617,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Nexus framework for scaling Scrum, which is a specific methodology rather than a discussion on the One Engineering System (1ES). While there are some elements of integration and collaboration mentioned, they are not explicitly tied to the principles or components of 1ES. The content lacks a detailed exploration of how Nexus aligns with the broader goals of standardising and integrating software development practices across teams, which is central to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:49:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Nexus framework for scaling Scrum, discussing roles, events, and artifacts without explicitly addressing the concept of Agentic Agility. While it touches on themes of collaboration and accountability, it does not delve into the intentional shaping of outcomes or the distinction between human and AI capabilities in agility, which are central to Agentic Agility.",
     "level": "Ignored"
   }
 }

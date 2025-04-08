@@ -361,11 +361,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T00:43:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-08T17:18:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the role of the Scrum Master within the context of a training course, outlining its importance, responsibilities, and collaboration with the Product Owner, which aligns well with the category.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on a training course for Scrum Masters and Product Owners, which directly mentions the role of the Scrum Master. However, while it discusses the importance of collaboration and shared understanding between Scrum roles, it lacks in-depth exploration of the Scrum Master's responsibilities, techniques, and impact on team dynamics. The course description provides a general overview but does not delve deeply into the core themes of the Scrum Master role, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Planning": {
@@ -397,11 +400,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T00:43:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses primarily on Scrum roles and training for Scrum Masters and Product Owners, with no mention of Test First Development or Test-Driven Development principles.",
+    "calculated_at": "2025-04-08T17:18:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum training for Scrum Masters and Product Owners, discussing collaboration and shared understanding within Scrum teams. It does not explicitly mention Test First Development principles, success criteria, or testing practices, which are central to the category. The discussion is more about team dynamics and training rather than the specifics of Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum methodologies, specifically the Professional Scrum Master and Product Owner training. While it discusses collaboration within Scrum teams, it does not address the One Engineering System framework, its principles, or its integration with other processes. The discussion is centred around Scrum roles and training rather than the standardisation and integration of software development practices as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:18:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum training and certification, discussing roles and collaboration within Scrum teams. It does not explicitly address Agentic Agility or its principles, nor does it differentiate between human and AI capabilities in the context of agility. The mention of collaboration and shared understanding is too general and does not align with the specific themes of intentionality and agency outlined in the category.",
     "level": "Ignored"
   }
 }

@@ -379,11 +379,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T22:39:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Product Owner role and training, with no clear focus on the Scrum Master responsibilities or practices.",
+    "calculated_at": "2025-04-08T16:52:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the Product Owner role and the differences between two training courses, with only brief mentions of Scrum principles. While it touches on Agile learning, it lacks a direct discussion of the Scrum Master's responsibilities or influence, which diminishes its alignment with the category.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -418,11 +421,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T22:39:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:52:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the value of a product owner class and its structure, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on comparing two different training approaches for Product Owners, with no direct mention or discussion of Test First Development principles. While it touches on learning and feedback, it does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices. The depth of discussion is also minimal regarding the category, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1536,6 +1542,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on comparing two training courses for Product Owners within the Scrum framework, which does not align with the core principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion lacks depth regarding integration or standardisation of engineering processes. The content is more about personal learning preferences and training methodologies rather than the unified engineering practices that 1ES promotes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:52:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on comparing two training courses for Product Owners, discussing their structure and benefits without addressing the intentional shaping of outcomes or the principles of Agentic Agility. While it touches on learning and reflection, it does not delve into the core themes of agency, adaptability, or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

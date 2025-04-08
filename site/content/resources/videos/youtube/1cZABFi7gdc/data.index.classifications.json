@@ -178,11 +178,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:35:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:19:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the hiring process for an Agile coach and does not focus on Test First Development or related principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on hiring an Agile coach and does not discuss Test First Development principles or practices. While it touches on Agile methodologies, it lacks any direct mention or detailed exploration of Test First Development concepts such as success criteria, TDD, or ATDD.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -622,11 +625,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:35:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses hiring an agile coach without specific focus on the Scrum Master role, responsibilities, or practices.",
+    "calculated_at": "2025-04-08T16:19:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the role of an Agile coach rather than the specific responsibilities and impact of a Scrum Master. While there are some overlaps in the themes of coaching and facilitating Agile practices, the focus is not on the Scrum Master role itself, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -1512,6 +1518,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on hiring an Agile coach and does not discuss the One Engineering System framework or its principles. While it touches on Agile practices, it lacks direct relevance to the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:19:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on hiring an Agile coach and does not explicitly discuss Agentic Agility or its principles. While it touches on adaptability and alignment with organisational needs, it lacks a clear distinction between human and AI capabilities, and does not delve into the intentional shaping of outcomes, which are core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

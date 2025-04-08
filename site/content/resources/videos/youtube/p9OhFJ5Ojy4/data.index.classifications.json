@@ -538,11 +538,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses general Agile concepts and transformations without focusing on the specific role and responsibilities of the Scrum Master.",
+    "calculated_at": "2025-04-08T17:23:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses agility and organisational change, which are relevant to the Scrum Master's role, but it does not explicitly focus on the responsibilities or techniques specific to Scrum Masters. The mention of being a professional Scrum trainer indicates some relevance, but the overall discussion is more about general management practices and the concept of change rather than the specific duties and impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -967,11 +970,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile transformations and organizational growth, without a focus on Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T17:23:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses agility, organisational change, and management practices without any explicit mention of Test First Development principles or practices. While it touches on themes of experimentation and adaptation, it does not delve into the specifics of defining success criteria, testing methodologies, or the role of testing in software development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1554,6 +1560,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses agility, organisational change, and management practices without any explicit mention of the One Engineering System (1ES) framework. While it touches on themes of evolution and adaptation in software development, it does not align with the core principles of 1ES, such as standardisation and integration of tools and processes. The discussion lacks depth regarding 1ES, focusing instead on broader agile concepts and personal insights.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:23:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses agility and the need for organisations to adapt and evolve, which aligns with the concept of Agentic Agility. However, it lacks explicit mentions of the intentional shaping of outcomes and does not differentiate between human and AI capabilities. The discussion is more focused on general agility and management practices rather than the specific principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

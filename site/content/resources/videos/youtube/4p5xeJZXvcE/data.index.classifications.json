@@ -466,11 +466,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:16:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the importance of patience and trust within Agile teams, without addressing Test First Development or its principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of patience in agile teams, focusing on trust, collaboration, and growth. It does not mention Test First Development or its principles, nor does it provide any detail on testing practices, automated testing, or success criteria, which are central to the category.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -847,11 +850,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:16:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses general Agile concepts like patience and trust without specifically focusing on the Scrum Master role or responsibilities.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of patience in agile teams, which indirectly relates to the Scrum Master's role in fostering team dynamics and collaboration. However, it lacks direct mentions of the Scrum Master and does not delve deeply into specific responsibilities or techniques associated with the role. The focus is more on general agile principles rather than the specific impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Scrum Product Development": {
@@ -1587,6 +1593,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the importance of patience in agile teams, focusing on interpersonal dynamics and team culture rather than the One Engineering System framework. While it touches on collaboration and team development, it does not explicitly mention 1ES principles, components, or implementation strategies, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:15:58",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content discusses the importance of patience in agile teams, focusing on trust, collaboration, and growth. However, it does not explicitly mention Agentic Agility or its principles. The themes of adaptability and intentional shaping of outcomes are present but are not the primary focus. The discussion lacks depth regarding the distinction between human and AI capabilities in the context of agility, which is crucial for a higher confidence score.",
     "level": "Ignored"
   }
 }

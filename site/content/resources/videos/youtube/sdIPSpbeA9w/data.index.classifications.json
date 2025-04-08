@@ -193,11 +193,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T15:42:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:35:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses automation in software development and testing, with no clear focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses automation in software development and its impact on reducing human error, with no direct mention of the Scrum Master role or related responsibilities. While it touches on themes of efficiency and process improvement, it does not align with the core topics of Scrum Master discussions, such as team dynamics, coaching, or agile principles.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1084,14 +1087,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-14T16:50:27",
+    "calculated_at": "2025-04-08T15:35:04",
     "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
     "final_score": 31.0,
-    "reasoning": "The content discusses automation in software development and its role in reducing human error, but it does not explicitly mention Test First Development or the principles of writing tests before code. While it touches on the importance of testing and rapid feedback, it lacks a focused discussion on TDD or the specific practices associated with Test First Development. The alignment with the category is minimal, and the depth of discussion does not provide substantial insights into TDD principles.",
+    "reasoning": "The content discusses automation in software development and its role in reducing human error, but it does not explicitly mention Test First Development or its principles. While it touches on the importance of rapid feedback and the need for efficient testing processes, it lacks a direct focus on defining success criteria before implementation or the specific practices of Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). The discussion is more about the benefits of automation rather than the Test First approach itself.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1596,6 +1599,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses automation in software development, which is relevant to improving efficiency and reducing human error. However, it does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on standardisation and efficiency, it lacks a direct focus on the integration of tools and processes across teams, which is central to 1ES. The depth of discussion on 1ES-related topics is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:34:57",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the benefits of automation in software development, focusing on reducing human error and enhancing efficiency. While it touches on the human element and the importance of feedback loops, it does not explicitly address the principles of Agentic Agility, such as intentional shaping of outcomes or the interplay between human judgement and AI logic. The discussion lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical context, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

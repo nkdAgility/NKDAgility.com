@@ -1192,11 +1192,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T22:03:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:37:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum practices and principles, with no mention of Test First Development or related testing methodologies.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum and Agile methodologies, focusing on the effectiveness of Professional Scrum and the pitfalls of mechanical Scrum. It does not explicitly mention Test First Development or its principles, nor does it delve into topics related to success criteria, testing practices, or the role of testing in the development process. The discussion is centred around Scrum practices rather than the Test First approach, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1273,15 +1276,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T03:57:46",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-04-08T17:37:44",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the concept of 'Professional Scrum' and critiques the superficial application of Scrum principles, which indirectly relates to the role of a Scrum Master. However, it lacks direct references to the responsibilities or practices of a Scrum Master, focusing more on the broader implications of Scrum adoption rather than the specific role itself. The depth of discussion on Scrum Master responsibilities is minimal, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the concept of Professional Scrum and the importance of adhering to Scrum values and principles, which aligns with the responsibilities of a Scrum Master. However, it does not explicitly mention the role of the Scrum Master or delve deeply into their specific responsibilities, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1584,6 +1587,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum and Agile methodologies, focusing on the effectiveness of Professional Scrum rather than the One Engineering System framework. While it touches on concepts of productivity and team effectiveness, it does not address the integration or standardisation of engineering processes as outlined in the 1ES category. The discussion is centred around Scrum practices, which are not directly related to the principles of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:37:36",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses Scrum practices and the importance of adhering to its values and principles. While it touches on the need for effective practices to achieve productivity, it does not explicitly address the concept of Agentic Agility or its key themes such as intentional shaping of outcomes, the distinction between human and AI capabilities, or the mechanisms of AI Agentic Agility. The focus remains on Scrum methodology rather than the broader implications of agency and intentionality.",
     "level": "Ignored"
   }
 }

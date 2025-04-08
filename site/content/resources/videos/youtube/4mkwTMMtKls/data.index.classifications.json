@@ -496,11 +496,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T11:13:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:30:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of imitating others rather than focusing on Test First Development principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the dangers of envy in Agile practices and the importance of tailoring Agile methodologies to fit unique team needs. It does not mention Test First Development, its principles, or any related practices such as TDD or ATDD. The focus is on avoiding imitation and fostering a culture of innovation rather than on testing methodologies.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -832,11 +835,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T11:14:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content discusses general Agile concepts and the pitfalls of adopting practices from other organisations without specific reference to the Scrum Master role or responsibilities.",
+    "calculated_at": "2025-04-08T16:30:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile principles and the dangers of imitation, but it does not specifically address the role or responsibilities of a Scrum Master. While it touches on themes relevant to Agile practices, it lacks a direct focus on the Scrum Master role, techniques for coaching, or the Scrum Master's influence on team dynamics. The discussion is more about general Agile philosophy rather than the specific contributions of a Scrum Master.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1536,6 +1542,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile practices and the pitfalls of imitation, particularly focusing on the Spotify model. It does not mention the One Engineering System or its principles, components, or implementation strategies. The discussion is centred around personalisation in Agile rather than the integration and standardisation of engineering processes, which is the core focus of the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:30:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of tailoring Agile practices to fit unique team contexts, which aligns with the concept of autonomy in Agentic Agility. However, it primarily focuses on the dangers of imitation and the need for innovation rather than explicitly addressing the intentional shaping of outcomes or the interplay between human and AI capabilities. The discussion lacks depth in exploring the principles of Agentic Agility and does not differentiate between human and AI roles, leading to a lower confidence score.",
     "level": "Ignored"
   }
 }

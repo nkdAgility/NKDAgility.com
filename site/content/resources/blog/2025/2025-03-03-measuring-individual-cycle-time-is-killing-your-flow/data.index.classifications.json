@@ -385,14 +385,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-14T16:24:30",
+    "calculated_at": "2025-04-08T15:28:26",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
     "final_score": 11.0,
-    "reasoning": "The content primarily discusses Kanban and the inefficiencies of measuring individual cycle time, with no direct mention of Test First Development or its principles. While it touches on system improvement and collaboration, it does not align with the core themes of TDD or Agile practices related to writing tests before code.",
+    "reasoning": "The content primarily discusses Kanban and the inefficiencies of measuring individual cycle time, which does not relate to Test First Development principles. There are no direct mentions of Test First practices, success criteria, or testing methodologies. The focus is on system flow rather than testing approaches, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Scaling Agility": {
@@ -1093,14 +1093,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T16:24:30",
+    "calculated_at": "2025-04-08T15:28:22",
     "ai_confidence": 12.0,
-    "ai_mentions": 0.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
     "final_score": 11.0,
-    "reasoning": "The content primarily discusses Kanban principles and the pitfalls of measuring individual cycle time, which does not directly relate to the role or responsibilities of a Scrum Master. While it touches on concepts of team dynamics and system efficiency, it lacks specific references to Scrum practices, ceremonies, or the Scrum Master's role in facilitating Agile processes.",
+    "reasoning": "The content primarily discusses Kanban principles and the pitfalls of measuring individual cycle time, which is not directly related to the role or responsibilities of a Scrum Master. While it touches on concepts of flow and system improvement, it does not address Scrum-specific practices, the Scrum Master's role, or their impact on team dynamics and organisational agility.",
     "level": "Ignored"
   },
   "Software Development": {
@@ -1905,6 +1905,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Kanban and individual cycle time metrics, which are not directly related to the One Engineering System framework. While it touches on concepts of system flow and efficiency, it does not explicitly mention 1ES or its principles, nor does it provide depth on the integration of tools and processes across teams as required by the category. The focus is more on individual productivity versus system optimisation, which deviates from the core themes of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:28:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the pitfalls of measuring individual cycle time in Kanban and emphasises system flow over individual productivity. While it touches on concepts of optimisation and systemic improvement, it does not explicitly address Agentic Agility or the intentional shaping of outcomes through autonomy and adaptability. The focus is more on process efficiency rather than the transformative capacity of individuals or AI systems, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

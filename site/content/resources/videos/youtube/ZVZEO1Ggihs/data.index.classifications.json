@@ -463,11 +463,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-25T12:10:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses leadership challenges in scaling rather than the specific role and responsibilities of a Scrum Master.",
+    "calculated_at": "2025-04-08T15:29:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses leadership in the context of scaling teams and organisations, which is relevant to the Scrum Master's role in empowering teams and facilitating decision-making. However, it does not explicitly mention the Scrum Master role or its specific responsibilities, leading to a lower confidence score. The focus is more on general leadership principles rather than the Scrum framework itself.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -826,11 +829,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-25T12:10:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:29:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses leadership challenges in scaling Agile rather than Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on leadership and organisational scaling rather than discussing Test First Development principles. There are no direct mentions of testing practices, success criteria, or any related concepts that align with Test First Development.",
     "level": "Ignored"
   },
   "Product Backlog": {
@@ -1483,5 +1489,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on leadership and organisational culture in the context of scaling, with no direct mention of the One Engineering System or its principles. While it touches on themes of team empowerment and decision-making, these are not specifically aligned with the integration and standardisation of engineering processes that 1ES advocates. The discussion lacks depth regarding the framework itself, resulting in a low confidence score.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:29:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses leadership in the context of scaling and emphasises the importance of empowering teams and decentralising decision-making, which aligns with the principles of Agentic Agility. However, it lacks explicit references to the concept of Agentic Agility itself and does not differentiate between human and AI capabilities. The discussion is more focused on leadership practices rather than a deep exploration of intentional shaping of outcomes through agency.",
+    "level": "Tertiary"
   }
 }

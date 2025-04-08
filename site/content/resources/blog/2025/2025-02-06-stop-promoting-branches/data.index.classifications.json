@@ -535,11 +535,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T14:30:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:32:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses the flaws of traditional branch promotion models and advocates for alternative workflows like GitHub Flow and Release Flow. It does not focus on Test First Development principles, practices, or related testing methodologies.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses branching strategies and deployment models, focusing on the flaws of traditional promotion models rather than the principles of Test First Development. While it briefly mentions automated tests in the context of GitHub Flow, it does not delve into the core concepts of defining success criteria or the role of testing in guiding design and implementation, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -886,11 +889,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T14:32:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:32:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses branching strategies and software delivery models, with no direct reference to the role or responsibilities of a Scrum Master.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses software delivery models and branching strategies, with no direct mention of the Scrum Master role or its responsibilities. While it touches on themes of agility and value delivery, it does not align with the core topics related to the Scrum Master, such as coaching, mentoring, or team dynamics. The focus is on technical practices rather than the facilitation and leadership aspects of a Scrum Master.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1668,6 +1674,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses branching strategies and their implications on software delivery, focusing on GitHub Flow and Release Flow. While it touches on concepts of continuous delivery and integration, it does not explicitly mention or align with the One Engineering System framework, its principles, or its components. The discussion is more about alternative methodologies rather than the integration and standardisation of engineering processes as defined by 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:32:26",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses the flaws of traditional branching models and advocates for more agile practices, but it does not explicitly address the concept of Agentic Agility or the intentional shaping of outcomes. While it touches on themes of agility and value delivery, it lacks a clear focus on the principles of Agentic Agility, such as intent, accountability, and the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

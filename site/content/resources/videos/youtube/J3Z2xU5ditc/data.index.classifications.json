@@ -400,14 +400,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T21:20:23",
+    "calculated_at": "2025-04-08T16:25:52",
     "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
     "final_score": 66.0,
-    "reasoning": "The content discusses Scrum events and the importance of planning within the Scrum framework, which aligns with the responsibilities of a Scrum Master. However, it lacks a direct focus on the Scrum Master role itself, such as coaching or facilitating team dynamics. The discussion is primarily centred on planning rather than the broader responsibilities of a Scrum Master, leading to a moderate confidence score.",
+    "reasoning": "The content discusses the importance of planning within the Scrum framework, highlighting key Scrum events such as Sprint Planning and Daily Scrum. While it does not explicitly mention the Scrum Master role, it aligns well with the responsibilities of a Scrum Master in facilitating effective planning and promoting Agile principles. The depth of discussion on planning strategies and their implications for team dynamics and organisational alignment further supports its relevance to the Scrum Master category.",
     "level": "Secondary"
   },
   "Agile Planning": {
@@ -445,11 +445,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:25:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses planning and Scrum practices, without mentioning Test First Development or related testing principles.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the importance of planning within the Scrum framework, which is related to Agile methodologies but does not explicitly address Test First Development principles. While it touches on planning and collaboration, it lacks direct references to success criteria, testing practices, or the specific methodologies associated with Test First Development, such as TDD or ATDD.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1596,6 +1599,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum and Agile methodologies, discussing planning within those frameworks. While it touches on coordination in large teams, it does not explicitly mention or align with the principles of the One Engineering System (1ES). The discussion is centred around Scrum practices rather than the integration and standardisation of engineering processes as defined by 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:25:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the importance of planning within Scrum and Agile methodologies, without addressing the intentional shaping of outcomes or the concept of Agentic Agility. While it discusses planning and alignment, it does not differentiate between human and AI capabilities or explore the transformative capacity of individuals and systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

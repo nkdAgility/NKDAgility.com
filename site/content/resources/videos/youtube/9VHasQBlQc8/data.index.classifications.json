@@ -526,11 +526,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T09:59:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of patience and trust in Agile organisations, without any focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:16:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of patience and trust in Agile organisations, focusing on team dynamics and culture rather than the principles of Test First Development. While it touches on aspects of Agile methodology, it does not explicitly mention or delve into Test First practices, success criteria, or testing methodologies, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -874,12 +877,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T10:00:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses general concepts of trust and patience in organisations without specific reference to the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T16:16:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of trust and patience in Agile environments, which aligns with the Scrum Master's role in fostering team dynamics and a culture of continuous improvement. However, it does not explicitly mention the Scrum Master or delve deeply into their specific responsibilities, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1605,6 +1611,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the importance of patience and trust in Agile organisations, focusing on team dynamics and culture rather than the One Engineering System framework. While it touches on Agile principles, it does not explicitly mention or align with the core themes of 1ES, such as standardisation, integration of tools, or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:16:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of trust and patience in Agile organisations, which indirectly relates to the themes of Agentic Agility. However, it does not explicitly mention Agentic Agility or its principles, nor does it differentiate between human and AI capabilities in this context. The focus is more on general Agile practices rather than the intentional shaping of outcomes through agency.",
     "level": "Ignored"
   }
 }

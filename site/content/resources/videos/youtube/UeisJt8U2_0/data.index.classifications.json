@@ -502,11 +502,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T00:30:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:27:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Scrum roles and the effectiveness of agile coaches, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the incompetence of Agile coaches and Scrum Masters, focusing on the challenges and misconceptions within Agile practices. It does not mention Test First Development or its principles, nor does it provide any depth on testing methodologies or practices related to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -847,14 +850,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T10:04:09",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 70.0,
+    "calculated_at": "2025-04-08T16:27:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content primarily discusses the role of Scrum Masters, highlighting both the negative impact of incompetent Scrum Masters and the importance of effective ones. It provides specific examples and critiques of Scrum practices, which aligns well with the responsibilities and challenges faced by Scrum Masters. However, while it mentions the role explicitly and discusses its implications, the focus is somewhat critical and less about constructive practices or coaching techniques, which slightly lowers the alignment and depth scores.",
+    "final_score": 72.0,
+    "reasoning": "The content explicitly discusses the role of Scrum Masters, particularly in the context of incompetence and its impact on Agile practices. It highlights the responsibilities and necessary skills of Scrum Masters, aligning well with the core themes of the category. The depth of discussion is significant, providing examples and solutions to improve Agile coaching, which further supports its relevance to the Scrum Master role.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1551,6 +1554,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses issues related to Agile coaching and Scrum practices, which are not directly aligned with the principles of the One Engineering System. While it touches on themes of competence and methodology, it does not focus on the integration or standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:27:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the incompetence of Agile coaches and Scrum Masters, highlighting issues in Agile practices. However, it does not explicitly address Agentic Agility or its principles. While it touches on themes of adaptability and the importance of understanding Agile values, it lacks a focused discussion on intentional shaping of outcomes or the distinction between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

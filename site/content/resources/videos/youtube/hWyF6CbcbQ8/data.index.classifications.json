@@ -478,11 +478,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T20:29:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:40:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses data integrity issues related to DevOps migrations, with no clear focus on Test First Development or its principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on data integrity during DevOps migrations, discussing aspects such as flexibility and fidelity, but does not mention Test First Development or its principles. There is a brief mention of testing in the context of migration, but it lacks depth and relevance to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -808,11 +811,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T20:30:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:40:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps migration and data integrity issues, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on data integrity in DevOps migrations, with no direct mention of the Scrum Master role or its responsibilities. While it discusses team communication and readiness, which are relevant to agile practices, it does not align with the core themes of the Scrum Master category. The discussion lacks depth regarding Scrum principles or the Scrum Master's influence on team dynamics.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1488,6 +1494,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on data integrity during DevOps migrations, discussing specific migration strategies and challenges. It does not mention the One Engineering System (1ES) framework or its principles, nor does it address integration or standardisation of engineering processes, which are core to the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:40:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on data integrity during DevOps migrations, discussing the balance between flexibility and fidelity. While it touches on decision-making and team readiness, it does not explicitly address Agentic Agility or its core themes such as intentional shaping of outcomes, the role of intent, or the distinction between human and AI capabilities. Therefore, it lacks sufficient depth and alignment with the category.",
     "level": "Ignored"
   }
 }

@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T05:44:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses technical excellence and Agile methodologies without a clear focus on Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T15:58:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses the importance of technical excellence and a 'Definition of Done', which are related to quality assurance but do not explicitly focus on Test First Development principles. While it touches on aspects of delivering a usable product and reducing technical debt, it lacks a direct emphasis on defining success criteria before implementation or the specific practices of Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). Therefore, it aligns only tangentially with the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -874,11 +877,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T05:45:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:58:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical excellence and Agile methodologies without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile principles and the importance of technical excellence, which are relevant to Scrum practices. However, it does not explicitly focus on the role of the Scrum Master or their responsibilities. While it touches on aspects like the Definition of Done and team dynamics, it lacks a detailed exploration of the Scrum Master's influence or techniques for coaching and facilitating within a Scrum context.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1608,6 +1614,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Agile development and technical excellence, with no direct mention of the One Engineering System (1ES). While it discusses principles that could align with 1ES, such as quality and risk mitigation, it does not delve into the integration of tools or processes across teams, which is central to 1ES. The examples provided, including the Azure DevOps transformation, are relevant to Agile practices rather than the unified engineering framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:58:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical excellence within Agile development, discussing risk mitigation and quality over speed. While it touches on concepts like adaptability and value delivery, it does not explicitly address Agentic Agility or the intentional shaping of outcomes through autonomy and alignment with values. The discussion lacks depth in exploring the distinctions between human and AI capabilities in this context, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

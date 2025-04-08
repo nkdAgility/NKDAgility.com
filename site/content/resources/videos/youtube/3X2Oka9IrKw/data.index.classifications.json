@@ -781,14 +781,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T16:24:30",
+    "calculated_at": "2025-04-08T15:28:43",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses agility and scaling in teams but does not specifically mention the role of a Scrum Master or delve into Scrum practices. While it touches on themes of innovation and adaptability, it lacks direct references to Scrum ceremonies, coaching, or the responsibilities of a Scrum Master, leading to a low confidence score.",
+    "reasoning": "The content discusses scaling teams and the challenges of bureaucracy, which are relevant to agile principles but does not explicitly mention the role of the Scrum Master or delve into their specific responsibilities. While it touches on themes of empowerment and communication, it lacks a direct focus on the Scrum Master’s role in facilitating these aspects within a Scrum framework.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
@@ -1249,14 +1249,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-14T16:24:30",
+    "calculated_at": "2025-04-08T15:28:45",
     "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
     "final_score": 11.0,
-    "reasoning": "The content discusses scaling and organisational agility but does not mention Test First Development or its principles. It focuses on innovation and adaptability rather than the specifics of TDD or related practices.",
+    "reasoning": "The content primarily discusses scaling teams and fostering innovation, with no direct mention of Test First Development principles or practices. While it touches on agility and communication, it does not align with the core themes of Test First Development, such as defining success criteria or the role of testing in software delivery.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -1906,5 +1906,17 @@
     "final_score": 30.0,
     "reasoning": "The content discusses scaling teams and the challenges of bureaucracy, which are relevant to software development practices. However, it does not explicitly mention the One Engineering System or its principles. The focus is more on agile methodologies and team dynamics rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:28:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses scaling teams and the importance of adaptability and empowerment, which aligns with the principles of Agentic Agility. However, it lacks explicit mentions of the category and does not differentiate between human and AI capabilities. The focus is more on general agile practices rather than a deep exploration of intentional shaping of outcomes.",
+    "level": "Tertiary"
   }
 }

@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T04:15:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:04:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, with a focus on Kanban strategies rather than Test First Development principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on integrating Kanban metrics into Scrum practices, discussing flow metrics and their application in Scrum events. It does not mention Test First Development or its principles, nor does it explore success criteria, testing practices, or the role of testing in software delivery, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -865,14 +868,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T19:33:40",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "calculated_at": "2025-04-08T16:04:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses the integration of Kanban metrics within the Scrum framework, which is relevant to the role of a Scrum Master. It mentions Scrum events and how Kanban can enhance these processes, indicating a connection to Scrum Master responsibilities. However, the primary focus is on Kanban rather than the Scrum Master role itself, leading to a moderate confidence score.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on integrating Kanban metrics within the Scrum framework, which is relevant to the role of a Scrum Master. It discusses how these metrics can enhance Scrum events and improve team performance, aligning well with the responsibilities of a Scrum Master in facilitating continuous improvement and value delivery. However, while it mentions Scrum and its events, the emphasis on Kanban may detract slightly from a direct focus on the Scrum Master role itself, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1605,6 +1608,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on integrating Kanban with Scrum, discussing flow metrics and their application within Scrum events. It does not address the One Engineering System framework, its principles, or its impact on software development practices. The discussion is centred around specific methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:04:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on integrating Kanban metrics into Scrum practices, discussing flow metrics and their application in Scrum events. While it touches on concepts of value delivery and continuous improvement, it does not explicitly address Agentic Agility or the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth in exploring the principles of Agentic Agility, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   }
 }

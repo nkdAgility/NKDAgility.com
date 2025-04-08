@@ -29,6 +29,7 @@ tags:
 - Team Performance
 - Agile Project Management
 - Scrum Team
+- Scrum Master
 - Agile Leadership
 - Team Motivation
 - Coaching

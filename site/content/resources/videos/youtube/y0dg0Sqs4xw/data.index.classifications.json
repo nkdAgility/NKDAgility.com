@@ -523,11 +523,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T22:36:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:10:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the mistakes made by rookie agile consultants in implementing Scrum, without any mention of Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the mistakes made by rookie agile consultants in implementing Scrum, focusing on the importance of understanding the framework rather than following it rigidly. While it touches on agile principles, it does not directly address Test First Development or its core concepts, such as success criteria, TDD, or ATDD. The discussion lacks depth and relevance to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -871,14 +874,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T01:32:21",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "calculated_at": "2025-04-08T17:10:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses common mistakes made by rookie agile consultants, with a focus on the application of Scrum. While it mentions Scrum and its events, the primary focus is on the broader context of agile consulting rather than the specific role of a Scrum Master. The discussion touches on the importance of understanding Scrum principles and the need for effective coaching, which aligns with the responsibilities of a Scrum Master, but it does not delve deeply into the specific practices or challenges faced by Scrum Masters themselves.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses common mistakes made by rookie agile consultants, with a significant focus on the application of Scrum principles. It mentions the role of Scrum in facilitating team effectiveness and highlights the importance of understanding Scrum beyond mere adherence to its rules. However, while it touches on the responsibilities of a Scrum Master, it does not delve deeply into the specific role or responsibilities of a Scrum Master, which limits its depth of discussion. Overall, the content aligns well with the category but does not make it the primary focus.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1596,6 +1599,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses common mistakes made by agile consultants, particularly in relation to Scrum, without addressing the principles or components of the One Engineering System. While it touches on agile methodologies, it does not focus on the integration or standardisation of engineering processes, which are core to the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:10:48",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses common mistakes made by rookie agile consultants, focusing on the misapplication of Scrum rather than the intentional shaping of outcomes through agency and adaptability. While it touches on the importance of understanding the context and goals of teams, it does not explicitly address the principles of Agentic Agility or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

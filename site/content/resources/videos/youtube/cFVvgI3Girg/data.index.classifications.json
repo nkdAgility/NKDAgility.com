@@ -403,11 +403,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T20:05:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:43:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the evolution of the Product Owner role and its relationship to leadership, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the evolution of the Product Owner role and its transition into leadership, with minimal direct mention of the Scrum Master role. While it touches on themes relevant to Agile leadership and organisational culture, it does not delve into the specific responsibilities or impact of a Scrum Master. The discussion lacks depth regarding Scrum practices and the distinct role of the Scrum Master, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -442,11 +445,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T20:05:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:43:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the evolution of product ownership and leadership in Agile, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the evolution of the Product Owner role and leadership in Agile environments, with no direct mention of Test First Development principles or practices. While it touches on accountability and collaboration, it does not align with the core themes of Test First Development, such as success criteria, testing practices, or the transition from manual to automated testing.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1596,6 +1602,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on the evolution of the Product Owner role within Agile environments, discussing leadership and accountability rather than the principles or components of the One Engineering System. While it touches on themes of collaboration and systems thinking, it does not explicitly mention 1ES or its integration and standardisation aspects, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:43:01",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role into leadership, touching on themes of accountability and creating systems that empower teams. However, it lacks a direct focus on Agentic Agility as defined, particularly in terms of intentional shaping of outcomes and the distinction between human and AI capabilities. While there are elements of adaptability and alignment with values, the discussion does not delve deeply into the mechanisms of Agentic Agility or provide specific examples that illustrate its principles.",
     "level": "Ignored"
   }
 }

@@ -487,11 +487,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T20:53:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:19:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Kanban and Scrum methodologies without any mention of Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Kanban and Scrum practices, with no direct mention or discussion of Test First Development principles. While it touches on workflow and value flow, it does not address success criteria, testing practices, or the importance of automated testing, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -817,11 +820,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T20:54:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:19:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Kanban and its integration with Scrum, but does not focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Professional Kanban training and its relationship with Scrum, but it does not delve deeply into the specific role or responsibilities of a Scrum Master. While there are mentions of Scrum in the context of Kanban, the discussion lacks a thorough exploration of the Scrum Master's influence, techniques, or responsibilities, which are central to the category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1542,6 +1548,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Professional Kanban and its integration with Scrum, with no direct mention or discussion of the One Engineering System (1ES). While it touches on concepts of optimisation and flow, these are not aligned with the core principles of 1ES, which emphasises standardisation and integration across teams. The depth of discussion is limited to Kanban practices, further distancing it from the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:19:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Professional Kanban and Scrum practices, with no explicit discussion of Agentic Agility or its principles. While it touches on concepts like value flow and optimization, it does not delve into the intentional shaping of outcomes or the distinction between human and AI capabilities in agility. The content lacks depth in discussing the transformative capacity of individuals or systems, which is central to Agentic Agility.",
     "level": "Ignored"
   }
 }

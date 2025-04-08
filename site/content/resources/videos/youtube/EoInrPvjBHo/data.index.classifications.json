@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T07:56:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:11:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of a product owner in Agile and the impact of poor management on team dynamics, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner in Agile and the pitfalls of micromanagement, which does not directly relate to Test First Development principles. While it touches on themes of team engagement and outcomes, it lacks explicit references to success criteria, testing practices, or the importance of defining criteria before implementation, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -862,11 +865,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T07:57:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:10:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner and their impact on team dynamics, without a focus on the Scrum Master role.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner and their challenges, particularly focusing on the concept of 'Agile Banditry.' While it touches on themes relevant to Scrum, such as team engagement and empowerment, it does not explicitly address the responsibilities or impact of the Scrum Master. The discussion is more centred on the Product Owner's role, which is secondary to the Scrum Master category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1575,6 +1581,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile methodologies and the role of the Product Owner, with a focus on avoiding micromanagement and fostering team engagement. It does not address the principles or components of the One Engineering System (1ES), nor does it discuss integration of tools and processes across teams, best practices for implementing 1ES, or any related challenges and solutions. Therefore, it does not align with the core themes of the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:10:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of autonomy and engagement in Agile practices, particularly from the perspective of a Product Owner. However, it primarily focuses on the pitfalls of micromanagement rather than explicitly addressing Agentic Agility as a concept. While it touches on themes of empowerment and team dynamics, it lacks a thorough exploration of the principles of Agentic Agility, such as the distinction between human and AI capabilities or the mechanisms of AI Agentic Agility. Overall, the content is relevant but does not fully align with the category's core themes.",
     "level": "Ignored"
   }
 }

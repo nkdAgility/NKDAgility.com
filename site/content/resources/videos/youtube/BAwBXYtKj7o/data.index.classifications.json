@@ -511,14 +511,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-14T17:13:53",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-04-08T15:39:22",
+    "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
-    "reasoning": "The content primarily discusses technical debt management rather than Test First Development. While it touches on Agile practices and the importance of quality in development, it does not explicitly mention writing tests before code or the principles of Test-Driven Development (TDD). The focus is on the consequences of technical debt and the need to manage it, which is only tangentially related to the core themes of Test First Development.",
+    "final_score": 31.0,
+    "reasoning": "The content discusses technical debt management and its impact on software delivery but does not explicitly mention Test First Development or its principles. While it touches on the importance of reducing errors and improving feedback loops, it lacks a direct focus on defining success criteria before implementation or the specific practices of Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). The discussion is more about managing technical debt rather than the Test First approach itself.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -862,11 +862,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T09:17:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:39:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses automated testing and software engineering practices, with no clear focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses technical debt management and automated testing in software engineering, with only a brief mention of Scrum Masters in the hashtags. It does not focus on the role, responsibilities, or impact of a Scrum Master, nor does it delve into Scrum practices or principles, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1590,6 +1593,18 @@
     "non_ai_confidence": 30,
     "final_score": 14.0,
     "reasoning": "The content primarily discusses technical debt management and its implications for software quality and delivery, but it does not explicitly mention the One Engineering System (1ES) framework or its principles. While there are references to improving software delivery and efficiency, these are not directly tied to the integration and standardisation of engineering processes as outlined in the 1ES category. The focus is more on individual practices rather than a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:39:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses technical debt management and its implications for software engineering, without explicitly addressing the concept of Agentic Agility. While it touches on themes of decision-making and value delivery, it lacks a clear focus on intentional shaping of outcomes through autonomy and adaptability, which are central to Agentic Agility. The discussion does not differentiate between human and AI capabilities in this context, nor does it explore the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }
 }

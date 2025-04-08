@@ -1129,11 +1129,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:27:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:58:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint migration issues and user authentication problems, without any focus on Test First Development or related principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses issues related to SharePoint migration and user permissions, with no direct mention of Test First Development principles or practices. While there is a brief mention of a PowerShell script, it does not relate to testing methodologies or the importance of defining success criteria before implementation. The focus is on resolving technical issues rather than on testing practices, making it largely irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1216,11 +1219,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:27:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:58:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on SharePoint migration issues and does not relate to the Scrum Master role or its responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical issues related to SharePoint migration and user permissions, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not discuss any responsibilities, skills, or impacts of a Scrum Master, nor does it touch on agile principles or team dynamics. Therefore, it does not align with the category at all.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1491,6 +1497,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on resolving technical issues related to SharePoint migration and user permissions, with no explicit discussion on competence, continuous learning, or skill development. While it demonstrates problem-solving skills, it does not align with the core themes of competence as defined in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:58:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to SharePoint migration and user permissions, with no explicit discussion of Agentic Agility or its principles. While there is a mention of problem-solving and execution, it lacks depth in exploring intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities. Overall, it does not align with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

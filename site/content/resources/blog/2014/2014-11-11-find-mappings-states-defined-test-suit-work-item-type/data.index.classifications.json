@@ -1138,11 +1138,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T08:56:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:41:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to Test Suite work item types and customization in TFS, without a focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a specific error related to TFS and custom process configurations, with no direct mention of Test First Development principles or practices. While it touches on testing in a general sense, it does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices. The discussion lacks depth and detail on the category, focusing instead on troubleshooting a specific issue.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1225,11 +1228,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T08:56:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:41:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content predominantly discusses issues with TFS and test management, with no clear relevance to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS and does not mention the role or responsibilities of a Scrum Master. It lacks any discussion on Scrum principles, team dynamics, or coaching techniques, which are central to the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1515,6 +1521,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses a specific error related to TFS (Team Foundation Server) and provides solutions for resolving it. While it touches on aspects of process configuration, it does not explicitly mention or align with the core principles of the One Engineering System framework. The focus is on troubleshooting a technical issue rather than discussing integration, standardisation, or best practices related to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:41:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS and does not engage with the concept of Agentic Agility. It lacks explicit mentions of intentional shaping of outcomes, autonomy, or adaptability, and does not differentiate between human and AI capabilities in the context of agility. The focus is on troubleshooting and configuration rather than on the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

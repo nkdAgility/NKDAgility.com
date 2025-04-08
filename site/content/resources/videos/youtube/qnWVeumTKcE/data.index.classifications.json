@@ -508,11 +508,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:14:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:17:51",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide sufficient information on Scrum Master responsibilities or practices; it only references a training video without delving into the topic itself.",
+    "final_score": 40.0,
+    "reasoning": "The content briefly mentions Scrum mastery and references training related to Scrum, which indicates a connection to the role of the Scrum Master. However, it lacks detailed discussion on the responsibilities, techniques, or impact of the Scrum Master, resulting in a moderate confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -913,11 +916,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:14:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:17:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on PSM Training from Scrum.org, with no discussion on Test First Development or related concepts.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum training and does not explicitly discuss Test First Development principles or practices. While it may touch on related topics, it lacks direct mentions and depth regarding success criteria, testing methodologies, or the impact of Test First on collaboration.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1464,6 +1470,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum training, which is unrelated to the One Engineering System framework. There are no direct mentions of 1ES principles, components, or practices, and the discussion lacks depth regarding integration or standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:17:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Scrum training and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, nor does it explore the distinction between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

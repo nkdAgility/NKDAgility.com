@@ -1153,11 +1153,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T18:46:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:55:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses creating custom activities for Team Foundation Build, which is unrelated to Test First Development principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no explicit discussion of Test First Development principles, success criteria, or testing practices. While it touches on aspects of building and testing workflows, it does not align with the core themes of Test First Development, such as TDD or ATDD, and lacks depth in discussing any related concepts.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1237,11 +1240,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T18:46:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:55:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on creating custom activities for Team Foundation Build and does not discuss the Scrum Master role or related responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on creating custom activities for Team Foundation Build, which is unrelated to the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum, agile principles, or the Scrum Master's influence on team dynamics or organisational change. The discussion is technical and specific to build processes, lacking any relevance to the Scrum framework.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1521,6 +1527,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the technical process of creating custom activities for Team Foundation Build, with minimal reference to the concept of competence. While it mentions simplifying workflows and enhancing build processes, it does not delve into continuous learning, skill development, or the broader implications of competence in Agile or DevOps environments. The discussion lacks depth regarding the importance of competence in delivering quality outcomes or fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:54:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is a technical guide on workflow management rather than discussing Agentic Agility. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, and the discussion lacks depth in relation to the principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

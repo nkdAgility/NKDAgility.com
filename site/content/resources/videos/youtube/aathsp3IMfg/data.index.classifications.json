@@ -472,11 +472,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T09:43:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:04:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Test First Development or related principles; it focuses on Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Applied Professional Scrum (APS) approach and its principles, with no direct mention of Test First Development or its practices. While it discusses the importance of having a working product at the end of iterations, it does not delve into the specifics of defining success criteria or the role of testing in the context of Test First Development. The discussion is more about Scrum methodologies and team dynamics rather than the principles and practices of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -793,12 +796,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T09:44:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:04:39",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not provide sufficient information about Scrum Master responsibilities or practices; it only mentions a Scrum team in relation to an APS course.",
-    "level": "Ignored"
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the role of the Scrum Master in the context of the Applied Professional Scrum (APS) approach, highlighting its importance in fostering effective Scrum teams. It aligns well with the core themes of the category, such as the responsibilities of the Scrum Master, the significance of continuous improvement, and the impact on team dynamics. The depth of discussion is substantial, providing insights into specific practices like the 'Barnacle Exercise' that directly relate to the Scrum Master's role in facilitating team growth and agility.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the Applied Professional Scrum (APS) methodology and its principles, which are specific to Scrum rather than the broader One Engineering System framework. While there are mentions of team empowerment and agile practices, these do not directly relate to the integration and standardisation of engineering processes as outlined in the 1ES category. The discussion lacks depth regarding the core themes of 1ES, such as tool integration or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:04:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the APS approach, with limited direct discussion on Agentic Agility. While it touches on themes of empowerment and reflection, it does not explicitly address the intentional shaping of outcomes or differentiate between human and AI capabilities in the context of agility. The depth of discussion remains surface-level, lacking detailed exploration of the principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

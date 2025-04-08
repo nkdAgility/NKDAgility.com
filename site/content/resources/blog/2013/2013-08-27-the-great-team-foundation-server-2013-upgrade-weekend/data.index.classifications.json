@@ -1147,11 +1147,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:06:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:53:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about promoting the Team Foundation Server 2013 Upgrade Weekend and does not discuss Test First Development or related principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on promoting an event related to upgrading Team Foundation Server 2013, with no explicit discussion of Test First Development principles, success criteria, or testing practices. It lacks any depth or alignment with the core themes of Test First Development, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1237,11 +1240,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:06:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:53:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Team Foundation Server 2013 and its upgrades, with no clear relevance to the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on an event related to Team Foundation Server 2013 and does not discuss the role, responsibilities, or impact of a Scrum Master. There are no direct mentions of Scrum or its principles, and the content lacks any depth regarding Scrum practices or the Scrum Master's influence on teams or organisations.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1515,6 +1521,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on promoting an event for upgrading Team Foundation Server 2013, with minimal discussion on competence or skill development. While it mentions expert support, it does not delve into the importance of continuous learning or the role of competence in delivering quality outcomes, which are key themes of the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:53:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting an event related to upgrading Team Foundation Server 2013, with no explicit discussion of Agentic Agility or its principles. While it mentions support and resources for a smooth transition, it does not engage with the concepts of intentionality, autonomy, or adaptability that define Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -1159,11 +1159,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T23:21:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:39:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses configuring a Build vNext Agent and does not address Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent and does not discuss Test First Development principles, success criteria, or testing practices. It lacks any mention of TDD, ATDD, or the impact of testing on collaboration, which are core to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1249,11 +1252,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T23:21:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:39:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details of configuring a Build vNext Agent, which is unrelated to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on configuring a Build vNext Agent and does not mention the role or responsibilities of a Scrum Master. There is no discussion of Scrum principles, team dynamics, or any related topics that would align with the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1545,6 +1551,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on configuring a Build vNext Agent and discusses specific technical details about the build system. While it touches on aspects of software development processes, it does not explicitly mention or align with the core principles of the One Engineering System framework, such as integration across teams or standardisation of practices. The discussion is more about a specific tool rather than a comprehensive framework for engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:39:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent and does not discuss Agentic Agility or its principles. There are no explicit mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is technical and procedural, lacking depth in relation to the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

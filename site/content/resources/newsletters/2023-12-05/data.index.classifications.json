@@ -1372,11 +1372,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T15:27:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:17:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and training classes related to Scrum and Agile practices but does not directly address Test First Development or its principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on immersive learning classes and training offerings, with no direct mention of Test First Development principles or practices. While it discusses interactive learning and outcomes, it does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices. The discussion lacks depth regarding any testing methodologies, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1435,14 +1438,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T20:40:25",
+    "calculated_at": "2025-04-08T16:17:19",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 20,
     "final_score": 58.0,
-    "reasoning": "The content discusses various training courses, including those specifically for Scrum Masters, which indicates a direct mention of the role. However, the primary focus is on the learning process and course offerings rather than the responsibilities or practices of a Scrum Master. While there is some alignment with the category through the mention of Scrum Master training, the depth of discussion regarding the role itself is limited, leading to a moderate confidence score.",
+    "reasoning": "The content briefly mentions Scrum Master training and includes a course specifically for Scrum Masters, indicating some relevance to the category. However, the primary focus is on promoting immersive learning classes rather than discussing the role, responsibilities, or impact of a Scrum Master in detail. The alignment with core themes is limited, and the depth of discussion on the Scrum Master role is minimal.",
     "level": "Tertiary"
   },
   "Cycle Time": {
@@ -1599,6 +1602,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on immersive learning classes and training related to Scrum and Agile methodologies, without any explicit discussion of the One Engineering System framework or its principles. While there are elements of standardisation in training approaches, the content does not address integration of tools or processes across teams, nor does it provide insights into the impact of a unified engineering system on software quality or delivery timelines.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:17:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting immersive learning classes and does not explicitly discuss Agentic Agility. While it mentions concepts like reflection and outcome-based assignments, these are not deeply tied to the principles of Agentic Agility, such as intentional shaping of outcomes or the distinction between human and AI capabilities. The overall emphasis is on training and discounts rather than on the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

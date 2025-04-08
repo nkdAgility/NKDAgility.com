@@ -172,11 +172,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T14:36:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:26:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content invites questions on a broad range of topics, including DevOps and Agility, without a specific focus on Scrum Master responsibilities or practices.",
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on distinguishing between the roles of Product Owners and Project Managers within the Scrum framework, with only brief mentions of Scrum principles and organisational impacts. While it touches on aspects relevant to Scrum, such as value delivery and team dynamics, it does not delve deeply into the specific responsibilities or influence of the Scrum Master, which is the primary focus of the category. Therefore, the confidence score reflects a moderate alignment with the category, but not a strong emphasis on the Scrum Master role itself.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1003,11 +1006,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T14:38:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a general Q&A session about various topics in DevOps and Agility, without specific emphasis on Test First Development or its principles.",
+    "calculated_at": "2025-04-08T17:26:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the roles of Product Owners and Project Managers within the Scrum framework, with a focus on organisational agility and value delivery. It does not explicitly mention Test First Development or its principles, nor does it delve into testing practices, automated testing, or success criteria related to Test First Development. Therefore, the alignment with the category is minimal.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1473,6 +1479,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on the roles of Product Owners and Project Managers within the Scrum framework, which is not directly related to the One Engineering System. While it touches on organisational changes and agile practices, it lacks a direct discussion on the principles, components, or implementation of 1ES. The content does not provide substantial detail on integration or standardisation of engineering processes, which are core to the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:26:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the roles of Product Owners and Project Managers within Scrum, focusing on value delivery and organisational structure. While it touches on themes of adaptability and organisational agility, it does not explicitly address Agentic Agility or the intentional shaping of outcomes. The discussion lacks depth in exploring the principles of Agentic Agility, such as the distinction between human and AI capabilities, and does not provide case studies or examples relevant to the category.",
     "level": "Ignored"
   }
 }

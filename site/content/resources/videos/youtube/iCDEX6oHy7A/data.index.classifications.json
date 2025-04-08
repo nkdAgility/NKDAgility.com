@@ -517,12 +517,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "While the content mentions a Professional Scrum Trainer and Agile consulting, it does not primarily focus on the Scrum Master role, responsibilities, or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T17:27:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of fostering an agile mindset and the role of leadership in creating an environment conducive to quality and ownership, which aligns with the Scrum Master's responsibilities. However, it does not explicitly mention the Scrum Master role or delve deeply into Scrum-specific practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -931,11 +934,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses professionalism and conflicting priorities in an Agile context, without any mention of Test First Development or related practices.",
+    "calculated_at": "2025-04-08T17:27:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses agile principles and the importance of quality but does not focus specifically on Test First Development practices. While it briefly mentions TDD, it does not delve into its principles or the role of success criteria, which are central to Test First Development. The discussion is more about fostering an agile mindset and cultural change rather than the specifics of Test First methodologies.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1486,5 +1492,17 @@
     "final_score": 24.0,
     "reasoning": "The content primarily discusses fostering an agile mindset and cultural change within development teams, which is tangentially related to the principles of the One Engineering System. However, it lacks direct mentions of 1ES, its components, or its implementation. The focus is more on agile methodologies rather than the integration and standardisation of engineering processes, leading to a low confidence score.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:27:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of autonomy, ownership, and intrinsic motivation, which aligns with the principles of Agentic Agility. However, it primarily focuses on fostering an agile mindset rather than explicitly addressing the intentional shaping of outcomes through both human and AI perspectives. The depth of discussion on the mechanisms of Agentic Agility is limited, and while it touches on relevant themes, it does not provide a comprehensive exploration of the category.",
+    "level": "Tertiary"
   }
 }

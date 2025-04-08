@@ -367,11 +367,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T18:52:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:37:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a training approach and personal opinions on a trainer, without a clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile training and team dynamics but does not explicitly mention the role of the Scrum Master or delve into their specific responsibilities. While it touches on concepts relevant to Agile practices, it lacks a direct focus on the Scrum Master role, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -403,11 +406,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T18:52:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:37:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a trainer and a case study related to Agile training, with no mention of Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile training and the use of a Minecraft case study to enhance engagement and team dynamics. It does not explicitly discuss Test First Development principles, success criteria, or testing practices, which are central to the category. While there are mentions of Agile practices, they are not directly related to Test First Development, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1497,6 +1503,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on an Agile training case study using Minecraft, which does not directly discuss the One Engineering System framework or its principles. While it touches on themes of team dynamics and engagement, it lacks explicit references to 1ES, integration of tools, or standardisation of processes, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:37:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile training and the use of a Minecraft case study to enhance engagement and team dynamics. However, it lacks explicit references to Agentic Agility, such as intentional shaping of outcomes or the distinction between human and AI capabilities. While it touches on themes of engagement and collaboration, it does not delve deeply into the principles or mechanisms of Agentic Agility, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

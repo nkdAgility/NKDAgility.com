@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T09:32:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the relationship between Agile and DevOps, focusing on engineering excellence and feedback loops, without addressing Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T16:39:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of DevOps with Agile methodologies, focusing on collaboration, efficiency, and quality assurance. While it touches on aspects of quality and feedback loops, it does not explicitly mention Test First Development principles, success criteria, or specific testing practices such as TDD or ATDD. Therefore, it lacks direct relevance to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -862,11 +865,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T09:33:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:39:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of DevOps with Agile practices, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the integration of DevOps within Agile methodologies, without discussing the role or responsibilities of a Scrum Master. While it touches on Agile principles, it does not align with the core themes of the Scrum Master category, such as team dynamics, coaching, or organisational change. The mention of Agile is secondary to the main topic of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1602,6 +1608,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the integration of DevOps within Agile methodologies, which, while related to software development practices, does not focus on the One Engineering System framework. There are brief mentions of collaboration and efficiency, but the core discussion revolves around Agile and DevOps rather than the principles and components of 1ES. The depth of discussion on 1ES is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:39:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the integration of DevOps into Agile practices, focusing on enhancing team performance and streamlining software delivery. While it touches on themes of adaptability and collaboration, it does not explicitly address the concept of Agentic Agility or the intentional shaping of outcomes. The discussion lacks depth regarding the principles of Agentic Agility, such as the distinction between human and AI capabilities or the role of intent and accountability. Overall, the content is more aligned with general Agile and DevOps practices rather than the specific focus of Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -511,11 +511,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T10:03:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses business strategy, product ownership, and Agile methodologies without a focus on Test First Development or related testing practices.",
+    "calculated_at": "2025-04-08T17:11:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses general strategies for business success and Agile leadership without any explicit mention of Test First Development principles, success criteria, or testing practices. While it touches on Agile frameworks like Scrum, it does not delve into the specifics of Test First Development, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -859,12 +862,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T17:11:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum as a tool for improving business effectiveness and mentions the need for training and coaching, which are relevant to the Scrum Master role, but the primary focus is on broader business strategies and product ownership.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of agile leadership and the Scrum framework, highlighting the role of Scrum in identifying problems and improving team effectiveness. It mentions Scrum as a tool for navigating uncertainty and complexity, which aligns with the responsibilities of a Scrum Master. However, while it touches on relevant themes, it does not focus exclusively on the Scrum Master role, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1599,6 +1605,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Agile methodologies, particularly Scrum, and their role in improving product development and organisational effectiveness. However, it does not explicitly mention the One Engineering System (1ES) framework or its principles. While there is some conceptual alignment with the themes of integration and standardisation in engineering practices, the focus is primarily on Agile practices rather than the unified framework of 1ES. The depth of discussion on 1ES is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:11:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses strategies for thriving in a challenging business environment, touching on aspects of agility and leadership. However, it lacks a focused discussion on Agentic Agility, particularly the intentional shaping of outcomes through autonomy and adaptability. While it mentions the importance of employee satisfaction and effective practices, it does not explicitly differentiate between human and AI capabilities or delve deeply into the principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

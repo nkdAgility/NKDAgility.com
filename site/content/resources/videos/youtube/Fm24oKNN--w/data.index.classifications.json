@@ -553,15 +553,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T03:42:54",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "calculated_at": "2025-04-08T17:33:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses Scrum training and the importance of understanding Scrum within an organisation, which aligns with the role of a Scrum Master. However, it lacks direct mentions of specific Scrum Master responsibilities or practices, and the discussion is somewhat vague and lacks depth in exploring the core themes of the category.",
-    "level": "Ignored"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of training in Scrum, highlighting the importance of effective training for Scrum teams and the impact of a knowledgeable trainer. It aligns well with the responsibilities of a Scrum Master in fostering a culture of continuous improvement and collaboration. The depth of discussion on training and its implications for team dynamics and organisational agility supports a high confidence score, though it does not delve deeply into the specific responsibilities of a Scrum Master.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -997,11 +997,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T12:23:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum training and organizational change, with no focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T17:33:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum training and its impact on team dynamics and collaboration, with no explicit mention of Test First Development principles or practices. While it touches on concepts of agility and continuous improvement, these are not directly related to the Test First Development category, which focuses specifically on defining success criteria and testing practices before implementation.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1578,6 +1581,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on Scrum training and personal reflections on its impact, which deviates from the core principles of the One Engineering System. While it touches on themes of collaboration and continuous improvement, it lacks direct discussion of 1ES components, integration of tools, or best practices specific to the One Engineering System framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:33:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Scrum training and its impact on team dynamics and organisational agility, but it does not explicitly mention Agentic Agility or its principles. While there are elements of adaptability and empowerment, the focus remains on Scrum practices rather than the intentional shaping of outcomes through agency. The discussion lacks depth in exploring the distinction between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

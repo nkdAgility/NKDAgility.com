@@ -529,11 +529,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:46:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:26:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the use of technology (Microsoft Teams and Mural) in the context of virtual Scrum training, rather than focusing on Scrum Master roles, responsibilities, or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the use of technology in virtual classrooms for Scrum training, with only brief mentions of Scrum concepts. While it discusses the role of a facilitator, it does not delve deeply into the responsibilities or impact of a Scrum Master, nor does it explore the core themes of the category. The discussion is more about enhancing the learning experience rather than the Scrum Master's role in fostering agile principles or team dynamics.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -946,11 +949,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:46:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:26:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses primarily on using Microsoft Teams and Mural for virtual classroom management, with no discussions about Test First Development, TDD, or related testing practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on enhancing virtual classroom experiences using tools like Microsoft Teams and Mural, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks alignment with the core themes of Test First Development and does not provide any depth on the subject.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1512,6 +1518,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the use of specific tools (Microsoft Teams and Mural) for enhancing virtual classroom experiences in Scrum training. While it discusses technology integration in a learning context, it does not address the principles, components, or implementation of the One Engineering System framework. The discussion is centred around personal experiences and tips for using these tools rather than on standardising or integrating software development practices across teams, which is the core of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:26:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the use of technology in virtual classrooms and does not explicitly discuss Agentic Agility or its principles. While there are elements of adaptability in using tools like Microsoft Teams and Mural, the discussion lacks depth on intentional shaping of outcomes, accountability, or the interplay between human and AI capabilities. Overall, the content does not align with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

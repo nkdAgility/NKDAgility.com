@@ -529,11 +529,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on scaling Agile and organizational change rather than the specific role or responsibilities of a Scrum Master.",
+    "calculated_at": "2025-04-08T17:28:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile principles and the importance of an Agile mindset, which are relevant to the role of a Scrum Master. However, it does not explicitly mention the Scrum Master role or its specific responsibilities. The focus is more on general Agile practices and engineering excellence rather than the distinct functions of a Scrum Master, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -964,11 +967,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:28:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses scaling agile practices in organizations without a focus on Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile and DevOps practices, focusing on engineering excellence and organisational culture rather than the specific principles of Test First Development. There are no direct mentions of Test First practices, success criteria, or testing methodologies that align with the category. While it touches on continuous improvement and collaboration, these themes are too broad and do not specifically address Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1542,6 +1548,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily discusses Agile and DevOps practices, focusing on engineering excellence and the Agile mindset. While it touches on themes of collaboration and continuous improvement, it does not explicitly mention the One Engineering System framework or its principles. The discussion lacks depth regarding the integration of tools and processes across teams, which is central to 1ES. Therefore, the content is only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:28:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile and DevOps practices, focusing on engineering excellence and the Agile mindset. However, it lacks explicit references to Agentic Agility, such as intentional shaping of outcomes or the distinction between human and AI capabilities. While it touches on themes of adaptability and continuous improvement, it does not delve deeply into the principles or mechanisms of Agentic Agility, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

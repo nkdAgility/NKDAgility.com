@@ -1141,11 +1141,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T17:49:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:28:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses incorporating UX into a Scrum Team, with no focus on Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on incorporating UX into Scrum teams and does not discuss Test First Development principles or practices. There are no direct mentions of success criteria, testing methodologies, or the impact of Test First on collaboration, which are essential to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1222,15 +1225,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T03:14:12",
-    "ai_confidence": 42.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 30.0,
-    "ai_depth": 20.0,
+    "calculated_at": "2025-04-08T17:28:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content briefly mentions Scrum in the context of incorporating UX into a Scrum Team, but it lacks a detailed discussion on the role and responsibilities of a Scrum Master. While there is some conceptual alignment with the category, the focus is more on UX integration rather than the Scrum Master's contributions or practices.",
-    "level": "Ignored"
+    "final_score": 57.0,
+    "reasoning": "The content mentions Scrum teams and discusses incorporating UX into them, which aligns with the Scrum Master's role in facilitating team effectiveness. However, it lacks a detailed exploration of the Scrum Master's responsibilities, techniques, or influence on organisational change, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1524,6 +1527,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on incorporating UX into Scrum teams, which is a specific agile methodology rather than discussing the One Engineering System framework. There are no direct mentions of 1ES, and the discussion does not align with the core themes of integration and standardisation of engineering processes. The depth of discussion is limited to UX strategies within Scrum, further distancing it from the principles of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:28:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on incorporating UX into Scrum teams, which does not directly address the principles of Agentic Agility. While there is a mention of enhancing agile practices, it lacks explicit discussions on intentional shaping of outcomes, the distinction between human and AI capabilities, or the transformative capacity of individuals and systems. Overall, the content does not align with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

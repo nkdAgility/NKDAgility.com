@@ -379,11 +379,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T20:14:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:44:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and personal reflection, with no clear focus on Scrum Master roles or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on poly immersive learning experiences and does not explicitly mention the role of a Scrum Master or related responsibilities. While it touches on themes of feedback, reflection, and continuous learning, which are relevant to agile principles, it lacks direct references to Scrum practices or the specific role of a Scrum Master. Therefore, the confidence score reflects minimal relevance to the category.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -415,11 +418,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T20:14:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and their benefits, with no clear focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:44:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses poly immersive learning experiences, focusing on feedback, reflection, and practical application. It does not mention Test First Development or its principles, nor does it align with the core themes of defining success criteria or testing practices. The discussion lacks depth regarding any testing methodologies, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1533,6 +1539,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content focuses on poly immersive learning experiences and their benefits, which are unrelated to the One Engineering System framework. There are no direct mentions of 1ES principles, components, or practices, and the discussion does not align with the core themes of integration and standardisation in software development.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:43:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses elements of reflection, feedback, and accountability in learning, which align with the principles of Agentic Agility. However, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. The focus is more on personal development rather than the intentional shaping of outcomes in a socio-technical context.",
     "level": "Ignored"
   }
 }

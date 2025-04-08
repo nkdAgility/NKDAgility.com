@@ -505,11 +505,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T12:30:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, without any focus on Test First Development or its principles.",
+    "calculated_at": "2025-04-08T17:10:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the differences and similarities between DevOps and Agile, with a focus on delivery processes and systems thinking. It does not explicitly mention Test First Development or its principles, nor does it delve into testing practices, success criteria, or the role of testing in software development. The mention of rapid feedback loops is relevant but does not specifically tie back to Test First Development, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -841,11 +844,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T12:31:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences and similarities between DevOps and Agile, without a clear focus on the Scrum Master role or responsibilities.",
+    "calculated_at": "2025-04-08T17:10:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the differences between DevOps and Agile, with only brief mentions of Agile practices and the Scrum framework. It does not focus on the role or responsibilities of a Scrum Master, nor does it delve into the specific skills or impact of a Scrum Master within a Scrum Team. The discussion lacks depth regarding the Scrum Master's influence on team dynamics or organisational change, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1548,6 +1554,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses the differences and similarities between DevOps and Agile, which are not directly related to the One Engineering System framework. While it touches on concepts like systems thinking and integration, it does not focus on the principles, components, or implementation of 1ES. The discussion is more about methodologies rather than the standardisation and integration of engineering processes as required by the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:10:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the differences and similarities between DevOps and Agile, focusing on processes and methodologies rather than the intentional shaping of outcomes through agency and adaptability. While it touches on concepts like value delivery and systems thinking, it does not explicitly address Agentic Agility or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

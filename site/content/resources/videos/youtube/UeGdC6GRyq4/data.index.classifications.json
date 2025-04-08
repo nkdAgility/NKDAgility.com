@@ -793,11 +793,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T00:36:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a program for underemployment and training opportunities, with only a brief mention of Scrum Masters in a broader context.",
+    "calculated_at": "2025-04-08T16:51:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on underemployment and a training programme, with no direct mention of Scrum Master responsibilities or related concepts. While it discusses skills and personal development, it does not align with the core themes of the Scrum Master role or its impact on team dynamics and organisational change.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1021,11 +1024,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T07:22:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a program for underemployment and training, with no mention of Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:51:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 20,
+    "final_score": 6.0,
+    "reasoning": "The content focuses on underemployment and a training programme, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -1488,6 +1494,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on underemployment and a training programme, with no direct mention or discussion of the One Engineering System framework, its principles, or its components. The themes of integration and standardisation in software development are absent, and the depth of discussion does not align with the key topics outlined for the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:51:23",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly touches on themes of empowerment and personal agency in the context of underemployment, suggesting strategies for individuals to take control of their career paths. However, it lacks a focused discussion on the principles of Agentic Agility, particularly in distinguishing between human and AI capabilities, and does not delve into the mechanisms of AI Agentic Agility or the impact on organisational agility. The primary focus remains on personal development rather than a comprehensive exploration of Agentic Agility.",
     "level": "Ignored"
   }
 }

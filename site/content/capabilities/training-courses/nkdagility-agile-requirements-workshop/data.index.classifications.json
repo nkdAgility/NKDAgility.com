@@ -361,11 +361,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T00:35:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on agile requirements management and does not specifically address the role or responsibilities of a Scrum Master.",
+    "calculated_at": "2025-04-08T17:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on agile requirements management and backlog planning, which are relevant to Scrum but do not explicitly discuss the role or responsibilities of a Scrum Master. While it touches on practices that could be facilitated by a Scrum Master, it lacks direct mentions of the Scrum Master role and does not delve into the broader impact or influence of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -397,11 +400,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T00:35:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:52:42",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on agile requirements management and backlog planning, with no mention of Test First Development or related testing practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on agile requirements management and backlog planning, with only a brief mention of testable items. It does not explicitly discuss Test First Development principles or practices, nor does it provide substantial detail on success criteria or testing methodologies related to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on agile requirements management and planning practices, which are not directly related to the One Engineering System framework. While there are mentions of team collaboration and backlog management, these concepts do not align with the core principles of 1ES, such as standardisation and integration of software development practices across teams. The discussion lacks depth regarding the specific components or implementation of 1ES, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:52:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on agile requirements management and planning practices, which are not directly related to the concept of Agentic Agility. While it discusses aspects of backlog management, it lacks explicit references to intentional shaping of outcomes, autonomy, or adaptability in the context of both human and AI systems. The discussion does not delve into the principles or mechanisms of Agentic Agility, nor does it provide depth on the interplay between human judgement and AI logic.",
     "level": "Ignored"
   }
 }

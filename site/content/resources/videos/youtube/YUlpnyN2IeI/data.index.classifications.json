@@ -511,11 +511,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T22:03:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:53:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum principles and practices, with no focus on Test First Development or related testing methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum principles and the importance of flexibility within Agile methodologies. It does not mention Test First Development or its core concepts, such as success criteria, TDD, or ATDD. The focus is on adapting Scrum practices rather than on testing practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -859,14 +862,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-13T16:49:42",
+    "calculated_at": "2025-04-08T16:53:16",
     "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
     "final_score": 66.0,
-    "reasoning": "The content discusses Scrum principles and the importance of flexibility within the framework, which aligns with the role of a Scrum Master. However, it lacks direct references to specific Scrum Master responsibilities or practices, resulting in a moderate confidence score.",
+    "reasoning": "The content discusses the importance of flexibility and adaptability within the Scrum framework, which aligns with the Scrum Master's role in fostering a culture of continuous improvement. It mentions the need to break free from rigid dogmas, which is relevant to the Scrum Master's influence on team dynamics and stakeholder engagement. However, while it touches on key themes, it lacks a detailed exploration of the specific responsibilities and techniques of a Scrum Master, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1590,6 +1593,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum, discussing its principles and practices without any direct reference to the One Engineering System (1ES). While it touches on themes of flexibility and adaptation, which are relevant to engineering practices, it does not align with the core topics of 1ES such as integration of tools, standardisation, or implementation best practices. The discussion is centred around Scrum methodologies rather than the overarching framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:53:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses flexibility and adaptability within Scrum, which aligns with the principles of Agentic Agility. However, it primarily focuses on Scrum practices rather than explicitly addressing the intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals and systems, resulting in a lower confidence score.",
     "level": "Ignored"
   }
 }

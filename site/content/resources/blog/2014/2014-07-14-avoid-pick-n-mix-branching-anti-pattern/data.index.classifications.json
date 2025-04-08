@@ -1192,11 +1192,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T10:32:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:44:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses branching models and their impact on software development practices, without focusing on Test First Development or its principles.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the pick-n-mix branching anti-pattern and its implications on code quality and team trust, without explicitly addressing Test First Development principles. While it touches on aspects of testing and code promotion, it lacks a direct focus on defining success criteria or the specific practices of Test First Development such as TDD or ATDD. The discussion is more about branching strategies than the Test First approach, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1279,11 +1282,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T10:32:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:44:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on source control issues and branching models rather than Scrum Master responsibilities or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses software development practices, specifically focusing on branching strategies and their implications on code quality and team dynamics. While it touches on aspects of team trust and planning, it does not explicitly address the role or responsibilities of a Scrum Master, nor does it engage with Scrum principles or practices in a meaningful way. Therefore, it does not align well with the category of Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1579,5 +1585,17 @@
     "final_score": 65.0,
     "reasoning": "The content discusses the pick-n-mix branching anti-pattern and its implications on code quality and team trust, which are related to competence in software development. It highlights the need for better planning and engineering practices to enhance team capabilities and deliver quality outcomes. However, while competence is a theme, it is not the primary focus, as the content mainly revolves around branching strategies and their technical implications rather than a broader discussion on continuous learning or skill development.",
     "level": "Secondary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:44:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the pick-n-mix branching anti-pattern in software development, focusing on technical issues and solutions related to source control. While it touches on themes of planning and organisational trust, it does not explicitly address Agentic Agility or the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth in exploring the principles of Agentic Agility, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
   }
 }

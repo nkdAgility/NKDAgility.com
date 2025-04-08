@@ -1177,11 +1177,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T17:45:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:28:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational change and scaling agile practices, with no clear focus on Test First Development or related testing principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on scaling agile practices and does not explicitly discuss Test First Development principles or practices. While it touches on the need for change in software delivery, it lacks direct mentions of success criteria, testing methodologies, or the importance of testing in the development process.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1261,11 +1264,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T17:45:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:28:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses scaling agile practices and organisational change without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses scaling agile practices but does not explicitly mention the role of the Scrum Master or delve into their responsibilities. While it touches on organisational change and agile principles, it lacks a focused discussion on the Scrum Master's influence or techniques, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1557,6 +1563,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content discusses scaling agile practices but does not explicitly mention the One Engineering System or its principles. It touches on the challenges of organisational change and scaling but lacks a focus on integration, standardisation, or specific methodologies related to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:28:12",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on scaling agile practices and does not explicitly discuss Agentic Agility or its principles. While it touches on the need for change and transformation in organisations, it lacks a clear connection to the intentional shaping of outcomes, the distinction between human and AI capabilities, or the mechanisms of Agentic Agility. The discussion is more about general agile practices rather than the specific themes outlined in the category.",
     "level": "Ignored"
   }
 }

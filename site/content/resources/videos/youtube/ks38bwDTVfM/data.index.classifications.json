@@ -184,11 +184,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:35:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:21:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses Scrum roles, processes, and planning within Agile without addressing Test First Development or its core principles.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile principles and strategies for improving Sprint success, particularly focusing on the Definition of Done, avoiding overcommitment, and prioritising refinement. While the Definition of Done touches on success criteria, the overall focus is not on Test First Development practices or methodologies. The content lacks a direct emphasis on testing, either manual or automated, and does not delve into Test-Driven Development or Acceptance Test-Driven Development, which are core to the Test First Development category. Therefore, the confidence score reflects a low alignment with the category's principles.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -646,14 +649,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T20:58:17",
+    "calculated_at": "2025-04-08T16:21:35",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 65.0,
-    "reasoning": "The content discusses strategies that are relevant to Scrum practices, such as establishing a Definition of Done, avoiding overcommitment, and prioritising refinement. However, it does not explicitly mention the role of the Scrum Master or delve deeply into the responsibilities and techniques specific to that role. The focus is more on general Agile practices rather than the specific contributions of a Scrum Master, which limits the depth of discussion.",
+    "reasoning": "The content discusses Agile strategies that are relevant to Scrum practices, such as defining 'done', avoiding overcommitment, and prioritising refinement. However, it does not explicitly mention the role of the Scrum Master or delve into their specific responsibilities. While the strategies align with Scrum principles, the focus is more on general Agile practices rather than the Scrum Master's influence or role within a team.",
     "level": "Secondary"
   },
   "Enterprise Agility": {
@@ -1599,6 +1602,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Agile and Scrum methodologies, discussing strategies for improving team performance within Sprints. It does not mention the One Engineering System (1ES) framework or its principles, components, or implementation. The discussion is centred around Agile practices rather than the integration and standardisation of engineering processes, which is the core of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:21:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile strategies and Scrum practices, with no explicit discussion of Agentic Agility or its principles. While it touches on concepts like clarity and alignment, these are framed within general Agile practices rather than the intentional shaping of outcomes through autonomy and adaptability. The content lacks depth in exploring the distinctions between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

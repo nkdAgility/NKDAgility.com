@@ -1135,11 +1135,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T11:31:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:50:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses how to change the Release Management Server settings in a client application and does not address Test First Development or related concepts.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses changing the Release Management Server connection and does not mention Test First Development principles, success criteria, or any related testing practices. It lacks any alignment with the core themes of the category, focusing instead on practical steps for configuration without addressing testing methodologies.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1222,11 +1225,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T11:31:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:50:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical details related to Release Management and does not discuss the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on technical instructions for changing a Release Management Server and does not discuss the role, responsibilities, or impact of a Scrum Master. There are no direct mentions of Scrum or related concepts, and the discussion lacks depth in any relevant themes to the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1497,6 +1503,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on technical instructions for changing the Release Management Server connection, with minimal reference to competence or skill development. While it discusses a practical task relevant to a consultant's role, it lacks explicit discussions on continuous learning, quality outcomes, or fostering a culture of competence, which are central to the category. The depth of discussion is limited to procedural steps without exploring the implications for professional growth or team dynamics.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:49:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for changing a Release Management Server connection, lacking any discussion on intentional shaping of outcomes, autonomy, or adaptability. It does not address the principles of Agentic Agility or differentiate between human and AI capabilities, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

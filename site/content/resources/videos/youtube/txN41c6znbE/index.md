@@ -34,10 +34,10 @@ tags:
 - Competence
 - People and Process
 - Continuous Learning
+- Scrum Master
 - Discovery and Learning
 - Software Development
 - Agile Project Management
-- Scrum Master
 - Agile Leadership
 - Sociotechnical Systems
 - Agile Strategy

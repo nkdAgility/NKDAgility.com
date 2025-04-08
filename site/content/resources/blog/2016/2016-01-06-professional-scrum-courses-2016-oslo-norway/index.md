@@ -35,6 +35,7 @@ tags:
 - Events and Presentations
 - Software Development
 - Professional Scrum
+- Scrum Master
 - Software Developers
 - Products and Books
 - Practical Techniques and Tooling

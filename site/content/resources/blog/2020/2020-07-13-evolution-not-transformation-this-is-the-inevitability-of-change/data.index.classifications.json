@@ -595,11 +595,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T08:52:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:24:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 7.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the concept of continuous change and evolution in organisations, without a focus on Test First Development or related testing practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the concept of agility as an evolution rather than a transformation, focusing on continuous change and adaptation in organisations. While it touches on the importance of feedback and experimentation, it does not explicitly mention Test First Development principles, success criteria, or specific testing methodologies like TDD or ATDD. The discussion lacks depth in relation to the core themes of Test First Development, making it only tangentially related.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -961,11 +964,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T08:53:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:24:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of continuous change and evolution in organisations without a specific focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the concept of agility and continuous change, which are relevant to the Scrum Master's role in fostering an agile environment. However, it does not explicitly mention the Scrum Master or delve into specific responsibilities or techniques associated with the role. The focus is more on general organisational change rather than the specific duties and impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1591,5 +1597,17 @@
     "final_score": 13.0,
     "reasoning": "The content primarily discusses the concept of agility as an evolution rather than a transformation, focusing on continuous change and adaptation in organisations. While it touches on themes relevant to software development and organisational practices, it does not explicitly mention the One Engineering System framework or its principles. The discussion lacks depth regarding integration of tools and processes, best practices for implementation, or specific impacts on software quality and delivery timelines, which are key topics for the 1ES category.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:24:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the concept of continuous change and evolution in organisations, which aligns with the principles of Agentic Agility. However, it primarily focuses on general agility and transformation rather than explicitly addressing the intentional shaping of outcomes through autonomy and adaptability. While there are mentions of leadership and accountability, the depth of discussion on AI Agentic Agility and the distinction between human and AI capabilities is lacking, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

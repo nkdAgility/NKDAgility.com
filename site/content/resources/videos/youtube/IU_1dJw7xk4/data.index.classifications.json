@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T06:03:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:04:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the transition from traditional project management to Kanban, with no focus on Test First Development or related testing practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on transitioning from traditional project management to Kanban, with no direct mention of Test First Development principles or practices. While it discusses aspects of Agile methodologies, it does not align with the core themes of Test First Development, such as defining success criteria or the role of testing in the development process. The depth of discussion regarding Test First Development is minimal, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -868,11 +871,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T06:04:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:04:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the transition from traditional project management to Kanban, with only brief mentions of Scrum without a focus on the Scrum Master role.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on transitioning from traditional project management to Kanban, with only a brief mention of Scrum as a contrasting methodology. It does not delve into the responsibilities or impact of a Scrum Master, nor does it discuss the core themes associated with the role. The discussion is centred around Kanban, making it largely irrelevant to the Scrum Master category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1602,6 +1608,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on transitioning from traditional project management to Kanban, which is a specific agile methodology. It does not discuss the One Engineering System framework, its principles, or its components. While it touches on aspects of process improvement and workflow optimisation, these are not aligned with the core themes of 1ES, which emphasises integration and standardisation across engineering practices. The discussion is centred around Kanban, making it largely irrelevant to the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:04:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on transitioning from traditional project management to Kanban, discussing methodologies and processes without addressing the intentional shaping of outcomes or the principles of Agentic Agility. While it mentions gradual improvement and data-driven decision-making, it lacks a clear distinction between human and AI capabilities, and does not delve into the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

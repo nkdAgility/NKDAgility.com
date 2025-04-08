@@ -187,11 +187,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T16:49:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:37:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses building a culture of quality and engineering excellence, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content discusses the importance of a culture of quality and integrity in engineering but does not explicitly mention the role of a Scrum Master or align closely with Scrum principles. While it touches on agile frameworks, it does not delve into the responsibilities or impact of a Scrum Master, nor does it provide depth on Scrum practices or team dynamics.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1087,11 +1090,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T16:52:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of a culture of quality and engineering excellence, without a clear focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T15:37:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content discusses the importance of a culture of quality in engineering but does not explicitly mention Test First Development or its principles. While it touches on quality and integrity, it lacks direct references to success criteria, testing practices, or the specific methodologies associated with Test First Development. The focus is more on organisational culture rather than the testing practices themselves.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1602,6 +1608,18 @@
     "non_ai_confidence": 20,
     "final_score": 24.0,
     "reasoning": "The content discusses the importance of a culture of quality in engineering but does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on themes of quality and integrity, it lacks a direct focus on the integration and standardisation of engineering processes that characterise 1ES. The examples provided, such as Boeing and Volkswagen, serve to illustrate the consequences of poor quality culture rather than discussing the framework of 1ES itself.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:37:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of a culture of quality and integrity in organisations, which aligns with the broader themes of Agentic Agility. However, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. The focus is more on organisational culture and ethical decision-making rather than the intentional shaping of outcomes through autonomy and adaptability.",
     "level": "Ignored"
   }
 }

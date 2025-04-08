@@ -367,11 +367,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T22:12:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:51:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a referral program for classes and does not focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a referral program for collaborative learning, with no direct mention of the Scrum Master role or its responsibilities. While it touches on themes of collaboration and community building, these concepts are not specifically tied to the Scrum framework or the role of a Scrum Master. The discussion lacks depth regarding Scrum practices, techniques, or the influence of a Scrum Master on team dynamics.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -403,11 +406,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T22:13:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:51:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a referral program for collaborative learning and does not address Test First Development or related principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a referral program aimed at fostering collaborative learning, with no direct mention or discussion of Test First Development principles, practices, or methodologies. While it touches on collaboration, it does not align with the core themes of Test First Development, such as success criteria, testing practices, or the role of automated testing.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1491,6 +1497,18 @@
     "non_ai_confidence": 20,
     "final_score": 6.0,
     "reasoning": "The content primarily focuses on a referral program for collaborative learning, which does not directly discuss the One Engineering System (1ES) framework or its principles. While it mentions collaboration, it does not delve into the integration of tools, processes, or methodologies relevant to 1ES. The discussion lacks depth and specificity regarding the core themes of 1ES, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:51:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a referral program aimed at fostering collaborative learning, which does not explicitly discuss Agentic Agility or its principles. While it touches on themes of collaboration and community building, it lacks a clear connection to the intentional shaping of outcomes, autonomy, or adaptability as defined in the category. The mention of learning together and community support is too general and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

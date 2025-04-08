@@ -385,14 +385,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T22:01:01",
+    "calculated_at": "2025-04-08T16:33:09",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
+    "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 20.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content primarily focuses on a webcast about Product Ownership and Lean Product Development, with only brief mentions of Scrum Masters in the context of training classes. While there is some alignment with Agile principles, the discussion does not delve into the specific responsibilities or practices of a Scrum Master, resulting in a low confidence score.",
+    "reasoning": "The content primarily focuses on Product Ownership and Lean Product Development, with only a brief mention of Scrum Masters in the context of training courses. While there is some alignment with agile principles, the discussion lacks depth regarding the specific role and responsibilities of a Scrum Master, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -427,11 +427,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T17:56:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:33:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Product Ownership and Lean Product Development, with no clear discussion on Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on Product Ownership and Lean Product Development, with no direct mention of Test First Development principles or practices. While it may touch on related themes of agile methodologies, it lacks specific discussions on success criteria, testing practices, or the role of testing in development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1575,6 +1578,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Product Ownership and Lean Product Development, which are not directly related to the One Engineering System framework. While there are mentions of methodologies and practices, they do not align with the core themes of 1ES, such as integration and standardisation of engineering processes. The discussion lacks depth regarding 1ES principles, components, or implementation strategies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:33:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Product Ownership and Lean Product Development, with no explicit discussion of Agentic Agility or its principles. While it may touch on themes of autonomy and adaptability in product development, it lacks a clear connection to the intentional shaping of outcomes or the distinction between human and AI capabilities. The depth of discussion is minimal, primarily promoting a webcast rather than exploring the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

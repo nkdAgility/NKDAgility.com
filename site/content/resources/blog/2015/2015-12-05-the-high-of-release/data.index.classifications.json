@@ -1180,11 +1180,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T08:56:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:37:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Release Management tools and DevOps, with no clear focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Release Management tools and DevOps practices, with no explicit mention of Test First Development principles or practices. While it touches on aspects of software delivery, it does not align with the core themes of defining success criteria or the importance of testing methodologies, thus resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1267,11 +1270,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T08:56:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:37:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Release Management tools and DevOps practices, with no clear focus on Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Release Management tools and DevOps practices, with no direct mention of the Scrum Master role or its responsibilities. While there is a brief mention of teams striving for engineering excellence, it does not align with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles. The depth of discussion is focused on technical tools rather than the Scrum framework or the impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1560,6 +1566,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses new Release Management tools from Microsoft and their role in enhancing DevOps and release pipelines. While it touches on integration and orchestration, it does not explicitly mention the One Engineering System framework or its principles. The focus is more on specific tools rather than the broader concepts of standardisation and integration across teams, which are central to 1ES. Therefore, while there are relevant elements, the primary focus is not on the One Engineering System itself.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:37:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Release Management tools and DevOps practices without addressing the intentional shaping of outcomes or the principles of Agentic Agility. While it mentions adaptability in tool usage, it lacks a focus on autonomy, accountability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

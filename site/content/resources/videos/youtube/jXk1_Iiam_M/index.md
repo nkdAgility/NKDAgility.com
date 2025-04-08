@@ -32,9 +32,9 @@ sitemap:
   priority: 0.6
 tags:
 - Discovery and Learning
-- Scrum Master
 - Continuous Learning
 - People and Process
+- Scrum Master
 - Team Performance
 - Pragmatic Thinking
 - Agile Project Management

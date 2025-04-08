@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T22:25:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:14:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile principles and the nature of complex work, without a focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile principles and the distinction between complicated and complex work, without any direct reference to Test First Development practices or concepts. While it touches on the importance of values and principles in Agile, it does not delve into success criteria, testing methodologies, or the role of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -868,15 +871,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T01:59:25",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-04-08T17:14:03",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses Agile principles and values, including Scrum values, but does not focus specifically on the role of the Scrum Master or their responsibilities. While it touches on concepts relevant to Scrum, such as continuous improvement and team dynamics, it lacks a detailed exploration of the Scrum Master's role in facilitating these processes. Therefore, while there is some alignment, it is not the primary focus of the content.",
-    "level": "Ignored"
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile principles and values, which are relevant to the Scrum framework, but it does not focus specifically on the role of the Scrum Master. While it mentions Scrum values, it lacks a detailed exploration of the Scrum Master's responsibilities, techniques, or influence on team dynamics and organisational change. Therefore, while there is some alignment, it is not the primary focus of the content.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1599,6 +1602,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Agile principles and methodologies, focusing on values and principles rather than the One Engineering System framework. While it touches on concepts relevant to software development, it does not explicitly mention 1ES or its components, nor does it provide depth on integration or standardisation of engineering processes. The discussion is more about Agile's adaptability and complexity rather than the unified approach that 1ES advocates.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:14:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile principles and the importance of values in navigating complexity, which aligns with the concept of intentionality in Agentic Agility. However, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

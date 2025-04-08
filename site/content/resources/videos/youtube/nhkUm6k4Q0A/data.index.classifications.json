@@ -511,11 +511,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T04:08:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:22:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of an agile coach and the importance of agnosticism in practices, with no clear focus on Test First Development or related principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile coaching and the importance of flexibility and agnosticism in practices, without any direct mention or focus on Test First Development principles. It does not address success criteria, testing practices, or the role of automated testing, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -859,15 +862,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T14:08:09",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-04-08T16:21:59",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content briefly mentions Scrum as a preferred practice of the speaker but primarily focuses on the broader role of an agile coach rather than the specific responsibilities and practices of a Scrum Master. While there is some alignment with Scrum principles, the depth of discussion on Scrum Master-specific topics is limited, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of an Agile coach, which overlaps with the responsibilities of a Scrum Master, particularly in promoting Agile principles and fostering team autonomy. However, the primary focus is on agnosticism in coaching rather than the specific duties of a Scrum Master. While Scrum is mentioned, it is not the central theme, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1587,6 +1590,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Agile coaching and the importance of agnosticism in practices, with specific references to Scrum, Lean, and Agile principles. It does not discuss the One Engineering System framework, its components, or its implementation, which are essential for alignment with the category. The discussion is centred around personal coaching philosophies rather than the integration and standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:21:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of flexibility and enabling teams to make informed decisions, which aligns with the principles of Agentic Agility. However, it primarily focuses on Agile coaching practices rather than explicitly addressing the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks a clear distinction between Human and AI Agentic Agility, and while it touches on concepts of agency, it does not delve deeply into the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

@@ -1291,11 +1291,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T15:05:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:10:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses issues related to project management mindsets in product owners and does not address Test First Development or its principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner in Agile teams and the negative impacts of a project management mindset, which does not directly relate to Test First Development principles. While it touches on collaboration and value delivery, it lacks explicit references to success criteria, testing practices, or the importance of defining criteria before implementation, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1357,11 +1360,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T15:05:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:10:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to the product owner role and project management mindsets, without a focus on the responsibilities or practices of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner and their impact on Agile teams, which is not the focus of the Scrum Master category. While it touches on themes of collaboration and value delivery, it does not explicitly address the responsibilities or influence of a Scrum Master. The discussion is more about identifying and addressing issues with Product Owners rather than the Scrum Master's role in facilitating team effectiveness.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1518,6 +1524,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the role of the Product Owner within Agile teams and the negative impacts of a project management mindset, which does not directly relate to the One Engineering System framework. While it touches on collaboration and value delivery, it lacks explicit references to 1ES principles, components, or implementation strategies, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:10:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the role of the Product Owner and the negative impacts of a project management mindset on Agile teams, which touches on themes of autonomy and value delivery. However, it primarily focuses on identifying and combating 'agile banditry' rather than explicitly addressing Agentic Agility or the intentional shaping of outcomes. The discussion lacks depth in exploring the principles of Agentic Agility, such as the distinction between human and AI capabilities, and does not provide case studies or mechanisms of AI Agentic Agility.",
     "level": "Ignored"
   }
 }

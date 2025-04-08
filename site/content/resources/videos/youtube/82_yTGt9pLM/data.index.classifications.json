@@ -403,11 +403,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T22:00:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:50:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses Agile consulting and organisational strategies rather than focusing specifically on the role and responsibilities of a Scrum Master.",
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Scrum in the context of Agile Consulting but does not focus on the specific role or responsibilities of a Scrum Master. While it discusses concepts related to Agile and organisational change, it lacks depth in exploring the Scrum Master's influence or techniques specific to that role. The primary focus is on Agile Consulting as a broader concept rather than the Scrum Master role itself.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -445,11 +448,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T22:00:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile Consulting and organisational strategies, with no clear focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:50:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile Consulting and does not explicitly mention Test First Development or its principles. While it touches on concepts like feedback loops and team dynamics, these are not directly related to Test First practices. The focus is on broader Agile methodologies rather than the specific practices of Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1590,6 +1596,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Agile Consulting and does not explicitly mention the One Engineering System (1ES) or its principles. While it discusses methodologies and practices related to Agile, it lacks a direct connection to the integration and standardisation of engineering processes that 1ES emphasises. The discussion is more about personal experiences and diverse strategies rather than the unified framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:50:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile Consulting and the importance of diverse strategies and continuous learning, but it does not explicitly mention Agentic Agility or its principles. While there are elements of autonomy and adaptability in the approach described, the focus is primarily on Agile methodologies rather than the intentional shaping of outcomes through agency. The depth of discussion on Agentic Agility is minimal, as it lacks specific examples or mechanisms related to AI or human agency.",
     "level": "Ignored"
   }
 }

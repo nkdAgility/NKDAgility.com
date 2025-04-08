@@ -370,11 +370,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:29:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not address Scrum Master roles or responsibilities and focuses on general systems thinking without mentioning Scrum or Agile methodologies.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the balance between systems and people in Agile environments, which is relevant to the Scrum Master's role in fostering collaboration and continuous improvement. However, it does not explicitly mention the Scrum Master or delve into specific responsibilities or techniques associated with the role, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -409,11 +412,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on the evolution of work systems during the Industrial Revolution and does not discuss Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:29:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the historical shift from individual craftsmanship to systems in the context of Agile methodologies, without any direct mention or exploration of Test First Development principles. It focuses on the balance between systems and people rather than on testing practices or success criteria, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1497,6 +1503,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the historical shift from individuals to systems in management, referencing Frederick Winslow Taylor's philosophy. However, it primarily focuses on the balance between systems and people in Agile environments rather than the specific principles or components of the One Engineering System framework. While there are mentions of systems and their impact on collaboration, the discussion does not delve into the integration of tools or processes across teams, nor does it provide detailed insights into 1ES implementation or challenges. Therefore, the content aligns only tangentially with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:29:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the historical shift from individuals to systems in management, referencing Frederick Taylor's ideas. While it touches on the importance of balancing systems and people, it does not explicitly address Agentic Agility or its principles. The focus is more on the historical context and the Agile response rather than on intentional shaping of outcomes through autonomy and adaptability, which are core to Agentic Agility.",
     "level": "Ignored"
   }
 }

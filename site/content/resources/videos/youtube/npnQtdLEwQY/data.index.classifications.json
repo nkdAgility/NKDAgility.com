@@ -184,11 +184,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T15:37:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:34:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical debt and its implications on product quality and development processes, without any direct reference to the role or responsibilities of a Scrum Master.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses technical debt and quality management in product development, with no direct mention of the Scrum Master role or its responsibilities. While it touches on continuous improvement, which is a relevant theme, it does not specifically relate to the Scrum Master's influence or practices within a Scrum context. Therefore, the content does not align well with the category.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1060,11 +1063,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T15:40:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical debt and its implications on software quality, without a focus on Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T15:34:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses technical debt and poor quality in product development, with no explicit mention of Test First Development principles or practices. While it touches on the importance of quality and continuous improvement, it does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices. The focus is on managing technical debt rather than the Test First approach.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1560,6 +1566,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily discusses technical debt and quality issues in software development, which are important topics but do not directly address the principles or components of the One Engineering System (1ES). While there are mentions of continuous improvement and the impact of quality on productivity, these concepts are not explicitly tied to the 1ES framework or its integration and standardisation goals. The discussion lacks a focus on the unification of tools and processes across teams, which is central to 1ES, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:34:47",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses technical debt and quality management in product development, with a focus on decision-making processes. While it touches on the intentionality behind choices made by teams, it does not explicitly address Agentic Agility or its principles. The discussion lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical context, and it does not differentiate between human and AI capabilities in relation to agility.",
     "level": "Ignored"
   }
 }

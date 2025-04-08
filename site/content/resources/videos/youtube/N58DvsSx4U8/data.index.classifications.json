@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T04:23:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:04:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses DevOps transformation and Agile practices without a focus on Test First Development or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a DevOps consulting experience, focusing on transformation and simplification of processes rather than the principles of Test First Development. There are no direct mentions of Test First practices, success criteria, or testing methodologies. The discussion is more about agile practices and team collaboration without a specific focus on testing strategies.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -859,11 +862,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T04:24:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:04:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses DevOps consulting outcomes and experiences, with no clear focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on a DevOps consulting experience, discussing the transformation of a software project rather than the specific role and responsibilities of a Scrum Master. While it briefly touches on agile practices, it does not delve into the core themes of the Scrum Master role, such as coaching, mentoring, or facilitating within a Scrum context. The mention of Agile and Scrum courses at the end suggests a tangential connection but does not provide substantial content related to the Scrum Master role.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1597,5 +1603,17 @@
     "final_score": 77.0,
     "reasoning": "The content discusses the journey towards adopting the 'One Engineering System' concept, detailing the transformation from fragmented teams to a unified system. It explicitly mentions 1ES and its principles, aligning with the category's focus. However, while it provides a narrative of the transformation, the depth of technical discussion on 1ES principles and best practices is somewhat limited, focusing more on personal experiences and outcomes rather than a comprehensive analysis.",
     "level": "Secondary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:03:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses a DevOps consulting outcome and highlights the transformation journey of a client, but it primarily focuses on Agile and DevOps practices without explicitly addressing the concept of Agentic Agility. While there are elements of autonomy and adaptability in the narrative, the discussion lacks depth in exploring the intentional shaping of outcomes and does not differentiate between human and AI capabilities in the context of agility.",
+    "level": "Ignored"
   }
 }

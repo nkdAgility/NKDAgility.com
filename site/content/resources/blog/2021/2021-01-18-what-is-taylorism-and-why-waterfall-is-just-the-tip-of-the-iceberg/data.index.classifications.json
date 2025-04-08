@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T20:57:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:19:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Taylorism and traditional project management methodologies, with no clear focus on Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Taylorism and its impact on traditional project management methodologies, particularly the Waterfall model. It does not mention Test First Development or its principles, nor does it explore topics related to success criteria, testing practices, or the benefits of fast feedback loops. The focus is on historical management practices rather than on testing methodologies or development practices.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -844,11 +847,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T20:59:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:19:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses traditional project management methodologies and critiques Taylorism, with no clear focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Taylorism and traditional project management methodologies, with a focus on their historical context and impact on modern work practices. While it briefly touches on Agile principles and mentions the Scrum framework, it does not delve into the specific role, responsibilities, or impact of a Scrum Master. The discussion lacks depth regarding the Scrum Master's influence on team dynamics, coaching, or facilitation, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1593,6 +1599,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses Taylorism and traditional project management methodologies, focusing on their historical context and impact on modern work practices. While it touches on themes of management and organisational structure, it does not explicitly mention or align with the principles of the One Engineering System (1ES). The discussion is more about the critique of existing practices rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:19:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the negative impacts of traditional management practices, particularly Taylorism, on employee autonomy and engagement, which aligns with the principles of Agentic Agility. However, it does not explicitly define Agentic Agility or differentiate between human and AI capabilities. The focus is more on critiquing outdated practices rather than exploring the proactive shaping of outcomes through autonomy and adaptability.",
     "level": "Ignored"
   }
 }

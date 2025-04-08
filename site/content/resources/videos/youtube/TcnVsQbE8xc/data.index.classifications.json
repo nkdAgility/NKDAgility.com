@@ -394,14 +394,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-13T15:17:08",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-04-08T16:45:07",
+    "ai_confidence": 82.0,
     "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on the PSM II course, which is directly related to enhancing the skills of a Scrum Master. It discusses advanced Scrum knowledge, team empowerment, and the role of the Scrum Master in fostering high-performing teams. While it does not delve deeply into specific Scrum ceremonies or conflict resolution, it aligns well with the core themes of the Scrum Master role, such as coaching and mentoring. The depth of discussion is substantial, providing actionable insights and benefits of the course, which supports the development of Scrum Master competencies.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on the PSM II course, which is specifically designed for Scrum Masters, indicating a strong direct mention of the category. It discusses the importance of advanced Scrum mastery, team empowerment, and the Scrum Master's role in fostering agile maturity within an organisation, aligning well with the core themes of the category. The depth of discussion is substantial, providing actionable insights and benefits related to the Scrum Master role, though it could delve deeper into specific techniques and challenges faced by Scrum Masters.",
     "level": "Secondary"
   },
   "Agile Planning": {
@@ -436,11 +436,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T20:39:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:45:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and responsibilities, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the benefits of the PSM II course for Scrum Masters, discussing Scrum principles and team dynamics rather than Test First Development practices. While it briefly mentions 'automation practices', it does not delve into Test First methodologies or principles, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1587,6 +1590,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the PSM II course and Scrum practices, with no direct mention or discussion of the One Engineering System framework. While it touches on team dynamics and agile methodologies, it does not align with the core themes of 1ES, such as integration of tools and processes across teams or standardisation in software development. The depth of discussion is limited to Scrum-specific topics, further distancing it from the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:45:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the benefits of the PSM II course for Scrum Masters, discussing skills and knowledge related to Scrum practices. While it touches on themes of empowerment and team effectiveness, it does not explicitly address Agentic Agility or its principles. The discussion lacks depth in exploring the intentional shaping of outcomes or the distinction between human and AI capabilities, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

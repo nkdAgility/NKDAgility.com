@@ -1120,11 +1120,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:38:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:54:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a review of a developer Ultrabook with no mention or focus on Test First Development or its practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on reviewing a hardware product, specifically an Ultrabook, and does not discuss any principles or practices related to Test First Development. There are no mentions of success criteria, testing methodologies, or any related concepts that align with the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1204,11 +1207,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:38:42",
+    "calculated_at": "2025-04-08T17:54:27",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the unboxing and review of a developer Ultrabook, with no reference to Scrum, Scrum Masters, or Agile principles.",
+    "reasoning": "The content focuses entirely on reviewing a developer Ultrabook and does not mention the role or responsibilities of a Scrum Master, nor does it discuss any related concepts or themes. There is no relevance to Scrum or agile methodologies.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on reviewing a developer Ultrabook, discussing its features and performance rather than addressing competence in Agile, Scrum, DevOps, or Lean methodologies. While it mentions the device's suitability for developers, it lacks explicit discussions on continuous learning, skill development, or the importance of competence in professional settings.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:54:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on reviewing a specific hardware product, the Intel Haswell Harris Beach SDS Ultrabook, and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI systems. The review is more about product features and performance rather than any concepts related to agency or agility.",
     "level": "Ignored"
   }
 }

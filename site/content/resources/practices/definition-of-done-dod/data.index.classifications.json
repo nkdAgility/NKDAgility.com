@@ -79,15 +79,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T17:34:09",
-    "ai_confidence": 62.0,
-    "ai_mentions": 3,
-    "ai_alignment": 75.0,
-    "ai_depth": 50.0,
+    "calculated_at": "2025-04-08T15:44:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the Definition of Done (DoD), which is a crucial aspect of Scrum and directly relates to the responsibilities of a Scrum Master in ensuring that the team adheres to quality standards. It mentions the Scrum Team and the importance of a shared understanding of 'Done', which aligns with the Scrum Master's role in facilitating team collaboration and maintaining Agile principles. However, the focus is primarily on the DoD itself rather than on the broader responsibilities and practices of a Scrum Master, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses the Definition of Done (DoD) within the Scrum framework, which is a relevant topic for Scrum teams. However, it does not explicitly focus on the role of the Scrum Master or their responsibilities. While it touches on aspects of team dynamics and quality assurance, it lacks a direct exploration of the Scrum Master's influence, coaching techniques, or their role in facilitating discussions around the DoD. Therefore, while there is some alignment with the category, it is not the primary focus, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
@@ -568,12 +568,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T12:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T15:44:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the Definition of Done (DoD) and its importance in ensuring quality, which is related to Test First Development principles. However, the primary focus is on the DoD and Scrum practices rather than explicitly on Test First Development or TDD.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) extensively, which is closely related to the principles of Test First Development. It highlights the importance of defining success criteria before implementation, which aligns with the core themes of Test First Development. However, while it touches on aspects of testing and quality assurance, it does not delve deeply into automated testing practices like TDD or ATDD, which are central to the Test First approach. Therefore, while the content is relevant, it does not fully embody the depth and focus required for a higher confidence score.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1614,6 +1617,18 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content primarily discusses the Definition of Done (DoD) within the context of Scrum, which is a specific methodology rather than the broader One Engineering System framework. While it touches on aspects of quality and team collaboration, it does not explicitly address the principles or components of 1ES, nor does it provide insights into integrating tools and processes across teams. The focus is more on Scrum practices than on the unified engineering processes that 1ES aims to standardise.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:44:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Definition of Done (DoD) within Scrum practices, discussing criteria for product increments and quality assurance. While it touches on aspects of team autonomy and accountability, it does not explicitly address the concept of Agentic Agility or the intentional shaping of outcomes through adaptability and alignment with values. The discussion lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical context, which is central to Agentic Agility.",
     "level": "Ignored"
   }
 }

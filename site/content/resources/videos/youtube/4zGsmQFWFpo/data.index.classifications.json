@@ -538,11 +538,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T11:02:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses organisational capability, hiring practices, and the roles of Scrum Masters, with no clear focus on Test First Development or related testing practices.",
+    "calculated_at": "2025-04-08T15:42:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses hiring practices, leadership, and organisational capability without any direct mention or focus on Test First Development principles. While it touches on roles like Scrum Masters and Product Owners, it does not address success criteria, testing practices, or the importance of defining criteria before implementation, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -880,14 +883,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-13T16:21:30",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-04-08T15:42:01",
+    "ai_confidence": 82.0,
     "ai_mentions": 15,
-    "ai_alignment": 32,
+    "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the role of Scrum Masters extensively, highlighting their importance in coaching and developing teams, as well as the need for competent individuals in these roles. It addresses the challenges faced by Scrum Masters and the necessity for continuous learning and contextual understanding, which aligns well with the core themes of the category. The depth of discussion is significant, providing insights into hiring practices and the organic emergence of Scrum Masters from within teams, thus demonstrating a strong focus on the Scrum Master role.",
+    "final_score": 76.0,
+    "reasoning": "The content discusses the role of Scrum Masters extensively, highlighting their importance in hiring practices, leadership, and team dynamics. It addresses the skills required for effective Scrum Masters and critiques the current state of competency in the role. The depth of discussion is significant, with multiple sections dedicated to the responsibilities and development of Scrum Masters, thus aligning well with the category's core themes.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1626,6 +1629,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses Agile methodologies and the roles of Scrum Masters and Product Owners, which are not directly related to the One Engineering System framework. While there are mentions of improving hiring practices and building capabilities, these topics do not align with the core principles of 1ES, such as integration of tools and processes or standardisation across teams. The focus is more on individual roles and organisational culture rather than a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:41:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of building capabilities and effective leadership within organisations, which aligns with the principles of Agentic Agility. However, it primarily focuses on hiring practices and the roles of Scrum Masters and Product Owners without explicitly addressing the intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion lacks depth in exploring the mechanisms of Agentic Agility and does not provide specific examples or case studies related to the concept.",
     "level": "Ignored"
   }
 }

@@ -181,11 +181,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:35:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:22:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the concept of 'definition of done' in Scrum and its importance for quality in Agile, but does not address Test First Development or the principles of writing tests before code.",
+    "final_score": 39.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) in Agile, which is related to ensuring quality and clarity in software delivery. However, it does not explicitly mention Test First Development or its principles. While it touches on risk mitigation and the importance of quality, it lacks a direct focus on testing practices, particularly automated testing or Test-Driven Development (TDD). The discussion is more centred on Agile principles rather than the specific practices of Test First Development.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -640,14 +643,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T14:08:17",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-04-08T16:22:31",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the 'Definition of Done' within the context of Scrum, which is a relevant topic for Scrum Masters. However, it primarily focuses on the concept itself rather than the broader responsibilities and practices of a Scrum Master. While it touches on the importance of transparency and risk mitigation, it lacks detailed exploration of Scrum Master techniques, coaching, or team dynamics, which are crucial for a higher confidence score.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the Definition of Done, which is a crucial aspect of Scrum, but it does not explicitly focus on the role of the Scrum Master. While it touches on principles relevant to Scrum, such as transparency and risk mitigation, it lacks a direct exploration of the Scrum Master's responsibilities or influence. The discussion is more centred on Agile practices rather than the specific role of the Scrum Master, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Enterprise Agility": {
@@ -1572,6 +1575,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Definition of Done within Agile and Scrum methodologies, which are not directly related to the One Engineering System framework. While it touches on concepts like quality and team effectiveness, it does not discuss the integration or standardisation of engineering processes, nor does it mention 1ES principles or practices. Therefore, the alignment with the One Engineering System category is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:22:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Definition of Done in Agile and Scrum practices, discussing its importance for quality and transparency. While it touches on concepts like risk mitigation and team effectiveness, it does not explicitly address Agentic Agility or the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth in exploring the distinctions between human and AI capabilities, and it does not engage with the core themes of Agentic Agility, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

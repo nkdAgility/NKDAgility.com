@@ -30,6 +30,7 @@ duration: 45
 isShort: true
 tags:
 - Agile Project Management
+- Scrum Master
 - Coaching
 - Software Development
 - Agile Transformation
@@ -38,7 +39,6 @@ tags:
 - Scrum Team
 - Continuous Improvement
 - People and Process
-- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

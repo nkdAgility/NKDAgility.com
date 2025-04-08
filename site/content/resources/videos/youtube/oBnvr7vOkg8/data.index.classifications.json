@@ -511,11 +511,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T03:46:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:07:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the journey to becoming an Agile consultant, focusing on Agile principles and consulting practices, without addressing Test First Development or related testing methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the journey to becoming an Agile consultant, discussing Agile principles and practices in a general context without any specific reference to Test First Development or its core concepts. There are no explicit mentions of success criteria, testing practices, or the importance of testing in the development process, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -853,11 +856,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T03:47:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:07:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the journey to becoming an Agile consultant, with only brief mentions of Scrum and Agile practices without a focus on the Scrum Master role.",
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile consulting and mentions Scrum in passing, but it primarily focuses on the journey to becoming an Agile consultant rather than the specific role and responsibilities of a Scrum Master. While there are references to Scrum practices, the depth of discussion on the Scrum Master's role is limited, making it a secondary focus rather than a primary one.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1581,6 +1587,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on becoming an Agile consultant and discusses Agile methodologies in detail, but it does not explicitly mention or align with the One Engineering System framework. The discussion is centred around personal experiences and insights related to Agile consulting rather than the integration and standardisation of engineering processes as defined by 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:07:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the journey to becoming an Agile consultant, discussing Agile practices and experiences rather than the intentional shaping of outcomes through autonomy and adaptability. While it touches on the importance of context and expertise, it lacks a clear exploration of Agentic Agility principles, such as the distinction between human and AI capabilities or the mechanisms of AI Agentic Agility.",
     "level": "Ignored"
   }
 }

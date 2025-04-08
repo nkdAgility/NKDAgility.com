@@ -544,11 +544,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:16:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses general Agile philosophy without specific reference to the role or responsibilities of a Scrum Master.",
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile practices and their importance in modern product development, which indirectly relates to the role of a Scrum Master. However, it lacks direct mentions of the Scrum Master role and does not delve deeply into the specific responsibilities or techniques associated with it. The focus is more on Agile methodologies in general rather than the Scrum framework specifically.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -988,11 +991,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:16:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses agile philosophy, personal and professional growth, but does not focus on Test First Development or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile practices and their importance in modern product development, without explicitly addressing Test First Development principles or practices. While it touches on concepts like feedback and adaptability, it does not delve into the specifics of defining success criteria or the role of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1575,6 +1581,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Agile practices and their relevance in modern product development, without any direct mention or discussion of the One Engineering System (1ES). While it touches on themes of adaptability and efficiency, it does not align with the core principles of 1ES, such as standardisation and integration of tools and processes across teams. The depth of discussion is also limited to Agile methodologies, which are not the focus of the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:16:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile practices and their importance in modern product development, but it does not explicitly address the concept of Agentic Agility or its key themes. While it touches on adaptability and value delivery, it lacks a focus on intentional shaping of outcomes, the distinction between human and AI capabilities, and the deeper mechanisms of agency. The discussion is primarily centred on Agile methodologies rather than the transformative capacity of individuals and systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

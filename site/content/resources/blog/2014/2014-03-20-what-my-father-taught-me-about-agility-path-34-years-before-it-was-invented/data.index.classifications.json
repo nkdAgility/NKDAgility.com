@@ -1210,11 +1210,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T11:23:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:47:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on Evidence-based Management rather than Test First Development principles and practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Evidence-based Management and its application in organisational practices, with no direct mention of Test First Development principles or practices. While it touches on metrics and value delivery, it does not align with the core themes of Test First Development, such as success criteria, TDD, or ATDD. The discussion lacks depth regarding Test First practices, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1291,12 +1294,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T17:47:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses evidence-based management in the context of Scrum and its application to delivering value in organizations, but it does not primarily focus on the specific role or responsibilities of the Scrum Master.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Evidence-based Management and its relevance to organisational agility, which indirectly relates to the role of a Scrum Master. However, it does not focus specifically on the responsibilities or impact of a Scrum Master within a Scrum Team. While there are mentions of Scrum.org and practices relevant to Scrum, the primary focus is on management practices rather than the Scrum Master's role itself.",
+    "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1582,5 +1588,17 @@
     "final_score": 65.0,
     "reasoning": "The content discusses the importance of Evidence-based Management and its application in improving organisational competence. It highlights the need for continuous learning and skill development, particularly through the assessment of individuals' knowledge and the maturity of practices. The depth of discussion on metrics and the role of evidence in decision-making aligns well with the core themes of competence, although it does not focus exclusively on competence as a primary theme.",
     "level": "Secondary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:47:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Evidence-based Management and its application in organisational agility, which touches on aspects of Agentic Agility, such as intentional shaping of outcomes and the importance of metrics. However, it primarily focuses on management practices rather than explicitly addressing the principles of Agentic Agility or differentiating between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals and systems in a socio-technical context.",
+    "level": "Ignored"
   }
 }

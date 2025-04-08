@@ -1159,11 +1159,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T10:42:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:46:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses primarily on configuring Jenkins and TFS for build processes without discussing Test First Development or related testing practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on configuring Jenkins to integrate with TFS 2013, discussing the technical steps involved in the migration process. While it briefly mentions testing in the context of TFS, it does not delve into Test First Development principles, success criteria, or the importance of testing practices. The discussion lacks depth and does not align with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1243,11 +1246,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T10:42:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:46:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technicalities of configuring Jenkins with TFS, with no mention of Scrum roles, responsibilities, or related Agile practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on configuring Jenkins to integrate with TFS 2013, which is unrelated to the role and responsibilities of a Scrum Master. There are no direct mentions of Scrum practices, the Scrum Master's influence, or any related discussions. The content lacks depth in terms of Scrum principles and does not align with the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1527,6 +1533,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the technical process of configuring Jenkins with TFS, with minimal direct discussion on competence or skill development. While it touches on the need for a smooth transition and mentions the importance of ensuring teams are reassured about TFS's capabilities, it lacks a deeper exploration of continuous learning or professional development, which are core themes of the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:46:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of configuring Jenkins with TFS, lacking any discussion on the intentional shaping of outcomes or the principles of Agentic Agility. It does not differentiate between human and AI capabilities, nor does it explore themes such as accountability, reflection, or the impact on organisational agility.",
     "level": "Ignored"
   }
 }

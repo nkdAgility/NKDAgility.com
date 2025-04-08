@@ -526,11 +526,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T23:26:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:59:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on team dynamics, engagement, and the importance of autonomy, mastery, and purpose in creating great products, without any mention of Test First Development or related testing practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on team dynamics, engagement, and the emotional state of team members rather than discussing Test First Development principles. While it touches on the importance of team autonomy and purpose, it does not explicitly mention success criteria, testing practices, or the role of testing in software development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -874,12 +877,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T23:26:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:59:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses general team engagement and productivity but does not specifically address the role or responsibilities of a Scrum Master.",
-    "level": "Ignored"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of team happiness and engagement, which aligns with the Scrum Master's role in fostering effective teams. However, it lacks direct mentions of the Scrum Master role and does not delve into specific Scrum practices or responsibilities, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1612,5 +1618,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on team happiness and engagement rather than the principles and components of the One Engineering System. While it touches on aspects of team dynamics that could relate to software development, it does not explicitly discuss 1ES or its integration and standardisation of engineering processes.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:59:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of autonomy, mastery, and purpose in fostering engaged teams, which aligns with the principles of Agentic Agility. It explicitly mentions autonomy and decision-making, reflecting the intentional shaping of outcomes. However, it lacks a clear distinction between Human and AI Agentic Agility and does not delve deeply into mechanisms like data-driven decision-making or predictive modelling. Overall, while it touches on key themes, it does not fully explore the category's depth.",
+    "level": "Secondary"
   }
 }

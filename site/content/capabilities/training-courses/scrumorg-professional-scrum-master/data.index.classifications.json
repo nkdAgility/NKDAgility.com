@@ -361,11 +361,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T00:13:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-08T17:35:30",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily focuses on the role and responsibilities of a Scrum Master, including training, skills development, and practical applications within the Scrum framework.",
+    "final_score": 80.0,
+    "reasoning": "The content is primarily focused on the Professional Scrum Master course, which directly addresses the role and responsibilities of a Scrum Master. It discusses key aspects such as facilitating Scrum events, managing the Product Backlog, engaging stakeholders, and fostering a culture of continuous improvement, all of which align closely with the core themes of the Scrum Master category. The depth of discussion is significant, covering various learning objectives and course features that enhance the understanding of the Scrum Master's role. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Agile Planning": {
@@ -397,11 +400,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T00:13:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily focuses on Scrum principles and the role of a Scrum Master, with no clear discussion on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T17:35:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum principles and practices, with no direct mention of Test First Development or its core concepts. While it discusses Agile methodologies and team collaboration, it does not address success criteria, testing practices, or the importance of defining tests before implementation, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the Professional Scrum Master course and Scrum methodologies, which are not directly related to the One Engineering System framework. While there are mentions of team collaboration and productivity, these concepts are framed within the context of Scrum rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:35:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum methodologies and practices, which are related to Agile but do not explicitly discuss Agentic Agility or its core themes. While there are mentions of adaptability and leadership, the content lacks a clear distinction between human and AI capabilities, and does not delve into the intentional shaping of outcomes or the transformative capacity of individuals and systems.",
     "level": "Ignored"
   }
 }

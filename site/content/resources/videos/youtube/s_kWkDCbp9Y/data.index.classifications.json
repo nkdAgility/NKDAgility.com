@@ -493,11 +493,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T02:26:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of an Agile coach and the importance of understanding team context, with no focus on Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T16:21:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the role of Agile coaches and the importance of understanding team context, with no direct mention of Test First Development principles or practices. While it touches on Agile methodologies, it does not delve into testing practices, success criteria, or the specifics of Test First Development, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -829,11 +832,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T02:27:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile coaching without a specific focus on the Scrum Master role or responsibilities.",
+    "calculated_at": "2025-04-08T16:21:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Agile coaching rather than the specific role of a Scrum Master. While it touches on Agile principles and the importance of understanding team context, it does not explicitly discuss the responsibilities or impact of a Scrum Master. The mention of Scrum is minimal and not central to the discussion, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1521,6 +1527,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on Agile coaching and the importance of understanding team context, with no direct mention of the One Engineering System (1ES) framework. While it touches on themes of collaboration and team dynamics, it does not delve into the principles, components, or implementation of 1ES. The discussion is more about Agile practices rather than the integration and standardisation of engineering processes, which is the core of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:21:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of understanding team context and domain knowledge for Agile coaches, which aligns with the concept of adaptability and intentional shaping of outcomes. However, it lacks explicit references to Agentic Agility, and the focus is more on general Agile coaching practices rather than a deep exploration of agency and intentionality in both human and AI contexts.",
     "level": "Ignored"
   }
 }

@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T03:38:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:06:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the benefits and processes of running a Professional Scrum Workshop, with no clear focus on Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the benefits and structure of a Professional Scrum workshop, focusing on Agile principles and team dynamics rather than the specific practices and principles of Test First Development. There are no direct mentions of Test First practices, success criteria, or testing methodologies, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -868,14 +871,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T00:58:38",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "calculated_at": "2025-04-08T17:06:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the benefits of running a Professional Scrum Workshop, which indirectly relates to the role of a Scrum Master by emphasising the importance of Scrum practices and collective learning. However, it lacks a direct focus on the specific responsibilities and skills of a Scrum Master, making it more of a general discussion on Scrum rather than a detailed exploration of the Scrum Master role.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the benefits of an Applying Professional Scrum workshop, which aligns closely with the role of a Scrum Master in facilitating Scrum practices and promoting agile values. It highlights the importance of collective learning, experiential learning, and the introduction of Scrum philosophy, which are key responsibilities of a Scrum Master. However, while the Scrum Master role is implied, it is not the primary focus of the content, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1599,6 +1602,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the benefits and implementation of Professional Scrum workshops, which is a specific agile methodology rather than discussing the One Engineering System framework. While there are mentions of collective learning and improving team effectiveness, these concepts do not directly align with the core principles of 1ES, such as standardising and integrating software development practices across teams. The discussion lacks depth regarding the integration of tools and processes or the impact on software quality and delivery timelines, which are key topics for 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:06:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the benefits of a Professional Scrum Workshop, focusing on collective learning and problem-solving within Agile practices. However, it does not explicitly address the concept of Agentic Agility or differentiate between human and AI capabilities. While there are elements of adaptability and alignment with Agile values, the primary focus remains on Scrum methodology rather than the intentional shaping of outcomes through agency.",
     "level": "Ignored"
   }
 }

@@ -505,11 +505,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T01:44:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-04-08T16:53:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the process of setting a Sprint goal within a Scrum framework, focusing on collaboration and planning rather than the principles of Test First Development. There are no direct mentions of testing practices, success criteria, or the importance of automated testing, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -850,14 +853,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-13T15:41:30",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 30,
+    "calculated_at": "2025-04-08T16:53:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content extensively discusses the process of deciding on a Sprint goal, which is a critical aspect of the Scrum framework. It highlights the collaborative nature of goal-setting involving the Scrum Master, Product Owner, and Development Team, aligning well with the responsibilities of a Scrum Master. The depth of discussion on strategies for success and the importance of teamwork further supports its relevance to the Scrum Master role.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on the process of setting a Sprint goal within a Scrum team, which is a key aspect of Scrum methodology. However, it does not explicitly discuss the role of the Scrum Master or their responsibilities in facilitating this process. While it touches on collaboration and teamwork, which are influenced by the Scrum Master, the discussion lacks depth regarding the Scrum Master's specific contributions and techniques. Therefore, while there is some alignment with the category, it is not the primary focus.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1566,6 +1569,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum practices, specifically on setting Sprint goals, which is not aligned with the One Engineering System framework. While it touches on collaboration and team dynamics, it does not discuss the principles, components, or implementation of 1ES, nor does it provide insights into integrating tools and processes across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:53:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the process of setting a Sprint goal, which does not directly address the concept of Agentic Agility. While there are elements of collaboration and adaptability mentioned, they are framed within the context of Scrum rather than exploring the intentional shaping of outcomes through autonomy and alignment with values. The discussion lacks depth in terms of the principles of Agentic Agility and does not differentiate between human and AI capabilities.",
     "level": "Ignored"
   }
 }

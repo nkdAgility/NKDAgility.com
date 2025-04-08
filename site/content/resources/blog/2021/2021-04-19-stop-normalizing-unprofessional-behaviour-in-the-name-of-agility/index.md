@@ -33,8 +33,8 @@ tags:
 - Agile Product Management
 - Agile Values and Principles
 - Agile Philosophy
+- Scrum Master
 - Agile Transformation
-- Software Developers
 categories:
 - Scrum
 preview: naked-agility-technically-agile-1280×720-19-1-1.jpg

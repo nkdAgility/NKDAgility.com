@@ -187,11 +187,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T14:48:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:00:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product management and the challenges of transitioning to Agile methodologies, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses agile methodologies and the importance of alignment and collaboration within teams, which are relevant to the Scrum Master's role. However, it does not explicitly mention the Scrum Master or delve into specific responsibilities or techniques associated with that role. The focus is more on general product management and agile principles rather than the specific functions of a Scrum Master.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1093,11 +1096,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T14:51:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:00:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses product management and organisational challenges in software development, with no clear focus on Test First Development or related practices.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses agile product management and the importance of alignment and collaboration within teams, but it does not explicitly mention Test First Development or its principles. While there are references to validation and measuring success, which are somewhat related to the concept of success criteria, the overall focus is on broader agile practices rather than the specific methodologies of Test First Development. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1608,6 +1614,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses agile methodologies and product management but does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on themes of collaboration and alignment, which are relevant to 1ES, it lacks a focused discussion on the integration of tools and processes across teams, which is a core aspect of 1ES. The depth of discussion is primarily about agile practices rather than the unified engineering system framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:00:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of alignment, vision, and value in agile product management, which touches on aspects of Agentic Agility. However, it lacks a direct focus on the intentional shaping of outcomes and does not differentiate between human and AI capabilities. The discussion is more about general agile practices rather than a deep exploration of Agentic Agility principles.",
     "level": "Ignored"
   }
 }

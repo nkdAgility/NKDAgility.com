@@ -511,11 +511,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T01:52:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:02:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of visualizing work in a Kanban strategy, with no clear focus on Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Kanban strategy and visualisation of workflows, with no direct mention of Test First Development principles or practices. While it discusses the importance of defining workflows and alignment, it does not address success criteria, testing methodologies, or the role of testing in software development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -865,12 +868,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T01:53:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Kanban strategy and visualization techniques, with only a brief mention of Scrum teams without a focus on the Scrum Master role.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T16:01:59",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of visualization in Agile and Scrum, mentioning the Scrum Master as a facilitator. However, the primary focus is on Kanban strategies rather than the specific responsibilities and impact of the Scrum Master. While there are relevant insights into team alignment and collaboration, the depth of discussion on Scrum Master responsibilities is limited.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1605,6 +1611,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on Kanban and Scrum methodologies, discussing visualization and workflow optimisation without directly addressing the principles or components of the One Engineering System. While there are mentions of team alignment and collaboration, these are not explicitly tied to the 1ES framework, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:01:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on visualising workflows and optimising processes within a Kanban strategy, which does not directly address the concept of Agentic Agility. While it touches on themes of alignment and accountability, it lacks a clear discussion on intentional shaping of outcomes or the distinction between human and AI capabilities in agility. The depth of discussion is limited to practical advice on Kanban without exploring the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

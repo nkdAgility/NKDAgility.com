@@ -202,11 +202,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T15:04:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:33:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and delivery management without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on deployment frequency and software delivery metrics, which are not directly related to the role of a Scrum Master. While it touches on concepts like collaboration and continuous delivery, it lacks explicit discussions about the responsibilities and influence of a Scrum Master. The mention of a 'delivery manager' indicates a focus on roles outside of Scrum, further distancing it from the core themes of the Scrum Master category.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1204,11 +1207,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T15:07:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and continuous delivery, without a clear focus on Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T15:33:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses deployment frequency and its impact on business success, without any explicit mention of Test First Development principles or practices. While it touches on concepts like feedback loops and continuous delivery, these are not directly related to the Test First approach, which focuses on defining success criteria before implementation. The discussion lacks depth in terms of Test First practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1749,6 +1755,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses deployment frequency and its impact on software delivery, which is relevant to the principles of efficiency and collaboration in software development. However, it lacks direct mentions of the One Engineering System framework and does not delve into integration of tools or processes across teams, which are key aspects of 1ES. The focus is more on general software delivery practices rather than the specific integration and standardisation that 1ES promotes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:33:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses deployment frequency and its impact on business success, which touches on aspects of agility but lacks a direct focus on Agentic Agility. While it mentions the importance of learning and adapting, it does not explicitly address the intentional shaping of outcomes or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

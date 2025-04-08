@@ -610,11 +610,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T22:16:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:21:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Sprint Goal and Scrum practices, with no mention of Test First Development or related testing principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concept of the Sprint Goal within the Scrum framework, focusing on team collaboration and project outcomes. It does not address Test First Development principles, success criteria, or testing practices, which are central to the category. The mention of goals and planning is tangential and does not align with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -964,14 +967,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T02:49:52",
+    "calculated_at": "2025-04-08T17:21:47",
     "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
     "final_score": 66.0,
-    "reasoning": "The content discusses the Sprint Goal, which is a crucial aspect of Scrum, but it does not explicitly mention the role of the Scrum Master or their responsibilities. While it aligns with the Scrum framework and touches on team collaboration and focus, it lacks depth in exploring the Scrum Master's role in facilitating these processes. The discussion is primarily centred on the Sprint Goal itself rather than the broader responsibilities of a Scrum Master.",
+    "reasoning": "The content primarily discusses the concept of the Sprint Goal within the Scrum framework, which is a critical aspect of the Scrum Master's role in facilitating team focus and transparency. While it does not explicitly mention the Scrum Master, it aligns well with the responsibilities of the Scrum Master in promoting effective Scrum practices. The depth of discussion on the Sprint Goal's importance and its impact on team dynamics contributes to a strong alignment with the category, though the absence of direct references to the Scrum Master role slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Operational Practices": {
@@ -1584,6 +1587,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the concept of the Sprint Goal within the Scrum framework, which is a specific methodology rather than the broader principles of the One Engineering System. While it touches on team collaboration and focus, it does not address the integration or standardisation of engineering processes across teams, nor does it provide insights into the One Engineering System framework or its implementation. Therefore, the content does not align well with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:21:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concept of the Sprint Goal within Scrum, focusing on team dynamics and project outcomes. While it touches on themes of focus and collaboration, it does not explicitly address Agentic Agility or the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth in exploring the distinctions between human and AI capabilities, and does not engage with the core principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

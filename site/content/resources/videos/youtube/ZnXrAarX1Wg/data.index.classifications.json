@@ -184,11 +184,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T14:39:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:58:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile consulting rather than the specific role and responsibilities of a Scrum Master.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile consulting and the broader role of an Agile Consultant, which includes coaching and mentoring. While it mentions Scrum and touches on aspects relevant to the Scrum Master role, such as facilitating change and encouraging new ways of working, it does not focus specifically on the responsibilities or impact of a Scrum Master. The primary emphasis is on the consultant's role rather than the Scrum Master, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1063,11 +1066,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T14:42:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:58:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of Agile consultants, with no mention of Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the role of Agile consultants and their responsibilities, with no direct mention of Test First Development principles or practices. While it touches on coaching and mentoring within Agile frameworks, it does not address success criteria, testing methodologies, or the importance of testing in the development process, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1566,6 +1572,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Agile consulting and coaching, discussing the roles and responsibilities of Agile consultants rather than the One Engineering System framework. While it touches on themes of organisational change and improvement, it does not explicitly mention or align with the principles of 1ES, nor does it provide depth on integration or standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:58:33",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content discusses the role of Agile consultants and the importance of guiding clients towards new methods, which touches on aspects of agency and intentionality. However, it primarily focuses on coaching and consulting practices without explicitly addressing the principles of Agentic Agility, such as the distinction between human and AI capabilities or the mechanisms of AI Agentic Agility. The discussion lacks depth and does not provide a clear framework or examples related to Agentic Agility.",
     "level": "Ignored"
   }
 }

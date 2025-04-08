@@ -508,11 +508,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T21:41:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:01:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between Agile leadership and traditional management, with no mention of Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the differences between agile leadership and traditional management, with no direct mention of Test First Development principles or practices. While it touches on agile concepts, it does not delve into testing methodologies or the importance of success criteria, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -850,11 +853,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T21:42:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:00:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between Agile leadership and traditional management without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the differences between agile leadership and traditional management, which is tangentially related to the role of a Scrum Master. However, it does not focus specifically on the responsibilities or impact of a Scrum Master within a Scrum Team. While the term 'Scrum Master' is mentioned in the hashtags, the primary focus is on agile leadership rather than the specific duties and influence of a Scrum Master. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1566,6 +1572,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the differences between agile leadership and traditional management, focusing on leadership styles rather than the principles or components of the One Engineering System. There are no direct mentions of 1ES, and the discussion does not align with the core themes of integration, standardisation, or best practices related to 1ES. The depth of discussion is minimal, as it does not provide any detailed insights into the One Engineering System framework or its implementation.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:00:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the differences between agile leaders and traditional managers, highlighting the importance of empowerment and adaptability. However, it does not explicitly mention Agentic Agility or its principles. While there is some alignment with the themes of intentionality and adaptability, the depth of discussion on the specific mechanisms of Agentic Agility, particularly in relation to AI, is lacking. Overall, the focus is more on leadership styles rather than a thorough exploration of Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -556,14 +556,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T14:26:17",
+    "calculated_at": "2025-04-08T17:09:38",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
     "final_score": 57.0,
-    "reasoning": "The content briefly mentions Scrum Masters in the context of training courses aimed at improving their skills, but it lacks a detailed discussion on the specific responsibilities, techniques, or practices of a Scrum Master. While there is some alignment with the category through references to Scrum training and the importance of applying learning in real-world contexts, the overall focus is more on the immersion program and general training rather than the Scrum Master role itself.",
+    "reasoning": "The content briefly mentions Scrum Masters in the context of training courses aimed at improving their skills, but it primarily focuses on the Immersion Program and its benefits. While there is some alignment with the role of a Scrum Master in terms of facilitating learning and improvement, the depth of discussion on the specific responsibilities and impact of a Scrum Master is minimal. Overall, the content does not provide a comprehensive exploration of the Scrum Master role.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -1003,11 +1003,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:22:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:09:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on immersive learning programs and Scrum training, without discussing Test First Development or related principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on an Immersion Program for experiential learning rather than discussing Test First Development principles. While it touches on aspects of learning and collaboration, it does not explicitly mention success criteria, testing practices, or the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1584,6 +1587,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on an Immersion Program for experiential learning and does not explicitly discuss the One Engineering System or its principles. While there are elements of collaboration and practical application, these are not framed within the context of 1ES. The discussion lacks depth regarding integration of tools and processes, best practices, or challenges related to a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:09:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses an Immersion Program that enhances learning through real-world application and retrospectives, which aligns with the principles of Agentic Agility. However, it lacks explicit mentions of the concept and does not differentiate between human and AI capabilities. The focus is more on learning methodologies rather than the intentional shaping of outcomes, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

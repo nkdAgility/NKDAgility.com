@@ -1150,11 +1150,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T22:28:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:38:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Build vNext capabilities and demands system, with no focus on Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the Build vNext capabilities and demands system in TFS 2015, focusing on build processes and agent configurations. There is no explicit mention of Test First Development principles, success criteria, or testing practices. The discussion lacks alignment with the core themes of Test First Development, and the depth of discussion on related topics is minimal, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1237,11 +1240,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T22:28:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:38:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical features of the Build vNext system and does not relate to the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the Build vNext capabilities and demands system in TFS 2015, focusing on technical aspects of build processes rather than any Scrum Master responsibilities or related topics. There are no direct mentions of Scrum, Scrum Masters, or agile principles, and the discussion lacks depth in relation to the role of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1530,6 +1536,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on the Build vNext capabilities and demands system in TFS 2015, discussing specific features and functionalities without addressing the broader principles or integration aspects of the One Engineering System. While it touches on build processes, it does not align with the core themes of standardisation, integration, or best practices related to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:38:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the technical features of the Build vNext system in TFS 2015, focusing on capabilities and demands without addressing the intentional shaping of outcomes, agency, or the principles of Agentic Agility. There are no explicit mentions of human or AI agency, intent, or adaptability, which are central to the category.",
     "level": "Ignored"
   }
 }

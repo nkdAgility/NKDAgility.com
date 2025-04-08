@@ -523,11 +523,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T08:35:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:13:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses agile consulting outcomes and organisational agility, with no focus on Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses agile consulting and organisational agility without any direct mention or focus on Test First Development principles. While it touches on adaptability and responsiveness, it does not address success criteria, testing practices, or the specific methodologies associated with Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -871,11 +874,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T08:36:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:13:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile consulting outcomes and general agility rather than focusing specifically on the role and responsibilities of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile consulting and the transformation of organisations towards agility, which indirectly relates to the role of a Scrum Master. However, it does not explicitly focus on the responsibilities or skills of a Scrum Master, nor does it provide in-depth discussion on Scrum practices. The mention of Scrum is limited and serves more as a backdrop to the broader topic of agility rather than a primary focus.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1596,6 +1602,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses agile consulting and its outcomes, focusing on adaptability and responsiveness within organisations. While it touches on themes of organisational structure and agility, it does not explicitly mention or align with the principles of the One Engineering System framework, nor does it provide depth on integration or standardisation of engineering processes. The discussion is more about agile methodologies rather than the specific integration and standardisation that 1ES promotes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:13:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of adaptability and responsiveness in organisations, which aligns with the principles of Agentic Agility. However, it primarily focuses on general agile consulting outcomes rather than explicitly addressing the intentional shaping of outcomes or differentiating between human and AI capabilities. The depth of discussion on the specific mechanisms of Agentic Agility is limited, leading to a moderate confidence score.",
     "level": "Ignored"
   }
 }

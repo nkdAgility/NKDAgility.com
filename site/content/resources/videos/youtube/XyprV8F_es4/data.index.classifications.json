@@ -1222,11 +1222,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-20T19:43:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses the role of leadership in general, focusing on organizational change and continuous delivery, without a clear focus on the specific responsibilities or practices of a Scrum Master.",
+    "calculated_at": "2025-04-08T15:31:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses leadership and organisational change, which are relevant to the Scrum Master's role, but it does not explicitly mention the Scrum Master or delve into specific Scrum practices. The focus is more on general leadership principles rather than the specific responsibilities and techniques of a Scrum Master.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1375,11 +1378,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-20T19:43:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses leadership in continuous delivery and organizational change, without mentioning Test First Development or related practices.",
+    "calculated_at": "2025-04-08T15:31:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses leadership and cultural change in agile environments but does not explicitly mention Test First Development or its principles. While it touches on automation and continuous delivery, these topics are not directly tied to the Test First approach. The focus is more on leadership strategies rather than the specifics of testing practices, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1470,6 +1476,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses leadership and cultural change in the context of agile practices, which is somewhat related to the principles of the One Engineering System. However, it lacks direct mentions of 1ES and does not delve into the specific components or best practices of the framework. The focus is more on general leadership strategies rather than the integration and standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:31:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses leadership in the context of driving cultural change and fostering collaboration, which touches on aspects of autonomy and purpose. However, it lacks a direct focus on Agentic Agility as defined, particularly in terms of intentional shaping of outcomes and the distinction between human and AI capabilities. The discussion is more about general agile practices and leadership strategies rather than a deep exploration of Agentic Agility principles.",
     "level": "Ignored"
   }
 }

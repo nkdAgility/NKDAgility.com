@@ -361,11 +361,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T07:21:01",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-08T17:16:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content focuses on facilitation skills within Scrum, which is a significant aspect of the Scrum Master's responsibilities. However, it mainly emphasizes skills for Scrum Teams rather than strictly isolating the role of the Scrum Master.",
+    "final_score": 71.0,
+    "reasoning": "The content focuses on enhancing facilitation skills specifically for Scrum Teams, which aligns closely with the responsibilities of a Scrum Master. It discusses the importance of effective facilitation in overcoming team challenges and fostering Scrum values, indicating a strong conceptual alignment with the role. The depth of discussion is significant, as it outlines specific techniques and scenarios relevant to Scrum, although it does not delve deeply into the broader impact of the Scrum Master on organisational change or team dynamics.",
     "level": "Secondary"
   },
   "Agile Planning": {
@@ -397,11 +400,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T07:21:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:16:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on facilitation skills within Scrum, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on facilitation skills within Scrum teams, which does not directly address Test First Development principles. While it mentions improving team interactions and problem-solving, it lacks explicit discussions on success criteria, testing practices, or the role of automated testing, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum facilitation skills and does not directly discuss the One Engineering System framework or its principles. While it mentions team interactions and agile practices, these are not aligned with the core themes of 1ES, which emphasises standardisation and integration across engineering processes. The discussion lacks depth regarding 1ES, making it a secondary topic at best.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:16:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum facilitation skills and does not explicitly discuss Agentic Agility. While it touches on themes of self-management and effective team interactions, it lacks a clear connection to the intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion is more about facilitation techniques rather than the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

@@ -526,11 +526,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T23:46:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:59:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses training methodologies and immersive learning in Scrum, with no clear focus on Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses immersive learning in Scrum training, focusing on the evolution of training methods rather than the principles of Test First Development. While it touches on concepts like iterative processes and feedback loops, these are not explicitly linked to Test First practices or methodologies. The discussion lacks depth in relation to success criteria, automated testing, or the specific practices of Test-Driven Development (TDD) and Acceptance Test-Driven Development (ATDD). Overall, the content does not align closely with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -874,14 +877,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T19:04:19",
+    "calculated_at": "2025-04-08T15:59:46",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
     "final_score": 71.0,
-    "reasoning": "The content discusses the evolution of training methods in Scrum, focusing on immersive learning and its benefits for teams. While it mentions Scrum principles and practices, the primary focus is on training formats rather than the specific role and responsibilities of a Scrum Master. The connection to Scrum Master duties is present but not deeply explored, leading to a moderate confidence score.",
+    "reasoning": "The content discusses the evolution of training in Scrum, focusing on immersive learning and its benefits for Agile practitioners. While it mentions Scrum principles and the importance of applying knowledge in real-world settings, it does not explicitly address the role of the Scrum Master or their responsibilities. The discussion is more centred on training methodologies rather than the Scrum Master's influence on team dynamics or organisational change, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1611,6 +1614,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on immersive learning in Scrum training, discussing the limitations of traditional training methods and the benefits of a new approach. While it touches on Agile principles, it does not explicitly address the One Engineering System framework, its components, or its implementation. The discussion is more about training methodologies rather than the integration and standardisation of engineering processes, which is the core of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:59:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses immersive learning in the context of Agile and Scrum training, focusing on practical application and iterative processes. However, it lacks explicit references to Agentic Agility, such as intentional shaping of outcomes or the distinction between human and AI capabilities. While it touches on themes of adaptability and continuous learning, it does not delve deeply into the principles of Agentic Agility or provide a clear framework for understanding agency in this context.",
     "level": "Ignored"
   }
 }

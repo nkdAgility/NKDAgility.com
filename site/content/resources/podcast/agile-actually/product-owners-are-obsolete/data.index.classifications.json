@@ -535,11 +535,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:02:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of Product Owner, without a substantial focus on the Scrum Master role or responsibilities.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the role of product owners and their relationship with product managers, with only a brief mention of Scrum. While it touches on agile principles, it does not focus on the responsibilities or impact of the Scrum Master, nor does it explore the core themes associated with the Scrum Master role. The discussion lacks depth regarding the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -952,11 +955,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:02:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the roles of product owners and product managers without any mention of Test First Development, TDD, or related testing practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the roles of product owners and product managers within an Agile context, without any direct reference to Test First Development principles or practices. While it touches on Agile methodologies, it does not address success criteria, testing practices, or the importance of testing in the development process, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1521,6 +1527,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the roles of product owners and product managers within the context of Agile and Scrum methodologies. It does not address the principles or components of the One Engineering System framework, nor does it explore integration of tools and processes across teams, which are key topics for the 1ES category. The focus is on a specific debate rather than the broader themes of standardisation and integration in software development.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:02:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the roles of product owners and product managers within Agile frameworks, without addressing the intentional shaping of outcomes or the principles of Agentic Agility. It lacks a focus on autonomy, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

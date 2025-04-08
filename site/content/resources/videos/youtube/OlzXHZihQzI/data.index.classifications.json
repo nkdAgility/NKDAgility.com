@@ -1363,11 +1363,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:06:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on immersive learning and adapting mental models in Agile, without mention of Test First Development or its principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on immersive learning in Agile practices, discussing how it transforms Scrum training and enhances understanding of Agile principles. There are no direct mentions of Test First Development, nor does it align with its core themes such as success criteria, TDD, or ATDD. The discussion lacks depth regarding Test First practices, making it clear that the content does not fit within the specified category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1435,12 +1438,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not specifically focus on the role of the Scrum Master or its responsibilities; it discusses agile practices in a general manner.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T16:06:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses immersive learning in the context of Agile training, which is relevant to Scrum Masters as they facilitate Agile practices. However, while it mentions the role of Scrum Masters and provides practical tips for them, the primary focus is on immersive learning rather than the Scrum Master role itself. The discussion lacks depth on the specific responsibilities and impact of the Scrum Master, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1596,6 +1602,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on immersive learning within Agile practices, specifically Scrum, and does not discuss the One Engineering System framework or its principles. While it touches on Agile transformation, it lacks direct relevance to the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:06:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses immersive learning in Agile contexts, focusing on how it helps students internalise Agile principles and adapt their mental models. However, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. While there are elements of adaptability and intentional shaping of outcomes, the primary focus is on immersive learning rather than the broader concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

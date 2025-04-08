@@ -523,11 +523,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T03:54:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:11:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum and its role in product development, without a focus on Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum as a product development framework and its role in market value and customer retention. While it touches on concepts like feedback loops and execution, it does not explicitly mention Test First Development principles, success criteria, or testing practices. The focus is more on Scrum's operational aspects rather than the Test First approach, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -874,15 +877,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T01:38:40",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-04-08T17:11:24",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses Scrum as a framework and its implications for product development, but it does not focus specifically on the role of the Scrum Master. While it touches on aspects of team dynamics and execution, it lacks detailed exploration of the Scrum Master's responsibilities, coaching techniques, or specific Scrum ceremonies. The primary focus is on product development and market value rather than the Scrum Master role itself.",
-    "level": "Ignored"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Scrum in the context of product development and customer acquisition, touching on the role of Scrum in facilitating team effectiveness and transparency. However, it does not explicitly focus on the Scrum Master role or its specific responsibilities, which limits its alignment with the category. While it mentions aspects of Scrum that relate to the Scrum Master's influence on team dynamics and execution, the primary focus is on product development rather than the Scrum Master as a change agent.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1596,6 +1599,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses Scrum as a product development framework, focusing on its role in enhancing customer acquisition and retention. While it touches on some aspects of team collaboration and execution, it does not explicitly address the principles or components of the One Engineering System (1ES) framework. The discussion lacks depth regarding integration of tools and processes across teams, best practices for implementing 1ES, or the impact of 1ES on software quality and delivery timelines. Overall, the content is more aligned with Scrum methodology rather than the unified engineering processes that 1ES promotes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:11:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum as a product development framework and its role in enhancing customer acquisition and retention. While it touches on themes of autonomy and the need for proactive engagement from teams, it does not explicitly address Agentic Agility or its principles. The focus is more on Scrum processes rather than the intentional shaping of outcomes through agency, adaptability, and alignment with values, which are central to Agentic Agility.",
     "level": "Ignored"
   }
 }

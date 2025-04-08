@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T10:45:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:50:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses evidence-based management and its implications in Agile, without any focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and its role in decision-making, with no direct mention of Test First Development principles or practices. While it touches on the importance of defining outcomes and using metrics, it does not align with the core themes of Test First Development, such as Test-Driven Development (TDD) or the role of success criteria in guiding design and implementation.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -865,11 +868,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T10:46:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses evidence-based management and metrics without a clear focus on the Scrum Master role or responsibilities.",
+    "calculated_at": "2025-04-08T15:50:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in decision-making, which is relevant to Scrum principles. However, it does not explicitly focus on the Scrum Master role or its responsibilities. While there are mentions of team dynamics and metrics that could relate to a Scrum Master's influence, the primary focus is on EBM rather than the Scrum Master specifically.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1614,6 +1620,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Evidence-Based Management (EBM) and its application in decision-making processes, which does not directly relate to the One Engineering System (1ES). While there are mentions of metrics and data-driven decision-making, these concepts are not aligned with the core principles of 1ES, such as standardising and integrating software development practices across teams. The discussion lacks depth regarding the integration of tools and processes or the impact of a unified engineering system, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:50:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in informing decision-making, which aligns with the concept of using data to shape outcomes. However, it lacks a direct focus on Agentic Agility as defined, particularly in terms of the intentional shaping of outcomes through autonomy and adaptability. While it touches on the importance of metrics and their influence on behaviour, it does not sufficiently differentiate between human and AI capabilities or delve deeply into the transformative capacity of individuals and systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

@@ -526,11 +526,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T20:31:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:18:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of a Scrum Master, with no focus on Test First Development or related testing practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of a Scrum Master, with only a brief mention of Agile techniques like ATDD and TDD. However, it does not delve into Test First Development principles or practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -856,14 +859,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-13T15:48:56",
+    "calculated_at": "2025-04-08T17:18:44",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
-    "ai_alignment": 36,
-    "ai_depth": 32,
+    "ai_alignment": 92.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
     "final_score": 80.0,
-    "reasoning": "The content primarily focuses on the role of a Scrum Master, detailing responsibilities, skills, and attributes necessary for the position. It discusses the importance of the Scrum Master in facilitating Scrum processes and coaching teams, aligning well with the key topics outlined in the category. The depth of discussion is significant, providing a comprehensive job specification that includes specific responsibilities and requirements for the role, which enhances the overall confidence score.",
+    "reasoning": "The content primarily focuses on the role of the Scrum Master, detailing responsibilities, skills, and the importance of the position within a Scrum Team. It discusses the need for technical and business knowledge, coaching, and leadership skills, aligning closely with the core themes of the category. The depth of discussion is substantial, providing a comprehensive job specification and insights into the qualities required for a successful Scrum Master.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1593,6 +1596,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the role and responsibilities of a Scrum Master, which is a specific role within the Scrum framework. While it touches on aspects of team effectiveness and collaboration, it does not discuss the One Engineering System (1ES) framework, its principles, or its integration across teams. The content lacks a direct mention of 1ES and does not provide depth on standardising or integrating software development practices, which are core to the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:18:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of a Scrum Master, discussing skills and qualifications necessary for hiring. While it touches on leadership and accountability, it does not explicitly address the concept of Agentic Agility or its principles. The discussion lacks depth in exploring the intentional shaping of outcomes or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

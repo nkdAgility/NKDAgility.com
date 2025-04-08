@@ -508,11 +508,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:22:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:25:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum roles, responsibilities, or practices; it is unrelated to the Scrum Master role.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on DevOps and its role in enterprise transformation, with no direct mention of the Scrum Master role or its responsibilities. While it touches on themes of collaboration and continuous improvement, which are relevant to Scrum, it does not specifically address the Scrum Master's influence or techniques within a Scrum context. Therefore, the alignment with the Scrum Master category is minimal.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -913,11 +916,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:22:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Test First Development or related topics; it only provides a link to a video about enterprise evolution.",
+    "calculated_at": "2025-04-08T17:25:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses DevOps and its impact on enterprise transformation, focusing on collaboration, continuous improvement, and automation. There are no direct mentions of Test First Development principles, success criteria, or testing practices. The alignment with the category is minimal, as the content does not delve into the specifics of Test First Development or its methodologies.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1464,6 +1470,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses DevOps and its role in enterprise transformation, which is not directly related to the One Engineering System (1ES). While it touches on themes of collaboration and continuous improvement, it lacks explicit references to the principles or components of 1ES. The discussion is more focused on DevOps practices rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:25:25",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses DevOps and its role in enterprise transformation, focusing on collaboration, continuous improvement, and customer-centric approaches. However, it does not explicitly mention Agentic Agility or its principles, nor does it differentiate between human and AI capabilities in the context of agility. The discussion is more aligned with general Agile practices rather than the intentional shaping of outcomes that characterises Agentic Agility.",
     "level": "Ignored"
   }
 }

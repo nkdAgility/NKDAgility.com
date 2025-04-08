@@ -30,12 +30,12 @@ tags:
 - Agile Project Management
 - Scrum Team
 - Product Delivery
+- Scrum Master
 - Scrum Product Development
 - Value Delivery
 - Agile Product Management
 - Organisational Agility
 - Working Software
-- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

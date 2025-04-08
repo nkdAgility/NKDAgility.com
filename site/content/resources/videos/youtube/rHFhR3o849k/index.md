@@ -27,8 +27,8 @@ preview: https://i.ytimg.com/vi/rHFhR3o849k/maxresdefault.jpg
 duration: 237
 isShort: false
 tags:
-- Scrum Team
 - Scrum Master
+- Scrum Team
 - People and Process
 - Agile Project Management
 - Sociotechnical Systems

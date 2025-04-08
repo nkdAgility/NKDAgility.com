@@ -1198,11 +1198,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T11:49:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:50:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses ALM consulting and related services, without focusing on Test First Development or its principles.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on ALM consulting and related services, with only a brief mention of testing in the context of Deployment Planning Services. It does not discuss Test First Development principles, success criteria, or practices like TDD or ATDD, which are central to the category. The overall emphasis is on consulting and training rather than on the Test First approach.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1285,11 +1288,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T11:49:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:50:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses application lifecycle management (ALM) consulting and various training aspects without a clear and focused discussion on the role and responsibilities specific to Scrum Masters.",
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Scrum in the context of ALM consulting but does not focus on the role or responsibilities of a Scrum Master. While there are references to training and coaching in a Scrum context, the primary emphasis is on ALM processes and tools rather than the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1582,5 +1588,17 @@
     "final_score": 65.0,
     "reasoning": "The content discusses various aspects of ALM consulting, including training and coaching, which directly relate to the development of competence in software development processes. It highlights the importance of skill development and the role of training in improving software practices, aligning well with the core themes of competence. However, while it provides substantial detail on the services offered, it lacks a deeper exploration of the underlying principles of competence, such as continuous learning and the distinction between performative activity and genuine progress.",
     "level": "Secondary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:50:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on ALM consulting and training, discussing various aspects of software development processes without explicitly addressing the concept of Agentic Agility. While there are mentions of improving processes and training, the discussion lacks a clear connection to the intentional shaping of outcomes, autonomy, or the interplay between human and AI capabilities in agility. The content does not delve into the principles or mechanisms of Agentic Agility, resulting in a low confidence score.",
+    "level": "Ignored"
   }
 }

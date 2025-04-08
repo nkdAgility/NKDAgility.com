@@ -469,11 +469,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T21:18:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:43:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not discuss Test First Development or related principles; it is vague and lacks relevant information.",
+    "final_score": 6.0,
+    "reasoning": "The content does not mention Test First Development or any related concepts. It lacks any discussion of success criteria, testing practices, or the principles of Test First Development, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -790,11 +793,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T21:19:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:43:37",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not mention Scrum or the role of a Scrum Master; it is unrelated to the category.",
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention the Scrum Master role or its responsibilities. It lacks any discussion of Scrum principles, techniques, or the impact of a Scrum Master on team dynamics or organisational change. The title 'First Principles Thinking' suggests a focus on a different topic, and the description indicates that the content is not yet available, providing no relevant information related to the Scrum Master category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1461,6 +1467,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content does not mention the One Engineering System or any related concepts. It is a brief announcement with no discussion on engineering practices, integration, or standardisation, which are core to the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:43:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content does not explicitly mention Agentic Agility or any related concepts. It lacks any discussion on autonomy, adaptability, or intentional shaping of outcomes, which are central to the category. The brief and vague nature of the content does not provide any depth or alignment with the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

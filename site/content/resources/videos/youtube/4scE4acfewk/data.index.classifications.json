@@ -526,11 +526,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T11:05:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:15:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the virtue of humility in Agile practices, with no clear focus on Test First Development or related testing methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of humility in Agile practices, focusing on collaboration and trust rather than the principles of Test First Development. There are no direct mentions of Test First practices, success criteria, or testing methodologies, which are central to the category. While there is a brief mention of feedback loops, it does not specifically relate to Test First Development, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -871,11 +874,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T11:06:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:15:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Agile virtues, particularly humility, but does not focus specifically on the role or responsibilities of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of humility in Agile teams, which is relevant to the Scrum Master role, but it primarily focuses on general Agile principles rather than the specific responsibilities and impact of a Scrum Master. While it touches on collaboration and feedback, it does not delve into the distinct role of a Scrum Master or their influence on team dynamics and organisational change.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1602,6 +1608,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the concept of humility within Agile practices, discussing its importance for collaboration and team dynamics. While it touches on themes relevant to software development, it does not explicitly mention or align with the principles of the One Engineering System framework, nor does it provide depth on integration or standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:15:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses humility as a virtue in Agile practices, focusing on collaboration and decision-making. However, it does not explicitly address Agentic Agility or its key topics, such as the intentional shaping of outcomes or the distinction between human and AI capabilities. While there are elements of adaptability and reflection, the primary focus remains on humility rather than the broader concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

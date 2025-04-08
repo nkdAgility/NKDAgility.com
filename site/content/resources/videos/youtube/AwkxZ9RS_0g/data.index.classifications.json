@@ -511,11 +511,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T09:28:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:49:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses consulting and training experiences without any mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the relationship between consulting experience and training in Agile and Scrum, with no direct mention of Test First Development principles or practices. While it touches on Agile concepts, it does not delve into the specifics of Test First Development, such as success criteria, TDD, or the impact on collaboration. Therefore, the confidence score reflects a minimal connection to the category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -853,11 +856,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T09:29:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:49:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses consulting and training experiences without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile and Scrum training but primarily focuses on the trainer's consulting experience rather than the specific role and responsibilities of a Scrum Master. While it touches on the importance of real-world application of Agile principles, it lacks a detailed exploration of the Scrum Master's role, techniques, or impact on team dynamics, which are central to the category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1587,6 +1593,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the author's personal experiences in consulting and training related to Agile and Scrum, without any explicit discussion of the One Engineering System framework or its principles. While it touches on Agile methodologies, it does not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The depth of discussion is limited to personal anecdotes and does not provide substantial insights into the implementation or impact of a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:49:25",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the author's consulting experience and its impact on training in Agile and Scrum, but it does not explicitly address the concept of Agentic Agility. While there are mentions of real-world applications and the importance of situational experience, the focus remains on training methodologies rather than the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth in exploring the principles of Agentic Agility or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

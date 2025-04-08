@@ -505,11 +505,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T04:05:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:55:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Sprint planning and Agile methodologies without any mention of Test First Development or related testing practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on sprint planning within the Scrum framework, discussing its importance and strategies. It does not mention Test First Development or its principles, nor does it explore topics related to success criteria, testing practices, or the role of testing in development. The discussion is centred around planning and alignment rather than testing methodologies.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -859,15 +862,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T15:28:38",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 25,
+    "calculated_at": "2025-04-08T16:55:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content primarily focuses on the Sprint Planning ceremony, which is a key responsibility of the Scrum Master. It discusses the importance of alignment, understanding, and the decision-making process involved in Sprint Planning, which aligns well with the core themes of the Scrum Master role. However, while it touches on the Scrum framework, it lacks a broader discussion on the Scrum Master's responsibilities, coaching techniques, and team dynamics, which slightly limits its depth. Overall, it provides a solid overview of Sprint Planning but does not fully explore the Scrum Master’s role in facilitating this process.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on sprint planning, a key event in the Scrum framework, which is relevant to the role of a Scrum Master. However, it does not explicitly discuss the responsibilities or influence of the Scrum Master, nor does it delve deeply into coaching or facilitation techniques. While it aligns with the Scrum framework, the discussion is more about the process than the role of the Scrum Master, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1569,6 +1572,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on sprint planning within the Scrum framework, discussing its importance and strategies. It does not mention the One Engineering System (1ES) or its principles, components, or implementation. The discussion is centred around Scrum and Kanban, which are unrelated to the core themes of 1ES, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:55:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on sprint planning within Scrum, discussing its processes and importance. While it touches on concepts like alignment and decision-making, it does not explicitly address Agentic Agility or its principles. The discussion lacks depth regarding the intentional shaping of outcomes and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

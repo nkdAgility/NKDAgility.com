@@ -181,11 +181,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:35:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:23:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses team alignment and chaos in Agile practices, with no focus on Test First Development or its principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses alignment and collaboration within Agile teams, focusing on the importance of clear goals and communication. It does not explicitly mention Test First Development or its principles, nor does it delve into testing practices, automated testing, or success criteria related to software delivery. Therefore, the content does not align well with the category.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -628,11 +631,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:35:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:23:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses general issues related to Agile teams without specifically focusing on the role or responsibilities of a Scrum Master.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of alignment and collaboration in Agile teams, which is relevant to the Scrum Master's role. However, it does not explicitly mention the Scrum Master or delve deeply into their specific responsibilities, techniques, or influence on team dynamics. The focus is more on general Agile practices rather than the distinct role of a Scrum Master.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -1563,6 +1569,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Agile methodologies and the importance of alignment within teams, which is somewhat related to the principles of collaboration and efficiency. However, it does not explicitly mention the One Engineering System (1ES) or its components, nor does it delve into the integration of tools and processes across teams, which are key aspects of 1ES. The focus remains on Agile practices rather than the standardisation and unification that 1ES aims to achieve.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:23:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of alignment and shared goals in Agile teams, which touches on aspects of intentionality and adaptability. However, it lacks explicit references to Agentic Agility, such as the distinction between human and AI capabilities or the mechanisms of AI Agentic Agility. The focus is more on general Agile practices rather than a deep exploration of the transformative capacity of individuals and systems in shaping outcomes.",
     "level": "Ignored"
   }
 }

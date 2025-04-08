@@ -1207,11 +1207,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T00:15:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:42:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on organisational change rather than Test First Development principles.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Scrum and organisational change rather than Test First Development principles. While it touches on agile transformation, it does not explicitly mention success criteria, testing practices, or the importance of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1291,15 +1294,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T04:17:31",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "calculated_at": "2025-04-08T17:42:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the Scrum at Scale Workshop and its relevance to organisational change, which indirectly relates to the role of a Scrum Master. However, it lacks direct mentions of Scrum Master responsibilities or practices, focusing more on scaling agility and organisational culture. The alignment with Scrum Master themes is present but not strong, and the depth of discussion on the specific role of a Scrum Master is minimal.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the Scrum at Scale Workshop, which is relevant to the role of a Scrum Master in facilitating organisational change and promoting agile principles. It mentions the importance of culture and change management, which are key responsibilities of a Scrum Master. However, while it touches on these themes, it does not delve deeply into the specific responsibilities or techniques of a Scrum Master, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1582,5 +1585,17 @@
     "final_score": 56.0,
     "reasoning": "The content discusses the Scrum at Scale Workshop and its role in driving agile transformation, which indirectly relates to competence through the emphasis on organisational change and culture. However, while it mentions the need for commitment to change and the importance of assessing maturity, it does not explicitly focus on continuous learning or skill development as core themes of competence. The depth of discussion on competence-related topics is moderate, but the primary focus remains on the workshop and its benefits rather than a thorough exploration of competence itself.",
     "level": "Tertiary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:42:18",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses Scrum practices and the Scrum at Scale Workshop, focusing on organisational change and culture. While it touches on themes of agility and transformation, it lacks a direct discussion of Agentic Agility principles, such as intentional shaping of outcomes or the distinction between human and AI capabilities. The mention of organisational culture and change is relevant but does not delve into the core aspects of Agentic Agility, resulting in a low confidence score.",
+    "level": "Ignored"
   }
 }

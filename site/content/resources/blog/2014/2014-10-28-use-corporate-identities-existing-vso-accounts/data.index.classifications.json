@@ -1117,11 +1117,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T00:07:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:42:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Active Directory integration and account management, with no mention of Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses configuring Active Directory and Single Sign-On (SSO) for Visual Studio Online (VSO) accounts, with no direct mention or alignment to Test First Development principles. It lacks any discussion on success criteria, testing practices, or the impact of testing on collaboration, which are core to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1204,11 +1207,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T00:07:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:42:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical aspects of configuring ADFS and VSO accounts, with no direct mention of Scrum Master responsibilities or related topics. It lacks alignment with the core themes of the Scrum Master role, such as team dynamics, coaching, or agile principles. The depth of discussion is focused on technical configuration rather than any Scrum-related content.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1491,6 +1497,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on configuring ADFS for SSO with VSO accounts, which does not directly discuss the One Engineering System framework or its principles. While it touches on integration of tools (like ADFS and VSO), it lacks a comprehensive exploration of 1ES concepts, best practices, or challenges related to a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:41:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on configuring ADFS for SSO with VSO accounts, which does not align with the principles of Agentic Agility. While there are mentions of user identity management and account linking, these discussions do not intentionally shape outcomes through autonomy or adaptability, nor do they explore the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }
 }

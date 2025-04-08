@@ -523,11 +523,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T07:09:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:41:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the competence crisis in Scrum Master roles and the need for understanding Agile practices, but does not address Test First Development or related testing methodologies.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the competence crisis in Scrum Master roles and does not directly address Test First Development principles. While it touches on Agile practices, it lacks explicit references to success criteria, testing methodologies, or the importance of testing in the development process, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -871,14 +874,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T11:13:24",
+    "calculated_at": "2025-04-08T15:41:34",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
-    "ai_alignment": 36,
-    "ai_depth": 40,
+    "ai_alignment": 38,
+    "ai_depth": 36,
     "non_ai_confidence": 20,
     "final_score": 85.0,
-    "reasoning": "The content extensively discusses the role, responsibilities, and competencies required of Scrum Masters, highlighting the importance of understanding team dynamics and Agile principles. It provides detailed insights into the challenges faced by Scrum Masters and the skills necessary for effective performance, aligning closely with the key topics outlined for the category.",
+    "reasoning": "The content extensively discusses the role, responsibilities, and challenges faced by Scrum Masters, highlighting the importance of competence and continuous learning. It aligns well with the key topics of the category, such as the Scrum Master's influence on team dynamics and organisational change. The depth of discussion is significant, providing detailed insights into the skills required for effective Scrum Masters and the impact of their competence on agile practices.",
     "level": "Primary"
   },
   "Large Scale Agility": {
@@ -1626,6 +1629,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses the challenges and competencies required for Scrum Masters, focusing on Agile practices rather than the One Engineering System framework. While it touches on aspects of team dynamics and roles, it does not explicitly mention or align with the principles of 1ES, nor does it provide depth on integration or standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:41:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the competence crisis in Scrum Master roles and the need for skills and experience in Agile practices. While it touches on the importance of understanding context and the role of Scrum Masters in facilitating change, it does not explicitly address the concept of Agentic Agility or the intentional shaping of outcomes. The focus is more on the challenges and requirements of Scrum Masters rather than on the principles of agency and adaptability in a socio-technical environment.",
     "level": "Ignored"
   }
 }

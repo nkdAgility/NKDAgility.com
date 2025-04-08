@@ -382,11 +382,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T18:38:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:36:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the role of the Product Owner rather than the Scrum Master, making it not relevant enough for classification.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner rather than the Scrum Master. While it touches on agile principles and the importance of effective management within a Scrum context, it does not explicitly discuss the responsibilities or impact of the Scrum Master. The discussion is more aligned with product management than with the facilitation and coaching aspects of the Scrum Master role.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -418,11 +421,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T18:38:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses product management and the role of the product owner, with no mention of Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:36:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product ownership and management within agile teams, discussing the importance of vision, stakeholder engagement, and prioritisation. It does not explicitly mention Test First Development or its principles, nor does it delve into testing practices, automated testing, or success criteria that guide design and implementation. The discussion is centred around the role of a product owner rather than the Test First Development methodology.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1530,6 +1536,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on product ownership and management within agile teams, which does not directly address the principles or components of the One Engineering System. While it touches on collaboration and effective practices, it lacks explicit discussion of 1ES, its integration, or its impact on software quality and delivery timelines.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:36:25",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on product management and the role of a product owner within Agile teams. While it touches on aspects of autonomy and decision-making, it does not explicitly discuss Agentic Agility or its principles. The discussion lacks depth regarding the intentional shaping of outcomes and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

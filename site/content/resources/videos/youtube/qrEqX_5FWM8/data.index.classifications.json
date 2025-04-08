@@ -394,12 +394,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T22:36:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses immersive learning techniques and their application in Agile training, without a clear focus on the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T16:52:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses immersive learning techniques in Agile and Scrum contexts, which indirectly relates to the role of a Scrum Master. However, it does not explicitly focus on the responsibilities or impact of a Scrum Master, nor does it delve deeply into the core themes of the category. While it mentions Scrum in the context of training, the primary focus is on learning methodologies rather than the Scrum Master's role.",
+    "level": "Tertiary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -436,11 +439,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T22:36:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning in Agile training, with no clear focus on Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T16:52:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses immersive learning techniques in Agile training, with no direct mention of Test First Development principles or practices. While it touches on concepts like feedback loops and real-world applications, these are not specifically tied to Test First Development, which focuses on defining success criteria and testing methodologies. The overall emphasis is on learning and collaboration rather than the specific practices of Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1587,6 +1593,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on immersive learning techniques within Agile and Scrum training, which does not directly address the principles or components of the One Engineering System. While it touches on collaboration and real-world applications, it lacks a clear discussion on the integration and standardisation of engineering processes, which are central to 1ES. Therefore, the confidence score reflects minimal relevance to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:52:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses immersive learning in Agile training, which touches on the application of knowledge and real-world relevance. However, it lacks explicit references to Agentic Agility, such as intentional shaping of outcomes or the distinction between human and AI capabilities. The focus is more on learning methodologies rather than the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

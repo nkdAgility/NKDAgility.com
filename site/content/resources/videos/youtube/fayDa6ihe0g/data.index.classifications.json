@@ -508,11 +508,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:17:24",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on training for Scrum Product Owners and does not discuss Scrum Master roles or responsibilities.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on Scrum Product Owner training rather than the role of the Scrum Master. While it mentions Scrum, it does not discuss the responsibilities, skills, or impact of a Scrum Master, nor does it align with the key topics outlined for this category. The discussion is brief and lacks depth regarding the Scrum Master's role.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -913,11 +916,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:17:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a training overview and does not discuss Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Scrum training and does not discuss Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1464,6 +1470,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on Scrum training, which is not directly related to the One Engineering System framework. While it mentions training and workshops, it does not discuss the principles, integration, or best practices of 1ES, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:17:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum training and workshops, with no explicit discussion of Agentic Agility or its principles. While it may touch on aspects of agility, it does not address the intentional shaping of outcomes or the distinction between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

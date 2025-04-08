@@ -520,11 +520,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:22:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:27:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content invites questions on any topic from DevOps to Agility, with no strong focus on Scrum Master responsibilities or practices.",
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile practices and tools relevant to managing distributed teams, which indirectly relates to the Scrum Master role. However, it lacks direct mentions of the Scrum Master and does not delve deeply into the specific responsibilities or impact of the Scrum Master within a Scrum Team. The focus is more on general Agile management rather than the nuances of the Scrum Master role.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -934,11 +937,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:22:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:27:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a Q&A format about general DevOps and Agility topics, without a specific emphasis on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on managing distributed teams in Agile and DevOps, discussing tools and strategies for collaboration rather than the principles of Test First Development. There are no explicit mentions of Test First practices, success criteria, or testing methodologies, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1485,6 +1491,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on Agile and DevOps practices, discussing tools and strategies for managing distributed teams. While it touches on collaboration and adaptation, it does not explicitly mention the One Engineering System framework or its principles. The discussion is more centred on Agile methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:27:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile and DevOps practices, discussing tools and strategies for managing distributed teams. While it touches on themes of adaptation and continuous improvement, it lacks explicit discussions on Agentic Agility, such as intentional shaping of outcomes or the distinction between human and AI capabilities. The content does not delve into the principles or mechanisms of Agentic Agility, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

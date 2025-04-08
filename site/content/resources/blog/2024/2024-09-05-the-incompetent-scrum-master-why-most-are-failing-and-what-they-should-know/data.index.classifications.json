@@ -523,11 +523,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-14T18:09:47",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-08T15:50:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content briefly mentions 'test-first strategies' within a broader discussion about the responsibilities and knowledge required of a Scrum Master, but it does not focus on Test First Development as a primary topic.",
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions 'test-first strategies' within a broader discussion about the skills and knowledge required for Scrum Masters. However, it does not delve into the principles or practices of Test First Development in detail, nor does it focus on the importance of defining success criteria before implementation. The primary focus is on the role and effectiveness of Scrum Masters rather than on Test First Development itself.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -865,14 +868,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T11:40:29",
+    "calculated_at": "2025-04-08T15:50:24",
     "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 85.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 20,
     "final_score": 80.0,
-    "reasoning": "The content extensively discusses the role and responsibilities of Scrum Masters, highlighting their importance in Agile teams and the skills required for effective performance. It provides detailed insights into various aspects of the Scrum Master role, including coaching, facilitation, conflict management, and metrics for improvement. The discussion is rich in context and directly addresses the challenges faced by Scrum Masters, making it a primary focus of the content.",
+    "reasoning": "The content primarily focuses on the role and responsibilities of Scrum Masters, discussing their importance in Agile practices and the skills necessary for success. It provides a detailed analysis of the competencies required for effective Scrum Masters, aligning closely with the key topics outlined in the category. The depth of discussion is significant, covering various aspects of the Scrum Master's role, including technical mastery, coaching, and stakeholder management, which are essential for fostering team effectiveness and organisational agility.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1621,5 +1624,17 @@
     "final_score": 58.0,
     "reasoning": "The content briefly mentions '1ES (One Engineering System)' within a broader discussion on Scrum and Agile practices. While it touches on modern engineering practices, the primary focus is on the role and effectiveness of Scrum Masters, which does not align closely with the core principles of the One Engineering System framework. The discussion lacks depth regarding the integration and standardisation of engineering processes, which is essential for a higher confidence score.",
     "level": "Tertiary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:50:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the roles and responsibilities of Scrum Masters within Agile practices, discussing their competencies and the challenges they face. While it touches on accountability and effectiveness, it does not explicitly address the concept of Agentic Agility or differentiate between human and AI capabilities in this context. The discussion lacks depth regarding intentional shaping of outcomes and does not explore the transformative capacity of individuals or systems, which are central to Agentic Agility.",
+    "level": "Ignored"
   }
 }

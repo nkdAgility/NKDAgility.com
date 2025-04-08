@@ -523,11 +523,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T04:38:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:07:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses metrics and leadership in organisations, with no clear focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on evidence-based management and the use of metrics in leadership rather than discussing Test First Development principles. While it touches on the importance of metrics and decision-making, it does not explicitly mention Test First Development practices, success criteria, or testing methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -868,12 +871,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T04:39:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:07:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses metrics and their impact on organisational behaviour, with only a brief mention of the Scrum Master role.",
-    "level": "Ignored"
+    "final_score": 61.0,
+    "reasoning": "The content mentions the Scrum Master role explicitly and discusses its relevance in the context of the PAL-EBM class. However, while it touches on the importance of metrics and leadership, it does not delve deeply into the specific responsibilities or techniques of a Scrum Master. The discussion is more focused on metrics and leadership in general rather than the Scrum Master's unique contributions to a Scrum Team.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1608,6 +1614,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on the PAL-EBM class and its benefits for leadership in using metrics effectively. While it touches on themes of collaboration and decision-making, it does not explicitly discuss the One Engineering System framework or its principles. The discussion is more aligned with Agile methodologies rather than the integration and standardisation of engineering processes as defined by 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:07:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of metrics and evidence-based management in leadership, which touches on aspects of intentionality and adaptability. However, it primarily focuses on the use of metrics rather than explicitly addressing Agentic Agility principles. While there are mentions of shaping outcomes and the human impact of metrics, the discussion lacks depth in exploring the distinction between human and AI capabilities, and does not fully engage with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

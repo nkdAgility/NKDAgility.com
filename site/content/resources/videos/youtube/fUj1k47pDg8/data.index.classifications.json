@@ -526,11 +526,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T23:22:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:53:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses product development, assumptions, and stakeholder collaboration, with no clear focus on Test First Development or related testing practices.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses product development and the importance of understanding user needs, but it does not explicitly mention Test First Development or its principles. While there are elements related to validation and experimentation that could align with Test First practices, the primary focus is on addressing assumptions and improving collaboration rather than on defining success criteria or testing methodologies. Therefore, the confidence score reflects a low alignment with the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -868,11 +871,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T23:23:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:53:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product development and assumptions rather than the specific role and responsibilities of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses product development and the importance of understanding user needs, which aligns with some agile principles. However, it does not explicitly mention the role of a Scrum Master or delve into Scrum-specific practices, making it more focused on general product management rather than the Scrum Master role.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1614,6 +1620,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on product development and the importance of understanding user needs, which does not directly relate to the One Engineering System framework. While it touches on collaboration and assumptions in development, it lacks explicit discussion of 1ES principles, components, or implementation practices. The content is more aligned with general product management rather than the integration and standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:53:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of understanding assumptions in product development and the need for a structured approach to navigate complexity. However, it does not explicitly mention Agentic Agility or its principles. While there are elements of adaptability and alignment with user needs, the focus remains on general product development practices rather than the intentional shaping of outcomes through agency. The discussion lacks depth in exploring the distinctions between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

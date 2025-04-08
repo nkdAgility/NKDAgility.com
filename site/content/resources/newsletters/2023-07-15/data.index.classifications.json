@@ -382,14 +382,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T14:36:58",
+    "calculated_at": "2025-04-08T16:43:51",
     "ai_confidence": 47.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
     "final_score": 43.0,
-    "reasoning": "The content mentions Scrum Masters in the context of upcoming training classes, indicating a focus on skill improvement for this role. However, the primary content revolves around an event announcement and general Agile discussions, lacking in-depth exploration of Scrum Master responsibilities or practices. While there is some alignment with the category, the overall focus is not primarily on the Scrum Master role.",
+    "reasoning": "The content briefly mentions Scrum Masters in the context of training classes, indicating some relevance to the category. However, the primary focus is on an event and general agile discussions rather than a detailed exploration of the Scrum Master's role, responsibilities, or impact. The mention of courses for Scrum Masters suggests some alignment, but the overall depth and direct discussion of the category are limited.",
     "level": "Tertiary"
   },
   "Agile Planning": {
@@ -421,11 +421,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T20:10:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:43:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an upcoming Agile conference and related events, with no focus on Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting an Agile conference and related activities, with no explicit discussion of Test First Development principles, success criteria, or testing practices. While it mentions Agile concepts, it does not delve into the specifics of Test First Development, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1557,6 +1560,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on an Agile conference and related activities, with no explicit mention of the One Engineering System framework or its principles. While it discusses Agile practices, it does not align with the core themes of 1ES, such as integration of tools and processes or best practices for implementing a unified engineering system. The depth of discussion on 1ES is minimal, as the content is more about event promotion and personal experiences rather than a structured analysis of engineering systems.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:43:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting an Agile conference and related activities, with minimal direct discussion of Agentic Agility. While it mentions double-loop learning, it does not delve into the principles or mechanisms of Agentic Agility, nor does it differentiate between human and AI capabilities in this context. The overall emphasis is on networking and workshops rather than the intentional shaping of outcomes.",
     "level": "Ignored"
   }
 }

@@ -373,11 +373,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T18:29:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:35:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between Agile training and consulting, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile training and consulting but does not focus specifically on the role of the Scrum Master. While it touches on Agile practices, it lacks direct mentions of Scrum Master responsibilities or their impact on team dynamics and organisational change. The discussion is more about general Agile methodologies rather than the specific role of a Scrum Master.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -409,11 +412,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T18:30:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:36:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between Agile training and consulting, with no clear focus on Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile training and consulting, focusing on their differences and benefits. It does not mention Test First Development or its principles, nor does it align with the core themes of success criteria, testing practices, or collaboration in software development. The discussion lacks depth regarding any aspect of Test First Development, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1494,6 +1500,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Agile training and consulting, which are not directly related to the One Engineering System framework. While it touches on organisational improvement, it does not address the principles, integration, or implementation of 1ES, nor does it provide any relevant case studies or comparisons. The focus is on Agile methodologies rather than the standardisation and integration of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:35:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the differences between Agile training and consulting, focusing on knowledge dissemination and targeted problem-solving. It does not explicitly mention Agentic Agility or its core themes, such as intentional shaping of outcomes, autonomy, or adaptability. The discussion lacks depth regarding the principles of Agentic Agility and does not differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

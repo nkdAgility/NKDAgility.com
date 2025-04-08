@@ -1339,11 +1339,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:17:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on product backlog management in Agile, with no discussion of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on product backlog management within Agile practices, discussing prioritisation, WIP limits, and stakeholder engagement. It does not explicitly mention Test First Development or its principles, nor does it delve into testing methodologies or practices related to TDD or ATDD. The discussion is more about managing tasks rather than establishing success criteria or testing strategies, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1405,12 +1408,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:17:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on product backlog management rather than the specific role or responsibilities of a Scrum Master.",
-    "level": "Ignored"
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on product backlog management, which is a crucial aspect of Agile but does not explicitly discuss the role of the Scrum Master. While it touches on collaboration and stakeholder engagement, it lacks a direct exploration of the Scrum Master's responsibilities, techniques, or influence on team dynamics. The discussion is more about backlog strategies than the Scrum Master's role in facilitating those strategies.",
+    "level": "Tertiary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1563,6 +1569,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on product backlog management within Agile and Scrum methodologies, which are not directly related to the One Engineering System framework. While it touches on aspects of collaboration and efficiency, it lacks explicit discussion of 1ES principles, components, or implementation strategies. The content does not provide depth on the integration of tools or processes across teams, nor does it address the impact of a unified engineering system on software quality or delivery timelines.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:17:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on product backlog management within Agile practices, discussing prioritisation, WIP limits, and stakeholder engagement. While it touches on themes of value delivery and adaptation, it does not explicitly address Agentic Agility or the intentional shaping of outcomes. The discussion lacks depth in exploring the distinctions between human and AI capabilities, and it does not engage with the core principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -373,11 +373,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T19:25:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum Master roles or responsibilities; it focuses on general consulting principles and the importance of pragmatism over dogma.",
+    "calculated_at": "2025-04-08T16:40:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile principles and the importance of flexibility and empirical adaptation, which are relevant to the Scrum Master role. However, it does not explicitly mention the Scrum Master or delve deeply into their specific responsibilities, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -415,11 +418,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T19:25:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:40:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of pragmatism and adaptability in consulting engagements, with no clear focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the philosophical clash between dogma and empiricism in Agile consulting, with no direct mention of Test First Development principles or practices. While it touches on themes of flexibility and adaptation, it does not delve into specific testing methodologies or the importance of success criteria in software development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1542,6 +1548,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the philosophical clash between dogma and empiricism in Agile consulting, with a focus on team dynamics and flexibility. It does not explicitly mention the One Engineering System or its principles, components, or implementation strategies. The discussion is more centred on Agile methodologies rather than the integration and standardisation of engineering processes, which is the core focus of the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:40:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability in consulting engagements, which aligns with some principles of Agentic Agility. However, it primarily focuses on the clash between dogma and empiricism without explicitly addressing the intentional shaping of outcomes or differentiating between human and AI capabilities. The discussion lacks depth in exploring the core themes of Agentic Agility, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

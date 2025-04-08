@@ -469,11 +469,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T17:38:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:45:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Test First Development or related principles; it is vague and lacks relevant information.",
+    "final_score": 4.0,
+    "reasoning": "The content does not mention Test First Development or any related concepts. It is a brief announcement with no relevant discussion or detail on the principles or practices of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -790,11 +793,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T17:39:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:45:03",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide any information related to the Scrum Master role or responsibilities; it is too vague and lacks relevant details.",
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention the Scrum Master role or its responsibilities. It lacks any discussion of Scrum principles, techniques, or the impact of a Scrum Master on team dynamics or organisational change. The title 'Liberating Structures' may suggest a connection to facilitation techniques, but without further context or detail, it does not align with the core themes of the Scrum Master category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1461,6 +1467,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content does not explicitly mention the One Engineering System or its principles. It lacks any discussion on integration, standardisation, or best practices related to 1ES, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:45:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content does not explicitly mention Agentic Agility or its key themes. It is a brief announcement with no discussion on intentional shaping of outcomes, autonomy, or adaptability, which are central to the category.",
     "level": "Ignored"
   }
 }

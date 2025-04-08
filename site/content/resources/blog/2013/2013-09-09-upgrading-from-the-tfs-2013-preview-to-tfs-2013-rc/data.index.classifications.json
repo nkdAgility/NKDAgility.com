@@ -1156,11 +1156,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T17:51:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:52:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on upgrading Team Foundation Server rather than discussions about Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on upgrading Team Foundation Server (TFS) from a preview version to a release candidate, discussing technical steps and prerequisites without any mention of Test First Development principles, success criteria, or testing practices. It lacks any relevant discussion on manual or automated testing, making it irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1246,11 +1249,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T17:51:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:52:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the upgrade process for Team Foundation Server (TFS) 2013, without any reference to the role of a Scrum Master or related responsibilities, practices, or topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on upgrading Team Foundation Server (TFS) and does not discuss the role, responsibilities, or impact of a Scrum Master. There are no direct mentions of Scrum practices or the Scrum Master's influence on team dynamics or organisational change, which are key topics in the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1524,6 +1530,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the technical process of upgrading TFS, with minimal discussion on competence or skill development. While it mentions the importance of trial upgrades and having a backup plan, these points are more about procedural knowledge than fostering a culture of competence or continuous learning. The overall emphasis is on technical execution rather than the principles of professionalism and quality delivery associated with competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:52:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, with no explicit discussion of Agentic Agility or its principles. While there are mentions of streamlining processes and ensuring successful upgrades, these do not align with the core themes of intentionality, autonomy, or adaptability in the context of Agentic Agility.",
     "level": "Ignored"
   }
 }

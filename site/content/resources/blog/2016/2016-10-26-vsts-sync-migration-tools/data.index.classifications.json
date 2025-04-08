@@ -1150,11 +1150,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T20:59:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:35:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses migration tools for VSTS and TFS, with no focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses VSTS Sync Migration Tools and their functionalities related to data migration from TFS to VSTS. There are no explicit mentions of Test First Development principles, success criteria, or testing practices. The focus is on migration tools rather than testing methodologies, resulting in a very low confidence score for alignment with the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1231,11 +1234,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T20:59:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:35:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses migration tools and processes related to VSTS and TFS, with no clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on VSTS Sync Migration Tools and data migration processes, with no direct mention of the Scrum Master role or its responsibilities. While it touches on team dynamics in the context of migration, it does not align with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles. The discussion lacks depth regarding the Scrum Master's influence or practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1521,6 +1527,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on VSTS Sync Migration Tools and their functionalities for data migration between TFS and VSTS. While it touches on aspects of DevOps processes, it does not explicitly discuss the One Engineering System framework, its principles, or its integration across teams. The discussion lacks depth regarding the standardisation and integration of engineering practices, which are core to the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:35:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on VSTS Sync Migration Tools and their functionalities, with no explicit discussion of Agentic Agility or its principles. While it touches on aspects of data migration and tool development, it lacks a clear connection to the intentional shaping of outcomes, autonomy, or adaptability in a socio-technical context. The content does not differentiate between human and AI capabilities, nor does it explore the transformative capacity of individuals or systems, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

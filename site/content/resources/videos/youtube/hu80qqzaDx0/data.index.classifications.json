@@ -1315,11 +1315,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T15:05:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:50:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on organizational behavior and measurement, which is unrelated to Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the impact of measurement on team behaviour and collaboration, which does not directly relate to Test First Development principles. While it touches on metrics and team dynamics, it lacks explicit references to success criteria, testing practices, or the Test First approach, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1381,11 +1384,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T15:05:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:50:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not directly address the role, responsibilities, or specific practices of a Scrum Master. It discusses measurement in a general organizational context without a clear focus on Scrum or related Scrum roles.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses team dynamics and the influence of metrics on behaviour, which are relevant to the Scrum Master's role in fostering collaboration and engagement. However, it does not explicitly mention the Scrum Master or delve into specific responsibilities or techniques associated with the role, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1542,6 +1548,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the influence of metrics on team behaviour and collaboration, which is tangentially related to the principles of the One Engineering System. However, it does not explicitly mention 1ES or its components, nor does it focus on standardising engineering practices or integrating tools across teams. The discussion is more about general team dynamics and measurement rather than the specific framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:49:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses how metrics influence team behaviour and engagement, which touches on the concept of intentional shaping of outcomes. However, it lacks explicit references to Agentic Agility and does not differentiate between human and AI capabilities. The focus is more on measurement and collaboration rather than the principles of Agentic Agility, leading to a moderate confidence score.",
     "level": "Ignored"
   }
 }

@@ -190,14 +190,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T18:02:38",
+    "calculated_at": "2025-04-08T15:45:57",
     "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
     "final_score": 61.0,
-    "reasoning": "The content discusses the Service Level Expectation (SLE) within the context of a Scrum Team's workflow, which is relevant to the role of a Scrum Master. It mentions the importance of transparency and adapting based on historical data, aligning with Scrum principles. However, the focus is primarily on the SLE concept rather than the broader responsibilities and practices of a Scrum Master, leading to a moderate confidence score.",
+    "reasoning": "The content discusses the Service Level Expectation (SLE) within the context of a Scrum Team's workflow, which is relevant to the Scrum Master's role in facilitating team effectiveness and promoting agile principles. However, while it touches on aspects of Scrum, such as the importance of historical Cycle Time and the need for transparency, it does not delve deeply into the broader responsibilities or skills of the Scrum Master. The focus is more on a specific practice rather than a comprehensive discussion of the Scrum Master's role, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Team Performance": {
@@ -1078,11 +1078,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T09:36:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:46:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Service Level Expectations (SLE) within Scrum, with no focus on Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Service Level Expectations (SLE) within the context of Scrum, focusing on workflow and cycle time rather than the principles of Test First Development. There are no direct mentions of testing practices, success criteria, or the importance of automated testing, which are core to the Test First Development category. The discussion is more aligned with process management and flow efficiency rather than testing methodologies.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1572,6 +1575,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the concept of Service Level Expectation (SLE) within a Scrum Team's workflow, which is a specific agile methodology. While it touches on aspects of workflow and predictability, it does not discuss the One Engineering System framework, its principles, or its integration across teams. The content lacks direct mentions of 1ES and does not align with the core themes of standardisation and integration of engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:45:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Service Level Expectations (SLE) within the context of Scrum, focusing on workflow and predictability. It does not explicitly mention Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes, autonomy, or adaptability. The discussion is centred around operational metrics rather than the transformative capacity of individuals or systems, leading to a very low confidence score.",
     "level": "Ignored"
   }
 }

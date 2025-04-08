@@ -1222,11 +1222,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-20T18:25:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:30:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on scaling product development and organizational alignment rather than specific responsibilities or practices related to the Scrum Master role.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses scaling product development and the challenges associated with it, which indirectly relates to the Scrum Master's role in facilitating team alignment and managing processes. However, it does not explicitly mention the Scrum Master or delve into their specific responsibilities, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1375,11 +1378,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-20T18:25:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:30:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses scaling product development and team alignment, with no focus on Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses scaling product development and does not explicitly mention Test First Development or its principles. While it touches on related themes such as feedback loops and alignment, these concepts are not directly tied to Test First practices. The focus is on organisational challenges rather than testing methodologies, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1470,6 +1476,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses scaling product development and the importance of system alignment, which loosely relates to the principles of the One Engineering System. However, it does not explicitly mention 1ES or its components, nor does it delve deeply into the integration of tools and processes across teams, which are key aspects of the category. The focus is more on general scaling challenges rather than the specific framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:30:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses scaling product development and the importance of alignment and system management, which are tangentially related to Agentic Agility. However, it lacks explicit references to the intentional shaping of outcomes or the distinction between human and AI capabilities. The focus is more on general scaling challenges rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

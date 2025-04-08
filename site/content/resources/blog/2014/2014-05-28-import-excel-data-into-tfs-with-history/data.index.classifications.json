@@ -1144,11 +1144,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T10:42:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:46:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily deals with importing data into TFS using Excel and VBA without addressing Test First Development principles, practices, or related discussions.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on importing data into TFS using Excel and VBA, with no direct discussion of Test First Development principles, success criteria, or testing practices. While it mentions testing in a general sense, it does not align with the core themes of Test First Development, such as TDD or ATDD, and lacks depth in discussing any related concepts.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1228,11 +1231,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T10:42:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:46:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses technical implementation and data manipulation in TFS and Excel, with no clear reference or discussion related to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of importing data into TFS using Excel and VBA, with no direct mention of Scrum Master responsibilities or related concepts. It lacks alignment with the core themes of the Scrum Master role, such as team dynamics, coaching, or agile principles, and provides minimal depth on any relevant topics.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1503,6 +1509,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on a technical process for importing data into TFS using Excel and VBA, with minimal direct discussion of competence or skill development. While it touches on the author's experience and skills in using VBA, it lacks a broader discussion on continuous learning or the importance of competence in a professional context. The depth of discussion is limited to practical steps without exploring the implications of competence in Agile or DevOps environments.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:46:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical guide for importing Excel data into TFS using VBA, with no explicit discussion of Agentic Agility or its principles. While it touches on workflow simplification and data integrity, these topics do not align with the core themes of intentionality, autonomy, or adaptability in the context of Agentic Agility. The content lacks depth in exploring the transformative capacity of individuals or systems, and does not differentiate between human and AI capabilities in relation to agility.",
     "level": "Ignored"
   }
 }

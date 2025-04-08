@@ -553,14 +553,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T14:24:12",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "calculated_at": "2025-04-08T17:05:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the importance of effectively applying Scrum, which is relevant to the role of a Scrum Master. It mentions challenges Scrum teams face, such as removing impediments and leveraging continuous improvement, which aligns with Scrum Master responsibilities. However, the discussion is more focused on general Scrum application rather than the specific role and practices of a Scrum Master, leading to a moderate confidence score.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of effectively implementing Scrum, which is central to the Scrum Master's role. It mentions key aspects such as continuous improvement, removing impediments, and the need for knowledge around Scrum principles, which align with the responsibilities of a Scrum Master. However, while it touches on these themes, it does not delve deeply into the specific techniques or detailed responsibilities of a Scrum Master, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -994,11 +994,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:22:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:05:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum principles and practices without a focus on Test First Development.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the importance of applying Scrum effectively, without any direct mention or discussion of Test First Development principles. While it touches on concepts of continuous improvement and team effectiveness, it does not delve into success criteria, testing practices, or the specifics of Test First Development methodologies such as TDD or ATDD.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1584,6 +1587,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum and its implementation rather than discussing the One Engineering System (1ES). While it touches on themes of improving team effectiveness and continuous improvement, it does not explicitly mention 1ES or its principles, components, or integration across teams. The discussion is more about Scrum practices and personal experiences rather than the standardisation and integration of engineering processes that 1ES entails.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:05:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices and training, with limited discussion on the intentional shaping of outcomes or the principles of Agentic Agility. While it touches on aspects of adaptability and continuous improvement, it does not explicitly differentiate between human and AI capabilities or delve into the transformative capacity of individuals and systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

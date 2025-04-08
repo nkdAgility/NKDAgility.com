@@ -385,12 +385,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T19:08:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Joanna's qualifications and communication skills as a trainer, without a clear emphasis on the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T16:39:02",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on Joanna as a Scrum trainer, discussing her expertise and the value of her training sessions in the context of Scrum and Agile principles. It explicitly mentions the role of a Scrum Master and includes relevant topics such as Agile leadership, team dynamics, and continuous improvement practices. The depth of discussion is significant, covering various aspects of Scrum training and the impact of effective Scrum practices, which aligns well with the category's core themes.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -424,11 +427,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T19:08:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:39:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Joanna's qualifications and communication skills in relation to Scrum training, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Joanna's expertise in Agile and Scrum training, with no direct mention of Test First Development principles or practices. While it touches on Agile methodologies and feedback loops, it does not delve into the specifics of defining success criteria or the importance of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1527,6 +1533,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on promoting Joanna as a Scrum trainer and discussing her teaching methods and expertise in Agile practices. While it mentions Agile and Scrum, it does not address the One Engineering System framework, its principles, or its integration across teams. The discussion is centred around individual training rather than the standardisation and integration of engineering processes, which is the core of the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:38:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting Joanna as a Scrum trainer and her teaching methods, without explicitly discussing Agentic Agility or its principles. While it touches on Agile practices and leadership, it lacks a clear connection to the intentional shaping of outcomes or the distinction between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

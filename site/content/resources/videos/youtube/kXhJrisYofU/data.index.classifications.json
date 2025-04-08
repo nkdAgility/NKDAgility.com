@@ -193,11 +193,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T16:15:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses budgeting practices in Agile environments without a clear focus on the Scrum Master role or responsibilities.",
+    "calculated_at": "2025-04-08T15:36:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses traditional budgeting and the concept of Beyond Budgeting, which are not directly related to the role or responsibilities of a Scrum Master. While there are mentions of agility and value maximisation, these concepts are not explored within the context of Scrum or the specific duties of a Scrum Master. The focus is on financial processes rather than Scrum practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1099,11 +1102,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T16:17:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses budgeting practices in Agile environments, with no clear focus on Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T15:36:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses budgeting practices and the concept of Beyond Budgeting, which is unrelated to Test First Development principles. There are no direct mentions of testing practices, success criteria, or any related concepts that align with Test First Development.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1621,5 +1627,17 @@
     "final_score": 12.0,
     "reasoning": "The content primarily discusses budgeting practices and the concept of Beyond Budgeting, which is unrelated to the One Engineering System framework. There are no direct mentions of 1ES principles, components, or its impact on software development. The discussion lacks depth regarding integration or standardisation of engineering processes, making it largely irrelevant to the category.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:36:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the limitations of traditional budgeting and introduces the concept of Beyond Budgeting, which aligns with the principles of Agentic Agility by advocating for flexibility and value-driven decision-making. However, it lacks explicit mentions of Agentic Agility and does not differentiate between human and AI capabilities, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

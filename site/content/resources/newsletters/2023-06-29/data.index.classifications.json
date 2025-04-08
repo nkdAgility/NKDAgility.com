@@ -409,14 +409,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T23:14:51",
+    "calculated_at": "2025-04-08T16:47:27",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
     "final_score": 61.0,
-    "reasoning": "The content discusses the development of agile practitioners and includes a specific mention of courses for Scrum Masters, indicating a focus on the role. However, the overall emphasis is more on general agile training rather than the specific responsibilities and practices of a Scrum Master, leading to a moderate confidence score.",
+    "reasoning": "The content mentions Scrum Masters in the context of training courses aimed at improving their skills, which indicates a direct mention. However, the primary focus of the content is on promoting immersive learning experiences for agile practitioners in general, rather than a detailed exploration of the Scrum Master's role or responsibilities. While there is some alignment with the core themes of the category, such as continuous improvement and collaboration, the depth of discussion specifically about the Scrum Master is limited. Overall, the content is relevant but not the primary focus.",
     "level": "Secondary"
   },
   "Agile Planning": {
@@ -454,11 +454,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T21:14:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:47:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on introducing NKD Agility's training programmes and the development of agile practitioners, without discussing Test First Development or related testing practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting NKD Agility's immersive learning experiences in agile methodologies without any explicit discussion of Test First Development principles. While it mentions agile practices, it does not delve into the specifics of Test First Development, such as success criteria, TDD, or ATDD, which are central to the category. The overall emphasis is on general agile training rather than the Test First approach.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1593,6 +1596,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on agile methodologies and training for agile practitioners, which does not directly address the principles or components of the One Engineering System (1ES). While there are mentions of collaboration and continuous improvement, these concepts are framed within the context of agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES framework. The discussion lacks depth regarding the specific impacts of 1ES or its implementation challenges, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:47:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on promoting NKD Agility's training programmes and methodologies without explicitly discussing Agentic Agility. While it mentions adaptability and transformation, it lacks a clear exploration of the intentional shaping of outcomes or the distinction between human and AI capabilities. The depth of discussion on the principles of Agentic Agility is minimal, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

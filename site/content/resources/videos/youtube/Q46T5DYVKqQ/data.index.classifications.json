@@ -391,12 +391,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T19:16:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:39:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and data-driven decision-making without a clear focus on the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the concept of empiricism and its relevance to agile practices, which aligns with the Scrum Master's role in promoting continuous improvement. However, it does not explicitly mention the Scrum Master or delve into specific responsibilities associated with the role, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -433,11 +436,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T19:16:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:39:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content discusses empiricism and data-driven decision-making within an agile context but does not explicitly mention Test First Development or its principles. While it touches on concepts like experimentation and continuous improvement, these are not directly aligned with the core themes of Test First Development, which focuses specifically on defining success criteria and testing practices. The discussion lacks depth regarding Test First methodologies such as TDD or ATDD.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1572,6 +1578,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the concept of empiricism and its application in agile methodologies, without directly addressing the One Engineering System framework or its principles. While it touches on data-driven decision-making, it does not explore integration, standardisation, or the specific components of 1ES, which are essential for a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:39:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses data-driven decision-making and the importance of empiricism in agile practices, which aligns with the principles of Agentic Agility. However, it lacks a direct focus on the intentional shaping of outcomes and does not differentiate between human and AI capabilities. The discussion is more about general agile practices rather than a deep exploration of Agentic Agility.",
     "level": "Ignored"
   }
 }

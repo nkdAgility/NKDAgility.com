@@ -529,11 +529,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:03:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps challenges and Agile consulting, not specifically focusing on Scrum Master roles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on DevOps challenges and practices, with only a brief mention of agile principles. While it touches on themes like feedback loops and mindset shifts, which are relevant to Scrum, it does not explicitly discuss the role or responsibilities of a Scrum Master. The discussion lacks depth in relation to Scrum-specific practices and the influence of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -961,11 +964,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps challenges and Agile consulting, with no focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T17:03:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses DevOps challenges and the importance of feedback loops and automation, but it does not explicitly mention Test First Development or its principles. While there are references to improving testing infrastructure and closing feedback loops, these concepts are not directly tied to the Test First approach. The focus is more on general DevOps practices rather than the specific methodologies of Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1530,6 +1536,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses DevOps challenges and agile practices, with a focus on improving delivery speed and feedback loops. While it touches on themes relevant to integration and efficiency, it does not explicitly mention the One Engineering System or its principles. The discussion lacks depth regarding the specific components or best practices of 1ES, leading to a low confidence score in alignment with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:03:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses challenges in DevOps and agile practices, focusing on improving delivery speed and feedback loops. However, it lacks explicit references to Agentic Agility, such as intentional shaping of outcomes or the distinction between human and AI capabilities. While it touches on adaptability and mindset shifts, it does not delve deeply into the principles or mechanisms of Agentic Agility, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

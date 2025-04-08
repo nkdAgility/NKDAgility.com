@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T00:52:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of wrath in Agile teams and the lack of accountability, with no clear focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:28:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the impact of wrath in Agile teams, focusing on blame and accountability rather than the principles of Test First Development. There are no direct mentions of Test First practices, success criteria, or testing methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -868,14 +871,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T21:39:11",
-    "ai_confidence": 42.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 30.0,
-    "ai_depth": 20.0,
+    "calculated_at": "2025-04-08T16:28:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the concept of accountability and blame within Agile teams, which is relevant to the Scrum Master's role in fostering a positive team culture. However, it primarily focuses on the general Agile environment and the Product Owner's role, with only brief mentions of Scrum principles. The depth of discussion on Scrum Master-specific practices is limited, leading to a moderate confidence score.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the impact of wrath in Agile teams and the importance of accountability, which are relevant to the Scrum Master's role in fostering a positive team culture. However, it primarily focuses on the concept of blame and accountability without explicitly addressing the Scrum Master's responsibilities or techniques. The mention of the Product Owner's role indicates a broader Agile context rather than a specific focus on the Scrum Master, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1605,6 +1608,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the concept of wrath in Agile teams, focusing on blame and accountability, which does not align with the principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion lacks depth regarding integration or standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:28:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses accountability and the importance of fostering a culture of learning in Agile teams, which touches on aspects of Human Agentic Agility. However, it primarily focuses on the negative impact of wrath and blame rather than explicitly addressing the intentional shaping of outcomes or the principles of Agentic Agility. The discussion lacks depth in exploring the mechanisms of Agentic Agility and does not differentiate between human and AI capabilities, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

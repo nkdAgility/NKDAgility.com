@@ -40,7 +40,7 @@ tags:
 - Product Backlog
 - Product Delivery
 - Product Owner
-- Scrum Master
+- Agile Frameworks
 categories:
 - Scrum
 - Product Management

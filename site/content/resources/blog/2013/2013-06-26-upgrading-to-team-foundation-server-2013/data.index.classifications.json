@@ -1159,11 +1159,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:05:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:57:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the upgrade process for Team Foundation Server 2013, without any mention of Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on upgrading Team Foundation Server 2013, discussing installation processes, backup strategies, and configuration details. There are no explicit mentions of Test First Development principles, success criteria, or testing practices. The content lacks alignment with the core themes of Test First Development, and the depth of discussion on the topic is minimal, if not non-existent.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1249,11 +1252,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:05:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:57:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on upgrading Team Foundation Server 2013, with no clear discussion related to Scrum Master roles, responsibilities, or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on upgrading Team Foundation Server 2013, with no direct mention of the Scrum Master role or its responsibilities. It lacks alignment with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles. The discussion is technical and administrative, which does not relate to the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1527,6 +1533,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server 2013, including installation processes and backup strategies. While it touches on the importance of backups and system readiness, it does not explicitly discuss competence in terms of continuous learning, skill development, or the professional principles outlined in the category definition. The discussion lacks depth and does not align with the core themes of competence, making it a secondary focus at best.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:57:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server 2013, including installation processes and backup strategies. There are no explicit discussions on Agentic Agility, nor does it explore the intentional shaping of outcomes, autonomy, or adaptability in a socio-technical context. The content lacks depth in addressing the principles or mechanisms of Agentic Agility, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

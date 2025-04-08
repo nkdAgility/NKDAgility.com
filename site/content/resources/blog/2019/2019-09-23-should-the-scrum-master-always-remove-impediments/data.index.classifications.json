@@ -1186,11 +1186,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T18:09:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:29:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of the Scrum Master in removing impediments, which is unrelated to Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in removing impediments within a Scrum team, which is unrelated to Test First Development principles. There are no direct mentions of Test First practices, success criteria, or testing methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1273,14 +1276,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T03:22:32",
+    "calculated_at": "2025-04-08T17:30:02",
     "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
     "final_score": 80.0,
-    "reasoning": "The content directly addresses the responsibilities of a Scrum Master, particularly in relation to removing impediments, which is a core aspect of the role. It discusses the nuances of when a Scrum Master should intervene and encourages the development of team self-sufficiency, aligning well with the principles of servant leadership and coaching. The depth of discussion is substantial, providing insights into the thought process a Scrum Master should have when faced with impediments, thus demonstrating a strong alignment with the key topics outlined for the category.",
+    "reasoning": "The content directly addresses the role of the Scrum Master in removing impediments, which is a core responsibility of the position. It discusses the nuances of this responsibility, emphasising the importance of fostering team self-sufficiency and the Scrum Master's role in enabling the team to solve problems independently. This aligns well with the key topics of the category, particularly regarding the Scrum Master's influence on team dynamics and their role as a facilitator. The depth of discussion is substantial, providing insights into the decision-making process of the Scrum Master and the implications for team development. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1584,6 +1587,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the role of the Scrum Master within the Scrum framework, focusing on impediment removal and team self-sufficiency. It does not address the One Engineering System (1ES) framework, its principles, or its integration with other processes, which are essential for alignment with the category. The discussion is narrowly focused on Scrum, making it largely irrelevant to the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:29:56",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in removing impediments, which is more focused on Scrum practices rather than the intentional shaping of outcomes through agency and adaptability. While there are elements of self-sufficiency and team empowerment, the discussion does not explicitly address the principles of Agentic Agility or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

@@ -37,8 +37,8 @@ tags:
 - Technical Mastery
 - Modern Source Control
 - Pragmatic Thinking
+- Test First Development
 - Value Delivery
-- Continuous Delivery
 categories:
 - Engineering Excellence
 - DevOps

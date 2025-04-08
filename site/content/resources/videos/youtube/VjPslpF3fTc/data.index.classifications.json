@@ -481,11 +481,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T23:55:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:42:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and does not address Test First Development or related principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on immersive learning for experienced Agile practitioners, discussing concepts like double-loop learning and practical assignments. It does not mention Test First Development or its principles, nor does it align with the core themes of defining success criteria or testing practices. The discussion is more about learning methodologies rather than testing approaches.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -808,11 +811,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T23:56:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:42:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum Master roles, responsibilities, or practices; it focuses on immersive learning experiences and training dynamics.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses immersive learning for experienced Agile practitioners but does not explicitly mention the role of the Scrum Master or delve into their specific responsibilities. While it touches on Agile principles, the focus is more on learning methodologies rather than the Scrum Master's impact on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1503,6 +1509,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on immersive learning for experienced Agile practitioners, discussing concepts like double-loop learning and practical assignments. However, it does not directly address the One Engineering System framework, its principles, or its integration across teams. The discussion is more about personal development and learning methodologies rather than the standardisation and integration of engineering processes, which is the core of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:42:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses immersive learning for experienced Agile practitioners, touching on concepts like double-loop learning, which aligns with the principles of Agentic Agility. However, it primarily focuses on skill enhancement and does not explicitly address the intentional shaping of outcomes or the distinction between human and AI capabilities in agility. The discussion lacks depth in exploring the transformative capacity of individuals and systems, leading to a lower confidence score.",
     "level": "Ignored"
   }
 }

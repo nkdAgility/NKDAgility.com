@@ -36,6 +36,7 @@ tags:
 - Agile Project Management
 - People and Process
 - Software Development
+- Scrum Master
 - Agile Values and Principles
 - Agile Frameworks
 - Scrum Values

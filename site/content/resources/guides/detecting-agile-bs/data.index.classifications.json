@@ -88,11 +88,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-13T15:48:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:46:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses general Agile principles and practices without a specific focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile principles and practices but does not specifically focus on the role of the Scrum Master. While it touches on aspects of agile development and the importance of user feedback, it lacks a direct examination of the Scrum Master's responsibilities, techniques, or influence on team dynamics. The discussion is more about identifying genuine agile practices rather than the specific role of a Scrum Master in facilitating those practices.",
     "level": "Ignored"
   },
   "Scaling Kanban": {
@@ -580,11 +583,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T15:50:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:46:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the identification of genuine Agile practices versus misinterpretations, focusing on Agile values, tools, and user interaction rather than Test First Development principles or practices.",
+    "final_score": 31.0,
+    "reasoning": "The content discusses agile development and the importance of user feedback, but it does not explicitly mention Test First Development or its principles. While it touches on aspects of testing and automation, it lacks a focused discussion on defining success criteria before implementation, which is central to Test First Development.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1617,6 +1623,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on agile methodologies and their implementation within the Department of Defense, discussing how to identify true agile practices versus traditional methods. While it touches on some tools and practices that could relate to a unified engineering system, it does not explicitly discuss the One Engineering System framework or its principles. The emphasis is on agile values and practices rather than the integration and standardisation of engineering processes as defined by 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:46:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on identifying genuine agile practices versus misrepresented ones, without explicitly discussing Agentic Agility or its principles. While it touches on aspects of autonomy and user feedback, it lacks a clear exploration of intentional shaping of outcomes or the interplay between human and AI capabilities in agility.",
     "level": "Ignored"
   }
 }

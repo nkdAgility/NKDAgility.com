@@ -535,11 +535,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:00:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on hierarchies of competence versus control and briefly mentions Agile and Scrum, but does not primarily discuss the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses concepts related to respect, collaboration, and expertise in the workplace, which are relevant to the Scrum Master's role in fostering team dynamics. However, it does not explicitly mention the Scrum Master or directly address Scrum principles, leading to a low confidence score. The focus is more on general workplace hierarchies rather than the specific responsibilities and impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -973,11 +976,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:00:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses hierarchies of competence in management rather than Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on hierarchies of competence, respect, and collaboration in the workplace, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1557,6 +1563,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses hierarchies of competence and their impact on workplace dynamics, focusing on respect, collaboration, and expertise. However, it does not explicitly mention the One Engineering System or its principles, components, or implementation. The themes of collaboration and expertise are somewhat aligned with the goals of 1ES, but the discussion lacks depth and direct relevance to the standardisation and integration of software development practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:00:26",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses hierarchies of competence and the importance of respect and expertise in the workplace, but it does not explicitly mention Agentic Agility or its core themes. While there are elements of collaboration and individual agency, the focus is more on workplace dynamics rather than the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth in terms of the principles of Agentic Agility and does not differentiate between human and AI capabilities.",
     "level": "Ignored"
   }
 }

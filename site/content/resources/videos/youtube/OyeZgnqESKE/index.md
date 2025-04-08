@@ -34,6 +34,7 @@ tags:
 - Discovery and Learning
 - Team Motivation
 - Continuous Improvement
+- Scrum Master
 - Competence
 - Coaching
 resourceTypes:

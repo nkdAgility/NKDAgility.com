@@ -376,15 +376,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T11:34:22",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "calculated_at": "2025-04-08T16:49:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses the role of a Scrum Master, albeit in a negative context, which provides some direct mention of the role. However, it lacks a comprehensive exploration of the responsibilities, techniques, or best practices associated with effective Scrum Masters. The focus is more on the ineffectiveness of a Scrum Master rather than on fostering high-performing teams or driving Agile success, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content explicitly discusses the role of an ineffective Scrum Master, detailing specific behaviours and pitfalls that hinder their effectiveness. It aligns well with the core themes of the category by addressing the responsibilities and impact of a Scrum Master on team dynamics and collaboration. The depth of discussion is substantial, providing insights into the negative consequences of poor Scrum Master practices, which contributes to a higher confidence score.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -415,11 +415,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T21:49:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and actions of a Scrum Master, with no mention of Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:49:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role and effectiveness of a Scrum Master within Agile practices, with no direct mention or focus on Test First Development principles. While it touches on collaboration and team dynamics, it does not address success criteria, testing methodologies, or the importance of defining tests before implementation, which are core to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1494,6 +1497,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the role of a Scrum Master within Agile methodologies, discussing ineffective practices and behaviours. It does not mention or align with the principles of the One Engineering System, which is centred on standardising and integrating software development practices across teams. The discussion is limited to Scrum, making it irrelevant to the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:49:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of an ineffective Scrum Master and highlights issues related to Agile practices. While it touches on themes of collaboration and communication, it does not explicitly address Agentic Agility or its principles. The focus is on identifying pitfalls rather than on intentional shaping of outcomes or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

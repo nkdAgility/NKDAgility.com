@@ -493,11 +493,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T21:15:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:47:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on user feedback and timelines, which are not related to Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content does not explicitly mention Test First Development or its principles. It focuses on updating work based on market and user feedback, which is not directly related to defining success criteria or testing practices. The alignment with core themes is minimal, and the depth of discussion is superficial, lacking any detail on testing methodologies.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -823,11 +826,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T21:16:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:47:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum roles, responsibilities, or practices; it focuses on user feedback and timelines, which are not specific to the Scrum Master role.",
+    "final_score": 11.0,
+    "reasoning": "The content briefly touches on user feedback and timelines, which could relate to Scrum practices, but it does not explicitly mention the Scrum Master role or its responsibilities. The discussion lacks depth and does not align with the core themes of the Scrum Master category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1515,6 +1521,18 @@
     "non_ai_confidence": 10,
     "final_score": 10.0,
     "reasoning": "The content does not explicitly mention the One Engineering System or its principles. It briefly touches on user feedback and timelines, which are not core themes of 1ES. The discussion lacks depth and does not provide any relevant details about integration, standardisation, or best practices related to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:47:42",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content briefly mentions updating work based on user feedback, which hints at adaptability but lacks explicit discussion on intentional shaping of outcomes or the principles of Agentic Agility. It does not differentiate between human and AI capabilities, nor does it explore the deeper themes of agency and intentionality.",
     "level": "Ignored"
   }
 }

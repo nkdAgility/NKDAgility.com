@@ -1222,11 +1222,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-20T18:28:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses governance and compliance issues, which do not directly relate to the Scrum Master role or responsibilities.",
+    "calculated_at": "2025-04-08T15:31:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses governance and compliance rather than the role and responsibilities of a Scrum Master. While it touches on themes of organisational efficiency and agility, it does not explicitly mention Scrum or the Scrum Master's influence on team dynamics or agile practices. The focus is on governance rather than the specific responsibilities or skills of a Scrum Master.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1375,11 +1378,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-20T18:28:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:31:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses governance and its impact on agility, with no clear focus on Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses governance and compliance in organisations, with no direct mention or discussion of Test First Development principles, practices, or methodologies. It focuses on the balance between governance and agility, which is unrelated to the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1470,6 +1476,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses governance and lean principles but does not explicitly mention the One Engineering System (1ES) or its core components. While it touches on themes of process optimisation and compliance, these are not directly aligned with the integration and standardisation focus of 1ES. The discussion lacks depth in relation to 1ES principles, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:31:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses governance and its impact on organisational agility, touching on the need for balance and the pitfalls of over-governance. However, it does not explicitly mention Agentic Agility or its principles. While there is some alignment with the themes of adaptability and value creation, the focus is primarily on governance rather than the intentional shaping of outcomes through agency. The depth of discussion on Agentic Agility is minimal, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

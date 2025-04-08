@@ -1117,11 +1117,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T17:51:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:51:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content is a personal review about a laptop and its performance; it does not discuss Test First Development or related testing methodologies.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on a personal review of a laptop and its performance, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1204,11 +1207,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T17:51:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:51:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a laptop review and personal experiences with its features, which is unrelated to the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a personal review of a laptop and its performance, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics or responsibilities associated with the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1485,6 +1491,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on a personal review of a laptop's performance and user experience, with no direct discussion of competence in terms of skill development or professional growth. While there are mentions of using development tools, they do not connect to the broader themes of competence as defined in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:51:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal review of a laptop, discussing performance and user experience with Windows 8.1. There are no direct mentions of Agentic Agility, nor does it explore themes related to intentional shaping of outcomes, autonomy, or adaptability in a socio-technical context. The discussion lacks depth and relevance to the category, making it clear that the content does not align with the principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

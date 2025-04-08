@@ -1204,11 +1204,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T11:12:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:47:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS) for project management and collaboration across teams, without focusing on Test First Development or related principles such as Test-Driven Development (TDD).",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses strategies for cross-team collaboration and project management within Team Foundation Server (TFS), focusing on work item tracking and organisational structure rather than the principles of Test First Development. There are no explicit mentions of Test First practices, success criteria, or testing methodologies. The discussion lacks depth in relation to Test First Development, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1291,11 +1294,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T11:12:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:47:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical integration and organizational solutions for Team Foundation Server (TFS) related to project management across teams, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS) for project management and work item tracking across multiple teams and projects. While it touches on collaboration and project management, it does not explicitly address the role or responsibilities of a Scrum Master, nor does it delve into Scrum principles or practices. The focus is more on technical solutions and organisational structure rather than the Scrum Master's influence on team dynamics or agile practices.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1581,6 +1587,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses strategies for using TFS to improve cross-team collaboration and project management, which indirectly relates to competence through the lens of effective work item tracking and team organisation. However, it lacks a direct focus on continuous learning, skill development, or the professional growth aspects that are central to the competence category. While it touches on issues that teams face and suggests solutions, it does not delve deeply into fostering a culture of competence or the importance of ongoing skill enhancement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:47:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses practical strategies for using TFS in project management and cross-team collaboration, without explicitly addressing the concept of Agentic Agility. While it touches on themes of collaboration and project management, it lacks a focus on intentional shaping of outcomes, autonomy, or adaptability in the context of both human and AI systems. The discussion does not differentiate between human and AI capabilities, nor does it explore the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }
 }

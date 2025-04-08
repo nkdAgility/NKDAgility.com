@@ -1195,11 +1195,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T17:51:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:52:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses new features and enhancements in Visual Studio 2013 and TFS 2013, without a clear focus on Test First Development or Test-Driven Development principles.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses new features in Visual Studio 2013 and TFS 2013, with a focus on enhancements to the development environment and tools. While there are brief mentions of testing features, such as creating test plans and cases, the overall emphasis is on tool improvements rather than the principles of Test First Development. The content lacks a detailed exploration of success criteria, TDD, or the impact of testing practices on collaboration, which are core to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1285,11 +1288,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T17:51:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:52:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses features and enhancements of Visual Studio and Team Foundation Server, with no direct reference to the Scrum Master role or responsibilities.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the features of Visual Studio 2013 and TFS 2013, with no direct mention of the Scrum Master role or its responsibilities. While there are references to agile improvements, they are not specifically tied to the Scrum Master’s influence or practices, resulting in minimal alignment with the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1566,6 +1572,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the features and enhancements of Visual Studio 2013 and TFS 2013, with little emphasis on the concept of competence. While there are mentions of improving development processes and tools, these do not directly address continuous learning, skill development, or the professional principles associated with competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:52:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the features and enhancements of Visual Studio 2013 and TFS 2013, with no explicit discussion of Agentic Agility or its principles. While it touches on Agile practices, it does not differentiate between human and AI capabilities or discuss intentional shaping of outcomes, which are key aspects of Agentic Agility.",
     "level": "Ignored"
   }
 }

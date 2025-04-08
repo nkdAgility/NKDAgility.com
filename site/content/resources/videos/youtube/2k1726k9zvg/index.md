@@ -25,10 +25,10 @@ preview: https://i.ytimg.com/vi/2k1726k9zvg/maxresdefault.jpg
 duration: 283
 isShort: false
 tags:
+- Scrum Master
 - People and Process
 - Software Development
 - Professional Scrum
-- Scrum Master
 - Agile Project Management
 - Competence
 - Scrum Team

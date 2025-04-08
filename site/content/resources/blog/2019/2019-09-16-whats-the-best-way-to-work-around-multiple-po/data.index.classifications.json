@@ -1189,11 +1189,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T18:13:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:30:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of Product Owners in Scrum and does not address Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of Product Owners in Scrum and does not address Test First Development principles or practices. While it touches on aspects of value delivery and backlog management, it lacks any direct mention or detailed exploration of testing methodologies, success criteria, or the importance of testing in the development process.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1270,14 +1273,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T03:24:34",
+    "calculated_at": "2025-04-08T17:30:12",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
     "final_score": 57.0,
-    "reasoning": "The content primarily discusses the role of the Product Owner (PO) rather than the Scrum Master. While it touches on Scrum principles and the importance of having a PO, it does not delve into the specific responsibilities or practices of a Scrum Master. The mention of Scrum teams and the need for effective backlog management aligns somewhat with Scrum principles, but the focus remains on the PO's role, leading to a moderate confidence score.",
+    "reasoning": "The content primarily discusses the role of the Product Owner rather than the Scrum Master. While it touches on aspects of Scrum and the importance of ownership in a Scrum context, it does not delve into the responsibilities or impact of the Scrum Master. The focus is on managing multiple Product Owners and backlog ownership, which are relevant to Scrum but do not align directly with the Scrum Master's role. Therefore, the confidence score reflects a moderate alignment with the category.",
     "level": "Tertiary"
   },
   "Transparency": {
@@ -1581,6 +1584,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the role of Product Owners within a Scrum framework, which is not directly related to the One Engineering System. While it touches on aspects of team dynamics and value delivery, it does not address the principles, integration, or standardisation of engineering processes that are central to 1ES. The focus is on Scrum practices rather than the broader context of a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:30:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of Product Owners in managing backlog ownership and value delivery, which touches on aspects of agency and accountability. However, it primarily focuses on Scrum practices and does not explicitly address Agentic Agility or differentiate between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals or systems, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

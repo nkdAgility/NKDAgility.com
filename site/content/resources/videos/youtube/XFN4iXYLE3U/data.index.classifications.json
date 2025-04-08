@@ -1315,11 +1315,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T13:55:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:56:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses limiting work in progress in Kanban, which is unrelated to Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Kanban and the importance of limiting work in progress (WIP), which is unrelated to Test First Development principles. There are no direct mentions of Test First practices, success criteria, or testing methodologies. The focus is on workflow management rather than testing strategies.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1381,11 +1384,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:55:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban principles rather than the Scrum Master role or related Scrum practices.",
+    "calculated_at": "2025-04-08T15:56:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Kanban methodology and the importance of limiting work in progress (WIP), with no direct mention of the Scrum Master role or its responsibilities. While there are some general themes of team dynamics and productivity that could tangentially relate to a Scrum Master's influence, the discussion does not align with the core topics of the Scrum Master category. The content lacks depth in addressing the specific responsibilities or skills of a Scrum Master, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1539,6 +1545,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on Kanban and limiting work in progress, which are not directly related to the One Engineering System framework. While it discusses workflow management and efficiency, it does not address the principles, components, or implementation of 1ES, nor does it provide insights into integration across teams or methodologies. Therefore, the confidence score reflects a minimal connection to the specified category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:56:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on limiting work in progress (WIP) within the Kanban framework, discussing its benefits for productivity and workflow management. While it touches on themes of focus and efficiency, it does not explicitly address the intentional shaping of outcomes, nor does it differentiate between human and AI capabilities in the context of agility. The discussion lacks depth regarding the principles of Agentic Agility, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

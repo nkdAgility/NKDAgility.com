@@ -526,11 +526,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 75,
+    "calculated_at": "2025-04-08T15:34:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 70.0,
-    "reasoning": "The content discusses Test-Driven Development (TDD) as part of a broader strategy to eliminate handoffs and improve agility, making it a significant theme, though not the primary focus.",
+    "final_score": 63.0,
+    "reasoning": "The content discusses the importance of eliminating handoffs in software development and mentions Test-Driven Development (TDD) as part of the solution. However, the primary focus is on the negative impacts of handoffs rather than a deep exploration of Test First Development principles. While it aligns with some core themes, such as the emphasis on automation and collaboration, the overall depth and direct mentions of Test First Development are limited.",
     "level": "Secondary"
   },
   "Frequent Releases": {
@@ -865,12 +868,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T15:34:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses team dynamics and practices that can relate to the Scrum Master role, but it primarily focuses on the issue of handoffs rather than the specific responsibilities or techniques of a Scrum Master.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the impact of handoffs on agility and suggests practices for improving team collaboration, which indirectly relates to the Scrum Master's role in fostering effective teamwork. However, it does not explicitly focus on the responsibilities or skills of a Scrum Master, nor does it delve into the nuances of the role within a Scrum framework. The primary focus is on eliminating handoffs rather than on the Scrum Master’s influence or techniques.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1632,6 +1638,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses the negative impact of handoffs in software development and strategies to eliminate them, which does not directly address the principles or components of the One Engineering System. While it touches on collaboration and efficiency, it does not provide a detailed exploration of 1ES or its implementation, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:34:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the negative impact of handoffs on agility and suggests strategies for improvement, but it does not explicitly address the concept of Agentic Agility or the intentional shaping of outcomes. While it touches on themes of collaboration and organisational alignment, it lacks a focused exploration of autonomy, adaptability, and the interplay between human and AI capabilities in achieving desired outcomes.",
     "level": "Ignored"
   }
 }

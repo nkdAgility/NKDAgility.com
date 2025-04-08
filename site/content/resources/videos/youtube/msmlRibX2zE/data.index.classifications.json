@@ -514,11 +514,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:35:50",
+    "calculated_at": "2025-04-08T17:54:34",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content is unrelated to the topic of Scrum Master, focusing instead on an unboxing video of a product.",
+    "reasoning": "The content is focused on unboxing a product and does not mention Scrum, the role of a Scrum Master, or any related concepts. It is entirely unrelated to the category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -922,11 +925,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:35:50",
+    "calculated_at": "2025-04-08T17:54:32",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on unboxing a product and does not discuss Test First Development or related practices.",
+    "reasoning": "The content is focused on unboxing a product and does not discuss any principles or practices related to Test First Development. There are no mentions of testing methodologies, success criteria, or any relevant topics that align with the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1461,6 +1467,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content focuses solely on unboxing a product and does not discuss any aspects related to competence, continuous learning, or professional development.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:54:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on unboxing a product and does not discuss any aspects of Agentic Agility, such as intentional shaping of outcomes, autonomy, or adaptability. There are no relevant mentions or alignment with the core themes of the category.",
     "level": "Ignored"
   }
 }

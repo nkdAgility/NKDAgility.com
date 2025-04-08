@@ -496,11 +496,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T19:04:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:46:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the inefficiencies of Alpha organisations in red markets and contrasts them with Beta organisations, with no mention of Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the inefficiencies of Alpha organisations in red markets and contrasts them with Beta organisations, focusing on organisational structures and market adaptability. There are no direct mentions of Test First Development principles, success criteria, or testing practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -826,11 +829,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T19:04:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:46:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the inefficiencies of Alpha organisations in red markets, without any direct reference to Scrum Master roles or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the differences between Alpha and Beta organisations in the context of market adaptability, focusing on waste and inefficiency in traditional hierarchical structures. While it touches on themes of agility, it does not explicitly mention the role of a Scrum Master or delve into Scrum practices, responsibilities, or the impact of a Scrum Master on team dynamics or organisational change. Therefore, it lacks direct mentions and depth related to the Scrum Master category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1554,6 +1560,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the inefficiencies of Alpha organisations in red markets and contrasts them with Beta organisations. It does not mention the One Engineering System or its principles, nor does it explore integration or standardisation of engineering processes. The focus is on organisational models rather than the core themes of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:46:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the inefficiencies of Alpha organisations in adapting to fast-paced red markets, contrasting them with agile Beta organisations. While it touches on themes of adaptability and the waste of human potential, it does not explicitly mention Agentic Agility or its principles. The focus is more on organisational structures and market dynamics rather than the intentional shaping of outcomes through agency and adaptability.",
     "level": "Ignored"
   }
 }

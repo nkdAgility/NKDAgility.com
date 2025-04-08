@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T02:44:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses consulting engagement outcomes and systemic change, with no focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:49:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses consulting engagements and systemic change within organisations, with a focus on lean principles and transformation. It does not mention Test First Development or its core concepts, nor does it provide any depth on testing practices or success criteria related to software development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -859,11 +862,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T02:45:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses consulting engagement outcomes and systemic change, with only a brief mention of Agile and Scrum at the end, which does not make it central to the topic.",
+    "calculated_at": "2025-04-08T16:49:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses systemic change and transformation in an organisational context, which aligns with some principles of the Scrum Master role. However, it does not explicitly mention the Scrum Master or delve into specific responsibilities or techniques relevant to the role. The focus is more on consulting and general agile principles rather than the specific duties and impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1593,6 +1599,18 @@
     "non_ai_confidence": 30,
     "final_score": 14.0,
     "reasoning": "The content primarily discusses consulting engagements and systemic change without any direct reference to the One Engineering System (1ES). While it touches on themes of transformation and agility, it does not align with the core principles of 1ES, such as standardisation and integration of software development practices. The focus is more on personal and organisational change rather than the specific framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:49:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of systemic change and transformation within consulting engagements, which aligns with the broader themes of Agentic Agility. However, it lacks explicit mentions of Agentic Agility principles, such as the distinction between human and AI capabilities, and does not delve deeply into the mechanisms of intentional outcome shaping. The focus is more on general Agile practices and the challenges of change rather than a specific exploration of agency and intentionality.",
     "level": "Ignored"
   }
 }

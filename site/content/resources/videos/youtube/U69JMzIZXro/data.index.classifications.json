@@ -520,11 +520,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on installing TFS 2013, which is unrelated to the role or responsibilities of a Scrum Master.",
+    "calculated_at": "2025-04-08T17:49:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing Team Foundation Server (TFS) and does not discuss the role or responsibilities of a Scrum Master. While it briefly mentions creating a team project using a Scrum template, this is not a substantial discussion on Scrum Master responsibilities or their impact on team dynamics and agile practices.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -925,11 +928,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on installing TFS 2013 and does not relate to Test First Development themes.",
+    "calculated_at": "2025-04-08T17:49:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Team Foundation Server (TFS) and SQL Server, with no direct discussion of Test First Development principles or practices. While it touches on aspects of agile methodology, it does not address success criteria, testing practices, or the importance of feedback loops, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1473,6 +1479,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the technical steps for installing TFS and SQL Server, with minimal direct discussion on competence or skill development. While it implies a level of competence in executing the installation process, it does not explicitly address continuous learning, quality outcomes, or fostering a culture of competence. The depth of discussion remains technical rather than reflective on professional growth or mastery.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:49:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Team Foundation Server (TFS) and does not discuss Agentic Agility or its principles. While it mentions 'agile journey' in a general sense, it lacks any explicit discussion of intentionality, autonomy, or adaptability in shaping outcomes, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

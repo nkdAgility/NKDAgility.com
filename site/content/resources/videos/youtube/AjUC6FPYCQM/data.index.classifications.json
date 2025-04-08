@@ -541,14 +541,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T12:16:21",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-04-08T17:03:46",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the importance of professionalism within Scrum teams and touches on the role of Scrum in fostering transparency and collaboration. However, while it mentions Scrum and its principles, the focus is more on general team dynamics and professionalism rather than specifically on the responsibilities and practices of a Scrum Master. The discussion lacks depth in terms of specific Scrum Master techniques or strategies, which affects the overall confidence score.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of professionalism within Scrum teams and touches on the role of Scrum in fostering transparency and accountability. However, it does not explicitly mention the Scrum Master role or delve deeply into the specific responsibilities and skills associated with it. While it aligns conceptually with the themes of Scrum and professionalism, the lack of direct focus on the Scrum Master limits its overall relevance to the category.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -979,11 +979,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:22:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:03:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum application and practices without focusing on Test First Development or TDD principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses professionalism within Scrum teams and does not explicitly mention Test First Development or its principles. While it touches on the importance of clear requirements and transparency, it lacks a direct focus on testing practices, success criteria, or the methodologies associated with Test First Development. The discussion is more about team dynamics and professionalism rather than the specific practices of Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1557,6 +1560,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on Scrum and professionalism within Agile teams, which does not align with the core principles of the One Engineering System. While it touches on some aspects of team dynamics and processes, it lacks direct discussion of 1ES, its components, or its implementation. The content is more about personal experiences and opinions regarding Scrum rather than a structured analysis of a unified engineering framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:03:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses professionalism within Scrum and Agile practices, focusing on team dynamics and transparency rather than the intentional shaping of outcomes through agency and adaptability. While it touches on the importance of professionalism, it does not explicitly address Agentic Agility or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

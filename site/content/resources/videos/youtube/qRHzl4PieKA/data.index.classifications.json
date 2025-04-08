@@ -1369,11 +1369,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on empowering teams to change requirements based on user feedback, which is not directly related to Test First Development or its principles.",
+    "calculated_at": "2025-04-08T15:56:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile practices, team empowerment, and backlog management without a direct focus on Test First Development principles. While it touches on the importance of adapting to user feedback, it does not explicitly mention success criteria, testing practices, or the role of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1435,14 +1438,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T18:48:44",
+    "calculated_at": "2025-04-08T15:57:00",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
     "final_score": 71.0,
-    "reasoning": "The content discusses the importance of team engagement and backlog management, which are relevant to the Scrum Master role. It provides practical advice for Scrum Masters, such as regularly reviewing the backlog and championing the team's voice. However, while it touches on Scrum principles, it lacks a focused discussion on the specific responsibilities and practices of a Scrum Master, leading to a moderate confidence score.",
+    "reasoning": "The content discusses the importance of team empowerment, user feedback, and backlog management, which are relevant to the Scrum Master's role. It provides practical advice for Scrum Masters, emphasising their influence in facilitating team dynamics and ensuring the backlog reflects current insights. However, while the Scrum Master is mentioned, the primary focus is on agile product management rather than a deep exploration of the Scrum Master's responsibilities.",
     "level": "Secondary"
   },
   "Cycle Time": {
@@ -1603,5 +1606,17 @@
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Agile practices and team empowerment rather than the One Engineering System framework. While it touches on aspects of collaboration and adapting processes, it does not explicitly discuss the principles, components, or implementation of 1ES. The discussion is more aligned with Agile methodologies and personal experiences rather than the integration and standardisation of engineering processes as defined by 1ES.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:56:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses team empowerment and adaptability in Agile practices, which aligns with the concept of Agentic Agility. However, it primarily focuses on general Agile principles rather than explicitly addressing the intentional shaping of outcomes or differentiating between human and AI capabilities. The discussion lacks depth in exploring the mechanisms of Agentic Agility and does not provide specific examples or case studies related to the category.",
+    "level": "Tertiary"
   }
 }

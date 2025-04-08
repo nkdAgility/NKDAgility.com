@@ -1255,11 +1255,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T13:24:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:05:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses immersive learning and theory in Scrum, with no focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on immersive learning within the context of Scrum and Agile methodologies, discussing the importance of theory and experience in training. While it touches on concepts relevant to learning and collaboration in Scrum, it does not explicitly address Test First Development principles, success criteria, or testing practices. The discussion lacks depth in relation to Test First Development, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1324,12 +1327,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:24:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning and theory without a clear focus on the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T16:05:41",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the role of immersive learning in the context of Scrum, particularly focusing on the responsibilities and development of Scrum Masters. It highlights the importance of theory in enhancing the effectiveness of Scrum practitioners, which aligns closely with the core themes of the Scrum Master category. The depth of discussion is significant, providing practical examples and insights into how Scrum Masters can improve their practice through immersive learning and reflection on theory.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1503,6 +1509,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on immersive learning within the context of Scrum and Agile methodologies, without any direct mention or discussion of the One Engineering System (1ES). While it touches on themes of collaboration and improvement, it does not align with the core principles of 1ES, which emphasises standardisation and integration across teams. The depth of discussion is centred on personal experiences and insights related to Scrum training rather than the integration of tools and processes across teams as required by the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:05:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on immersive learning within the context of Scrum and Agile practices, discussing the importance of theory and experience. While it touches on reflective practices and critical thinking, it does not explicitly address the concept of Agentic Agility or differentiate between human and AI capabilities. The discussion lacks depth in exploring the intentional shaping of outcomes, which is central to Agentic Agility.",
     "level": "Ignored"
   }
 }

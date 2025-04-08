@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T09:51:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:00:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the benefits of private training courses and the dynamics of conversations in Agile and Scrum contexts, without a clear focus on Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the benefits of private training courses in Agile and Scrum, with no direct mention of Test First Development principles or practices. While it touches on unit testing and Agile methodologies, these are not explored in the context of Test First Development, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -859,11 +862,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T09:52:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses training and consulting in Agile and DevOps contexts, without a clear focus on the Scrum Master role or responsibilities.",
+    "calculated_at": "2025-04-08T16:59:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions Scrum in the context of private training courses but does not focus on the role or responsibilities of a Scrum Master. While it discusses Agile training and team effectiveness, it lacks depth in exploring the specific impact of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1593,6 +1599,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on private training courses related to Agile and Scrum, with no direct mention or discussion of the One Engineering System framework. While it touches on themes of team effectiveness and collaboration, it does not align with the core principles of 1ES, such as standardisation and integration of software development practices across teams. The depth of discussion is limited to training benefits rather than the implementation or impact of a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:59:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on private training courses in Agile and Scrum, discussing their benefits and the environment they create for candid conversations. While it touches on themes of team effectiveness and transformation, it does not explicitly address Agentic Agility or its core principles. The discussion lacks depth regarding intentional shaping of outcomes, accountability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

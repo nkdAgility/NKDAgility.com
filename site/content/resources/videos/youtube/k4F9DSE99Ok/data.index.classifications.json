@@ -187,11 +187,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:24:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses stakeholder engagement and morale in Agile, not Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses stakeholder engagement and feedback within Agile practices, with no direct mention of Test First Development principles or practices. While it touches on the importance of feedback, it does not align with the core themes of Test First Development, such as defining success criteria or automated testing methodologies. The depth of discussion is focused on engagement strategies rather than testing practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -643,15 +646,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T18:04:45",
+    "calculated_at": "2025-04-08T16:24:26",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses the importance of stakeholder engagement within the Scrum framework, which is relevant to the Scrum Master's role in facilitating communication and collaboration. However, it lacks a detailed exploration of Scrum Master responsibilities or specific practices, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback within an Agile context, which is relevant to the Scrum Master's role in facilitating communication and collaboration. However, it does not explicitly focus on the Scrum Master role itself, nor does it delve deeply into the specific responsibilities or techniques associated with being a Scrum Master. The mention of the product owner and general Agile practices indicates some alignment, but the primary focus is on stakeholder engagement rather than the Scrum Master role.",
+    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -1587,6 +1590,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Agile practices and stakeholder engagement, with no direct mention of the One Engineering System (1ES) framework. While it discusses the importance of feedback and team morale, it does not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The depth of discussion is limited to Agile methodologies, which are not the focus of the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:24:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses stakeholder engagement and feedback within Agile practices, which touches on aspects of intentionality and alignment with business goals. However, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. The focus is primarily on improving team morale and productivity rather than on the transformative capacity of individuals or systems to shape outcomes intentionally.",
     "level": "Ignored"
   }
 }

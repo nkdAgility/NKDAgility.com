@@ -397,11 +397,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T21:44:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:49:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges of delivering value to clients and the limitations of contracts, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses client needs and the importance of delivering value beyond contractual obligations, which aligns with some agile principles. However, it does not explicitly mention the role of a Scrum Master or delve into Scrum-specific practices, responsibilities, or techniques. The focus is more on consulting and client relationships rather than the Scrum framework or the specific role of a Scrum Master.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -439,11 +442,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T21:44:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:49:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges of delivering value to clients through statements of work, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of understanding client needs and delivering value beyond contractual obligations, with no direct mention of Test First Development principles or practices. While it touches on agile methodologies, it does not align with the core themes of Test First Development, such as defining success criteria or the role of testing in the development process.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1590,6 +1596,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the importance of understanding client needs beyond the statement of work (SoW) in consulting, which does not align with the core principles of the One Engineering System. While it touches on themes of flexibility and value delivery, it lacks direct references to 1ES, integration of tools, or standardisation of engineering practices. The focus is on personal experiences and anecdotal evidence rather than a structured discussion on engineering systems.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:49:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of understanding client needs and delivering value beyond contractual obligations, which aligns with the principles of Agentic Agility. However, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. The focus is more on personal experiences and general consulting practices rather than a deep exploration of the category's core themes.",
     "level": "Ignored"
   }
 }

@@ -370,11 +370,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T19:00:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:38:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the qualifications and experiences of a PSPO trainer, with no direct reference to the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Russell as a Professional Scrum Trainer and his expertise in Product Ownership, rather than discussing the role and responsibilities of a Scrum Master. While it mentions Scrum and touches on agile principles, it does not delve into the specific responsibilities or impact of a Scrum Master within a Scrum Team. The discussion is more about training and product ownership than the Scrum Master's role, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -406,11 +409,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T19:00:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the qualifications and experiences of a trainer, with no discussion of Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T16:38:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on promoting Russell as a Professional Scrum Trainer and discussing his experience and teaching philosophy. It does not mention Test First Development, its principles, or related practices. The discussion is centred around product ownership and training rather than any testing methodologies or practices.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1488,6 +1494,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Russell's qualifications and teaching style as a Professional Scrum Trainer, discussing his experience and philosophy in product ownership. It does not mention the One Engineering System or its principles, components, or implementation. The discussion is centred around Scrum and product ownership, which are not aligned with the core themes of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:38:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Russell as a PSPO trainer and does not explicitly discuss Agentic Agility or its principles. While there are mentions of value maximization and product ownership, these concepts are not framed within the context of intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion lacks depth and does not engage with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

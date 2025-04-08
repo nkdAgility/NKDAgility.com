@@ -181,11 +181,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:23:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses team conflict and Agile team dynamics, with no direct relevance to Test First Development or its practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses team conflict and strategies for de-escalation within Agile teams, with no direct mention of Test First Development principles or practices. While it touches on collaboration, it does not align with the core themes of defining success criteria or testing methodologies, nor does it provide any depth on Test First practices like TDD or ATDD.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -637,14 +640,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T14:08:35",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the role of the Scrum Master in managing team conflict, which is a relevant aspect of their responsibilities. However, it primarily focuses on the concept of conflict rather than providing a comprehensive exploration of Scrum Master practices or techniques. The mention of the Scrum Master is explicit, but the overall depth and alignment with the broader themes of the category are moderate.",
+    "calculated_at": "2025-04-08T16:23:26",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the role of a Scrum Master in managing team conflict, which is a primary focus of the piece. It provides detailed strategies for de-escalating conflict, aligning well with the responsibilities of a Scrum Master. The discussion is rich in context, addressing the importance of communication and collaboration, which are core themes in the Scrum framework. Overall, the content is deeply relevant to the Scrum Master category, demonstrating a strong understanding of the role's impact on team dynamics.",
     "level": "Secondary"
   },
   "Enterprise Agility": {
@@ -1554,6 +1557,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on conflict resolution within Agile teams, discussing strategies for managing disagreements rather than addressing the principles or components of the One Engineering System. While it touches on collaboration, it does not delve into the integration of tools or processes, nor does it provide insights into the 1ES framework or its implementation. Therefore, it lacks the necessary depth and alignment with the core themes of the One Engineering System.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:23:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses conflict management within Agile teams, focusing on communication and collaboration. However, it does not explicitly address Agentic Agility or its principles. While it touches on themes of adaptability and teamwork, it lacks a clear distinction between human and AI capabilities, and does not delve into the intentional shaping of outcomes, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

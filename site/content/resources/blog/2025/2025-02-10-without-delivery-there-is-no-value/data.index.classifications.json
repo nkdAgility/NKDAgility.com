@@ -574,11 +574,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-14T16:26:09",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-08T15:31:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content primarily discusses the importance of delivery and frequent releases in Agile practices, with only a minor mention of testing assumptions through delivery. It does not focus on the principles or practices of Test First Development or TDD.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of delivery and feedback loops in Agile and Scrum, which indirectly relates to Test First Development principles. However, it primarily focuses on the concept of delivery rather than explicitly addressing Test First practices, success criteria, or testing methodologies. The discussion lacks depth in terms of Test First Development specifics, such as TDD or ATDD, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -943,15 +946,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T16:26:53",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 55.0,
+    "calculated_at": "2025-04-08T15:31:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the importance of delivery and frequent releases in Agile, which aligns with Scrum principles. However, it lacks direct references to the specific role and responsibilities of a Scrum Master, focusing more on general Agile practices and delivery metrics. While it touches on concepts relevant to Scrum, such as feedback loops and team dynamics, it does not delve deeply into the Scrum Master's role in facilitating these processes.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of delivery in the context of Agile and Scrum, highlighting key principles such as transparency, inspection, and adaptation, which are central to the Scrum Master's role. However, it does not explicitly focus on the responsibilities or skills of a Scrum Master, nor does it delve deeply into their influence on team dynamics or organisational change. While it aligns with Scrum principles, it lacks a direct focus on the Scrum Master as a pivotal role.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1749,6 +1752,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily discusses the importance of delivery in software development, focusing on Agile and Scrum methodologies rather than the One Engineering System framework. While it touches on concepts like feedback loops and iterative releases, it does not explicitly mention 1ES or its principles, components, or implementation strategies. The discussion is more about delivery practices than the integration and standardisation of engineering processes across teams, which is the core focus of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:31:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of delivery in Agile practices, focusing on how frequent releases validate assumptions and create value. However, it primarily centres on delivery mechanisms rather than explicitly addressing the concept of Agentic Agility, which involves intentional shaping of outcomes through autonomy and adaptability. While there are elements of alignment with the principles of Agentic Agility, such as the emphasis on feedback loops and adaptation, the content lacks a direct exploration of the distinctions between human and AI capabilities in this context, leading to a lower confidence score.",
     "level": "Ignored"
   }
 }

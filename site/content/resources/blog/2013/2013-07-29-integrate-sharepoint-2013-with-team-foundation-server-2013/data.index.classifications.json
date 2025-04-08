@@ -1138,11 +1138,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:30:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:54:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses integrating SharePoint 2013 with Team Foundation Server 2013, focusing on setup and configuration rather than Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on integrating SharePoint with Team Foundation Server, discussing installation and configuration steps without any reference to Test First Development principles, success criteria, or testing practices. There is no mention of automated or manual testing, nor any alignment with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1225,11 +1228,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:30:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:54:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the integration of SharePoint with Team Foundation Server and does not focus on the role, responsibilities, or practices of a Scrum Master.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on integrating SharePoint with Team Foundation Server, which is unrelated to the role and responsibilities of a Scrum Master. While there is a brief mention of Scrum in the context of process templates, it does not delve into the Scrum Master's role, responsibilities, or impact on team dynamics or organisational change. The discussion lacks depth and relevance to the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1503,6 +1509,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the technical integration of SharePoint with Team Foundation Server, with minimal direct discussion on competence or skill development. While it touches on the necessity of knowledge in SharePoint for ALM consultants, it lacks a broader exploration of continuous learning, quality outcomes, or fostering a culture of competence. The depth of discussion is more about procedural steps than about the principles of competence in a professional context.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:54:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint with Team Foundation Server, discussing installation and configuration steps without addressing the principles of Agentic Agility, such as intentional shaping of outcomes, autonomy, or adaptability. There are no explicit mentions of agency or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

@@ -1174,14 +1174,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-15T04:41:56",
+    "calculated_at": "2025-04-08T17:48:57",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 30,
     "final_score": 32.0,
-    "reasoning": "The content discusses automated testing and release management in Visual Studio 2013, but it does not explicitly focus on Test First Development principles or practices. While it mentions executing tests and the use of Microsoft Test Manager, it lacks a clear emphasis on writing tests before code, which is central to Test First Development. The discussion is more about deployment processes and tools rather than the foundational concepts of TDD or the benefits of embedding quality from the outset.",
+    "reasoning": "The content discusses executing tests within the context of Release Management for Visual Studio 2013, which touches on automated testing but does not explicitly focus on Test First Development principles. While it mentions automated testing processes, it lacks a clear emphasis on defining success criteria before implementation or the broader implications of Test First Development practices. The discussion is more about practical execution rather than the foundational concepts of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1270,11 +1270,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T11:31:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:48:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on automated deployment and testing processes using Release Management in Visual Studio, with no clear connection to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of automated testing and release management in Visual Studio 2013, with no direct mention of the Scrum Master role or its responsibilities. While there are elements of team collaboration implied, they do not align with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles. The discussion lacks depth regarding Scrum practices or the impact of a Scrum Master on team dynamics.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1554,6 +1557,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on technical processes related to executing tests and managing releases in Visual Studio 2013. While it touches on aspects of competence, such as the need for skill in using tools like Release Management and Microsoft Test Manager, it does not explicitly discuss continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The discussion is more about practical implementation rather than fostering a culture of competence or professional growth.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:48:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical aspects of executing tests and managing releases in Visual Studio 2013, with no explicit discussion of Agentic Agility principles. While it touches on automation and deployment processes, it lacks a clear connection to the intentional shaping of outcomes, autonomy, or adaptability as defined in the category. The discussion does not differentiate between human and AI capabilities, nor does it explore the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }
 }

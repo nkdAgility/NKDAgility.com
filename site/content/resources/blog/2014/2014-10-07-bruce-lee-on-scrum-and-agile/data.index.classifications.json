@@ -1198,11 +1198,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T09:56:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:43:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses philosophy related to Scrum and Agile without any mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Bruce Lee's philosophy on Scrum and Agile, focusing on adaptability and simplicity rather than the principles of Test First Development. There are no direct mentions of Test First practices, success criteria, or testing methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1279,14 +1282,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T04:20:01",
+    "calculated_at": "2025-04-08T17:43:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 20,
     "final_score": 31.0,
-    "reasoning": "The content references Scrum and Agile concepts through a philosophical lens, primarily quoting Bruce Lee's thoughts on adaptability and principles rather than focusing on the specific role and responsibilities of a Scrum Master. While it touches on the essence of Scrum, it lacks direct discussion of Scrum Master duties, coaching techniques, or team dynamics, which are crucial for a higher confidence score in this category.",
+    "reasoning": "The content references Scrum and Agile philosophies but does not specifically discuss the role or responsibilities of a Scrum Master. While it touches on concepts of adaptability and simplicity, which are relevant to Scrum, it lacks a focused discussion on the Scrum Master's impact, techniques, or distinctions from other roles. The philosophical nature of the content makes it more abstract and less aligned with the practical aspects of the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1578,6 +1581,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content references Bruce Lee's philosophy in relation to Scrum and Agile, focusing on simplicity and adaptability. However, it lacks direct discussions on competence, continuous learning, or skill development. While it touches on principles that could relate to competence, such as mastery and adaptability, these concepts are not explored in depth or explicitly tied to the core themes of competence as defined in the category. The overall focus is more on philosophy than on the practical aspects of competence in Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:43:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Bruce Lee's philosophy on Scrum and Agile, focusing on adaptability and simplicity. However, it does not explicitly mention Agentic Agility or its key principles. While there are elements of autonomy and adaptability, the discussion lacks depth in exploring the intentional shaping of outcomes or the distinction between human and AI capabilities. Overall, the content is more about Agile practices than the specific concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -33,6 +33,7 @@ tags:
 - Software Development
 - Scrum Product Development
 - Agile Planning
+- Scrum Master
 - Agile Frameworks
 - Pragmatic Thinking
 - Estimation

@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T14:15:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:46:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on optimising flow and batch sizes in a Scrum context, with no mention of Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on optimising flow through batch processing and does not explicitly discuss Test First Development principles, success criteria, or testing practices. While it touches on aspects of delivery and team dynamics, it lacks a direct connection to the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -871,15 +874,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T18:05:08",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-04-08T15:46:10",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses a workshop designed to help teams understand the impact of batch sizes on delivery, which is relevant to Scrum practices. It mentions a Scrum team and includes facilitation steps that align with Scrum ceremonies. However, it lacks a direct focus on the Scrum Master role and does not delve deeply into the responsibilities or techniques specific to Scrum Masters, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses a workshop focused on optimising flow through breaking down Backlog Items, which is relevant to Scrum practices. However, it primarily centres on a specific exercise rather than a comprehensive exploration of the Scrum Master's role or responsibilities. While it mentions a Scrum Team and touches on facilitation, it lacks depth in discussing the broader impact of the Scrum Master on team dynamics or organisational change.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1623,6 +1626,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on a workshop about optimising flow through batch processing, which is related to Agile methodologies like Scrum. While it touches on concepts of delivery and efficiency, it does not explicitly discuss the One Engineering System framework or its principles. The discussion is more about practical exercises rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:46:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on optimising flow through batch processing in a Scrum context, which does not directly address the intentional shaping of outcomes or the principles of Agentic Agility. While it mentions improving processes, it lacks a clear discussion on autonomy, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

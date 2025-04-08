@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T01:31:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:52:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses DevOps practices and challenges, with no clear focus on Test First Development or related testing methodologies.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on DevOps practices and does not explicitly discuss Test First Development principles. While it mentions automation and quality assurance, these topics are not framed within the context of Test First Development, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -859,11 +862,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T01:32:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:52:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps practices and challenges, with no clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on DevOps practices and methodologies, with no direct mention of the Scrum Master role or its responsibilities. While there are themes of team dynamics and continuous improvement, they are framed within a DevOps context rather than Scrum. The discussion lacks depth regarding the specific skills and influence of a Scrum Master, leading to a low confidence score for alignment with the category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1611,6 +1617,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on DevOps practices and tailored solutions for organisations, with minimal direct mention of the One Engineering System (1ES). While it discusses streamlining processes and improving software delivery, it does not explicitly address the principles or components of 1ES, nor does it provide depth on its implementation or impact. The discussion is more aligned with general DevOps methodologies rather than the specific integration and standardisation of engineering processes outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:52:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on DevOps practices and does not explicitly discuss Agentic Agility or its principles. While it touches on themes of ownership and streamlining processes, it lacks a clear distinction between human and AI capabilities, and does not delve into the intentional shaping of outcomes as defined by Agentic Agility.",
     "level": "Ignored"
   }
 }

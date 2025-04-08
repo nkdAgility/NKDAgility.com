@@ -175,11 +175,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:36:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to fake agilists in the Agile community and does not address Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T16:24:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the issues surrounding fake agilists and their impact on Agile methodologies, without any direct reference to Test First Development principles or practices. While it touches on Agile concepts, it does not delve into success criteria, testing practices, or the importance of testing in the development process, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -610,11 +613,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:36:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:24:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the concept of fake agilists generally and does not focus on the responsibilities or practices specific to the Scrum Master role.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the concept of 'fake agilists' and their detrimental impact on Agile methodologies, which indirectly touches on the role of Scrum Masters. However, it does not explicitly focus on the responsibilities or skills of a Scrum Master, nor does it provide in-depth discussion on their influence within a Scrum Team. The primary focus is on the broader implications of Agile practices rather than the specific role of the Scrum Master.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the issues surrounding fake agilists within Agile methodologies, discussing their impact on teams and innovation. It does not mention or align with the principles of the One Engineering System, nor does it provide any depth on standardising or integrating software development practices across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:24:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily critiques the presence of fake agilists and their impact on Agile methodologies, focusing on the importance of real experience over certification. While it touches on themes of leadership and innovation, it does not explicitly discuss Agentic Agility or its principles. The content lacks a clear distinction between human and AI capabilities, and does not engage with the intentional shaping of outcomes, which are central to the category of Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T20:09:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:32:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of Sprint Goals within the Scrum framework, with no focus on Test First Development or related testing practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the concept of Sprint Goals within the Scrum framework, discussing their importance, formulation, and examples. It does not address Test First Development principles, success criteria, or testing practices, which are central to the category. The mention of accountability and stakeholder feedback is relevant but does not directly relate to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -853,14 +856,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-13T16:43:44",
-    "ai_confidence": 87.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 90.0,
-    "ai_depth": 85.0,
+    "calculated_at": "2025-04-08T16:32:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content focuses extensively on the concept of the Sprint Goal, which is a critical aspect of the Scrum framework. It discusses the importance of the Sprint Goal in relation to team accountability and stakeholder engagement, aligning well with the responsibilities of a Scrum Master. The depth of discussion includes practical examples and frameworks for crafting effective Sprint Goals, which are essential for a Scrum Master's role in facilitating team collaboration and ensuring adherence to Agile principles. Overall, the content is highly relevant to the Scrum Master category.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the concept of Sprint Goals within the Scrum framework, which is a critical aspect of the Scrum process. While it does not explicitly mention the Scrum Master role, it discusses the importance of collaboration and accountability, which are key responsibilities of a Scrum Master. The depth of discussion on crafting effective Sprint Goals and their impact on team dynamics and stakeholder engagement aligns with the core themes of the Scrum Master category. However, the lack of direct references to the Scrum Master role itself and the focus on Sprint Goals rather than the broader responsibilities of a Scrum Master limits the overall confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1584,6 +1587,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on Scrum and the concept of Sprint Goals, which are specific to Scrum methodology rather than the broader principles of the One Engineering System. While there are elements of team collaboration and goal setting, the discussion does not address the integration or standardisation of engineering processes across teams, which is central to 1ES. Therefore, the content does not align well with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:32:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the concept of Sprint Goals within the Scrum framework, discussing their importance, crafting methods, and examples. While it touches on accountability and value delivery, it does not explicitly address the principles of Agentic Agility, such as intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical context, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

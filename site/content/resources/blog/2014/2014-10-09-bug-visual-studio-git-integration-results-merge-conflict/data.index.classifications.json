@@ -1144,11 +1144,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T09:56:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:43:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content discusses issues related to Git integration, merge conflicts, and workflows rather than focusing on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses resolving merge conflicts in Git and improving workflows in Visual Studio, with no direct mention of Test First Development principles or practices. While it touches on aspects of development processes, it does not align with the core themes of Test First Development, such as defining success criteria or the role of testing in guiding design and implementation.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1231,11 +1234,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T09:56:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:43:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Git integration and version control workflows, without any reference to Scrum Master roles, responsibilities, or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to Git and Visual Studio, with no direct mention of the Scrum Master role or its responsibilities. While there is a brief mention of workflows, it does not align with the core themes of Scrum Master discussions, such as coaching, team dynamics, or agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1515,6 +1521,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses a technical issue related to Git integration in Visual Studio and provides a detailed workflow for resolving merge conflicts. While it touches on the learning curve and the need for developers to adapt to a new system, it does not explicitly focus on the broader themes of competence, such as continuous learning or skill development. The discussion is more about practical problem-solving rather than fostering a culture of competence or professional growth.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:43:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to Git and Visual Studio, with no explicit discussion of Agentic Agility principles. While it touches on workflows and collaboration, it lacks depth in exploring intentional shaping of outcomes, accountability, or the interplay between human and AI capabilities. The content does not align with the core themes of Agentic Agility, making it a low-confidence classification.",
     "level": "Ignored"
   }
 }

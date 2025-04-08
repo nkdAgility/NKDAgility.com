@@ -1186,14 +1186,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-15T03:54:10",
+    "calculated_at": "2025-04-08T17:37:03",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content briefly mentions TDD (Test-Driven Development) as part of the Professional Scrum Developer course description, indicating some relevance to Test First Development. However, the primary focus of the content is on Scrum courses and their delivery rather than an in-depth exploration of Test First Development principles or practices. The discussion lacks substantial detail on the benefits, processes, or tools specifically related to Test First Development, leading to a low confidence score.",
+    "reasoning": "The content briefly mentions TDD (Test-Driven Development) as part of the Professional Scrum Developer course, which aligns with Test First Development principles. However, the primary focus of the content is on Scrum courses and their structure, rather than a detailed discussion of Test First Development practices. The mention of TDD is not elaborated upon, and the overall content lacks depth in exploring the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1273,14 +1273,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T11:47:41",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 75.0,
+    "calculated_at": "2025-04-08T17:37:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content primarily focuses on a Professional Scrum Master course, which directly relates to the role and responsibilities of a Scrum Master. It discusses advanced topics relevant to Scrum Masters, such as Coaching Stance and Active Listening, which are essential skills for effective Scrum Mastery. However, while it provides a good level of detail about the course and its objectives, it lacks broader discussions on Scrum practices and team dynamics that would further enhance its alignment with the category.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the Professional Scrum Master course, discussing its objectives, advanced topics, and the skills necessary for effective Scrum Masters. It explicitly mentions the role of the Scrum Master and the importance of mastering the Scrum framework, which aligns well with the key topics of the category. The depth of discussion is significant, covering advanced concepts like Coaching Stance and Active Listening, which are crucial for a Scrum Master. However, the content is somewhat promotional and less focused on broader discussions about the Scrum Master's influence on organisational change or team dynamics, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1578,6 +1578,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Professional Scrum courses and Agile practices, which are not directly related to the One Engineering System framework. While it mentions concepts like collaboration and quality, it does not discuss the integration of tools or processes across teams, nor does it provide insights into the principles or challenges of implementing 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:37:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Professional Scrum courses and Agile practices without discussing the intentional shaping of outcomes or the principles of Agentic Agility. There are no explicit mentions of autonomy, adaptability, or the interplay between human and AI capabilities, which are central to the category. The discussion is more about training and course offerings rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

@@ -382,11 +382,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T07:25:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:57:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the concept of Scrum and its application in managing complexity, without a specific focus on the role of the Scrum Master.",
+    "final_score": 30.0,
+    "reasoning": "The content provides a general overview of Scrum as an agile framework but does not specifically focus on the role of the Scrum Master. While it mentions Scrum and its principles, it lacks detailed discussion on the responsibilities, skills, or impact of the Scrum Master. The mention of 'Scrum Master' in hashtags does not contribute significantly to the content's focus, which is primarily on the Scrum framework itself rather than the specific role.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -421,11 +424,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T07:25:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:57:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and its role in navigating complexity, without focusing on Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum as an agile framework and does not mention Test First Development or its principles. While it touches on concepts related to complexity and team organisation, it lacks any direct references to testing practices, success criteria, or the importance of testing in the development process.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1530,6 +1536,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on Scrum, an agile framework, and does not discuss the One Engineering System (1ES) or its principles. While it touches on concepts related to software development, it does not align with the core themes of 1ES, such as integration of tools and processes or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:57:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum as an agile framework and does not explicitly discuss Agentic Agility or its principles. While it touches on themes of collaboration and navigating complexity, it lacks a clear connection to the intentional shaping of outcomes, accountability, or the interplay between human and AI capabilities. The discussion is more about Scrum mechanics than about agency or intentionality.",
     "level": "Ignored"
   }
 }

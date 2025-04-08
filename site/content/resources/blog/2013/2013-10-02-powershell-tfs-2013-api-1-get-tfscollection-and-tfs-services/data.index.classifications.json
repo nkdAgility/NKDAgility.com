@@ -1135,11 +1135,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:30:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:51:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on using PowerShell with the TFS API to perform tasks and does not discuss Test First Development or related testing practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, detailing how to manage TFS collections and services. There is no mention of Test First Development principles, success criteria, or testing practices. The discussion is centred around API usage and scripting, which does not align with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1219,11 +1222,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:30:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:51:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of PowerShell with the TFS 2013 API, focusing on technical implementation and scripting rather than the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on using PowerShell with the TFS 2013 API, discussing technical aspects of managing TFS collections and services. There are no direct mentions of the Scrum Master role, nor does it align with the core themes of Scrum, such as team dynamics, coaching, or agile principles. The discussion is entirely technical and does not touch upon the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1497,6 +1503,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on technical instructions for using PowerShell with the TFS 2013 API. While it demonstrates a level of competence in programming and API interaction, it does not explicitly discuss the importance of continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The mention of building a library of PowerShell statements hints at skill development but lacks depth and direct alignment with the core themes of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:51:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, detailing specific functions and code snippets. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The content lacks any mention of intentional shaping of outcomes, adaptability, or alignment with values, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

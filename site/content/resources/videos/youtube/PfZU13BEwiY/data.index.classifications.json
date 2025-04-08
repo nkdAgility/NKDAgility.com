@@ -493,11 +493,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-25T12:05:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:29:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical debt and scaling in software development, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses technical debt and scaling practices, which are not directly related to the role of a Scrum Master. While there are mentions of team dynamics and productivity, the focus is on technical aspects rather than the responsibilities or influence of a Scrum Master in fostering agile principles or facilitating team effectiveness.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -856,11 +859,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-25T12:06:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical debt and scaling in Agile, without a clear focus on Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T15:29:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of automated testing and continuous integration, which are relevant to Test First Development. However, it primarily focuses on managing technical debt and scaling practices rather than explicitly addressing Test First principles or methodologies. The mention of automated testing is brief and does not delve into the specifics of Test First Development practices like TDD or ATDD, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Product Backlog": {
@@ -1476,6 +1482,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses technical debt and scaling practices but does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on sustainable practices and automation, which could align with 1ES themes, the primary focus is on technical debt rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:29:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses scaling and managing technical debt, which are important for organisational agility, but it does not explicitly address Agentic Agility or its principles. While there are mentions of sustainability and proactive practices, the focus remains on technical debt rather than the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth in exploring the interplay between human and AI capabilities, which is central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

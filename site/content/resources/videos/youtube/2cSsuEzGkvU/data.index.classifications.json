@@ -1324,11 +1324,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T15:26:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:15:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses empathy, relationships, and communication in Agile rather than Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the importance of empathy and relationships within agile practices, with no direct mention of Test First Development principles or practices. While it touches on collaboration and feedback, it does not discuss success criteria, testing methodologies, or the role of testing in the development process, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1390,11 +1393,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T15:26:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:15:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses general concepts of empathy and building relationships in Agile without specific focus on the role and responsibilities of a Scrum Master.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of empathy and relationships in agile practices, which aligns with the Scrum Master's role in fostering team dynamics and collaboration. However, it does not explicitly mention the Scrum Master role or its specific responsibilities, leading to a lower confidence score. The focus is more on general agile principles rather than the distinct functions of a Scrum Master.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1551,6 +1557,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the importance of empathy and relationships within agile practices, which does not directly address the principles or components of the One Engineering System. While it touches on collaboration and trust, it lacks specific discussions on standardising or integrating software development practices, making it only tangentially related to the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:15:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of empathy and relationships in agile practices, which touches on aspects of human interaction and collaboration. However, it does not explicitly mention Agentic Agility or its principles, nor does it differentiate between human and AI capabilities in the context of agility. The focus is more on interpersonal dynamics rather than the intentional shaping of outcomes through autonomy and adaptability.",
     "level": "Ignored"
   }
 }

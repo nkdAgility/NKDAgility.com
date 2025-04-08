@@ -394,14 +394,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T23:42:55",
+    "calculated_at": "2025-04-08T16:52:49",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content primarily discusses the role of the Product Owner and their responsibilities within a Scrum team, rather than focusing on the Scrum Master. While it touches on team dynamics and accountability, it does not delve into the specific responsibilities or practices of a Scrum Master, which is the primary focus of the category. The discussion is more about the Product Owner's missteps and their impact on the team, rather than the Scrum Master's role in facilitating the Scrum process.",
+    "reasoning": "The content primarily discusses the role of the Product Owner rather than the Scrum Master. While it touches on Scrum principles and team dynamics, the focus is on the Product Owner's responsibilities and missteps, which does not align with the primary focus of the Scrum Master category. The discussion lacks depth regarding the Scrum Master's role and responsibilities, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -439,11 +439,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T22:48:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:52:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a negative experience with a product owner during a Sprint review, focusing on team dynamics rather than Test First Development principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner in a Scrum context, focusing on accountability and support within a team. It does not mention Test First Development, success criteria, or any testing practices, which are central to the category. The discussion is more about team dynamics and stakeholder management rather than the principles of Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1566,6 +1569,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the role of a Product Owner within the Scrum framework, focusing on accountability and support in Agile practices. It does not mention the One Engineering System (1ES) or its principles, components, or implementation. The discussion is centred on Scrum, which is outside the scope of 1ES, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:52:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner within a Scrum framework, focusing on accountability and support rather than the intentional shaping of outcomes through autonomy and adaptability. While it touches on aspects of accountability, it does not explicitly address Agentic Agility or differentiate between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }
 }

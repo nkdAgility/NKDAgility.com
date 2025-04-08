@@ -88,11 +88,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-13T15:57:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:51:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a workshop for product validation and discovery, with no direct discussion of Scrum Master responsibilities or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a product validation workshop and does not explicitly discuss the role or responsibilities of a Scrum Master. While it mentions Scrum.org and features a Professional Scrum Trainer, the main emphasis is on product development skills rather than the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Scaling Kanban": {
@@ -568,11 +571,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T15:59:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:51:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a workshop for product validation and discovery, with no mention of Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a workshop for product validation and discovery, which does not directly address Test First Development principles. While it mentions customer-centric development and validation techniques, it lacks explicit discussions on success criteria, automated testing, or the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1617,6 +1623,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a workshop for product validation and discovery, which is related to agile methodologies but does not explicitly discuss the One Engineering System (1ES) framework or its principles. There are no direct mentions of 1ES, and the discussion is centred around product development skills rather than the integration and standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:51:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting a workshop for product validation and discovery, with no explicit discussion of Agentic Agility. While it touches on customer-centric development and team collaboration, these themes do not align closely with the core principles of Agentic Agility, such as intentional shaping of outcomes or the distinction between human and AI capabilities. The content lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }
 }

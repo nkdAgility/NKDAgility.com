@@ -511,11 +511,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T01:23:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:55:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the concept of a Sprint backlog and its relation to Scrum, without any mention of Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the Sprint Backlog within the context of Scrum, focusing on its role, components, and importance for teams. It does not mention Test First Development or its principles, nor does it explore any related testing practices. The discussion is centred around Agile methodologies rather than the specific practices of Test First Development, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -862,15 +865,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T23:56:41",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
+    "calculated_at": "2025-04-08T16:55:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content primarily discusses the Sprint Backlog, which is a Scrum artefact, but does not explicitly focus on the role of the Scrum Master or their responsibilities. While it touches on aspects of team success and flexibility, it lacks depth in discussing how a Scrum Master facilitates these elements or coaches the team. The mention of setting teams up for success hints at Scrum Master responsibilities but does not delve into specific practices or techniques relevant to the role.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on the Sprint Backlog, which is a specific artefact within the Scrum framework. While it discusses aspects of Scrum, such as the importance of the Sprint Goal and the flexibility of the Sprint Backlog, it does not explicitly address the role or responsibilities of the Scrum Master. The discussion is more centred on the mechanics of the Sprint Backlog rather than the Scrum Master's influence or techniques for facilitating team success. Therefore, while there is some alignment with Scrum principles, the lack of direct focus on the Scrum Master role leads to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1575,6 +1578,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Sprint Backlog within the Scrum framework, which is not directly related to the One Engineering System. While it discusses aspects of Agile and team dynamics, it does not address the principles, integration, or implementation of 1ES. The discussion is centred on Scrum practices rather than the standardisation and integration of engineering processes across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:55:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the Sprint Backlog within the context of Scrum, focusing on its role, components, and importance for teams. While it touches on themes of flexibility and adaptability, which are relevant to Agentic Agility, it does not explicitly address the intentional shaping of outcomes or differentiate between human and AI capabilities. The discussion lacks depth in exploring the principles of Agentic Agility, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   }
 }

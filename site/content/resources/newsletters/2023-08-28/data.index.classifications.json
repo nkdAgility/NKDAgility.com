@@ -376,14 +376,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T22:26:37",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-04-08T16:38:14",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content briefly mentions Scrum Masters in the context of training courses aimed at improving their skills, but it does not delve into the specific responsibilities, techniques, or practices associated with the Scrum Master role. The primary focus of the content is on a referral programme and general training offerings, which detracts from a deeper exploration of the Scrum Master category.",
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Scrum Masters in the context of training courses but does not delve into their roles, responsibilities, or impact within a Scrum framework. The primary focus is on a referral programme and course promotion, which does not align with the core themes of the Scrum Master category.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -415,11 +415,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T18:56:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:38:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a referral programme and upcoming training classes, with no mention of Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a referral programme for courses and does not mention or discuss any principles or practices related to Test First Development. There are no references to success criteria, testing methodologies, or any related concepts, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1515,6 +1518,18 @@
     "non_ai_confidence": 10,
     "final_score": 6.0,
     "reasoning": "The content primarily focuses on a referral programme for courses and does not mention or discuss the One Engineering System or its principles. There is no alignment with the core themes of 1ES, such as integration of tools or processes, and the depth of discussion is minimal, as it does not provide any relevant information on the topic.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:38:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a referral programme for courses, which does not explicitly discuss Agentic Agility or its principles. While there is a mention of community and empowerment, it lacks depth in exploring the intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities. Overall, the content does not align with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

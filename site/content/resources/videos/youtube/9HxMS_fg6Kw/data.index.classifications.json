@@ -508,11 +508,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T10:07:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses hiring practices and the qualities of agile consultants, with no focus on Test First Development or related testing methodologies.",
+    "calculated_at": "2025-04-08T17:13:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses hiring practices for agile consultants and does not directly address Test First Development principles. While it touches on agile concepts, it lacks specific references to success criteria, testing practices, or the importance of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -841,12 +844,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T10:09:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:13:46",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses hiring practices for agile consultants and does not focus on the specific role or responsibilities of a Scrum Master.",
-    "level": "Ignored"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of an agile consultant, which includes references to the Scrum Master role. However, it primarily focuses on hiring practices and red flags rather than the responsibilities and impact of a Scrum Master. While there are mentions of Scrum and agile principles, the depth of discussion on the Scrum Master specifically is limited, making it a secondary focus rather than a primary one.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1590,6 +1596,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses hiring practices for agile consultants and does not focus on the One Engineering System framework or its principles. While it touches on agile concepts, it lacks direct relevance to the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:13:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses red flags when hiring agile consultants, focusing on community engagement, knowledge of core concepts, and consultancy quality. While it touches on aspects of agility, it does not explicitly address Agentic Agility or its principles, nor does it differentiate between human and AI capabilities in this context. The discussion lacks depth regarding intentional shaping of outcomes, which is central to the category.",
     "level": "Ignored"
   }
 }

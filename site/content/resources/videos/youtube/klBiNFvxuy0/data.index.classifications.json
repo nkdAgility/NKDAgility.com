@@ -511,11 +511,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T05:22:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:09:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum principles and the importance of understanding its elements, with no focus on Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum and agile principles, focusing on the Aha moments experienced in Scrum courses. It does not mention Test First Development, its principles, or practices, nor does it provide any relevant detail on success criteria or testing methodologies. The discussion is centred around Scrum's framework and its elements, which are unrelated to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -859,14 +862,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-13T16:54:45",
+    "calculated_at": "2025-04-08T17:09:07",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
-    "ai_depth": 30,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
     "final_score": 71.0,
-    "reasoning": "The content discusses the Aha moments experienced by individuals in Scrum courses, particularly focusing on the understanding of Scrum principles and the role of the Scrum Master in facilitating that understanding. It highlights the importance of Scrum events and artefacts, which are central to the Scrum Master's responsibilities. The depth of discussion around the purpose of Scrum elements and the impact on team performance aligns well with the core themes of the Scrum Master role. However, while the Scrum Master is a significant focus, the content also touches on broader Agile concepts, which slightly dilutes the primary focus.",
+    "reasoning": "The content discusses the Aha moments experienced in Scrum courses, particularly highlighting the understanding of Scrum's purpose and elements, which is central to the role of a Scrum Master. It mentions the importance of teaching, coaching, and mentoring, which are key responsibilities of a Scrum Master. The discussion on empiricism and the transformative impact of understanding Scrum aligns well with the Scrum Master's role in fostering a culture of continuous improvement. However, while the content is rich in insights related to Scrum, it does not focus exclusively on the Scrum Master role, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1587,6 +1590,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum and its principles, discussing Aha moments in Scrum courses rather than the One Engineering System. While it touches on concepts like teamwork and agile principles, it does not directly address the integration or standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:09:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum and its principles, focusing on the Aha moments experienced by participants in Scrum courses. While it touches on themes of understanding purpose and value in Scrum, it does not explicitly address Agentic Agility or the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth in exploring the distinctions between human and AI capabilities in the context of agility, and it does not provide mechanisms or case studies related to Agentic Agility.",
     "level": "Ignored"
   }
 }

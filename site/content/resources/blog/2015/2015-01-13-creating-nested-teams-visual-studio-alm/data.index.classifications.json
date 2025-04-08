@@ -1180,11 +1180,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T23:25:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:39:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses creating nested teams in Visual Studio ALM, with no focus on Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses creating nested teams in Visual Studio ALM and does not mention Test First Development or its principles. There is no focus on success criteria, testing practices, or any related concepts that align with Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1264,11 +1267,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T23:25:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:40:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details related to team structures in Visual Studio ALM, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating nested teams in Visual Studio ALM, which is a technical guide rather than a discussion on the role or responsibilities of a Scrum Master. While it touches on agile processes, it does not explicitly mention the Scrum Master role or its impact on team dynamics, coaching, or organisational change. The discussion lacks depth in relation to the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1560,6 +1566,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on creating nested teams in Visual Studio ALM, which is a specific tool rather than discussing the One Engineering System framework. While it touches on team structures and agile processes, it does not explicitly mention 1ES principles, integration of tools across teams, or best practices for implementing a unified engineering system. The discussion lacks depth in relation to the core themes of 1ES, making it only tangentially related.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:39:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating nested teams in Visual Studio ALM, discussing technical configurations and processes without addressing the intentional shaping of outcomes, autonomy, or adaptability in the context of Agentic Agility. While it touches on team structures, it does not explore the principles or mechanisms of Agentic Agility, nor does it differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

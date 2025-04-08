@@ -523,11 +523,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T22:10:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:33:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum and its role in revealing organisational problems, with no focus on Test First Development principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Scrum as a framework for project management and collaboration, focusing on its role in revealing organisational challenges rather than addressing Test First Development principles. There are no direct mentions of Test First practices, success criteria, or testing methodologies, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -877,14 +880,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T22:02:47",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-04-08T16:33:18",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses Scrum extensively, highlighting its principles, roles, and practices, including specific Scrum ceremonies like Sprint Planning and Daily Stand-ups. However, while it touches on the role of the Scrum Master, it does not delve deeply into the specific responsibilities or skills of a Scrum Master, which limits its alignment with the category. The focus is more on Scrum as a framework rather than the Scrum Master role itself.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses Scrum extensively, focusing on its role in revealing organisational challenges and promoting continuous improvement. While it touches on the importance of roles within Scrum, including the Scrum Master, it does not delve deeply into the specific responsibilities or skills of the Scrum Master. The discussion is more about the Scrum framework as a whole rather than the Scrum Master as a distinct role, which affects the overall confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1605,6 +1608,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum, a specific agile methodology, rather than discussing the One Engineering System (1ES) framework. While it touches on themes of collaboration and process improvement, it does not explicitly mention 1ES or its principles, components, or implementation strategies. The discussion is centred around Scrum's role in revealing organisational challenges, which deviates from the core focus of 1ES on standardising and integrating software development practices across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:33:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum as a methodology for revealing organisational challenges rather than focusing on the intentional shaping of outcomes through agency and adaptability. While it touches on themes of learning and reflection, it does not explicitly address the principles of Agentic Agility or differentiate between human and AI capabilities in this context. The depth of discussion on Scrum's role in fostering collaboration and transparency is notable, but it lacks a direct connection to the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

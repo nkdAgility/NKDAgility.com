@@ -361,12 +361,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T07:20:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T16:33:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Product Backlog management within the Scrum framework and mentions Scrum Masters as part of the audience, but it primarily focuses on Product Owner skills rather than the Scrum Master role.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content primarily focuses on Product Backlog management and the role of Product Owners, with only brief mentions of Scrum Masters. While it touches on some relevant themes such as stakeholder engagement and empirical decision-making, it lacks a detailed exploration of the Scrum Master's specific responsibilities and impact within a Scrum Team. Therefore, the confidence score reflects a moderate alignment with the category.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -397,11 +400,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T07:20:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on Product Backlog management and Scrum practices, with no mention of Test First Development or TDD principles.",
+    "calculated_at": "2025-04-08T16:33:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and Product Backlog management, with no direct mention of Test First Development principles or practices. While it discusses stakeholder engagement and decision-making, it does not address success criteria, testing methodologies, or the importance of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum and Product Backlog management, which are specific methodologies rather than the broader principles of the One Engineering System. While there are elements of process improvement and stakeholder engagement, these do not directly relate to the integration and standardisation of engineering practices as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:33:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices and Product Backlog management, with no explicit discussion of Agentic Agility or its principles. While there are mentions of stakeholder engagement and data-driven decision-making, these concepts are not framed within the context of intentional shaping of outcomes or the distinction between human and AI capabilities. The overall emphasis is on Scrum methodologies rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

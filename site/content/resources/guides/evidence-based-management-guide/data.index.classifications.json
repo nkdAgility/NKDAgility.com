@@ -526,11 +526,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T14:08:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:47:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Evidence-Based Management and goal-setting in organisations, with no clear focus on Test First Development or related practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and its principles, focusing on goal setting, experimentation, and measuring outcomes. While it touches on concepts of measurement and feedback, it does not explicitly address Test First Development practices, such as Test-Driven Development (TDD) or the role of success criteria in guiding design and implementation. The discussion lacks depth in relation to the specific principles and practices of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -871,11 +874,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T14:10:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:47:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses Evidence-Based Management and its concepts, with no clear focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in improving value delivery, which is relevant to Scrum principles. However, it does not explicitly focus on the Scrum Master role or its specific responsibilities. While there are mentions of empirical decision-making and continuous improvement, the primary focus is on EBM rather than the Scrum Master as a facilitator or change agent within a Scrum Team.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1617,6 +1623,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and its principles, which are not directly related to the One Engineering System (1ES). While there are some overlaps in themes such as goal setting and measurement, the focus is on EBM rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:47:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in helping organizations achieve goals through intentional experimentation and feedback. While it touches on concepts of adaptability and alignment with value, it does not explicitly focus on Agentic Agility or differentiate between human and AI capabilities. The discussion is more about general management practices rather than the specific transformative capacity of individuals and systems in shaping outcomes.",
     "level": "Ignored"
   }
 }

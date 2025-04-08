@@ -793,14 +793,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-12T10:08:35",
+    "calculated_at": "2025-04-08T15:28:14",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 34,
     "non_ai_confidence": 20,
     "final_score": 80.0,
-    "reasoning": "The content extensively discusses the role of the Scrum Master, particularly in relation to authority, accountability, and leadership within Scrum teams. It directly addresses the responsibilities of Scrum Masters, their need for authority to remove impediments, and the balance between autonomy and control. The depth of discussion is significant, providing insights into practical considerations and situational leadership, which are crucial for Scrum Masters. Overall, the content aligns well with the key topics outlined for the Scrum Master category.",
+    "reasoning": "The content extensively discusses the role of the Scrum Master, focusing on their responsibilities, the balance of authority and accountability, and the impact on team dynamics. It provides a nuanced exploration of how Scrum Masters can influence outcomes while maintaining team autonomy, aligning closely with the core themes of the category. The depth of discussion is significant, addressing practical considerations and contextual factors that affect the Scrum Master's effectiveness.",
     "level": "Secondary"
   },
   "Scaling Kanban": {
@@ -1453,14 +1453,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-12T10:11:21",
-    "ai_confidence": 5.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 10.0,
+    "calculated_at": "2025-04-08T15:28:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
-    "reasoning": "The content primarily discusses leadership and accountability within Scrum, with no direct mention of Test First Development or its principles. While it touches on Agile practices, it does not explore TDD, writing tests before code, or related tools and frameworks, which are central to the Test First Development category.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses leadership and accountability within Scrum, with no direct mention of Test First Development principles or practices. While it touches on aspects of team dynamics and authority, it does not align with the core themes of Test First Development, such as defining success criteria or the role of testing in the development process.",
     "level": "Ignored"
   },
   "Test Driven Development": {
@@ -1905,6 +1905,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on Scrum roles and the balance of authority and accountability within that framework. It does not discuss the One Engineering System (1ES) or its principles, components, or implementation. The discussion is centred around Scrum, which is a specific methodology rather than the broader integration and standardisation of engineering processes that 1ES encompasses.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:28:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses leadership, authority, and accountability within Scrum, which touches on aspects of Agentic Agility, particularly in terms of autonomy and the balance of control. However, it primarily focuses on Scrum roles and does not explicitly define or explore the concept of Agentic Agility or its principles. The discussion lacks a clear distinction between Human and AI Agentic Agility and does not delve into the transformative capacity of individuals or systems in a socio-technical context. While there are elements of intent and accountability, the overall focus remains on Scrum practices rather than a comprehensive exploration of Agentic Agility.",
     "level": "Ignored"
   }
 }

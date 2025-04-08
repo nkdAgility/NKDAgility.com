@@ -181,11 +181,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T14:27:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:16:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses general Agile concepts and personal motivations without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses agile practices and the importance of collaboration and empowerment within organisations, which aligns with the Scrum Master's role. However, it lacks direct references to specific Scrum methodologies or the distinct responsibilities of a Scrum Master, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1051,11 +1054,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T14:29:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:16:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses general agile principles and personal motivations rather than Test First Development or its practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on offering support for agile and technical challenges without any explicit mention of Test First Development principles. While it discusses empowerment and collaboration in agile practices, it does not delve into the specifics of Test First Development, such as success criteria, TDD, or ATDD. The overall discussion lacks depth and direct relevance to the category.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1539,6 +1545,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on personal engagement and support in agile practices rather than discussing the One Engineering System framework. While it touches on agile methodologies, it lacks direct references to 1ES principles, components, or implementation strategies, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:16:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses empowerment and collaboration within agile practices, which aligns with the principles of Agentic Agility. However, it lacks explicit mentions of the category and does not delve deeply into the distinctions between human and AI capabilities or the intentional shaping of outcomes. The focus is more on general agile practices and community impact rather than a specific exploration of Agentic Agility.",
     "level": "Ignored"
   }
 }

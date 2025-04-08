@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T07:52:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:43:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the teaching style and experience of an instructor in an Agile Leadership course, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the qualities of an instructor for an Agile Leadership course, discussing engagement and experience rather than any principles or practices related to Test First Development. There are no direct mentions of Test First Development, and the alignment with its core themes is minimal, as the content does not address success criteria, testing practices, or the impact of Test First on collaboration.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -859,11 +862,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T07:53:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:43:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a teacher's effectiveness in an Agile Leadership course, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile leadership and the role of an instructor in teaching agile principles, but it does not specifically focus on the Scrum Master role or its responsibilities. While there are mentions of agile practices and leadership, the primary focus is on the instructor's passion and engagement rather than the Scrum Master's impact on a Scrum Team or organisational change.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1581,6 +1587,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the qualities of an instructor for an Agile Leadership course, discussing personal attributes and audience engagement rather than the One Engineering System framework. There are no direct mentions of 1ES principles, components, or its impact on software development practices, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:43:26",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on the qualities of an instructor and the dynamics of an agile leadership course, with only brief mentions of transformation and engagement. It lacks a direct discussion on Agentic Agility principles, such as intentional shaping of outcomes or the distinction between human and AI capabilities. The overall emphasis is on teaching style and audience interaction rather than the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

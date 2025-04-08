@@ -1168,11 +1168,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T22:37:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:38:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the creation and configuration of a build definition in a new build system, with no clear focus on Test First Development principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition and enhancing CI/CD processes, with minimal mention of testing practices. While it briefly references running tests using the Visual Studio Test Runner, it does not discuss Test First Development principles, success criteria, or the impact of testing on collaboration. Overall, the content lacks depth and direct alignment with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1258,11 +1261,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T22:37:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:38:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the creation and configuration of a build definition in a software development context, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition and does not discuss the role, responsibilities, or impact of a Scrum Master. There are no direct mentions of Scrum practices or the Scrum Master's influence on team dynamics or organisational change, which are key topics in the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1554,6 +1560,18 @@
     "non_ai_confidence": 20,
     "final_score": 24.0,
     "reasoning": "The content primarily focuses on creating a Build vNext definition on VSO, which is a specific tool rather than a discussion on the One Engineering System (1ES) framework. While it touches on aspects of CI/CD processes and mentions integration with Git, it lacks a comprehensive discussion on the principles, components, or best practices of 1ES. The content does not provide depth in terms of how these practices align with the broader goals of standardisation and integration across teams, which are central to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:38:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition and enhancing CI/CD processes, with no explicit discussion of Agentic Agility or its principles. While it touches on aspects of adaptability in software development, it lacks depth in exploring intentional shaping of outcomes, human versus AI capabilities, or the transformative capacity of individuals and systems.",
     "level": "Ignored"
   }
 }

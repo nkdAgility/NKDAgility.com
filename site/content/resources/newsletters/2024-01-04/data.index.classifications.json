@@ -1354,11 +1354,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T15:00:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:12:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum training and Agile methodologies without focusing on Test First Development or related testing practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting Scrum training and does not explicitly mention Test First Development or its principles. While it discusses Agile methodologies, it lacks depth in the specific practices of Test First Development, such as TDD or ATDD, and does not address success criteria or testing practices directly.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1423,14 +1426,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T20:15:39",
+    "calculated_at": "2025-04-08T16:12:30",
     "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 20,
     "final_score": 67.0,
-    "reasoning": "The content discusses Scrum training and mentions the role of Scrum Masters, indicating a focus on the category. However, it primarily promotes training courses rather than delving deeply into the responsibilities or practices of a Scrum Master. While there are references to Scrum principles and roles, the discussion lacks detailed exploration of the Scrum Master's specific contributions and techniques.",
+    "reasoning": "The content primarily focuses on Scrum training, which includes references to the role of the Scrum Master. It discusses the importance of mastering Scrum principles and mentions Scrum Masters specifically in the context of training courses. However, while it touches on relevant themes such as leadership and agile methodologies, it lacks in-depth exploration of the Scrum Master's specific responsibilities and impact within a Scrum Team. Overall, the content aligns well with the category but does not delve deeply into the nuances of the Scrum Master's role.",
     "level": "Secondary"
   },
   "Cycle Time": {
@@ -1587,6 +1590,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum training and Agile methodologies, which are not directly related to the One Engineering System framework. While it mentions concepts like efficiency and collaboration, it does not discuss the integration or standardisation of engineering processes as outlined in the 1ES category. The discussion is more about personal development in Scrum rather than the principles or implementation of a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:12:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Scrum training courses and does not explicitly discuss Agentic Agility or its principles. While it mentions adaptability and leadership, these concepts are framed within the context of Scrum rather than the intentional shaping of outcomes through agency. There is no clear distinction made between human and AI capabilities, nor is there a discussion on the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }
 }

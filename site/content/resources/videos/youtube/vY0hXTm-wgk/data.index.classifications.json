@@ -550,11 +550,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:16:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses training and coaching methods but does not focus specifically on the roles and responsibilities of a Scrum Master.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses training and a people-first culture, which are relevant to agile principles but does not explicitly mention the role of a Scrum Master or their specific responsibilities. The focus is more on training methodologies and fostering collaboration rather than the Scrum Master's impact on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -997,11 +1000,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:16:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum training and methodologies without focusing on Test First Development or related testing practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a flipped learning approach and fostering a people-first culture, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1581,6 +1587,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on a flipped learning approach and training methodologies rather than discussing the One Engineering System framework or its principles. While there are elements of collaboration and growth mentioned, they do not directly relate to the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:16:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses training and a people-first culture, which aligns with some principles of Agentic Agility, such as fostering growth and collaboration. However, it lacks explicit mentions of Agentic Agility, does not differentiate between human and AI capabilities, and does not focus on intentional shaping of outcomes. The discussion is more about general agility and training methods rather than the specific concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

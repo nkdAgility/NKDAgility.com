@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T23:46:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the seven deadly sins of Agile, focusing on organisational behaviours and challenges rather than the principles and practices of Test First Development.",
+    "calculated_at": "2025-04-08T16:00:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the 'Seven Deadly Sins of Agile' and focuses on general Agile transformation rather than the specific principles of Test First Development. While it touches on accountability and value delivery, it does not explicitly mention success criteria, testing practices, or the importance of defining criteria before implementation, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -871,14 +874,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T19:11:02",
+    "calculated_at": "2025-04-08T16:00:44",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 38.0,
-    "reasoning": "The content discusses Agile principles and challenges but does not specifically focus on the role of the Scrum Master. While it touches on team dynamics and accountability, it lacks direct references to Scrum ceremonies or the specific responsibilities of a Scrum Master. The insights provided are more general to Agile rather than tailored to the Scrum Master role.",
+    "reasoning": "The content discusses Agile principles and challenges but does not explicitly mention the role of the Scrum Master or their specific responsibilities. While it touches on themes relevant to Scrum, such as accountability and value delivery, it lacks a focused discussion on the Scrum Master's influence or techniques. The content is more about general Agile transformation rather than the specific role of a Scrum Master.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1611,6 +1614,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Agile principles and pitfalls rather than the One Engineering System framework. While it touches on themes of organisational transformation and efficiency, it does not explicitly mention 1ES or its components, nor does it provide depth on integration or standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:00:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile practices and pitfalls but does not explicitly address Agentic Agility or its principles. While it touches on themes of accountability and value delivery, it lacks a clear focus on the intentional shaping of outcomes or the distinction between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

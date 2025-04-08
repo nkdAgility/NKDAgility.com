@@ -493,11 +493,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T22:47:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:57:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the importance of a product vision and alignment in a business setting, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of a product vision in agile and scrum contexts, which does not directly relate to Test First Development principles. While it touches on themes of alignment and direction, it lacks explicit mentions or detailed discussions of success criteria, testing practices, or the role of testing in development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -829,11 +832,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T22:47:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:57:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of a product vision, which is not directly related to the Scrum Master role or responsibilities.",
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Scrum in the context of product vision but does not focus on the role or responsibilities of a Scrum Master. While it discusses the importance of a product vision, it lacks depth in exploring Scrum Master-specific themes such as facilitation, coaching, or team dynamics.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1533,6 +1539,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the concept of product vision within agile and scrum methodologies, which does not directly address the principles or components of the One Engineering System. While it touches on themes of alignment and direction, it lacks explicit discussion of 1ES, its integration, or its impact on software development practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:57:18",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses the importance of a product vision in guiding teams and aligning efforts, which touches on aspects of intentionality and alignment. However, it lacks a direct focus on Agentic Agility, particularly in distinguishing between human and AI capabilities or discussing the transformative capacity of individuals and systems. The discussion is primarily about product vision in Agile and Scrum contexts, which does not fully align with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

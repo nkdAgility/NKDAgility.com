@@ -1288,11 +1288,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:42:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without mentioning Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting Advanced Professional Scrum Master classes and does not discuss Test First Development principles, success criteria, or testing practices. It briefly mentions Scrum, but lacks any direct connection to the Test First Development category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1357,14 +1360,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T13:08:24",
-    "ai_confidence": 55.0,
-    "ai_mentions": 30.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 50.0,
+    "calculated_at": "2025-04-08T15:42:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 52.0,
-    "reasoning": "The content mentions the Scrum Master role and suggests investing in learning experiences related to it, indicating a focus on the role. However, it lacks detailed discussion on specific responsibilities, techniques, or practices that would provide a deeper understanding of the Scrum Master’s contributions. The alignment with core themes is moderate, as it hints at improving outcomes through Scrum Master training but does not elaborate on the methods or strategies involved.",
+    "final_score": 58.0,
+    "reasoning": "The content mentions the Scrum Master role and promotes learning opportunities related to it, indicating a focus on improving outcomes through Scrum Master training. However, it lacks detailed discussion on the responsibilities, techniques, or impact of the Scrum Master, which limits its depth and conceptual alignment with the category.",
     "level": "Tertiary"
   },
   "Cycle Time": {
@@ -1521,6 +1524,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum Master training and Agile methodologies, which are not aligned with the principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion lacks depth regarding integration or standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:42:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting Advanced PSM II classes and does not explicitly discuss Agentic Agility or its principles. While it mentions improving outcomes, it lacks a clear connection to the intentional shaping of outcomes through autonomy and adaptability, which are central to Agentic Agility. The discussion is more aligned with general Agile and Scrum practices rather than the specific themes of agency and intentionality.",
     "level": "Ignored"
   }
 }

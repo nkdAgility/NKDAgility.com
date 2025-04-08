@@ -526,11 +526,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T06:48:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and team motivation, with no mention of Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:35:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and Agile coaches in motivating teams, with no direct mention of Test First Development principles or practices. While it discusses team dynamics and engagement, it does not address success criteria, testing methodologies, or the importance of testing in the development process, which are core to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -880,14 +883,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T22:14:00",
+    "calculated_at": "2025-04-08T16:35:41",
     "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 85.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 20,
     "final_score": 80.0,
-    "reasoning": "The content explicitly discusses the role of Scrum Masters and Agile coaches in motivating Scrum teams, which is a primary focus of the category. It aligns well with key topics such as coaching techniques, strategies for team collaboration, and the importance of fostering a culture of continuous improvement. The depth of discussion is substantial, providing practical approaches and case studies that illustrate the responsibilities of a Scrum Master in enhancing team motivation and performance.",
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and Agile coaches in motivating Scrum teams, which aligns closely with the responsibilities and impact of a Scrum Master. It discusses techniques for enhancing team motivation, stakeholder engagement, and continuous improvement, all of which are core themes of the Scrum Master role. The depth of discussion is substantial, providing practical approaches and recommendations, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1602,6 +1605,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum methodologies and the role of Scrum Masters and Agile coaches in motivating teams, which does not align with the core principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion lacks depth regarding integration or standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:35:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on motivating Scrum teams and enhancing engagement, which is related to Agile practices but does not explicitly discuss Agentic Agility. While it touches on concepts like autonomy and adaptability, it lacks a clear distinction between human and AI capabilities and does not delve into the intentional shaping of outcomes as defined in the category. The discussion is more about general Agile coaching techniques rather than the transformative capacity of individuals and systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

@@ -496,11 +496,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T03:31:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of real experience for Agile coaches and does not focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:22:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 30,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the importance of practical experience for Agile coaches and does not discuss Test First Development principles, success criteria, or testing practices. While it touches on Agile methodologies, it lacks any direct mention or detailed exploration of Test First Development concepts.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -835,11 +838,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T03:32:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of an Agile coach rather than focusing specifically on the responsibilities and practices of a Scrum Master.",
+    "calculated_at": "2025-04-08T16:22:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of practical experience for Agile coaches, which indirectly relates to the role of a Scrum Master. However, it primarily focuses on coaching rather than the specific responsibilities and impact of a Scrum Master within a Scrum Team. While there are mentions of team dynamics and collaboration, the depth of discussion on Scrum Master-specific topics is limited.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1539,6 +1545,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Agile coaching and personal experiences rather than discussing the One Engineering System framework or its principles. While it touches on collaboration and team dynamics, it does not explicitly mention 1ES or its components, nor does it provide depth on standardising engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:22:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of practical experience for Agile coaches, which touches on themes of adaptability and understanding team dynamics. However, it lacks a direct focus on the intentional shaping of outcomes or the distinction between human and AI capabilities in the context of agility. The discussion is primarily centred on personal experience rather than a broader exploration of Agentic Agility principles.",
     "level": "Ignored"
   }
 }

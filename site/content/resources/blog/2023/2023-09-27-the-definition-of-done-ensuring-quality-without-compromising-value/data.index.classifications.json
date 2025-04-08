@@ -505,11 +505,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T18:08:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:33:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Definition of Done and acceptance criteria, with no clear focus on Test First Development principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) and its relationship with acceptance criteria, which are relevant to quality assurance in agile practices. However, it does not explicitly mention Test First Development or its principles. While it touches on quality measures and standards, it lacks a direct focus on the Test First approach, such as Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). The discussion is more about maintaining quality and transparency rather than the proactive establishment of success criteria before implementation, which is central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -838,11 +841,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T18:10:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:33:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the Definition of Done and acceptance criteria, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the Definition of Done (DoD) and its implications for quality and transparency in agile practices. While it touches on concepts relevant to Scrum, such as the importance of clarity and standards, it does not explicitly mention the role of the Scrum Master or delve into their responsibilities. The discussion lacks depth regarding the Scrum Master's influence on team dynamics or organisational change, which are key aspects of the category. Therefore, while there is some conceptual alignment, the focus is not primarily on the Scrum Master role.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1560,6 +1566,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Definition of Done (DoD) within agile practices, discussing its importance for quality and transparency. While it touches on aspects of quality assurance, it does not explicitly mention or align with the principles of the One Engineering System (1ES). The discussion is centred around agile methodologies rather than the integration and standardisation of engineering processes across teams, which is the core focus of 1ES. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:33:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the Definition of Done and its implications for quality and transparency in agile practices. While it touches on themes of adaptability and standards, it does not explicitly address Agentic Agility or the intentional shaping of outcomes. The focus is more on maintaining quality and clarity rather than on the proactive engagement or transformative capacity associated with Agentic Agility.",
     "level": "Ignored"
   }
 }

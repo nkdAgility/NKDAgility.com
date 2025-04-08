@@ -523,11 +523,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T18:48:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:42:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the adoption and implementation of agile methodologies, drawing parallels with fitness journeys, but does not focus on Test First Development or its principles.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses agile methodologies and draws an analogy with gym memberships, but it does not explicitly mention Test First Development or its principles. While it touches on themes of implementation and the importance of commitment, it lacks a direct focus on success criteria, testing practices, or the specific methodologies associated with Test First Development. The discussion is more about agile adoption in general rather than the nuances of Test First practices.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -862,11 +865,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T18:49:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:42:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile methodologies in a general context without specific focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content draws an analogy between unused gym memberships and agile implementation, discussing the importance of commitment and consistent effort in both contexts. However, it does not explicitly mention the role of a Scrum Master or delve into specific responsibilities, techniques, or the impact of a Scrum Master on team dynamics or organisational change. While it touches on agile principles, it lacks a focused discussion on the Scrum Master role, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1599,6 +1605,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses agile methodologies and draws parallels with gym memberships, which deviates from the core focus of the One Engineering System. While it touches on themes of implementation and collaboration, it lacks direct references to the 1ES framework, its principles, or its components. The discussion is more about agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:42:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content draws an analogy between gym memberships and agile implementation, discussing the importance of commitment and consistent effort. However, it primarily focuses on the superficial adoption of agile practices rather than explicitly addressing Agentic Agility principles such as intentional shaping of outcomes, the role of intent, or the distinction between human and AI capabilities. While there are elements of adaptability and reflection mentioned, they are not deeply explored in the context of Agentic Agility.",
     "level": "Ignored"
   }
 }

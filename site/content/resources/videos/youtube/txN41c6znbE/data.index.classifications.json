@@ -526,11 +526,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T01:11:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the competence crisis in Agile practices, focusing on Scrum roles and the need for continuous learning, rather than Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T15:41:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the competence crisis in Agile and the importance of skilled Scrum Masters, with no direct mention of Test First Development principles or practices. While it touches on continuous learning and validation, these concepts are not specifically tied to Test First Development methodologies like TDD or ATDD. The focus is more on Agile roles and hiring practices rather than the testing practices themselves.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -874,14 +877,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-13T15:21:24",
-    "ai_confidence": 82.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
+    "calculated_at": "2025-04-08T15:41:53",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
-    "reasoning": "The content discusses the role of Scrum Masters extensively, particularly highlighting the competence crisis within this role. It addresses the importance of hiring practices, continuous learning, and the specific challenges faced by Scrum Masters, which aligns closely with the key topics outlined for the category. The depth of discussion is significant, providing insights into the skills and responsibilities necessary for effective Scrum Masters, thus justifying a high confidence score.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the role of Scrum Masters, highlighting the competence crisis within this role and the importance of hiring practices and continuous learning. It aligns well with the core themes of the category, such as the responsibilities and impact of Scrum Masters on Agile teams. The depth of discussion is significant, providing detailed insights into the challenges faced by Scrum Masters and the necessary skills for effective performance.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1623,6 +1626,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses Agile methodologies and the competence crisis within Agile roles, particularly focusing on Scrum Masters. While it touches on themes of continuous learning and team dynamics, it does not explicitly mention or align with the principles of the One Engineering System (1ES). The discussion is centred around Agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:41:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the competence crisis in Agile and the importance of continuous learning, which touches on aspects of Agentic Agility, such as adaptability and intentional shaping of outcomes. However, it primarily focuses on the challenges within Agile practices rather than explicitly addressing the principles of Agentic Agility or differentiating between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals and systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

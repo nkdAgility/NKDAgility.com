@@ -190,14 +190,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T14:20:00",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-04-08T15:46:29",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content primarily focuses on the Sprint Review process, detailing its purpose, flow, and facilitation steps. While it mentions the role of the Scrum Master in facilitating the Sprint Review, it does not delve deeply into the broader responsibilities or skills of a Scrum Master. The discussion is more about the event itself rather than the Scrum Master's contributions or coaching techniques, which limits its alignment with the category.",
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on the Sprint Review process, which is a key event in Scrum. While it mentions the role of the Scrum Master in facilitating the Sprint Review, it does not delve deeply into the broader responsibilities or impact of the Scrum Master. The discussion is more centred on the event itself rather than the Scrum Master's role in fostering team dynamics or organisational change, which limits its alignment with the category.",
     "level": "Secondary"
   },
   "Team Performance": {
@@ -1111,11 +1111,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T14:22:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:46:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the Sprint Review process in Scrum, focusing on inspection and feedback rather than on Test First Development principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the Sprint Review process within Scrum, discussing transparency, inspection, and stakeholder engagement. While it touches on aspects of feedback and adjustments based on insights, it does not explicitly mention Test First Development principles, success criteria, or testing practices. The discussion lacks depth in relation to the core themes of Test First Development, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1617,6 +1620,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Sprint Review process within the Scrum framework, discussing roles, events, and facilitation techniques. While it touches on aspects of collaboration and transparency, it does not explicitly address the One Engineering System framework, its principles, or its integration across teams. The discussion is more aligned with Scrum practices rather than the broader goals of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:46:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the structure and facilitation of a Sprint Review, discussing roles and processes within Scrum. While it touches on aspects of transparency and reflection, it does not explicitly address the intentional shaping of outcomes or the principles of Agentic Agility. The discussion lacks depth in exploring the distinction between human and AI capabilities, and does not provide a clear connection to the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }
 }

@@ -541,11 +541,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:01:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the challenges faced by agile consultants and the cultural clash between Agile and traditional management practices, with limited specific focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of agile consultants and the importance of dialogue in driving change, but it does not explicitly mention the Scrum Master or their specific responsibilities. While there are themes related to facilitation and engagement that align with Scrum principles, the primary focus is on the consultant's role rather than the Scrum Master. The depth of discussion on related concepts is moderate, but it lacks a direct connection to the Scrum Master role.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -976,11 +979,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:01:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses agile consulting and Scrum practices, without any focus on Test First Development or Test-Driven Development principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of agile consultants and the importance of difficult conversations in driving organisational change. It does not mention Test First Development, its principles, or related practices such as TDD or ATDD. The focus is on dialogue and transformation rather than testing methodologies, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1564,5 +1570,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the role of agile consultants and the importance of difficult conversations in driving organisational change. It does not explicitly mention the One Engineering System or its principles, components, or implementation. While it touches on themes of engagement and transformation, these are not directly aligned with the core topics of 1ES, such as standardisation and integration of software development practices.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:01:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of engaging in difficult conversations and challenging the status quo, which aligns with the principles of Agentic Agility. However, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. The focus is more on the role of consultants and fostering dialogue rather than on intentional shaping of outcomes through autonomy and adaptability.",
+    "level": "Tertiary"
   }
 }

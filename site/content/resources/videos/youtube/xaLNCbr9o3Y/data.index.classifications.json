@@ -517,12 +517,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:28:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on an event related to Professional Scrum with Kanban without directly addressing the role, responsibilities, or practices of a Scrum Master.",
-    "level": "Ignored"
+    "final_score": 57.0,
+    "reasoning": "The content discusses agile practices and the adaptation of Scrum with Kanban, which relates to the role of a Scrum Master in facilitating team effectiveness. However, it primarily focuses on teaching methods and community engagement rather than the specific responsibilities and impact of a Scrum Master. While there are mentions of Scrum, the depth of discussion on the Scrum Master's role is limited, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -925,11 +928,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:27:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a live chat regarding a Scrum event and does not discuss Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses agile practices, specifically focusing on Scrum and Kanban, without any explicit mention or discussion of Test First Development principles. While it touches on concepts like flexibility, flow, and community support, these are not directly related to the core themes of Test First Development, such as success criteria, TDD, or ATDD. The overall focus is on adapting teaching methods and fostering community rather than on testing practices.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1479,6 +1485,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Agile practices, specifically Scrum and Kanban, without any direct reference to the One Engineering System framework. While it touches on themes of flexibility and community, these are not aligned with the core principles of 1ES, which focuses on standardisation and integration across teams. The discussion lacks depth regarding the implementation or impact of a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:27:55",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses adapting Scrum with Kanban and the importance of community during uncertain times, which does not directly address the concept of Agentic Agility. While there are mentions of flexibility and adaptability, these are framed within general Agile practices rather than a focused discussion on intentional shaping of outcomes or the distinction between human and AI capabilities. The content lacks depth in exploring the principles of Agentic Agility, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

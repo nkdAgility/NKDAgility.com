@@ -391,15 +391,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T14:20:46",
-    "ai_confidence": 87.0,
+    "calculated_at": "2025-04-08T16:56:47",
+    "ai_confidence": 92.0,
     "ai_mentions": 18,
-    "ai_alignment": 35,
-    "ai_depth": 30,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
-    "reasoning": "The content extensively discusses the role of a Scrum Master, highlighting their responsibilities, the importance of understanding various contexts (business, technical, and organisational), and the value they bring to teams. It provides a detailed exploration of how a Scrum Master facilitates team effectiveness and the necessity of their skills in Agile environments. The depth of discussion is significant, covering multiple aspects of the Scrum Master's role, which aligns well with the key topics outlined for this category.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses the role and responsibilities of a Scrum Master, highlighting their importance in various contexts such as business, technical, and organisational change. It provides a detailed exploration of how a Scrum Master enhances team effectiveness and navigates Agile practices, aligning closely with the core themes of the category. The depth of discussion is significant, covering multiple aspects of the Scrum Master's influence and value within a team and organisation.",
+    "level": "Primary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -436,11 +436,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T07:25:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role and responsibilities of a Scrum Master in Agile project management, with no focus on Test First Development or related testing practices.",
+    "calculated_at": "2025-04-08T16:56:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master in Agile practices, focusing on their importance in facilitating team effectiveness and understanding various contexts. It does not explicitly mention Test First Development or its principles, nor does it delve into testing methodologies or practices related to Test First Development. The discussion is centred around Scrum and Agile rather than the specific practices of Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1560,6 +1563,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the role of a Scrum Master within Agile methodologies, discussing their responsibilities and the contexts in which they operate. While it touches on aspects of team effectiveness and organisational change, it does not explicitly mention or align with the principles of the One Engineering System (1ES). The discussion is centred around Scrum rather than the integration and standardisation of engineering processes, which is the core of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:56:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master within Agile practices, discussing their responsibilities and the contexts in which they operate. While it touches on themes of empowerment and effectiveness, it does not explicitly address the concept of Agentic Agility or the intentional shaping of outcomes. The discussion lacks depth in exploring the distinctions between human and AI capabilities, and it does not engage with the core principles of Agentic Agility, such as accountability, reflection, or double-loop learning.",
     "level": "Ignored"
   }
 }

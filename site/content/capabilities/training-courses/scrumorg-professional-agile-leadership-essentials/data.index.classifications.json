@@ -361,11 +361,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T00:07:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T17:34:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile leadership and the role of leaders in facilitating Agile transformations, which includes aspects relevant to the Scrum Master role, but it is primarily focused on leadership in a broader context rather than specifically on Scrum Master responsibilities.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of leaders in agile transformation, which indirectly relates to the Scrum Master role. However, it primarily focuses on leadership in a broader context rather than specifically on the Scrum Master responsibilities. While it mentions coaching agile teams and facilitating change, it lacks a detailed exploration of Scrum-specific practices and the unique contributions of a Scrum Master.",
     "level": "Tertiary"
   },
   "Agile Planning": {
@@ -397,11 +400,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T00:07:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Agile leadership and transformation, with no mention of Test First Development or related testing practices.",
+    "calculated_at": "2025-04-08T17:34:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on agile leadership and transformation rather than Test First Development principles. While it discusses the importance of agile practices and leadership roles, it does not explicitly mention Test First Development, success criteria, or related testing methodologies. The alignment with the core themes of Test First Development is minimal, and the depth of discussion on this topic is lacking.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Agile leadership and transformation rather than the One Engineering System framework. While it touches on themes of organisational change and agile practices, it does not explicitly discuss the principles, components, or implementation of 1ES. The discussion is more about Agile methodologies and leadership roles, which are not central to the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:34:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses agile leadership and transformation, which touches on aspects of Agentic Agility, such as the role of leaders in shaping outcomes and aligning organisational goals. However, it lacks a direct focus on the intentional shaping of outcomes through autonomy and adaptability, and does not differentiate between human and AI capabilities in this context. The discussion is more about general agile practices rather than a deep exploration of Agentic Agility principles.",
     "level": "Ignored"
   }
 }

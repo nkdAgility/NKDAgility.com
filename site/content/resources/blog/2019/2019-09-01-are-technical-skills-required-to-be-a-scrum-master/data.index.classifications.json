@@ -1192,11 +1192,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T18:23:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:30:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of a Scrum Master, with a focus on technical, business, and organisational mastery, rather than Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master, focusing on their need for technical, business, and organisational mastery. While it briefly mentions TDD and other testing practices, these are not the main focus of the discussion. The content does not align with the core principles of Test First Development, which emphasises defining success criteria and the importance of testing practices before implementation.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1273,14 +1276,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T03:26:50",
+    "calculated_at": "2025-04-08T17:30:32",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 38,
     "non_ai_confidence": 20,
     "final_score": 85.0,
-    "reasoning": "The content extensively discusses the role of the Scrum Master, including their responsibilities, the importance of various types of mastery (technical, business, and organisational), and how these skills contribute to their effectiveness. It directly references the Scrum Guide and elaborates on the Scrum Master's role in coaching, facilitating, and serving both the Development Team and the Product Owner. The depth of discussion is significant, providing detailed insights into the skills required for a Scrum Master, thus aligning closely with the category's core themes.",
+    "reasoning": "The content extensively discusses the role and responsibilities of the Scrum Master, including the importance of technical, business, and organisational mastery. It provides detailed insights into how these masteries enhance the effectiveness of a Scrum Master in guiding teams and driving organisational change. The discussion is rich in detail, addressing the nuances of the Scrum Master's role and their impact on team dynamics and stakeholder engagement, thus aligning closely with the key topics outlined in the category.",
     "level": "Primary"
   },
   "Transparency": {
@@ -1590,6 +1593,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master and the necessary skills for effective performance within a Scrum framework. While it touches on aspects of team dynamics and practices, it does not directly address the principles or components of the One Engineering System (1ES). The focus is on Scrum methodology rather than the integration and standardisation of engineering processes, which is the core of 1ES. Therefore, the content does not align well with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:30:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master and the necessary skills for effective team guidance, focusing on technical, business, and organisational mastery. While it touches on aspects of agency and adaptability, it does not explicitly address Agentic Agility or its principles. The discussion lacks depth in exploring the intentional shaping of outcomes or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

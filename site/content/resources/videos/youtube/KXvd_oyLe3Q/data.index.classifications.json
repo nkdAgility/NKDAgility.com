@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T04:59:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps practices and challenges, with no clear focus on Test First Development or its principles.",
+    "calculated_at": "2025-04-08T15:52:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses DevOps practices, technical debt, and organizational transformation without any explicit mention or focus on Test First Development principles. While it touches on aspects of software delivery and efficiency, it does not address success criteria, testing methodologies, or the importance of testing in the context of development practices.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -862,11 +865,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T05:00:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:52:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps practices and challenges within a large organisation, with no clear focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on DevOps consulting and the challenges associated with technical debt and system complexity. It does not explicitly mention the role of a Scrum Master or discuss Scrum principles, responsibilities, or the impact of a Scrum Master on team dynamics or organisational change. While there are themes of collaboration and improvement, they are framed within a DevOps context rather than Scrum.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1614,6 +1620,18 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content primarily discusses DevOps practices and challenges, with a focus on technical debt and team dynamics rather than the specific principles and components of the One Engineering System (1ES). While there are elements of integration and simplification that align with 1ES, the discussion lacks a direct focus on the framework itself, its implementation, or its impact on software quality and delivery timelines.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:51:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses DevOps transformation and the importance of ownership and skill in addressing technical debt, which aligns with some principles of Agentic Agility. However, it lacks a direct focus on the intentional shaping of outcomes and does not differentiate between human and AI capabilities in the context of agility. The discussion is more centred on technical processes and organisational challenges rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

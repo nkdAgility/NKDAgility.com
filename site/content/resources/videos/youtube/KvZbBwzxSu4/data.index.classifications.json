@@ -529,11 +529,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T05:03:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational vision, goals, and decision-making processes, with no clear focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T15:54:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses organisational vision, goals, and leadership strategies, with no direct mention of Test First Development principles or practices. While it touches on the importance of clarity and decision-making, it does not align with the core themes of Test First Development, such as success criteria, testing methodologies, or the role of testing in software delivery.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -871,11 +874,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T05:04:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:54:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses organisational vision, goals, and decision-making processes without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of vision, goals, and decision-making within teams, which aligns with some Scrum Master principles, such as fostering team understanding and autonomy. However, it does not explicitly mention the Scrum Master role or its specific responsibilities, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1612,5 +1618,17 @@
     "final_score": 12.0,
     "reasoning": "The content discusses the importance of vision, goals, and decision-making in organisations, but it does not explicitly mention the One Engineering System or its principles. While there are themes of alignment and empowerment that could relate to 1ES, the focus is primarily on leadership and organisational culture rather than the integration and standardisation of engineering processes.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:54:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of vision, goals, and intent-based leadership, which aligns with the principles of Agentic Agility. It highlights the need for autonomy in decision-making and the role of understanding in shaping outcomes. However, it lacks explicit references to AI systems and does not deeply explore the mechanisms of AI Agentic Agility, which limits its overall alignment with the category.",
+    "level": "Tertiary"
   }
 }

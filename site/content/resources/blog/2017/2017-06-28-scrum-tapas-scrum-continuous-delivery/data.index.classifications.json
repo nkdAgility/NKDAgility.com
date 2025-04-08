@@ -1141,11 +1141,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T19:15:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:34:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Continuous Delivery, with no focus on Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the relationship between Scrum and Continuous Delivery, with no explicit mention of Test First Development principles or practices. While it touches on agile practices, it does not delve into success criteria, testing methodologies, or the importance of testing in the development process, which are core to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1222,11 +1225,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T19:15:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:34:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the relationship between Scrum and Continuous Delivery, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Scrum and its relationship with Continuous Delivery, but it does not focus on the role or responsibilities of the Scrum Master. While it touches on Scrum practices, it lacks depth in discussing the Scrum Master's influence, techniques, or impact on team dynamics, which are crucial for a higher confidence score.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1515,6 +1521,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum and Continuous Delivery, which are not directly related to the One Engineering System framework. While there is a mention of agile practices, it does not delve into the principles, components, or implementation of 1ES. The discussion lacks depth and does not address the integration or standardisation of engineering processes, which are core to the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:34:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum and Continuous Delivery, which are Agile practices, without any explicit mention or exploration of Agentic Agility. It lacks a focus on intentional shaping of outcomes, autonomy, or adaptability, and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

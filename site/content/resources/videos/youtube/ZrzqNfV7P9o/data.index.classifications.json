@@ -484,11 +484,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T21:37:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:14:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, with no mention of Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on using Minecraft Education to teach Scrum principles, with no direct mention or discussion of Test First Development practices, success criteria, or testing methodologies. It lacks alignment with the core themes of Test First Development and provides minimal depth on any related concepts.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -826,11 +829,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T21:38:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:14:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on using Minecraft Education as a tool for teaching Scrum concepts, rather than discussing the role and responsibilities of a Scrum Master.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the application of Scrum principles in a Minecraft educational context, but it does not explicitly focus on the role or responsibilities of a Scrum Master. While it mentions Scrum and its application in a complex environment, the primary focus is on using Minecraft as a tool for teaching Scrum rather than on the Scrum Master's role in facilitating or coaching. The discussion lacks depth regarding the Scrum Master's influence on team dynamics or organisational change, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1527,6 +1533,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on using Minecraft Education Edition to teach Scrum principles, which is not aligned with the One Engineering System framework. While it discusses collaboration and Agile practices, it does not address the core themes of 1ES, such as standardisation, integration of tools, or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:14:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on using Minecraft Education to enhance the Applying Professional Scrum (APS) course, discussing collaboration and creativity in Agile teams. However, it does not explicitly address the concept of Agentic Agility, nor does it delve into the intentional shaping of outcomes or the distinction between human and AI capabilities in agility. The discussion is more about practical application of Scrum rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

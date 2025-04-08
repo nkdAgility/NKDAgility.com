@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T08:54:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:10:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the need for businesses to adapt to changing market conditions and does not address Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the concept of continuous adaptation in business rather than focusing on Test First Development principles. There are no direct mentions of testing practices, success criteria, or methodologies related to Test First Development. The discussion is more about flexibility and adaptation in a business context, which does not align with the core themes of the category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -853,11 +856,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T08:55:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:10:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses general business adaptation and market dynamics without specific reference to the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content discusses the importance of adaptability in business but does not mention the Scrum Master role or its responsibilities. While it touches on themes of flexibility and continuous improvement, these concepts are not specifically tied to the Scrum framework or the Scrum Master's influence within a team or organisation.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1591,5 +1597,17 @@
     "final_score": 12.0,
     "reasoning": "The content discusses the importance of continuous adaptation in business but does not explicitly mention the One Engineering System or its principles. While it touches on flexibility and adaptation, it lacks a focus on standardising and integrating software development practices, which are core to the 1ES framework.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:09:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of adaptation and flexibility in business, which aligns with the concept of Agentic Agility. However, it lacks explicit mentions of the principles of Agentic Agility, such as intent, accountability, and the distinction between human and AI capabilities. The discussion is more focused on general adaptability rather than the intentional shaping of outcomes, which is central to the category.",
+    "level": "Tertiary"
   }
 }

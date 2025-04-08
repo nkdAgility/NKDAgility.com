@@ -601,14 +601,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T03:11:59",
+    "calculated_at": "2025-04-08T17:27:42",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
     "final_score": 57.0,
-    "reasoning": "The content discusses Agile practices and team dynamics, which are relevant to the role of a Scrum Master, but it does not explicitly focus on the responsibilities or techniques specific to Scrum Masters. While it touches on communication, team collaboration, and integrating UX into Agile, these topics are more general and do not delve deeply into the Scrum Master role or its specific practices.",
+    "reasoning": "The content discusses Agile practices and team dynamics, which are relevant to the role of a Scrum Master, but it does not explicitly focus on the responsibilities or impact of a Scrum Master. While it touches on communication, value delivery, and team collaboration, it lacks depth in exploring the specific role of the Scrum Master as a facilitator or change agent within a Scrum Team.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -1030,11 +1030,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T12:23:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content mostly discusses remote work, team dynamics, and Agile practices without a clear focus on Test First Development or TDD principles.",
+    "calculated_at": "2025-04-08T17:27:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses remote work, team dynamics, and UX integration in Agile practices, with no direct mention of Test First Development principles or practices. While it touches on concepts like feedback loops and value delivery, these are not specifically tied to Test First Development, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1581,6 +1584,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily discusses Agile practices, remote work, and team dynamics, with no direct mention of the One Engineering System (1ES). While it touches on collaboration and integration of UX, it does not delve into the principles or components of 1ES, nor does it provide best practices or case studies related to 1ES. The focus remains on Agile methodologies rather than the standardisation and integration of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:27:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile practices and team dynamics but does not explicitly address Agentic Agility or its key principles. While there are mentions of adaptability and value delivery, the focus remains on general Agile methodologies rather than the intentional shaping of outcomes through agency. The discussion lacks depth in exploring the distinctions between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

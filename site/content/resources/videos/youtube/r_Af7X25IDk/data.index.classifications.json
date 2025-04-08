@@ -538,12 +538,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T12:23:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:26:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Agile change and practices broadly without specific focus on the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile leadership and organisational change, which are relevant to the role of a Scrum Master, but it does not explicitly mention the Scrum Master role or delve deeply into its specific responsibilities. The focus is more on general Agile principles and leadership rather than the distinct functions and impact of a Scrum Master within a Scrum Team.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -976,11 +979,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T12:23:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on leading Agile change and complementary practices rather than Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T17:26:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile leadership and organisational change without directly addressing Test First Development principles. While it touches on concepts like continuous improvement and value delivery, it lacks explicit references to success criteria, testing practices, or the Test First approach, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1569,6 +1575,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Agile leadership and transformation, focusing on team empowerment and value delivery, which are not directly related to the One Engineering System framework. While there are some mentions of collaboration and efficiency, the core principles and components of 1ES are not explicitly addressed, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:26:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile leadership and the importance of empowering teams, which aligns with the principles of Agentic Agility. However, it lacks explicit references to the concept of Agentic Agility itself and does not differentiate between human and AI capabilities. The focus is more on general Agile practices rather than a deep exploration of intentionality and agency.",
     "level": "Ignored"
   }
 }

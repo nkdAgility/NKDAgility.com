@@ -175,11 +175,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-13T10:00:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:45:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the Product Backlog and its items, which are not directly related to the Scrum Master role.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Product Backlog, which is a component of Scrum but does not discuss the role or responsibilities of the Scrum Master. There are no direct mentions of the Scrum Master, and the discussion lacks depth regarding the Scrum framework or its principles.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1018,11 +1021,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T10:05:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:45:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of a Product Backlog, which is not related to Test First Development or its principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the concept of a Product Backlog, which is related to project management and agile development, rather than discussing Test First Development principles. There are no explicit mentions of success criteria, testing practices, or the importance of testing in the context of development, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1488,6 +1494,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the concept of a Product Backlog, which is a component of agile development rather than the One Engineering System. There are no direct mentions of 1ES, and the discussion does not align with the core themes of integration and standardisation of engineering processes. The depth of discussion is also minimal, as it only introduces the concept without exploring its relation to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:45:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on the concept of a Product Backlog, which is a fundamental aspect of Agile project management, but does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, and the discussion lacks depth regarding the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

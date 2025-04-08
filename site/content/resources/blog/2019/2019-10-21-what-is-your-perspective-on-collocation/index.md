@@ -33,11 +33,11 @@ tags:
 - Events and Presentations
 - Team Collaboration
 - Team Performance
-- Scrum Master
 - Scrum Team
 - Agile Frameworks
 - Agile Product Management
 - Software Development
+- Pragmatic Thinking
 categories:
 - Scrum
 preview: 1026661500-1-1.jpg

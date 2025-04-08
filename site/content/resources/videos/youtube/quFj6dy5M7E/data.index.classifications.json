@@ -193,15 +193,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T17:04:44",
-    "ai_confidence": 42.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 30.0,
-    "ai_depth": 20.0,
+    "calculated_at": "2025-04-08T15:37:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Agile and Scrum as part of broader philosophies but does not specifically focus on the role of the Scrum Master or their responsibilities. While it touches on collaboration and continuous improvement, which are relevant to Scrum, it lacks detailed exploration of Scrum Master practices or techniques.",
-    "level": "Ignored"
+    "final_score": 56.0,
+    "reasoning": "The content discusses various frameworks including Scrum, but it does not focus specifically on the role of the Scrum Master or their responsibilities. While it touches on concepts relevant to agile practices and team dynamics, it lacks a detailed exploration of the Scrum Master's influence or specific techniques they employ. The primary focus is on building a high-performance delivery engine rather than the Scrum Master role itself.",
+    "level": "Tertiary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -1108,11 +1108,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T16:36:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:37:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses building high performing delivery teams and the importance of understanding business needs, rather than focusing on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses building a high-performance delivery engine through competence and collaboration, with no explicit mention of Test First Development principles or practices. While it touches on Agile and continuous improvement, it lacks a focus on defining success criteria or the role of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1623,6 +1626,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses building a high-performance delivery engine and emphasises competence and collaboration, which are relevant to software development. However, it primarily focuses on general practices and philosophies like Agile and DevOps rather than the specific principles and components of the One Engineering System. The mention of 1ES is absent, and while there is some alignment with the themes of integration and standardisation, the depth of discussion does not sufficiently address the core aspects of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:36:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, which aligns with some principles of Agentic Agility, such as adaptability and alignment with value. However, it lacks explicit mentions of Agentic Agility and does not differentiate between human and AI capabilities. The focus is more on general Agile and DevOps practices rather than the intentional shaping of outcomes, leading to a lower confidence score.",
     "level": "Ignored"
   }
 }

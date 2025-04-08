@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T07:00:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:50:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the assessment phase of consulting engagements and the importance of adapting to customer needs, with no clear focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the assessment phase of agile consulting and does not explicitly mention Test First Development or its principles. While it touches on agile methodologies, it lacks a focus on defining success criteria or testing practices, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -853,12 +856,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T07:01:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the assessment phase of consulting engagements without a clear focus on the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T16:50:12",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content mentions the role of a Scrum Master explicitly, indicating a direct connection to the category. However, the primary focus is on the assessment phase of consulting engagements rather than the Scrum Master's responsibilities or techniques. While there is some alignment with agile principles and the importance of continuous learning, the depth of discussion on Scrum Master-specific topics is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1587,6 +1593,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the assessment phase of agile consulting and Scrum practices, which are not directly related to the One Engineering System framework. While there are mentions of agile methodologies, the focus is on consulting strategies rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:50:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the assessment phase in agile consulting but does not explicitly mention Agentic Agility or its principles. While it touches on themes of adaptability and continuous learning, it lacks a focused exploration of intentionality and the distinction between human and AI capabilities. The discussion is more about agile practices rather than the intentional shaping of outcomes, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

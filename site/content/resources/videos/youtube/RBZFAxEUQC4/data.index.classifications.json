@@ -493,11 +493,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T02:52:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:29:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges and misconceptions surrounding Agile transformation, without any mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the pitfalls of seeking quick Agile solutions and the importance of a tailored approach to Agile transformation. It does not mention Test First Development or its principles, nor does it explore any related concepts such as success criteria, testing practices, or collaboration among team members. The focus is on Agile methodologies in general, which does not align with the specific themes of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -829,11 +832,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T02:53:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:29:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses general Agile transformation without specific reference to the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile transformation but does not specifically mention the role of the Scrum Master or delve into their responsibilities. While it touches on the importance of adapting Agile practices, it lacks a direct focus on the Scrum Master's influence or techniques, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1530,6 +1536,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile methodologies and the pitfalls of seeking quick fixes in Agile transformations, which deviates from the core principles of the One Engineering System. While it touches on the need for tailored approaches, it does not explicitly mention or align with the 1ES framework, its components, or its integration across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:29:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the pitfalls of seeking quick Agile solutions and emphasises the need for a tailored approach, which aligns with the concept of adaptability. However, it lacks explicit discussions on Agentic Agility, such as the intentional shaping of outcomes or the distinction between human and AI capabilities. The focus is more on general Agile practices rather than the specific themes of agency and intentionality.",
     "level": "Ignored"
   }
 }

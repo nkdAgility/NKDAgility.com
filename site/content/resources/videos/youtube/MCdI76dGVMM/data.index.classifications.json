@@ -373,14 +373,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T10:09:01",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "calculated_at": "2025-04-08T16:42:24",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the challenges of becoming a professional Scrum Master, which directly mentions the role. However, it lacks detailed exploration of specific responsibilities, techniques, or practices associated with the role. The focus is more on the personal journey and understanding of professionalism rather than the core themes of Scrum Master responsibilities or team dynamics.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses the challenges and importance of professionalism in becoming a Scrum Master, which aligns well with the responsibilities and mindset expected of someone in that role. It explicitly mentions the journey to professionalism and the significance of understanding Scrum methodologies, indicating a strong focus on the Scrum Master role. However, while it touches on key themes, it lacks detailed exploration of specific techniques or the Scrum Master's influence on team dynamics, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Agile Planning": {
@@ -412,11 +412,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T19:56:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:42:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the challenges of becoming a professional Scrum Master, which is unrelated to Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the challenges of becoming a professional Scrum Master and the importance of professionalism in the Agile context. It does not mention Test First Development or its principles, nor does it align with the core themes of success criteria, testing practices, or the transition from manual to automated testing. The focus is on Scrum and Agile methodologies rather than on testing practices.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1506,6 +1509,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the role and challenges of becoming a professional Scrum Master, focusing on Scrum methodologies rather than the One Engineering System framework. There are no direct mentions of 1ES principles, components, or its impact on software development practices. The discussion is centred around Scrum, which is outside the scope of 1ES, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:42:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the challenges of becoming a professional Scrum Master, focusing on professionalism rather than the intentional shaping of outcomes or the principles of Agentic Agility. While it touches on continuous learning and improvement, it does not explicitly mention Agentic Agility or its key themes, nor does it differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

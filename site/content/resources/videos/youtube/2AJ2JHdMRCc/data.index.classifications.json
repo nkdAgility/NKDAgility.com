@@ -388,11 +388,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T22:16:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps and its importance in software engineering, with no clear focus on the Scrum Master role or related responsibilities.",
+    "calculated_at": "2025-04-08T16:51:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on DevOps and its significance in software engineering, with only a brief mention of Agile and Scrum courses. There is minimal direct discussion of the Scrum Master role or its responsibilities, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -424,11 +427,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T22:16:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:51:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps and its role in software engineering, with no clear focus on Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on DevOps and its role in software engineering, with no direct mention or discussion of Test First Development principles. While it touches on concepts like continuous delivery and feedback loops, these are not specifically tied to Test First practices, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1578,6 +1584,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on DevOps, discussing its importance and role in software engineering without any explicit mention or discussion of the One Engineering System (1ES). While it touches on integration and processes, it does not align with the core themes of 1ES, such as standardisation across teams or specific best practices for implementing 1ES. The depth of discussion is also minimal regarding the principles of 1ES, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:51:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on DevOps and its role in software engineering, with no explicit discussion of Agentic Agility. While it touches on concepts of value delivery and feedback loops, it does not delve into the intentional shaping of outcomes or the distinction between human and AI capabilities, which are central to Agentic Agility.",
     "level": "Ignored"
   }
 }

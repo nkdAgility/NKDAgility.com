@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T03:13:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:11:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the evolution of Agile methodologies and leadership structures, with no focus on Test First Development or related testing practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the evolution of Agile methodologies and the importance of leadership and team dynamics within Agile frameworks. It does not explicitly mention Test First Development, nor does it delve into the principles or practices associated with it, such as Test-Driven Development (TDD) or the role of success criteria in guiding design and implementation. The focus is on Agile as a whole rather than the specific testing practices that fall under the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -865,11 +868,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T03:14:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:11:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the evolution of Agile methodologies and leadership structures, with only peripheral references to Scrum and the role of Scrum Masters.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile evolution and leadership but does not focus specifically on the role of the Scrum Master. While it touches on concepts relevant to Agile and Scrum, such as team dynamics and the need for agile leadership, it lacks direct references to the responsibilities and impact of a Scrum Master. The discussion is more about Agile principles and organisational change rather than the specific role of a Scrum Master, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1596,6 +1602,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Agile methodologies and their evolution, with a focus on leadership and team dynamics rather than the One Engineering System framework. While it touches on themes of collaboration and adaptability, it does not explicitly mention 1ES or its principles, components, or implementation strategies. The discussion is more centred on Agile practices and personal insights rather than the integration and standardisation of engineering processes as defined by 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:11:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the evolution of Agile and the importance of decentralised decision-making, which aligns with some principles of Agentic Agility. However, it primarily focuses on Agile practices rather than explicitly addressing the intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals and systems, resulting in a lower confidence score.",
     "level": "Ignored"
   }
 }

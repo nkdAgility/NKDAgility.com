@@ -1195,11 +1195,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T19:11:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:33:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses organisational change and leadership within the Ghana Police Service, with no focus on Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses organisational change within the Ghana Police Service and the adoption of agile practices, with only a brief mention of Scrum and frameworks. It does not focus on Test First Development principles, success criteria, or testing methodologies, which are central to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1279,14 +1282,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T03:42:43",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-04-08T17:33:28",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the application of Scrum principles in the context of organisational change within the Ghana Police Service. While it mentions Scrum and its framework, the primary focus is on broader organisational transformation rather than the specific role and responsibilities of a Scrum Master. The discussion includes elements of servant leadership and team dynamics, which are relevant to the Scrum Master role, but lacks detailed exploration of Scrum Master-specific practices and responsibilities.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the adoption of Scrum within the context of organisational transformation at the Ghana Police Service, highlighting the need for a framework rather than a methodology. It mentions the role of leadership and servant leadership, which aligns with Scrum Master principles. However, the primary focus is on organisational change rather than the specific responsibilities and impact of a Scrum Master, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1594,5 +1597,17 @@
     "final_score": 30.0,
     "reasoning": "The content discusses organisational transformation within the Ghana Police Service, focusing on agile practices and frameworks like Scrum. While it touches on the need for a structured approach and mentions frameworks, it primarily centres on leadership and change management rather than the specific principles and components of the One Engineering System. The discussion lacks a direct focus on integration and standardisation of engineering processes, which is essential for a higher confidence score in this category.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:33:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses organisational transformation within the Ghana Police Service, touching on themes of leadership, vision, and the need for a framework rather than a strict methodology. However, it primarily focuses on Agile practices and Scrum without explicitly addressing the concept of Agentic Agility or differentiating between human and AI capabilities. While there are elements of intent and adaptability, the discussion lacks depth in exploring the transformative capacity of individuals and systems in a socio-technical context.",
+    "level": "Tertiary"
   }
 }

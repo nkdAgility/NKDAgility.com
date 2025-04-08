@@ -805,11 +805,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T08:56:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:40:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content focuses on discussing Application Lifecycle Management (ALM) tools and the process of evaluating and comparing tools like Visual Studio ALM, Git, and Jenkins. It does not primarily discuss Test First Development or its principles, practices, or benefits. Instead, it provides an overview of various elements related to ALM, making it not relevant to Test First Development.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Visual Studio ALM and its features, focusing on application lifecycle management rather than the principles of Test First Development. While it briefly touches on quality management and test cases, it does not delve into Test First practices or the importance of defining success criteria before implementation, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -889,11 +892,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T08:56:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:40:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Application Lifecycle Management tooling and comparisons between specific tools, without any clear reference or discussion related to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Visual Studio ALM and its features, with no direct mention of the Scrum Master role or its responsibilities. While it touches on project management and tool selection, it does not align with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles. The discussion lacks depth regarding the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1587,6 +1593,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily discusses Visual Studio ALM and its features, focusing on application lifecycle management rather than the One Engineering System framework. While it touches on integration and tool selection, it does not explicitly mention 1ES principles or provide a comprehensive discussion on standardising engineering practices across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:40:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Visual Studio ALM and its comparison with other tools like Git and Jenkins. While it touches on decision-making and considerations for tool selection, it does not explicitly address the principles of Agentic Agility, such as intentional shaping of outcomes, autonomy, or adaptability. The focus is more on practical aspects of application lifecycle management rather than the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

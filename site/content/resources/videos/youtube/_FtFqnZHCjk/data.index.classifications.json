@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T12:56:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:56:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile product management and the evolution of release cycles, with no clear focus on Test First Development principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile product management and the importance of quality and feedback loops, which are relevant to Test First Development. However, it does not explicitly mention Test First practices or principles, nor does it focus on defining success criteria before implementation. The discussion on Continuous Integration and the Definition of Done touches on aspects of quality assurance but lacks depth in relation to Test First Development specifically.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -865,11 +868,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T12:57:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:56:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile product management and its evolution, without a clear focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on product management within the Agile framework, discussing the evolution from traditional to Agile practices. While it touches on Agile principles, it does not explicitly mention the role of the Scrum Master or delve into their responsibilities, techniques, or impact on team dynamics. The discussion is more centred on product management strategies rather than the specific role of a Scrum Master.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1611,6 +1617,18 @@
     "non_ai_confidence": 30,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on Agile product management and contrasts it with traditional practices, without discussing the One Engineering System framework or its principles. While it touches on concepts like continuous integration and delivery, these are not explicitly linked to 1ES, and the overall discussion does not align with the core themes of standardisation and integration across teams as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:56:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile product management and its benefits, focusing on responsiveness and value delivery. However, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. While it touches on themes of adaptability and value creation, it lacks depth in exploring intentional shaping of outcomes or the role of agency.",
     "level": "Ignored"
   }
 }

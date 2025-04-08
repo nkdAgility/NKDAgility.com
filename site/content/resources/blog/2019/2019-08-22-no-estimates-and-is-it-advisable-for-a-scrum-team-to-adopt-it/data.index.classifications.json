@@ -1192,11 +1192,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T18:27:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:30:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses estimation practices within Scrum, with no focus on Test First Development principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the No Estimates approach within Scrum, focusing on estimation practices and team optimisation rather than the principles of Test First Development. There are no direct mentions of Test First practices, success criteria, or testing methodologies. The discussion is centred around Scrum roles and metrics, which do not align with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1276,14 +1279,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T03:28:21",
+    "calculated_at": "2025-04-08T17:30:43",
     "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
     "final_score": 66.0,
-    "reasoning": "The content discusses the role of estimation within a Scrum Team and touches on the importance of team discussions and continuous improvement, which are relevant to the Scrum Master role. However, it lacks a direct focus on the responsibilities and practices of a Scrum Master, making it more of a secondary mention rather than a primary discussion. The depth of the discussion on Scrum practices is moderate, but it does not delve deeply into the Scrum Master's specific contributions or techniques.",
+    "reasoning": "The content discusses the role of estimation within Scrum Teams, which is a relevant topic for Scrum Masters. It highlights the importance of team communication and continuous improvement, aligning with the responsibilities of a Scrum Master. However, while it touches on Scrum principles, it does not delve deeply into the specific responsibilities or techniques of a Scrum Master, which slightly limits its depth. Overall, the content is focused on Scrum practices, justifying a moderate to high confidence score.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1587,6 +1590,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the No Estimates approach within the context of Scrum, focusing on estimation practices and team optimisation. It does not address the principles or components of the One Engineering System framework, nor does it explore integration of tools and processes across teams, which are key topics for 1ES. The discussion is centred on Scrum methodology rather than the standardisation and integration of engineering practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:30:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concept of No Estimates within Scrum practices, focusing on estimation techniques and team optimisation. While it touches on aspects of team communication and learning, it does not explicitly address Agentic Agility or its principles. The discussion lacks a clear distinction between human and AI capabilities, and does not explore intentional shaping of outcomes, which are central to the category of Agentic Agility.",
     "level": "Ignored"
   }
 }

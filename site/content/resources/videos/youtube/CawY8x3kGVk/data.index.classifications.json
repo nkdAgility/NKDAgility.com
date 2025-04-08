@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T08:39:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:26:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, with no focus on Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum and the myth of micromanagement, with no direct mention of Test First Development principles or practices. While it touches on Agile principles, it does not align with the core themes of Test First Development, such as success criteria, automated testing, or the role of testing in design and collaboration.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -874,14 +877,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T21:21:49",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-04-08T16:26:02",
+    "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
-    "ai_depth": 25,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the role of Scrum in relation to micromanagement, highlighting the importance of autonomy for Developers and the misapplication of Scrum principles. It aligns well with the responsibilities of a Scrum Master in fostering team empowerment and collaboration. However, while it touches on key themes relevant to the Scrum Master role, it does not delve deeply into specific Scrum Master practices or techniques, which slightly lowers the depth score.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the myth of micromanagement in Scrum, which directly relates to the role of the Scrum Master in fostering an environment of autonomy and collaboration. It aligns well with the responsibilities of a Scrum Master, particularly in promoting Agile principles and empowering Developers. The depth of discussion on how to navigate towards true Agile principles and the emphasis on trust and collaboration further supports its relevance to the Scrum Master role.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1608,6 +1611,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum and its principles, specifically addressing misconceptions about micromanagement. It does not discuss the One Engineering System framework, its components, or its integration with other processes, which are essential for alignment with the category. The discussion is centred around Agile practices rather than the standardisation and integration of engineering processes as outlined in the 1ES definition.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:25:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses autonomy within Scrum, which aligns with the concept of Agentic Agility, but it primarily focuses on debunking myths about micromanagement rather than exploring the intentional shaping of outcomes or the broader implications of Agentic Agility. The discussion lacks depth in terms of the principles and mechanisms of Agentic Agility, and it does not differentiate between human and AI capabilities.",
     "level": "Ignored"
   }
 }

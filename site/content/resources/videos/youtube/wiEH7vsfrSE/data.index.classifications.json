@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T23:21:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses cost-cutting measures during recessions and their impact on business effectiveness, without any mention of Test First Development or related practices.",
+    "calculated_at": "2025-04-08T15:58:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses cost-cutting strategies during recessions and the importance of investing in people and processes, with no direct mention or alignment to Test First Development principles. It does not address success criteria, testing practices, or the role of testing in software development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -862,11 +865,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T23:22:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses the impact of cost-cutting during recessions on organisational effectiveness and productivity, with only brief mentions of Scrum roles and practices. It does not focus on the responsibilities or techniques specific to the Scrum Master role.",
+    "calculated_at": "2025-04-08T15:57:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions the role of Scrum Masters in the context of cost-cutting during recessions, highlighting the value they bring to organisations. However, the primary focus is on broader business strategies and the importance of investing in people and processes rather than a detailed exploration of the Scrum Master's responsibilities or techniques. The discussion lacks depth in terms of Scrum-specific practices and does not align closely with the core themes of the Scrum Master category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1612,5 +1618,17 @@
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the implications of cost-cutting during recessions and the importance of investing in people and processes. While it touches on concepts related to business agility and effectiveness, it does not explicitly mention the One Engineering System or its principles, components, or implementation strategies. The focus is more on general business practices rather than the integration and standardisation of engineering processes, which is the core of the 1ES framework.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:57:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of investing in people and processes during economic downturns, which aligns with the principles of Agentic Agility, particularly in terms of empowering employees and fostering a culture of learning. However, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

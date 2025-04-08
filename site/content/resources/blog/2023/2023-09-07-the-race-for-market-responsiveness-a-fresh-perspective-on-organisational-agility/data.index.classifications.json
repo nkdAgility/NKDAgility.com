@@ -511,11 +511,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T18:20:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:36:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses organisational agility and the misconceptions of Agile methodologies, without focusing on Test First Development or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses organisational agility and market responsiveness without any direct mention of Test First Development principles or practices. While it touches on the importance of adapting processes, it does not delve into success criteria, testing methodologies, or the role of testing in software development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -844,11 +847,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T18:21:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:36:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses organisational agility and methodologies without a specific focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses organisational agility and the importance of adapting to market changes, but it does not specifically address the role or responsibilities of a Scrum Master. While it mentions agile methodologies like Scrum, it does not delve into the Scrum Master's influence or techniques, making it a secondary focus rather than a primary discussion.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1587,6 +1593,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses organisational agility and various agile methodologies without a direct focus on the One Engineering System (1ES). While it touches on the need for tailored processes, it does not delve into the principles, components, or implementation of 1ES, nor does it provide case studies or comparisons relevant to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:36:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses organisational agility and the importance of adapting to market changes, which aligns with the concept of Agentic Agility. However, it lacks explicit mentions of the principles of Agentic Agility, such as intent, accountability, and the distinction between human and AI capabilities. The focus is more on general agility rather than the intentional shaping of outcomes, resulting in a lower confidence score.",
     "level": "Ignored"
   }
 }

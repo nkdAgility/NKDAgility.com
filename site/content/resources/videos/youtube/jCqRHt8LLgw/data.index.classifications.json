@@ -514,11 +514,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T12:23:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:26:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content invites questions on a wide range of topics including DevOps and Agility, without a specific focus on Scrum Master responsibilities or practices.",
+    "final_score": 39.0,
+    "reasoning": "The content discusses agile practices, including team sizes and story points, which are relevant to Scrum but does not focus specifically on the role of the Scrum Master. While it touches on concepts that a Scrum Master might consider, such as team dynamics and agile methodologies, it lacks a direct exploration of the Scrum Master's responsibilities or influence on organisational change. Therefore, it aligns with the category but does not delve deeply into it.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -928,11 +931,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T12:23:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:26:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a Q&A session about various topics, including DevOps and Agility, without a specific emphasis on Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses agile practices, focusing on story points, team sizes, and emergent architecture, without any direct reference to Test First Development principles or practices. While it touches on aspects of agile methodologies, it does not align with the core themes of Test First Development, such as success criteria, testing practices, or the importance of automated testing. The discussion lacks depth regarding Test First concepts, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1479,6 +1485,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on agile methodologies, specifically discussing story points, team sizes, and emergent architecture. While these topics are relevant to software development, they do not directly address the principles or components of the One Engineering System (1ES). The discussion lacks explicit mentions of 1ES, its integration of tools and processes, or its impact on software quality and delivery timelines. Therefore, the content does not align well with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:26:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses agile practices, focusing on story points, team sizes, and emergent architecture, which are not directly related to the concept of Agentic Agility. While there are elements of adaptability and intentionality in the discussion, they do not explicitly address the core themes of Agentic Agility, such as the distinction between human and AI capabilities or the transformative capacity of individuals and systems. The content lacks depth in exploring the intentional shaping of outcomes, which is central to the category.",
     "level": "Ignored"
   }
 }

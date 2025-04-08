@@ -529,11 +529,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T05:26:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:53:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning and product management, with no clear focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on immersive learning and its application in product management, with no direct mention or discussion of Test First Development principles. While it touches on concepts like practical application and continuous improvement, these are not aligned with the core themes of Test First Development, which emphasises defining success criteria and testing practices. The content lacks depth in discussing any relevant testing methodologies or practices.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -871,11 +874,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T05:27:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:53:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning for product management without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on immersive learning in product management, with no direct mention of the Scrum Master role or its responsibilities. While it touches on themes of continuous improvement and organisational change, these concepts are not specifically tied to the Scrum framework or the Scrum Master's influence. The discussion lacks depth regarding Scrum practices, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1611,6 +1617,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on immersive learning in product management, discussing its features, applications, and challenges. It does not directly address the principles or components of the One Engineering System, nor does it explore integration of tools and processes across teams, which are core themes of 1ES. While there are elements of organisational change and improvement, they are not framed within the context of 1ES, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:53:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses immersive learning and its application in product management, focusing on practical application and outcome-based assignments. While it touches on themes of intentionality and transformation, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. The discussion is more about learning methodologies than the specific concept of agency in agility.",
     "level": "Ignored"
   }
 }

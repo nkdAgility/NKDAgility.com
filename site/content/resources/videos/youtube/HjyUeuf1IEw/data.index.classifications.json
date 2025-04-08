@@ -514,12 +514,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:26:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content invites questions on various topics including DevOps and Agility, without a specific focus on the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile training and continuous forecasting, which are relevant to Scrum practices. However, while it mentions Scrum concepts, it does not focus specifically on the role of the Scrum Master or their responsibilities. The discussion on continuous forecasting aligns with Scrum principles but lacks depth in exploring the Scrum Master's influence or techniques. Overall, the content is related but not primarily focused on the Scrum Master role.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -922,11 +925,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:26:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not specifically discuss Test First Development, focusing instead on general Agile and DevOps questions.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile training and continuous forecasting, with no direct mention of Test First Development principles or practices. While it discusses Agile methodologies, it does not delve into the specifics of defining success criteria or the importance of testing in the development process, which are core to Test First Development. The discussion lacks depth and relevance to the category, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1473,6 +1479,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Agile training and continuous forecasting, which are not directly related to the One Engineering System framework. While there are mentions of Agile practices, the discussion does not align with the core themes of 1ES, such as integration of tools and processes across teams or best practices for implementing a unified engineering system. The depth of discussion on 1ES is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:25:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile training and continuous forecasting but does not explicitly address Agentic Agility or its principles. While there are mentions of adaptability and planning, the focus remains on Agile practices rather than the intentional shaping of outcomes through agency. The discussion lacks depth in exploring the distinctions between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

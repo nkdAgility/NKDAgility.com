@@ -361,11 +361,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T00:39:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a Kanban course and does not focus on Scrum Master responsibilities or practices.",
+    "calculated_at": "2025-04-08T16:10:30",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on a Kanban course aimed at improving organisational efficiency and effectiveness, which does not directly address the role or responsibilities of a Scrum Master. While it mentions concepts like continuous improvement, it lacks explicit references to Scrum principles or the specific duties of a Scrum Master. The discussion is more aligned with general agile practices rather than the specific nuances of the Scrum Master role.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -397,11 +400,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T00:39:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses entirely on Scaled Portfolio Kanban, which is unrelated to Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T16:10:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban and organisational efficiency, with no explicit mention of Test First Development principles or practices. While it discusses continuous improvement, it does not align with the core themes of defining success criteria or testing methodologies related to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on a Kanban course aimed at improving organisational efficiency, which does not directly discuss the One Engineering System framework or its principles. While it touches on aligning work with goals and continuous improvement, these concepts are not specific to 1ES and lack the necessary depth and direct mention of the framework's components or integration practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:10:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions aligning work with goals and driving continuous improvement, which touches on aspects of Agentic Agility. However, it lacks explicit discussions on the intentional shaping of outcomes, the distinction between human and AI capabilities, and does not delve into the principles or mechanisms of Agentic Agility. The focus is more on practical application within a Kanban framework rather than on the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

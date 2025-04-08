@@ -514,11 +514,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:35:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:49:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on Team Web Access features in TFS 2013 and does not discuss Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on navigating permissions in Team Foundation Server (TFS) and does not discuss the role or responsibilities of a Scrum Master. While it touches on project management, it lacks any direct mention or relevant themes related to Scrum or the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -922,11 +925,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:35:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on features and access issues in TFS 2013, not related to Test First Development or its principles.",
+    "calculated_at": "2025-04-08T17:49:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on navigating permissions and access levels in Team Foundation Server (TFS), with no direct mention or discussion of Test First Development principles, practices, or methodologies. It lacks any reference to success criteria, testing practices, or the impact of testing on collaboration, which are core themes of the Test First Development category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1461,6 +1467,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on navigating permissions in TFS, which is more about tool usage than developing competence. While it touches on the importance of having the right access levels, it does not delve into continuous learning, skill development, or fostering a culture of competence, which are core themes of the category. The discussion lacks depth and does not provide substantial insights into competence as a principle in Agile or DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:49:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on navigating permissions in Team Foundation Server (TFS) and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is limited to technical instructions and user access levels, lacking depth in the context of agency and intentionality.",
     "level": "Ignored"
   }
 }

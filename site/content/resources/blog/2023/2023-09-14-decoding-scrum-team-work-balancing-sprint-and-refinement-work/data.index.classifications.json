@@ -511,11 +511,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T18:16:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:35:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum roles and the balance between Sprint and Refinement work, with no direct mention of Test First Development principles or practices. While it discusses aspects of team efficiency and product management, it does not address success criteria, testing methodologies, or the importance of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -850,14 +853,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T22:11:58",
+    "calculated_at": "2025-04-08T16:35:28",
     "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
     "final_score": 71.0,
-    "reasoning": "The content discusses the roles of Sprint Work and Refinement within a Scrum Team, which are relevant to the Scrum Master’s responsibilities. However, it lacks explicit mention of the Scrum Master role and does not delve deeply into coaching, facilitation, or team dynamics, which are critical aspects of the Scrum Master’s function. The focus is more on the work types rather than the Scrum Master’s contributions to managing these processes.",
+    "reasoning": "The content primarily focuses on the roles and responsibilities of a Scrum Team, particularly in managing Sprint and Refinement work, which are essential aspects of a Scrum Master's duties. It discusses strategies for enhancing team efficiency and achieving product goals, aligning well with the Scrum Master's role in facilitating team effectiveness. However, while it touches on the Scrum framework, it lacks a deeper exploration of the Scrum Master's influence on organisational change and agility, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1572,6 +1575,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum methodology, discussing Sprint and Refinement work without addressing the principles or components of the One Engineering System. While it touches on efficiency and team collaboration, it does not provide insights into the integration of tools or processes across teams, nor does it discuss the impact of a unified engineering system. Therefore, it lacks the necessary depth and alignment with the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:35:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically the balance between Sprint and Refinement work. While it discusses team efficiency and product goals, it does not explicitly address the concept of Agentic Agility, such as intentional shaping of outcomes or the interplay between human and AI capabilities. The discussion lacks depth in exploring the principles of Agentic Agility, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

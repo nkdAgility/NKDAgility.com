@@ -38,9 +38,9 @@ tags:
 - Team Performance
 - Coaching
 - People and Process
+- Scrum Master
 - Continuous Improvement
 - Team Motivation
-- Competence
 resourceTypes:
 - video
 categories:

@@ -499,11 +499,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T23:32:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:07:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive training courses and does not address Test First Development or related principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on immersive training courses within Agile and Scrum, with no direct mention or discussion of Test First Development principles. While it touches on training methodologies, it does not align with the core themes of Test First Development, such as success criteria, automated testing, or the impact on collaboration among team members.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -838,12 +841,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T23:32:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:07:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive training courses and learning methodologies, with only brief mentions of Agile and Scrum without a focus on the Scrum Master role.",
-    "level": "Ignored"
+    "final_score": 56.0,
+    "reasoning": "The content discusses immersive training courses related to Agile and mentions Scrum and Scrum Master in hashtags, but it does not focus on the specific role or responsibilities of a Scrum Master. The primary emphasis is on training methodologies rather than the Scrum Master's impact or functions within a Scrum Team.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1545,6 +1551,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on immersive training courses related to Agile and Scrum, with no direct mention or discussion of the One Engineering System framework. While it touches on training methodologies, it does not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The depth of discussion is limited to training formats and does not provide insights into the principles or impact of a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:07:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on immersive training courses within Agile methodologies, discussing training formats and learning experiences rather than the intentional shaping of outcomes through agency and adaptability. While it touches on concepts like value and real-world application, it does not explicitly address Agentic Agility or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

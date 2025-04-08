@@ -1270,11 +1270,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T13:29:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses peer feedback in immersive learning, with no clear focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:05:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on immersive learning and peer feedback within Scrum training, with no direct mention or discussion of Test First Development principles. While it touches on aspects of collaboration and continuous improvement, it does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1339,12 +1342,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:29:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on peer feedback in immersive learning, with no direct reference to Scrum Master roles or responsibilities.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T16:05:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the role of peer feedback in immersive learning for Scrum practitioners, which directly relates to the responsibilities and impact of a Scrum Master. It discusses how peer feedback enhances learning and continuous improvement, key aspects of a Scrum Master's role. However, while it mentions Scrum and the Scrum Master, the emphasis is more on the learning methodology rather than a comprehensive exploration of the Scrum Master's responsibilities. Thus, while the content is relevant, it does not delve deeply into all aspects of the Scrum Master role.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1521,6 +1527,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on immersive learning and peer feedback within Scrum training, which does not align with the core principles of the One Engineering System. While it discusses aspects of collaboration and learning, it does not address the integration of tools, processes, or methodologies specific to 1ES. The mention of Scrum is secondary and does not contribute to a discussion on standardising engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:05:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on immersive learning and peer feedback within Scrum training, which does not explicitly address the concept of Agentic Agility. While there are elements of adaptability and collaboration, the discussion lacks a clear connection to intentional shaping of outcomes or the distinction between human and AI capabilities in agility. The content does mention continuous improvement and reflection, but these are not deeply tied to the principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

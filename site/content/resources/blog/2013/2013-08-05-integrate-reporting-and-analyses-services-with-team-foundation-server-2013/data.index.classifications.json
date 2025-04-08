@@ -1132,11 +1132,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:33:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:54:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on integrating reporting and analysis services with Team Foundation Server 2013, without discussing Test First Development or related testing principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on integrating reporting and analysis services with Team Foundation Server 2013, with no direct mention or discussion of Test First Development principles, practices, or methodologies. It lacks any reference to success criteria, testing practices, or the impact of testing on collaboration, which are core themes of the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1219,11 +1222,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:33:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:54:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on technical details related to integrating reporting services with Team Foundation Server, with no relevance to Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on integrating reporting and analysis services with Team Foundation Server 2013, which is unrelated to the role and responsibilities of a Scrum Master. There are no direct mentions of Scrum or the Scrum Master role, and the discussion does not align with the core themes of the category. The content lacks depth in any relevant aspects of Scrum or agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1494,6 +1500,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the technical steps for integrating reporting and analysis services with Team Foundation Server 2013. While it touches on aspects of configuration and installation, it does not explicitly discuss competence, continuous learning, or skill development. The mention of using default credentials and best practices hints at a level of competence but lacks depth and direct relevance to the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:53:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for integrating reporting and analysis services with Team Foundation Server 2013. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The content lacks any mention of intentional shaping of outcomes, adaptability, or alignment with values, which are core to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

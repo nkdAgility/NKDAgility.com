@@ -508,11 +508,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T03:24:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:54:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum estimation techniques and the unpredictability of delivering work in a Sprint, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Sprint estimation within Scrum, discussing the challenges and uncertainties involved in estimating deliverables. It does not mention Test First Development or its principles, nor does it explore topics related to success criteria, testing practices, or the role of testing in the development process. The discussion is centred around estimation techniques rather than any testing methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -856,14 +859,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-13T16:49:55",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-04-08T16:54:01",
+    "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the process of estimating deliverables in a Sprint, which is relevant to the Scrum framework. However, it primarily focuses on the concept of estimation rather than the specific role and responsibilities of a Scrum Master. While it touches on Agile principles and team dynamics, it lacks a direct exploration of the Scrum Master's role in facilitating these discussions or coaching the team. The depth of discussion is moderate, but it does not provide extensive insights into the Scrum Master's contributions or practices.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the process of Sprint estimation within Scrum, which is relevant to the Scrum Master's role in facilitating team understanding and planning. However, it does not explicitly mention the Scrum Master or delve deeply into their responsibilities, which limits the overall depth of discussion. The content aligns with the core themes of Scrum but lacks a comprehensive exploration of the Scrum Master's influence on team dynamics and organisational change.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1572,6 +1575,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum practices, specifically around Sprint estimation, which is not aligned with the One Engineering System framework. While it touches on agile methodologies, it does not discuss the integration or standardisation of engineering processes, nor does it mention 1ES principles or components. Therefore, the confidence score reflects a very low relevance to the One Engineering System category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:53:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices and estimation techniques, which do not align with the core themes of Agentic Agility. While it touches on adaptability and uncertainty in project management, it lacks explicit discussions on intentional shaping of outcomes, the distinction between human and AI capabilities, or the transformative capacity of individuals and systems. The content does not delve into the principles of Agentic Agility or provide examples that illustrate its application.",
     "level": "Ignored"
   }
 }

@@ -1147,11 +1147,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T09:56:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:43:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on creating virtual machines in Azure for training purposes and does not discuss Test First Development or its related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on creating and managing virtual machines in Azure, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail on automated or manual testing methodologies, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1234,11 +1237,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T09:56:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:43:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses technical aspects of creating virtual machines in Azure and does not relate to the role or responsibilities of a Scrum Master.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on creating training virtual machines in Azure, with no direct mention of Scrum Master responsibilities or related topics. It lacks alignment with the core themes of the Scrum Master role, such as team dynamics, coaching, or agile principles. The depth of discussion is entirely technical and unrelated to Scrum.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1509,6 +1515,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the technical process of creating virtual machines in Azure, with minimal direct discussion of competence or skill development. While it touches on the challenges of teaching technical courses, it lacks a strong emphasis on continuous learning or the development of professional capabilities, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:43:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for creating virtual machines in Azure, with no explicit discussion of Agentic Agility principles, intent, or the interplay between human and AI capabilities. It lacks depth in exploring the transformative capacity of individuals or systems in shaping outcomes.",
     "level": "Ignored"
   }
 }

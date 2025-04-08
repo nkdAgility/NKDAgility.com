@@ -361,11 +361,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T00:31:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:52:31",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on engineering practices and does not discuss the role or responsibilities of a Scrum Master.",
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions agile practices, which could relate to the Scrum framework, but it does not explicitly discuss the role or responsibilities of a Scrum Master. The focus is more on engineering practices rather than the Scrum Master’s influence or techniques, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -397,11 +400,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T00:31:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:52:34",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a workshop on agile software engineering without a clear focus on Test First Development principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content briefly mentions agile software engineering practices but does not explicitly discuss Test First Development or its principles. There is no focus on success criteria, testing methodologies, or the impact of Test First on collaboration, which are core themes of the category. The overall discussion is too general and lacks depth in relation to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "The content briefly mentions agile software engineering practices, which are related to the broader field of software development but do not specifically address the One Engineering System framework or its principles. There is no direct mention of 1ES, and the discussion lacks depth regarding integration, standardisation, or best practices specific to 1ES. Overall, the content does not align closely with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:52:29",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on agile software engineering and ALM practices without explicitly discussing Agentic Agility or its core themes. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion lacks depth and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

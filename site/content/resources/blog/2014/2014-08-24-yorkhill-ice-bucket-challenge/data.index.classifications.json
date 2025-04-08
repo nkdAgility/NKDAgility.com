@@ -1105,11 +1105,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T09:56:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:43:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the ALS Ice Bucket Challenge and personal anecdotes, with no relation to Test First Development or software development practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the Yorkhill Ice Bucket Challenge and personal anecdotes related to charity, with no mention or discussion of Test First Development principles, success criteria, or any related testing practices.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1186,11 +1189,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T09:56:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:43:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content predominantly focuses on the Ice Bucket Challenge and personal anecdotes, with only a casual mention of individuals associated with Scrum, making it irrelevant to the Scrum Master topic.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Yorkhill Ice Bucket Challenge and personal anecdotes related to charity, with only a brief mention of a Scrum.org member. There is no substantial discussion of Scrum Master responsibilities, techniques, or the role's impact, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1461,6 +1467,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the Yorkhill Ice Bucket Challenge and personal anecdotes related to charity, with no direct discussion of competence, skill development, or related Agile principles. While there are mentions of personal experiences and charitable actions, these do not align with the core themes of competence as defined in the classification criteria.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:43:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the Yorkhill Ice Bucket Challenge and personal anecdotes related to charity, with no explicit discussion of Agentic Agility or its principles. While there is a mention of intent to support a charity, it lacks depth and alignment with the core themes of Agentic Agility, such as autonomy, adaptability, or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

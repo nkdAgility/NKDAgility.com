@@ -385,11 +385,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:25:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:55:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the application of Scrum in a specific context without focusing on the role or responsibilities of a Scrum Master.",
+    "final_score": 39.0,
+    "reasoning": "The content discusses the application of Scrum and highlights a specific team's success, but it does not focus on the role of the Scrum Master or their responsibilities. While it mentions Scrum, it lacks depth in discussing the Scrum Master's influence or techniques, making it more of a general discussion on Scrum rather than a focused examination of the Scrum Master role.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -427,11 +430,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:25:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:55:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum implementation and effectiveness, with no focus on Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and its application within Agile methodologies, with no direct mention or discussion of Test First Development principles. While it touches on efficiency and team dynamics, it lacks any reference to success criteria, testing practices, or the importance of defining tests before implementation, which are core to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1554,6 +1560,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum, a specific agile methodology, and discusses its application within a team at Microsoft. While it mentions the transition from a waterfall model, it does not address the principles or components of the One Engineering System (1ES) framework, nor does it explore integration across teams or best practices for implementing 1ES. The discussion is centred around Scrum rather than the broader context of 1ES, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:55:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile methodologies, discussing a specific case study of a DevOps team at Microsoft. While it highlights improvements and transformations, it does not explicitly address the concept of Agentic Agility, such as intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion lacks depth in exploring the principles of Agentic Agility, intent, or accountability, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

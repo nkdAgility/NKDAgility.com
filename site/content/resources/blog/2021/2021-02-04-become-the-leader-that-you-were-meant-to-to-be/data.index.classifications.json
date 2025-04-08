@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T20:37:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:18:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses leadership roles and Scrum practices, with no mention of Test First Development or related testing methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on leadership and management practices within organisations, particularly in the context of Scrum roles. There are no direct mentions of Test First Development, nor does it discuss any principles or practices related to testing or development methodologies. The alignment with the core themes of Test First Development is minimal, and the depth of discussion is superficial, lacking any relevant detail on the subject.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -847,14 +850,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T11:43:46",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "calculated_at": "2025-04-08T17:19:00",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the role of the Scrum Master as a leadership position, highlighting the misconception that they are merely managers or administrators. It touches on the responsibilities of the Scrum Master in serving the Scrum Team and the organisation, which aligns with the core themes of the category. However, the discussion lacks depth in specific practices, techniques, or metrics related to the Scrum Master role, leading to a moderate confidence score.",
+    "final_score": 70.0,
+    "reasoning": "The content explicitly mentions the Scrum Master as a leadership role and discusses misconceptions about their responsibilities, which aligns with the category. However, the overall focus is more on general leadership principles rather than a deep dive into Scrum Master-specific topics, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1590,6 +1593,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on leadership and management practices, particularly in the context of Scrum roles. It does not discuss the One Engineering System framework, its principles, or its integration across teams. The mention of Scrum is tangential and does not align with the core themes of 1ES, which emphasises standardisation and integration of software development practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:18:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses leadership and the transition from management to leadership roles, which touches on themes of autonomy and adaptability. However, it lacks explicit references to Agentic Agility, such as the intentional shaping of outcomes or the distinction between human and AI capabilities. The depth of discussion on leadership roles provides some insight into the principles of agency but does not sufficiently explore the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -1120,11 +1120,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T23:51:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:41:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to booting a Microsoft Surface device and troubleshooting Windows installation problems, with no mention of Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses troubleshooting a specific issue with the Microsoft Surface 3 and does not mention or align with the principles of Test First Development. There are no references to success criteria, testing practices, or any related concepts that would fit within the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1207,11 +1210,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T23:51:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:41:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Microsoft Surface devices and does not address any aspects of the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on troubleshooting a technical issue with a Microsoft Surface device and does not mention the role or responsibilities of a Scrum Master. There are no discussions related to Scrum principles, team dynamics, or agile methodologies, which are essential for alignment with the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1494,6 +1500,18 @@
     "non_ai_confidence": 20,
     "final_score": 6.0,
     "reasoning": "The content primarily discusses a personal experience with troubleshooting a Microsoft Surface 3 device, focusing on booting issues and recovery methods. It does not mention or align with the principles of the One Engineering System, nor does it provide any insights into standardising or integrating software development practices across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:41:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting a technical issue with a Microsoft Surface device and does not discuss Agentic Agility or its principles. While there are elements of problem-solving and adaptability, they are not framed within the context of intentional outcome shaping or the interplay between human and AI capabilities. The discussion lacks depth and relevance to the category, making it a very low confidence score.",
     "level": "Ignored"
   }
 }

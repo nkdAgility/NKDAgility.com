@@ -190,11 +190,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:35:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:22:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to judgment and metrics in Agile environments, without a focus on Test First Development or its principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concept of judgment in Agile environments and how it affects team dynamics. While it touches on the importance of setting goals and metrics, it does not explicitly mention Test First Development or its principles. The focus is on fostering collaboration and innovation rather than on testing practices or success criteria, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -655,14 +658,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T21:06:42",
+    "calculated_at": "2025-04-08T16:23:00",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 30.0,
-    "ai_depth": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 38.0,
-    "reasoning": "The content discusses the negative impact of judgment on team dynamics, which is relevant to the Scrum Master's role in fostering a healthy Agile environment. However, it lacks direct mentions of Scrum practices or specific responsibilities of a Scrum Master, leading to a lower confidence score. The discussion is somewhat aligned with the themes of continuous improvement and team dynamics but does not delve deeply into Scrum ceremonies or coaching techniques.",
+    "reasoning": "The content discusses the impact of judgment on Agile teams and suggests ways to foster a healthier environment, which aligns with the Scrum Master's role in promoting collaboration and continuous improvement. However, it does not explicitly mention the Scrum Master or delve deeply into their specific responsibilities, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -1599,6 +1602,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Agile practices and the concept of judgment within Agile teams, which does not directly relate to the One Engineering System framework. While it touches on collaboration and team dynamics, it lacks explicit references to 1ES principles, components, or implementation strategies. The focus is on personal experiences and opinions rather than a structured discussion on standardising engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:22:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the negative impacts of judgment in Agile environments and suggests ways to foster a healthier team atmosphere. However, it does not explicitly mention Agentic Agility or its principles. While it touches on themes of autonomy and adaptability, it lacks a clear focus on intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion is more about general Agile practices rather than the specific concept of agency and intentionality.",
     "level": "Ignored"
   }
 }

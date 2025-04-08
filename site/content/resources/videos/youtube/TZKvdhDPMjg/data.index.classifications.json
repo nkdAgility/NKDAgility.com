@@ -550,15 +550,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T00:19:35",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses the role of a consultant in provoking clients to rethink their practices, which loosely aligns with the coaching aspect of a Scrum Master. However, it does not explicitly mention Scrum or the specific responsibilities of a Scrum Master, nor does it delve into Scrum ceremonies or team dynamics, leading to a low confidence score.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T16:59:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of an Agile consultant, which overlaps with the responsibilities of a Scrum Master, particularly in provoking change and fostering an Agile mindset. However, it primarily focuses on the client's perspective and the consultant's role rather than the Scrum Master's specific duties. The mention of Scrum is limited and does not delve deeply into the Scrum Master's responsibilities or techniques, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -997,11 +997,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T08:37:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:59:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 7.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the role of Agile consultants and the importance of provoking clients to rethink their Agile practices, without addressing Test First Development or related testing methodologies.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Agile consulting and the role of provocation in changing client mindsets, with no direct mention of Test First Development principles or practices. While it touches on Agile methodologies, it does not discuss success criteria, testing practices, or the importance of testing in the development process, which are core to the Test First Development category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1593,6 +1596,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Agile consulting and the role of provocation in changing client mindsets, which does not directly address the principles or components of the One Engineering System. While it mentions Agile practices, it lacks a clear connection to the integration and standardisation of engineering processes that 1ES emphasises. The discussion is more about personal coaching techniques rather than the framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:59:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their approaches, which touches on the concept of intentionality in shaping outcomes. However, it lacks a clear focus on Agentic Agility as defined, particularly in distinguishing between human and AI capabilities or discussing mechanisms of AI Agentic Agility. The discussion is more about general Agile practices and coaching rather than a deep exploration of Agentic Agility principles.",
     "level": "Ignored"
   }
 }

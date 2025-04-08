@@ -379,11 +379,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T19:12:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses contract issues in consulting engagements, which is not directly related to the Scrum Master role or responsibilities.",
+    "calculated_at": "2025-04-08T16:39:21",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses consulting engagements and the pitfalls of contract specifications, with only a brief mention of Agile and Scrum courses. While it touches on themes of value delivery, it does not focus on the role or responsibilities of a Scrum Master, nor does it delve into Scrum practices or principles in any meaningful way.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -421,11 +424,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T19:12:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the pitfalls of contract specifications in consulting engagements, which is unrelated to Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T16:39:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses consulting engagements and the pitfalls of over-specifying contracts, with no direct mention of Test First Development principles or practices. While it touches on the importance of focusing on outcomes, it does not align with the core themes of Test First Development, such as success criteria, testing methodologies, or collaboration among development teams. The discussion lacks depth regarding any relevant testing practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1539,6 +1545,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses consulting engagements and the pitfalls of contract specifications in an Agile context, without any direct mention or focus on the One Engineering System framework. It does not address the integration of tools, processes, or methodologies that are central to 1ES, nor does it provide any depth on its principles or implementation. The discussion is more about Agile practices in consulting rather than the standardisation and unification of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:39:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content briefly touches on the importance of focusing on outcomes rather than outputs, which aligns with the concept of intentionality in Agentic Agility. However, it lacks a direct discussion of Agentic Agility principles, such as the distinction between human and AI capabilities or the mechanisms of AI Agentic Agility. The depth of discussion is limited to consulting contracts and does not explore the broader implications of agency and adaptability.",
     "level": "Ignored"
   }
 }

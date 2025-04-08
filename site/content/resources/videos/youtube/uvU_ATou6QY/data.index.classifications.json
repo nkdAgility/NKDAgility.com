@@ -388,11 +388,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T18:04:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:34:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role and challenges of a Product Owner, with no significant focus on the Scrum Master role.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner, discussing their responsibilities and challenges. While it touches on aspects of agile principles, it does not directly address the role or responsibilities of a Scrum Master, nor does it explore the Scrum framework in detail. The mention of Scrum is absent, and the discussion is centred around product ownership rather than the facilitation and coaching aspects associated with a Scrum Master.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -430,11 +433,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T18:04:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of a product owner, with no mention of Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:34:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of a product owner, discussing signs of failure and ownership rather than any principles or practices related to Test First Development. There are no direct mentions of testing methodologies, success criteria, or the importance of testing in the development process, which are core to the Test First Development category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1551,6 +1557,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the role and responsibilities of a product owner, discussing signs of failure and ownership in product management. It does not mention the One Engineering System or its principles, nor does it address integration of tools or processes across teams, which are core to the 1ES framework. The discussion is centred around personal experiences and opinions rather than the standardisation and integration of engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:34:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of a product owner and the importance of taking ownership and delivering value, which aligns with the concept of agency. However, it lacks explicit references to Agentic Agility and does not differentiate between human and AI capabilities. The focus is more on personal accountability and reflection rather than the broader implications of Agentic Agility in socio-technical environments.",
     "level": "Ignored"
   }
 }

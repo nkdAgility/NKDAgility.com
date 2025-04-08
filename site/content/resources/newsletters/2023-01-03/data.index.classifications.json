@@ -547,14 +547,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T18:23:23",
-    "ai_confidence": 47.0,
+    "calculated_at": "2025-04-08T17:15:36",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 25.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 43.0,
-    "reasoning": "The content briefly mentions Scrum Masters in the context of training courses aimed at improving their skills, but it lacks a detailed discussion on the role, responsibilities, or practices of a Scrum Master. While there is some alignment with the category through the mention of Scrum and Agile principles, the overall focus is more on agility in general rather than specifically on the Scrum Master role.",
+    "final_score": 57.0,
+    "reasoning": "The content briefly mentions Scrum Masters in the context of training courses aimed at improving their skills, which indicates a recognition of their role. However, the primary focus of the content is on agility in general and the differences between traditional and empirical approaches, rather than a detailed exploration of the Scrum Master's responsibilities or impact. The discussion lacks depth and does not engage with the core themes of the Scrum Master role, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -994,11 +994,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T12:34:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:15:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agility and Scrum frameworks without focusing on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses agility and the differences between traditional and empirical approaches, with no direct mention of Test First Development principles or practices. While it touches on Scrum, it does not delve into testing methodologies or the importance of success criteria, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1581,6 +1584,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses agility and the Scrum framework, which are not directly related to the One Engineering System. While it touches on the importance of adapting to complex environments, it does not delve into the principles, components, or implementation of 1ES. The focus is on agility rather than the integration and standardisation of engineering processes, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:15:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content discusses agility in a general sense, focusing on traditional versus empirical approaches and the Scrum framework. However, it lacks explicit references to Agentic Agility, such as intentional shaping of outcomes, the distinction between human and AI capabilities, or the role of intent and accountability. The discussion is primarily about agility as a concept rather than the specific principles and mechanisms of Agentic Agility.",
     "level": "Ignored"
   }
 }

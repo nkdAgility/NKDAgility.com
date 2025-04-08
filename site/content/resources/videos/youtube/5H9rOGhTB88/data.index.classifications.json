@@ -526,11 +526,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T10:49:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:56:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses team empowerment and process adaptation within Agile frameworks, without a focus on Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of empowering teams to tailor their processes for agility, with no direct mention of Test First Development principles or practices. While it touches on themes of adaptability and minimising waste, it does not align with the core concepts of defining success criteria or the specific practices of Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). The focus is on process flexibility rather than testing methodologies.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -877,12 +880,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T10:50:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:56:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses general Agile principles and team empowerment but does not specifically address the role, responsibilities, or practices of a Scrum Master.",
-    "level": "Ignored"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of empowering teams and tailoring processes, which aligns with the Scrum Master's role in fostering agility and continuous improvement. However, it does not explicitly mention the Scrum Master role or provide in-depth discussion on specific Scrum practices, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1615,5 +1621,17 @@
     "final_score": 32.0,
     "reasoning": "The content discusses the importance of empowering teams to tailor their processes, which indirectly touches on the principles of flexibility and adaptation in engineering practices. However, it primarily focuses on Agile methodologies and personal experiences rather than the specific framework of the One Engineering System (1ES). While there are mentions of process tailoring and the pitfalls of rigid systems, the content lacks a direct discussion of 1ES principles, components, or its impact on software quality and delivery timelines, leading to a lower confidence score.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:56:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of empowering teams to tailor their processes, which aligns with the principles of Agentic Agility. However, it primarily focuses on general Agile practices and does not explicitly differentiate between Human and AI Agentic Agility. The discussion lacks depth in exploring the intentional shaping of outcomes and the mechanisms of AI Agentic Agility, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

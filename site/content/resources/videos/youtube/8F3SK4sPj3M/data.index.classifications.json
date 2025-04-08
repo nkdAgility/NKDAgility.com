@@ -379,11 +379,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T22:32:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner rather than the Scrum Master.",
+    "calculated_at": "2025-04-08T16:52:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner rather than the Scrum Master. While it mentions Agile and Scrum, it does not discuss the responsibilities or impact of the Scrum Master, nor does it explore the Scrum Master's role in facilitating team effectiveness or promoting agile principles. The discussion is centred on product ownership skills and the PSPO-A certification, which are not directly related to the Scrum Master role.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -415,11 +418,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T22:32:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:52:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on advanced product ownership skills and the PSPO-A certification, with no direct mention or discussion of Test First Development principles. While it touches on Agile and Scrum, it does not align with the core themes of Test First Development, such as success criteria, testing practices, or the role of testing in software delivery.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1509,6 +1515,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on advanced product ownership skills and the PSPO-A certification, which are not directly related to the One Engineering System framework. While there are mentions of roles and responsibilities within Agile, the discussion does not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The depth of discussion is limited to personal insights on product ownership rather than a comprehensive exploration of 1ES principles.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:52:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on advanced product ownership skills and the PSPO-A certification, which are related to Agile practices but do not explicitly discuss Agentic Agility. While there are mentions of leadership and driving success, the content lacks a clear exploration of intentional shaping of outcomes, the distinction between human and AI capabilities, or the mechanisms of Agentic Agility. The discussion is more about enhancing product ownership rather than the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

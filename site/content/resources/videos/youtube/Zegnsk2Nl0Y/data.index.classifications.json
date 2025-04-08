@@ -172,15 +172,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-06T15:53:08",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content mentions Scrum Masters and their appreciation for Azure DevOps, indicating a direct reference to the role. However, it lacks depth in discussing the responsibilities, techniques, or practices of Scrum Masters. The alignment with core themes is moderate, as it touches on tools that facilitate Scrum processes but does not delve into coaching, team dynamics, or Scrum ceremonies. Overall, while the topic is relevant, the content does not provide substantial insights into the Scrum Master role.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-08T16:32:59",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master and how Azure DevOps can enhance their effectiveness. It explicitly mentions the Scrum Master multiple times and discusses their responsibilities in relation to the tool. The alignment with key topics such as team empowerment, collaboration, and continuous improvement is strong, and the depth of discussion provides practical insights into how Azure DevOps supports these aspects.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -1015,11 +1015,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T14:47:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum Masters and their preferences for Azure DevOps, with no mention of Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:33:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Azure DevOps as a tool for Scrum Masters and agile teams, focusing on its usability, team visibility, and collaboration features. There is no explicit mention of Test First Development principles, success criteria, or testing practices, which are central to the category. The discussion is more about general agile practices rather than the specific focus on testing methodologies.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1512,6 +1515,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Azure DevOps as a tool for Scrum Masters and agile teams, discussing its features and benefits without directly addressing the principles or components of the One Engineering System. While it touches on integration and collaboration, it does not provide a comprehensive discussion on the standardisation and unification of engineering practices as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:32:56",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses Azure DevOps as a tool for Scrum Masters and Agile teams, focusing on its features and benefits rather than the intentional shaping of outcomes through agency and adaptability. While it touches on themes of empowerment and collaboration, it lacks a direct discussion of Agentic Agility principles, making it only tangentially related to the category.",
     "level": "Ignored"
   }
 }

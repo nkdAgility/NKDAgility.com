@@ -1132,11 +1132,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:32:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:58:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Team Foundation Server backups and does not focus on Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a specific error related to Scheduled Backups in Team Foundation Server (TFS) and does not mention or align with any principles of Test First Development. There is no discussion of success criteria, testing practices, or the role of testing in software development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1219,11 +1222,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:32:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:58:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to Team Foundation Server and scheduled backups, with no direct reference to the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server (TFS) and scheduled backups, with no direct mention of Scrum Master responsibilities, roles, or agile principles. It lacks any discussion on coaching, mentoring, or team dynamics, which are essential aspects of the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1494,6 +1500,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on resolving a technical issue related to TFS Scheduled Backups, with no explicit discussion on competence, continuous learning, or skill development. While it touches on troubleshooting and problem-solving, these aspects do not align with the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:58:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical issue related to Team Foundation Server and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are core to the category. The discussion is strictly about troubleshooting and resolving a specific error, lacking any depth or alignment with the themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

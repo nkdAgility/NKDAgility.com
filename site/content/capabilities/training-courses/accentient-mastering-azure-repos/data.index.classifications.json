@@ -361,11 +361,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T00:46:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about Azure Repos and DevOps tools for software development, with no clear discussion on Scrum Master roles or responsibilities.",
+    "calculated_at": "2025-04-08T17:23:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Azure DevOps Services and tools for software development, with no explicit mention of the Scrum Master role or its responsibilities. While it discusses teamwork and collaboration, it does not align with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles. The depth of discussion is minimal, lacking any detailed exploration of Scrum practices or the impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -397,11 +400,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T00:46:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on Azure Repos and Git version control, with no mention of Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T17:23:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Azure DevOps Services and collaboration tools, with no explicit mention of Test First Development principles or practices. While it touches on testing in a general sense, it lacks depth and alignment with the core themes of Test First Development, such as defining success criteria or discussing TDD and ATDD.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content mentions Azure DevOps and Azure Repos, which are tools that can be part of a unified engineering system, but it does not explicitly discuss the One Engineering System framework or its principles. The focus is more on the tools and their functionalities rather than on integration, standardisation, or best practices related to 1ES. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the One Engineering System category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:23:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Azure DevOps Services and tools for software development, with no explicit discussion of Agentic Agility or its principles. While it mentions collaboration and delivering value, it does not address the intentional shaping of outcomes, the distinction between human and AI capabilities, or any of the key topics related to Agentic Agility. Therefore, the confidence score reflects a very low alignment with the category.",
     "level": "Ignored"
   }
 }

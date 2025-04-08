@@ -523,11 +523,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T09:04:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:14:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the differences between agile and waterfall project management, focusing on management styles and project delivery rather than Test First Development principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the differences between agile product development and waterfall project management, focusing on the principles of agile methodology rather than specifically addressing Test First Development. While it touches on iterative cycles and customer collaboration, it lacks explicit references to success criteria, testing practices, or the Test First approach. Therefore, it does not align closely with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -874,11 +877,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T09:05:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:14:45",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between agile product development and waterfall project management, without a clear focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the differences between agile product development and waterfall project management, with only brief mentions of agile principles. While it touches on concepts relevant to Scrum, such as iterative cycles and customer collaboration, it lacks a focused discussion on the specific role and responsibilities of a Scrum Master. The content does not delve into the Scrum Master's influence on team dynamics or organisational change, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1593,6 +1599,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the differences between agile and waterfall methodologies, focusing on agile practices without addressing the One Engineering System framework or its principles. While it touches on themes of collaboration and iterative processes, it does not provide specific insights into the integration or standardisation of engineering practices as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:14:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the differences between agile and waterfall project management, focusing on the principles of agile methodology. While it touches on themes of adaptability and collaboration, it does not explicitly address the concept of Agentic Agility or the intentional shaping of outcomes. The discussion lacks depth in exploring the distinctions between human and AI capabilities, and it does not provide specific examples or case studies related to Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -373,12 +373,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:36:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:31:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on training methods and the use of tools in educational contexts rather than directly discussing the role or responsibilities of a Scrum Master.",
-    "level": "Ignored"
+    "final_score": 57.0,
+    "reasoning": "The content discusses the use of tools in Scrum training, specifically critiquing Lego and advocating for Minecraft as a more effective alternative. While it touches on the Scrum environment and the importance of conveying complexity, it does not delve deeply into the specific responsibilities or skills of a Scrum Master. The focus is more on training methods rather than the Scrum Master's role itself, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -409,11 +412,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:36:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on the use of Minecraft and Lego in training rather than on Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T16:31:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the use of Lego and Minecraft as tools for Scrum training, focusing on their effectiveness in conveying complexity and collaboration in a learning environment. It does not mention Test First Development, its principles, or related practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1497,6 +1503,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the use of Lego and Minecraft as tools for Scrum training, which deviates from the core principles of the One Engineering System. While it touches on aspects of collaboration and complexity in software development, it does not explicitly mention or focus on the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:30:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily critiques the use of Lego in Scrum training and discusses the merits of using Minecraft instead. While it touches on the importance of conveying complexity in Scrum practices, it does not explicitly discuss Agentic Agility or its principles. The focus is on training tools rather than the intentional shaping of outcomes, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

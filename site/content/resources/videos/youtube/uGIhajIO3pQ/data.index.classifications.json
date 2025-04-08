@@ -472,11 +472,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T00:27:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:47:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an upcoming Agile event and personal experiences, with no focus on Test First Development or related principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting an Agile conference in Scotland and discusses community engagement and the importance of Agile methodologies in general. There are no direct mentions of Test First Development principles, success criteria, or specific testing practices. The alignment with the core themes of Test First Development is minimal, and the depth of discussion regarding the category is virtually non-existent.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -796,11 +799,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T00:28:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:47:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an upcoming Agile event and personal experiences, with only a brief mention of Agile and Scrum without a focus on the Scrum Master role.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile methodologies and community events but does not specifically focus on the role or responsibilities of a Scrum Master. While it touches on the importance of Agile in the tech community, it lacks direct references to Scrum Master duties, techniques, or their impact on team dynamics and organisational change.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Agile methodologies and the Agile Scotland 2023 event, with no direct mention or discussion of the One Engineering System framework. While it touches on themes of community and collaboration, these are not specific to 1ES principles or practices. The discussion lacks depth regarding integration, standardisation, or the impact of a unified engineering system, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:47:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting an Agile event in Scotland and discusses community engagement and collaboration within Agile methodologies. However, it lacks explicit discussions on Agentic Agility, such as intentional shaping of outcomes, the distinction between human and AI capabilities, or the mechanisms of AI Agentic Agility. The themes of autonomy and adaptability are only tangentially related to the core principles of Agentic Agility, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

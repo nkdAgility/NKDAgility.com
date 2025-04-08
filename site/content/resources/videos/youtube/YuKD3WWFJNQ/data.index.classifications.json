@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T22:06:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:26:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses stakeholder engagement and communication issues in Agile practices, with no focus on Test First Development or related testing methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses stakeholder engagement and communication strategies within agile teams, focusing on the issue of silence during sprint reviews. While it touches on aspects of collaboration and team dynamics, it does not explicitly mention or align with the principles of Test First Development, such as defining success criteria or automated testing practices. The discussion is more about agile methodologies and team interactions rather than the Test First approach.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -865,14 +868,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T21:24:36",
+    "calculated_at": "2025-04-08T16:26:30",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
     "final_score": 61.0,
-    "reasoning": "The content discusses the importance of engagement in Agile teams, particularly during sprint reviews, which is relevant to the Scrum Master's role in facilitating effective communication and collaboration. However, while it touches on Scrum ceremonies and the dynamics of team interactions, it primarily focuses on broader Agile principles and the role of Product Owners, with less emphasis on the specific responsibilities and practices of Scrum Masters. This results in a moderate confidence score reflecting partial alignment with the category.",
+    "reasoning": "The content discusses stakeholder engagement and communication strategies relevant to agile practices, which are important for a Scrum Master. However, it primarily focuses on the role of product owners and does not delve deeply into the specific responsibilities or techniques of a Scrum Master. While the Scrum Master is mentioned as part of a collaborative effort, the content does not provide substantial detail on their unique contributions or influence within the Scrum framework.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1605,6 +1608,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on agile methodologies and stakeholder engagement, with no direct mention of the One Engineering System framework or its principles. While it discusses communication strategies within agile teams, it does not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The depth of discussion is also limited to agile practices, further distancing it from the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:26:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses engagement and communication strategies within agile teams, touching on themes of trust, autonomy, and alignment. However, it primarily focuses on the challenges of silence in agile practices rather than explicitly addressing Agentic Agility or the intentional shaping of outcomes. The discussion lacks depth in exploring the principles of Agentic Agility and does not differentiate between human and AI capabilities, leading to a lower confidence score.",
     "level": "Ignored"
   }
 }

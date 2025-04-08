@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T11:45:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the contributions of product owners in Agile practices, specifically within Microsoft, without addressing Test First Development or its principles.",
+    "calculated_at": "2025-04-08T16:51:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the role of Product Owners in Agile development, focusing on leadership, cultural transformation, and feedback loops. While it touches on Agile principles, it does not explicitly mention Test First Development or its core concepts, such as success criteria, TDD, or ATDD. The discussion lacks depth in relation to the Test First approach, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -865,11 +868,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T11:46:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:51:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the contributions of Product Owners and their impact on Agile practices, without a clear focus on the Scrum Master role.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of Product Owners in Agile development, discussing their contributions and impact within an organisation. While it touches on Agile principles, it does not explicitly mention the Scrum Master role or its responsibilities, nor does it delve into the specific themes associated with Scrum Masters. Therefore, the confidence score reflects a minimal connection to the category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1600,5 +1606,17 @@
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the role of Product Owners in Agile development, focusing on specific individuals and their contributions to Agile practices at Microsoft. While it touches on themes of collaboration and cultural transformation, it does not explicitly mention or align with the One Engineering System framework. The discussion is more centred on Agile methodologies rather than the integration and standardisation of engineering processes as defined by 1ES.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:51:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of Product Owners in Agile development, highlighting their contributions to cultural transformation and strategic vision. However, it primarily focuses on Agile practices and does not explicitly address the concept of Agentic Agility or differentiate between human and AI capabilities. While there are elements of intent and proactive change, the discussion lacks depth in exploring the principles of Agentic Agility, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

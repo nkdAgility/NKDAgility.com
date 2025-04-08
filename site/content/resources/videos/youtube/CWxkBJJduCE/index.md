@@ -29,9 +29,9 @@ tags:
 - Software Development
 - Engineering Practices
 - Technical Mastery
-- Test First Development
 - Test Driven Development
 - Technical Excellence
+- Test First Development
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

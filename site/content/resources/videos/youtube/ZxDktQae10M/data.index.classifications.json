@@ -472,11 +472,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T21:23:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on VSTS Sync Migration Tools and their installation and configuration, with no mention of Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T17:32:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on migration tools and processes related to TFS and VSTS, with no direct discussion of Test First Development principles or practices. While there is a brief mention of testing and validation in the context of migration, it does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices like TDD or ATDD.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -796,11 +799,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T21:24:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on VSTS Sync Migration Tools and does not discuss Scrum Master roles or responsibilities.",
+    "calculated_at": "2025-04-08T17:32:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on VSTS migration tools and processes, with no direct mention of the Scrum Master role or its responsibilities. While it touches on agile methodologies, it does not delve into the specific functions or impact of a Scrum Master, nor does it discuss team dynamics or coaching techniques relevant to the role.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1476,6 +1482,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on migration tools and processes related to TFS and VSTS, with no direct mention or discussion of the One Engineering System framework. While it touches on aspects of software development and tools, it does not align with the core themes of 1ES, such as integration, standardisation, or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:32:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on migration tools and processes related to TFS and VSTS, with no explicit discussion of Agentic Agility principles or the intentional shaping of outcomes. While it touches on flexibility and community support, these aspects do not align with the core themes of Agentic Agility, such as intent, accountability, or the interplay between human judgement and AI logic.",
     "level": "Ignored"
   }
 }

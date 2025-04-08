@@ -1135,11 +1135,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:17:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:57:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the complexities and steps involved in migrating and upgrading SharePoint and Team Foundation Server without any mention of Test First Development or TDD principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on SharePoint migrations and technical steps involved in the process, with no explicit discussion of Test First Development principles, success criteria, or testing practices. While there is a mention of ensuring processes work, it does not align with the core themes of Test First Development, which emphasises defining success criteria before implementation and the role of testing in software delivery.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1222,11 +1225,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:17:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:57:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on SharePoint migration and technical setup, with no relevant discussion on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of SharePoint migrations and does not discuss the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, team dynamics, or the influence of a Scrum Master on organisational change, which are key topics in the category. The content lacks depth in relation to Scrum Master discussions, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1497,6 +1503,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the technical aspects of SharePoint migration and consolidation, with minimal direct discussion of competence or continuous skill development. While it touches on the need for expertise in handling complex migrations, it lacks a thorough exploration of competence as a foundational principle in Agile or DevOps methodologies. The depth of discussion is limited to procedural steps rather than fostering a culture of competence or professional growth.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:57:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of SharePoint migration and consolidation, lacking any explicit discussion on Agentic Agility. While it touches on complex processes, it does not address intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI agency.",
     "level": "Ignored"
   }
 }

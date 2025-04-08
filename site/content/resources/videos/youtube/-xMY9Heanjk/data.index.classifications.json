@@ -523,11 +523,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T12:38:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without addressing Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T17:12:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses challenges faced by new Scrum teams and the importance of understanding Scrum principles. While it touches on concepts like empirical process control and feedback loops, which are relevant to testing and validation, it does not explicitly focus on Test First Development practices or principles. The discussion lacks depth in terms of specific Test First methodologies such as TDD or ATDD, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -865,14 +868,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T01:46:49",
+    "calculated_at": "2025-04-08T17:12:35",
     "ai_confidence": 82.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 32.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
     "final_score": 76.0,
-    "reasoning": "The content discusses the challenges faced by Scrum Masters when working with new Scrum teams, highlighting the importance of understanding Scrum principles and the role of the Scrum Master in coaching teams. It directly mentions the Scrum Master role and provides insights into team dynamics and the need for effective coaching. However, while it touches on key aspects of the Scrum Master’s responsibilities, the depth of discussion on specific Scrum practices and ceremonies is somewhat limited, leading to a high but not perfect confidence score.",
+    "reasoning": "The content primarily focuses on the challenges faced by a Scrum Master when working with new Scrum teams, discussing the misconceptions teams have about Scrum and Agile practices. It explicitly mentions the role of the Scrum Master and the importance of coaching and mentoring, aligning well with the core themes of the category. The depth of discussion is significant, as it explores the nuances of team dynamics, empirical decision-making, and the Scrum framework, providing a comprehensive view of the Scrum Master's responsibilities and impact.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1599,6 +1602,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Scrum and Agile practices, focusing on the challenges of working with new Scrum teams. While it touches on concepts like empirical process control, it does not directly address the One Engineering System framework or its principles. The discussion is centred around Scrum methodology rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:12:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses challenges faced by new Scrum teams and focuses on Agile practices without explicitly addressing the concept of Agentic Agility. While it touches on themes of adaptability and team dynamics, it lacks a clear distinction between human and AI capabilities, and does not delve into intentional shaping of outcomes or the transformative capacity of individuals and systems. The discussion is more about Scrum mechanics than about agency and intentionality.",
     "level": "Ignored"
   }
 }

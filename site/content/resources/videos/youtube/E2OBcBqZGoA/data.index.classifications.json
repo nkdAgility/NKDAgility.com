@@ -394,11 +394,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T17:40:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:32:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses decentralisation and organisational value maximisation without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses decentralisation and team engagement, which are relevant to the Scrum Master's role in fostering team autonomy and collaboration. However, it lacks direct mentions of the Scrum Master role and does not delve into specific Scrum practices or responsibilities, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -436,11 +439,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T17:40:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:32:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses decentralisation and organisational value maximisation, with no clear focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses decentralisation and team engagement in organisations, with no explicit mention of Test First Development principles or practices. While it touches on themes of collaboration and decision-making, it does not align with the core concepts of defining success criteria or testing methodologies, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1600,5 +1606,17 @@
     "final_score": 12.0,
     "reasoning": "The content discusses decentralisation and team engagement, which are relevant to organisational agility but do not explicitly address the principles or components of the One Engineering System. There are no direct mentions of 1ES, and while it touches on collaboration and decision-making, it lacks depth in discussing integration of tools and processes or best practices specific to 1ES.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:32:16",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses decentralisation and team engagement, which are related to the principles of Agentic Agility, particularly in terms of empowering teams and fostering ownership. However, it lacks explicit references to the intentional shaping of outcomes and does not differentiate between human and AI capabilities. The depth of discussion on how these concepts translate into actionable strategies contributes positively, but the overall focus remains more on general agility rather than a specific exploration of Agentic Agility.",
+    "level": "Secondary"
   }
 }

@@ -1153,11 +1153,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T17:51:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:45:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to Jenkins, TFS, and Maven integration, without focusing on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses resolving issues related to Maven and Jenkins integration with TFS, focusing on file management and build processes. It does not mention Test First Development principles, success criteria, or testing practices, which are central to the category. The discussion lacks depth and relevance to Test First Development, making it a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1240,11 +1243,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T17:51:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:45:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to Jenkins and TFS integration, without any focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to Maven and Jenkins integration with TFS, with no direct mention of Scrum Master responsibilities or concepts. While it touches on aspects of team collaboration and project migration, it lacks a focus on the Scrum framework, the role of a Scrum Master, or any related coaching and facilitation techniques.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1524,6 +1530,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on resolving a technical issue related to Maven and Jenkins integration with TFS, which does not directly address the concept of competence. While there are brief mentions of problem-solving and progress, these are not explored in the context of continuous learning or skill development. The discussion lacks depth regarding the importance of competence in Agile or DevOps methodologies, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:45:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to Maven and Jenkins integration with TFS, lacking any explicit discussion on Agentic Agility. While it touches on problem-solving and adaptation in a technical context, it does not engage with the core themes of intentionality, agency, or the transformative capacity of individuals or systems. The content does not differentiate between human and AI capabilities, nor does it provide depth on the principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -490,11 +490,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T12:48:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:20:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and training of Scrum Masters, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role and training of Scrum Masters, discussing their responsibilities and the importance of continuous learning. It does not mention Test First Development or its principles, nor does it explore topics related to success criteria, testing practices, or the impact of testing on collaboration. Therefore, it has minimal relevance to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -826,15 +829,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-07T13:20:17",
-    "ai_confidence": 78.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 70.0,
-    "ai_depth": 70.0,
+    "calculated_at": "2025-04-08T16:20:37",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content explicitly discusses the role of Scrum Masters and the importance of training for them, which aligns well with the responsibilities and skills of a Scrum Master. It highlights the need for experience and understanding in the role, indicating a strong focus on the Scrum Master’s contributions to team effectiveness. However, while it provides a good level of detail about the training aspect, it could delve deeper into specific practices or techniques used by Scrum Masters in their day-to-day roles.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses the role of the Scrum Master, emphasising the importance of experience, continuous learning, and leadership skills. It directly addresses the responsibilities and challenges faced by Scrum Masters, aligning well with the core themes of the category. The depth of discussion is significant, providing detailed insights into the impact of immersive training on a Scrum Master's effectiveness.",
+    "level": "Primary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1524,6 +1527,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the role and training of Scrum Masters, discussing Scrum practices rather than the One Engineering System framework. While it touches on concepts of continuous improvement and team effectiveness, it does not explicitly mention or align with the principles of 1ES, nor does it provide depth on integration or standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:20:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and the importance of immersive training for enhancing their skills. While it touches on themes of accountability and continuous improvement, it does not explicitly discuss Agentic Agility or differentiate between human and AI capabilities. The discussion lacks depth in exploring the intentional shaping of outcomes, which is central to the category.",
     "level": "Ignored"
   }
 }

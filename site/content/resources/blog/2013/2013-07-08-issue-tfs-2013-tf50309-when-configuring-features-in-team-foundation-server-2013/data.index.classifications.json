@@ -1132,11 +1132,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:53:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:56:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses permissions and configurations in Team Foundation Server, which is unrelated to Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses resolving a specific error in Team Foundation Server 2013 related to permissions and configuration, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. The focus is on administrative tasks rather than development methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1219,11 +1222,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:53:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:56:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to configuring features in Team Foundation Server and does not address Scrum Master responsibilities or themes.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to Team Foundation Server (TFS) and managing permissions, with no direct mention of Scrum Master responsibilities or related concepts. While it touches on project administration, it does not align with the core themes of the Scrum Master role, such as coaching, facilitating, or promoting agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1497,6 +1503,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on resolving a specific technical error in Team Foundation Server 2013 and managing permissions. While it touches on aspects of user permissions and configuration, it does not explicitly discuss competence in terms of continuous learning, skill development, or fostering a culture of competence. The mention of permissions could relate to competence but lacks depth and direct relevance to the core themes outlined in the category definition.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:56:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific error in Team Foundation Server 2013 and managing permissions, with no explicit discussion of Agentic Agility or its principles. While it touches on aspects of project management and user permissions, it does not engage with the core themes of intentionality, adaptability, or the interplay between human and AI capabilities in shaping outcomes.",
     "level": "Ignored"
   }
 }

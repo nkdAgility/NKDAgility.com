@@ -25,9 +25,9 @@ preview: https://i.ytimg.com/vi/1TaIjFL-0o8/maxresdefault.jpg
 duration: 220
 isShort: false
 tags:
+- Scrum Master
 - Professional Scrum
 - Scrum Team
-- Scrum Master
 - Agile Frameworks
 - Software Development
 - People and Process

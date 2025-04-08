@@ -547,15 +547,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T00:17:47",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 0,
-    "final_score": 11.0,
-    "reasoning": "The content briefly mentions Agile and the value of discussions in a learning environment, but it does not specifically address the role or responsibilities of a Scrum Master. The focus is more on the comparison between reading and attending a course rather than on Scrum practices or the Scrum Master's contributions.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T16:59:28",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the limitations of learning Scrum through books versus interactive courses, which indirectly relates to the role of a Scrum Master in facilitating learning and collaboration. However, it does not explicitly focus on the responsibilities or impact of the Scrum Master, leading to a moderate confidence score. The mention of Scrum and Agile training suggests relevance, but the primary focus is on learning methods rather than the Scrum Master's role.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -994,11 +994,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T09:08:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:59:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the benefits of interactive learning in Agile and Scrum courses, with no focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the limitations of learning through books versus attending interactive courses, focusing on Agile and Scrum training. It does not mention Test First Development, its principles, or related practices. The discussion is centred around learning methodologies rather than testing practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1572,6 +1575,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the limitations of learning Scrum through books compared to interactive courses. While it mentions Agile and Scrum, it does not focus on the One Engineering System framework or its principles, components, or implementation. The discussion is centred around personal learning experiences and training methods rather than the integration and standardisation of engineering processes, which is the core of the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:59:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the limitations of learning from books compared to interactive courses, focusing on engagement and collaboration in learning environments. While it touches on themes of interaction and collaboration, it does not explicitly address Agentic Agility or its principles, nor does it differentiate between human and AI capabilities in the context of agility. The discussion lacks depth regarding intentional shaping of outcomes, accountability, or the mechanisms of AI Agentic Agility, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

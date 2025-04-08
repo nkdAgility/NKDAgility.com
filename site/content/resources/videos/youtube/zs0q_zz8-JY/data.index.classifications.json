@@ -184,15 +184,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-06T15:55:43",
-    "ai_confidence": 82.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 85.0,
+    "calculated_at": "2025-04-08T16:49:17",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
-    "reasoning": "The content explicitly discusses the role of the Scrum Master, particularly focusing on the misconception of authority and the importance of servant leadership. It aligns well with the core themes of the category, such as the responsibilities of a Scrum Master and the concept of servant leadership. The depth of discussion is significant, providing insights into the misconceptions surrounding the role and encouraging further learning through an advanced class. Overall, the content is highly relevant to the Scrum Master category.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content explicitly discusses the role of the Scrum Master, emphasising their function as a servant leader and the misconceptions surrounding their authority. It aligns closely with the core themes of the category, such as the responsibilities of a Scrum Master, the importance of fostering team autonomy, and the distinction between a Scrum Master and other roles. The depth of discussion is significant, providing detailed insights into the misconceptions and the true essence of the Scrum Master role, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -1057,11 +1057,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T14:26:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:49:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses misconceptions about the role of a Scrum Master, which is unrelated to Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master and servant leadership, with no direct mention of Test First Development principles or practices. While it touches on team dynamics and collaboration, it does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices. The discussion lacks depth regarding any testing methodologies, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1551,6 +1554,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the role of a Scrum Master and the principles of servant leadership within Scrum, which are not directly related to the One Engineering System framework. While there are mentions of team dynamics and collaboration, these concepts are not explored in the context of 1ES, nor is there any discussion on standardising or integrating software development practices across teams. Therefore, the content does not align with the core themes of the One Engineering System.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:49:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of a Scrum Master as a servant leader, emphasising autonomy and empowerment, which aligns with some principles of Agentic Agility. However, it primarily focuses on Scrum practices and misconceptions rather than explicitly addressing Agentic Agility or differentiating between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals and systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

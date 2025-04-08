@@ -1153,11 +1153,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:20:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:57:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses creating a work item in Team Foundation Server and does not mention Test First Development or related testing practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating a Work Item with defaults in Team Foundation Server, which does not directly relate to Test First Development principles. There are no explicit mentions of success criteria, testing practices, or the importance of testing in the development process. The discussion is more about project management and user interface customisation rather than any aspect of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1234,11 +1237,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:20:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:57:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses creating work items in Team Foundation Server and does not focus on the Scrum Master role or its responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating Work Items in Team Foundation Server, which is a technical aspect of project management. It does not discuss the role, responsibilities, or impact of a Scrum Master, nor does it align with the core themes of the category. The mention of 'Product Backlog Item' is too brief and does not delve into Scrum practices or the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1512,6 +1518,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the technical process of creating a Work Item in Team Foundation Server, with minimal reference to the concept of competence. While it discusses streamlining user access and guidance, it does not delve into continuous learning, skill development, or the broader implications of competence in Agile or DevOps environments. The discussion lacks depth and does not align with the core themes of competence, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:57:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating a Work Item in Team Foundation Server, discussing technical implementation details without addressing the principles of Agentic Agility. There are no explicit mentions of autonomy, adaptability, or intentional shaping of outcomes, nor does it differentiate between human and AI capabilities in the context of agility. The discussion lacks depth and relevance to the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

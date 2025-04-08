@@ -613,11 +613,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T21:54:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:20:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on backlog refinement rather than Test First Development principles or practices.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the importance of refining the Product Backlog in Scrum, which is related to ensuring clarity and quality in software delivery. However, it does not explicitly mention Test First Development or its principles. While there are elements of success criteria and team collaboration, the focus is more on backlog management rather than on testing practices or methodologies like TDD or ATDD. Therefore, the confidence score reflects a low alignment with the Test First Development category.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -964,14 +967,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T02:42:40",
+    "calculated_at": "2025-04-08T17:20:50",
     "ai_confidence": 82.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
     "final_score": 75.0,
-    "reasoning": "The content extensively discusses the importance of backlog refinement within the Scrum framework, highlighting the Scrum Master's role in facilitating this process. It mentions the Scrum Team, including the Scrum Master, and provides detailed insights into how refinement impacts Sprint Planning and team dynamics. The focus on the Scrum Master’s involvement in guiding workshops and ensuring effective collaboration aligns well with the category's core themes.",
+    "reasoning": "The content primarily discusses the importance of refining the Product Backlog, which is a critical responsibility of the Scrum Master in facilitating effective Scrum practices. It mentions the Scrum Master role in guiding refinement workshops and emphasises the need for collaboration between the Scrum Master, Product Owner, and Developers. The discussion aligns well with the core themes of the Scrum Master category, particularly in terms of fostering team dynamics and ensuring clarity in the Scrum process. However, while the content is rich in practical advice, it could delve deeper into the broader impact of the Scrum Master on organisational change and agility.",
     "level": "Secondary"
   },
   "Operational Practices": {
@@ -1587,6 +1590,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum practices, specifically backlog refinement, and does not discuss the One Engineering System framework or its principles. While it touches on aspects of team collaboration and efficiency, it does not align with the core themes of 1ES, such as integration of tools and processes across teams or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:20:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically the importance of refining the Product Backlog for effective Sprint Planning. While it touches on aspects of team autonomy and decision-making, it does not explicitly discuss Agentic Agility or its principles. The discussion lacks depth regarding the intentional shaping of outcomes and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

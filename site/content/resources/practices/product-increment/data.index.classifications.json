@@ -421,11 +421,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-13T09:22:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:45:29",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the concept of Product Increment, which is not directly related to the Scrum Master role or responsibilities.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the concept of a Product Increment, which is a specific output of the Scrum process rather than a discussion on the role of the Scrum Master. While it is related to Scrum, it does not explicitly mention the responsibilities or influence of the Scrum Master, nor does it delve into the core themes associated with the role. The mention of the Product Increment is brief and lacks depth in discussing how a Scrum Master facilitates or impacts this aspect.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1015,11 +1018,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T09:24:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:45:32",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of a Product Increment, which is not directly related to Test First Development or its principles.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the concept of a Product Increment, which is not directly related to Test First Development. There are no explicit mentions of Test First principles, success criteria, or testing practices. The discussion lacks depth in relation to the core themes of Test First Development, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -1470,6 +1476,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the concept of a Product Increment, which is a specific outcome in software development rather than discussing the One Engineering System framework. There are no direct mentions of 1ES principles or components, and the discussion lacks depth regarding integration, best practices, or the impact of 1ES on software quality. Overall, it does not align with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:45:26",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on the concept of a Product Increment, which is a specific Agile practice related to delivering value through iterations. It does not explicitly discuss Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI capabilities. The mention of value enhancement is too general and does not align with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

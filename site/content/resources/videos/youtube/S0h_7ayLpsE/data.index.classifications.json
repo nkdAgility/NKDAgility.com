@@ -532,11 +532,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T02:22:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses evidence-based management and data analysis in Agile practices, with no clear focus on Test First Development or related testing methodologies.",
+    "calculated_at": "2025-04-08T15:42:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Evidence-Based Management and does not explicitly discuss Test First Development principles. While it touches on data-driven decision-making, it lacks direct references to success criteria, testing practices, or the role of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -868,12 +871,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T02:23:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses evidence-based management and data analysis in product management, with minimal direct reference to the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T15:42:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its relevance to Agile and Scrum, mentioning the role of a Scrum Master in the context of data-driven decision-making. However, while the Scrum Master is mentioned, the primary focus is on EBM rather than the specific responsibilities and skills of the Scrum Master. The discussion aligns with some core themes of the category, such as continuous improvement and value delivery, but lacks depth in exploring the Scrum Master's unique contributions and techniques.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1623,6 +1629,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Evidence-Based Management (EBM) within Agile practices, discussing its principles, value areas, and data-driven decision-making. While it touches on aspects relevant to software development, it does not explicitly mention or align with the One Engineering System framework, its principles, or its implementation. The discussion is centred around EBM rather than the integration and standardisation of engineering processes as defined by 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:42:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in data-driven decision-making, which aligns with some principles of Agentic Agility, particularly in terms of adaptability and intentional shaping of outcomes. However, it lacks a direct focus on the concept of agency, the distinction between human and AI capabilities, and does not delve deeply into the transformative capacity of individuals or systems. The discussion is more about general Agile practices rather than specifically addressing Agentic Agility.",
     "level": "Ignored"
   }
 }

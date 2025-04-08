@@ -532,11 +532,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T08:20:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses performance engineering and testing in production rather than focusing on Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T15:38:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses performance engineering and the importance of quality in software development, which are related to testing practices. However, it does not explicitly mention Test First Development or its principles. The focus is more on general engineering excellence and shifting left rather than on the specific practices of Test First Development, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -883,11 +886,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T08:21:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:38:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses performance engineering and software development practices without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions agile and scrum in the hashtags, but the primary focus is on performance engineering and technical leadership rather than the specific role and responsibilities of a Scrum Master. While there are elements of agile practices discussed, they do not delve into the Scrum Master's influence or responsibilities, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1620,6 +1626,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses performance engineering and the importance of quality in software development, which aligns with some principles of the One Engineering System. However, it lacks direct mentions of 1ES and does not focus on the integration of tools and processes across teams, which is a core aspect of the category. The discussion is more about general engineering excellence rather than the specific framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:38:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses performance engineering and technical leadership without explicitly addressing Agentic Agility. While it touches on concepts like quality and value creation, it lacks a clear focus on the intentional shaping of outcomes or the distinction between human and AI capabilities in agility.",
     "level": "Ignored"
   }
 }

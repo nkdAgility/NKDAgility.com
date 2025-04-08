@@ -1144,11 +1144,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T11:53:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:51:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an issue with TFS and work item templates, with no mention of Test First Development or related practices such as TDD.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a specific error encountered in TFS 2013 and the troubleshooting steps taken to resolve it. While it touches on aspects of work item tracking and customization, it does not explicitly mention Test First Development principles, success criteria, or testing practices. The focus is on debugging rather than on the Test First approach, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1231,11 +1234,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T11:53:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:51:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server, custom process templates, and error debugging, without any clear reference to Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS 2013 and does not focus on the role or responsibilities of a Scrum Master. While it mentions team dynamics in the context of work item tracking, it lacks any substantial discussion on Scrum principles, coaching, or the Scrum Master's influence on team effectiveness.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1509,6 +1515,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific technical error in TFS 2013, detailing the steps taken to resolve the issue. While it does touch on aspects of problem-solving and knowledge sharing, it lacks a direct discussion on competence as defined in the category. The emphasis is on technical fixes rather than continuous learning, skill development, or fostering a culture of competence. Therefore, the alignment with the category is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:51:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error in TFS 2013 and does not discuss Agentic Agility or its principles. While there is some mention of problem-solving and adapting to issues, it lacks a clear connection to the intentional shaping of outcomes or the distinction between human and AI capabilities in agility.",
     "level": "Ignored"
   }
 }
