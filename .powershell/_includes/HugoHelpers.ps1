@@ -40,7 +40,7 @@ function Get-HugoMarkdown {
         $frontMatterContent = $matches[1]
         $bodyContent = $matches[2]
         if ([string]::IsNullOrEmpty($frontMatterContent)) {
-            throw "The markdown file in $outputDir is junk"
+            throw "The markdown file in $Path is junk"
             exit 1
         }
         # Convert front matter content to an ordered hash table
@@ -54,7 +54,8 @@ function Get-HugoMarkdown {
     }
     else {
         # If no front matter is found, set frontMatter to an empty ordered hash table
-        throw "The markdown file in $outputDir is junk"
+        
+        throw "The markdown file in $Path is junk"
         exit 1
     }
 
