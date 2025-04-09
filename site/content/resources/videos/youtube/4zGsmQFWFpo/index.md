@@ -32,12 +32,12 @@ tags:
 - Competence
 - People and Process
 - Continuous Learning
+- Scrum Master
 - Organisational Culture
 - Pragmatic Thinking
 - Sociotechnical Systems
 - Discovery and Learning
 - Scrum Team
-- Scrum Master
 - Agile Leadership
 resourceTypes:
 - video

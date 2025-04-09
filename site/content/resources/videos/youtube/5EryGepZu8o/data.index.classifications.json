@@ -502,11 +502,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T10:53:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum principles and the importance of understanding empiricism and complexity, with no mention of Test First Development or related practices.",
+    "calculated_at": "2025-04-08T17:09:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Scrum principles, particularly empiricism and complexity, without any direct reference to Test First Development practices or concepts. While it touches on the importance of defining criteria for work completion, it does not delve into testing methodologies or the role of success criteria in guiding design and implementation, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -844,14 +847,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T01:25:14",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "calculated_at": "2025-04-08T17:09:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses Scrum principles and practices, particularly focusing on empiricism, which is relevant to the Scrum Master role. However, it lacks direct references to the specific responsibilities and techniques of a Scrum Master, such as coaching or facilitating Scrum ceremonies. While it touches on aspects of team dynamics and transparency, it does not delve deeply into the Scrum Master's unique contributions, leading to a moderate confidence score.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses key Scrum principles such as empiricism and complexity, which are essential for a Scrum Master to understand and teach. It also touches on the importance of transparency, inspection, and adaptation, all of which are critical responsibilities of a Scrum Master. However, while the content is rich in Scrum concepts, it does not explicitly focus on the role of the Scrum Master or their specific responsibilities, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1581,6 +1584,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on Scrum and its principles, particularly empiricism and complexity, without discussing the One Engineering System framework or its components. While it touches on concepts relevant to software development, it does not align with the core themes of 1ES, such as integration of tools and processes across teams or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:09:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum principles, particularly empiricism and navigating complexity, without explicitly addressing Agentic Agility or its key themes. While there are elements of adaptability and intentionality in the context of Scrum, the focus remains on Scrum practices rather than the intentional shaping of outcomes through agency, which is central to Agentic Agility.",
     "level": "Ignored"
   }
 }

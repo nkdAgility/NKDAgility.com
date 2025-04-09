@@ -808,11 +808,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T22:59:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:36:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses scaling Scrum with Visual Studio Team Services and does not address Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses scaling Professional Scrum using Visual Studio Team Services, focusing on team collaboration and automation. While it touches on automation, it does not explicitly mention Test First Development principles, success criteria, or testing practices. The discussion lacks depth in relation to the core themes of Test First Development, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Windows": {
@@ -892,15 +895,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T03:50:37",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "calculated_at": "2025-04-08T17:36:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses scaling Scrum and mentions the role of Scrum in the context of Visual Studio Team Services. However, it primarily focuses on tools and implementation rather than the specific responsibilities and practices of a Scrum Master. While there are references to Scrum, the depth of discussion on the Scrum Master role and its core responsibilities is limited.",
-    "level": "Ignored"
+    "final_score": 57.0,
+    "reasoning": "The content discusses scaling Scrum and the use of Visual Studio Team Services, which relates to the Scrum framework. It mentions the role of Scrum in team collaboration and automation, indicating a focus on Scrum principles. However, it lacks a direct discussion of the Scrum Master's specific responsibilities and influence, which limits its depth in that area. Overall, while it aligns with Scrum concepts, it does not focus specifically on the Scrum Master role, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1587,6 +1590,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses scaling Professional Scrum using Visual Studio Team Services, which is a specific methodology rather than the broader One Engineering System framework. While it touches on collaboration and automation, it lacks a direct focus on the principles and components of 1ES, and does not provide in-depth discussion on integration across teams or best practices for implementing 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:36:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on scaling Professional Scrum using Visual Studio Team Services, discussing tools and strategies for team collaboration and automation. While it touches on aspects of team organisation and scaling, it does not explicitly address the concept of Agentic Agility, nor does it delve into the intentional shaping of outcomes or the interplay between human and AI capabilities. The discussion lacks depth in the principles and mechanisms of Agentic Agility, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

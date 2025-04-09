@@ -505,11 +505,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T08:12:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:08:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses becoming a Scrum Master and the value of certifications, with no focus on Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on becoming a Scrum Master and does not discuss Test First Development principles or practices. It mentions Scrum and Agile concepts but lacks any reference to success criteria, testing methodologies, or the importance of testing in the development process.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -847,14 +850,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T14:45:19",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-04-08T17:08:39",
+    "ai_confidence": 82.0,
     "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on the journey to becoming a Scrum Master, discussing certifications, skills, and the application of Scrum principles. It provides insights into the role and responsibilities of a Scrum Master, particularly for those outside software engineering, which aligns well with the category. However, while it touches on key topics, it lacks in-depth exploration of specific Scrum practices and team dynamics, leading to a slightly lower confidence score.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on the journey to becoming a Scrum Master, discussing certifications, skills, and the application of Scrum principles. It provides substantial insights into the role and responsibilities of a Scrum Master, particularly in non-software contexts. However, while it aligns well with the core themes of the category, it does not delve deeply into the Scrum Master's influence on team dynamics or organisational change, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1569,6 +1572,18 @@
     "non_ai_confidence": 10,
     "final_score": 6.0,
     "reasoning": "The content primarily focuses on becoming a Scrum Master and discusses Agile methodologies, which are not directly related to the One Engineering System framework. While it touches on principles of Scrum, it does not address the integration or standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:08:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on becoming a Scrum Master and the value of certifications, which does not directly address the concept of Agentic Agility. While there are mentions of skills and learning, the discussion lacks a clear connection to intentional shaping of outcomes or the interplay between human and AI capabilities in agility.",
     "level": "Ignored"
   }
 }

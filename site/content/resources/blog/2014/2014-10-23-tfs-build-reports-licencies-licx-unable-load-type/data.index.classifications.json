@@ -1174,11 +1174,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T00:11:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:42:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to build configuration and component management, with no focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses issues related to configuring a build server and resolving specific errors in a CI environment. While it touches on the importance of having a CI build, it does not explicitly mention Test First Development principles, success criteria, or testing practices. The focus is more on troubleshooting and operational challenges rather than on the Test First Development methodology itself.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1264,11 +1267,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T00:11:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:42:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to build processes and software components, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS build reports and does not mention the role or responsibilities of a Scrum Master. While it touches on team dynamics and the challenges of software development, it lacks a direct focus on Scrum principles or the Scrum Master's influence on team effectiveness and organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1548,6 +1554,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses technical challenges faced during a build process and the need for proper configuration and component management. While it touches on the importance of having a competent build environment and the skills required to resolve issues, it primarily focuses on specific technical problems rather than a broader discussion on competence as a foundational principle in Agile or DevOps. The mentions of competence are indirect and not the primary focus, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:42:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS build processes and error resolution, with no explicit mention of Agentic Agility or its principles. While there are elements of problem-solving and team collaboration, these do not align with the core themes of intentionality, autonomy, or adaptability as defined in the category. The focus is on troubleshooting rather than on shaping outcomes through agency.",
     "level": "Ignored"
   }
 }

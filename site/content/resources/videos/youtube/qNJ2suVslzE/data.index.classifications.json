@@ -193,12 +193,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T16:28:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:36:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses scope creep and Agile principles without a specific focus on the role or responsibilities of a Scrum Master.",
-    "level": "Ignored"
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile principles and the importance of adapting to change, which aligns with the Scrum Master's role in promoting agility and value delivery. However, it does not explicitly mention the Scrum Master or delve into their specific responsibilities, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -1102,11 +1105,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T16:32:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:36:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses scope creep and Agile methodologies without addressing Test First Development or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and scope creep, with no direct mention of Test First Development principles or practices. While it touches on the importance of adapting to change and delivering value, it does not align with the core themes of Test First Development, such as defining success criteria or the role of testing in the development process. The discussion lacks depth regarding any testing practices, whether manual or automated, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1623,6 +1629,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Agile methodologies and scope creep, which are not directly related to the One Engineering System framework. While it touches on themes of flexibility and value delivery, it lacks explicit references to 1ES principles, integration of tools, or standardisation of processes. The discussion is more focused on Agile practices rather than the comprehensive framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:36:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile principles and the importance of adapting to change, which aligns with the concept of Agentic Agility. However, it primarily focuses on scope creep and Agile methodologies without explicitly addressing the intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals and systems, resulting in a lower confidence score.",
     "level": "Ignored"
   }
 }

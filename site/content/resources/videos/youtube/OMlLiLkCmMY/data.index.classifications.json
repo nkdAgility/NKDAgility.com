@@ -1306,11 +1306,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T15:27:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:17:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on organizational change and stakeholder engagement, with no mention of Test First Development or related testing practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on organisational change and team engagement, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It does not align with the core themes of the category, and the depth of discussion is entirely unrelated to testing methodologies.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1372,11 +1375,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T15:27:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:17:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on organizational change rather than the specific role or responsibilities of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses organisational change and team engagement, which are relevant to the Scrum Master's role in facilitating change and promoting team dynamics. However, it does not explicitly mention the Scrum Master or delve into specific Scrum practices, limiting its direct relevance to the category.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1533,6 +1539,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on organisational change and team engagement, with no explicit mention of the One Engineering System or its principles. While it touches on themes of collaboration and communication, these are not directly related to the standardisation and integration of software development practices as outlined in the 1ES framework. The discussion lacks depth regarding the specific components or best practices of 1ES, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:17:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses engagement and alignment within teams during organisational change, which touches on aspects of Agentic Agility, such as shared goals and empowerment. However, it lacks explicit references to the principles of Agentic Agility, such as the distinction between human and AI capabilities, and does not delve deeply into the mechanisms of intentional outcome shaping. The focus is more on general change management rather than a specific exploration of Agentic Agility.",
     "level": "Ignored"
   }
 }

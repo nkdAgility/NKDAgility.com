@@ -160,20 +160,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:58:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:05:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses programmer personality types and individual coding preferences, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on programmer personality types and traits, with no direct mention or discussion of Evidence-Based Management principles or metrics. It does not align with the core themes of EBM, such as data-informed decision-making or value delivery, and lacks any depth in relation to the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:58:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:05:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses programmer personality types and individual coding preferences, with no clear relation to Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on programmer personality types and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related themes. The content is primarily about individual traits and team dynamics in programming, which does not align with the core principles of APOM.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -316,11 +322,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:59:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:05:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses programmer personality types and individual coding preferences, with no clear relation to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on identifying programmer personality types and does not discuss any DevOps principles, practices, or cultural shifts. While it mentions teamwork, it does not align with the core themes of DevOps, such as automation, shared accountability, or continuous improvement. The discussion lacks depth and relevance to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -697,11 +706,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:18:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:06:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on programmer personality types and personal traits, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on programmer personality types and traits, which is unrelated to Continuous Delivery principles, practices, or discussions. There are no direct mentions of Continuous Delivery, and the themes discussed do not align with the core topics of the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1336,11 +1348,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:18:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:05:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on programmer personality types rather than Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on programmer personality types and does not discuss the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, team dynamics in a Scrum context, or the impact of a Scrum Master on organisational change. The discussion is entirely centred on individual programming traits, which is unrelated to the Scrum Master role.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1363,20 +1378,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:18:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:06:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses programmer personality types and traits, with no mention of Test First Development or related concepts.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on programmer personality types and does not discuss Test First Development principles, success criteria, or testing practices. It lacks any relevant mentions or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:29:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:05:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses programmer personality types and individual coding preferences, with no clear focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions teamwork, which aligns with the category's focus on collaboration. However, it primarily discusses individual programmer traits and does not delve into frameworks or methodologies that promote organisational collaboration or decision-making. The depth of discussion is limited, focusing more on personal characteristics rather than social technologies as a whole.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1428,6 +1449,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content focuses on programmer personality types and does not discuss any aspects of the Shift-Left Strategy, such as integrating testing or security early in the development process. There are no relevant mentions or alignment with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T21:05:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on individual programmer personality types and traits, with no explicit discussion of Common Goals or their significance in Agile or DevOps frameworks. While it mentions teamwork, it does not connect this to shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T21:05:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personality types of programmers rather than discussing competence in terms of skill development, quality outcomes, or professionalism. While it touches on teamwork and individual traits, it lacks a direct emphasis on continuous learning or the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T21:05:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on identifying programmer personality types and does not discuss Continuous Improvement principles or practices. While it mentions teamwork, it lacks any reference to empirical evidence, data-driven decision-making, or strategies for improvement, which are central to the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T21:05:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on identifying programmer personality types and does not discuss Agentic Agility or its principles. While it touches on teamwork and outcomes, it lacks explicit references to intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

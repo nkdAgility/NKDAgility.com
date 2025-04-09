@@ -1255,11 +1255,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T15:03:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:13:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses continuous learning and personal development, with no focus on Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on continuous learning and personal development, with no direct mention or discussion of Test First Development principles, practices, or methodologies. It does not align with the core themes of Test First Development, such as success criteria, testing practices, or collaboration among development teams.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1318,11 +1321,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T15:03:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:13:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the importance of continuous learning and personal development, without specific reference to Scrum Master responsibilities or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the importance of continuous learning and personal growth, with no direct mention of the Scrum Master role or its responsibilities. While there are general themes of learning and improvement, they do not specifically align with the core topics related to the Scrum Master, such as team dynamics or agile principles. The discussion lacks depth regarding Scrum practices or the influence of a Scrum Master on organisational change.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1476,6 +1482,18 @@
     "non_ai_confidence": 10,
     "final_score": 6.0,
     "reasoning": "The content focuses on continuous learning and personal development rather than discussing the One Engineering System or its principles. There are no direct mentions of 1ES, and the themes do not align with the core topics of integration and standardisation in software development.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:13:29",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses continuous learning and personal growth, which are related to adaptability and self-improvement. However, it does not explicitly mention Agentic Agility or its key principles, nor does it differentiate between human and AI capabilities in the context of agility. The focus is more on personal development rather than intentional shaping of outcomes in a socio-technical environment.",
     "level": "Ignored"
   }
 }

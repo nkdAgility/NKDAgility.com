@@ -382,11 +382,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T07:25:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:56:39",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses general project management challenges in complex environments without directly addressing the role or responsibilities of a Scrum Master.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses the limitations of traditional project management in complex environments and advocates for agile solutions. While it briefly mentions agile and Scrum, it does not focus on the role or responsibilities of a Scrum Master, nor does it delve into the specific skills or impact of a Scrum Master within a Scrum Team. The discussion lacks depth regarding Scrum principles and practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -424,11 +427,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T07:25:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:56:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on project management challenges in complex environments, with no discussion on Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the challenges of traditional project management in complex environments and promotes agile methodologies. It does not mention Test First Development or its principles, nor does it provide any depth on testing practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1542,6 +1548,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the limitations of traditional project management in complex environments and advocates for agile methodologies. It does not mention the One Engineering System (1ES) framework, its principles, or its components. The focus is on project management rather than the integration and standardisation of engineering processes, which is central to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:56:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the limitations of traditional project management in complex environments and advocates for agile solutions. While it touches on the need for adaptability, it does not explicitly mention Agentic Agility or its principles. The focus is on project management practices rather than the intentional shaping of outcomes through agency, which is central to the category.",
     "level": "Ignored"
   }
 }

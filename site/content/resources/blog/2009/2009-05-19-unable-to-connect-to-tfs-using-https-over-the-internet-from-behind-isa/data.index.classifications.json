@@ -1114,11 +1114,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:31:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses connectivity issues and bug reports related to TFS and ISA, with no mention of Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses issues related to connecting to TFS via HTTPS and proxy authentication problems, which are unrelated to Test First Development principles. There are no mentions of success criteria, testing practices, or any relevant concepts associated with Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1201,11 +1204,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:31:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on technical issues related to TFS and Visual Studio, without any relation to Scrum Master responsibilities or topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to connecting to TFS via HTTPS and does not mention the role or responsibilities of a Scrum Master. There is no alignment with the core themes of Scrum or agile principles, and the depth of discussion is focused on troubleshooting rather than any aspect of Scrum methodology.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1476,6 +1482,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses technical issues related to connecting to TFS via HTTPS and does not focus on competence, continuous learning, or skill development. While it touches on problem-solving, it lacks depth in discussing the principles of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:31:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to connecting to TFS via HTTPS and does not address any aspects of Agentic Agility, such as intentional shaping of outcomes, autonomy, or adaptability. It lacks any mention of human or AI agency, making it irrelevant to the category.",
     "level": "Ignored"
   }
 }

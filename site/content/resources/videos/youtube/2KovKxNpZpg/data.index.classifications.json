@@ -535,15 +535,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T12:15:05",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-04-08T17:01:37",
+    "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content briefly mentions Scrum principles, which are relevant to the Scrum Master role, but it does not explicitly discuss the responsibilities or practices of a Scrum Master. The focus is more on the critique of Scrum mechanics rather than on the role itself, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses core principles of Scrum, emphasising empiricism, transparency, and value delivery, which are crucial for a Scrum Master. However, it lacks direct mentions of the Scrum Master's role and responsibilities, focusing more on the principles rather than the specific impact of the Scrum Master on team dynamics and organisational change.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -967,11 +967,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:21:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:01:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum principles and mechanics without any mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum principles and practices, focusing on empiricism, transparency, and value delivery. It does not mention Test First Development or its related practices, such as Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). The discussion is centred around Scrum mechanics rather than the principles of Test First Development, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1542,6 +1545,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum principles and practices, which are not directly related to the One Engineering System framework. While it discusses aspects of agile methodologies, it does not address the integration or standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:01:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum principles and practices, focusing on empiricism, transparency, and value delivery. While it touches on themes of adaptability and the importance of outcomes, it does not explicitly address Agentic Agility or differentiate between human and AI capabilities. The discussion lacks depth in exploring intentional shaping of outcomes and the mechanisms of AI Agentic Agility, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

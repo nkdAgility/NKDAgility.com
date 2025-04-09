@@ -1102,11 +1102,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:31:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Test First Development or related topics; it focuses on the size of a software ISO file and documentation availability.",
+    "final_score": 4.0,
+    "reasoning": "The content does not discuss Test First Development or any related principles. It focuses solely on the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1183,11 +1186,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:31:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum methodology, Scrum Master role, or related responsibilities; it is focused on VS2010 installation details.",
+    "final_score": 4.0,
+    "reasoning": "The content does not discuss the role or responsibilities of a Scrum Master, nor does it touch on any related concepts or themes. It focuses entirely on the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to Scrum or agile methodologies.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1458,6 +1464,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, which does not relate to the principles of competence in Agile, Scrum, DevOps, or Lean methodologies. There are no direct mentions of continuous learning, skill development, or any related themes that would align with the category of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:31:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to the concept of Agentic Agility. There are no direct mentions of agency, intentionality, or the principles of Agentic Agility, nor does it discuss human or AI capabilities in shaping outcomes.",
     "level": "Ignored"
   }
 }

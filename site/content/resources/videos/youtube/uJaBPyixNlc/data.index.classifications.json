@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T00:23:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:15:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the selection and qualifications of Scrum trainers, focusing on their experience and teaching methods, without addressing Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the selection process for Scrum trainers and the importance of real-world experience in agile practices. It does not mention Test First Development, its principles, or related practices such as TDD or ATDD. The focus is on agile training and coaching rather than on testing methodologies or the role of success criteria in software development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -868,14 +871,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T02:08:09",
+    "calculated_at": "2025-04-08T17:15:25",
     "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
     "final_score": 62.0,
-    "reasoning": "The content discusses the selection of Scrum Trainers and highlights the importance of real-world experience in Agile and Scrum contexts. While it mentions Scrum Masters and their roles, the primary focus is on the qualifications and experiences of trainers rather than the Scrum Master role itself. The discussion touches on coaching and mentoring, which aligns with Scrum Master responsibilities, but lacks depth in exploring the specific practices and challenges faced by Scrum Masters. Overall, it provides a moderate level of relevance to the Scrum Master category.",
+    "reasoning": "The content discusses the selection of Scrum trainers and highlights the importance of real-world experience in agile and Scrum contexts. It mentions the role of Scrum Masters and their impact on team dynamics and coaching, which aligns with the responsibilities of a Scrum Master. However, the primary focus is on the selection process for trainers rather than an in-depth exploration of the Scrum Master role itself, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1599,6 +1602,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the selection and qualifications of Scrum trainers, discussing agile methodologies and practices rather than the One Engineering System framework. While it touches on aspects of agile and Scrum, it does not directly address the principles, integration, or implementation of 1ES, nor does it provide relevant case studies or comparisons with other frameworks. Therefore, it lacks the necessary depth and alignment with the core themes of the One Engineering System.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:15:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the selection of Scrum trainers and their qualifications, with an emphasis on real-world experience and problem-solving in agile environments. While it touches on themes of empowerment and adaptability, it does not explicitly discuss Agentic Agility or its principles. The content lacks a clear distinction between human and AI capabilities, and does not delve into the intentional shaping of outcomes, which are central to the category.",
     "level": "Ignored"
   }
 }

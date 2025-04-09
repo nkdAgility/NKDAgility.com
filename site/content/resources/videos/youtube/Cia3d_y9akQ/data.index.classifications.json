@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T20:33:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:41:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses misconceptions about the Scrum Master role and Scrum practices, with no mention of Test First Development or related testing methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master, focusing on misconceptions and accountabilities within the Scrum framework. It does not mention Test First Development or its principles, nor does it explore topics related to success criteria, testing practices, or the importance of testing in software delivery. The discussion is centred around Scrum practices rather than the Test First Development approach.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -856,15 +859,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T00:18:05",
-    "ai_confidence": 87.0,
+    "calculated_at": "2025-04-08T15:41:01",
+    "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
-    "ai_depth": 34,
+    "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
-    "reasoning": "The content extensively discusses the role and responsibilities of a Scrum Master, addressing common misconceptions and the importance of understanding Scrum principles. It highlights the need for Scrum Masters to focus on team dynamics, organisational context, and the balance of their accountabilities. The depth of discussion is significant, providing insights into dysfunctional behaviours and the importance of competence in the role. Overall, the content aligns closely with the key topics outlined for the Scrum Master category.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content provides a comprehensive exploration of the Scrum Master role, addressing common misconceptions and emphasising the importance of understanding Scrum principles. It discusses the responsibilities and accountabilities of a Scrum Master in detail, highlighting the need for competence and the impact on team dynamics and organisational agility. The depth of discussion is significant, covering various aspects of the role, including coaching, mentoring, and the balance between team and organisational needs.",
+    "level": "Primary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1578,6 +1581,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the role of a Scrum Master within the Scrum framework, discussing misconceptions and accountabilities specific to that role. While it touches on themes of team dynamics and organisational context, it does not address the One Engineering System (1ES) framework, its principles, or its integration across teams. Therefore, it lacks direct relevance to the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:40:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of a Scrum Master and the importance of understanding principles over mechanical practices, which touches on aspects of accountability and adaptability. However, it primarily focuses on Scrum practices rather than explicitly addressing Agentic Agility or the intentional shaping of outcomes. The discussion lacks depth in exploring the interplay between human and AI capabilities, which is central to the category.",
     "level": "Ignored"
   }
 }

@@ -23,7 +23,8 @@ aliasesArchive:
 - /blog/custom-wcf-proxy
 - /custom-wcf-proxy
 - /resources/blog/custom-wcf-proxy
-tags: []
+tags:
+- Software Development
 preview: metro-merilllynch-128-link-1-1.png
 categories: []
 

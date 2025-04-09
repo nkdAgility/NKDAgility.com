@@ -35,13 +35,13 @@ tags:
 - Events and Presentations
 - Product Delivery
 - Agile Product Management
-- Scrum Master
 - Scrum Team
 - Agile Planning
 - Practical Techniques and Tooling
 - Transparency and Accountability
 - Value Delivery
 - Discovery and Learning
+- Release Management
 resourceTypes:
 - video
 layout: video

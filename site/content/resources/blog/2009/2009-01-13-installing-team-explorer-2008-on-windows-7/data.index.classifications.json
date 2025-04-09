@@ -1060,11 +1060,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:40:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:35:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on installing Team Explorer and does not discuss Test First Development or related concepts.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation of Team Explorer 2008 on Windows 7, discussing troubleshooting issues and personal experiences. There are no direct mentions or discussions related to Test First Development principles, success criteria, or testing practices. The content does not align with the core themes of the category, and the depth of discussion is minimal, making it largely irrelevant to Test First Development.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1255,11 +1258,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:40:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:35:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of software and does not address Scrum roles or any related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the installation of Team Explorer 2008 on Windows 7, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics or responsibilities associated with the Scrum Master role.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1479,6 +1485,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation process of Team Explorer 2008 on Windows 7, troubleshooting issues, and personal experiences with the software. There are no direct mentions of competence, continuous learning, or skill development, which are central to the category. The discussion lacks depth and does not align with the core themes of competence in Agile or DevOps environments.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:35:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on the installation of Team Explorer 2008 on Windows 7 and troubleshooting related issues. It does not discuss Agentic Agility, its principles, or any related concepts. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category.",
     "level": "Ignored"
   }
 }

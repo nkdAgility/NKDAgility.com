@@ -1177,11 +1177,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T17:13:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:00:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the launch of Visual Studio 2012 and related events, with no clear focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Visual Studio 2012 Launch RoadShows and does not explicitly discuss Test First Development principles. While it mentions the need for better software quality, it lacks detailed exploration of success criteria, testing practices, or the role of collaboration in Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1258,11 +1261,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T17:13:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:00:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio launch events and Agile development without specific reference to the Scrum Master role.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the launch of Visual Studio 2012 and related events, with minimal mention of Scrum or the role of a Scrum Master. While it touches on agile development, it does not delve into the responsibilities or impact of a Scrum Master, nor does it discuss relevant techniques or organisational change. Therefore, it does not align well with the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1545,6 +1551,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the need for higher quality in software development and the importance of adapting development practices, which aligns with the concept of competence. However, it lacks a detailed discussion on continuous learning, skill development, or strategies for fostering a culture of competence. The primary focus is on the launch events rather than a thorough exploration of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:00:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the launch of Visual Studio 2012 and related events, with a brief mention of adapting development practices. However, it lacks explicit discussions on Agentic Agility, such as intentional shaping of outcomes or the interplay between human and AI capabilities. The themes of agency and intentionality are not central to the content, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

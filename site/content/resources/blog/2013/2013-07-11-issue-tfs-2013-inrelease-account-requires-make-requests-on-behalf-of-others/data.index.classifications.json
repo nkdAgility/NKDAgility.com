@@ -1138,11 +1138,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T18:25:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:55:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on troubleshooting an issue with Team Foundation Server and InRelease, with no discussion on Test First Development or related concepts.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a specific error related to Team Foundation Server (TFS) and does not mention Test First Development principles, success criteria, or testing practices. It focuses on configuration and permissions rather than any testing methodologies or practices.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1225,11 +1228,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T18:25:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:55:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on technical issues related to Team Foundation Server and InRelease, without any discussion on Scrum Master responsibilities or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server (TFS) and InRelease, with no direct mention of the Scrum Master role or its responsibilities. While it references a Scrum project collection, it does not engage with the core themes of Scrum Master responsibilities, coaching, or team dynamics. The focus is on resolving a specific technical error rather than on Scrum practices or the role of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1503,6 +1509,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on resolving a technical issue related to TFS 2013 and InRelease permissions. While it touches on the necessity of having the correct permissions, it does not explicitly discuss competence in terms of continuous learning, skill development, or the broader implications of professionalism and quality delivery. The mention of permissions and service accounts is more about technical configuration than fostering a culture of competence or discussing the importance of skill development in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:55:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to Team Foundation Server permissions and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are core to the category. The discussion is strictly technical and procedural, lacking any depth or alignment with the themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

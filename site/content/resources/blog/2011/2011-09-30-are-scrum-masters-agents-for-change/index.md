@@ -30,9 +30,9 @@ aliasesArchive:
 tags:
 - Agile Project Management
 - Software Development
+- Scrum Master
 - Professional Scrum
 - People and Process
-- Scrum Master
 - Events and Presentations
 - Agile Frameworks
 categories:

@@ -487,11 +487,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T23:18:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses migration services from TFS to Azure DevOps, with no focus on Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T15:55:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the migration process from TFS to Azure DevOps, discussing tools, strategies, and common issues encountered during migration. While it briefly mentions the importance of post-migration testing, it does not delve into Test First Development principles or practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -823,11 +826,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T23:18:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:55:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses migration services and tools related to Azure DevOps, with no clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, with no direct mention of the Scrum Master role or its responsibilities. While it touches on agile principles indirectly through the context of Azure DevOps, it lacks a clear discussion on the Scrum Master's influence, techniques, or impact on team dynamics, which are essential for alignment with the category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1521,6 +1527,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on the migration from TFS to Azure DevOps, discussing specific tools and processes involved in that transition. While it touches on collaboration and efficiency, which are relevant to the One Engineering System, it does not explicitly discuss the principles or components of 1ES, nor does it provide a comprehensive exploration of its impact on software quality or delivery timelines. The discussion is more about practical migration strategies rather than the integration and standardisation of engineering processes across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:55:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, discussing tools, processes, and common issues. While it touches on themes of agility and efficiency, it does not explicitly address the concept of Agentic Agility, such as intentional shaping of outcomes or the interplay between human and AI capabilities. The discussion lacks depth in exploring the principles of Agentic Agility, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   }
 }

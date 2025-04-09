@@ -496,11 +496,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T08:43:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:09:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational culture and systems, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile transformations and the importance of focusing on organisational systems rather than culture. It does not mention Test First Development or its principles, nor does it provide any relevant detail on testing practices, automated testing, or success criteria that are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -832,11 +835,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T08:44:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:09:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of organisational culture and transformation, without specific reference to the role or responsibilities of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile transformations and the importance of systems over culture, which indirectly relates to the Scrum Master's role in facilitating change. However, it lacks direct mentions of the Scrum Master and does not delve into specific responsibilities or techniques relevant to the role.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1536,6 +1542,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses the importance of focusing on the system rather than culture in organisational change, which aligns with some principles of standardising processes. However, it primarily centres on Agile transformations and cultural aspects, lacking a direct focus on the One Engineering System framework or its specific components. The discussion is more about general organisational behaviour than the integration and standardisation of engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:09:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of changing systems to influence culture, which aligns with the concept of intentional shaping of outcomes. However, it primarily focuses on cultural transformation rather than explicitly addressing Agentic Agility or differentiating between human and AI capabilities. The discussion lacks depth in exploring the principles of Agentic Agility and does not mention AI systems, leading to a lower confidence score.",
     "level": "Ignored"
   }
 }

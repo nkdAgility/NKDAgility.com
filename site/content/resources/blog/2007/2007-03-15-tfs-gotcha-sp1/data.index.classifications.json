@@ -346,11 +346,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:36:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:28:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation and troubleshooting of Team Foundation Server (TFS) SP1, which is not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting installation issues related to Team Foundation Server (TFS) and does not engage with the core principles of DevOps. While TFS is a tool that can be used in a DevOps context, the discussion lacks explicit references to DevOps philosophy, practices, or cultural shifts. The content does not address collaboration, automation, or shared accountability, which are central to DevOps. Therefore, it only marginally touches on the category without providing substantial depth or alignment.",
     "level": "Ignored"
   },
   "One Engineering System": {
@@ -1384,11 +1387,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:32:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:28:45",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation and troubleshooting of Team Foundation Server (TFS) SP1, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on troubleshooting technical issues related to the installation of Team Foundation Server (TFS) SP1. It does not discuss any aspects of collaboration, decision-making, or value delivery, which are central to the category of Social Technologies. While it mentions installation steps, it lacks any exploration of social frameworks or methodologies that promote teamwork or organisational improvement.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1440,6 +1446,30 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on installation and troubleshooting of Team Foundation Server (TFS) SP1, with no direct mention or discussion of the Shift-Left Strategy. It lacks alignment with the core themes of integrating testing, security, or compliance early in the development process, and does not provide any depth on the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T21:28:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting installation issues for Team Foundation Server (TFS) SP1, which does not align with the principles of Common Goals in Agile and DevOps. There are no explicit discussions of shared objectives, alignment, or strategic goals. The content lacks depth in relation to the category, as it is more of a technical guide rather than a discussion on aligning strategy with execution.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T21:28:52",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on troubleshooting installation issues for Team Foundation Server (TFS) SP1, which does not directly address the principles of competence in Agile or DevOps. While it mentions steps to resolve technical problems, it lacks explicit discussions on continuous learning, skill development, or the importance of competence in delivering quality outcomes. The depth of discussion is limited to procedural instructions rather than fostering a culture of competence or inspecting and adapting skills over time.",
     "level": "Ignored"
   }
 }

@@ -1081,11 +1081,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:56:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:36:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the TFS Event Handler and user notifications, with no mention of Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the TFS Event Handler and its features, focusing on notifications and team collaboration. There are no direct mentions of Test First Development principles, success criteria, or testing practices. The content does not align with the core themes of Test First Development, nor does it provide any depth on the subject. Overall, it is unrelated to the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1273,11 +1276,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:56:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:36:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses TFS Event Handler and its functionality, which does not relate to the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical tool (TFS Event Handler) and its features, with no direct mention of the Scrum Master role or its responsibilities. While it touches on team collaboration, it does not align with the core themes of Scrum Master discussions, such as coaching, facilitating, or promoting agile principles.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1497,6 +1503,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the technical aspects of the TFS Event Handler and its functionalities, with no explicit discussion on competence, continuous learning, or skill development. While it mentions improving team collaboration, it does not delve into the principles of professionalism or quality delivery that are central to the concept of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:36:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of the TFS Event Handler and its functionalities, with no explicit discussion of Agentic Agility or its principles. While it mentions improving team collaboration, it does not delve into the intentional shaping of outcomes or the interplay between human and AI capabilities, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

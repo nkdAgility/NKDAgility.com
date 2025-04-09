@@ -1150,11 +1150,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:57:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:18:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on issues related to Team Foundation Server upgrade failures and recovery strategies, with no discussion of Test First Development practices or principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses troubleshooting and upgrading TFS 2010, focusing on real-world challenges and solutions rather than the principles of Test First Development. There are no explicit mentions of success criteria, testing practices, or the Test First approach, which are central to the category. The discussion lacks depth in relation to Test First Development, making it largely irrelevant to the classification.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1240,11 +1243,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:57:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:18:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to Team Foundation Server (TFS) upgrades and does not focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS 2010 and does not mention the role or responsibilities of a Scrum Master. There is minimal conceptual alignment with Scrum principles, and the depth of discussion is focused on troubleshooting rather than Scrum practices.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1515,6 +1521,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to TFS 2010, with minimal direct discussion on competence or skill development. While it touches on the challenges faced by a large development team and the importance of expert advice, it lacks a thorough exploration of continuous learning, professionalism, or strategies for fostering competence. The mention of expertise is too brief and does not align closely with the core themes of the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:18:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting and technical solutions related to TFS 2010, with no explicit discussion of Agentic Agility principles or the intentional shaping of outcomes. While it touches on problem-solving and decision-making, it does not align with the core themes of Agentic Agility, such as autonomy, adaptability, or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

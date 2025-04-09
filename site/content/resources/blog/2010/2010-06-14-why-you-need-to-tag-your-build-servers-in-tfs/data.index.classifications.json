@@ -1165,11 +1165,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:54:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:21:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses build servers and their management in TFS rather than Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the management of build servers in TFS and the use of tagging for efficiency, which does not directly relate to Test First Development principles. There are no explicit mentions of success criteria, testing practices, or the role of testing in development, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1258,11 +1261,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:54:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:21:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on build server management and technical details, with no discussion relevant to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical aspects of managing build servers in TFS, with no direct mention of the Scrum Master role or its responsibilities. While it touches on team dynamics indirectly through the mention of developers, it lacks any substantial discussion on Scrum principles, coaching, or facilitation, which are core to the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1539,6 +1545,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the technical aspects of tagging build servers in TFS, focusing on managing complexity and improving efficiency. While it touches on the need for organisation and clarity in development environments, it does not explicitly address continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The discussion lacks depth regarding the principles of professionalism and quality delivery, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:21:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of managing build servers in TFS, discussing tagging and server management without addressing the intentional shaping of outcomes or the principles of Agentic Agility. While it touches on the need for organisation and efficiency, it lacks a clear connection to the core themes of agency, adaptability, or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

@@ -1108,11 +1108,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T01:18:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:21:15",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 1.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about personal updates regarding the author's son and does not discuss Test First Development or related principles.",
+    "final_score": 2.0,
+    "reasoning": "The content focuses entirely on a personal narrative about a child's health journey, with no references to software development, testing practices, or the principles of Test First Development. It does not discuss success criteria, testing methodologies, or any related topics, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1189,11 +1192,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T01:18:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:21:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a personal narrative regarding a child's development, with no relevance to Scrum Master responsibilities or discussions.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a personal story about a child's health journey, with no references to Scrum, the role of a Scrum Master, or any related concepts. It does not discuss any responsibilities, skills, or impacts associated with the Scrum Master role, nor does it touch on agile principles or team dynamics.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1464,6 +1470,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on a personal narrative about Kaiden's health journey, with no explicit discussion of competence, skill development, or related themes. While it touches on milestones, it does not align with the principles of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:21:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal narrative about Kaiden's health journey, with no explicit discussion of Agentic Agility or its principles. There are no mentions of autonomy, adaptability, or intentional shaping of outcomes, which are central to the category. The content lacks depth and alignment with the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -1066,11 +1066,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:43:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:37:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to server downtime and personal experiences with TFS, without mentioning Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses frustrations related to server outages during the launch of a software product, with no explicit mention of Test First Development principles, success criteria, or testing practices. It lacks any depth or alignment with the core themes of Test First Development, focusing instead on operational challenges rather than testing methodologies.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1261,11 +1264,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:43:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:37:37",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is mainly about technical issues related to TFS and does not discuss Scrum Master responsibilities or practices.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses technical issues related to server outages during a software launch, with no direct mention of Scrum Master responsibilities or concepts. While it touches on challenges faced in a software development context, it lacks any discussion of Scrum principles, team dynamics, or the role of a Scrum Master, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily discusses frustrations related to server outages during a software launch, which does not directly address the principles of competence in Agile or DevOps. While there is a brief mention of the service provided by CodePlex, it lacks a focus on continuous learning, skill development, or the importance of competence in delivering quality outcomes. The discussion is more about operational challenges rather than fostering a culture of competence or professional development.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:37:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses frustrations related to server outages during a software launch, lacking any explicit mention or exploration of Agentic Agility principles. It does not address intentional shaping of outcomes, nor does it differentiate between human and AI capabilities in the context of agility. The focus is on a personal experience with technical issues rather than on the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

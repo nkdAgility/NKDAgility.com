@@ -1108,11 +1108,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:30:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:04:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses issues related to installing Windows 8 instead of Windows 8 Pro, with no mention of Test First Development or TDD.",
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on troubleshooting and upgrading Windows 8, with no mention or discussion of Test First Development principles, success criteria, or testing practices. It does not align with any of the key topics outlined for the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1195,11 +1198,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:30:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:04:10",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content discusses troubleshooting issues with different editions of Windows 8 and does not relate to Scrum Master roles or responsibilities.",
+    "reasoning": "The content is entirely focused on troubleshooting and upgrading Windows operating systems, with no mention or discussion of Scrum, the role of a Scrum Master, or any related agile principles. It does not align with the key topics or responsibilities associated with the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1470,6 +1476,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on troubleshooting an installation issue with Windows 8, lacking any discussion on competence, continuous learning, or skill development. While it touches on problem-solving, it does not align with the core themes of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:04:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a personal experience with installing the wrong version of Windows and the steps to upgrade. It does not address the concept of Agentic Agility, nor does it explore themes of intentionality, autonomy, or adaptability in a socio-technical context. The focus is on troubleshooting a technical issue rather than on shaping outcomes through agency.",
     "level": "Ignored"
   }
 }

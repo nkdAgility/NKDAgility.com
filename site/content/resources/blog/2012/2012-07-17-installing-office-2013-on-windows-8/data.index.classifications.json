@@ -1120,11 +1120,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:31:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:04:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about installing Office 2013 and does not discuss Test First Development or related topics.",
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on the installation process of Office 2013 on Windows 8, with no mention of Test First Development principles, success criteria, or testing practices. It does not align with the core themes of the category, and the depth of discussion is minimal, as it is primarily a guide for software installation rather than a discussion on testing methodologies.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1207,11 +1210,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:31:12",
+    "calculated_at": "2025-04-08T19:04:59",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is entirely focused on installing Office 2013 and does not reference any Scrum Master roles, responsibilities, or Agile concepts.",
+    "reasoning": "The content is entirely focused on installing Office 2013 on Windows 8 and does not mention the role or responsibilities of a Scrum Master, nor does it discuss any related concepts or themes. It is unrelated to Scrum or agile methodologies.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation process of Office 2013 on Windows 8, with no direct discussion of competence, continuous learning, or skill development. While it mentions features and user experience, it does not align with the core themes of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:04:45",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content focuses solely on the installation process of Office 2013 on Windows 8, with no discussion of Agentic Agility, intentional shaping of outcomes, or the interplay between human and AI capabilities. It does not address any of the key topics outlined for the category.",
     "level": "Ignored"
   }
 }

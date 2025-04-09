@@ -1192,11 +1192,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T01:51:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:24:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on the Scrum process rather than Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum practices and team dynamics rather than focusing on Test First Development principles. While it touches on the importance of team collaboration and the need for a unit of potentially shippable software, it does not explicitly mention Test First Development, success criteria, or testing methodologies. The discussion is more about Scrum roles and challenges than about testing practices.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1279,14 +1282,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T07:12:02",
+    "calculated_at": "2025-04-08T19:24:58",
     "ai_confidence": 82.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
     "final_score": 75.0,
-    "reasoning": "The content provides a detailed discussion on the role of the Scrum Master, particularly in relation to team dynamics and the importance of Scrum ceremonies. It explicitly mentions the challenges faced by the Scrum Master and the implications of having a part-time Scrum Master, which directly relates to the responsibilities of the role. The content also explores the impact of team structure on Scrum practices and highlights the need for effective facilitation and coaching, aligning well with the core themes of the category. Overall, the depth of discussion and the focus on the Scrum Master’s contributions to team performance and Agile success support a high confidence score.",
+    "reasoning": "The content discusses the role of the Scrum Master in relation to team dynamics, the importance of having a dedicated Scrum Master, and the implications of not having one. It also touches on the responsibilities of the Scrum Master in facilitating Scrum ceremonies and addressing team impediments. The discussion is detailed and provides insights into the challenges faced by Scrum teams, aligning well with the core themes of the category. However, while the Scrum Master is a significant focus, the content also addresses broader Scrum concepts and team dynamics, which slightly dilutes the primary focus on the Scrum Master role.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1579,5 +1582,17 @@
     "final_score": 56.0,
     "reasoning": "The content discusses the challenges faced during a Scrum implementation, highlighting the importance of team collaboration and the need for a competent team structure. However, while it touches on aspects of competence, such as the necessity for skilled team members and the implications of poor decisions on team performance, it does not delve deeply into continuous learning or strategies for fostering competence. The primary focus remains on Scrum practices rather than a thorough exploration of competence as a foundational principle.",
     "level": "Tertiary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:24:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum practices and challenges without addressing the intentional shaping of outcomes or the principles of Agentic Agility. While it touches on team dynamics and decision-making, it does not differentiate between human and AI capabilities or explore the transformative capacity of individuals and systems in a socio-technical context.",
+    "level": "Ignored"
   }
 }

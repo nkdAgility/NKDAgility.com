@@ -1126,11 +1126,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T01:51:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:23:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses a launch event for Visual Studio 2010 and does not focus on Test First Development principles, practices, or related discussions.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on a launch event for Visual Studio 2010, discussing speakers and their topics without any direct mention or exploration of Test First Development principles. While there is a brief mention of 'Testing' in the tags, it does not relate to the Test First Development category or its core themes.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1210,11 +1213,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T01:51:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:23:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a launch event for Visual Studio 2010 and does not discuss any aspects related to Scrum Masters or their responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a Visual Studio launch event and does not mention the Scrum Master role or any related concepts. There is no discussion of Scrum principles, responsibilities, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1488,6 +1494,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a launch event for Visual Studio 2010, highlighting speakers and agenda details. While it mentions development tools, it does not explicitly discuss competence, continuous learning, or skill development, which are central to the category. The connection to competence is minimal and indirect, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:23:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a launch event for Visual Studio 2010, discussing speakers and the agenda without any reference to Agentic Agility, its principles, or its application in socio-technical environments. There is no mention of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category.",
     "level": "Ignored"
   }
 }

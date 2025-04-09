@@ -1123,11 +1123,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:33:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on new features and updates for a database development tool, with no mention of Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the features and enhancements of a specific software tool, Data Dude R2, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1204,11 +1207,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:33:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses software and database development tools without any reference to the role of a Scrum Master or related Scrum practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a software release and its features, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the core themes of the category, nor does it provide any depth on the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1479,6 +1485,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on the features and enhancements of a software tool, with no explicit discussion on competence, continuous learning, or skill development. While it mentions benefits for database developers, it does not delve into the principles of professionalism or quality delivery that underpin the concept of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:33:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the features and enhancements of a software tool, specifically Data Dude R2, with no explicit discussion of Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content lacks depth and relevance to the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

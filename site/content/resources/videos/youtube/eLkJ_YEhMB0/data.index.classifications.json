@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T08:04:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum roles and events, focusing on Agile practices rather than Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T16:12:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile certifications and their impact on learning and professional development, with no direct mention of Test First Development principles or practices. While it touches on the importance of real-world experience, it does not align with the core themes of Test First Development, such as success criteria, TDD, or collaboration in testing. The discussion is more focused on certifications rather than testing methodologies.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -871,14 +874,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T14:55:42",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-04-08T16:12:47",
+    "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the role of certifications in relation to becoming a Scrum Master, highlighting the importance of real-world experience over mere certification. While it touches on the Scrum Master role, it primarily focuses on the broader topic of Agile certifications, which dilutes its alignment with the specific responsibilities and practices of a Scrum Master.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of Scrum Masters in relation to certifications, emphasising the importance of real-world experience over mere certification. It touches on how effective Scrum Masters are often chosen based on their demonstrated value rather than their credentials. However, while it mentions Scrum Masters and their journey, the primary focus is on certifications rather than a comprehensive exploration of the Scrum Master's responsibilities and impact.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1602,6 +1605,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Agile certifications and their impact on learning and professional development, with no direct mention or focus on the One Engineering System framework. It does not address integration of tools or processes, best practices for implementing 1ES, or any of the key topics outlined for this category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:12:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the limitations of Agile certifications and emphasises the importance of real-world experience and learning over mere credentials. However, it does not explicitly address the concept of Agentic Agility or its key topics, such as the intentional shaping of outcomes or the interplay between human judgement and AI logic. The focus is primarily on certifications rather than on the broader themes of agency and intentionality in Agile practices.",
     "level": "Ignored"
   }
 }

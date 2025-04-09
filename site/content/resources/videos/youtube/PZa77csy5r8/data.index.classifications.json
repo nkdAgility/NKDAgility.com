@@ -193,11 +193,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T16:53:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:37:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical debt management and does not focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical debt management and does not explicitly discuss the role or responsibilities of a Scrum Master. While it touches on agile practices, it lacks a direct connection to the Scrum Master's influence or responsibilities within a Scrum Team.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1093,11 +1096,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T17:16:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:37:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical debt management and its implications, without a focus on Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses technical debt management rather than Test First Development principles. While it touches on the importance of quality and feedback loops, it does not explicitly mention Test First practices or success criteria, which are central to the category.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1620,6 +1626,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on technical debt management rather than discussing the One Engineering System (1ES). While it touches on aspects of software development, it does not explicitly mention 1ES or its principles, components, or implementation strategies. The discussion is more about individual practices and experiences rather than the integration and standardisation of engineering processes across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:37:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical debt management and does not explicitly discuss Agentic Agility or its principles. While there are elements of adaptability and proactive intervention in managing technical debt, the discussion lacks a clear connection to the intentional shaping of outcomes through autonomy and alignment with values, which are central to Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -1159,11 +1159,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T23:53:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:16:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the TFS Automation Platform and its components, with no clear focus on Test First Development or related practices like Test-Driven Development (TDD).",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the TFS Automation Platform and its features related to iteration management and automation within TFS. There are no explicit mentions of Test First Development principles, success criteria, or testing practices. While automation is a topic, it does not focus on the Test First approach or its benefits, making the alignment with the category very weak.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1240,11 +1243,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T23:53:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:16:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on TFS Automation Platform development and technical details, with no direct mention or discussion of the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the TFS Automation Platform, focusing on automation and iteration management within TFS. It does not mention the role or responsibilities of a Scrum Master, nor does it align with the core themes of Scrum or agile principles. The discussion is technical and project-specific, lacking any reference to Scrum practices or the influence of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1521,6 +1527,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the TFS Automation Platform and its functionalities, with minimal direct discussion on competence or continuous skill development. While it touches on automation and efficiency, it lacks a clear emphasis on the importance of competence in Agile or DevOps contexts, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:16:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the TFS Automation Platform and its functionalities related to iteration management and automation within TFS. While it touches on automation and efficiency, it does not explicitly address the principles of Agentic Agility, such as intentional shaping of outcomes, the role of intent, or the interplay between human judgement and AI logic. The focus is more on technical implementation rather than the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }
 }

@@ -1117,11 +1117,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:22:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:28:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a book review of Silverlight 3 and does not discuss Test First Development or related principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a book review about Silverlight 3, with no direct mentions or discussions related to Test First Development principles, success criteria, or testing practices. The content does not align with the core themes of the category and lacks depth in discussing any relevant topics.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1198,11 +1201,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:22:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:28:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Silverlight 3 programming and related books, which is unrelated to Scrum Master responsibilities or themes.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a programming book about Silverlight 3, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics or responsibilities associated with the Scrum Master role, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1473,6 +1479,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on a book review about Silverlight 3, discussing its layout and readability rather than addressing competence in Agile, Scrum, or DevOps. While it mentions enhancing coding skills, it lacks a direct discussion on continuous learning, skill development, or the professional implications of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:28:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a book review about Silverlight 3, discussing its features and personal experiences with it. There are no direct mentions of Agentic Agility, nor does it align with the core themes of intentionality, autonomy, or adaptability. The discussion lacks depth regarding the principles of Agentic Agility, making it irrelevant to the category.",
     "level": "Ignored"
   }
 }

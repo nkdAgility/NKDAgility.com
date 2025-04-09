@@ -1207,12 +1207,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T18:53:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the importance of continuous testing and quality enablement, including elements of acceptance testing as part of the software development lifecycle. However, it does not primarily focus on Test First Development or the principles of TDD.",
-    "level": "Tertiary"
+    "final_score": 73.0,
+    "reasoning": "The content discusses the importance of continuous quality and testing throughout the software development lifecycle, which aligns with the principles of Test First Development. It mentions acceptance testing and the need for actionable requirements, which are relevant to the category. However, the primary focus is on quality enablement and continuous delivery rather than explicitly on Test First Development practices like TDD or ATDD. The depth of discussion on Test First principles is moderate, but it lacks a strong emphasis on the specific methodologies associated with Test First Development.",
+    "level": "Secondary"
   },
   "Windows": {
     "category": "Windows",
@@ -1288,11 +1291,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:42:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:53:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses quality enablement in software development and tools like Visual Studio 2012, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on quality enablement in software development using Visual Studio 2012, discussing continuous quality practices and tools rather than the specific role and responsibilities of a Scrum Master. There are no direct mentions of Scrum or the Scrum Master role, and while it touches on agile principles, it does not delve into the Scrum framework or the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1579,5 +1585,17 @@
     "final_score": 70.0,
     "reasoning": "The content extensively discusses the importance of quality enablement in software development, which directly ties into the concept of competence. It highlights the need for continuous learning, skill development, and the role of quality in maintaining trust and delivering value. The depth of discussion on practices like continuous testing, actionable requirements, and the necessity for tools to support these processes indicates a strong alignment with the principles of competence in Agile and DevOps environments.",
     "level": "Secondary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:53:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses quality enablement in software development, focusing on continuous quality and delivery practices. While it touches on aspects of agility, such as the need for frequent iterations and responsiveness to user feedback, it does not explicitly address the concept of Agentic Agility or the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth in exploring the distinctions between human and AI capabilities in this context, and it does not engage with the key topics outlined for Agentic Agility.",
+    "level": "Ignored"
   }
 }

@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:30:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:33:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and community engagement, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences with moderating submissions on a community platform, lacking any explicit discussion or alignment with Evidence-Based Management principles. It does not address data-informed decision-making, metrics, or empirical evidence, which are central to the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:30:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:33:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with moderating a community site, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses personal experiences related to moderating submissions for a community platform, with no direct references to the Agile Product Operating Model or its principles. It lacks any alignment with the core themes of APOM, such as product management or agile methodologies, and does not provide any depth on these topics.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -313,11 +319,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:31:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:32:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and community engagement, with no relevance to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses personal experiences related to moderating submissions for a community engagement platform, with no explicit mention of DevOps principles, practices, or cultural shifts. It lacks any alignment with the core themes of DevOps, such as collaboration, automation, or shared accountability, and does not provide any depth on these topics.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -691,11 +700,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:08:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:33:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses moderating submissions on a community website, unrelated to Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses personal experiences related to moderating submissions on a community platform, with no direct mention or discussion of Continuous Delivery principles, practices, or related topics. It lacks any alignment with the core themes of Continuous Delivery, such as automation, rapid feedback, or software quality. The depth of discussion is also minimal, focusing instead on personal engagement and community interaction.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1321,11 +1333,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:08:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:33:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily about moderating a community credit site and does not discuss Scrum Master responsibilities or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses personal experiences related to moderating submissions for a community platform, with no direct mention of Scrum or the role of a Scrum Master. It lacks alignment with the core themes of the Scrum Master category, such as facilitating team effectiveness or promoting agile principles. The depth of discussion is minimal and does not provide any relevant insights into Scrum practices.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1348,11 +1363,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:08:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:33:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not discuss Test First Development or related topics; it is focused on personal experience with community moderation.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses personal experiences related to moderating submissions on a community platform, with no direct mention or relevance to Test First Development principles, practices, or discussions.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1416,6 +1434,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content does not discuss software development processes, testing, security, or compliance, which are central to the Shift-Left Strategy. It focuses on personal experiences related to community moderation, which is unrelated to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:32:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal experiences related to moderating submissions for a community platform, which does not align with the principles of Common Goals in Agile or DevOps. While there is a mention of community engagement, it lacks explicit discussions on shared objectives, strategic alignment, or frameworks like OKRs. The content is more anecdotal and promotional rather than analytical or strategic.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:32:53",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content briefly mentions a personal experience related to moderating submissions, but it lacks a direct focus on competence as defined in the category. There is no discussion of continuous learning, skill development, or the impact of competence on quality outcomes. The content primarily revolves around personal engagement and community involvement, which does not align with the core themes of competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:32:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal experiences with moderating submissions for a community platform, which does not directly discuss Continuous Improvement principles. While there is a mention of community engagement and honesty, these concepts do not align with the core themes of Continuous Improvement, such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is minimal, lacking any substantial exploration of Continuous Improvement strategies or frameworks.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:32:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal experiences related to moderating submissions for a community platform, which does not explicitly discuss Agentic Agility or its principles. While there is a mention of community engagement and personal investment, it lacks depth in exploring the intentional shaping of outcomes, the distinction between human and AI capabilities, or any mechanisms of Agentic Agility. Overall, the content does not align with the core themes of the category.",
     "level": "Ignored"
   }
 }

@@ -385,14 +385,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T00:02:53",
+    "calculated_at": "2025-04-08T16:56:07",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
     "final_score": 39.0,
-    "reasoning": "The content discusses the transition of project managers to agile roles, including some references to Scrum practices like daily stand-ups and sprint reviews. However, it primarily focuses on the broader concept of project management rather than the specific role and responsibilities of a Scrum Master. While there are relevant points about collaboration and mindset shifts, the depth of discussion on Scrum Master-specific practices and challenges is limited.",
+    "reasoning": "The content discusses the transition of project managers to agile roles, touching on concepts relevant to Scrum Masters, such as facilitating team collaboration and embracing agility. However, it primarily focuses on project management rather than the specific responsibilities and impact of a Scrum Master, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -430,11 +430,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:33:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:56:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of project managers in Agile and Scrum, without any focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses agile project management and the mindset shift required for project managers, with no direct mention of Test First Development principles or practices. While it touches on collaboration and adaptability, it does not delve into success criteria, testing methodologies, or the specifics of Test First Development, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1539,6 +1542,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on agile project management and the mindset shift required for project managers, with no direct mention of the One Engineering System (1ES) framework. While it discusses collaboration and agile principles, it does not align with the core themes of 1ES, such as standardisation and integration of software development practices across teams. The depth of discussion is limited to personal experiences and recommendations for project managers, lacking any detailed exploration of 1ES or its components.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:56:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the shift in mindset required for project managers to embrace agility, touching on themes of autonomy and adaptability. However, it primarily focuses on project management practices rather than explicitly addressing Agentic Agility. While there are mentions of empowering teams and fostering collaboration, the content lacks a clear distinction between Human and AI Agentic Agility and does not delve deeply into the intentional shaping of outcomes, which is central to the category.",
     "level": "Ignored"
   }
 }

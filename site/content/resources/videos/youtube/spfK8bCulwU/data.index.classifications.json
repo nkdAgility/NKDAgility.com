@@ -541,11 +541,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of a Product Owner and the PSPO course, with little to no direct reference to the responsibilities or practices specific to Scrum Masters.",
+    "calculated_at": "2025-04-08T16:59:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the role of a product owner rather than the Scrum Master. While it touches on themes relevant to Scrum, such as collaboration and team dynamics, it does not explicitly discuss the responsibilities or impact of a Scrum Master. The discussion is more aligned with product ownership and its challenges, which are distinct from the Scrum Master's role.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -970,11 +973,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the PSPO course and the role of product owners in Agile and Scrum, without focusing on Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T16:59:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product ownership, customer needs, and team dynamics, with no direct mention of Test First Development principles or practices. While it touches on collaboration and the importance of understanding customer feedback, it does not discuss success criteria, testing methodologies, or the role of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1548,6 +1554,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on the role of a product owner within the context of Scrum and Agile methodologies, discussing customer needs, team dynamics, and collaboration. However, it does not explicitly mention the One Engineering System (1ES) framework or its principles, components, or implementation. The discussion is more centred on personal experiences and insights related to product ownership rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:59:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of a product owner and the importance of balance, customer focus, and collaboration, which are relevant to the concept of Agentic Agility. However, it lacks explicit discussions on intentional shaping of outcomes, the distinction between human and AI capabilities, and does not delve deeply into the principles of Agentic Agility. The focus is more on product ownership and Agile practices rather than the transformative capacity of individuals and systems.",
     "level": "Ignored"
   }
 }

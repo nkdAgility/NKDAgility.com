@@ -154,20 +154,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:41:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:58:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal e-scores and rankings, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a personal e-score quiz and does not discuss Evidence-Based Management or its key topics. There are no direct mentions or relevant concepts related to EBM, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:41:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:58:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on personal e-scores and rankings, with no relevant discussion on Agile principles or product development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a personal e-score quiz and does not mention or align with any principles of the Agile Product Operating Model. It lacks any relevant discussion on agile methodologies, product management, or related topics.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -307,11 +313,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:42:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:58:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on personal scoring and rankings, with no relevance to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a personal quiz related to digital ranking and does not discuss any principles, practices, or cultural shifts associated with DevOps. There are no direct mentions or relevant themes that align with the DevOps philosophy.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -685,11 +694,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:18:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:58:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses personal e-scores and rankings, which are unrelated to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a personal quiz related to digital ranking and does not mention Continuous Delivery or its principles, practices, or benefits. There is no relevant discussion on automation, feedback, or software quality, making it entirely unrelated to the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1315,11 +1327,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:18:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:58:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum Master roles or responsibilities; it is focused on personal e-scoring and rankings.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a personal quiz related to digital engagement and does not mention or discuss any aspects of the Scrum Master role, responsibilities, or related concepts. There is no relevance to Scrum or agile principles.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1342,20 +1357,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:18:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:58:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on personal scoring and rankings and does not discuss Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a personal quiz related to digital ranking and does not mention or align with any principles of Test First Development. There are no discussions on success criteria, testing practices, or related themes.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:29:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:58:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal e-scores and rankings, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a personal quiz related to digital engagement rather than discussing frameworks or methodologies that promote collaboration or decision-making within organisations. While it mentions an 'e-score', it lacks any substantial connection to the core themes of social technologies, such as self-organisation, collective intelligence, or value delivery.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1407,6 +1428,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content does not discuss the Shift-Left Strategy or any related concepts. It focuses on a personal e-score and rankings, which are unrelated to software development processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:58:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a personal quiz related to digital ranking and does not discuss any aspects of Common Goals, Agile, or DevOps. It lacks any direct mentions, conceptual alignment, or depth regarding the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:58:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a quiz related to digital proficiency, which does not directly discuss competence in the context of Agile, Scrum, or DevOps methodologies. While it mentions an 'e-score' and ranks individuals, it lacks explicit discussions on continuous learning, skill development, or the professional principles associated with competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:58:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal quiz related to digital engagement and does not discuss Continuous Improvement principles, methodologies, or practices. There are no direct mentions or relevant themes that align with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:58:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a quiz related to digital engagement and personal ranking, with no explicit discussion of Agentic Agility or its principles. It lacks any mention of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category.",
     "level": "Ignored"
   }
 }

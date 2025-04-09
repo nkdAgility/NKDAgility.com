@@ -1138,11 +1138,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:09:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:02:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a specific error related to TFS integration and path lengths, without any mention of Test First Development or related testing practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a specific error related to path length in TFS Integration Tools and provides solutions for resolving that error. It does not mention Test First Development, its principles, or any related practices. The focus is on practical troubleshooting rather than any testing methodologies or development practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1225,11 +1228,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:09:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:02:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses a technical issue related to TFS Integration Tools, not related to the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a technical issue related to TFS Integration Tools and does not mention the role or responsibilities of a Scrum Master. There is no discussion of Scrum principles, team dynamics, or any related topics that would align with the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1500,6 +1506,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on resolving a specific technical error related to path length in TFS Integration Tools. While it discusses practical solutions and manual interventions, it does not explicitly address the concept of competence or continuous skill development. The discussion lacks depth in relation to the principles of professionalism and quality delivery, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:02:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical error related to path length in TFS Integration Tools. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The content lacks any mention of intentional shaping of outcomes, adaptability, or alignment with values, which are core to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

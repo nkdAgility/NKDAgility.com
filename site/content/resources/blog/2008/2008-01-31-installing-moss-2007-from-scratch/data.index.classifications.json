@@ -160,20 +160,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:47:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:07:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server and related technical details, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Microsoft Office SharePoint Server 2007, with no direct mentions or discussions related to Evidence-Based Management principles or metrics. It lacks any alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and provides minimal depth on any relevant topics.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:47:29",
+    "calculated_at": "2025-04-08T20:07:03",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
     "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server and related technical details, with no reference to Agile principles or the Agile Product Operating Model.",
+    "reasoning": "The content focuses entirely on the installation process of Microsoft Office SharePoint Server 2007, with no references to agile methodologies, product management principles, or the Agile Product Operating Model. It does not discuss any relevant topics such as transitioning from project to product ethos, operational stability, or continuous improvement, which are core to the category.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -313,11 +319,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:47:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:06:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the installation process of Microsoft Office SharePoint Server and related technologies, without discussing DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation process of Microsoft Office SharePoint Server 2007, detailing technical steps and configurations. While it touches on aspects of infrastructure management, it does not engage with the core principles of DevOps such as collaboration, automation, or continuous improvement. The discussion lacks any significant mention of DevOps philosophy or practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -697,11 +706,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:00:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:07:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of Microsoft Office SharePoint Server (MOSS) and related software, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Microsoft Office SharePoint Server 2007, detailing steps and configurations without discussing Continuous Delivery principles, practices, or benefits. There are no direct mentions of Continuous Delivery, and the content does not align with the core themes such as automation, incremental improvements, or rapid feedback. The depth of discussion is limited to installation specifics, which are unrelated to Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1339,11 +1351,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:00:40",
+    "calculated_at": "2025-04-08T20:07:06",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses technical installation processes for MOSS and SharePoint, without any relevance to Scrum Master roles or responsibilities.",
+    "reasoning": "The content focuses entirely on the installation process of Microsoft Office SharePoint Server 2007 and does not mention the role or responsibilities of a Scrum Master, nor does it discuss any Scrum-related concepts or practices. Therefore, it does not align with the category of Scrum Master in any meaningful way.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1366,11 +1381,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:00:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:07:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server and related systems, with no mention of test-driven development or test-first practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation process of Microsoft Office SharePoint Server 2007, detailing steps and configurations without any reference to Test First Development principles, success criteria, or testing practices. There is no discussion of automated or manual testing, nor any mention of collaboration among development roles, which are core to the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1434,6 +1452,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation process of Microsoft Office SharePoint Server (MOSS) and related components. It does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any case studies or tools related to Shift-Left practices. The content is largely technical and procedural, lacking any alignment with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:06:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Microsoft Office SharePoint Server 2007, with no explicit discussion of Common Goals or their significance in Agile or DevOps frameworks. While there are mentions of project management tools like TFS, they are not connected to the concept of aligning strategy with execution or shared objectives. The content lacks depth and relevance to the category, making it unsuitable for classification under Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:06:55",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Microsoft Office SharePoint Server 2007, with no explicit discussion of competence, continuous learning, or skill development. While it touches on the need for certain prerequisites and configurations, it does not delve into the broader themes of competence as defined in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:06:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Microsoft Office SharePoint Server 2007, with no discussions or reflections on Continuous Improvement principles. It lacks any mention of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning, which are essential for the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:07:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Microsoft Office SharePoint Server 2007, with no explicit discussion of Agentic Agility or its principles. While there are mentions of planning and execution, these do not align with the core themes of intentionality, autonomy, or adaptability as defined in the category. The content lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }
 }

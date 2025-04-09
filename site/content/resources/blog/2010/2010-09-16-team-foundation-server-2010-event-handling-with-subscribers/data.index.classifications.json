@@ -1147,11 +1147,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:46:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:19:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily focuses on Team Foundation Server event handling and does not discuss Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on event handling in Team Foundation Server (TFS) 2010, discussing the implementation of event subscribers and the technical details of handling events. There is no mention of Test First Development principles, success criteria, or testing practices. The content does not align with the core themes of Test First Development, and the depth of discussion is limited to TFS event handling without any reference to testing methodologies.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1234,11 +1237,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:46:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:19:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on event handling in Team Foundation Server and does not discuss Scrum roles, responsibilities, or practices related to a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on event handling in Team Foundation Server (TFS) 2010, with no direct mention of Scrum Master responsibilities or related concepts. While it discusses technical aspects of TFS, it does not align with the core themes of the Scrum Master role, such as coaching, facilitating, or promoting agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1515,6 +1521,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on technical implementation details of event handling in TFS 2010, with no explicit discussion on competence, continuous learning, or skill development. While it touches on the importance of understanding TFS and its event handling capabilities, it lacks a direct connection to the principles of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:19:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of event handling in Team Foundation Server 2010, with no explicit discussion of Agentic Agility or its principles. While there are mentions of decision points and event processing, these do not align with the core themes of intentional shaping of outcomes or the distinction between human and AI capabilities in agility.",
     "level": "Ignored"
   }
 }

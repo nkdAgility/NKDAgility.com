@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:18:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:50:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical instructions for modifying HTC Touch settings, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on technical instructions for modifying a mobile device's weather display and does not discuss Evidence-Based Management or its principles. There are no mentions of data-informed decision-making or metrics relevant to EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:18:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:50:21",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical instructions for modifying HTC Touch settings, with no relevance to Agile principles or product operating models.",
+    "reasoning": "The content focuses entirely on technical instructions for modifying a mobile device's weather application, with no references to agile methodologies, product management principles, or the Agile Product Operating Model. It does not discuss any relevant themes or concepts related to the category.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:19:02",
+    "calculated_at": "2025-04-08T20:50:09",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses HTC Touch and Black Shadow Weather, with no relevance to DevOps principles or practices.",
+    "reasoning": "The content focuses entirely on customizing a mobile device's weather application and does not discuss any principles, practices, or cultural shifts related to DevOps. There are no mentions of collaboration, automation, or shared accountability, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -691,11 +700,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T22:09:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:50:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical instructions for configuring weather settings on HTC Touch devices, which is unrelated to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on customising a mobile device's weather application through registry hacks, which is unrelated to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion does not align with any of the key topics outlined for this category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1327,11 +1339,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T22:09:58",
+    "calculated_at": "2025-04-08T20:50:24",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is about technical details and personal experiences with HTC Touch, unrelated to Scrum Master roles or responsibilities.",
+    "reasoning": "The content is entirely focused on technical instructions for modifying a mobile device's weather settings and does not mention or relate to the role, responsibilities, or impact of a Scrum Master in any way.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1354,11 +1369,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T22:09:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:50:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses specific technical instructions for modifying weather settings on HTC devices, not related to Test First Development or TDD.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on modifying a mobile device for weather display and does not discuss any principles or practices related to Test First Development. There are no mentions of success criteria, testing methodologies, or any relevant concepts that align with the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1422,6 +1440,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content is focused on technical instructions for modifying settings on the HTC Touch device and does not discuss any aspects of the Shift-Left Strategy in software development. There are no mentions of testing, security, or compliance processes, nor any alignment with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:50:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on technical instructions for modifying a mobile device's weather display and does not discuss or relate to the concept of Common Goals in Agile or DevOps. There are no mentions of shared objectives, alignment, or strategic goals, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:50:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on technical instructions for modifying a mobile device's settings and does not discuss competence, continuous learning, or any related themes. It lacks any mention of professional development or quality delivery.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:50:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for modifying a mobile device's settings and does not discuss Continuous Improvement principles or practices. There are no direct mentions of Continuous Improvement, nor does it align with the core themes such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is limited to practical hacks without any strategic or reflective elements related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:50:19",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content focuses on technical instructions for modifying a mobile device's weather display and does not discuss Agentic Agility or its principles in any capacity.",
     "level": "Ignored"
   }
 }

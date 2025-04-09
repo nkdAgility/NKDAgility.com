@@ -1210,11 +1210,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T18:53:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:32:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses organisational agility and change management, with no clear focus on Test First Development or related testing practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses organisational agility and change management, with a focus on frameworks like Scrum. It does not explicitly mention Test First Development or its principles, nor does it delve into testing practices, automated testing, or the role of success criteria in software delivery. The discussion is more about organisational processes and culture rather than the specific practices of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1291,12 +1294,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T17:32:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles and the role of Scrum Masters in facilitating organisational change, but it primarily focuses on broader organisational agility rather than the specific responsibilities and practices of a Scrum Master.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses organisational agility and the role of Scrum in achieving it, which aligns with the responsibilities of a Scrum Master. However, while it mentions Scrum and its principles, the primary focus is on broader organisational change rather than the specific role and responsibilities of a Scrum Master. The depth of discussion on Scrum Master techniques and influence is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1584,6 +1590,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses organisational agility and the use of Scrum as a framework for change, which deviates from the core principles of the One Engineering System. While there are some mentions of frameworks and processes, the focus is on tailored approaches rather than the standardisation and integration of engineering practices across teams as outlined in the 1ES definition.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:32:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses organisational agility and the need for tailored approaches, which aligns with the concept of Agentic Agility. However, it primarily focuses on general agile practices and frameworks like Scrum without explicitly addressing the intentional shaping of outcomes or the distinction between human and AI capabilities. The depth of discussion on the mechanisms of Agentic Agility is limited, leading to a moderate confidence score.",
     "level": "Ignored"
   }
 }

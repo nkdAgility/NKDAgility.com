@@ -34,12 +34,12 @@ tags:
 - People and Process
 - Personal
 - Competence
+- Scrum Master
 - Continuous Learning
 - Agile Product Management
 - Value Delivery
 - Agile Frameworks
 - Professional Scrum
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

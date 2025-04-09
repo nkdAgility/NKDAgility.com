@@ -523,11 +523,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T02:01:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:27:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses motivation, purpose, and organisational culture, with no clear focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses motivation and purpose within Agile practices, with no direct mention of Test First Development principles or practices. While it touches on Agile methodologies, it does not align with the core themes of Test First Development, such as success criteria, testing practices, or the transition from manual to automated testing. The discussion lacks depth regarding the specific practices and benefits of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -868,11 +871,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T02:02:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses motivation and purpose in the workplace without a clear focus on the Scrum Master role or responsibilities.",
+    "calculated_at": "2025-04-08T16:27:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of motivation and purpose in Agile practices, which is relevant to the Scrum Master role. However, it does not explicitly focus on the responsibilities or techniques specific to Scrum Masters, nor does it delve deeply into their impact on team dynamics or organisational change. The mention of Agile teams and leadership in cultivating purpose provides some alignment, but the overall discussion is more general and does not centre on the Scrum Master role specifically.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1602,6 +1608,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the concept of motivation within Agile and Scrum frameworks, discussing intrinsic motivators and leadership roles in fostering purpose. While it touches on Agile practices, it does not explicitly mention or align with the principles of the One Engineering System, which is centred on standardising and integrating software development practices across teams. The discussion lacks depth regarding 1ES and does not provide insights into its implementation or impact.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:27:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of purpose and intrinsic motivation in Agile practices, which aligns with the principles of Agentic Agility. However, it primarily focuses on motivation rather than explicitly addressing the intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion lacks depth in exploring the mechanisms of Agentic Agility and does not provide specific examples or case studies related to the category.",
     "level": "Ignored"
   }
 }

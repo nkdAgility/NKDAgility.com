@@ -38,6 +38,7 @@ tags:
 - People and Process
 - Scrum Product Development
 - Professional Scrum
+- Scrum Master
 - Agile Frameworks
 - Pragmatic Thinking
 resourceTypes:

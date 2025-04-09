@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T23:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational challenges and management structures in Agile environments, without any focus on Test First Development or related testing practices.",
+    "calculated_at": "2025-04-08T16:27:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses resource scarcity in Agile organisations and does not mention Test First Development or its principles. It focuses on empowerment, trust, and budgetary strategies rather than testing practices or success criteria, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -862,11 +865,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T23:36:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:27:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses general issues within Agile organisations without a specific focus on the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content discusses resource scarcity in Agile organisations but does not explicitly mention the role of the Scrum Master or their responsibilities. While it touches on themes of empowerment and trust, which are relevant to Scrum, it lacks a direct focus on the Scrum Master's role or their impact on team dynamics and organisational change.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1602,6 +1608,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses resource scarcity in Agile organisations and does not directly address the principles or components of the One Engineering System. While it touches on themes of empowerment and resource allocation, it lacks a focus on the integration and standardisation of engineering processes, which are central to 1ES. The discussion is more aligned with Agile methodologies rather than the specific framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:27:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of empowerment and trust within Agile organisations, which aligns with the principles of Agentic Agility. However, it lacks direct mentions of the category and does not differentiate between human and AI capabilities. The focus is more on overcoming resource scarcity rather than the intentional shaping of outcomes, leading to a lower confidence score.",
     "level": "Ignored"
   }
 }

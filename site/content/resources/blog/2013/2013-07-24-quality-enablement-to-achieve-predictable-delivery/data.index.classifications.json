@@ -1204,12 +1204,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T17:54:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses quality assurance practices and mentions the importance of acceptance criteria and automated tests, which are related to Test First Development but are not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 73.0,
+    "reasoning": "The content discusses the importance of defining quality and acceptance criteria, which aligns with Test First Development principles. However, it lacks a direct focus on Test First practices like TDD or ATDD, and while it mentions automated testing, it does not delve deeply into the specifics of Test First methodologies. The overall emphasis is more on quality enablement and predictability rather than a thorough exploration of Test First Development.",
+    "level": "Secondary"
   },
   "Windows": {
     "category": "Windows",
@@ -1285,11 +1288,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:06:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:54:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses quality in software delivery and does not focus specifically on the role or responsibilities of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses quality enablement and its impact on predictable software delivery, touching on concepts like Definition of Done and Acceptance Criteria, which are relevant to Scrum practices. However, it does not explicitly focus on the role of the Scrum Master or their responsibilities, making it more of a secondary mention rather than a primary focus. The depth of discussion on Scrum-related practices is present, but the overall emphasis is on quality and delivery rather than the Scrum Master’s role in facilitating these processes.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1576,5 +1582,17 @@
     "final_score": 70.0,
     "reasoning": "The content discusses the importance of quality enablement in achieving predictable software delivery, which directly relates to competence in Agile and DevOps. It highlights the need for clear definitions of quality, such as the Definition of Done and Acceptance Criteria, which are essential for maintaining trust and delivering quality outcomes. The depth of discussion on strategies to improve quality and the impact of competence on delivery timelines further supports its alignment with the category. However, while competence is a significant theme, the primary focus is on quality enablement rather than competence itself, which slightly lowers the confidence score.",
     "level": "Secondary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:54:37",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on quality enablement and predictable software delivery, discussing strategies to improve development processes. While it touches on aspects of accountability and the need for clear definitions (like Definition of Done and Acceptance Criteria), it does not explicitly address the concept of Agentic Agility or the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth in exploring the interplay between human and AI capabilities, which is central to the category.",
+    "level": "Ignored"
   }
 }

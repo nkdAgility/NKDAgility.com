@@ -508,11 +508,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:33:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum Master roles, responsibilities, or related themes and focuses instead on general organizational fit and training.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on health, perspective, and innovation in the tech industry, with no direct mention of Scrum Master responsibilities or related concepts. While it touches on leadership and team dynamics, it does not align with the core themes of the Scrum Master role, such as facilitating Scrum processes or promoting agile principles.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -916,11 +919,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:33:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Test First Development or related principles; it focuses on organizational fit and trainer selection.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses health, perspective, and innovation in the tech industry, with no direct mention or alignment to Test First Development principles. It lacks any discussion on testing practices, success criteria, or related methodologies.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1470,6 +1476,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on personal insights related to health, perspective, and innovation in the tech industry, without any direct mention or discussion of the One Engineering System framework or its principles. While it touches on themes of connection and leadership, these are not aligned with the core topics of 1ES, such as standardisation and integration of software development practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:33:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses themes of health, perspective, and connection in the tech industry, but it does not explicitly mention Agentic Agility or its principles. While there are elements of adaptability and fostering innovation, the focus is more on personal growth and leadership rather than the intentional shaping of outcomes through agency. The depth of discussion on related concepts is moderate, but it lacks a clear connection to the specific category of Agentic Agility.",
     "level": "Ignored"
   }
 }

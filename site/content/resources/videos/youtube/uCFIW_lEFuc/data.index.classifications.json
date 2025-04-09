@@ -406,14 +406,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T21:27:41",
-    "ai_confidence": 62.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
+    "calculated_at": "2025-04-08T16:26:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses Agile practices and identifies signs of sloth that can hinder Agile effectiveness. While it does not explicitly mention the role of the Scrum Master, it touches on themes relevant to Scrum, such as team empowerment, feedback loops, and the importance of delivering working software. However, it lacks a direct focus on the Scrum Master's responsibilities or practices, which limits its alignment with the category.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses Agile practices and the signs of sloth within Agile teams, which indirectly relates to the role of a Scrum Master in fostering effective Agile practices. However, it does not explicitly mention the Scrum Master role or its specific responsibilities. The discussion aligns with the importance of team empowerment and continuous improvement, which are relevant to a Scrum Master's influence, but lacks depth in exploring the Scrum Master's specific contributions or techniques. Overall, while the content is relevant to Agile, it does not focus primarily on the Scrum Master role.",
     "level": "Tertiary"
   },
   "Agile Planning": {
@@ -451,11 +451,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on identifying issues within Agile teams and discusses general Agile practices without any specific mention of Test First Development or related testing methodologies.",
+    "calculated_at": "2025-04-08T16:26:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses signs of sloth in Agile practices without any direct mention of Test First Development principles or practices. While it touches on Agile concepts, it does not align with the core themes of Test First Development, such as defining success criteria or the role of testing in the development process. The depth of discussion is minimal regarding Test First Development, focusing instead on broader Agile issues.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1602,6 +1605,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Agile practices and the concept of sloth within Agile teams, without any direct mention or focus on the One Engineering System (1ES). While it touches on themes of efficiency and team empowerment, it does not align with the core principles of 1ES, such as standardisation and integration of software development practices across teams. The discussion is more about Agile methodology rather than the integration of tools and processes that 1ES advocates.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:26:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile practices and the signs of sloth within teams, but it primarily focuses on general Agile principles rather than the specific concept of Agentic Agility. While there are mentions of empowerment and adaptability, the discussion lacks depth in exploring the intentional shaping of outcomes and does not differentiate between human and AI capabilities. The content does not engage with the core themes of Agentic Agility, such as accountability, reflection, or the interplay between human judgement and AI logic.",
     "level": "Ignored"
   }
 }

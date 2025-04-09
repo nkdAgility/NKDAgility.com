@@ -526,11 +526,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T15:38:13",
-    "ai_confidence": 75,
+    "calculated_at": "2025-04-08T17:35:12",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "The content discusses several aspects related to the role of a Scrum Master, such as facilitating Scrum values, team dynamics, and Scrum ceremonies in a unique learning environment using Minecraft. However, it also broadly covers Scrum fundamentals and Agile principles without focusing exclusively on the Scrum Master role, making it a secondary theme.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of Scrum Masters and their importance in a Scrum Team context, particularly in relation to the course's objectives. It mentions Scrum Masters explicitly and outlines skills and practices relevant to the role. However, while it covers various aspects of Scrum, the focus is more on the course structure and learning outcomes rather than an in-depth exploration of the Scrum Master's responsibilities or impact on organisational change.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -931,11 +934,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T15:38:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:35:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum and Agile methodologies, without discussing Test First Development or its principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum principles and Agile methodologies, with no explicit mention of Test First Development or its practices. While it discusses Agile and Scrum, it does not address success criteria, testing practices, or the importance of defining tests before implementation, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum and Agile methodologies, with no direct mention of the One Engineering System (1ES). While it discusses principles of Agile and Scrum, it does not align with the core themes of 1ES, such as integration of tools and processes across teams or the standardisation of engineering practices. The depth of discussion is centred around Scrum training rather than the broader framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:35:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices and Agile methodologies, with no explicit discussion of Agentic Agility or its principles. While it mentions agility and adaptability, it does not delve into the intentional shaping of outcomes or the distinction between human and AI capabilities. The depth of discussion is limited to Scrum training and does not explore the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

@@ -1117,11 +1117,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:31:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:06:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses an issue related to user mapping in a VSS to TFS import process, which is unrelated to Test First Development or any testing practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily addresses issues related to VSS to TFS import errors and user mapping problems, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any alignment with the core themes of Test First Development, focusing instead on troubleshooting and technical guidance unrelated to testing methodologies.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1204,11 +1207,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:31:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:06:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a technical issue related to VSS and TFS import process, which is not relevant to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical issues related to VSS to TFS migration and does not mention the Scrum Master role or any related responsibilities, skills, or concepts. There is no discussion of Scrum principles, team dynamics, or organisational change, which are central to the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on resolving specific technical issues related to VSS to TFS import errors. While it touches on user mapping and permissions, it does not explicitly discuss competence, continuous learning, or skill development. The mention of user permissions could be loosely related to competence in terms of ensuring proper access, but it lacks depth and does not align with the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:06:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving specific technical issues related to VSS to TFS import errors, with no discussion of Agentic Agility principles, intent, or the interplay between human and AI capabilities. It lacks any mention of autonomy, adaptability, or value alignment, which are central to the category.",
     "level": "Ignored"
   }
 }

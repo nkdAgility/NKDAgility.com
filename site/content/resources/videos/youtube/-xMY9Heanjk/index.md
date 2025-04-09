@@ -37,7 +37,7 @@ tags:
 - Team Performance
 - Pragmatic Thinking
 - Scrum Product Development
-- Scrum Team
+- Scrum Master
 resourceTypes:
 - video
 layout: video

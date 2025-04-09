@@ -187,11 +187,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:36:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner and the responsibilities of the Scrum Master in Agile teams, with no mention of Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:24:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the challenges faced by Scrum Masters in dealing with ineffective Product Owners, focusing on collaboration and relationship-building rather than on Test First Development principles. There are no direct mentions of success criteria, testing practices, or the importance of testing in the development process, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -658,14 +661,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-13T15:11:24",
+    "calculated_at": "2025-04-08T16:24:57",
     "ai_confidence": 82.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 36,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
     "final_score": 76.0,
-    "reasoning": "The content primarily focuses on the role of the Scrum Master in addressing the challenges posed by an ineffective Product Owner. It discusses specific responsibilities of the Scrum Master, such as facilitating conversations, building relationships, and educating the organisation, which aligns closely with the core themes of the category. The depth of discussion is substantial, providing actionable steps and insights into the Scrum Master's role in supporting the team and the Product Owner. Overall, the content is highly relevant to the Scrum Master category.",
+    "reasoning": "The content primarily focuses on the role of the Scrum Master in addressing the challenges posed by an ineffective Product Owner. It explicitly discusses the responsibilities of the Scrum Master, including supporting the Product Owner, facilitating conversations, and educating the organisation. The depth of discussion is significant, providing actionable strategies and insights into the Scrum Master's influence on team dynamics and organisational change. Overall, the content aligns well with the key topics of the Scrum Master category.",
     "level": "Secondary"
   },
   "Enterprise Agility": {
@@ -1599,6 +1602,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the challenges faced by Scrum Masters in dealing with ineffective Product Owners within Agile teams. While it touches on collaboration and team dynamics, it does not explicitly discuss the One Engineering System framework, its principles, or its implementation. The discussion is centred around Agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:24:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the challenges faced by Scrum Masters in dealing with ineffective Product Owners, focusing on strategies for support and relationship-building. While it touches on themes of empowerment and organisational dynamics, it lacks a direct discussion of Agentic Agility principles such as intentional shaping of outcomes or the distinction between human and AI capabilities. The content is more aligned with general Agile practices rather than the specific concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

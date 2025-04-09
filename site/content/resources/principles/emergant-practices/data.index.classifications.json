@@ -469,11 +469,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T21:01:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:44:44",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Test First Development or related principles; it focuses on general processes and practices without specific reference to TDD or testing methodologies.",
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention Test First Development or its principles. It discusses the emergence of processes and practices but lacks any direct reference to success criteria, testing methodologies, or the importance of testing in software development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -793,11 +796,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T21:02:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:44:42",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not specifically address the role or responsibilities of a Scrum Master, nor does it discuss Scrum practices or ceremonies in detail.",
+    "final_score": 14.0,
+    "reasoning": "The content briefly touches on the emergence of practices and tools, which could relate to the Scrum Master's role in facilitating processes. However, it lacks explicit mentions of the Scrum Master, their responsibilities, or any detailed discussion on Scrum principles, making it only tangentially relevant.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1476,6 +1482,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content briefly touches on processes and practices but lacks explicit mention of the One Engineering System framework or its principles. It does not provide sufficient detail or alignment with the core themes of 1ES, such as integration, standardisation, or best practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:44:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content briefly touches on the emergence of practices and tools but lacks explicit discussion on Agentic Agility, its principles, or the intentional shaping of outcomes. It does not differentiate between human and AI capabilities or provide depth on the core themes of the category.",
     "level": "Ignored"
   }
 }

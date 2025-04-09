@@ -1312,11 +1312,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T13:54:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:54:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses user understanding and collaboration rather than Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on understanding user needs and collaboration rather than discussing Test First Development principles. While it touches on the importance of data-driven decisions and stakeholder engagement, it does not explicitly mention Test First practices, success criteria, or testing methodologies, which are central to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1378,11 +1381,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:54:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:54:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses user understanding and collaboration without focusing on the Scrum Master role or related responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses user understanding and collaboration, which are relevant to Scrum principles, but it does not explicitly mention the role of a Scrum Master or delve into Scrum-specific practices. The focus is more on user needs and stakeholder engagement rather than the responsibilities and impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1539,6 +1545,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on understanding user needs and collaboration in software development, which does not directly address the principles or components of the One Engineering System. While it touches on collaboration, it lacks specific discussions on integration of tools, processes, or methodologies that are central to 1ES. Therefore, the confidence score reflects a minimal connection to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:54:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses user understanding and the importance of data-driven decisions, which aligns with the principles of Agentic Agility. However, it lacks explicit mentions of the category and does not differentiate between human and AI capabilities in the context of agility. The focus is more on user feedback and collaboration rather than on intentional shaping of outcomes through agency.",
     "level": "Ignored"
   }
 }

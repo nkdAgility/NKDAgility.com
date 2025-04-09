@@ -154,20 +154,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:43:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:37:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses search engines and user interface experiences, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the features and user experience of search engines, specifically Tafiti and Search Crystal, without any reference to Evidence-Based Management principles or metrics. There are no mentions of data-informed decision-making, current value, or any other key topics related to EBM. The focus is on subjective opinions about visual interfaces rather than empirical evidence.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:43:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:37:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses search engines and user interface experiences, with no clear relation to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the evolution of search engines and user interface experiences, with no direct mention or alignment to the Agile Product Operating Model. It lacks any discussion on agile methodologies, product management principles, or related topics outlined in the category description.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -307,11 +313,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:43:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:37:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses search engines and user interface experiences, with no relevance to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the evolution of search engines and their interfaces, with no direct mention of DevOps principles, practices, or cultural shifts. It lacks any alignment with the core themes of DevOps, such as collaboration, automation, or shared accountability. The depth of discussion is focused on user experience and visual design rather than any aspect of DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -685,11 +694,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:08:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:37:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on search engines and visual search interfaces, with no relevant discussion about Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the evolution of search engines and user interface experiences, with no direct mention or alignment to Continuous Delivery principles, practices, or discussions. It lacks any depth related to software delivery practices, automation, or user feedback mechanisms that are central to Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1315,11 +1327,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:08:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:37:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses search engines and user interfaces, with no relation to Scrum, Scrum Master roles, or Agile methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the evolution of search engines and does not mention the role or responsibilities of a Scrum Master. There is no alignment with the core themes of the category, and the discussion lacks any depth related to Scrum or agile principles.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1342,11 +1357,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:08:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:37:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses search engines and their interfaces, with no mention or relevance to Test First Development or Agile practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the evolution of search engines and user interface experiences, with no direct mention or alignment to Test First Development principles. It lacks any discussion on testing practices, success criteria, or related methodologies.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1410,6 +1428,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses search engines and user interface experiences, with no mention or alignment to the Shift-Left Strategy in software development.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:37:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the features and user experience of search engines, specifically Tafiti and Search Crystal, without any reference to Common Goals, Agile, or DevOps principles. It lacks any discussion on shared objectives or alignment within teams, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:37:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the features and usability of search engines, with no direct mention of competence or related themes such as continuous learning, skill development, or professionalism. The focus is on user experience rather than the development of capabilities or quality outcomes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:37:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the comparison of two search engines and their interfaces, lacking any discussion on Continuous Improvement principles or practices. There are no direct mentions of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation, which are key topics in the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:37:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the evolution of search engines and user interface experiences, with no explicit mention of Agentic Agility or its principles. It lacks alignment with the core themes of intentionality, adaptability, or the interplay between human and AI capabilities. The discussion is superficial and does not delve into the transformative capacity of individuals or systems, resulting in a very low confidence score.",
     "level": "Ignored"
   }
 }

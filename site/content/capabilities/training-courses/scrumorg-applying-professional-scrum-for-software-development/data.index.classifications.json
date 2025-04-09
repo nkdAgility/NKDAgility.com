@@ -361,11 +361,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T00:22:56",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of Scrum Masters within a Scrum Team context, highlighting the importance of collaboration and teamwork, but it primarily focuses on a training course rather than the specific responsibilities and practices of a Scrum Master.",
+    "calculated_at": "2025-04-08T17:35:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on a course for mastering Scrum in software development, which includes practical application and certification. While it mentions Scrum and its principles, it does not explicitly discuss the role of the Scrum Master or their responsibilities. The content aligns with the Scrum framework but lacks depth in exploring the specific impact and responsibilities of a Scrum Master, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Planning": {
@@ -397,12 +400,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T00:23:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T17:35:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Test-Driven Development (TDD) as part of the course objectives and outcomes, indicating that it is a significant theme within the broader context of Scrum and Agile practices.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile methodologies without explicitly discussing Test First Development principles. While it mentions hands-on experience and practical application, it lacks direct references to success criteria, testing practices, or the importance of automated testing, which are central to Test First Development.",
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the Scrum framework and its application in software development, which is not aligned with the One Engineering System (1ES) principles. While it mentions Agile and DevOps practices, it does not discuss the integration or standardisation of engineering processes, nor does it provide insights into the 1ES framework or its components.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:34:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a Scrum course for software development, discussing Scrum roles and practices without addressing the intentional shaping of outcomes or the principles of Agentic Agility. There are no explicit mentions of agency, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T04:48:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of Agile consultants and coaches in Scrum teams, focusing on technical understanding and coaching rather than Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T16:48:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the roles of Agile consultants versus professional coaches in Scrum teams, with no direct mention of Test First Development principles or practices. While it touches on the importance of understanding processes and practices, it does not align with the core themes of Test First Development, such as defining success criteria or the specifics of testing methodologies. The discussion lacks depth regarding Test First practices, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -862,14 +865,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T23:19:25",
+    "calculated_at": "2025-04-08T16:48:33",
     "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 10,
     "final_score": 57.0,
-    "reasoning": "The content discusses the role of Agile consultants versus professional coaches in the context of Scrum teams, which indirectly relates to the Scrum Master role. However, it lacks direct mentions of Scrum Master responsibilities and does not delve deeply into Scrum practices or ceremonies. The focus is more on the technical aspects and the need for understanding within teams rather than on the Scrum Master's facilitative role.",
+    "reasoning": "The content discusses the role of Agile consultants in relation to Scrum teams, which indirectly touches on the responsibilities of a Scrum Master. However, it primarily focuses on the comparison between Agile consultants and professional coaches rather than the Scrum Master's specific role. While there are mentions of Scrum and Agile principles, the depth of discussion on the Scrum Master’s responsibilities and impact is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -1596,6 +1599,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the benefits of Agile consultants over professional coaches in the context of Scrum teams. It does not mention the One Engineering System (1ES) framework, nor does it address its principles, components, or implementation. The focus is on Scrum methodology rather than the integration and standardisation of engineering processes, which is central to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:48:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the roles of Agile consultants versus professional coaches in Scrum teams, focusing on technical understanding and mentoring rather than on the intentional shaping of outcomes or the principles of Agentic Agility. There are no direct mentions of Agentic Agility, and the discussion lacks depth in exploring the core themes of autonomy, adaptability, and alignment with value.",
     "level": "Ignored"
   }
 }

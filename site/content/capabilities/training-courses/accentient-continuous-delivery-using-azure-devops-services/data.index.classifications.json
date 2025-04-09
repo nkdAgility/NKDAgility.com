@@ -361,11 +361,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:31:25",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Continuous Delivery using Azure DevOps Services, with only a brief mention of Scrum in context with prerequisites.",
+    "final_score": 9.0,
+    "reasoning": "The content does not mention the Scrum Master role or its responsibilities. It lacks any discussion on Scrum principles, techniques, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -397,11 +400,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Continuous Delivery and DevOps principles, with no specific focus on Test First Development or its practices.",
+    "calculated_at": "2025-04-08T17:31:27",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention Test First Development or its principles. It lacks any discussion on success criteria, testing practices, or related topics, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content does not explicitly mention the One Engineering System or its principles. It lacks any discussion on integration, standardisation, or best practices related to 1ES, focusing instead on a general training resource without specific details. Therefore, it does not align with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:31:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content does not mention Agentic Agility or its principles, nor does it discuss any related concepts. It appears to be a request for information about a training resource, lacking any substantive discussion on the intentional shaping of outcomes or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

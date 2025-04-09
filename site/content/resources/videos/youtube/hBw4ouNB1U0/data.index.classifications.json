@@ -1384,11 +1384,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T13:53:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:52:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on improving workflow through metrics and visualisation, without any discussion on Test First Development or related testing practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on continuous improvement through metrics and visualisation, which does not directly relate to Test First Development principles. While it discusses the importance of data and workflow enhancement, it lacks explicit references to success criteria, testing practices, or the Test First approach. Therefore, the confidence score reflects minimal relevance to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1450,11 +1453,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:53:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:52:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses workflow improvement and metrics in a general context, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses continuous improvement and the use of metrics and visualisation, which are relevant to Scrum principles. However, it does not explicitly mention the role of the Scrum Master or their responsibilities. The focus is more on general workflow improvement rather than the specific impact of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1611,6 +1617,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses continuous improvement and the use of metrics and visualisation, which are relevant to software development practices. However, it does not explicitly mention the One Engineering System (1ES) or its principles. The focus is more on the Caman framework rather than the integration and standardisation of engineering processes as outlined in the 1ES category. Therefore, while there are some relevant themes, the primary focus is not on 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:52:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses continuous improvement and the use of metrics and visualisation, which aligns with the concept of adaptability and intentional shaping of outcomes. However, it lacks explicit references to Agentic Agility, does not differentiate between human and AI capabilities, and does not delve deeply into the principles or mechanisms of Agentic Agility. The focus is more on general workflow improvement rather than the specific transformative capacity of individuals and systems.",
     "level": "Ignored"
   }
 }

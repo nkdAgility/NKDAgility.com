@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T05:06:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile practices and the challenges of achieving high-quality software delivery, but does not focus on Test First Development or the principles of writing tests before code.",
+    "calculated_at": "2025-04-08T15:54:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses Agile practices and the importance of quality and continuous delivery, which are relevant to Test First Development. However, it does not explicitly focus on Test First principles or practices like TDD or ATDD. The mention of automated testing is present but not in the context of Test First Development, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -871,11 +874,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T05:07:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:54:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile practices and challenges without a specific focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile practices and the importance of a fully Agile ecosystem, but it does not specifically address the role or responsibilities of a Scrum Master. While it touches on concepts relevant to Agile methodologies, it lacks a direct focus on the Scrum Master role, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1614,6 +1620,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily discusses Agile practices and the challenges of achieving true agility within an organisation, particularly in relation to the Department of Defense's insights. While it touches on themes of integration and quality, it does not explicitly mention the One Engineering System framework or its principles. The focus is more on Agile methodologies rather than the standardisation and integration of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:54:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile practices and the importance of a fully Agile ecosystem, but it does not explicitly address the concept of Agentic Agility or the intentional shaping of outcomes. While it touches on themes of continuous delivery and quality, it lacks a clear distinction between human and AI capabilities, and does not delve into the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

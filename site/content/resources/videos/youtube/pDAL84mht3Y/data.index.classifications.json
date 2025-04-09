@@ -187,11 +187,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:35:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:23:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses general agility and the need for adaptability in processes, but does not focus on Test First Development or its principles.",
+    "final_score": 11.0,
+    "reasoning": "The content discusses agility and the dangers of rigidity in processes but does not mention Test First Development or its principles. It focuses on adaptability and innovation rather than the specific practices of defining success criteria or testing methodologies.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -637,12 +640,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:35:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:23:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses general Agile concepts without a clear focus on the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of adaptability and continuous improvement, which are key themes in the Scrum Master role. However, it does not explicitly mention the Scrum Master or their specific responsibilities, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -1557,6 +1563,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses agility and the dangers of rigidity in processes, which is somewhat related to the principles of the One Engineering System. However, it primarily focuses on Agile methodologies rather than the specific integration and standardisation of engineering practices that 1ES emphasises. There are no direct mentions of 1ES, and while it touches on themes of adaptability and continuous improvement, it lacks depth in discussing the framework or its components.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:23:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of adaptability and innovation within Agile teams, which aligns with the principles of Agentic Agility. However, it primarily focuses on overcoming rigidity in Agile practices rather than explicitly addressing the intentional shaping of outcomes or differentiating between human and AI capabilities. The discussion lacks depth in exploring the mechanisms of Agentic Agility and does not provide specific examples or case studies, leading to a moderate confidence score.",
     "level": "Ignored"
   }
 }

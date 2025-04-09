@@ -1165,11 +1165,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T15:12:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:58:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to Project Server and Team Foundation Server, with no focus on Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses an error related to Project Server and Team Foundation Server integration, focusing on field mappings and Scrum process templates. It does not mention Test First Development principles, success criteria, or testing practices, which are central to the category. The discussion is more about resolving a specific technical issue rather than exploring the concepts of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1249,11 +1252,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T15:13:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:58:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Project Server and Team Foundation Server, with only a brief mention of Scrum process templates.",
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Scrum in the context of the Visual Studio Scrum Process Template, but it primarily focuses on a technical issue related to Project Server and Team Foundation Server integration. While there is some alignment with Scrum concepts, such as work item types, the discussion lacks depth regarding the role and responsibilities of a Scrum Master, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1530,6 +1536,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on resolving a specific technical issue related to Project Server and Team Foundation Server integration. While it touches on the importance of certain work item fields for functionality, it does not explicitly discuss competence, continuous learning, or skill development. The mention of Scrum is limited to the context of a technical solution rather than a broader discussion on competence in Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:58:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to Project Server and Team Foundation Server integration. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The content lacks any mention of intentional shaping of outcomes, adaptability, or the interplay between human judgement and AI logic, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -1201,11 +1201,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T08:56:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:34:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses primarily on discussing Agile and Scrum process templates, without any mention of Test First Development or related testing practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the selection of process templates for agile teams, particularly focusing on the Scrum template. While it touches on aspects of agile methodologies, it does not explicitly address Test First Development principles, success criteria, or testing practices. The discussion lacks depth in relation to Test First Development, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1282,14 +1285,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T03:47:12",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
+    "calculated_at": "2025-04-08T17:34:38",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the Scrum template in detail, highlighting its advantages over other templates and how it can be customised for agile teams. However, it primarily focuses on the technical aspects of process templates rather than the role and responsibilities of a Scrum Master. While there are mentions of Scrum, the discussion lacks depth in exploring the Scrum Master's role in facilitating teams or coaching, which is essential for a higher confidence score in this category.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the Scrum template in detail, highlighting its advantages for agile teams and contrasting it with other templates. While it does mention Scrum principles and practices, it lacks a direct focus on the role of the Scrum Master, their responsibilities, and their impact on team dynamics and organisational change. The discussion is primarily about process templates rather than the Scrum Master's role in facilitating Scrum practices.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1587,6 +1590,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the choice of process templates (Agile, CMMI, Scrum) for team projects, focusing on the Scrum template's advantages. While it touches on aspects of agile methodologies, it does not directly address the principles or components of the One Engineering System framework, nor does it discuss integration or standardisation of engineering processes across teams. The discussion is more about personal opinions on process templates rather than a structured analysis of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:34:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the selection of process templates for Agile teams, focusing on Scrum versus other templates. While it touches on themes of friction and adaptability, it does not explicitly address Agentic Agility or its principles. The discussion lacks depth in exploring intentional shaping of outcomes or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

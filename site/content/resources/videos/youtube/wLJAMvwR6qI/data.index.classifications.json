@@ -511,11 +511,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T23:15:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:52:23",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses assumptions and hypothesis-driven development rather than Test First Development principles or practices.",
+    "final_score": 26.0,
+    "reasoning": "The content discusses hypothesis-driven strategies in product development, which touches on the importance of validating assumptions but does not explicitly mention Test First Development principles or practices. While there is a focus on experimentation and validation, the core themes of Test First Development, such as automated testing practices like TDD or ATDD, are not addressed. The discussion is more aligned with general product development methodologies rather than the specific focus on testing before implementation.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -850,11 +853,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T23:15:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:52:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on product development, assumptions, and hypothesis-driven development, with no clear reference to the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on product development and hypothesis-driven strategies, with no direct mention of the Scrum Master role or its responsibilities. While it touches on aspects of product management that could relate to Scrum, it does not align with the core themes of the Scrum Master category, such as facilitating Scrum processes or promoting agile principles. The discussion lacks depth regarding the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1575,6 +1581,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on product development and hypothesis-driven strategies, with no direct mention of the One Engineering System or its principles. While it discusses aspects of validation and experimentation, these topics do not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The discussion lacks depth regarding the One Engineering System framework, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:52:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of understanding and validating assumptions in product development, which touches on adaptability and intentional decision-making. However, it lacks a direct focus on Agentic Agility as defined, particularly in terms of the distinction between human and AI capabilities, and does not delve into the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

@@ -160,20 +160,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:49:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:22:58",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a proposed application for managing hierarchical data within an organisation, without reference to evidence-based management principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content discusses an innovative idea for managing hierarchical employee data but does not explicitly mention Evidence-Based Management or its core themes. While it hints at improving organisational efficiency, it lacks a focus on empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:50:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:22:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific application idea and its functionalities, without a clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses an innovative idea for managing hierarchical employee data and enhancing organisational efficiency, which does not directly relate to the Agile Product Operating Model. There are no explicit mentions of agile methodologies, product management principles, or the core themes outlined in the APOM framework. The focus is on a specific application idea rather than on agile practices or product-oriented mindsets.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -316,11 +322,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:50:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:22:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a concept for a new application and its features, without a clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses an idea for managing hierarchical employee data and enhancing organisational efficiency, which does not directly relate to DevOps principles. While there is a mention of collaboration and data integration, these concepts are not explored in the context of DevOps practices or philosophy. The focus is more on a specific application and its functionalities rather than on the broader DevOps culture or methodologies.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -700,11 +709,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T20:11:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:23:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a concept for managing hierarchical data within a company and does not relate to Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses an innovative idea for managing hierarchical employee data and does not explicitly mention Continuous Delivery or its principles. While there is a mention of data integration and workflow, these concepts are not explored in the context of Continuous Delivery practices. The focus is on a specific application idea rather than the broader themes of Continuous Delivery, such as automation, rapid feedback, or cultural aspects. Therefore, the confidence score reflects a very low alignment with the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1339,11 +1351,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T20:11:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:22:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on application ideas and organizational data management, not related to Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses an innovative idea for managing hierarchical employee data and does not mention the role or responsibilities of a Scrum Master. There is no alignment with Scrum principles or practices, and the depth of discussion regarding Scrum is non-existent.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1366,11 +1381,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T20:11:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:23:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content appears to focus on a project idea related to employee data management and integration with various systems, with no mention or discussion of Test First Development or its principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses an innovative idea for managing hierarchical employee data and does not mention Test First Development principles, success criteria, or any related testing practices. The focus is on a user interface and data management rather than on testing methodologies or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1434,6 +1452,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses an idea for a software application focused on managing hierarchical data related to employees. It does not mention the Shift-Left Strategy, nor does it align with its principles of integrating testing, security, or compliance early in the development process. The discussion lacks depth regarding any Shift-Left practices or methodologies, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:22:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses an innovative idea for managing hierarchical employee data and enhancing organisational efficiency, but it does not explicitly mention Common Goals or connect to Agile and DevOps principles. While there is a focus on collaboration and efficiency, it lacks a clear alignment with the foundational principles of Common Goals, such as shared objectives or strategic alignment. The discussion is more about a specific project idea rather than the broader implications of Common Goals in a team or organisational context.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:22:45",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses an innovative idea for managing hierarchical employee data and enhancing organisational efficiency, which does not directly address the principles of competence in Agile, Scrum, DevOps, or Lean methodologies. While there is a mention of improving collaboration and efficiency, it lacks explicit discussions on continuous learning, skill development, or the role of competence in delivering quality outcomes. The focus is more on a technical solution rather than on fostering a culture of competence or professional development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:22:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content presents an innovative idea for managing hierarchical employee data, which hints at improving organisational efficiency. However, it lacks explicit discussions on Continuous Improvement principles, such as empirical evidence, data-driven decision-making, or a culture of experimentation. The focus is more on a specific application idea rather than a broader commitment to ongoing improvement practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:22:50",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content discusses an innovative idea for managing hierarchical employee data but does not explicitly mention Agentic Agility or its principles. While it touches on organisational efficiency and collaboration, it lacks a focus on intentional shaping of outcomes, autonomy, or adaptability, which are core to the category. The discussion is more about a specific application rather than the broader themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

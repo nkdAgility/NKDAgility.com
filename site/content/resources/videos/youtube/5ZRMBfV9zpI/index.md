@@ -26,9 +26,9 @@ duration: 74
 isShort: false
 tags:
 - Professional Scrum
+- Scrum Master
 - Agile Project Management
 - People and Process
-- Scrum Master
 - Events and Presentations
 - Software Development
 - Competence

@@ -361,11 +361,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-08T16:10:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content is primarily focused on applying flow metrics within the Scrum framework, discussing their application in Scrum events and how they relate to the Scrum Master's role in improving team efficiency and performance.",
+    "final_score": 71.0,
+    "reasoning": "The content focuses on applying flow metrics within the Scrum framework, which is relevant to the role of a Scrum Master. It discusses the integration of metrics to enhance team efficiency and project outcomes, aligning with the Scrum Master's responsibility to facilitate continuous improvement. However, while it touches on the Scrum Master's influence, it does not explicitly discuss the role or responsibilities of the Scrum Master in detail, leading to a high but not perfect confidence score.",
     "level": "Secondary"
   },
   "Agile Planning": {
@@ -397,11 +400,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on applying flow metrics in Scrum and does not discuss Test First Development, TDD, or related practices.",
+    "calculated_at": "2025-04-08T16:10:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on flow metrics within the Scrum framework, with no direct mention of Test First Development principles or practices. While it discusses Agile practices and team efficiency, it does not address success criteria, testing methodologies, or the importance of testing in the context of development, which are core to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum and flow metrics, which are specific to Agile practices rather than the One Engineering System framework. While it discusses improving team efficiency and project outcomes, it does not address the principles, integration, or standardisation aspects of 1ES. Therefore, it lacks direct relevance and depth concerning the One Engineering System.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:10:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on flow metrics within the Scrum framework, which does not directly address the principles of Agentic Agility. While there are elements of reflection and improvement, the discussion lacks explicit mention of intentional shaping of outcomes, the distinction between human and AI capabilities, or the transformative capacity of individuals and systems. Overall, the content is more aligned with general Agile practices rather than the specific themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

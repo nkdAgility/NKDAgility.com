@@ -559,14 +559,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-14T16:32:20",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
+    "calculated_at": "2025-04-08T15:32:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
-    "reasoning": "The content primarily focuses on the role of the Scrum Master in ensuring delivery within a Scrum framework. While it briefly mentions Test-Driven Development (TDD) as part of enabling technical excellence, this mention is not a primary focus of the discussion. The overall themes revolve around accountability for delivery and team effectiveness rather than the principles and practices of Test First Development.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in ensuring delivery within a Scrum framework, focusing on accountability and effectiveness rather than explicitly addressing Test First Development principles. While there are brief mentions of practices like Test-Driven Development (TDD), the overall emphasis is on delivery and team dynamics rather than the Test First approach itself. The discussion lacks depth in exploring the core themes of Test First Development, such as defining success criteria before implementation or the impact of testing practices on collaboration.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -937,14 +937,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T11:10:38",
+    "calculated_at": "2025-04-08T15:32:50",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 38,
     "ai_depth": 36,
     "non_ai_confidence": 20,
     "final_score": 85.0,
-    "reasoning": "The content extensively discusses the role and accountability of the Scrum Master in ensuring delivery within a Scrum Team. It directly addresses the responsibilities of the Scrum Master, including facilitating team success, removing impediments, and fostering an environment conducive to effective delivery. The depth of discussion is significant, covering various aspects of the Scrum Master's role, including the importance of delivery, the relationship with the Scrum Team, and strategies for enabling team effectiveness. Overall, the content aligns closely with the key topics outlined for the Scrum Master category.",
+    "reasoning": "The content extensively discusses the role and accountability of the Scrum Master in ensuring delivery within a Scrum Team. It directly addresses the responsibilities of the Scrum Master, emphasising their pivotal role in fostering an environment conducive to effective delivery and continuous improvement. The depth of discussion includes various aspects of the Scrum Master's influence on team dynamics, organisational change, and the importance of delivery as a measure of effectiveness, aligning closely with the key topics outlined for the category.",
     "level": "Primary"
   },
   "Large Scale Agility": {
@@ -1719,6 +1719,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the role of the Scrum Master within the Scrum framework, focusing on accountability for delivery rather than the integration and standardisation of engineering processes as outlined in the One Engineering System. While it touches on concepts of effectiveness and team dynamics, it does not engage with the principles or components of 1ES, nor does it provide insights into the broader context of engineering systems or methodologies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:32:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in ensuring delivery within a Scrum framework, focusing on accountability and effectiveness. While it touches on themes of autonomy and enabling teams, it lacks a direct exploration of Agentic Agility principles, such as intentional shaping of outcomes or the interplay between human and AI capabilities. The discussion is more aligned with general Agile practices rather than specifically addressing Agentic Agility.",
     "level": "Ignored"
   }
 }

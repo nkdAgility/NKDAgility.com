@@ -523,11 +523,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T08:23:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:03:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal values and approaches as a Scrum Trainer, with no focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal values and legacy as a Professional Scrum Trainer, with no direct mention of Test First Development principles or practices. While it touches on aspects of integrity and honesty in a professional context, it does not discuss success criteria, testing methodologies, or the importance of testing in software development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -874,14 +877,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T00:43:39",
+    "calculated_at": "2025-04-08T17:03:52",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
     "final_score": 61.0,
-    "reasoning": "The content discusses the author's values as a Professional Scrum Trainer, touching on integrity, honesty, and approachability, which are relevant to the Scrum Master role. However, it lacks direct references to specific Scrum Master responsibilities or practices, making it more of a personal reflection than a focused discussion on the Scrum Master role itself.",
+    "reasoning": "The content discusses the values and principles important to a Professional Scrum Trainer, which indirectly relates to the role of a Scrum Master. However, it primarily focuses on personal legacy and values rather than the specific responsibilities and impact of a Scrum Master within a Scrum Team. While there are mentions of Scrum principles, the depth of discussion on the Scrum Master's role is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1590,6 +1593,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on personal values and experiences as a Professional Scrum Trainer, discussing integrity, honesty, and approachability. While it mentions Scrum, it does not address the One Engineering System framework, its principles, or its implementation. The discussion is more about personal philosophy than the integration and standardisation of engineering processes, which is the core of the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:03:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on personal values and legacy as a Professional Scrum Trainer, discussing integrity, honesty, and approachability. While these themes touch on aspects of agency and intentionality, they do not explicitly address Agentic Agility or its principles. The discussion lacks depth in exploring the intentional shaping of outcomes or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

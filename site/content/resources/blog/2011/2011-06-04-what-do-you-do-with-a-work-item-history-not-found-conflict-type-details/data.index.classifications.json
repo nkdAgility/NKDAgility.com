@@ -1156,11 +1156,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T23:10:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:15:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on migration issues with TFS and does not discuss Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses TFS migration conflicts and does not explicitly mention Test First Development principles or practices. While there are references to work item revisions and processing, these do not align with the core themes of Test First Development, such as defining success criteria or automated testing practices. The focus is on resolving migration issues rather than on testing methodologies.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1243,11 +1246,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T23:10:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:15:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses TFS migration and technical issues rather than Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS migration and work item history conflicts, with no direct mention of the Scrum Master role or its responsibilities. It lacks alignment with the core themes of the Scrum Master category, such as team dynamics, coaching, or agile principles. The depth of discussion is focused on technical problem-solving rather than any aspects related to Scrum or the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1521,6 +1527,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on technical issues related to TFS migration and does not discuss competence, continuous learning, or skill development. While it touches on problem-solving, it lacks a clear connection to the principles of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:15:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical issues related to TFS migration conflicts and does not discuss Agentic Agility or its principles. There are no explicit mentions of intentional shaping of outcomes, autonomy, or adaptability, which are core to the category. The content lacks depth in discussing the interplay between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

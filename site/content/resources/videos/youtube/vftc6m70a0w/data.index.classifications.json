@@ -1375,11 +1375,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T15:27:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:17:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the virtues of agility, the importance of inclusivity and organizational change, without any mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concept of 'chastity' in the context of agile practices, focusing on thoughtful implementation and stakeholder engagement. It does not mention Test First Development, its principles, or related practices such as TDD or ATDD. The discussion is more about general agile transformation rather than any specific testing methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1441,11 +1444,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T15:27:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:17:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses general agile principles and inclusivity rather than focusing on the specific role and responsibilities of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses agility and organisational transformation but does not explicitly mention the role of the Scrum Master or delve into specific responsibilities associated with that role. While it touches on themes of stakeholder engagement and inclusivity, which are relevant to a Scrum Master's influence, the primary focus is on the broader concept of agility rather than the specific functions and impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1599,6 +1605,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the concept of agility and the importance of thoughtful implementation, but it does not directly mention or focus on the One Engineering System (1ES). The themes of organisational transformation and stakeholder engagement are relevant to agile practices but do not align with the specific principles and components of 1ES. There is minimal depth regarding integration of tools and processes across teams, which is a core aspect of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:17:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of thoughtful implementation in agile practices, which touches on aspects of intentionality and engagement. However, it lacks a direct focus on Agentic Agility as defined, particularly in terms of distinguishing between human and AI capabilities or providing in-depth mechanisms of AI Agentic Agility. The discussion is more about general agile practices and virtues rather than a specific exploration of Agentic Agility.",
     "level": "Ignored"
   }
 }

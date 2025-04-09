@@ -1120,11 +1120,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T01:39:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:25:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on MVVM architecture and patterns in WPF and Silverlight, with no mention of Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the MVVM (Model-View-ViewModel) architectural pattern in WPF and Silverlight, discussing best practices for code structure and separation of concerns. There is no mention of Test First Development principles, success criteria, or testing practices, which are central to the category. The content does not align with the key topics outlined for Test First Development, and it lacks depth in discussing any related concepts.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1201,11 +1204,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T01:39:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:25:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on MVVM design pattern and does not discuss Scrum Masters or related responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the MVVM design pattern and its implementation in WPF and Silverlight, with no mention or discussion of Scrum, the role of a Scrum Master, or any related agile principles. It does not align with the core themes of the Scrum Master category, nor does it provide any depth on the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1479,6 +1485,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the MVVM design pattern and its implementation in WPF and Silverlight, which does not directly address the principles of competence as defined in Agile, Scrum, DevOps, and Lean methodologies. While there are mentions of best practices and code quality, these are not explicitly tied to continuous learning or skill development, which are core themes of competence. The discussion lacks depth in exploring how these practices contribute to professional growth or team trust.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:25:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the MVVM design pattern in WPF and Silverlight, discussing best practices for code structure and separation of concerns. It does not mention Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

@@ -1147,11 +1147,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T22:32:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:38:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses upcoming training events and courses related to ALM and Scrum, with no focus on Test First Development or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on announcing training courses related to ALM, DevOps, and Scrum, with no direct discussion of Test First Development principles or practices. While it mentions Scrum, it does not delve into the specifics of Test First Development, success criteria, or testing methodologies. The overall emphasis is on training events rather than the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1234,14 +1237,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T04:00:32",
+    "calculated_at": "2025-04-08T17:38:36",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content briefly mentions a Professional Scrum Master course, which indicates a connection to the Scrum Master role. However, the primary focus is on scheduling and promoting various ALM training courses, with limited discussion on the responsibilities or practices of a Scrum Master. The alignment with core themes is weak, as there is no in-depth exploration of Scrum Master techniques, coaching, or team dynamics. Overall, while there is a mention of Scrum, it does not delve into the specifics of the Scrum Master role.",
+    "reasoning": "The content briefly mentions a Professional Scrum Master course, indicating some relevance to the Scrum Master role. However, the primary focus is on announcing training events and personal updates rather than discussing the responsibilities, skills, or impact of a Scrum Master. The alignment with core themes is minimal, and the depth of discussion on the Scrum Master role is lacking.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1530,6 +1533,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on announcing training courses related to ALM, DevOps, and Scrum, with no direct discussion of the One Engineering System framework or its principles. While it mentions methodologies like Scrum, it does not align with the core themes of 1ES, such as integration of tools or best practices for implementing a unified engineering system. The depth of discussion is minimal, as it mainly lists events without exploring their impact on software quality or delivery timelines.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:38:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on scheduling and promoting ALM training courses, with no explicit discussion of Agentic Agility or its principles. While it mentions training and skills enhancement, it does not address the intentional shaping of outcomes, the distinction between human and AI capabilities, or any of the key topics related to Agentic Agility.",
     "level": "Ignored"
   }
 }

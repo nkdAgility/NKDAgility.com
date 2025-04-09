@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T12:37:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:47:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an application and its integration with Microsoft's services, with no clear focus on DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on an application related to LinkedIn and Microsoft services, with no explicit discussion of DevOps principles, practices, or cultural shifts. It lacks any mention of collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The content does not delve into any relevant topics such as feedback loops, continuous improvement, or integration of quality practices, resulting in a very low confidence score for alignment with the DevOps category.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T12:37:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:47:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an application and its integration with Microsoft's services, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses an application related to LinkedIn and Microsoft services, with no explicit mention of Agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any relevant themes or depth related to the category, focusing instead on application features and integration without connecting to the core principles of APOM.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -166,11 +172,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T12:38:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:47:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an application related to Microsoft's Connected Systems initiative and does not address Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on an application related to LinkedIn and Microsoft services, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks any mention of data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -883,11 +892,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:01:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:47:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses an application and its integration with Microsoft's services, not related to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on an application called Messenger United and its features related to LinkedIn and Microsoft services. There are no direct mentions of Continuous Delivery principles, practices, or related topics. The discussion lacks any alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality. The depth of discussion is minimal, as it does not provide any insights into Continuous Delivery methodologies or case studies. Overall, the content is unrelated to the category.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1045,11 +1057,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:01:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:47:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an application and integration with Microsoft's services, with no reference to Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on an application related to LinkedIn sync and Microsoft services, with no explicit discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1234,11 +1249,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:01:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:47:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is not relevant to Scrum Master discussions and focuses on applications and services rather than Scrum roles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses an application related to LinkedIn and Microsoft services, with no direct mention of Scrum, Scrum Masters, or related concepts. It does not align with the core themes of the Scrum Master role, responsibilities, or impact on teams and organisations. The discussion lacks depth regarding any aspect of Scrum or agile methodologies.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1419,6 +1437,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses an application related to Microsoft's Connected Systems initiative and does not address any aspects of the Shift-Left Strategy. There are no mentions of testing, security, or compliance processes in the software development lifecycle, nor does it provide any insights into the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T19:47:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on an application and its features, with no explicit discussion of Common Goals, Agile, or DevOps principles. It lacks any depth or alignment with the category's core themes, making it irrelevant to the classification.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T19:47:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on an application and its features, with no explicit discussion of competence, continuous learning, or skill development. It lacks any depth or alignment with the core themes of the competence category, making it largely irrelevant to the topic.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T19:47:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on an application and its features, with no explicit discussion of Continuous Improvement principles or practices. It lacks any mention of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning. The content does not align with the core themes of Continuous Improvement, and the depth of discussion is minimal, primarily describing the application rather than any improvement processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:47:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses an application related to LinkedIn and Microsoft services, with no explicit mention of Agentic Agility or its principles. It lacks any discussion on intentional shaping of outcomes, human or AI agency, or the transformative capacity of individuals and systems. The focus is on application features rather than the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

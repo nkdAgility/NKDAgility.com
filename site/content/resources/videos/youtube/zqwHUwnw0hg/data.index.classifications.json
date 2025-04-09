@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T21:44:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:14:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of a scrum master within a scrum team, with no focus on Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of a Scrum Master within a Scrum team, discussing aspects of Scrum theory and team dynamics. It does not explicitly mention Test First Development or its principles, nor does it delve into testing practices, success criteria, or the importance of feedback loops in the context of software delivery. The discussion is more aligned with Scrum methodology rather than the specific practices of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -865,14 +868,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T02:01:29",
+    "calculated_at": "2025-04-08T17:14:24",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
-    "ai_alignment": 36,
-    "ai_depth": 32,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
     "final_score": 80.0,
-    "reasoning": "The content extensively discusses the role and responsibilities of a Scrum Master, including their interactions with teams and the organisation, which aligns closely with the key topics outlined for the category. It provides detailed insights into the challenges faced by Scrum Masters and the importance of their role in facilitating Scrum processes. The depth of discussion is significant, covering various aspects of the Scrum Master's responsibilities and the theoretical foundations necessary for success in the role.",
+    "reasoning": "The content extensively discusses the role, responsibilities, and impact of a Scrum Master within a Scrum team, providing detailed insights into the challenges faced and the skills required. It aligns closely with the key topics outlined for the category, such as the importance of interaction with teams, the broader implications of the Scrum Master role, and the foundational knowledge necessary for effective practice. The depth of discussion is significant, covering various aspects of the role and its influence on team dynamics and value delivery.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1593,6 +1596,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the Professional Scrum Master course and the principles of Scrum, which are not directly related to the One Engineering System (1ES). While there are some mentions of team dynamics and roles, the discussion does not align with the core themes of 1ES, such as integration of tools and processes across teams or the standardisation of software development practices. The depth of discussion is also limited to Scrum-specific practices rather than broader engineering system principles.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:14:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of a scrum master within a scrum team, discussing aspects of autonomy and collaboration. However, it lacks a direct exploration of Agentic Agility as defined, particularly in terms of intentional shaping of outcomes and the distinction between human and AI capabilities. While there are elements of alignment with the principles of Agentic Agility, such as the importance of creating value and adapting to challenges, the discussion does not delve deeply into the transformative capacity or mechanisms of Agentic Agility, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

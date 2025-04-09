@@ -1141,11 +1141,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T16:42:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:59:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the features and improvements of Office 2013 and its role in Application Lifecycle Management, without any focus on Test First Development or related testing practices.",
+    "final_score": 8.0,
+    "reasoning": "The content primarily discusses the features and improvements of Office 2013 in the context of application lifecycle management (ALM), but it does not explicitly address Test First Development principles or practices. While it mentions ALM tools, it lacks a focus on defining success criteria, testing methodologies, or the role of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1225,11 +1228,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T16:42:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:59:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Office 2013 and its features, with no relevant focus on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Office 2013 and its features related to application lifecycle management, with no direct mention of Scrum or the role of a Scrum Master. While it touches on collaboration and reporting tools, these are not specific to Scrum practices or the responsibilities of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1500,6 +1506,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the features and usability of Office 2013 in the context of application lifecycle management, without a significant emphasis on competence, continuous learning, or skill development. While it briefly touches on the role of tools in ALM, it does not delve into the importance of competence or professional development, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:59:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the features and improvements of Office 2013 in the context of application lifecycle management, without discussing the intentional shaping of outcomes, agency, or the interplay between human and AI capabilities. It lacks any substantial connection to the principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

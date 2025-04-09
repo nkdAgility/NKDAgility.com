@@ -505,11 +505,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T12:34:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:38:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban and its application in various industries, with no focus on Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on Kanban in creative industries, with no mention or discussion of Test First Development principles, success criteria, or testing practices. It does not align with the core themes of Test First Development, nor does it provide any depth on the subject.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -847,11 +850,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T12:35:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:38:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban and its application in various industries, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Kanban and its application in creative industries, with no direct mention of the Scrum Master role or its responsibilities. While it touches on agile principles, it does not align with the core themes of the Scrum Master category, such as coaching, mentoring, or facilitating within a Scrum context. The depth of discussion is focused on Kanban rather than the Scrum framework, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1572,6 +1578,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Kanban, focusing on its application in creative industries, which is unrelated to the One Engineering System framework. There are no direct mentions of 1ES principles, components, or its impact on software development practices. The discussion lacks depth regarding integration or standardisation of engineering processes, making it a poor fit for the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:38:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Kanban in creative industries, focusing on workflow management and efficiency rather than the intentional shaping of outcomes through agency and adaptability. While it touches on themes of alignment and decision-making, it does not explicitly address Agentic Agility or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

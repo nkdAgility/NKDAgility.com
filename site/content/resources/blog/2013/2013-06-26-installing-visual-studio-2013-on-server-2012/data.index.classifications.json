@@ -1117,11 +1117,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:08:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:57:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on installing Visual Studio 2013 and does not discuss Test First Development or related principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2013 on Server 2012, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of Test First Development, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1201,11 +1204,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:08:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:57:20",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the installation process of Visual Studio 2013 and does not address any topics related to the role or responsibilities of a Scrum Master.",
+    "reasoning": "The content focuses entirely on the installation process of Visual Studio 2013 on Server 2012, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not discuss responsibilities, techniques, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1476,6 +1482,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2013 and does not explicitly discuss competence or related themes such as continuous learning, skill development, or professionalism. While there are mentions of personal experience and preferences, these do not align with the core principles of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:57:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2013 on Server 2012, with no explicit discussion of Agentic Agility or its principles. While there are mentions of flexibility and adaptability in the context of software installation, these concepts do not align with the core themes of intentionality and agency as defined in the category. The content lacks depth and does not differentiate between human and AI capabilities, making it largely irrelevant to the topic of Agentic Agility.",
     "level": "Ignored"
   }
 }

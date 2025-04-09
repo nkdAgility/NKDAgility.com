@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T18:24:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:37:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the terminology and implications of 'User Stories' versus 'Product Backlog Items' in product development, with no focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the terminology and conceptual framework around 'User Stories' and 'Product Backlog Items' in product development, without any direct reference to Test First Development principles, success criteria, or testing practices. While it touches on communication and clarity, it does not delve into testing methodologies or the importance of defining success criteria before implementation, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -856,14 +859,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T22:22:41",
+    "calculated_at": "2025-04-08T16:37:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content discusses the terminology used in product development, specifically around 'User Stories' and 'Product Backlog Items'. While it touches on concepts relevant to Scrum, such as the role of the Product Owner and the importance of clear communication in Agile practices, it does not focus on the responsibilities or practices of a Scrum Master. The discussion is more about product management than the facilitation and coaching aspects of a Scrum Master, leading to a lower confidence score.",
+    "reasoning": "The content discusses the terminology used in product development, specifically critiquing 'User Stories' and advocating for 'Product Backlog Items'. While it touches on concepts relevant to Scrum, such as backlog management, it does not focus on the role or responsibilities of a Scrum Master. The discussion is more about product management language than the Scrum Master's influence or practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1596,6 +1599,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses the terminology used in product development, specifically advocating for the replacement of 'User Stories' with 'Product Backlog Items'. While it touches on aspects of communication and clarity in product management, it does not directly address the principles, components, or implementation of the One Engineering System. The focus is on personal opinions regarding terminology rather than the integration and standardisation of engineering processes, which is the core of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:37:23",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses the impact of language on product development and suggests a shift from 'User Stories' to 'Product Backlog Items' for clearer communication. While it touches on themes of adaptability and intentionality in describing work, it does not explicitly address Agentic Agility or differentiate between human and AI capabilities. The focus is primarily on terminology rather than the broader implications of agency and intentional shaping of outcomes.",
     "level": "Ignored"
   }
 }

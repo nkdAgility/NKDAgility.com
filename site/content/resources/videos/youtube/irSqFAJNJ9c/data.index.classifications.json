@@ -508,11 +508,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T06:19:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:13:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the dynamics and dysfunctions of scrum teams without addressing Test First Development or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the characteristics of poor Scrum teams and does not mention Test First Development or its principles. While it touches on team dynamics and performance, it lacks any direct reference to testing practices, success criteria, or the importance of testing in the development process, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -868,14 +871,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T01:54:00",
+    "calculated_at": "2025-04-08T17:13:29",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
     "final_score": 66.0,
-    "reasoning": "The content discusses the characteristics of poor Scrum teams and the impact of dysfunctional roles, particularly the Product Owner, on team performance. While it touches on the Scrum framework and the importance of team dynamics, it does not explicitly focus on the Scrum Master role or their specific responsibilities. The discussion is relevant but lacks depth in exploring the Scrum Master's contributions directly.",
+    "reasoning": "The content discusses the characteristics of poor Scrum teams and the impact of dysfunctional roles, particularly the Product Owner, on team dynamics. While it touches on the Scrum framework and the importance of team effectiveness, it does not explicitly focus on the Scrum Master's role or responsibilities. The discussion is more about team behaviours and outcomes rather than the Scrum Master's influence or techniques for improvement, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1596,6 +1599,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum teams and their dynamics, focusing on dysfunctions and best practices within the Scrum framework. While it touches on themes of team performance and collaboration, it does not explicitly mention or align with the principles of the One Engineering System (1ES). The discussion is centred around Scrum rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:13:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the dysfunctions of Scrum teams and does not explicitly address Agentic Agility. While it touches on themes of team dynamics and ownership, it lacks a focus on intentional shaping of outcomes, autonomy, or adaptability as defined in the category. The discussion is more about identifying poor practices rather than exploring the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }
 }

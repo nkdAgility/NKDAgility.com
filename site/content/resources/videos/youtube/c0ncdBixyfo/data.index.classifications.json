@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T08:46:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses organisational culture and employee engagement, with no focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:28:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the culture of contempt within Agile teams and the importance of leadership and team dynamics. It does not mention Test First Development, nor does it align with its principles or practices. The focus is on organisational culture rather than testing methodologies or success criteria.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -868,15 +871,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T21:36:37",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "calculated_at": "2025-04-08T16:28:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the impact of a culture of contempt on Agile teams, which indirectly relates to the Scrum Master's role in fostering team dynamics and collaboration. However, it lacks direct references to Scrum ceremonies, specific Scrum Master responsibilities, or detailed strategies for coaching and mentoring, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the culture of contempt within Agile teams, touching on leadership and team dynamics, which are relevant to the Scrum Master's role. However, it does not explicitly mention the Scrum Master or delve into specific responsibilities or techniques associated with that role. The focus is more on general Agile principles and leadership rather than the specific functions and impact of a Scrum Master.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1605,6 +1608,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the culture of contempt within Agile teams and leadership dynamics, which does not directly relate to the One Engineering System framework. While it touches on team dynamics and productivity, it lacks explicit references to 1ES principles, integration of tools, or standardisation of processes, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:28:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the negative impact of a culture of contempt on Agile teams, focusing on leadership and team dynamics. While it touches on themes of inclusion and decision-making, it does not explicitly address Agentic Agility or the intentional shaping of outcomes. The discussion is more about overcoming contempt rather than exploring the principles of Agentic Agility, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

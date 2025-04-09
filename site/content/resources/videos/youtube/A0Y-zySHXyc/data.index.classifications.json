@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T09:55:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:31:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the barriers to accepting a Product Owner as a decision maker, focusing on team dynamics and respect within Agile practices, without addressing Test First Development or related testing methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the relationship between developers and Product Owners, focusing on accountability and decision-making rather than the principles of Test First Development. While it touches on aspects of collaboration, it does not explicitly mention or align with Test First practices, such as defining success criteria or automated testing methodologies.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -868,14 +871,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T21:50:02",
+    "calculated_at": "2025-04-08T16:31:19",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily discusses the relationship between developers and Product Owners, focusing on accountability and decision-making. While it touches on themes relevant to Scrum, such as collaboration and communication, it does not explicitly address the role of the Scrum Master or their responsibilities. The discussion lacks depth in terms of Scrum practices and does not provide insights into how a Scrum Master could facilitate these dynamics.",
+    "reasoning": "The content primarily discusses the relationship between developers and Product Owners, focusing on accountability and decision-making. While it touches on aspects relevant to Scrum, such as the importance of authority and communication, it does not explicitly address the role of the Scrum Master or their responsibilities. The discussion is more centred on the dynamics between developers and Product Owners rather than the Scrum Master’s influence or role in facilitating these relationships.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1590,6 +1593,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the relationship between developers and Product Owners, focusing on accountability and decision-making within agile teams. It does not address the principles or components of the One Engineering System, nor does it explore integration of tools or processes across teams. The discussion is centred on interpersonal dynamics rather than the standardisation and integration of engineering practices, which is the core focus of the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:31:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses accountability and the relationship dynamics between developers and Product Owners, which touches on aspects of agency and decision-making. However, it lacks a direct focus on the principles of Agentic Agility, such as intentional shaping of outcomes or the interplay between human and AI capabilities. The discussion is more about interpersonal dynamics rather than the broader concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

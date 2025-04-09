@@ -394,15 +394,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-13T15:40:43",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-04-08T16:50:40",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses Scrum in the context of aligning DevOps and Software Engineering teams, which is relevant to the role of a Scrum Master. However, it primarily focuses on the alignment aspect rather than the specific responsibilities or practices of a Scrum Master. While there are mentions of Scrum principles, the depth of discussion on Scrum Master responsibilities and techniques is limited.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses Scrum in the context of aligning DevOps and Software Engineering teams, which is relevant to the Scrum framework. However, it does not explicitly focus on the role of the Scrum Master or delve into the responsibilities and skills associated with that position. The discussion is more about the application of Scrum principles rather than the Scrum Master's influence or responsibilities, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -439,11 +439,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T22:05:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:50:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on alignment between DevOps and software engineering rather than Test First Development principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum and its role in aligning DevOps and Software Engineering teams, with no explicit mention of Test First Development principles or practices. While it touches on the importance of delivering usable products and feedback, it lacks a focus on defining success criteria or the specifics of testing methodologies, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1590,6 +1593,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily discusses Scrum as a methodology for aligning DevOps and Software Engineering teams, which is not directly related to the One Engineering System framework. While it touches on collaboration and engineering practices, it lacks a focus on the principles, components, or implementation of 1ES. The discussion is more about Scrum's role rather than the integration and standardisation of engineering processes as defined by 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:50:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum as a methodology for aligning DevOps and Software Engineering teams, without discussing the intentional shaping of outcomes or the principles of Agentic Agility. It lacks depth in exploring the concepts of agency, adaptability, or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

@@ -1153,11 +1153,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:00:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:54:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to Team Foundation Server builds and does not address Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses an error related to Team Foundation Server builds and does not mention Test First Development principles, success criteria, or testing practices. It focuses on resolving a specific technical issue without addressing the broader concepts of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1240,11 +1243,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:01:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:54:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Team Foundation Server and build processes, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server (TFS) and does not mention the role or responsibilities of a Scrum Master. There is no alignment with the core themes of the Scrum Master category, and the depth of discussion is focused on troubleshooting a specific error rather than any aspects of Scrum or agile methodologies.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1521,6 +1527,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on resolving a specific technical error in TFS 2012 builds, with no explicit discussion on competence, continuous learning, or skill development. While it touches on the need to load custom assemblies, it does not delve into the broader implications of competence in Agile or DevOps contexts. The discussion lacks depth and does not align with the core themes of competence as defined in the classification criteria.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:54:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific error in TFS 2012 builds and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are core to the category. The discussion is technical and procedural, lacking depth in relation to the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

@@ -1195,11 +1195,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T23:46:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:40:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the creation of a Release Management pipeline and deployment processes, with only brief mentions of testing in the context of builds, which does not align with the core principles of Test First Development.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and automating deployments, with minimal direct reference to Test First Development principles. While it mentions the importance of builds and testing, it does not delve into defining success criteria or the specific practices of Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). The discussion lacks depth in terms of how testing informs design and implementation, which is central to Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1279,11 +1282,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T23:47:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:41:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on creating a Release Management pipeline and technical implementation details, with no clear discussion on the role or responsibilities of a Scrum Master.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and does not discuss the role or responsibilities of a Scrum Master. While it briefly touches on team dynamics and feedback loops, it lacks substantial detail on Scrum principles or the Scrum Master's influence on team effectiveness and organisational agility.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1581,6 +1587,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the creation of a Release Management pipeline and touches on automation and deployment efficiency, which are relevant to the One Engineering System. However, it primarily focuses on specific tools and processes (Team Foundation Server and Azure) rather than the broader principles and integration aspects of 1ES. While there are mentions of team collaboration and deployment processes, the depth of discussion on the One Engineering System framework itself is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:40:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and enhancing automation in deployment processes. While it touches on aspects of agility and automation, it does not explicitly discuss the intentional shaping of outcomes, the role of agency, or the interplay between human and AI capabilities in the context of agility. The discussion lacks depth in exploring the principles of Agentic Agility, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   }
 }

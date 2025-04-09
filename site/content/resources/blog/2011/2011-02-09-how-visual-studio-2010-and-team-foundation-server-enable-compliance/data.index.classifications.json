@@ -1207,11 +1207,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-15T06:42:02",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-08T19:17:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 30,
-    "final_score": 30.0,
-    "reasoning": "While the content discusses some aspects of testing, such as Test Cases and their association with Requirements and Bugs, the primary focus is on the traceability and compliance aspects of Team Foundation Server without a central theme of Test First Development or Test-Driven Development.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the features and capabilities of Visual Studio 2010 and Team Foundation Server in relation to compliance and traceability, without a clear focus on Test First Development principles. While it mentions testing and requirements, it does not delve into the core concepts of Test First Development, such as defining success criteria before implementation or the specifics of Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). The discussion lacks depth in these areas, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1291,11 +1294,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:44:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:17:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) tools and techniques without a central focus on the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the functionalities of Visual Studio 2010 and Team Foundation Server in relation to compliance and traceability, with no direct mention of the Scrum Master role or its responsibilities. While it touches on team dynamics and roles, it does not align with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1575,6 +1581,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the features and functionalities of Visual Studio 2010 and Team Foundation Server in relation to compliance and traceability. While it touches on the roles of team members and the importance of managing tasks and requirements, it does not explicitly focus on the concept of competence as defined in Agile and DevOps methodologies. The discussion lacks depth in exploring continuous learning, skill development, or the impact of competence on team dynamics and quality outcomes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:17:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the features and functionalities of Visual Studio 2010 and Team Foundation Server in relation to compliance and traceability. While it touches on aspects of team roles and responsibilities, it does not explicitly address the concept of Agentic Agility, such as intentional shaping of outcomes, autonomy, or adaptability. The focus is more on compliance and audit processes rather than on the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }
 }

@@ -409,14 +409,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-14T16:24:30",
+    "calculated_at": "2025-04-08T15:29:36",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 20,
     "final_score": 31.0,
-    "reasoning": "The content primarily discusses Continuous Delivery and the challenges associated with software complexity, with only brief mentions of testing practices. While it touches on the importance of embedding quality throughout the development process, it lacks a focused discussion on Test First Development principles, such as writing tests before code or the specific benefits of TDD. The depth of discussion on TDD-related topics is minimal, leading to a low confidence score.",
+    "reasoning": "The content discusses continuous delivery and automation but does not explicitly mention Test First Development or its principles. While it touches on the importance of quality and testing, it lacks a focused discussion on defining success criteria before implementation, which is central to Test First Development. The content primarily emphasises overcoming complexity and improving processes rather than the specific practices of Test First Development.",
     "level": "Ignored"
   },
   "Scaling Agility": {
@@ -1117,14 +1117,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-04-08T15:29:32",
+    "ai_confidence": 25.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
+    "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
-    "reasoning": "The content primarily discusses continuous delivery and the challenges associated with software complexity, without a direct focus on the role of a Scrum Master or Scrum practices. While it touches on themes relevant to Agile methodologies, it lacks specific references to Scrum ceremonies, team dynamics, or the responsibilities of a Scrum Master, leading to a low confidence score.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on continuous delivery and technical practices rather than the specific role and responsibilities of a Scrum Master. While it touches on themes of organisational change and improvement, it lacks direct references to Scrum Master duties, coaching, or facilitation within a Scrum context.",
     "level": "Ignored"
   },
   "Software Development": {
@@ -1905,6 +1905,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses continuous delivery and automation, which are relevant to the principles of the One Engineering System. However, it primarily focuses on the challenges and solutions related to continuous delivery rather than explicitly addressing the integration and standardisation of engineering processes across teams, which is central to 1ES. The mention of Azure DevOps and its evolution provides some alignment, but the overall depth and focus on 1ES principles are limited.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:29:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses continuous delivery and the need for intentionality in overcoming complexity, which aligns with the concept of Agentic Agility. However, it primarily focuses on technical practices and organisational challenges rather than explicitly addressing the principles of Agentic Agility, such as the distinction between human and AI capabilities or the role of intent and reflection in human agency. While there are elements of proactive intervention and accountability, the overall emphasis is more on process improvement than on the transformative capacity of individuals and systems.",
     "level": "Ignored"
   }
 }

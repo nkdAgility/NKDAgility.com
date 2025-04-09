@@ -481,11 +481,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T21:33:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:46:41",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the Definition of Done in Agile practices, with no clear discussion on Test First Development or related testing principles.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the Definition of Done (DoD) in a workshop context, which does not directly address Test First Development principles. While the DoD is related to project completion, it lacks explicit discussions on success criteria, testing practices, or the role of testing in development, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -811,11 +814,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T23:03:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:46:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the Definition of Done, which is a specific aspect of Scrum but does not directly address the role or responsibilities of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the Definition of Done, which is a Scrum artefact, but does not explicitly discuss the role or responsibilities of the Scrum Master. While it aligns with Scrum principles, the focus is primarily on a specific workshop topic rather than the broader responsibilities and impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1494,6 +1500,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the Definition of Done (DoD) within a workshop context, which is a specific aspect of Agile methodologies rather than the broader principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion does not align with the core themes of integration, standardisation, or the comprehensive framework of 1ES. The depth of discussion is limited to workshop activities without exploring the implications or practices related to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:46:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the Definition of Done in a workshop context, which does not address the intentional shaping of outcomes or the principles of Agentic Agility. There are no direct mentions of agentic concepts, and the discussion lacks depth regarding the interplay between human and AI capabilities in achieving desired outcomes.",
     "level": "Ignored"
   }
 }

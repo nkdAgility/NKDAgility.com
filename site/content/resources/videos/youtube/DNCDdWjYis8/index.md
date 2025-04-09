@@ -36,6 +36,7 @@ categories:
 - Scrum
 - Social Technologies
 tags:
+- Scrum Master
 - Coaching
 - Scrum Team
 - Agile Project Management
@@ -44,7 +45,6 @@ tags:
 - Agile Leadership
 - Software Development
 - Self Organisation
-- Scrum Master
 - People and Process
 
 ---

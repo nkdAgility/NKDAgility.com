@@ -1195,11 +1195,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T23:13:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:39:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, with no focus on Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM, TFS, and Scrum, with no direct discussion or alignment with the principles of Test First Development. It lacks any mention of success criteria, testing practices, or the impact of Test First on collaboration, which are core themes of the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1279,14 +1282,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T10:22:43",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "calculated_at": "2025-04-08T17:39:35",
+    "ai_confidence": 65.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content mentions Scrum in the context of training and consulting services, indicating a connection to the role of a Scrum Master. However, it lacks a detailed exploration of Scrum Master responsibilities, coaching techniques, or specific practices related to the Scrum framework. The focus is more on offering services rather than discussing the role itself, leading to a moderate confidence score.",
+    "final_score": 60.0,
+    "reasoning": "The content mentions Scrum in the context of training and consulting services, indicating a focus on Scrum-related expertise. However, it lacks a detailed discussion of the Scrum Master's specific role, responsibilities, and impact within a Scrum Team or organisation. While it aligns with the category by discussing Scrum courses and the importance of Scrum in consulting, it does not delve deeply into the nuances of the Scrum Master's role, which limits the overall depth of discussion.",
     "level": "Tertiary"
   },
   "Transparency": {
@@ -1581,6 +1584,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM, TFS, and Scrum, with no explicit discussion of the One Engineering System framework or its principles. While it mentions Agile methodologies like Scrum, it does not align with the core themes of 1ES, such as integration of tools and processes or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:39:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM, TFS, and Scrum, with no explicit discussion of Agentic Agility or its principles. While there are mentions of working with customers and adapting to their needs, these do not align with the core themes of intentionality, autonomy, or the transformative capacity of individuals and systems as defined in the category. The content lacks depth in discussing the interplay between human judgement and AI logic, and does not provide any case studies or examples illustrating Agentic Agility.",
     "level": "Ignored"
   }
 }

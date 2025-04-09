@@ -361,12 +361,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-08T17:31:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "While the content discusses the role of Scrum Masters and how they can integrate UX practices into Scrum, the primary focus appears to be on the UX aspect within the Scrum framework rather than on the explicit responsibilities, coaching, and practices of Scrum Masters themselves.",
-    "level": "Secondary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the role of UX within Scrum but does not focus on the responsibilities or impact of the Scrum Master. While it mentions Scrum and the importance of collaboration in cross-functional teams, it lacks a direct exploration of the Scrum Master's role, responsibilities, or influence on team dynamics and organisational change. The primary focus is on UX and its integration into Scrum, which is secondary to the Scrum Master category.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -397,11 +400,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:31:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum and User Experience, with no mention of Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of UX in Scrum and does not explicitly discuss Test First Development principles. While it touches on collaborative practices and agile methodologies, it lacks direct mentions of success criteria, testing practices, or the importance of defining tests before implementation, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum and UX practices, with no direct mention of the One Engineering System framework. While it discusses collaboration and integration within teams, it does not align with the core principles of 1ES, nor does it provide depth on standardising engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:31:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of UX in Scrum and does not explicitly discuss Agentic Agility or its principles. While it touches on collaboration and value-based outcomes, it lacks a clear connection to the intentional shaping of outcomes or the distinction between human and AI capabilities in agility.",
     "level": "Ignored"
   }
 }

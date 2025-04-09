@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:09:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:51:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences at an event, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience at a tech event, discussing specific technologies and personal anecdotes without any reference to Evidence-Based Management principles or metrics. There are no direct mentions of data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:09:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:51:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal experience at a tech event, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience at a technical event, discussing ADO.NET, Data Services, and Silverlight, with no relevant mention or alignment to the Agile Product Operating Model. It lacks any discussion of agile methodologies, product management principles, or the key topics outlined in the APOM framework.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -319,11 +325,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:10:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:51:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal experience at an event focused on ADO.NET and Silverlight, with no mention of DevOps principles, practices, or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience at a tech event, discussing specific technologies like ADO.NET and Silverlight, without any mention of DevOps principles, practices, or cultural shifts. There is no alignment with the core themes of DevOps, and the depth of discussion is minimal, as it lacks any substantive exploration of DevOps concepts.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -697,11 +706,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:38:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:52:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses an event related to ADO.NET Entity Framework and Silverlight, without focusing on Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience at an event related to ADO.NET and Silverlight, with no direct mention or discussion of Continuous Delivery principles, practices, or related topics. It lacks any depth or alignment with the core themes of Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1327,11 +1339,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:38:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:51:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a personal experience at a technical event with no connection to Scrum Master roles, responsibilities, or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience at a technical event, discussing topics like ADO.NET and Silverlight, with no mention of Scrum or the role of a Scrum Master. There is no alignment with the core themes of the category, and the depth of discussion regarding Scrum Masters is non-existent.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1354,11 +1369,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:38:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:52:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses attending a roadshow and provides personal insights unrelated to Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a personal experience at the MSDN Roadshow, focusing on ADO.NET, Data Services, and Silverlight, with no mention of Test First Development principles or practices. It lacks any relevant discussion on success criteria, testing methodologies, or the impact of testing on software delivery.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1422,6 +1440,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on a personal experience at an event, discussing topics like ADO.NET and Silverlight, with no mention or alignment to the Shift-Left Strategy. It lacks any depth or relevant discussion on integrating testing, security, or compliance in software development.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T19:51:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a personal experience at the MSDN Roadshow, discussing specific technologies and personal anecdotes rather than addressing the concept of Common Goals within Agile or DevOps frameworks. There are no explicit mentions of shared objectives or alignment strategies, and the discussion lacks depth in relation to the category's key themes.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T19:51:46",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on a personal experience at an event, discussing specific technologies and personal anecdotes rather than addressing competence in a professional context. While there are mentions of learning and insights gained, these are not explored in depth or connected to the broader themes of continuous development or professionalism.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T19:51:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a personal experience at an event, discussing specific technologies and personal anecdotes rather than Continuous Improvement principles. There are no direct mentions of Continuous Improvement, and the themes do not align with the core topics outlined for this category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:51:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience at a tech event, discussing specific technologies and personal anecdotes without any mention of Agentic Agility or its principles. There is no exploration of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category.",
     "level": "Ignored"
   }
 }

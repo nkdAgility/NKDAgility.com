@@ -1153,11 +1153,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T21:46:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:34:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on government cloud policies and skepticism towards cloud adoption, with no discussion of Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the UK and US Government Cloud First policies and their implications for public sector cloud adoption. It does not mention Test First Development, its principles, or related practices. The focus is on cloud solutions rather than testing methodologies, resulting in a very low confidence score for alignment with the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1234,11 +1237,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T21:46:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:34:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on government cloud policies and does not discuss Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the UK Government's Cloud First policy and its implications for public sector cloud adoption. It does not mention the role of a Scrum Master, nor does it align with the core themes of Scrum, such as team dynamics, coaching, or agile principles. The focus is on cloud solutions rather than Scrum methodologies or the responsibilities of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1524,6 +1530,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the UK Government's Cloud First policy and its implications for cloud adoption in the public sector. While it touches on themes of digital transformation and business agility, it does not explicitly mention or align with the principles of the One Engineering System framework, nor does it provide depth on integration or standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:34:41",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the UK Government's Cloud First policy and its implications for public sector cloud adoption. While it touches on themes of business agility and digital transformation, it does not explicitly address Agentic Agility or its principles. The focus is more on policy and practical implementation rather than the intentional shaping of outcomes through autonomy and adaptability, which are central to Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -502,11 +502,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T20:27:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:18:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses unprofessional behaviour in Agile practices and Scrum, with no focus on Test First Development or related testing principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses unprofessional behaviour in Scrum and its impact on agility, without any direct mention or exploration of Test First Development principles. While it touches on the importance of professionalism and planning, it does not address success criteria, testing practices, or the role of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -844,14 +847,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T02:26:44",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-04-08T17:18:25",
+    "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses unprofessional behaviours in the context of Scrum events and their impact on agility, which aligns with the responsibilities of a Scrum Master to foster professionalism and adherence to Agile principles. However, it does not explicitly mention the role of the Scrum Master or delve deeply into specific Scrum practices or ceremonies, leading to a moderate confidence score.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of professionalism in Scrum and how unprofessional behaviour undermines agility, which aligns with the Scrum Master's role in fostering a culture of continuous improvement. However, while it touches on Scrum principles and the impact of behaviours on team dynamics, it does not explicitly mention the Scrum Master role or provide in-depth discussion on their responsibilities. The focus is more on general agile practices rather than the specific duties of a Scrum Master.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1593,6 +1596,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses unprofessional behaviour in Scrum and its impact on agility, which deviates from the core principles of the One Engineering System. While it touches on aspects of software development practices, it does not explicitly mention or focus on the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:18:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of professionalism in Agile practices, highlighting how unprofessional behaviour undermines agility. However, it primarily focuses on Scrum roles and events rather than explicitly addressing Agentic Agility. While there are mentions of accountability and the need for understanding in team dynamics, the content does not delve into the intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals and systems, which is central to Agentic Agility.",
     "level": "Ignored"
   }
 }

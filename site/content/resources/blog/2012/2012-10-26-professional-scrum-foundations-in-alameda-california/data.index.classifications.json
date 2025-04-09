@@ -1201,12 +1201,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T18:59:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content briefly mentions Test First Development as part of a broader discussion on Scrum and Agile practices, but it is not the primary focus of the text.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions 'Test First Development' and 'Acceptance Test Driven Development' as part of a broader discussion on Scrum practices. However, the primary focus is on Scrum roles, sprints, and team dynamics rather than a detailed exploration of Test First Development principles. The alignment with the core themes is limited, and while there is some depth in discussing Scrum, it does not delve deeply into the specifics of Test First Development.",
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
@@ -1282,14 +1285,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T05:33:13",
+    "calculated_at": "2025-04-08T18:59:16",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
     "final_score": 66.0,
-    "reasoning": "The content discusses the Professional Scrum Foundations course, which includes elements relevant to the Scrum Master role, such as team dynamics, Scrum ceremonies, and the importance of collaboration. However, it primarily focuses on the course structure and participant experiences rather than the specific responsibilities and practices of a Scrum Master. While there are mentions of Scrum roles and some coaching aspects, the depth of discussion on the Scrum Master’s contributions is limited.",
+    "reasoning": "The content discusses the Professional Scrum Foundations course, which includes elements of Scrum and the role of the Scrum Master. However, while it touches on the Scrum framework and team dynamics, it does not focus specifically on the responsibilities or impact of the Scrum Master as a change agent. The mention of Scrum Masters is limited and does not delve deeply into their influence on organisational change or team effectiveness, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1588,5 +1591,17 @@
     "final_score": 61.0,
     "reasoning": "The content discusses the Professional Scrum Foundations course, which aims to enhance skills and competencies in Scrum practices. While it mentions the importance of practical experience and team collaboration, the primary focus is on the course structure and activities rather than a deep exploration of competence as a foundational principle. The discussion on learning and team dynamics is present but lacks a thorough examination of continuous development and the strategies for fostering a culture of competence.",
     "level": "Secondary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:59:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Professional Scrum Foundations course, discussing Scrum roles, events, and team dynamics without explicitly addressing the concept of Agentic Agility. While there are elements of autonomy and adaptability in team formation and execution of sprints, the content lacks a clear distinction between human and AI capabilities, and does not delve into the intentional shaping of outcomes or the transformative capacity of individuals and systems. Therefore, it only marginally aligns with the category.",
+    "level": "Ignored"
   }
 }

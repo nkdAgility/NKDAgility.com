@@ -781,14 +781,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T16:24:30",
+    "calculated_at": "2025-04-08T15:28:59",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses scaling Agile methodologies and the challenges associated with multiple teams, which is tangentially related to the role of a Scrum Master. However, it does not explicitly mention the Scrum Master role or delve into specific responsibilities, techniques, or practices that a Scrum Master would employ. The focus is more on scaling frameworks rather than the Scrum Master’s contributions, leading to a lower confidence score.",
+    "reasoning": "The content discusses scaling agile practices and mentions frameworks like SAFe and LeSS, which are related to Scrum but does not focus specifically on the role of the Scrum Master. While it touches on the challenges of maintaining agility across multiple teams, it lacks a direct discussion of the Scrum Master's responsibilities, techniques, or influence on team dynamics. The content is more about general agile scaling rather than the specific role of a Scrum Master.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
@@ -1249,14 +1249,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-14T16:24:30",
+    "calculated_at": "2025-04-08T15:29:01",
     "ai_confidence": 12.0,
-    "ai_mentions": 5.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
     "final_score": 11.0,
-    "reasoning": "The content primarily discusses scaling Agile methodologies and does not mention Test First Development or its principles. While it touches on Agile practices, it lacks any direct references to TDD, writing tests before code, or the benefits of Test First Development, leading to a very low confidence score.",
+    "reasoning": "The content primarily discusses scaling agile practices and does not mention Test First Development or its principles. While it touches on collaboration and delivering value, it lacks any direct references to success criteria, testing methodologies, or the importance of defining criteria before implementation, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -1905,6 +1905,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses scaling agile methodologies and frameworks like SAFe and LeSS, which are not directly related to the One Engineering System (1ES). While it touches on themes of collaboration and maintaining agility across teams, it lacks a direct focus on the principles and components of 1ES. The depth of discussion on scaling agile practices is significant, but it does not provide insights into the integration and standardisation of engineering processes as required by the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:28:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses scaling agile practices and the challenges associated with it, but it does not explicitly mention Agentic Agility or its principles. While there are elements of adaptability and alignment with organisational goals, the focus is primarily on frameworks and methodologies rather than on intentional shaping of outcomes through agency. The discussion lacks depth in exploring the interplay between human and AI capabilities or the transformative capacity of individuals and systems.",
     "level": "Ignored"
   }
 }

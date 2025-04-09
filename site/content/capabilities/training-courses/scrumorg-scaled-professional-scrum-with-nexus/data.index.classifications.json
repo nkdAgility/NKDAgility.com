@@ -361,12 +361,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T00:27:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T17:35:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Scaled Professional Scrum course, which includes Scrum Masters as part of the target audience, but it primarily focuses on scaling Scrum rather than the specific role and responsibilities of a Scrum Master.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on the Scaled Professional Scrum with Nexus course, which is related to scaling Scrum but does not explicitly discuss the role or responsibilities of a Scrum Master. While it touches on challenges and practices relevant to Scrum teams, it lacks a direct focus on the Scrum Master's influence, coaching, or facilitation techniques. The discussion is more about the framework and course structure rather than the Scrum Master's pivotal role in fostering agile principles and team dynamics.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -397,11 +400,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T00:27:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:35:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on scaling Scrum and does not discuss Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on scaling Scrum and the Nexus framework, with no direct mention of Test First Development principles or practices. While it discusses challenges in scaling and collaboration, it does not address success criteria, testing methodologies, or the importance of automated testing, which are core to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the Scaled Professional Scrum (SPS) and the Nexus framework, which are specific methodologies for scaling Scrum rather than discussing the One Engineering System (1ES). While there are mentions of challenges in scaling and collaboration, these do not directly relate to the principles or components of 1ES. The content lacks depth in discussing integration, standardisation, or best practices relevant to 1ES, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:35:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on scaling Scrum and the practicalities of the Scaled Professional Scrum course. While it touches on concepts like self-management and accountability, it does not explicitly discuss Agentic Agility or its principles. The emphasis is on Scrum methodologies rather than the intentional shaping of outcomes through autonomy and adaptability, which are central to Agentic Agility.",
     "level": "Ignored"
   }
 }

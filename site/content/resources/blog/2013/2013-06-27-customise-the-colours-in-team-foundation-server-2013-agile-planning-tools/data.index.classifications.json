@@ -1129,11 +1129,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:03:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on customizing colors in Team Foundation Server's Agile Planning Tools, which is unrelated to Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content focuses on customising colours in Team Foundation Server 2013 Agile Planning Tools, which is unrelated to Test First Development principles. There are no mentions of success criteria, testing practices, or any relevant discussions that align with the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1213,11 +1216,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:03:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:56:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical customization of Team Foundation Server without any reference to Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on customising colours in Team Foundation Server 2013 Agile Planning Tools, which is unrelated to the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum or the Scrum Master role, and the discussion lacks any alignment with the key topics outlined for the category. The content does not provide any depth regarding Scrum practices or principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1491,6 +1497,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on technical instructions for customising colours in Team Foundation Server, with no explicit discussion of competence, continuous learning, or skill development. While it may indirectly relate to improving workflow, it does not align with the core themes of competence as defined in Agile or DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on customising colours in Team Foundation Server 2013 Agile Planning Tools, which is a technical guide with no discussion on Agentic Agility. There are no direct mentions of agency, intentionality, or the transformative capacity of individuals or systems. The content does not align with the core themes of Agentic Agility, nor does it provide any depth on the subject.",
     "level": "Ignored"
   }
 }

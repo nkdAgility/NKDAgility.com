@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T05:59:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Continuous Integration and Continuous Delivery (CI/CD) practices, without a clear focus on Test First Development or the principles of Test-Driven Development (TDD).",
+    "calculated_at": "2025-04-08T15:39:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content discusses the importance of quality and culture within software development but does not explicitly mention Test First Development or its principles. It focuses more on CI/CD practices and organisational culture rather than the specific practices of defining success criteria or the role of testing in development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -859,11 +862,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T06:00:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:39:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses CI/CD practices and automation, with no clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content discusses the importance of a culture of quality and technical excellence but does not explicitly mention the role of a Scrum Master or delve into Scrum-specific practices. While it touches on Agile principles, it lacks a focused discussion on the responsibilities and impact of a Scrum Master within a Scrum Team.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1599,6 +1605,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses the importance of a culture of quality and technical leadership in software development, which aligns with some principles of the One Engineering System. However, it primarily focuses on personal experiences and opinions rather than the specific framework of 1ES. There are no direct mentions of 1ES or its components, and the depth of discussion on standardisation and integration of processes is limited.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:38:56",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content discusses the importance of a culture of quality and technical leadership within organisations, which touches on aspects of agency and intentionality. However, it primarily focuses on CI/CD practices and does not explicitly address Agentic Agility or differentiate between human and AI capabilities. The discussion lacks depth in exploring the principles of Agentic Agility, making it a secondary theme rather than a primary focus.",
     "level": "Ignored"
   }
 }

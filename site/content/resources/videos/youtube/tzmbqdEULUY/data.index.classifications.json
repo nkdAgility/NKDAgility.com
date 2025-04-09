@@ -496,11 +496,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T20:25:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses data migration and downtime management, with no clear focus on Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T15:40:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on data migration strategies and minimising downtime, with no direct mention or discussion of Test First Development principles. While it touches on planning and preparation, it does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices. The depth of discussion regarding Test First Development is virtually non-existent, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -826,11 +829,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T20:26:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:40:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps migration and technical aspects of data management, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on data migration strategies and does not discuss the role or responsibilities of a Scrum Master. While it touches on team productivity and planning, it lacks any direct references to Scrum principles, the Scrum Master's influence, or related coaching techniques. Therefore, it does not align with the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1536,6 +1542,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on data migration strategies and minimising downtime, with no explicit mention of the One Engineering System (1ES) framework or its principles. While it discusses collaboration and tools like Git, it does not align with the core themes of 1ES, such as integration of processes across teams or best practices for implementing a unified engineering system. The depth of discussion is limited to personal experiences and practical advice on data migration, which does not contribute to the understanding of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:40:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on data migration strategies and minimising downtime, with no explicit discussion of Agentic Agility. While it touches on planning and team productivity, it lacks a clear connection to the intentional shaping of outcomes or the principles of Agentic Agility. The mention of tools like Git and the importance of preparation does not align with the core themes of agency and intentionality in the context of both human and AI capabilities.",
     "level": "Ignored"
   }
 }

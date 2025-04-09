@@ -1129,11 +1129,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:44:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:17:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio ALM Rangers and their guidance, which is unrelated to Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the Visual Studio ALM Rangers Guidance and does not mention Test First Development or its principles. There is no focus on success criteria, testing practices, or the impact of testing on collaboration, which are core themes of the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1213,11 +1216,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:44:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:17:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on Visual Studio ALM Ranger guidance and does not discuss Scrum Masters or related responsibilities, roles, or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Visual Studio ALM Rangers Guidance and does not mention the role or responsibilities of a Scrum Master. There is no alignment with the core themes of Scrum or agile principles, and the depth of discussion regarding Scrum Masters is non-existent.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1488,6 +1494,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the Visual Studio ALM Rangers Guidance and does not explicitly discuss competence or its importance in Agile, Scrum, or DevOps contexts. While it mentions the contributions of skilled individuals (the Rangers), it lacks a detailed exploration of continuous learning, skill development, or the impact of competence on team dynamics and quality outcomes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:17:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Visual Studio ALM Rangers Guidance and does not address the concept of Agentic Agility. There are no explicit mentions of intentional shaping of outcomes, autonomy, or adaptability, which are core to the category. The focus is on resources and insights related to Visual Studio, lacking any depth or alignment with the principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

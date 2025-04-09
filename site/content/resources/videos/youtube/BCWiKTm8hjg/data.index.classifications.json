@@ -505,11 +505,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T09:12:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:16:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the concept of charity in Agile and does not address Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concept of charity within Agile environments, focusing on team collaboration and support rather than the principles of Test First Development. There are no direct mentions of Test First practices, success criteria, or testing methodologies, which are central to the category. While there is a slight alignment with the idea of fostering collaboration, it does not delve into the specifics of Test First Development, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -850,11 +853,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T09:13:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:16:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses general Agile virtues and community support without a specific focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the concept of charity within Agile environments, which is relevant to team dynamics and collaboration, but it does not explicitly focus on the role of the Scrum Master or their specific responsibilities. While it touches on themes of teamwork and collective success, it lacks depth in discussing the Scrum Master's influence on these aspects or their role in facilitating Agile practices.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1566,6 +1572,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the concept of charity within Agile methodologies, focusing on team dynamics and personal experiences rather than the One Engineering System framework. There are no direct mentions of 1ES principles, components, or its impact on software quality or delivery timelines. The discussion is more about individual and team behaviours in Agile rather than the integration and standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:16:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the concept of charity within Agile practices, which is somewhat related to the themes of collaboration and collective success. However, it does not explicitly address Agentic Agility or its principles, such as intentional shaping of outcomes or the distinction between human and AI capabilities. The focus is primarily on the virtue of charity rather than on the proactive and intentional aspects of agility, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

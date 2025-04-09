@@ -1294,11 +1294,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T13:54:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Kanban and Scrum, with no discussion of Test First Development principles, practices, or related testing methodologies.",
+    "calculated_at": "2025-04-08T15:54:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of Kanban and Scrum, focusing on workflow optimisation rather than Test First Development principles. There are no direct mentions of success criteria, testing practices, or the importance of automated testing, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1360,11 +1363,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:54:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:54:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Kanban rather than the responsibilities or practices specific to a Scrum Master, lacking a focus on Scrum Master-related themes.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the integration of Kanban with Scrum, discussing how Kanban can enhance Scrum processes. While it mentions Scrum and its practices, the role of the Scrum Master is not explicitly addressed, nor are the responsibilities or skills of a Scrum Master explored in depth. The discussion is more about methodologies rather than the Scrum Master's influence or role within a Scrum Team.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1518,6 +1524,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on the relationship between Kanban and Scrum, discussing how they can complement each other rather than addressing the principles or components of the One Engineering System. While it touches on improving processes and efficiency, it does not delve into the integration of tools or methodologies across teams, which is central to 1ES. Therefore, the confidence score reflects a low alignment with the One Engineering System category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:54:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the integration of Kanban and Scrum, discussing workflow optimisation and transparency rather than the intentional shaping of outcomes through agency and adaptability. While it touches on concepts like decision-making and efficiency, it does not explicitly address Agentic Agility or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

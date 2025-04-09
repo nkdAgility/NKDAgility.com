@@ -1198,11 +1198,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T18:25:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:53:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses personal experiences and future plans related to relocation and professional consulting, without mentioning Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on personal experiences and professional transitions rather than discussing Test First Development principles. There are no explicit mentions of Test First practices, success criteria, or testing methodologies. The content lacks depth in relation to the category, making it largely irrelevant to Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1279,14 +1282,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T04:53:29",
+    "calculated_at": "2025-04-08T17:53:47",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
     "final_score": 57.0,
-    "reasoning": "The content briefly mentions Scrum and Agile training, indicating some relevance to the Scrum Master role. However, the primary focus is on personal life changes and consulting work rather than a detailed exploration of Scrum Master responsibilities or practices. The discussion lacks depth in terms of specific Scrum Master techniques or strategies, leading to a moderate confidence score.",
+    "reasoning": "The content briefly mentions Agile practices and Scrum training, indicating some relevance to the Scrum Master role. However, the primary focus is on personal experiences and future plans rather than a detailed discussion of the Scrum Master's responsibilities or impact. The alignment with key topics is limited, and while there is mention of coaching and mentoring, it lacks depth and specificity regarding the Scrum Master role.",
     "level": "Tertiary"
   },
   "Transparency": {
@@ -1582,5 +1585,17 @@
     "final_score": 56.0,
     "reasoning": "The content discusses the author's professional journey and plans to provide consulting and coaching in Agile practices, which aligns with the themes of competence. However, it lacks explicit discussions on continuous learning or skill development, and while it mentions Agile adoption and mentoring, it does not delve deeply into the strategies for fostering a culture of competence.",
     "level": "Tertiary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:53:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal experiences and transitions rather than explicitly discussing Agentic Agility. While there are mentions of agile practices and consulting, the discussion lacks depth in exploring the intentional shaping of outcomes, the distinction between human and AI capabilities, or the mechanisms of Agentic Agility. The content does not engage with the core themes of the category, resulting in a low confidence score.",
+    "level": "Ignored"
   }
 }

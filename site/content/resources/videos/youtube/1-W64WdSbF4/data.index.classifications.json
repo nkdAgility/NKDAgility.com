@@ -529,11 +529,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T12:23:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses sprint reviews and Scrum practices, with no focus on Test First Development or related testing methodologies.",
+    "calculated_at": "2025-04-08T17:17:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Sprint Reviews and retrospective practices within Agile methodologies, with no direct mention or discussion of Test First Development principles. While it touches on feedback and iterative improvement, it does not align with the core themes of defining success criteria or testing practices, thus resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -883,12 +886,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T12:26:39",
-    "ai_confidence": 90,
-    "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses the role of the Scrum Master in facilitating Sprint Reviews, coaching teams, and ensuring effective communication and collaboration among stakeholders, which aligns closely with the responsibilities and practices of a Scrum Master.",
-    "level": "Primary"
+    "calculated_at": "2025-04-08T17:17:31",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on a workshop about Sprint Reviews, which is a specific Scrum event. While it mentions aspects of the Scrum framework, such as feedback and retrospectives, it does not delve deeply into the role or responsibilities of the Scrum Master. The discussion is more about the execution of a workshop rather than the Scrum Master's influence or techniques. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the Scrum Master category.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1599,6 +1605,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a workshop about Sprint Reviews, which is a specific Agile practice rather than discussing the One Engineering System (1ES). While it touches on aspects of software development, it does not explicitly mention 1ES or its principles, components, or implementation strategies. The discussion is more about the delivery of a workshop and technical issues encountered, lacking depth in relation to the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:17:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the logistics and execution of a workshop related to Sprint Reviews, which is a specific Agile practice. While there are mentions of feedback and retrospective outcomes, these do not explicitly connect to the principles of Agentic Agility, such as intentional shaping of outcomes or the interplay between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical environment, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

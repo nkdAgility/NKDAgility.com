@@ -1135,11 +1135,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:41:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:17:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is about moving the Team Foundation Server cache and does not discuss any aspects of Test First Development or related testing principles.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on moving the Team Foundation Server cache, which is unrelated to Test First Development principles. There are no mentions of success criteria, testing practices, or any relevant discussions that align with the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1222,11 +1225,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:41:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:17:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on moving the Team Foundation Server cache and technical details related to server management, with no reference to Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on moving the Team Foundation Server cache, which is unrelated to the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, roles, or practices, and the discussion does not align with any key topics associated with the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1500,6 +1506,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a technical guide for moving the Team Foundation Server cache, which does not directly address the principles of competence in Agile or DevOps. While it implies a need for skill in managing server configurations, it lacks explicit discussions on continuous learning, quality outcomes, or fostering a culture of competence. The mention of performance improvement is too vague to align with the core themes of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:17:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on technical instructions for moving the Team Foundation Server cache, which does not relate to the concept of Agentic Agility. There are no direct mentions of agency, intentionality, or the interplay between human and AI capabilities. The discussion is purely operational and lacks any depth regarding the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

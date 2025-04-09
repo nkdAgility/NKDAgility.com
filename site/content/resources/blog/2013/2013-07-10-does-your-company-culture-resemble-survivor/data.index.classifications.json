@@ -1204,11 +1204,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:56:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on company culture and team dynamics within Agile development, without discussing Test First Development principles, practices, or testing methodologies.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses company culture and collaboration in agile environments, with no direct mention of Test First Development principles or practices. While it touches on teamwork and problem-solving, it does not address success criteria, testing methodologies, or the importance of testing in the development process, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1288,11 +1291,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T17:56:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses team dynamics and the importance of collaboration, which are relevant to the Scrum Master's role in fostering a collaborative culture within Agile teams. However, it does not explicitly address the Scrum Master role, responsibilities, or practices, making it a secondary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of collaboration and team dynamics, which are relevant to the Scrum Master's role in fostering a culture of teamwork and agility. However, it does not explicitly mention the Scrum Master or delve into specific responsibilities or techniques associated with the role. The focus is more on organisational culture rather than the Scrum framework itself, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Transparency": {
@@ -1584,6 +1590,18 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of collaboration and teamwork in achieving agility, which indirectly relates to competence. However, it primarily focuses on cultural issues rather than explicitly addressing continuous learning or skill development. While it mentions the need for a team mentality and the impact of individual work on problem-solving, it lacks a detailed exploration of competence as a foundational principle in Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:55:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of collaboration and team culture in achieving agility, which aligns with the principles of Agentic Agility. However, it primarily focuses on cultural aspects rather than explicitly addressing the intentional shaping of outcomes or the distinction between human and AI capabilities. The depth of discussion on the transformative capacity of individuals is present but lacks a direct connection to the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

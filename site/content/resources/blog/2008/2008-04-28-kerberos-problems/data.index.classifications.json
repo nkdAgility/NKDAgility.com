@@ -154,20 +154,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:19:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:55:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Kerberos authentication issues and troubleshooting, which is unrelated to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on troubleshooting Kerberos double hop issues, which is unrelated to Evidence-Based Management. There are no direct mentions of EBM concepts, and the discussion does not align with the core themes of data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:19:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:55:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Kerberos authentication issues, which are unrelated to the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on Kerberos authentication issues and troubleshooting, with no mention or relevance to the Agile Product Operating Model or its principles. It does not discuss any aspects of agile methodologies, product management, or related frameworks.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -307,11 +313,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:19:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:54:47",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kerberos authentication issues, which are not directly related to DevOps principles or practices.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on troubleshooting Kerberos authentication issues, which is not directly related to DevOps principles or practices. There are no explicit mentions of DevOps concepts, and the discussion lacks depth in terms of collaboration, automation, or shared accountability that are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -688,11 +697,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:02:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:55:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Kerberos authentication problems, which are not related to Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Kerberos authentication issues, which are unrelated to Continuous Delivery. There are no direct mentions of Continuous Delivery principles, practices, or related topics. The focus is on troubleshooting network security challenges rather than software delivery practices.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1324,11 +1336,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:02:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:55:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical issues related to Kerberos authentication and does not mention Scrum or the role of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on Kerberos authentication issues, which is unrelated to the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum, agile principles, or any relevant discussions that align with the key topics of the Scrum Master category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,11 +1366,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:02:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:55:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Kerberos authentication issues and does not relate to Test First Development or any agile practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Kerberos authentication issues and troubleshooting, which is unrelated to Test First Development principles. There are no direct mentions of testing practices, success criteria, or any relevant concepts associated with Test First Development. The focus is entirely on network security challenges, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1419,6 +1437,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses issues related to Kerberos authentication and troubleshooting, which are not relevant to the Shift-Left Strategy in software development. There are no direct mentions of testing, security, or compliance processes integrated early in the development lifecycle, nor does it explore any principles or benefits associated with the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T19:54:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to Kerberos authentication and troubleshooting, with no explicit mention of Common Goals, Agile, or DevOps principles. It lacks alignment with the core themes of shared objectives and strategic alignment, and provides minimal depth on any relevant topics.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T19:54:53",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on troubleshooting Kerberos double hop issues, which does not directly relate to the principles of competence in Agile, Scrum, DevOps, or Lean methodologies. While there is a mention of seeking resources and updating progress, it lacks a clear discussion on continuous learning, skill development, or the importance of competence in delivering quality outcomes. The content is more technical and problem-solving oriented rather than addressing the foundational principles of competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T19:54:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting Kerberos double hop issues, which is unrelated to Continuous Improvement principles. There are no explicit discussions on improvement processes, empirical evidence, or team effectiveness. The mention of resources for troubleshooting does not align with the core themes of Continuous Improvement, and the depth of discussion is minimal, lacking any strategic insights or frameworks related to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:54:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to Kerberos authentication and troubleshooting, with no explicit mention of Agentic Agility or its principles. It does not align with the core themes of intentionality, autonomy, or adaptability, nor does it provide any depth on the subject. The focus is entirely on resolving a specific technical problem, which falls outside the scope of Agentic Agility.",
     "level": "Ignored"
   }
 }

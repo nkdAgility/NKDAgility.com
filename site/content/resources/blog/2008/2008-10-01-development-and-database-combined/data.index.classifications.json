@@ -1060,11 +1060,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:01:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:41:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses the combination of Microsoft products without reference to Test First Development principles, practices, or related topics.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the merger of Visual Studio Team Editions for Developers and Database Developers, with no explicit mention of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1249,11 +1252,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:01:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:41:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on the combination of development tools and does not mention Scrum or the role of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the merger of Visual Studio Team Editions for Developers and Database Developers, which is unrelated to the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum, agile principles, or the impact of a Scrum Master on team dynamics or organisational change. The focus is on software development tools rather than Scrum practices.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1470,6 +1476,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily discusses the merger of Visual Studio Team Editions without any explicit mention of competence, continuous learning, or skill development. While it may imply some enhancement in development experience, it lacks a direct focus on the principles of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:41:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the merger of Visual Studio Team Editions for Developers and Database Developers, which does not relate to the concept of Agentic Agility. There are no direct mentions of intentional shaping of outcomes, autonomy, adaptability, or any of the key topics associated with Agentic Agility. The focus is on product features rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

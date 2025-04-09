@@ -1384,11 +1384,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on continuous improvement and the use of metrics and visual tools, with no clear discussion on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T15:53:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on continuous improvement through metrics and visual tools, with no direct mention of Test First Development principles or practices. While it discusses the importance of data and transparency, it does not align with the core themes of defining success criteria or testing methodologies. The discussion lacks depth regarding Test First practices, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1450,11 +1453,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:53:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses metrics and visual tools for workflow improvement without a specific focus on the Scrum Master role or Scrum practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools, which are relevant to Scrum practices. However, it does not explicitly mention the role of the Scrum Master or delve into their specific responsibilities, techniques, or influence on team dynamics. The focus is more on general improvement strategies rather than the Scrum Master's pivotal role in facilitating these processes.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1611,6 +1617,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on continuous improvement through metrics and visual tools, which does not directly address the principles or components of the One Engineering System. While it touches on themes of process improvement and collaboration, it lacks explicit discussion of 1ES, its integration, or its impact on software quality and delivery timelines.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:53:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools, which aligns with some principles of Agentic Agility, such as adaptability and intentional shaping of outcomes. However, it lacks a direct focus on the concept of agency, particularly the distinction between human and AI capabilities, and does not delve deeply into the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

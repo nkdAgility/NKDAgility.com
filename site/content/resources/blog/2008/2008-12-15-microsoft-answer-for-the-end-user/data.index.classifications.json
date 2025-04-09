@@ -1063,11 +1063,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:56:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:36:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a support forum for Windows Vista users and does not relate to Test First Development or its principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a support forum for Windows Vista users, focusing on providing straightforward help without technical jargon. It does not mention Test First Development, its principles, or any related practices. The discussion is entirely unrelated to the core themes of Test First Development, such as success criteria, testing methodologies, or collaboration among development teams.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1255,11 +1258,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:56:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:36:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on providing support for Windows Vista users and does not discuss Scrum roles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a support forum for Windows Vista users, with no mention of Scrum, Scrum Masters, or related agile practices. It does not discuss any responsibilities, skills, or impacts relevant to the Scrum Master role, nor does it touch on team dynamics or organisational change, which are key topics in the Scrum Master category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1476,6 +1482,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on a support forum for Windows Vista users, discussing user-friendly solutions without technical jargon. It does not explicitly mention competence or related themes such as continuous learning, skill development, or professionalism. While it aims to provide straightforward support, it lacks depth in discussing the importance of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:36:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a support forum for Windows Vista users, discussing user engagement and support without any reference to Agentic Agility, intentional shaping of outcomes, or the interplay between human and AI capabilities. It lacks any depth or alignment with the core themes of the category.",
     "level": "Ignored"
   }
 }

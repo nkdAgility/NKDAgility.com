@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T12:31:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:46:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a hosted version of a specific tool without focusing on DevOps principles, practices, or related topics.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific deployment tool for .NET and Team Explorer, with no explicit discussion of DevOps principles, practices, or cultural shifts. While it mentions deployment, it lacks alignment with the core themes of DevOps such as collaboration, automation, or shared accountability. The depth of discussion is minimal, focusing solely on the tool rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T12:31:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:46:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a hosted version of a tool related to .NET and TFS, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a specific deployment tool for .NET and Team Explorer, with no direct mentions or discussions related to the Agile Product Operating Model. It lacks any alignment with the core themes of APOM, such as product management principles or agile methodologies. The depth of discussion is also minimal, as it does not provide any insights into agile practices or product-oriented mindsets.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -172,11 +178,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T12:32:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:46:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a hosted version of a software tool without any reference to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a deployment tool for .NET and Team Explorer, with no explicit mention of Evidence-Based Management principles or metrics. It lacks any alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and does not provide any depth on the topic.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -886,11 +895,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:01:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:46:33",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a hosted application and its deployment process without focusing on Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions deployment through ClickOnce, which relates to Continuous Delivery, but lacks a comprehensive discussion on its principles, practices, or benefits. The focus is primarily on a specific tool rather than the broader concepts of Continuous Delivery.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1048,11 +1060,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:01:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:46:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a hosted version of TFS Sticky Buddy and deployment details, with no mention of Test First Development or its principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a deployment tool for .NET and does not discuss Test First Development principles, success criteria, or testing practices. There are no direct mentions or relevant themes related to Test First Development, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1237,11 +1252,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:01:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:46:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical tool related to .NET and TFS, with no relevance to Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a deployment tool for .NET and does not mention the Scrum Master role or any related concepts. There is no discussion of Scrum principles, responsibilities, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1425,6 +1443,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a hosted version of a tool related to TFS (Team Foundation Server) without any explicit mention of the Shift-Left Strategy. There is no discussion of integrating testing, security, or compliance early in the development process, nor does it provide any insights into the principles or benefits of the Shift-Left approach. The focus is on deployment and prerequisites rather than on the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T19:46:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a specific tool (TFS Sticky Buddy) and its deployment process, with no explicit discussion of Common Goals, Agile, or DevOps principles. There are no mentions of shared objectives or alignment strategies, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T19:46:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a specific tool for deployment in a technical context, with no explicit discussion of competence, continuous learning, or skill development. It lacks any depth or alignment with the core themes of competence as defined in Agile and DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T19:46:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a specific tool for deployment and does not discuss Continuous Improvement principles, methodologies, or practices. There are no direct mentions of Continuous Improvement, nor does it align with the core themes such as empirical evidence, experimentation, or team effectiveness. The depth of discussion is minimal, as it only describes a tool without any context of improvement or learning.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:46:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a deployment tool for .NET and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, human or AI capabilities, or any related concepts. The content lacks depth and relevance to the category.",
     "level": "Ignored"
   }
 }

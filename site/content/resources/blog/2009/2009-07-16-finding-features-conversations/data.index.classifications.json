@@ -1102,11 +1102,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T03:05:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:30:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses email features and personal experiences with software, with no mention of Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses features of Office 2010 and email conversations, with no mention of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the category's core themes.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1186,11 +1189,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T03:05:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:30:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Scrum or the role of a Scrum Master, focusing instead on features of email conversation management.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses features of Office 2010 and email conversations, with no direct mention of Scrum or the role of a Scrum Master. It lacks any alignment with the core themes of the category, such as team dynamics, coaching, or agile principles. The depth of discussion is minimal and irrelevant to the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1461,6 +1467,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses features of Office 2010 and email conversations, with no explicit mention of competence or related themes. It lacks depth and alignment with the principles of continuous learning, skill development, or professionalism.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:30:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on features of Office 2010 and email conversations, with no explicit discussion of Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content lacks depth and relevance to the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

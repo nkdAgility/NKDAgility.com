@@ -1084,11 +1084,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:01:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:37:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses retrieving identities from Team Foundation Server and modifying work item definitions, with no mention or relevant discussion of Test First Development or related testing practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on retrieving identities from Team Foundation Server and does not discuss Test First Development principles, success criteria, or testing practices. There are no mentions of Test-Driven Development (TDD), Acceptance Test-Driven Development (ATDD), or any related concepts, making it irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1282,11 +1285,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:01:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:37:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content predominantly focuses on technical aspects of retrieving identities from Team Foundation Server and does not address any topics related to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of retrieving identities from Team Foundation Server and does not mention the role or responsibilities of a Scrum Master. There is no discussion of Scrum principles, team dynamics, or coaching, which are central to the Scrum Master role.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1506,6 +1512,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on technical implementation details related to retrieving identities from Team Foundation Server. While it demonstrates a level of technical competence, it does not explicitly discuss the importance of continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The discussion lacks depth in exploring how competence impacts team dynamics or quality outcomes, which are key themes in the 'Competence' category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:37:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to retrieving identities from Team Foundation Server. It does not discuss Agentic Agility, its principles, or its impact on organisational agility. There are no explicit mentions of intentional shaping of outcomes, autonomy, or adaptability, which are core to the category.",
     "level": "Ignored"
   }
 }

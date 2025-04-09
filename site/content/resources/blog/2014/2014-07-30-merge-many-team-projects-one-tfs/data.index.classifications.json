@@ -1144,11 +1144,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:11:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:44:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses primarily on merging Team Projects in TFS and configuring TFS Integration Tools, with no clear discussion on Test First Development or its principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on merging Team Projects in TFS and does not discuss Test First Development principles, success criteria, or testing practices. It lacks any mention of automated or manual testing methodologies, making it irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1231,11 +1234,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:11:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:44:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on merging Team Projects in TFS, with no clear discussions on Scrum Master responsibilities, practices, or team dynamics.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on technical aspects of merging Team Projects in TFS, with no direct mention of the Scrum Master role or its responsibilities. While there are references to team dynamics and project management, they are not aligned with the core themes of the Scrum Master category, which emphasises facilitation, coaching, and agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1509,6 +1515,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on technical instructions for merging Team Projects in TFS, with minimal direct discussion on competence or continuous skill development. While it touches on the challenges and complexities of the migration process, it lacks a strong emphasis on the importance of competence in Agile or DevOps contexts, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:44:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for merging Team Projects in TFS, lacking any discussion on the intentional shaping of outcomes, agency, or adaptability. It does not address the principles of Agentic Agility or differentiate between human and AI capabilities.",
     "level": "Ignored"
   }
 }

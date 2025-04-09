@@ -1123,11 +1123,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T10:18:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:45:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on setting up a router on Hyper-V, discussing network configuration and hardware, with no mention of Test First Development, TDD, or related testing practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses setting up a router on Hyper-V and does not mention Test First Development principles, success criteria, or any related testing practices. It focuses on technical setup and troubleshooting rather than any testing methodologies.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1210,11 +1213,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T10:18:09",
+    "calculated_at": "2025-04-08T17:45:36",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily about running a router on Hyper-V and does not relate to the Scrum Master role or responsibilities.",
+    "reasoning": "The content focuses entirely on technical aspects of running a router on Hyper-V, with no mention of Scrum, Scrum Masters, or related agile practices. It does not discuss any responsibilities, skills, or impacts of a Scrum Master, nor does it touch on team dynamics or stakeholder engagement, which are key topics in the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1485,6 +1491,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on technical instructions for setting up a router on Hyper-V, with minimal reference to competence in terms of skill development or professional growth. While there are mentions of troubleshooting and problem-solving, these do not directly align with the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:45:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for setting up a router on Hyper-V, with no explicit discussion of Agentic Agility or its principles. While there are mentions of problem-solving and adaptability in the context of networking, these do not align with the core themes of intentionality, agency, or the interplay between human and AI capabilities. The content lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }
 }

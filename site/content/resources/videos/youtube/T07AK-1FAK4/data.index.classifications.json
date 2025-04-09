@@ -178,11 +178,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on criticisms of fake agilists and does not discuss Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:23:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the dangers of fake agilists in Agile methodologies, focusing on leadership, trust, and continuous improvement rather than the principles of Test First Development. There are no direct mentions of Test First practices, success criteria, or testing methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -610,12 +613,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:23:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses general themes of Agile and criticisms of Agile practitioners but does not specifically focus on the role or responsibilities of a Scrum Master.",
-    "level": "Ignored"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the dangers of fake agilists and the importance of genuine expertise in Agile methodologies, which indirectly relates to the role of a Scrum Master. However, it does not explicitly focus on the responsibilities or impact of a Scrum Master, nor does it delve into specific Scrum practices or techniques. The primary emphasis is on the broader Agile context rather than the Scrum Master role itself.",
+    "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -1470,6 +1476,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the challenges posed by 'fake agilists' within Agile methodologies, focusing on leadership and team dynamics rather than the principles or components of the One Engineering System. While it touches on aspects of Agile practices, it does not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The discussion is more about personal experiences and opinions rather than a structured analysis of a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:23:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the dangers of fake agilists and the importance of genuine expertise in Agile practices. While it touches on themes of leadership and the need for adaptability, it does not explicitly address Agentic Agility or its principles. The focus is primarily on the negative impact of misaligned Agile practices rather than on intentional shaping of outcomes through autonomy and adaptability. Therefore, while there are some relevant points, the overall alignment with the category is limited.",
     "level": "Ignored"
   }
 }

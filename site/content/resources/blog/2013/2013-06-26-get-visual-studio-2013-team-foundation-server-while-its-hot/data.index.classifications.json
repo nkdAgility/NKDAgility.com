@@ -1207,12 +1207,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T17:57:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content touches upon testing features in Team Foundation Server 2013, indicating a focus on testing practices, but does not primarily discuss Test First Development or the concept of defining tests before implementation.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions testing tools and features in Team Foundation Server 2013, but it does not explicitly discuss Test First Development principles or practices. While there is a section on testing, it lacks depth and does not connect to the core themes of Test First Development, such as defining success criteria before implementation or the role of automated testing. Overall, the focus is more on new features rather than a discussion of Test First Development.",
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
@@ -1291,11 +1294,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:09:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:57:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2013 and Team Foundation Server, focusing on Agile Portfolio Management, collaboration tools, and testing features, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on features of Visual Studio 2013 Team Foundation Server and does not explicitly discuss the role or responsibilities of a Scrum Master. While it mentions agile practices, it does not delve into the Scrum Master's influence on team dynamics, coaching, or organisational change, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1578,6 +1584,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the features of Visual Studio 2013 Team Foundation Server, discussing tools for collaboration and testing rather than directly addressing the concept of competence. While it touches on aspects of Agile practices, it does not delve into continuous learning, skill development, or the professional growth of teams, which are central to the competence category. The discussion lacks depth in exploring how these tools contribute to competence or quality outcomes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:57:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses features of Visual Studio 2013 Team Foundation Server, focusing on Agile practices and tools for collaboration and testing. While it touches on aspects of agility, it does not explicitly address the concept of Agentic Agility, such as intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion lacks depth in exploring the principles and mechanisms of Agentic Agility, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

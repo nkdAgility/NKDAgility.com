@@ -202,11 +202,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T15:08:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:33:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses feature flags and continuous delivery practices, with no clear focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on feature flags and continuous delivery in software development, with no direct mention of the Scrum Master role or its responsibilities. While it touches on concepts like feedback and incremental delivery, these are not specifically tied to the Scrum framework or the Scrum Master's influence. Therefore, the alignment with the category is minimal.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1138,11 +1141,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T15:11:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses feature flags and continuous delivery practices, with no clear focus on Test First Development or related testing methodologies.",
+    "calculated_at": "2025-04-08T15:33:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the use of feature flags in continuous delivery, which is not directly related to Test First Development principles. While it touches on the importance of feedback and incremental delivery, it lacks explicit discussions on defining success criteria, automated testing practices like TDD or ATDD, and the core themes of Test First Development. The focus is more on deployment strategies rather than the testing-first approach.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1668,6 +1674,18 @@
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "The content primarily discusses the use of feature flags in software development, focusing on continuous delivery and user feedback. While it touches on aspects of software delivery, it does not explicitly mention the One Engineering System (1ES) framework or its principles. The discussion lacks depth regarding integration and standardisation of engineering processes, which are core to 1ES. Therefore, the content is only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:33:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the use of feature flags in software development, which relates to adaptability and incremental delivery. However, it lacks a direct focus on the intentional shaping of outcomes, accountability, or the distinction between human and AI capabilities. While it touches on feedback and user engagement, it does not delve into the principles of Agentic Agility or provide a comprehensive exploration of the category.",
     "level": "Ignored"
   }
 }

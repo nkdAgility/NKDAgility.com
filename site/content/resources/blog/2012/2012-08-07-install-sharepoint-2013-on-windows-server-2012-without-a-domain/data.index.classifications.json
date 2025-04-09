@@ -1120,11 +1120,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:57:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:03:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation and configuration of SharePoint 2013, with no mention of Test First Development or related testing practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of SharePoint 2013 on Windows Server 2012, with no direct mention or discussion of Test First Development principles, practices, or methodologies. It lacks any reference to success criteria, testing practices, or the impact of testing on software delivery, which are essential to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1207,11 +1210,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:58:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:03:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and configuration of SharePoint 2013, with no relevant focus on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the installation and configuration of SharePoint 2013, with no mention of Scrum, the role of a Scrum Master, or any related agile practices. It does not align with the key topics or responsibilities associated with the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the technical installation process of SharePoint 2013, with minimal references to competence or skill development. While it discusses the importance of following certain procedures and updates, it does not delve into continuous learning, professional development, or the broader implications of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:03:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of SharePoint 2013, with no explicit discussion of Agentic Agility or its principles. While there are mentions of user autonomy in configuring SharePoint, these are not developed into a broader discussion of intentionality or adaptability in socio-technical environments.",
     "level": "Ignored"
   }
 }

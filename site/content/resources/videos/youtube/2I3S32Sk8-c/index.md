@@ -34,11 +34,11 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Agile Project Management
-- Scrum Master
 - Team Performance
 - People and Process
 - Scrum Team
 - Discovery and Learning
+- Scrum Master
 resourceTypes:
 - video
 layout: video

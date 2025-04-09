@@ -1222,12 +1222,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the importance of collaboration and culture in Agile teams, which is related to the Scrum Master's role, but it primarily focuses on broader cultural and structural issues rather than specific Scrum Master responsibilities or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-08T15:30:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of culture in scaling technology, touching on collaboration and continuous learning, which are relevant to the Scrum Master's role. However, it does not explicitly mention the Scrum Master or delve into specific Scrum practices, making it a secondary focus rather than a primary discussion on the role.",
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1375,11 +1378,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses team culture and scaling rather than principles or practices of Test First Development.",
+    "calculated_at": "2025-04-08T15:30:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of engineering culture in scaling technology, focusing on collaboration, continuous learning, and the pitfalls of relying solely on tools. It does not mention Test First Development, success criteria, or any specific testing methodologies, which are central to the category. The discussion is more about cultural aspects rather than the principles of Test First Development.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1470,6 +1476,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses the importance of engineering culture in scaling technology, which is tangentially related to the principles of collaboration and integration found in the One Engineering System. However, it does not explicitly mention 1ES or its components, nor does it delve into specific practices or case studies related to 1ES. The focus is more on cultural aspects rather than the standardisation and integration of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:30:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of culture in scaling technology, touching on themes of collaboration and continuous learning, which are relevant to Agentic Agility. However, it lacks explicit mentions of the category and does not delve into the intentional shaping of outcomes or the distinction between human and AI capabilities. The focus is more on cultural aspects rather than the proactive agency described in Agentic Agility.",
     "level": "Ignored"
   }
 }

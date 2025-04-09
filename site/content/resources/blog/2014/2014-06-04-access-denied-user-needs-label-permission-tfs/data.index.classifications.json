@@ -1135,11 +1135,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T10:32:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:46:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content mainly focuses on access permissions and configuration issues in TFS, with no relevant discussions on Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses TFS security settings and user permissions, with no direct mention of Test First Development principles, success criteria, or testing practices. It lacks alignment with the core themes of Test First Development and provides minimal detail relevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1219,11 +1222,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T10:32:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:46:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses TFS configuration and security measures, which are unrelated to Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses TFS (Team Foundation Server) security settings and error resolution, with no direct mention of Scrum Master responsibilities or related concepts. While it touches on project management, it does not align with the core themes of the Scrum Master role, such as facilitation, coaching, or team dynamics. The depth of discussion is focused on technical troubleshooting rather than Scrum practices.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1497,6 +1503,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on learning and problem-solving in the context of TFS security settings, which relates to competence. However, it lacks a focused discussion on continuous learning, skill development, or the broader implications of competence in Agile or DevOps environments. The mention of learning something new and the challenges faced with user permissions indicates some level of competence, but it does not delve deeply into the principles of professionalism or quality delivery.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:45:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS permissions and does not engage with the concept of Agentic Agility. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability. The focus is on troubleshooting a specific error rather than exploring the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }
 }

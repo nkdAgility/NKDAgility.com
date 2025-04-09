@@ -1108,11 +1108,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:34:38",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is a personal blog post about a family event, with no relevance to Test First Development or related software practices.",
+    "reasoning": "The content is a personal narrative celebrating the birth of a child and does not discuss any aspects of Test First Development or related software engineering practices. There are no mentions of success criteria, testing methodologies, or any relevant themes associated with Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1189,11 +1192,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:34:41",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is a personal account of a family event and does not discuss any aspects related to Scrum, Scrum Masters, or Agile methodologies.",
+    "reasoning": "The content is entirely focused on a personal family event, specifically the birth of a child, with no references to Scrum, the role of a Scrum Master, or any related concepts. It does not discuss any responsibilities, skills, or impacts associated with the Scrum Master role, nor does it touch on agile principles or team dynamics.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1464,6 +1470,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content focuses on a personal family event, specifically the birth of a child, and does not discuss any aspects related to competence, continuous learning, or professional development. There are no mentions or themes that align with the principles of competence as defined in Agile, Scrum, DevOps, or Lean methodologies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:34:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a personal family event, specifically the birth of a child, and does not discuss any concepts related to Agentic Agility, such as intentional shaping of outcomes, autonomy, or adaptability. There are no mentions of human or AI capabilities in the context of agility, making it irrelevant to the category.",
     "level": "Ignored"
   }
 }

@@ -520,11 +520,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T10:22:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:04:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on agile consulting tips and does not specifically discuss the role or responsibilities of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the skills required for an agile consultant, with only a brief mention of Scrum and agile principles. While it touches on aspects relevant to a Scrum Master, such as understanding team dynamics and facilitating change, it lacks a direct focus on the specific responsibilities and impact of a Scrum Master within a Scrum Team. The discussion is more general and does not delve deeply into the nuances of the Scrum Master's role.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -940,11 +943,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:22:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:04:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses tips for agile consulting without mentioning Test First Development or related concepts.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the skills required for agile consulting, such as understanding the domain, active listening, and honest communication. It does not discuss Test First Development principles, success criteria, or testing practices, which are central to the category. The mention of agile and Scrum is too general and does not specifically relate to Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1500,6 +1506,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on skills for agile consultants, such as understanding the domain, active listening, and communication, which are not directly related to the One Engineering System framework. While there are mentions of software development contexts, the discussion does not align with the core themes of 1ES, such as integration of tools and processes or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:04:17",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on essential skills for agile consultants, such as understanding the domain, active listening, and honest communication. While these skills can contribute to effective consulting, they do not explicitly discuss Agentic Agility or its core themes. The mention of transparency and articulating uncomfortable truths hints at some elements of agency, but the overall discussion lacks depth and direct alignment with the principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

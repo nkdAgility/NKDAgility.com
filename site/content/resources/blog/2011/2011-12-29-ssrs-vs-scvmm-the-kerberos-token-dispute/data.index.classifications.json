@@ -1126,11 +1126,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:41:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:11:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses installation and configuration issues related to TFS and Lab Management, specifically around Server Management and Kerberos authentication, with no clear focus on Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS and SCVMM installations, focusing on Kerberos authentication problems. It does not mention Test First Development principles, success criteria, or any testing methodologies, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1213,11 +1216,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:41:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:11:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to TFS and SCVMM setup, focusing on technical configurations and problem-solving, without any references to the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS and SCVMM, with no direct mention of Scrum Master responsibilities or concepts. While there is a brief mention of team dynamics in the context of infrastructure work, it does not align with the core themes of the Scrum Master role or its impact on agile practices.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1488,6 +1494,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on technical issues related to Kerberos token management in SSRS and SCVMM setups, with minimal direct discussion on competence or skill development. While it touches on the need for understanding Active Directory and service configurations, it does not delve into continuous learning or the broader implications of competence in Agile or DevOps contexts. The discussion lacks depth in exploring how competence impacts team dynamics or quality outcomes, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:11:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS and SCVMM setups, focusing on Kerberos authentication problems. It does not address the concept of Agentic Agility, nor does it explore themes of intentionality, autonomy, or adaptability in either human or AI contexts. The discussion is strictly technical and lacks any mention of the transformative capacity of individuals or systems, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

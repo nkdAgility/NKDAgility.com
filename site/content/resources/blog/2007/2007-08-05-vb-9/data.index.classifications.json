@@ -154,20 +154,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:10:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:47:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a comparison between programming languages rather than Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a comparison between Visual Basic and C#, with no focus on Evidence-Based Management principles or metrics. It lacks any relevant discussion on data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:10:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:47:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the superiority of VB over C# and does not relate to Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a comparison between Visual Basic and C#, with no direct mentions or relevant discussions related to the Agile Product Operating Model. It lacks any alignment with the core themes of APOM, such as product management principles or agile methodologies, and does not provide any depth on the subject matter.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -307,11 +313,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:10:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:47:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the superiority of VB over C# and does not address any DevOps principles, practices, or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a comparison between Visual Basic and C#, with no direct mention of DevOps principles, practices, or cultural shifts. It lacks any alignment with the core themes of DevOps, such as collaboration, automation, or shared accountability, and does not provide any depth on the topic. Therefore, it is not relevant to the DevOps category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -685,11 +694,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T22:09:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:47:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily discussing the superiority of VB over C# and does not address Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a comparison between Visual Basic and C#, with no direct mention of Continuous Delivery principles, practices, or related topics. It lacks any alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or user feedback. The depth of discussion is also minimal, focusing solely on a programming language debate rather than any aspect of software delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1315,11 +1327,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T22:09:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:47:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about programming languages and their comparison, which is unrelated to the role of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a comparison between Visual Basic and C#, with no mention of Scrum or the role of a Scrum Master. It does not align with any of the key topics related to Scrum Masters, nor does it provide any depth or relevant discussion on the subject.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1342,11 +1357,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T22:09:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:47:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the superiority of VB over C#, with no mention of Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a comparison between Visual Basic and C#, with no direct mention or exploration of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1410,6 +1428,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. It focuses on a comparison between VB and C#, which is unrelated to the software development lifecycle or the proactive integration of testing, security, and compliance.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:47:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a comparison between Visual Basic and C#, with no mention of Agile, DevOps, or the concept of Common Goals. It lacks any alignment with the core themes of shared objectives or strategic alignment, and does not provide any depth on the topic of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:47:16",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on a comparison between Visual Basic and C#, with no direct discussion of competence, continuous learning, or skill development. While it may touch on programming languages, it does not align with the core themes of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:47:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a comparison between Visual Basic and C#, with no focus on Continuous Improvement principles or practices. It lacks direct mentions of Continuous Improvement, does not align with its core themes, and provides minimal detail relevant to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:47:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a comparison between Visual Basic and C#, with no explicit mention of Agentic Agility or its principles. It lacks any discussion on intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The focus is on programming languages rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

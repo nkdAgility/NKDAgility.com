@@ -526,12 +526,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the Scrum framework and its components without a specific focus on the Scrum Master role.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T17:16:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content explicitly mentions the Scrum Master role and discusses its responsibilities within the Scrum framework, which is a direct mention. However, while it touches on the importance of the Scrum Master in facilitating team effectiveness, the overall focus is broader, covering various aspects of Scrum, including values, roles, artifacts, and events. The depth of discussion on the Scrum Master is moderate, providing some detail but not extensively exploring the nuances of the role or its impact on organisational change and agility.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -955,11 +958,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:15:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Scrum framework and its roles and events, with no focus on Test First Development or related testing practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Scrum framework, discussing its values, roles, artifacts, and events. There is no explicit mention of Test First Development or its principles, nor does it delve into topics such as success criteria, TDD, or ATDD, which are central to the Test First Development category. The discussion is more aligned with Scrum practices rather than testing methodologies.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1521,6 +1527,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the Scrum framework, discussing its values, roles, artifacts, and events in detail. While it touches on themes of collaboration and team dynamics, it does not explicitly mention or align with the principles of the One Engineering System (1ES). The discussion is centred around Scrum, which is a specific methodology rather than the broader integration and standardisation of engineering processes that 1ES encompasses.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:15:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices, roles, and events, with no explicit discussion of Agentic Agility or its principles. While it touches on themes of collaboration and adaptability, it does not delve into the intentional shaping of outcomes or the distinction between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

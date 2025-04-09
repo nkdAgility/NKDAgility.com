@@ -511,11 +511,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T10:21:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:00:41",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses competence-based hierarchies and leadership, with only a brief mention of Scrum and Scrum Master, making it not central to the discussion.",
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions Scrum and the role of competence in leadership, which aligns with some Scrum Master principles. However, it lacks a direct focus on the responsibilities and impact of the Scrum Master role, making it more of a general discussion on leadership rather than a specific exploration of Scrum Master duties.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -943,11 +946,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:21:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:00:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on competence-based hierarchies in leadership and decision-making, with no mention of Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses competence-based hierarchies and leadership in agile environments, with no direct mention or discussion of Test First Development principles, practices, or methodologies. It does not align with the core themes of Test First Development, such as success criteria, testing practices, or collaboration among development roles.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1524,6 +1530,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses competence-based hierarchies and leadership in agile environments, with a focus on individual expertise rather than the integration and standardisation of engineering processes as outlined in the One Engineering System framework. There are no direct mentions of 1ES principles or components, and the discussion lacks depth regarding the implementation or impact of a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:00:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses competence-based hierarchies and their role in decision-making and leadership, which touches on aspects of agency and autonomy. However, it lacks a direct focus on Agentic Agility as defined, particularly in terms of intentional shaping of outcomes and the interplay between human and AI capabilities. The discussion is more about leadership styles rather than the specific principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

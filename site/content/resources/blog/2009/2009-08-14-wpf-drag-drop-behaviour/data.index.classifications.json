@@ -1126,11 +1126,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:28:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses WPF Drag and Drop behavior and MVVM patterns, with no mention of Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on WPF drag and drop functionality within the MVVM pattern, with no explicit discussion of Test First Development principles, success criteria, or testing practices. While it touches on coding practices, it does not align with the core themes of Test First Development, such as TDD or ATDD, nor does it provide depth in these areas.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1213,11 +1216,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:28:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical implementation details related to WPF and MVVM pattern, with no relevance to Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on WPF drag and drop functionality within the MVVM pattern, with no direct mention of Scrum or the role of a Scrum Master. While it discusses software development practices, it does not align with the responsibilities or impact of a Scrum Master, nor does it address any Scrum-related topics.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1494,6 +1500,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on technical implementation details of WPF drag and drop functionality within the MVVM pattern. While it touches on the necessity of understanding design patterns, it does not explicitly discuss continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The discussion lacks depth in relation to the principles of professionalism and quality delivery, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:28:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on WPF drag and drop functionality within the MVVM pattern, discussing technical implementation details without addressing the concepts of Agentic Agility, such as intentional shaping of outcomes, autonomy, or adaptability. There are no direct mentions of agency or the interplay between human and AI capabilities, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

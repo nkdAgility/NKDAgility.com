@@ -1369,11 +1369,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T14:40:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on measuring organizational capability and innovation rather than Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T16:08:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses evidence-based management and innovation metrics, with no direct mention of Test First Development principles or practices. While it touches on aspects of software development, it does not align with the core themes of Test First Development, such as defining success criteria before implementation or the role of testing in the development process.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1438,11 +1441,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T14:40:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:08:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on organizational effectiveness and innovation metrics, without direct relevance to the role or responsibilities of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses innovation and evidence-based management in an agile context, which is relevant to Scrum principles. However, it does not explicitly mention the role of the Scrum Master or delve into their specific responsibilities, techniques, or impact on team dynamics. The focus is more on organisational capability and metrics rather than the Scrum Master's role in facilitating Scrum processes.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1596,6 +1602,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses evidence-based management and innovation metrics, which are not directly related to the One Engineering System framework. While there are mentions of software development practices, the focus is on measuring innovation rather than integrating or standardising engineering processes across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:08:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses innovation and metrics for measuring organizational capability, which touches on aspects of agility and improvement. However, it lacks a direct focus on Agentic Agility, particularly the intentional shaping of outcomes through autonomy and adaptability. While it mentions the importance of continuous improvement and decision-making, it does not explicitly differentiate between human and AI capabilities or delve into the transformative capacity of individuals and systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

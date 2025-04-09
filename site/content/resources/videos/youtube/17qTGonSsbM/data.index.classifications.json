@@ -526,11 +526,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T12:16:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of evaluating direction in product development and organisational strategy, with no clear focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:09:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of evaluating direction in software development and product management, focusing on decision-making and adaptability rather than the principles of Test First Development. While it touches on the need for regular assessments and feedback, it does not explicitly mention Test First practices, success criteria, or automated testing methodologies, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -862,12 +865,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T12:17:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of evaluating direction in product development and organisational strategy, without a clear focus on the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T16:09:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of evaluating direction in projects, which indirectly relates to Scrum principles, particularly in the context of retrospectives and adaptability. However, it primarily focuses on developers and product owners rather than the specific role and responsibilities of a Scrum Master. The mention of retrospectives aligns with Scrum practices, but the overall depth and focus on the Scrum Master role are limited.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1608,6 +1614,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the importance of evaluating direction in software development and organisational strategy, but it does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on themes relevant to software development practices, such as feedback and adaptability, it lacks a direct focus on the integration and standardisation of engineering processes that characterise 1ES. The discussion is more about general agile practices and personal experiences rather than the specific framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:09:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of evaluating direction and making informed choices, which aligns with the principles of Agentic Agility. However, it primarily focuses on general Agile practices and does not explicitly differentiate between Human and AI Agentic Agility. The discussion lacks depth in exploring the transformative capacity of individuals and systems, resulting in a moderate confidence score.",
     "level": "Ignored"
   }
 }

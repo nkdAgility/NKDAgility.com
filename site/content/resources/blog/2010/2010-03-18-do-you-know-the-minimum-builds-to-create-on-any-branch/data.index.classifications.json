@@ -1189,14 +1189,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-15T07:10:04",
+    "calculated_at": "2025-04-08T19:24:32",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses the importance of builds and testing in a team environment, mentioning unit tests and automated UI tests. However, it does not explicitly focus on Test First Development principles or the practice of writing tests before code. The discussion is more about build processes rather than the core concepts of TDD or embedding quality from the outset, leading to a lower confidence score.",
+    "reasoning": "The content discusses the importance of builds in a project and mentions running tests as part of the build process. However, it does not explicitly focus on Test First Development principles, such as defining success criteria before implementation or the specific practices of TDD or ATDD. The discussion is more about build processes and CI/CD rather than the Test First approach itself.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1279,11 +1279,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T01:51:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:24:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content predominantly discusses build processes and does not relate to Scrum Master responsibilities or the Scrum framework.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on build processes and CI/CD practices, which are not directly related to the role or responsibilities of a Scrum Master. There are no explicit mentions of Scrum principles, team dynamics, or the Scrum Master's influence on organisational change. The discussion is technical and operational, lacking any connection to the core themes of Scrum or the responsibilities of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1569,6 +1572,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of setting up builds in a project, which indirectly relates to competence by ensuring code quality and collaboration among developers. However, it lacks a direct focus on continuous learning, skill development, or the broader implications of competence in Agile or DevOps methodologies. The discussion is primarily technical and procedural, with limited depth on the principles of professionalism and quality delivery.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:24:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on build processes and CI/CD practices, which do not directly address the concept of Agentic Agility. While there is a mention of collaboration and code quality, it lacks explicit discussions on intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI agency.",
     "level": "Ignored"
   }
 }

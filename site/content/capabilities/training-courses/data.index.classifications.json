@@ -526,11 +526,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T16:01:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T15:59:14",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Scrum Masters as part of a broader discussion on training programs for various roles in an Agile environment.",
+    "final_score": 50.0,
+    "reasoning": "The content mentions Scrum Masters as part of a broader discussion on Agile training courses, but it does not delve deeply into the specific responsibilities or impact of the Scrum Master role. While there is a direct mention of Scrum Masters, the focus is more on training in general rather than the nuances of the Scrum Master's role, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -931,11 +934,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T16:01:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:59:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on training for Agile roles and does not discuss Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile training for various roles and does not explicitly mention Test First Development or its principles. While Agile methodologies may incorporate testing practices, the discussion lacks direct relevance to Test First Development, success criteria, or specific testing methodologies like TDD or ATDD.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on Agile training for specific roles within Scrum, which is not directly related to the One Engineering System framework. While it mentions skills and knowledge for an Agile environment, it lacks explicit discussion of 1ES principles, integration of tools, or best practices related to the unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:59:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile training for specific roles without discussing the intentional shaping of outcomes or the principles of Agentic Agility. It lacks explicit mentions of agency, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

@@ -1177,11 +1177,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:31:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:04:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the author's new role as a Technical Product Manager in the Visual Studio Industry Partner Program, with a focus on collaborations and opportunities, rather than on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the author's new role as a Technical Product Manager and focuses on opportunities for partners to extend Visual Studio, without any explicit mention or discussion of Test First Development principles, success criteria, or testing practices. The content lacks depth and alignment with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1261,11 +1264,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:31:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:04:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a new role as a Technical Product Manager and does not focus on the responsibilities or practices specific to a Scrum Master.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the author's new role as a Technical Product Manager and discusses opportunities related to Visual Studio and its partner ecosystem. While there is a brief mention of the author's experience as a Professional Scrum Trainer, it is not the main focus of the content. The discussion lacks depth regarding the responsibilities and impact of a Scrum Master, and does not align with the key topics outlined for the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1543,5 +1549,17 @@
     "final_score": 64.0,
     "reasoning": "The content discusses the author's transition to a Technical Product Manager role and mentions the importance of maintaining technical competence while taking on new challenges. However, the primary focus is on the role and responsibilities within the VSIP team rather than a deep exploration of competence as a foundational principle. The discussion of competence is present but not central, leading to a moderate confidence score.",
     "level": "Secondary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:03:59",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the author's new role and responsibilities within the Visual Studio Industry Partner Program, with limited discussion on the intentional shaping of outcomes or the principles of Agentic Agility. While there are mentions of collaboration and opportunities for growth, these are not explicitly tied to the core themes of Agentic Agility, such as autonomy, adaptability, or the interplay between human and AI capabilities. The content lacks depth in exploring these concepts, resulting in a low confidence score.",
+    "level": "Ignored"
   }
 }

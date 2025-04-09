@@ -193,11 +193,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T15:28:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:34:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational culture and value optimisation in software development, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses organisational culture and system optimisation but does not explicitly mention the role of a Scrum Master or the Scrum framework. While it touches on concepts like value delivery and team dynamics, these are not directly tied to the responsibilities or impact of a Scrum Master. The focus is more on general organisational improvement rather than the specific role of a Scrum Master in facilitating Scrum practices.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1096,11 +1099,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T15:30:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses organisational culture and value optimisation in software development, with no clear focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T15:34:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses organisational culture and system optimisation without any explicit mention of Test First Development principles or practices. While it touches on concepts like measuring performance and making informed changes, these ideas do not directly relate to the core themes of Test First Development, such as defining success criteria or the role of testing in the development process.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1626,6 +1632,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses system optimisation and engineering excellence but does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on concepts like understanding workflows and metrics, it lacks a direct focus on the integration and standardisation of engineering processes that characterise 1ES. The discussion is more about general organisational culture and optimisation rather than the specific framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:34:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses organisational culture and system optimisation, which are tangentially related to Agentic Agility. However, it lacks explicit mentions of the category and does not delve into the principles of intentionality, autonomy, or adaptability that define Agentic Agility. The focus is more on general optimisation and value creation rather than the specific interplay of human and AI agency.",
     "level": "Ignored"
   }
 }

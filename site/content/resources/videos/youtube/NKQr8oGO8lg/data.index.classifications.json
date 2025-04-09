@@ -364,11 +364,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T20:18:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:44:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning and its benefits for employees and organisations, without a clear focus on the Scrum Master role or related responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses professional development and immersive learning but does not explicitly mention the role of a Scrum Master or its specific responsibilities. While it touches on themes of coaching, continuous improvement, and value delivery, these concepts are presented in a general context rather than specifically within the Scrum framework. The lack of direct references to Scrum or the Scrum Master's influence on team dynamics and organisational change limits its alignment with the category.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -400,11 +403,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T20:18:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on immersive learning and its benefits for employees and organisations, with no mention of Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:44:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on immersive learning and its benefits for individuals and organisations, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1503,6 +1509,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on immersive learning and its benefits for individuals and organisations, with no direct mention or discussion of the One Engineering System framework or its principles. While there are themes of professional development and organisational improvement, they do not align with the specific topics outlined for 1ES, such as integration of tools and processes or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:44:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses immersive learning and its transformative impact on individuals and organisations, which aligns with the concept of fostering skills and adaptability. However, it lacks explicit references to Agentic Agility, such as intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion is more focused on practical application and benefits rather than the deeper principles of agency and intentionality.",
     "level": "Ignored"
   }
 }

@@ -1216,11 +1216,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-20T19:53:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not discuss Scrum Master roles or responsibilities; it seems to be about Agile in general without specific focus on Scrum Master.",
+    "calculated_at": "2025-04-08T15:31:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on product development and user feedback, with no direct mention of the Scrum Master role or its responsibilities. While it touches on concepts like user engagement and validation, these are not specific to Scrum practices or the Scrum Master's influence. The discussion lacks depth regarding Scrum methodologies, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1372,11 +1375,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-20T19:53:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum roles and events, with no clear focus on Test First Development or its principles.",
+    "calculated_at": "2025-04-08T15:31:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on engaging real users and validating assumptions in product development, which does not directly relate to Test First Development principles. While it touches on the importance of feedback, it lacks explicit discussions on success criteria, testing practices, or the role of automated testing, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on product development and user feedback, with no direct mention of the One Engineering System or its principles. While it touches on aspects of validating ideas and engaging users, it does not align with the core themes of 1ES, such as integration of tools or standardisation of processes. The discussion lacks depth regarding the framework itself, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:31:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of engaging real users and validating assumptions in product development, which aligns with the concept of intentionality in shaping outcomes. However, it lacks explicit references to Agentic Agility and does not differentiate between human and AI capabilities. The focus is more on general product development practices rather than a deep exploration of Agentic Agility principles.",
     "level": "Ignored"
   }
 }

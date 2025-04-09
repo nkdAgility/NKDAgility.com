@@ -592,11 +592,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T22:32:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:22:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of co-location in online events and communication, with no mention of Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the concept of co-location in agile practices and the importance of video engagement in online events. It does not mention Test First Development, its principles, or related practices such as TDD or ATDD. The focus is on communication and collaboration rather than on defining success criteria or testing methodologies.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -958,11 +961,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-13T22:33:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:22:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses co-location and online participation but does not focus on the specific role or responsibilities of a Scrum Master.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the concept of co-location in agile practices and the importance of video engagement in virtual events, which are relevant to Scrum but do not focus specifically on the role of the Scrum Master. While it touches on aspects of team dynamics and communication, it lacks a direct discussion of the Scrum Master's responsibilities, techniques, or influence on organisational change, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1590,6 +1596,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the concept of co-location in agile practices and the importance of video engagement in virtual events. While it touches on themes of communication and collaboration, it does not explicitly mention or focus on the One Engineering System framework, its principles, or its implementation. The discussion is more about personal engagement in online settings rather than the integration and standardisation of engineering processes, which is the core of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:22:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of presence and engagement in online events, which touches on aspects of agency and intentionality. However, it primarily focuses on communication practices rather than explicitly addressing Agentic Agility principles, such as the distinction between human and AI capabilities or the mechanisms of AI Agentic Agility. The discussion lacks depth in exploring the transformative capacity of individuals and systems in shaping outcomes.",
     "level": "Ignored"
   }
 }

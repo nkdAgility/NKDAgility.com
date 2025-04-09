@@ -1177,14 +1177,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-15T05:40:19",
+    "calculated_at": "2025-04-08T19:00:22",
     "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 30,
     "final_score": 59.0,
-    "reasoning": "The content discusses automated testing extensively, touching on unit tests, integration tests, and UI testing, which are relevant to Test First Development. However, it does not explicitly mention the practice of writing tests before code or the principles of Test-Driven Development (TDD). The focus is more on the importance of automated testing in the software lifecycle rather than the specific methodology of Test First Development, leading to a moderate confidence score.",
+    "reasoning": "The content discusses automated testing extensively, which is a component of Test First Development, but it does not explicitly focus on the principles of defining success criteria before implementation or the specific practices of Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). While it mentions the importance of automated testing in the development lifecycle and touches on unit and UI testing, it lacks a thorough exploration of how these practices align with Test First Development principles. Therefore, while there is a significant connection, it does not fully meet the criteria for a primary focus on Test First Development.",
     "level": "Tertiary"
   },
   "Windows": {
@@ -1264,11 +1264,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T17:04:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:00:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses automated testing in software development, with no clear focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on automated testing within the software development lifecycle, with no direct discussion of the Scrum Master role or its responsibilities. While it touches on aspects of team dynamics and quality assurance, it does not align with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles. The mention of Ken Schwaber is the only indirect reference to Scrum, but it does not substantively engage with the role of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1557,6 +1560,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses automated testing and its importance in the software development lifecycle, which indirectly relates to competence through the emphasis on quality and the need for continuous improvement in testing practices. However, it lacks a direct focus on the broader themes of competence, such as continuous learning and skill development, and does not delve deeply into strategies for fostering a culture of competence. The primary focus is on technical aspects of automated testing rather than on the professional development of individuals or teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:00:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on automated testing within software development, discussing its importance and various tools. It does not explicitly address Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes through autonomy and adaptability. While there are elements of agility in the context of software development, they do not align with the specific themes of Agentic Agility, such as the distinction between human and AI capabilities or the role of intent and accountability.",
     "level": "Ignored"
   }
 }

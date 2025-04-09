@@ -541,15 +541,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T02:00:05",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "calculated_at": "2025-04-08T17:14:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on the author's journey from software engineer to DevOps consultant and trainer, with limited direct references to the Scrum Master role. While it touches on themes relevant to Agile and team dynamics, it lacks specific discussions on Scrum practices, responsibilities, or the role of a Scrum Master. The depth of discussion on Scrum Master-related topics is minimal, leading to a low confidence score.",
-    "level": "Ignored"
+    "final_score": 57.0,
+    "reasoning": "The content discusses the author's journey as a Professional Scrum Trainer, which implies a connection to the Scrum Master role. However, it primarily focuses on personal experiences and DevOps training rather than the specific responsibilities and impact of a Scrum Master. While there are mentions of training and coaching, the depth of discussion on Scrum Master responsibilities is limited, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -982,11 +982,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:14:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and training related to Agile methodologies, with no mention of Test First Development or TDD principles.",
+    "calculated_at": "2025-04-08T17:14:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the author's personal journey and experiences in software engineering and DevOps, with no explicit discussion of Test First Development principles or practices. While it touches on themes of learning from successes and failures, it lacks direct references to success criteria, automated testing, or the specific methodologies associated with Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1569,6 +1572,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the author's personal journey and experiences in software engineering and DevOps, with no explicit mention of the One Engineering System (1ES) framework or its principles. While it touches on themes of collaboration and improvement in software practices, it lacks a direct discussion of integration, standardisation, or the specific components of 1ES. The depth of discussion is limited to personal anecdotes and training philosophy, which do not align with the core topics of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:14:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the author's personal journey and experiences in software engineering and DevOps training, with only brief mentions of concepts related to growth and resilience. While there are elements of adaptability and learning from experiences, the discussion lacks a clear focus on the intentional shaping of outcomes, which is central to Agentic Agility. The content does not differentiate between human and AI capabilities, nor does it delve into the mechanisms of AI Agentic Agility, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

@@ -394,11 +394,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T20:43:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on product management and the role of a Product Owner, with no clear emphasis on the responsibilities or practices of a Scrum Master.",
+    "calculated_at": "2025-04-08T16:45:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on promoting the PSPO-A course for Product Managers and Product Owners, with only brief mentions of Agile and Scrum principles. While it touches on relevant themes, it lacks a direct discussion of the Scrum Master's role, responsibilities, or impact, which are central to the category. The depth of discussion is limited to the course's benefits rather than exploring the Scrum Master's influence or techniques.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -436,11 +439,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T20:43:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product management and Agile practices without a focus on Test First Development or related testing methodologies.",
+    "calculated_at": "2025-04-08T16:45:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course for product management and Agile methodologies, with no direct mention or discussion of Test First Development principles or practices. While Agile principles are mentioned, they do not specifically relate to the Test First Development category, which emphasises testing practices and success criteria before implementation.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1593,6 +1599,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on promoting a PSPO-A course related to Agile and Scrum methodologies, which are not directly aligned with the One Engineering System framework. While there are mentions of collaboration and efficiency, these concepts are discussed in the context of Agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:45:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course for product management and Agile methodologies, with no explicit discussion of Agentic Agility or its principles. While it touches on themes of collaboration and responding to changes, it lacks depth in exploring intentional shaping of outcomes or the distinction between human and AI capabilities in agility.",
     "level": "Ignored"
   }
 }

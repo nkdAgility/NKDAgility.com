@@ -529,14 +529,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T00:55:19",
+    "calculated_at": "2025-04-08T17:05:58",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses Agile coaching and the qualifications of Agile coaches, which indirectly relates to the role of a Scrum Master. However, it does not specifically focus on the responsibilities or practices of Scrum Masters, nor does it delve into Scrum ceremonies or team dynamics. The primary focus is on the broader concept of Agile coaching rather than the specific role of a Scrum Master.",
+    "reasoning": "The content discusses agile coaching and the qualifications of agile coaches, which indirectly relates to the role of a Scrum Master. However, it primarily focuses on the distinction between life coaches and agile coaches rather than the specific responsibilities and impact of a Scrum Master. The mention of Scrum trainers suggests a connection, but the overall focus is not on the Scrum Master role itself.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -958,11 +958,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:22:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:05:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the legitimacy and qualifications of Agile coaches rather than any principles or practices of Test First Development or related methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the roles and qualifications of agile coaches, with no direct mention or exploration of Test First Development principles, practices, or methodologies. It lacks any focus on testing, success criteria, or the relationship between testing and agile practices, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1530,6 +1533,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the role of life coaches in the context of Agile coaching, which is not directly related to the One Engineering System framework. There are no explicit mentions of 1ES principles, components, or its impact on software development practices. The discussion is focused on Agile methodologies rather than the integration and standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:05:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the trend of life coaches presenting themselves as agile coaches, focusing on the qualifications and experiences of agile coaches rather than the intentional shaping of outcomes or the principles of Agentic Agility. There are no direct mentions of Agentic Agility, and the discussion does not align with the core themes of the category, such as intent, accountability, or the interplay between human judgement and AI logic.",
     "level": "Ignored"
   }
 }

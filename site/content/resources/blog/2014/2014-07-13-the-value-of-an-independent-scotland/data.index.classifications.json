@@ -1111,11 +1111,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T09:57:07",
+    "calculated_at": "2025-04-08T17:44:59",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
     "final_score": 1.0,
-    "reasoning": "Content discusses Scottish independence and political issues, which are unrelated to Test First Development or Agile practices.",
+    "reasoning": "The content is entirely focused on the political discussion surrounding Scottish independence and does not mention or relate to Test First Development principles, practices, or methodologies in software development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1192,11 +1195,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T09:57:07",
+    "calculated_at": "2025-04-08T17:45:01",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content is focused on Scottish independence and political opinions, with no relevance to the role or responsibilities of a Scrum Master.",
+    "reasoning": "The content focuses entirely on the topic of Scottish independence and does not mention or discuss any aspects related to the role or responsibilities of a Scrum Master. There is no alignment with the key topics outlined for the Scrum Master category, nor is there any depth of discussion on Scrum principles or practices.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses Scottish independence and personal views on political issues, with no direct mention of competence or its related themes. While there are references to decision-making and value propositions, they do not align with the core principles of competence in Agile, Scrum, DevOps, or Lean methodologies. The focus is on political opinions rather than professional development or skill enhancement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:44:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Scottish independence and personal values associated with it, lacking a focus on the principles of Agentic Agility. While it touches on self-determination, it does not explore the intentional shaping of outcomes through autonomy or adaptability in a socio-technical context, nor does it differentiate between human and AI capabilities.",
     "level": "Ignored"
   }
 }

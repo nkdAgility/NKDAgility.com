@@ -1162,11 +1162,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:50:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:14:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses upgrading process templates in Team Foundation Server, with only a minor mention of creating CodedUI tests. Test First Development is not a central topic.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on upgrading process templates in Team Foundation Server and does not explicitly discuss Test First Development principles. While it briefly mentions the importance of creating tests (CodedUI tests) when making changes, this is not a central theme of the content. The discussion lacks depth on Test First practices, success criteria, or the impact on collaboration, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1246,11 +1249,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:50:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:14:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses upgrading process templates in Team Foundation Server with no relevance to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on upgrading process templates in Team Foundation Server, which is unrelated to the role and responsibilities of a Scrum Master. There are no direct mentions of Scrum practices, team dynamics, or the Scrum Master's influence on organisational change. The discussion lacks any depth regarding Scrum principles or the impact of a Scrum Master, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1527,6 +1533,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the technical aspects of upgrading process templates in Team Foundation Server, with limited direct discussion on competence. While it touches on the importance of understanding the implications of changes and the need for careful planning, it does not delve deeply into continuous learning, skill development, or fostering a culture of competence. The discussion is more about practical steps and strategies rather than the underlying principles of competence in a professional context.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:14:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on upgrading process templates in Team Foundation Server, discussing various methods and their implications. It does not explicitly address Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes through autonomy or adaptability. The discussion lacks depth in relation to the key topics outlined for Agentic Agility, such as the role of intent, accountability, or the interplay between human judgement and AI logic.",
     "level": "Ignored"
   }
 }

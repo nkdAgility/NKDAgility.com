@@ -469,11 +469,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T21:26:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:44:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Test First Development or related principles; it is unrelated to the category.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Sprint Review process within Scrum, which does not directly address Test First Development principles. There are no explicit mentions of success criteria, testing practices, or the importance of testing in the development process. The discussion is more about stakeholder engagement and future planning rather than the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -790,11 +793,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T21:26:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:44:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not provide any substantial information or discussion related to the Scrum Master role or responsibilities; it is merely a placeholder text.",
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the Sprint Review, which is a Scrum event, but does not explicitly discuss the role or responsibilities of the Scrum Master. While it touches on stakeholder engagement and decision-making, it lacks depth and a direct focus on the Scrum Master's influence or techniques. Overall, the content is more about the event itself rather than the Scrum Master role.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1461,6 +1467,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the Sprint Review, a specific Scrum event, which does not directly relate to the One Engineering System framework. There are no explicit mentions of 1ES principles, components, or its impact on software development practices. The discussion lacks depth and does not address integration, standardisation, or best practices relevant to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:43:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content briefly touches on decision-making regarding future states, which could relate to the concept of shaping outcomes. However, it lacks explicit discussion of Agentic Agility principles, does not differentiate between human and AI capabilities, and does not provide depth or detail on the category.",
     "level": "Ignored"
   }
 }

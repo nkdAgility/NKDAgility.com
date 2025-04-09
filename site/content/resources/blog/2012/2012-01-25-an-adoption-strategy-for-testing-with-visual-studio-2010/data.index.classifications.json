@@ -1273,11 +1273,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:41:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:10:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses testing with Visual Studio and techniques for developers and testers, with only a brief mention of Scrum and Agile practices as tools for team collaboration. It does not focus specifically on the role of the Scrum Master or their responsibilities.",
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Scrum in the context of agile practices and training but does not focus on the role or responsibilities of a Scrum Master. The discussion is primarily centred around testing tools and collaboration between developers and testers, lacking depth in Scrum Master-specific topics such as facilitation, coaching, or team dynamics.",
     "level": "Ignored"
   },
   "Market Share": {
@@ -1291,11 +1294,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:41:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:10:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses tools and strategies for testing within Visual Studio 2010, focusing on team collaboration and Agile practices without specifically addressing Test First Development or TDD principles.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses tools and strategies for testing within Visual Studio 2010, but it does not explicitly focus on Test First Development principles. While it mentions collaboration between developers and testers, it lacks a clear emphasis on defining success criteria before implementation or the specific practices of Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). The discussion is more about general testing strategies and agile practices rather than a focused exploration of Test First Development.",
     "level": "Ignored"
   },
   "Software Developers": {
@@ -1575,6 +1581,18 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of training and hands-on experience with Visual Studio tools, which aligns with the concept of competence in terms of skill development. However, it primarily focuses on tools and adoption strategies rather than a deep exploration of competence as a foundational principle in Agile or DevOps. The mention of agile practices and team collaboration hints at competence but lacks a thorough examination of continuous learning or mastery.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:10:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on adoption strategies for Microsoft Test Manager and agile practices in software development. While it mentions collaboration and the importance of working together, it does not explicitly discuss Agentic Agility or its principles. The content lacks a clear distinction between human and AI capabilities, and does not delve into the intentional shaping of outcomes, which are key aspects of Agentic Agility.",
     "level": "Ignored"
   }
 }

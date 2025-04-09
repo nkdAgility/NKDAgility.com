@@ -511,11 +511,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T05:18:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:03:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on scaling portfolio management and organisational flow rather than Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on scaling Portfolio Kanban and improving organisational workflow, with no direct mention of Test First Development principles or practices. While it discusses enhancing predictability and value delivery, these topics do not align with the core themes of Test First Development, which emphasises defining success criteria and the role of testing in the development process. The discussion lacks depth regarding any Test First methodologies, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -868,11 +871,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T05:19:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:03:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses scaling portfolio Kanban and organisational flow rather than the specific role and responsibilities of a Scrum Master.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the 'Applying Scaling Portfolio Kanban' course, which is centred around Kanban methodologies rather than Scrum. While it briefly mentions Scrum Masters among other roles, it does not delve into the specific responsibilities or impact of a Scrum Master. The discussion lacks depth regarding Scrum principles and practices, leading to a low confidence score in alignment with the Scrum Master category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1608,6 +1614,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on the 'Scaling Portfolio Kanban' course, which discusses strategies for managing project portfolios and enhancing value delivery. While it touches on concepts like workflow optimization and predictability, it does not explicitly mention the One Engineering System (1ES) framework or its principles. The discussion is more aligned with Kanban methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:03:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the application of Scaling Portfolio Kanban, discussing strategies for managing project portfolios and enhancing value delivery. While it touches on concepts like decision-making and improving predictability, it lacks a direct discussion on Agentic Agility, particularly the intentional shaping of outcomes through autonomy and adaptability. The content does not differentiate between human and AI capabilities in the context of agility, nor does it delve into the transformative capacity of individuals or systems. Therefore, while there are some relevant themes, they are not the primary focus.",
     "level": "Ignored"
   }
 }

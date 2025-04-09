@@ -1186,11 +1186,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T20:52:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:25:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the transition to Live Virtual Classrooms and the experience of teaching in a virtual environment, without mentioning Test First Development or relevant testing practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the transition to Live Virtual Classrooms and the benefits of virtual training, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It focuses on the logistics and experiences of virtual training rather than any testing methodologies or practices related to software development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1270,14 +1273,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T03:05:47",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-04-08T17:25:14",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses the transition to virtual training in the context of Scrum and Agile, mentioning the importance of co-location and communication, which are relevant to the Scrum Master role. However, it lacks a focused discussion on the specific responsibilities and practices of a Scrum Master, making it more of a general commentary on training rather than a deep dive into Scrum Master duties.",
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Scrum and Agile concepts, particularly in the context of virtual training, but does not focus on the role or responsibilities of a Scrum Master. While it discusses the shift to virtual classrooms and the benefits of remote learning, it lacks a detailed exploration of the Scrum Master's influence on team dynamics or organisational change. The discussion is more about training methodologies than the specific role of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1584,6 +1587,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the transition to Live Virtual Classrooms and the benefits of virtual training, with a focus on Scrum and Agile methodologies. While it touches on aspects of collaboration and communication in a virtual environment, it does not explicitly address the One Engineering System framework or its principles. The discussion is more centred on personal experiences and opinions regarding virtual training rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:25:07",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses the shift to Live Virtual Classrooms and the benefits of virtual training, but it primarily focuses on the logistics and experiences of training rather than the intentional shaping of outcomes through autonomy and adaptability. While there are hints of adaptability in the context of virtual learning, the discussion lacks depth on the principles of Agentic Agility and does not differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

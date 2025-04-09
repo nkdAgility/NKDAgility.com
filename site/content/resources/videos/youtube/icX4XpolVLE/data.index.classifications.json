@@ -79,11 +79,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-13T17:46:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:01:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps and personal experiences in software development, with no clear focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses DevOps and its challenges, with only a brief mention of Agile principles. It does not focus on the specific role or responsibilities of a Scrum Master, nor does it delve into the nuances of Scrum practices or the impact of a Scrum Master on team dynamics.",
     "level": "Ignored"
   },
   "Scaling Kanban": {
@@ -556,11 +559,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T17:49:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the author's journey in DevOps, focusing on automation, deployment processes, and cultural shifts rather than the principles and practices of Test First Development or Test-Driven Development.",
+    "calculated_at": "2025-04-08T16:01:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the evolution of DevOps and the challenges associated with its implementation, with a focus on cultural shifts, toolchain integration, and continuous learning. While it touches on automation, it does not explicitly address Test First Development principles or practices, nor does it provide detailed discussions on success criteria or testing methodologies that align with the Test First approach.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1605,6 +1611,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the evolution of DevOps and the challenges associated with its implementation, rather than focusing on the One Engineering System (1ES) framework. While there are mentions of integration and collaboration, these are framed within the context of DevOps rather than the specific principles and components of 1ES. The depth of discussion on 1ES is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:00:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the evolution of DevOps and the challenges associated with its implementation, focusing on cultural shifts, tool integration, and continuous learning. While it touches on themes of collaboration and improvement, it does not explicitly address the concept of Agentic Agility or the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks a clear distinction between human and AI capabilities in the context of agility, which is crucial for this category.",
     "level": "Ignored"
   }
 }

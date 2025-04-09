@@ -1357,11 +1357,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:14:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the challenges of engaging stakeholders in Sprint reviews and does not address Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on strategies for engaging stakeholders during Sprint reviews, which is not directly related to Test First Development principles. While it touches on the importance of feedback, it does not discuss success criteria, testing practices, or the role of testing in the development process, which are core to the Test First Development category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1423,14 +1426,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T20:24:00",
+    "calculated_at": "2025-04-08T16:14:25",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 65.0,
-    "reasoning": "The content discusses strategies for improving stakeholder engagement during Sprint reviews, which is a Scrum ceremony. However, it primarily focuses on the role of the Product Owner rather than the Scrum Master. While it touches on aspects relevant to the Scrum Master's responsibilities, such as facilitating discussions and fostering collaboration, the emphasis is not on the Scrum Master role itself. Therefore, while there is some alignment with the category, it is not the primary focus.",
+    "reasoning": "The content primarily focuses on strategies for engaging stakeholders during Sprint reviews, which is a Scrum event. While it does touch on the role of the Scrum Master indirectly by discussing the facilitation of discussions and feedback, it does not explicitly mention the Scrum Master or their responsibilities. The alignment with the category is moderate, as it relates to the Scrum framework but lacks depth in discussing the Scrum Master's specific role and impact. Overall, the content is relevant but not a primary focus on the Scrum Master role.",
     "level": "Secondary"
   },
   "Cycle Time": {
@@ -1590,6 +1593,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on improving stakeholder engagement during Sprint reviews, which is a specific aspect of Agile methodology rather than the broader principles of the One Engineering System. While it touches on collaboration and feedback, it does not discuss the integration of tools, processes, or the standardisation of practices across teams, which are core to 1ES. Therefore, the content does not align well with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:14:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses strategies for engaging stakeholders in Sprint reviews, which touches on aspects of intentionality and value creation. However, it primarily focuses on marketing and communication strategies rather than explicitly addressing Agentic Agility principles. The discussion lacks depth in exploring the distinction between human and AI capabilities, and does not delve into the mechanisms of Agentic Agility or provide case studies. Therefore, while there are relevant elements, they are not the primary focus.",
     "level": "Ignored"
   }
 }

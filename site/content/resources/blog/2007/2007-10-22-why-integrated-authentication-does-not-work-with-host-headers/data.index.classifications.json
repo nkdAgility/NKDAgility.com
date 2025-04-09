@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:59:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:25:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Integrated Authentication and does not address Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to Integrated Authentication and does not mention Evidence-Based Management or its key topics. There is no alignment with the core themes of EBM, such as data-informed decision-making or metrics related to value delivery. The depth of discussion is focused on troubleshooting a specific error rather than any management practices.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:59:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:25:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Integrated Authentication and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to Integrated Authentication and TFS, with no direct mention or alignment to the Agile Product Operating Model. It lacks any discussion on agile methodologies, product management principles, or the core themes outlined in the APOM framework.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:59:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:25:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific technical issue related to Integrated Authentication and IIS, without a clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a technical issue related to Integrated Authentication and host headers in TFS, which does not align with the core principles of DevOps. While it touches on a technical aspect relevant to software development and operations, it lacks a focus on collaboration, automation, or cultural shifts that are central to DevOps. The discussion is more about troubleshooting a specific error rather than exploring DevOps practices or philosophies.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -697,11 +706,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T20:41:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:25:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a specific authentication issue related to TFS and IIS, with no mention of Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to Integrated Authentication and host headers in TFS, with no direct mention or exploration of Continuous Delivery principles, practices, or benefits. It lacks any discussion on automation, incremental improvements, or cultural aspects of Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1336,11 +1348,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T20:41:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:25:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Integrated Authentication and Team Foundation Server, with no relevance to Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to Integrated Authentication and Team Foundation Server (TFS), with no direct mention of Scrum or the role of a Scrum Master. While there is a brief mention of a team and collaboration with an infrastructure team member, it does not align with the core themes of the Scrum Master role, such as facilitation, coaching, or agile principles. The depth of discussion is focused on troubleshooting a specific technical problem rather than exploring the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1363,11 +1378,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T20:41:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:25:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses an issue related to Integrated Authentication on TFS and does not address Test First Development or its principles, practices, or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to Integrated Authentication and host headers in TFS, with no mention of Test First Development principles, success criteria, or testing practices. It lacks any alignment with the core themes of Test First Development, and the depth of discussion is minimal, focusing instead on troubleshooting a specific error.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1431,6 +1449,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a specific technical issue related to Integrated Authentication and does not address the Shift-Left Strategy or its principles, benefits, or practices. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. The focus is entirely on troubleshooting a specific error, making it irrelevant to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:25:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to Integrated Authentication and host headers in TFS, with no mention of Common Goals, Agile, or DevOps principles. The focus is on troubleshooting a specific error rather than aligning strategy with execution or fostering collaboration within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:25:33",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses a technical issue related to Integrated Authentication and host headers in TFS, with no explicit focus on competence or continuous skill development. While it touches on problem-solving and collaboration with a colleague, these aspects do not align with the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:25:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to Integrated Authentication and host headers in TFS, with no focus on Continuous Improvement principles. While it mentions problem-solving and collaboration, these elements are not tied to the core themes of Continuous Improvement, such as empirical evidence, culture of experimentation, or strategies for organisational processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:25:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to Integrated Authentication and does not address Agentic Agility or its principles. There are no direct mentions of agency, intentionality, or the interplay between human and AI capabilities, which are central to the category. The focus is on troubleshooting a specific error rather than exploring themes of autonomy or adaptability.",
     "level": "Ignored"
   }
 }

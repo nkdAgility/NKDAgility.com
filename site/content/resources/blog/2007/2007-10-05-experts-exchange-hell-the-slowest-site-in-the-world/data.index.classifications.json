@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:12:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:28:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with website performance and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the performance issues of a specific website, Experts Exchange, without any reference to Evidence-Based Management principles or metrics. It focuses on personal frustrations and anecdotal experiences rather than empirical evidence or data-informed decision-making.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:12:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:28:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the performance issues of a website, which is unrelated to the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the performance issues of a specific website, Experts Exchange, and does not mention or align with any principles of the Agile Product Operating Model. There are no references to agile methodologies, product management, or any related concepts, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:13:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:28:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the performance issues of a website, which is unrelated to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the performance issues of a specific website, Experts Exchange, and does not mention any DevOps principles, practices, or cultural shifts. It focuses on user experience and web performance rather than the integration of people, processes, and technology in a DevOps context.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -688,11 +697,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T20:42:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:28:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a slow website and user experience issues, which are not related to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the performance issues of a specific website, Experts Exchange, and does not address any principles, practices, or benefits of Continuous Delivery. There are no direct mentions of Continuous Delivery concepts, and the discussion lacks depth in relation to the category. Overall, it is focused on user experience and web performance rather than software delivery practices.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1318,11 +1330,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T20:42:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:28:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on website performance issues and user experience, with no relation to Scrum or the responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the performance issues of a website and does not mention Scrum, the role of a Scrum Master, or any related concepts. It lacks any discussion of Scrum principles, responsibilities, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1345,11 +1360,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T20:42:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:28:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content discusses user experience issues with a slow website, unrelated to Test First Development or Agile practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the performance issues of the Experts Exchange website, focusing on user experience and page load times. It does not mention Test First Development, success criteria, or any related testing practices. The discussion is entirely unrelated to the principles of Test First Development, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1413,6 +1431,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the performance issues of a website, which is unrelated to the Shift-Left Strategy. There are no mentions of testing, security, or compliance processes in the software development lifecycle, nor does it provide any insights or techniques relevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:28:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the performance issues of a specific website, Experts Exchange, and does not address any concepts related to Common Goals in Agile or DevOps. There are no mentions of shared objectives, alignment, or strategic goals, which are central to the category. The focus is on personal frustrations and technical observations rather than any collaborative or strategic framework.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:28:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the performance issues of a website and user frustrations, with no direct mention of competence or related themes such as continuous learning, skill development, or professionalism. It lacks depth in discussing any concepts that align with the principles of competence, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:28:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on frustrations with the performance of the Experts Exchange website, discussing issues related to speed and user experience. While it touches on the need for improvement, it does not explicitly discuss Continuous Improvement principles, nor does it provide a structured approach or strategies for enhancing processes or products. The discussion lacks depth and does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:28:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the performance issues of the Experts Exchange website and user frustrations, with no mention of Agentic Agility or its principles. It does not address intentional shaping of outcomes, agency, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

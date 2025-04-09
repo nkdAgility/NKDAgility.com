@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T19:11:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:49:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on creating unique scaling practices for organisations and does not discuss Test First Development or related testing methodologies.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the importance of creating unique scaling practices for business success, focusing on organisational agility and adaptability. It does not mention Test First Development, success criteria, or any testing methodologies, which are central to the category. The discussion is more about organisational practices rather than software development principles, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -856,11 +859,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T19:12:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:49:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses scaling practices and organisational uniqueness, with no direct reference to the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of creating unique scaling practices for business success, focusing on agility and adaptability. While it touches on themes relevant to agile methodologies, it does not explicitly mention the role of a Scrum Master or delve into the specific responsibilities and impact of this role within a Scrum framework. The discussion is more aligned with general business strategy rather than the specific nuances of Scrum Master responsibilities.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1596,6 +1602,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the importance of creating unique scaling practices rather than focusing on the One Engineering System framework. While it mentions methodologies like SAFe and the Spotify Model, it does not engage with the principles or components of 1ES, nor does it provide insights into integration or standardisation of engineering processes. The discussion is centred around individual organisational practices and agility, which deviates from the core themes of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:49:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of creating unique scaling practices and fostering agility, which aligns with the concept of adaptability in Agentic Agility. However, it lacks explicit references to the intentional shaping of outcomes, accountability, or the distinction between human and AI capabilities. The focus is more on organisational practices rather than the deeper principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

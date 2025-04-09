@@ -39,6 +39,7 @@ tags:
 - Agile Project Management
 - People and Process
 - Team Performance
+- Scrum Master
 categories:
 - Scrum
 - Social Technologies

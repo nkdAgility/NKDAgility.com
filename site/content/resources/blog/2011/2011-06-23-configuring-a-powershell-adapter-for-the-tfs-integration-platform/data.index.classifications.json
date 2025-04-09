@@ -1153,11 +1153,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:42:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:14:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on configuring a PowerShell adapter for TFS and discussions related to integration, with no reference to Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on configuring a PowerShell adapter for the TFS Integration Platform, discussing technical implementation details without any reference to Test First Development principles, success criteria, or testing practices. It lacks any mention of TDD, ATDD, or the impact of testing on collaboration, which are core to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1240,11 +1243,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:42:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:14:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details and configuration for a TFS Integration Platform Adapter, with no reference to Scrum or the role of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on configuring a PowerShell adapter for the TFS Integration Platform, with no direct mention of Scrum Master responsibilities, roles, or related concepts. It lacks any discussion on Scrum practices, team dynamics, or agile principles, which are essential for the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1521,6 +1527,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on configuring a PowerShell adapter for TFS Integration Platform, detailing technical steps and code snippets. While it implies a level of competence in using PowerShell and TFS, it does not explicitly discuss continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The discussion lacks depth in exploring how competence affects team dynamics or quality outcomes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:14:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on configuring a PowerShell adapter for TFS Integration Platform, discussing technical implementation details rather than the intentional shaping of outcomes or the principles of Agentic Agility. While there are elements of adaptability in the configuration process, the content lacks a clear connection to the core themes of Agentic Agility, such as intent, accountability, and the interplay between human judgement and AI logic.",
     "level": "Ignored"
   }
 }

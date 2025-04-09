@@ -1153,11 +1153,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:18:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:16:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content mainly discusses upgrading Team Foundation Server and its server environment, without any mention of Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server (TFS) and migrating to a new domain. It does not discuss Test First Development principles, success criteria, or testing practices, which are central to the category. The mention of testing is minimal and not aligned with the Test First Development approach.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1243,11 +1246,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:18:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:16:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on technical details of upgrading Team Foundation Server and does not address Scrum Master responsibilities or related discussions.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the technical aspects of upgrading Team Foundation Server (TFS) and does not mention the role or responsibilities of a Scrum Master. There is no discussion of Scrum principles, team dynamics, or coaching, which are essential to the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1524,6 +1530,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the technical steps for upgrading TFS and migrating to a new domain, with minimal discussion on competence or skill development. While it implies a level of expertise required to perform these tasks, it does not explicitly address the importance of continuous learning, quality outcomes, or fostering a culture of competence as outlined in the category definition.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:16:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading TFS and migrating to a new domain, with no explicit discussion of Agentic Agility or its principles. While there are elements of adaptability in the upgrade process, they do not align with the core themes of intentionality and agency in shaping outcomes.",
     "level": "Ignored"
   }
 }

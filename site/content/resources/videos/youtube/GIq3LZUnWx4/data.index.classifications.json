@@ -505,11 +505,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T07:14:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:58:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the concept of value in the context of Product Ownership and does not address Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of Product Owners in defining and communicating value within Scrum environments, with no direct mention or discussion of Test First Development principles, practices, or methodologies. The themes of value and leadership in product management do not align with the core concepts of Test First Development, which emphasises testing practices and success criteria prior to implementation.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -847,11 +850,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T07:15:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:57:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of Product Owners and the concept of value, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner (PO) in a Scrum context, discussing the importance of value in that role. While it touches on Scrum principles, it does not explicitly address the responsibilities or impact of the Scrum Master, which is the primary focus of the category. The discussion is more aligned with the Product Owner's perspective rather than the Scrum Master's role, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1572,6 +1578,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the PSPO course and the concept of value in Scrum environments, which does not align with the core principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion lacks depth regarding integration or standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:57:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of value in the context of a PSPO course, which touches on aspects of agency and leadership. However, it lacks a direct focus on Agentic Agility as defined, particularly in terms of intentional shaping of outcomes and the interplay between human and AI capabilities. The discussion is more about value definition and product ownership rather than the broader themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

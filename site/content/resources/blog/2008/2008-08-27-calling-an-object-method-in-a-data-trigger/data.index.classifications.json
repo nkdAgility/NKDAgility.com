@@ -1075,11 +1075,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:36:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:43:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses calling methods in WPF and specific implementation issues but does not mention Test First Development or TDD principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on calling object methods in WPF data triggers and does not discuss Test First Development principles, success criteria, or testing practices. While it touches on coding practices, it lacks any mention of testing methodologies or the importance of defining success criteria before implementation, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1270,11 +1273,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:36:39",
+    "calculated_at": "2025-04-08T19:43:12",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses technical aspects of WPF and object methods, which are unrelated to the role, responsibilities, or practices of a Scrum Master.",
+    "reasoning": "The content focuses entirely on technical aspects of WPF and data triggers, with no mention or discussion of Scrum Master responsibilities, roles, or related concepts. It does not align with any key topics associated with the Scrum Master category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1491,6 +1497,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on technical implementation details related to WPF and does not explicitly discuss competence, continuous learning, or skill development. While it may indirectly contribute to skill enhancement, it lacks a direct connection to the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:43:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of calling object methods in WPF data triggers, with no explicit discussion of Agentic Agility or its principles. While there is a mention of methods and actions, it lacks the intentional shaping of outcomes, autonomy, or adaptability that characterises Agentic Agility. The content does not differentiate between human and AI capabilities, nor does it engage with the core themes of the category.",
     "level": "Ignored"
   }
 }

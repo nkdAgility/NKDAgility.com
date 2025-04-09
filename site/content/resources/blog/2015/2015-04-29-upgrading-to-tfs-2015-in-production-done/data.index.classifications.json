@@ -1144,11 +1144,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T22:16:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:38:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the upgrade process of TFS 2015 and does not focus on Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the upgrade process of TFS 2015, detailing steps, configurations, and best practices for installation. It does not discuss Test First Development principles, success criteria, or testing methodologies, which are central to the category. The mention of testing is limited to backup procedures and does not align with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1234,11 +1237,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T22:16:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:38:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS 2015, with no direct mention of the Scrum Master role or its responsibilities. While it discusses team dynamics in a very indirect manner, it lacks any substantial alignment with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1521,6 +1527,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on the technical aspects of upgrading to TFS 2015, detailing specific steps and configurations. While it touches on best practices for the upgrade process, it does not discuss the One Engineering System framework, its principles, or its impact on software development practices. The discussion lacks depth in relation to 1ES and does not provide insights into integration or standardisation across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:38:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS 2015, with no explicit discussion of Agentic Agility or its principles. While it touches on aspects of organisational processes, it lacks depth in exploring intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI agency.",
     "level": "Ignored"
   }
 }

@@ -1129,11 +1129,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T17:51:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:42:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses moving Azure storage blobs and does not reference Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on moving Azure storage blobs using PowerShell, with no mention of Test First Development principles, success criteria, or testing practices. It lacks any discussion on automated or manual testing, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1213,11 +1216,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T17:51:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:42:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical details about moving Azure storage blobs, with no relevance to the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical aspects of moving Azure storage blobs using PowerShell, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not discuss responsibilities, skills, or the impact of a Scrum Master, nor does it touch on team dynamics or agile principles. Therefore, it does not align with the category at all.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1488,6 +1494,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on a technical task related to moving Azure storage blobs using PowerShell. While it involves some level of skill and knowledge, it does not explicitly discuss competence in the context of continuous learning, quality outcomes, or professional development. The mention of teaching a course suggests some level of competence, but it is not the primary focus of the content. Overall, the discussion lacks depth and alignment with the core themes of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:42:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical guide for moving Azure storage blobs using PowerShell, with no explicit discussion of Agentic Agility or its principles. While there is a mention of adapting to a new storage solution, it lacks depth in exploring intentional shaping of outcomes, accountability, or the interplay between human judgement and AI logic. Overall, the content does not align with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

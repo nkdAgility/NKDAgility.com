@@ -1186,11 +1186,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T17:57:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:29:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the Definition of Done in Scrum and its implications for quality, rather than focusing on Test First Development principles or practices.",
+    "final_score": 31.0,
+    "reasoning": "The content discusses the Definition of Done in the context of Scrum, which is related to quality assurance but does not explicitly focus on Test First Development principles. While it touches on quality and standards, it lacks direct references to success criteria, automated testing practices, or the Test First approach itself. The discussion is more about Scrum processes than the Test First Development methodology.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1267,14 +1270,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T03:18:27",
+    "calculated_at": "2025-04-08T17:29:39",
     "ai_confidence": 82.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
     "final_score": 75.0,
-    "reasoning": "The content discusses the Definition of Done (DoD) in the context of Scrum, which is a key responsibility of the Scrum Master to facilitate and ensure adherence to. It explicitly references Scrum ceremonies like the Sprint Retrospective and the importance of maintaining quality standards, which aligns well with the core themes of the Scrum Master role. The depth of discussion is substantial, providing insights into how the DoD should be managed and improved over time, reflecting the Scrum Master's role in coaching teams and fostering continuous improvement.",
+    "reasoning": "The content primarily discusses the Definition of Done within the Scrum framework, which is a key responsibility of the Scrum Master in facilitating team discussions and improvements. It directly references Scrum principles and practices, indicating a strong alignment with the role of the Scrum Master. The depth of discussion is substantial, covering various scenarios and implications of changing the Definition of Done, which reflects the Scrum Master's influence on team dynamics and quality assurance. However, while the content is focused on Scrum, it does not delve deeply into the broader responsibilities and skills of the Scrum Master, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1584,6 +1587,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses the Definition of Done within the Scrum framework, focusing on agile practices rather than the integration and standardisation of engineering processes as outlined in the One Engineering System. While it touches on quality and team processes, it does not explicitly mention 1ES or its principles, nor does it provide a detailed exploration of how these concepts relate to a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:29:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the Definition of Done in Scrum, focusing on quality and process improvements. While it touches on aspects of adaptability and accountability, it does not explicitly address Agentic Agility or the intentional shaping of outcomes. The discussion lacks depth in exploring the interplay between human and AI capabilities, and does not provide a clear distinction between Human and AI Agentic Agility.",
     "level": "Ignored"
   }
 }

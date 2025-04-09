@@ -160,20 +160,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:39:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:59:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on soliciting feedback for a software tool rather than discussing Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on soliciting feedback for a specific software prototype and does not discuss Evidence-Based Management principles or metrics. While it seeks user input, it lacks any empirical decision-making or alignment with the core themes of EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:39:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:59:17",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses feedback on a specific tool (TFS Event Handler) and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on soliciting feedback for a specific software prototype and its integration capabilities, with no direct mention or discussion of the Agile Product Operating Model or its principles. The content lacks alignment with the core themes of APOM, such as product management practices or agile methodologies, and does not provide any depth on the subject matter.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -313,11 +319,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:39:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:59:02",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on soliciting feedback for a specific tool (TFS Event Handler) and its installation process, rather than discussing DevOps principles, practices, or tools in a broader context.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on soliciting feedback for a specific tool (TFS Event Handler) and its integration capabilities, which does not align with the core principles of DevOps. While there is a mention of integration, it lacks a broader discussion on DevOps philosophy, practices, or cultural shifts. The content does not address key topics such as automation, shared accountability, or continuous improvement, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -700,11 +709,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:18:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:59:27",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses feedback on a TFS Event Handler and its installation and configuration, not Continuous Delivery principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on soliciting feedback for a specific tool (TFS Event Handler) and its integration capabilities, which does not directly address Continuous Delivery principles or practices. While there is a mention of integration, it lacks depth and does not explore the broader themes of Continuous Delivery such as automation, rapid feedback, or cultural aspects. Therefore, the content does not align well with the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1342,11 +1354,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:18:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:59:20",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum roles, responsibilities, or practices; it focuses on feedback related to a TFS Event Handler.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on soliciting feedback for a TFS Event Handler prototype, which is unrelated to the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, roles, or practices, and the discussion lacks any depth regarding Scrum methodologies or the impact of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1369,20 +1384,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:18:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:59:25",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on soliciting feedback for a TFS Event Handler, with no discussion of Test First Development principles or practices.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on soliciting feedback for a TFS Event Handler prototype and does not discuss Test First Development principles, success criteria, or testing practices. It lacks any direct mention of testing methodologies or the importance of defining success criteria before implementation.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:29:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:59:05",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a TFS Event Handler and solicits feedback, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on soliciting feedback for a technical prototype, specifically the TFS Event Handler, without discussing collaboration, decision-making, or value delivery in a social technology context. While it invites user interaction, it lacks depth in exploring the principles of self-organisation, adaptability, or continuous improvement that are central to social technologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1434,6 +1455,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on soliciting feedback for a TFS Event Handler and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. The content is unrelated to the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:59:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on soliciting feedback for a specific prototype rather than discussing shared objectives or alignment within Agile or DevOps frameworks. While it mentions integration capabilities, it does not connect to the principles of Common Goals, nor does it explore the significance of aligning strategy with execution.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:59:10",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on soliciting feedback for a specific prototype rather than discussing competence in Agile or DevOps contexts. While it touches on integration capabilities, it lacks explicit discussions on continuous learning, skill development, or the importance of competence in delivering quality outcomes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:59:13",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on soliciting feedback for a specific prototype rather than discussing Continuous Improvement principles. While it does seek user input, which could be seen as a form of feedback for improvement, it lacks a broader discussion on continuous improvement methodologies, strategies, or frameworks. The questions posed are more about user experience than about systematic improvement processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:59:15",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on soliciting feedback for a specific software prototype and does not discuss the principles or concepts of Agentic Agility. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is more about technical integration and user experience rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

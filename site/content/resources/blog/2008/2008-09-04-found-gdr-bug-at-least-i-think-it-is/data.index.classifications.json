@@ -1054,11 +1054,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:26:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:42:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a specific bug related to SQL views and error handling, with no mention of Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a potential bug in SQL views and derived tables, with no explicit mention of Test First Development principles, success criteria, or testing practices. It lacks alignment with the core themes of the category and provides minimal detail relevant to Test First Development.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1246,11 +1249,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:26:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:42:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a technical issue related to SQL and does not discuss Scrum or the role of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to SQL views and derived tables, with no direct mention of Scrum Master responsibilities or concepts. It lacks alignment with the core themes of the Scrum Master role, such as facilitation, coaching, or team dynamics. The depth of discussion is focused on a specific bug rather than any aspect of Scrum or agile practices.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily discusses a technical bug related to SQL views and does not explicitly address competence or its importance in Agile, Scrum, or DevOps methodologies. While there is a mention of improving a tool (Data Dude), it lacks a focus on continuous learning, skill development, or the professional standards associated with competence. The discussion is more about troubleshooting and bug reporting rather than fostering a culture of competence or discussing strategies for skill enhancement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:42:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a potential bug in SQL views and derived tables, with no explicit mention of Agentic Agility or its principles. It lacks alignment with the core themes of intentionality, adaptability, or the interplay between human and AI capabilities. The discussion is technical and focused on a specific issue rather than the broader concept of shaping outcomes.",
     "level": "Ignored"
   }
 }

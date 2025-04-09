@@ -160,20 +160,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T22:29:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:18:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development and technical aspects of a software project, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the development of a software tool (TFS EventHandler) and its transition to a more reliable system. There are no explicit mentions of Evidence-Based Management principles or metrics. The focus is on technical implementation rather than data-informed decision-making or value delivery, which are core themes of EBM. The discussion lacks depth and does not provide any empirical evidence or strategic insights related to management practices.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T22:29:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:18:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical implementation of a Team Foundation Server EventHandler and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the development of a specific software tool (TFS EventHandler) and its transition to a more reliable system. It does not mention or align with the Agile Product Operating Model or its principles, focusing instead on technical implementation details and personal development updates.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -316,11 +322,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T08:20:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:18:22",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development of a specific tool (TFS EventHandler) and its transition to a different architecture, without focusing on DevOps principles, practices, or cultural aspects.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the development of a specific tool (TFS EventHandler) and its transition to a more reliable system. While it touches on aspects of software development and mentions a shift in technology (from web services to Message Queuing), it lacks explicit discussions on DevOps principles such as collaboration, automation, or shared accountability. The focus is more on the technical implementation rather than the cultural or philosophical aspects of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Personal": {
@@ -409,11 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T10:22:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:18:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development and setup of a Team Foundation Server EventHandler without clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the transition of a TFS EventHandler to CodePlex and mentions technical changes like moving to Message Queuing and Windows Service. However, it lacks explicit discussions on Continuous Delivery principles, automation, or delivery practices. The focus is more on the development process rather than Continuous Delivery itself.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -550,11 +562,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T10:22:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:18:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development of a Team Foundation Server EventHandler and does not address Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the transition of a TFS EventHandler to a more reliable system and does not mention Test First Development principles, success criteria, or testing practices. It lacks any direct references to testing methodologies or the importance of defining criteria before implementation, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -1252,11 +1267,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T10:22:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:18:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum Masters or their roles; it focuses on a software project and technical aspects.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical project related to Team Foundation Server and its transition to a more reliable system. There are no direct mentions of the Scrum Master role, nor does it align with the core themes of Scrum, such as team dynamics, coaching, or agile principles. The focus is on technical implementation rather than Scrum practices.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1378,11 +1396,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:31:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:18:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development and technical aspects of a software project, with no clear focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of the TFS EventHandler and its transition to CodePlex, with minimal discussion on collaboration, decision-making, or value delivery. While it invites community involvement, it lacks depth in exploring social technologies or their impact on team dynamics and organisational culture.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1434,6 +1455,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the development of a specific software project (TFS EventHandler) and mentions technical aspects like moving to Message Queuing and Windows Service. There is no explicit discussion of integrating testing, security, or compliance earlier in the development process, nor does it address the principles or benefits of the Shift-Left Strategy. The focus is on project updates rather than the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T21:18:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the development of a specific software project and its transition to a new system. While it mentions the development journey and invites collaboration, it lacks explicit discussions on Common Goals, alignment with strategic objectives, or the principles of Agile and DevOps. The content does not delve into the significance of shared objectives or frameworks like OKRs, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T21:18:30",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the development and transition of a software project, mentioning technical aspects and personal experiences. While there is a brief mention of documentation and a call for community involvement, it lacks a direct discussion on competence, continuous learning, or skill development. The alignment with the core themes of competence is minimal, and the depth of discussion does not provide substantial insights into the principles of professionalism or quality delivery.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T21:18:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions a transition to a more reliable system and a refactoring process, which could imply some aspects of Continuous Improvement. However, it lacks explicit discussions on the principles of Continuous Improvement, such as empirical evidence, data-driven decision-making, or a culture of experimentation. The focus is primarily on the technical aspects of the TFS EventHandler and its development journey, rather than on systematic improvement practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T21:18:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the development and transition of a software project without addressing the principles of Agentic Agility. There are no explicit mentions of intentional shaping of outcomes, autonomy, or adaptability. The focus is on technical details and project updates rather than the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

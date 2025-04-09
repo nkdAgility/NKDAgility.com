@@ -1123,11 +1123,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T23:29:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:40:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses TFS migrations and does not address Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses TFS migrations and does not address any principles or practices related to Test First Development. There are no mentions of success criteria, testing methodologies, or the impact of testing on collaboration, which are core themes of the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1207,11 +1210,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T23:29:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:40:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses TFS migrations and technical scenarios, with no clear focus on Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on TFS migrations and does not discuss the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, team dynamics, or the impact of a Scrum Master, which are essential for alignment with the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1497,6 +1503,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on TFS migrations to Visual Studio Online, which does not directly address the principles or components of the One Engineering System. While it discusses tools and processes related to migration, it lacks a clear connection to the integration and standardisation of engineering practices across teams, which is central to 1ES. The discussion is more about specific migration strategies rather than a comprehensive framework for software development practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:40:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on TFS migrations and does not discuss Agentic Agility or its principles. There are no explicit mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is technical and operational, lacking any exploration of the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

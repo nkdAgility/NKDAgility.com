@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T00:59:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges and considerations of adopting Agile methodologies in traditional organisations, without a focus on Test First Development or its principles.",
+    "calculated_at": "2025-04-08T16:46:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile adoption in traditional organisations without any direct mention or focus on Test First Development principles. While it touches on themes of change and adaptation, it does not delve into success criteria, testing practices, or the specifics of Test First methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -862,11 +865,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T01:00:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:46:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses general Agile adoption and organisational change without a specific focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile adoption in traditional organisations but does not specifically address the role or responsibilities of a Scrum Master. While it touches on themes of organisational change and cultural readiness, it lacks direct references to Scrum practices or the Scrum Master's influence on team dynamics. The focus is more on general Agile principles rather than the specific role of a Scrum Master.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1596,6 +1602,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Agile methodologies and the challenges traditional organisations face in adopting them, which deviates from the core principles of the One Engineering System. There are no direct mentions of 1ES, and while it touches on themes of organisational change and improvement, it lacks a focus on the integration and standardisation of engineering processes that characterise 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:46:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile adoption in traditional organisations, touching on themes of cultural change and the need for deep commitment to transformation. However, it lacks explicit references to Agentic Agility, such as the intentional shaping of outcomes or the distinction between human and AI capabilities. While it aligns with some core themes, it does not delve deeply into the principles of Agentic Agility or provide specific examples, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

@@ -1210,11 +1210,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:49:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:54:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Application Lifecycle Management (ALM), customer interaction, and improving software delivery processes, without a focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) and the importance of understanding the 'why' behind software delivery. While it touches on improving software processes, it does not explicitly mention Test First Development principles, success criteria, or testing practices. The focus is more on customer engagement and agile methodologies rather than the specific practices of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1291,11 +1294,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:49:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:54:19",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the author's journey in Application Lifecycle Management (ALM) and their approach to helping customers achieve better software delivery. It does not focus on the specific role, responsibilities, or practices of a Scrum Master within the Scrum framework.",
+    "final_score": 22.0,
+    "reasoning": "The content discusses Application Lifecycle Management (ALM) and the importance of understanding customer needs, but it does not explicitly mention the role of a Scrum Master or delve into Scrum-specific practices. While there are themes of agility and improvement, they are not directly tied to the responsibilities or influence of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1584,6 +1590,18 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of understanding customer needs and improving software delivery, which aligns with the concept of competence in terms of delivering quality outcomes. However, it lacks direct mentions of continuous learning or skill development, and the depth of discussion on competence is limited, focusing more on personal experiences and motivations rather than structured strategies for fostering competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:54:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of understanding 'why' in Application Lifecycle Management (ALM) and how this can lead to improved customer interactions and software delivery. However, it lacks a direct focus on the principles of Agentic Agility, such as intentional shaping of outcomes, the distinction between human and AI capabilities, and mechanisms of AI Agentic Agility. While there are elements of autonomy and adaptability mentioned, they are not explored in depth or explicitly linked to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

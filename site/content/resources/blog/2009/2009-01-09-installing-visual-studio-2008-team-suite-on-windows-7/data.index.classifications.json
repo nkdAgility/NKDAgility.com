@@ -1060,11 +1060,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:11:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:35:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on installing Visual Studio 2008 and does not discuss Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 on Windows 7, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any alignment with the core themes of the category, such as TDD or ATDD, and does not provide any depth on the subject matter. Overall, it is unrelated to Test First Development.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1252,11 +1255,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:11:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:35:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on installing Visual Studio 2008 and does not mention Scrum Masters or related responsibilities, techniques, or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the installation process of Visual Studio 2008 on Windows 7, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics or responsibilities associated with the Scrum Master role.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1476,6 +1482,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the technical process of installing Visual Studio 2008 on Windows 7, with no direct discussion of competence or related themes such as continuous learning or skill development. While it may imply a level of technical competence in performing the installation, it does not explicitly address the principles of professionalism, quality delivery, or the importance of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:35:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 on Windows 7, with no explicit discussion of Agentic Agility or its principles. There are no mentions of autonomy, adaptability, or intentional shaping of outcomes, which are central to the category. The content lacks depth and alignment with the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -1378,11 +1378,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T13:55:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the principles of Kanban and improvements in software engineering without focusing on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T15:55:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Kanban and its role in improving software engineering processes, with no direct mention of Test First Development principles or practices. While it touches on continuous improvement and metrics, it does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices like TDD or ATDD.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1444,11 +1447,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:55:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban and general software engineering processes, with no clear focus on Scrum Master responsibilities or practices.",
+    "calculated_at": "2025-04-08T15:56:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Kanban as a methodology for process improvement in software engineering, with only a brief mention of the author's experience as a Scrum Trainer. While it touches on themes of continuous improvement and team dynamics, it does not delve into the specific responsibilities or influence of a Scrum Master, which is essential for a stronger alignment with the category.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1608,6 +1614,18 @@
     "non_ai_confidence": 30,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on Kanban as a methodology for improving software engineering processes, without directly addressing the principles or components of the One Engineering System (1ES). While it discusses aspects of workflow and team collaboration, it does not align with the core themes of 1ES, such as integration of tools across teams or standardisation of practices. The discussion is more about Kanban's benefits rather than the unified engineering system that 1ES promotes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:55:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Kanban and its role in improving workflows and transparency in software engineering. While it touches on themes of adaptability and continuous improvement, it does not explicitly address the concept of Agentic Agility or differentiate between human and AI capabilities. The focus is primarily on Kanban practices rather than the intentional shaping of outcomes through agency.",
     "level": "Ignored"
   }
 }

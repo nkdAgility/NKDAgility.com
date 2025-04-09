@@ -550,15 +550,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T12:15:54",
-    "ai_confidence": 78.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 70.0,
-    "ai_depth": 70.0,
+    "calculated_at": "2025-04-08T17:03:04",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content explicitly discusses the role of a Scrum Master, particularly in the context of micromanagement versus facilitation. It aligns well with the core themes of the category by addressing the responsibilities of a Scrum Master and the importance of not micromanaging, which is crucial for fostering team effectiveness. The depth of discussion is moderate, providing a clear stance on the role without delving into specific techniques or practices, but it effectively highlights the key distinction between Scrum Masters and project managers.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content explicitly discusses the role of the Scrum Master, particularly in the context of micromanagement versus facilitation. It aligns well with the core themes of the category by addressing the responsibilities and impact of a Scrum Master, emphasising the importance of empowerment and support over control. The depth of discussion is significant, providing insights into the Scrum Master's role in fostering team effectiveness and a culture of trust, which are central to the Scrum framework.",
+    "level": "Primary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -997,11 +997,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:21:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:02:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of a Scrum Master and misconceptions about agile micromanagement, with no focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master and the concept of micromanagement within Agile practices. It does not mention Test First Development, nor does it align with its principles or provide any depth on related topics such as success criteria, testing practices, or collaboration in the context of Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1590,6 +1593,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master within Agile methodologies, focusing on micromanagement versus facilitation. It does not mention the One Engineering System (1ES) or its principles, components, or implementation. The discussion is centred around Scrum, which is a specific Agile framework, rather than the broader integration and standardisation of engineering processes that 1ES encompasses.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:02:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of a Scrum Master in facilitating team autonomy and effectiveness, which aligns with the principles of Agentic Agility. However, it primarily focuses on micromanagement rather than a comprehensive exploration of Agentic Agility concepts, leading to a lower confidence score.",
     "level": "Ignored"
   }
 }

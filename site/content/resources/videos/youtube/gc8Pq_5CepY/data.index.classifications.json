@@ -517,12 +517,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T12:22:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:25:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content is primarily about a Q&A session covering various topics from DevOps to Agility, without a clear focus on the Scrum Master role or related responsibilities.",
-    "level": "Ignored"
+    "final_score": 66.0,
+    "reasoning": "The content discusses key Scrum concepts such as Definition of Done, spikes, and managing ad hoc work, which are relevant to the Scrum Master's role. However, it lacks a direct focus on the responsibilities and influence of the Scrum Master, making it more of a general discussion on Scrum practices rather than a deep dive into the Scrum Master role specifically.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -925,11 +928,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T12:22:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on general DevOps and Agility questions without any mention or emphasis on Test First Development principles.",
+    "calculated_at": "2025-04-08T17:25:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content briefly touches on the concepts of Definition of Done and acceptance criteria, which are related to quality assurance in software development. However, it does not explicitly discuss Test First Development principles or practices such as Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). The focus is primarily on Scrum roles and processes rather than on the Test First approach, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1476,6 +1482,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum practices, such as the Definition of Done, spikes, and managing ad hoc work, which are not directly related to the One Engineering System framework. While there are some mentions of productivity and team dynamics, the discussion does not align with the core principles of 1ES, such as integration of tools and processes across teams or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:25:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices, such as the Definition of Done and managing ad hoc work, without discussing the intentional shaping of outcomes or the principles of Agentic Agility. There are no explicit mentions of agency, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

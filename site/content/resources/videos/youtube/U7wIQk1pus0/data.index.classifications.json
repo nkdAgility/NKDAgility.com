@@ -520,11 +520,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T12:23:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:49:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on the installation of TFS and does not discuss Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the technical process of installing TFS 2013 on Windows Server 2012 R2, with no mention of Scrum Master responsibilities, roles, or related concepts. It does not discuss any aspects of Scrum or agile methodologies, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -925,11 +928,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T12:23:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of TFS, without any relation to Test First Development or related testing practices.",
+    "calculated_at": "2025-04-08T17:49:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content focuses solely on the installation process of TFS 2013 and does not discuss any principles or practices related to Test First Development. There are no mentions of success criteria, testing practices, or any alignment with the core themes of Test First Development. The content is primarily technical and procedural, lacking any relevant discussion on testing methodologies.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1473,6 +1479,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the technical steps for installing TFS 2013, with no explicit discussion on competence, continuous learning, or skill development. While it demonstrates a level of technical capability, it does not engage with the core themes of competence as defined in the category. The mention of ensuring a smooth setup could be tangentially related to competence, but it lacks depth and direct relevance to the principles of professionalism and quality delivery.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:49:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical steps for installing TFS 2013 on Windows Server 2012 R2, with no discussion of Agentic Agility principles, intent, or the interplay between human and AI capabilities. It lacks any relevant themes or depth related to the category.",
     "level": "Ignored"
   }
 }

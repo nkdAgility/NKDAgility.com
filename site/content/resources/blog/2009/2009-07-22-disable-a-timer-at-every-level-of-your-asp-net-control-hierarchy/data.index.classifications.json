@@ -1123,11 +1123,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:28:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:29:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical implementation issue related to ASP.NET controls rather than Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical implementation related to disabling timers in an ASP.NET control hierarchy. It does not discuss Test First Development principles, success criteria, or any testing methodologies. The mention of code efficiency and user experience does not align with the core themes of Test First Development, which emphasises testing practices and collaboration.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1207,11 +1210,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:28:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:29:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on technical implementation details related to ASP.NET and does not discuss the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical aspects of ASP.NET programming, specifically on disabling timers within a control hierarchy. There are no mentions of Scrum, the role of a Scrum Master, or any related concepts. The discussion is purely technical and does not align with the responsibilities or impact of a Scrum Master in any way.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1485,6 +1491,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on a technical solution for disabling timers in ASP.NET controls, with no explicit discussion of competence or related themes. While it touches on problem-solving and code efficiency, these aspects do not align with the core principles of competence in Agile or DevOps contexts. The mention of seeking recommendations for code improvement hints at a desire for skill development, but it is not a primary focus of the content.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:29:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical solution for managing timers in ASP.NET controls, with no explicit discussion of Agentic Agility or its principles. While there is a mention of improving user experience, it does not align with the core themes of intentionality, autonomy, or adaptability in the context of Agentic Agility. The depth of discussion is limited to coding practices and does not explore the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

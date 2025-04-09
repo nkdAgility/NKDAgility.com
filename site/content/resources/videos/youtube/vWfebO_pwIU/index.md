@@ -27,6 +27,7 @@ preview: https://i.ytimg.com/vi/vWfebO_pwIU/maxresdefault.jpg
 duration: 291
 isShort: false
 tags:
+- Scrum Master
 - People and Process
 - Continuous Learning
 - Software Development

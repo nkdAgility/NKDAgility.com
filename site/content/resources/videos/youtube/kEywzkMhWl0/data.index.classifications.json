@@ -547,14 +547,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T12:15:48",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "calculated_at": "2025-04-08T17:02:54",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content explicitly mentions the role of a Scrum Master and focuses on a critical skill relevant to that role—teaching and facilitating understanding among team members. This aligns with the core themes of coaching and mentoring within the Scrum framework. However, the discussion lacks depth in exploring other responsibilities or practices of a Scrum Master, which slightly lowers the overall confidence score.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the role of a Scrum Master, focusing on the critical skill of teaching, which is essential for facilitating understanding and change within teams. It aligns well with the core themes of the category, such as the responsibilities of a Scrum Master and their influence on team dynamics. The depth of discussion is significant, providing insights into how teaching impacts Agile transformation and team engagement.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1000,11 +1000,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:02:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role of a Scrum Master in teaching and facilitating Agile principles, but does not cover Test First Development or related concepts.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within Agile practices. It does not discuss Test First Development principles, success criteria, or testing methodologies, which are central to the category. The mention of Agile transformation is too vague and does not connect to the specific practices of Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1587,6 +1590,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within Agile methodologies, which does not directly address the principles or components of the One Engineering System. While it touches on Agile practices, it lacks a clear connection to the integration and standardisation of engineering processes that 1ES emphasises.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:02:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of a Scrum Master and the importance of teaching in facilitating Agile practices. While it touches on themes of change and understanding value, it does not explicitly address Agentic Agility or differentiate between human and AI capabilities. The focus is primarily on teaching as a skill rather than on intentional shaping of outcomes, which limits its alignment with the category.",
     "level": "Ignored"
   }
 }

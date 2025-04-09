@@ -181,11 +181,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:35:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:22:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses communication issues and team dynamics within Agile teams, with no focus on Test First Development or TDD.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of communication and accountability within Agile teams, focusing on the negative impacts of silence. It does not mention Test First Development, its principles, or practices such as TDD or ATDD. The discussion is more about team dynamics and culture rather than testing methodologies or success criteria, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -628,12 +631,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:35:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:22:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content addresses general issues in Agile teams such as communication and the impact of silence, but does not specifically discuss the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of communication and trust within Agile teams, which aligns with the Scrum Master's role in fostering team dynamics and promoting a culture of continuous improvement. However, it does not explicitly mention the Scrum Master role or its specific responsibilities, leading to a moderate confidence score. The depth of discussion on strategies for enhancing communication and accountability is significant, but the lack of direct references to the Scrum Master limits the overall alignment.",
+    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -1557,6 +1563,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the issue of silence within Agile teams, focusing on communication and team dynamics rather than the One Engineering System framework. While it touches on themes relevant to team collaboration and accountability, it does not explicitly mention 1ES or its principles, components, or implementation strategies. The discussion lacks depth regarding the integration of tools and processes or the impact of a unified engineering system, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:22:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of communication and accountability within Agile teams, which touches on aspects of Human Agentic Agility, such as fostering a culture of open dialogue and encouraging team members to voice concerns. However, it does not explicitly define or deeply explore the concept of Agentic Agility itself, nor does it differentiate between human and AI capabilities in this context. The focus is more on general Agile practices rather than the intentional shaping of outcomes through autonomy and adaptability.",
     "level": "Ignored"
   }
 }

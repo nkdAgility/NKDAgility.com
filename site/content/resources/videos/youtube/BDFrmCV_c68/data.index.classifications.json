@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T09:08:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:29:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of pride in Agile practices, focusing on assumptions and the importance of measuring outcomes, rather than Test First Development principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concept of pride in Agile practices, focusing on data-driven decision-making and the importance of humility. While it touches on aspects of validation and learning from failures, it does not explicitly mention Test First Development or its principles. The discussion lacks depth in relation to Test First practices, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -862,11 +865,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T09:09:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:29:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of pride in Agile without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile principles and the concept of pride within Agile practices, but it does not specifically address the role of the Scrum Master or their responsibilities. While it touches on themes relevant to Agile teams, such as data-driven decision-making and learning from failures, it lacks a direct focus on the Scrum Master role, techniques for coaching, or the Scrum Master's influence on team dynamics. Therefore, the confidence score reflects a low alignment with the Scrum Master category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1575,6 +1581,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the concept of pride within Agile methodologies, focusing on personal and team dynamics rather than the integration and standardisation of engineering processes as outlined in the One Engineering System framework. While it touches on some aspects of Agile practices, it does not directly address the principles or components of 1ES, nor does it provide insights into its implementation or impact on software quality and delivery timelines.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:29:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the concept of pride in Agile practices, focusing on data-driven decision-making and the importance of learning from failures. However, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. The discussion is more about Agile principles rather than the intentional shaping of outcomes through agency and adaptability, which is central to Agentic Agility.",
     "level": "Ignored"
   }
 }

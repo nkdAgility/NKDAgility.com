@@ -391,11 +391,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T07:25:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on product management for entrepreneurs, with only a loose mention of Agile and Scrum, but lacks central discussion on the Scrum Master role.",
+    "calculated_at": "2025-04-08T16:57:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on product management and the role of the product owner rather than the Scrum Master. While it briefly touches on agile principles and mentions Scrum, it does not delve into the specific responsibilities or impact of a Scrum Master. The discussion lacks depth regarding the Scrum Master's role in facilitating team effectiveness or promoting continuous improvement, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -433,11 +436,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T07:25:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:57:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product management and the importance of value for entrepreneurs, with no focus on Test First Development or related testing methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on product management and the importance of value in startups, with no direct mention or discussion of Test First Development principles. While it touches on aspects of agile and product management, it does not align with the core themes of Test First Development, such as success criteria, testing practices, or the role of automated testing.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1590,6 +1596,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on product management and the importance of value in startups, with no direct mention of the One Engineering System (1ES) framework or its principles. While it discusses tools and techniques relevant to product management, it does not align with the core themes of 1ES, such as integration of processes across teams or standardisation in software development. The depth of discussion is also minimal regarding the specific aspects of 1ES, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:57:36",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses the importance of value in product management and the role of entrepreneurs in shaping outcomes, but it does not explicitly address Agentic Agility or differentiate between human and AI capabilities. The focus is more on general product management principles rather than the intentional shaping of outcomes through autonomy and adaptability.",
     "level": "Ignored"
   }
 }

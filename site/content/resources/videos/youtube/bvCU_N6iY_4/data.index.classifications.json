@@ -544,14 +544,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T02:19:46",
+    "calculated_at": "2025-04-08T17:17:16",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
     "final_score": 22.0,
-    "reasoning": "The content briefly mentions a discussion format that could relate to Agile practices, but it lacks explicit references to the Scrum Master role or its responsibilities. The focus is more on general business agility rather than specific Scrum Master duties, making it only tangentially relevant.",
+    "reasoning": "The content primarily focuses on Business Agility discussions and does not explicitly mention the role of the Scrum Master or its responsibilities. While it touches on themes of community engagement and continuous learning, which are relevant to agile practices, it lacks a direct connection to the specific duties and impact of a Scrum Master. The depth of discussion is also minimal regarding Scrum principles, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -985,11 +985,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:17:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on a Lean Coffee discussion related to Business Agility and Scrum practices, without addressing Test First Development or TDD principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on business agility discussions and community engagement, with no explicit mention or exploration of Test First Development principles, practices, or methodologies. It lacks any reference to success criteria, testing practices, or the role of testing in software development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1566,6 +1569,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Business Agility and does not mention or discuss the One Engineering System (1ES) framework. While it touches on collaboration and community engagement, it lacks direct references to the principles, components, or implementation of 1ES, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:17:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a community-driven discussion format for business agility, lacking explicit references to Agentic Agility principles. While it touches on themes of collaboration and continuous learning, it does not delve into the intentional shaping of outcomes or the distinction between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

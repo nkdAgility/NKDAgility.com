@@ -163,20 +163,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:57:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:42:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and does not address Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a technical error related to Team Foundation Server (TFS) and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of data-informed decision-making or the key topics outlined in the EBM category. The content lacks depth in relation to EBM, as it does not provide any analysis or empirical evidence related to management practices.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:57:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:42:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Team Foundation Server and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to Team Foundation Server (TFS) and does not discuss any principles or practices related to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management, or the core themes outlined in the APOM definition. The content is technical and operational in nature, lacking any connection to the product-oriented mindset or continuous delivery principles that characterise the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -319,14 +325,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T07:40:26",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "calculated_at": "2025-04-08T20:42:25",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily discusses a specific error related to Team Foundation Server (TFS) and provides troubleshooting steps. While it touches on aspects of deployment and configuration, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The focus is more on technical resolution rather than the integration of people, processes, and tools that characterise DevOps.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to Team Foundation Server (TFS) and does not discuss broader DevOps principles or practices. While TFS is a tool that can be used within a DevOps context, the content lacks explicit mentions of DevOps philosophy, collaboration, automation, or shared accountability. The discussion is technical and procedural, which does not align with the core themes of DevOps, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -706,11 +712,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:42:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:42:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the troubleshooting process for a specific error in Team Foundation Server and does not focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to Team Foundation Server (TFS) and does not discuss Continuous Delivery principles, practices, or benefits. There are no direct mentions of Continuous Delivery, and the discussion lacks alignment with the core themes of the category, such as automation, incremental improvements, or user feedback. The depth of discussion is limited to troubleshooting a technical issue, which is not relevant to Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1348,11 +1357,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:42:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:42:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and does not relate to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a technical error related to Team Foundation Server (TFS) and does not discuss the role, responsibilities, or impact of a Scrum Master. There are no direct mentions of Scrum or agile principles, and the discussion lacks depth regarding any Scrum-related topics.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1375,11 +1387,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:42:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:42:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on resolving a specific error related to Team Foundation Server project creation and does not discuss Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to Team Foundation Server (TFS) and does not discuss any principles or practices of Test First Development. There are no mentions of success criteria, testing methodologies, or the impact of testing on software delivery, which are core to the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1443,6 +1458,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a specific error related to Team Foundation Server (TFS) and provides troubleshooting steps. It does not address the Shift-Left Strategy or its principles, benefits, or techniques. The focus is on resolving a technical issue rather than integrating testing, security, or compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:42:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical error related to Team Foundation Server (TFS) and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth regarding the significance of Common Goals in team dynamics or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:42:30",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical error related to Team Foundation Server (TFS) and does not discuss competence, continuous learning, or skill development. While it provides detailed steps for troubleshooting, it lacks any reference to the principles of professionalism, quality delivery, or the importance of competence in Agile or DevOps environments.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:42:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error in Team Foundation Server (TFS) and does not discuss Continuous Improvement principles or practices. While it provides a detailed guide on resolving a technical issue, it lacks any mention of empirical evidence, data-driven decision-making, or a culture of experimentation, which are core to Continuous Improvement. The content does not align with the key topics outlined for this category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:42:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific error in Team Foundation Server and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content lacks depth in discussing any related themes, making it largely irrelevant to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

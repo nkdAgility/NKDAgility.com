@@ -1204,11 +1204,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T01:27:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:20:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Team Foundation Server and SharePoint 2010 training, with no clear focus on Test First Development or Test-Driven Development principles.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Team Foundation Server and SharePoint 2010, discussing project management and software development tools. While there are mentions of testing processes, they are not framed within the context of Test First Development principles. The discussion lacks depth on success criteria, automated testing practices, or the impact of Test First on collaboration, which are core themes of the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1294,11 +1297,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T01:27:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:20:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Team Foundation Server and SharePoint 2010, without any direct reference to the role or responsibilities of a Scrum Master.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Team Foundation Server and SharePoint 2010, with no direct discussion of the Scrum Master role or its responsibilities. While it touches on project management, it does not align with the core themes of the Scrum Master category, such as coaching, mentoring, or fostering agile principles. The mention of Scrum is minimal and does not delve into the nuances of the Scrum Master's impact on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1579,5 +1585,17 @@
     "final_score": 60.0,
     "reasoning": "The content discusses a training course aimed at enhancing project management skills and understanding of tools like Team Foundation Server and SharePoint. While it mentions skill enhancement and provides details on the sessions, the primary focus is on the tools and their features rather than a deep exploration of competence as a principle. The content aligns with the category through its emphasis on skill development and project management, but it lacks a thorough discussion on continuous learning and the broader implications of competence in Agile and DevOps contexts.",
     "level": "Tertiary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:20:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on training related to Team Foundation Server and SharePoint, discussing project management tools and techniques. While it touches on aspects of project management and software development, it does not explicitly address the concept of Agentic Agility, nor does it explore the intentional shaping of outcomes through autonomy and adaptability. The discussions are more aligned with general Agile practices rather than the specific themes of agency and intentionality outlined in the category.",
+    "level": "Ignored"
   }
 }

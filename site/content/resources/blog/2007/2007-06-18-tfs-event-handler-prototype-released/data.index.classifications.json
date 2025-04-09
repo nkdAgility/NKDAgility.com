@@ -160,20 +160,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:51:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:03:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of a software prototype and does not address Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a prototype tool (TFS Event Handler) and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of data-informed decision-making or the key topics outlined in the EBM category. The discussion lacks depth and relevance to the core themes of EBM, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:51:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:03:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of a prototype application and does not address Agile principles, product-centric development, or value delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a prototype tool (TFS Event Handler) and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or the key topics outlined in the APOM framework. The content lacks depth and relevance to the category, making it unsuitable for classification under the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -316,11 +322,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:51:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:03:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the release of a prototype application and code, with no substantial discussion on DevOps principles, practices, or related topics.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a specific tool (TFS Event Handler) and does not explicitly discuss DevOps principles, practices, or cultural shifts. While it may relate to software development and configuration, it lacks direct mentions of DevOps concepts such as collaboration, automation, or shared accountability. The discussion is superficial and does not delve into the core themes of DevOps, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -700,11 +709,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:18:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:03:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about releasing a TFS Event Handler prototype, with no discussion on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a prototype tool, which does not explicitly discuss Continuous Delivery principles or practices. While there is a mention of a release, it lacks depth in exploring automation, incremental improvements, or user feedback, which are core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1342,11 +1354,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:18:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:03:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not mention Scrum or the role of a Scrum Master; it focuses on a TFS Event Handler release.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the release of a TFS Event Handler prototype and does not mention the Scrum Master role or its responsibilities. There is no alignment with the core themes of the Scrum Master category, and the depth of discussion is non-existent regarding Scrum practices or principles.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1369,20 +1384,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:18:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:03:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the release of a prototype application without any mention or focus on Test First Development or related principles like Test-Driven Development (TDD).",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the release of a prototype tool and does not discuss Test First Development principles, success criteria, or testing practices. There are no explicit mentions of testing methodologies or the importance of defining success criteria before implementation, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:29:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:03:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of a prototype application and does not focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a technical tool (TFS Event Handler) and does not discuss any aspects of social technologies, collaboration, or decision-making. There are no explicit mentions of self-organisation, collective intelligence, or value delivery, which are core themes of the category. The depth of discussion is limited to the tool's release and configuration, lacking any exploration of social frameworks or methodologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1434,6 +1455,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the release of a prototype application and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. The content is unrelated to the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T21:03:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a prototype tool and does not discuss Common Goals, Agile, or DevOps principles. There are no explicit mentions of shared objectives or alignment strategies, and the depth of discussion is minimal, lacking any connection to the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T21:03:33",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the release of a tool (TFS Event Handler) and mentions documentation, but it does not explicitly discuss competence, continuous learning, or skill development. While there is a slight implication of needing to configure and extend the tool, it lacks depth in exploring the importance of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T21:03:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a prototype tool and does not explicitly discuss Continuous Improvement principles. While there is a mention of configuring and extending the tool, it lacks a clear connection to the core themes of Continuous Improvement, such as empirical evidence, team effectiveness, or a culture of experimentation. The depth of discussion is minimal, primarily revolving around the release announcement rather than any strategic or incremental advancements.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T21:03:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the release of a TFS Event Handler prototype and does not discuss Agentic Agility or its principles. There are no explicit mentions of intentional shaping of outcomes, autonomy, or adaptability, nor does it provide any depth on the interplay between human and AI capabilities. The content is more about a software release than about the concepts outlined in the Agentic Agility category.",
     "level": "Ignored"
   }
 }

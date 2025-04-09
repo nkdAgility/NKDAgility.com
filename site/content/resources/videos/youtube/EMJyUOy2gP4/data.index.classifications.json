@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T08:00:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and effectiveness of Scrum Masters in improving team performance and ROI, with no mention of Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T15:41:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role and impact of competent Scrum Masters on team performance and ROI, without any direct reference to Test First Development principles or practices. While it touches on aspects of team dynamics and performance metrics, it does not align with the core themes of Test First Development, such as defining success criteria before implementation or the importance of testing methodologies like TDD or ATDD.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -868,15 +871,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-13T16:29:26",
-    "ai_confidence": 92.0,
+    "calculated_at": "2025-04-08T15:41:11",
+    "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
-    "ai_depth": 38,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 85.0,
-    "reasoning": "The content extensively discusses the role of Scrum Masters, their impact on team performance, and the importance of competence in this role. It provides detailed insights into how a skilled Scrum Master can influence key metrics and drive value, aligning closely with the core themes of the category. The depth of discussion is significant, covering various aspects of the Scrum Master's responsibilities and the consequences of incompetence, thus justifying a high confidence score.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the role and impact of competent Scrum Masters, focusing on their influence on team performance, innovation, and value delivery. It provides detailed insights into how a skilled Scrum Master can enhance various metrics related to team effectiveness and ROI, aligning closely with the core themes of the category. The depth of discussion is significant, covering multiple aspects of the Scrum Master's responsibilities and the consequences of incompetence, thus justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1611,6 +1614,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on the role and impact of Scrum Masters within the Scrum framework, discussing their importance in team performance and ROI. It does not address the principles or components of the One Engineering System, nor does it explore integration of tools and processes across teams, which are core themes of 1ES. The discussion is centred around Scrum methodology rather than the standardisation and integration of engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:41:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role and impact of competent Scrum Masters on team performance and ROI, which does not align with the core themes of Agentic Agility. While it touches on aspects of leadership and accountability, it lacks a focus on intentional shaping of outcomes through autonomy and adaptability, and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

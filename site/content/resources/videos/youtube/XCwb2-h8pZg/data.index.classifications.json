@@ -514,11 +514,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on Kanban and does not discuss Scrum or the role of Scrum Master.",
+    "calculated_at": "2025-04-08T17:53:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on TFS Preview as a project management tool, with only a brief mention of Agile principles. While the author identifies as a professional Scrum trainer, the discussion lacks depth on the specific responsibilities and impact of a Scrum Master, making it more about tools than the role itself.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -922,11 +925,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:53:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on Kanban and does not discuss Test First Development or related principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on TFS Preview as a project management tool, discussing its features and functionalities without any explicit mention of Test First Development principles or practices. While it touches on testing in a general sense, it does not delve into the specifics of Test First methodologies, success criteria, or the role of testing in the development process. Therefore, the alignment with the Test First Development category is minimal.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1464,6 +1470,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on TFS Preview as a project management tool, with limited discussion on competence. While it touches on aspects of Agile and project management, it does not delve into continuous learning, skill development, or the importance of competence in delivering quality outcomes. The mention of Agile is brief and does not explore the core themes of competence, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:53:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on TFS Preview as a project management tool, discussing its features and functionalities without addressing the concept of Agentic Agility. While it touches on aspects of Agile practices, it does not explicitly mention or explore the intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI agency. The discussion lacks depth regarding the principles of Agentic Agility, making it a secondary topic at best.",
     "level": "Ignored"
   }
 }

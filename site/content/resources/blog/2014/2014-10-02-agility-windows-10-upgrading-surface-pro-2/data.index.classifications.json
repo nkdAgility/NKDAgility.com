@@ -1195,11 +1195,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T17:51:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:43:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on upgrading to Windows 10 and the cultural shift towards agility at Microsoft, with no discussion of Test First Development or related TDD principles.",
+    "final_score": 8.0,
+    "reasoning": "The content primarily discusses the author's experience with upgrading to Windows 10 and the implications of agile practices at Microsoft. It does not mention Test First Development, success criteria, or any related testing methodologies. The focus is on user feedback and continuous delivery rather than the principles of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1288,11 +1291,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T17:51:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:43:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the upgrading process of Windows 10 and the author's experience, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the upgrade process of Windows 10 and the author's personal experiences with technology, with only a brief mention of agility in a general context. It does not focus on the role or responsibilities of a Scrum Master, nor does it delve into Scrum practices or principles, resulting in a very low confidence score for alignment with the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1569,6 +1575,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the transition to agile processes at Microsoft and the importance of user feedback, which touches on competence in terms of continuous learning and adaptation. However, it primarily focuses on the technical aspects of upgrading to Windows 10 and personal experiences rather than a deep exploration of competence as a foundational principle in Agile or DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:43:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the upgrade process of Windows 10 and the author's personal experiences with it. While it touches on themes of agility and user feedback, it does not explicitly address Agentic Agility or its principles. The focus is more on technical aspects and personal anecdotes rather than the intentional shaping of outcomes through autonomy and adaptability, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

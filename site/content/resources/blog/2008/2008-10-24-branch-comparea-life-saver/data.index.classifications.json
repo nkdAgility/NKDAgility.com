@@ -1063,11 +1063,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:25:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:39:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses branching and merging tools, which are unrelated to Test First Development or its principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a tool for comparing branches in development, which does not relate to Test First Development principles. There are no direct mentions of testing practices, success criteria, or any of the key topics associated with Test First Development. The focus is on a tool that aids in the development process rather than on testing methodologies or practices.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1261,11 +1264,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:25:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:39:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses branching and merging tools, which are unrelated to the Scrum Master role.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a tool for comparing branches in development, which is unrelated to the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum, agile principles, or the impact of a Scrum Master on team dynamics or organisational change. The focus is entirely on technical aspects of development rather than any Scrum-related discussions.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1485,6 +1491,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on a tool for comparing branches in development, which does not directly address the principles of competence in Agile or DevOps. While it may imply some level of skill enhancement through tool usage, it lacks explicit discussions on continuous learning, quality outcomes, or fostering a culture of competence. The mention of a tool does not align with the core themes of competence as defined.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:39:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a tool for comparing branches in development, which does not relate to the intentional shaping of outcomes or the principles of Agentic Agility. There are no direct mentions of agency, adaptability, or the interplay between human and AI capabilities, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

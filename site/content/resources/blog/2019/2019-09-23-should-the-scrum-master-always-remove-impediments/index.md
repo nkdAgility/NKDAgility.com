@@ -28,8 +28,8 @@ aliasesArchive:
 - /blog/should-the-scrum-master-always-remove-impediments-
 - /resources/blog/should-the-scrum-master-always-remove-impediments
 tags:
-- Scrum Master
 - Scrum Team
+- Scrum Master
 - Agile Project Management
 - Professional Scrum
 - People and Process

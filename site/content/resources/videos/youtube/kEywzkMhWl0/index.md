@@ -35,10 +35,10 @@ sitemap:
 tags:
 - People and Process
 - Agile Project Management
+- Scrum Master
 - Agile Transformation
 - Professional Scrum
 - Scrum Team
-- Scrum Master
 - Agile Frameworks
 - Agile Leadership
 - Change Management

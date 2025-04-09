@@ -511,11 +511,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T11:41:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:12:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses how to pitch Agile internally and does not address Test First Development or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on pitching agile methodologies within an organisation, discussing the benefits of agile and how to communicate its value to different stakeholders. It does not explicitly mention Test First Development or its principles, nor does it delve into specific practices like Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). While there are references to agile practices, they are not aligned with the core themes of Test First Development, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -859,11 +862,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T11:41:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:12:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses how to pitch Agile internally and engage stakeholders, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of pitching agile and the need for organisational buy-in, which indirectly relates to the Scrum Master's role in facilitating agile adoption. However, it lacks direct mentions of the Scrum Master role and does not delve deeply into specific responsibilities or techniques associated with Scrum Masters. The focus is more on general agile principles rather than the specific impact and responsibilities of a Scrum Master.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1593,6 +1599,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses pitching agile methodologies within organisations, focusing on the benefits and metrics of agile rather than the One Engineering System framework. While it touches on aspects of integration and collaboration, it does not explicitly mention 1ES or its principles, components, or implementation best practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:11:50",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses how to pitch agile methodologies within an organisation, focusing on communication strategies and metrics rather than the intentional shaping of outcomes through autonomy and adaptability. While it touches on aspects of organisational change and stakeholder engagement, it lacks a direct exploration of Agentic Agility principles, such as the distinction between human and AI capabilities or the mechanisms of AI Agentic Agility. The discussion is more about general agile practices and change management rather than a focused examination of agency and intentionality.",
     "level": "Ignored"
   }
 }

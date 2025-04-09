@@ -175,11 +175,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:35:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content is primarily focused on the technical aspects of migrating projects within Azure DevOps, with no clear discussion on Test First Development or its principles.",
+    "calculated_at": "2025-04-08T16:21:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration processes and tools, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant depth or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -628,11 +631,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:35:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Azure DevOps migration tools and technical implementation details, with no clear reference to Scrum Master responsibilities or practices.",
+    "calculated_at": "2025-04-08T16:21:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration processes and tools, with no direct mention of the Scrum Master role or its responsibilities. While there may be a tangential connection to agile practices, the discussion lacks depth and relevance to the core themes of the Scrum Master category.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -1512,6 +1518,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Azure DevOps migration processes and tools, with no direct mention or discussion of the One Engineering System framework or its principles. While it touches on aspects of software development, it does not align with the core themes of integration and standardisation that define 1ES. The depth of discussion is limited to practical migration steps, lacking any exploration of broader engineering practices or methodologies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:21:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating projects within Azure DevOps, providing a step-by-step guide without discussing the intentional shaping of outcomes, agency, or the principles of Agentic Agility. There are no explicit mentions of autonomy, adaptability, or alignment with values, nor does it differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

@@ -505,11 +505,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T01:27:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:22:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of 'Definition of Done' in Scrum, without a clear focus on Test First Development or related testing practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the Definition of Done in the context of Scrum and software development, which touches on quality assurance and acceptance criteria. However, it does not explicitly focus on Test First Development principles such as Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). The discussion is more about quality standards and project completion rather than the Test First approach, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -847,15 +850,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T11:25:37",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-04-08T16:22:08",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the concept of 'Definition of Done', which is relevant to Scrum practices, but it does not explicitly mention the role of the Scrum Master or delve into their responsibilities. While it touches on quality assurance in the context of Scrum, it lacks depth in discussing the Scrum Master's role in facilitating this understanding or coaching teams on it. The analogy used is engaging but does not provide substantial insights into Scrum Master practices or team dynamics.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the Definition of Done, which is a crucial aspect of Scrum, and it is relevant for Scrum Masters. However, it does not explicitly focus on the role of the Scrum Master or their responsibilities. While it aligns with Scrum principles and provides practical advice that a Scrum Master might use, the primary focus is on the Definition of Done itself rather than the Scrum Master role. Therefore, the confidence score reflects a moderate alignment with the category.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1551,6 +1554,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Definition of Done within the Scrum framework, which is a specific agile methodology. While it touches on quality assurance in software development, it does not discuss the One Engineering System (1ES) framework, its principles, or its integration across teams. The discussion is more about Scrum practices rather than the standardisation and integration of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:22:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Definition of Done in Scrum and does not discuss Agentic Agility or its principles. While it touches on quality assurance and team alignment, these concepts do not align with the intentional shaping of outcomes as defined in Agentic Agility. The discussion lacks depth and does not differentiate between human and AI capabilities, nor does it explore the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

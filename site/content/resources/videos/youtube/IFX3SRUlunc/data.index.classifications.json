@@ -394,11 +394,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T17:52:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:32:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses lean product development and product ownership, with no clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on lean product development and its benefits, with no direct mention of the Scrum Master role or its responsibilities. While there are themes of decision-making and value creation that could tangentially relate to Scrum principles, the discussion does not align with the core topics of the Scrum Master category. The content lacks depth in addressing the specific role of a Scrum Master or their impact on team dynamics and organisational change.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -430,11 +433,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T17:52:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:32:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses lean product development and decision-making, with no clear focus on Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on lean product development, decision-making, and value creation, with no explicit discussion of Test First Development principles or practices. While it touches on improving processes and minimising risks, it does not align with the core themes of Test First Development, such as success criteria, TDD, or collaboration among development roles.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1593,6 +1599,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on lean product development, which is not directly related to the One Engineering System. While it discusses decision-making and value creation, it does not mention the principles or components of 1ES, nor does it address integration of tools or processes across teams. The discussion lacks depth regarding 1ES and does not provide relevant examples or comparisons, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:32:45",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses lean product development, focusing on decision-making and value creation, but does not explicitly address Agentic Agility or its principles. While there are elements of autonomy and adaptability in the context of decision-making, the content lacks a clear distinction between human and AI capabilities, and does not delve into the intentional shaping of outcomes as defined by Agentic Agility.",
     "level": "Ignored"
   }
 }

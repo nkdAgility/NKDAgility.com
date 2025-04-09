@@ -517,14 +517,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-07T14:05:27",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
-    "non_ai_confidence": 20,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of teaching and understanding the 'why' behind Scrum practices, which aligns with the role of a Scrum Master in coaching and mentoring. However, it lacks explicit references to specific Scrum ceremonies or detailed responsibilities, resulting in a moderate confidence score.",
+    "calculated_at": "2025-04-08T17:02:16",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the role of a Scrum Master, focusing on teaching and facilitating understanding within a Scrum context. It aligns well with the core themes of the category, such as the importance of effective communication and fostering a culture of continuous improvement. The depth of discussion is significant, providing detailed strategies and insights into the Scrum Master's responsibilities, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -937,11 +937,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:21:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of a scrum master and general agile concepts without addressing Test First Development or its principles.",
+    "calculated_at": "2025-04-08T17:02:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of teaching the rationale behind Agile practices, particularly Scrum, rather than focusing on Test First Development principles. While it touches on collaboration and understanding within teams, it does not explicitly mention or align with Test First Development concepts such as success criteria, TDD, or ATDD. The discussion is more about Agile methodologies in general, lacking depth in the specific area of Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1509,6 +1512,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Agile and Scrum practices, discussing the importance of teaching the rationale behind these methodologies. While it touches on collaboration and improvement, it does not explicitly mention or align with the principles of the One Engineering System framework, which is centred on standardising and integrating software development practices across teams. The discussion is more about personal experiences and strategies in Agile rather than the integration of tools and processes as required by the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:02:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of understanding the 'why' behind Agile practices, which aligns with the principles of Agentic Agility by promoting autonomy and adaptability. However, it primarily focuses on teaching methods and team dynamics rather than explicitly addressing the intentional shaping of outcomes or differentiating between human and AI capabilities. The discussion lacks depth in exploring the mechanisms of Agentic Agility and does not provide specific examples or case studies related to the category.",
     "level": "Ignored"
   }
 }

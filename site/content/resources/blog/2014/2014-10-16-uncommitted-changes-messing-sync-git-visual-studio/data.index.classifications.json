@@ -1123,11 +1123,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T00:22:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:42:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to version control systems and workflows, with no mention of Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses issues related to version control systems, specifically the challenges of uncommitted changes in Git and the transition from server-based to distributed version control. It does not mention Test First Development, its principles, or any related practices such as TDD or ATDD. The focus is on workflow management rather than testing methodologies, leading to a very low confidence score in relation to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1207,11 +1210,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T00:23:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:42:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Git version control and workflow issues, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Git and version control systems, with no direct mention of Scrum or the role of a Scrum Master. While it touches on workflow management, it does not align with the core themes of the Scrum Master category, such as coaching, team dynamics, or agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1485,6 +1491,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the technical aspects of using Git and managing uncommitted changes, which does not directly address the concept of competence in Agile or DevOps. While there are mentions of workflow and productivity, these are not explored in the context of continuous learning or skill development, which are key themes of competence. The discussion lacks depth regarding the importance of competence in delivering quality outcomes or fostering a culture of continuous improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:42:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses version control systems and workflow management in Git, with no explicit mention of Agentic Agility or its principles. While there are elements of adaptability in managing changes, the focus is on technical processes rather than intentional shaping of outcomes or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

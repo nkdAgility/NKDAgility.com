@@ -1126,11 +1126,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T15:17:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:58:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an issue related to Project Server 2013 and Team Foundation Server, with no mention of Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a specific error related to Project Server 2013 and does not mention Test First Development or its principles. There is no focus on success criteria, testing practices, or any related concepts that align with Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1213,11 +1216,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T15:17:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:58:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server, with no reference to Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to Project Server 2013 and does not mention the role or responsibilities of a Scrum Master. There is no alignment with the core themes of Scrum or agile principles, and the depth of discussion is focused on troubleshooting rather than any aspect of Scrum methodology.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1488,6 +1494,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on resolving a specific technical issue related to Project Server 2013 and does not discuss competence, continuous learning, or skill development. While it touches on the importance of permissions and settings, it lacks a broader discussion on competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:58:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error in Project Server 2013 and does not discuss Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is technical and procedural, lacking any exploration of the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

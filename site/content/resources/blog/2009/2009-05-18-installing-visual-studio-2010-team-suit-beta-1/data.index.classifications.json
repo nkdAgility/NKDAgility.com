@@ -1123,11 +1123,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:32:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2010 without mentioning Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on the installation process of Visual Studio 2010 Team Suite Beta 1, with no references to Test First Development principles, success criteria, or testing practices. It does not discuss any related topics that would align with the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1207,11 +1210,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:32:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio 2010, with no relation to Scrum Master responsibilities or themes.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the installation process of Visual Studio 2010 and does not mention the role or responsibilities of a Scrum Master. There is no discussion of Scrum principles, team dynamics, or any related topics that would align with the category. Therefore, it scores very low on all dimensions.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Team Suite Beta 1, with no direct discussion of competence, continuous learning, or skill development. While it touches on aspects of usability and installation options, these do not align with the core themes of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:32:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on the installation process of Visual Studio 2010 Team Suite Beta 1, with no discussion of Agentic Agility or its principles. It does not address intentional shaping of outcomes, autonomy, or adaptability, which are core to the category. The content is primarily technical and instructional, lacking any relevant themes or depth related to Agentic Agility.",
     "level": "Ignored"
   }
 }

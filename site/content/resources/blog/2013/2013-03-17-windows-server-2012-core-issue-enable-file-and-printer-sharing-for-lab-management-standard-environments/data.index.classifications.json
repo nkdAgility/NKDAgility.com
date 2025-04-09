@@ -1120,11 +1120,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:17:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:56:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to enabling file and printer sharing in Visual Studio Lab Management, which is unrelated to Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to file and printer sharing in Visual Studio Lab Management, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any alignment with the core themes of Test First Development, and the depth of discussion is limited to troubleshooting and configuration steps, which are unrelated to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1207,11 +1210,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:17:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:56:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical issues related to Visual Studio Lab Management and does not discuss Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical issues related to Visual Studio Lab Management and does not mention or align with any aspects of the Scrum Master role, responsibilities, or agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on resolving technical issues related to file and printer sharing in Visual Studio Lab Management. While it involves some level of technical competence, it does not explicitly discuss continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The mention of technical solutions does not align with the core themes of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:56:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to file and printer sharing in Visual Studio Lab Management. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The content lacks any mention of intentional shaping of outcomes, adaptability, or alignment with values, which are core to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

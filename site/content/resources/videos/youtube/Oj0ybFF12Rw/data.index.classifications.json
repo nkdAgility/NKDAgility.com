@@ -391,12 +391,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:36:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:30:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses scaling Scrum rather than focusing directly on the role and responsibilities of a Scrum Master.",
-    "level": "Ignored"
+    "final_score": 57.0,
+    "reasoning": "The content discusses the concept of scaling Scrum, which is relevant to the Scrum framework and indirectly relates to the role of the Scrum Master in facilitating effective practices. However, it does not focus specifically on the responsibilities or skills of the Scrum Master, nor does it delve deeply into their impact on team dynamics or organisational change. The primary focus is on the debate around scaling Scrum rather than the Scrum Master's role, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -430,11 +433,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:36:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:30:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and its scaling, with no mention or focus on Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the scaling of Scrum and does not mention Test First Development or its principles. While it touches on Agile practices, it lacks any direct references to success criteria, testing methodologies, or the importance of testing in the development process, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1542,6 +1548,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Scrum and its scaling, particularly through the Nexus framework, which is not directly related to the One Engineering System. While it touches on concepts of scaling and methodologies, it does not address the core principles or components of 1ES, nor does it provide insights into integration across teams or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:30:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the scaling of Scrum and critiques the notion of not scaling it. While it touches on adaptability and value delivery, it does not explicitly address Agentic Agility or its principles. The focus is on Scrum practices rather than the intentional shaping of outcomes through agency, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

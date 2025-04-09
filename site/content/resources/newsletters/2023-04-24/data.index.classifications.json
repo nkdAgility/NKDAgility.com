@@ -559,14 +559,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-13T15:44:16",
+    "calculated_at": "2025-04-08T17:03:30",
     "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
     "final_score": 61.0,
-    "reasoning": "The content discusses the importance of professional development for Scrum Masters and mentions specific courses aimed at enhancing their skills. However, while it touches on the role of Scrum Masters, it lacks in-depth exploration of their responsibilities and practices within the Scrum framework. The focus is more on general Agile principles and career development rather than a detailed examination of the Scrum Master role.",
+    "reasoning": "The content discusses the importance of Scrum training and mentions specific courses for Scrum Masters, indicating a focus on their development. However, while it touches on the role of Scrum Masters, it does not delve deeply into their responsibilities or impact within a Scrum Team, which limits the depth of discussion.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1003,11 +1003,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:21:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:03:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses Agile and Scrum roles, training opportunities, and career development rather than Test First Development principles and practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting training opportunities and career development within the context of Agile and Scrum, without any explicit discussion of Test First Development principles or practices. While it mentions Agile methodologies, it does not delve into the specifics of success criteria, testing practices, or the importance of automated testing, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1590,6 +1593,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum and Agile methodologies, discussing training opportunities and personal development rather than the One Engineering System framework. While it touches on themes of collaboration and skill enhancement, it does not explicitly mention 1ES or its principles, components, or implementation strategies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:03:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content briefly touches on themes of personal development and the importance of proactive engagement in one's career, which aligns with the concept of Agentic Agility. However, it lacks a focused discussion on the intentional shaping of outcomes, the distinction between human and AI capabilities, and does not delve deeply into the principles or mechanisms of Agentic Agility. The primary focus is on promoting training and community engagement rather than a thorough exploration of the category.",
     "level": "Ignored"
   }
 }

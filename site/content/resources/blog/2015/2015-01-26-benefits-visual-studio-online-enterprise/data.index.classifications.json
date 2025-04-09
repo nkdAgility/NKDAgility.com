@@ -1201,11 +1201,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T23:09:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:39:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the benefits and features of Visual Studio Online, with no clear focus on Test First Development or related practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the benefits and features of Visual Studio Online for enterprises, focusing on agility and cloud-based development. It does not explicitly mention Test First Development principles, success criteria, or testing practices, which are central to the category. While there are references to testing tools, they are not framed within the context of Test First Development, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1285,11 +1288,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T23:09:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:39:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio Online features and benefits, with no clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Visual Studio Online and its benefits for enterprises, with no direct mention of the Scrum Master role or its responsibilities. While there are references to agility and cultural change, these are not specifically tied to the Scrum Master role or its impact on Scrum teams.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1578,6 +1584,18 @@
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "The content primarily discusses Visual Studio Online (VSO) and its benefits for enterprises, with a focus on features, agility, and cloud-based development. While it touches on aspects of integration and efficiency, it does not explicitly mention the One Engineering System framework or its principles. The discussion lacks depth in relation to 1ES, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:39:20",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content discusses the benefits of Visual Studio Online (VSO) for enterprises, focusing on agility and cloud-based development. However, it lacks a direct discussion on Agentic Agility, particularly the intentional shaping of outcomes through autonomy and adaptability. While it touches on organisational agility and the need for cultural change, it does not delve into the principles of Agentic Agility or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

@@ -172,11 +172,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T16:10:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:36:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal update regarding working location and availability, with no direct reference to Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not discuss any aspects related to the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum practices, team dynamics, or agile principles, which are essential for alignment with the category. The content lacks depth and relevance to the Scrum Master role, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1000,11 +1003,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T16:13:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:36:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a change in working location and does not discuss Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content is primarily an update about a change in working location and does not discuss any principles or practices related to Test First Development. There are no mentions of testing methodologies, success criteria, or any relevant topics that align with the category.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1464,6 +1470,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not discuss any principles, components, or practices related to the One Engineering System. There are no mentions of integration, standardisation, or software development methodologies, which are core to the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:36:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on a personal update regarding a change in location and does not discuss Agentic Agility or its principles. There are no explicit mentions of intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities. The content lacks depth and relevance to the category.",
     "level": "Ignored"
   }
 }

@@ -544,14 +544,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-07T14:19:53",
-    "ai_confidence": 82.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 85.0,
+    "calculated_at": "2025-04-08T17:17:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
-    "reasoning": "The content explicitly discusses the role of Scrum Masters and their responsibilities, making direct mentions of Scrum Master accountabilities and the importance of the Scrum framework. It aligns well with the core themes of the category, focusing on training for aspiring Scrum Masters and providing insights into Scrum theory and principles. The depth of discussion is significant, as it details the structure of the training and the support provided to participants, indicating a comprehensive approach to developing Scrum Master skills.",
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master, detailing a workshop designed to enhance the skills and understanding of aspiring Scrum Masters. It discusses the responsibilities and importance of the Scrum Master role, emphasising the need for a solid foundation in Scrum principles and the impact of effective training. The depth of discussion is significant, covering various aspects of the workshop and the community built around it, which aligns well with the key topics of the category. However, while the content is rich in relevant information, it does not delve deeply into empirical decision-making or the Scrum Master's influence on organisational change, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -970,11 +970,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum methodology and training for Scrum Masters, rather than on Test First Development or its principles.",
+    "calculated_at": "2025-04-08T17:17:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum training and the role of a Scrum Master, with no direct mention of Test First Development principles or practices. While it discusses Agile methodologies, it does not address success criteria, testing practices, or the importance of automated testing, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1545,6 +1548,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum training and the role of Scrum Masters, which is not aligned with the principles of the One Engineering System. While it discusses aspects of Agile and community building, it does not address the integration or standardisation of engineering processes, nor does it mention the One Engineering System framework or its components.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:17:02",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on training for Scrum Masters and the importance of community and collaboration within Agile practices. While it touches on themes of personal growth and empowerment, it does not explicitly discuss Agentic Agility or its principles. The mention of nurturing a culture of collaboration hints at some alignment with the category, but the overall focus remains on Scrum methodologies rather than the intentional shaping of outcomes through autonomy and adaptability.",
     "level": "Ignored"
   }
 }

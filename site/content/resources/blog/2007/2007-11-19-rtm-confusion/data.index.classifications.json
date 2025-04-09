@@ -163,20 +163,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:54:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:23:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses confusion regarding software downloads and versions, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses confusion regarding the RTM release of Visual Studio 2008 and related downloads. It does not mention Evidence-Based Management or its key topics, nor does it provide any empirical evidence or data-informed decision-making insights. The focus is on software releases rather than management practices.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:54:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:23:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses confusion regarding Visual Studio 2008 and its components, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses confusion regarding the RTM release of Visual Studio 2008 and related downloads. It does not mention the Agile Product Operating Model or its principles, nor does it align with the core themes of product management or agile methodologies. The focus is on software releases rather than agile practices.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -316,11 +322,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:55:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:23:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses confusion regarding Visual Studio 2008 and Team Explorer, which does not align with DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses confusion regarding the RTM release of Visual Studio 2008 and related downloads. While it touches on tools that may be used in a DevOps context, it does not explicitly discuss DevOps principles, practices, or cultural shifts. The focus is on specific software releases rather than the integration of people, processes, and technology for continuous value delivery.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -700,11 +709,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:08:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:23:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to Visual Studio and Team Explorer but does not address Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses confusion regarding the RTM release of Visual Studio 2008 and related downloads. It does not explicitly mention Continuous Delivery or its principles, nor does it align with the core themes of Continuous Delivery such as automation, incremental improvements, or rapid feedback. The discussion is focused on specific software versions and downloads, which is unrelated to Continuous Delivery practices.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1339,11 +1351,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:08:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:23:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum Master responsibilities, practices, or related topics; it focuses on Visual Studio 2008 Team Suite and its associated downloads.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses confusion regarding the RTM release of Visual Studio 2008 and related downloads. There are no direct mentions of the Scrum Master role, nor does it align with the core themes of Scrum, such as team dynamics, coaching, or agile principles. The discussion is focused on technical software issues rather than the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1366,11 +1381,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:08:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:23:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on confusion regarding Visual Studio 2008 releases and downloads, with no discussion related to Test First Development or related principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses confusion regarding the RTM release of Visual Studio 2008 and related downloads. It does not mention Test First Development, its principles, or any related practices. The focus is on software releases and downloads rather than testing methodologies or development practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1434,6 +1452,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses confusion regarding the availability of Visual Studio 2008 components and does not mention or align with the principles of the Shift-Left Strategy. There are no references to integrating testing, security, or compliance early in the development process, nor does it provide any depth on related methodologies or tools.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:23:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses confusion regarding the RTM release of Visual Studio 2008 and related downloads. It does not address the concept of Common Goals, nor does it connect to Agile or DevOps principles. The focus is on specific software issues rather than shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:23:37",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses confusion regarding the RTM release of Visual Studio 2008 and related downloads. It does not explicitly mention competence or its importance in Agile, Scrum, DevOps, or Lean methodologies. While there is a tangential reference to needing tools for development, it lacks a focus on continuous learning, skill development, or the professional standards associated with competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:23:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses confusion regarding the RTM release of Visual Studio 2008 and related downloads. It does not address Continuous Improvement principles, nor does it provide insights into processes, products, or team effectiveness. The focus is on specific software issues rather than on any form of continuous improvement or organisational strategies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:23:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses confusion regarding the RTM release of Visual Studio 2008 and related downloads. It does not address the intentional shaping of outcomes, agency, or agility in any meaningful way. There are no direct mentions of Agentic Agility or its principles, and the discussion lacks depth on the topic, focusing instead on technical issues and downloads.",
     "level": "Ignored"
   }
 }

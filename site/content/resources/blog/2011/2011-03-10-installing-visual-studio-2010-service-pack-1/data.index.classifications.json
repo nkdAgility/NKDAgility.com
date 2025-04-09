@@ -1126,11 +1126,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T23:44:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:16:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on the installation process of Visual Studio 2010 Service Pack 1 and does not discuss Test First Development, TDD, or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Service Pack 1, with no direct mentions or discussions related to Test First Development principles, success criteria, or testing practices. It lacks any depth or alignment with the core themes of Test First Development, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1213,11 +1216,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T23:44:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:16:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of software (Visual Studio 2010), with no relevance to the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the installation of Visual Studio 2010 Service Pack 1, with no mention of Scrum, Scrum Masters, or related agile practices. It does not discuss any responsibilities, techniques, or impacts relevant to the Scrum Master role, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1488,6 +1494,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Service Pack 1, providing practical tips and personal experiences. It does not explicitly discuss competence, continuous learning, or skill development, which are central to the category. While there is a minor implication of enhancing the development experience, it lacks depth and direct relevance to the principles of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:16:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Service Pack 1, with no direct mentions or discussions related to Agentic Agility. It lacks any exploration of autonomy, adaptability, or intentional shaping of outcomes, which are core themes of the category. The content does not differentiate between human and AI capabilities in the context of agility, nor does it provide any depth on the principles or mechanisms of Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -1204,11 +1204,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T01:39:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:25:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses troubleshooting build failures and bug creation processes, which are related to testing but do not primarily focus on Test First Development principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses troubleshooting a failing test in a build process, which indirectly relates to testing practices. However, it does not explicitly mention Test First Development principles or practices such as defining success criteria before implementation, TDD, or ATDD. The focus is more on resolving issues rather than on the proactive approach of Test First Development, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1291,14 +1294,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T07:16:24",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-04-08T19:25:45",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 40.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content briefly mentions Scrum in the context of adding a bug to the sprint backlog and discusses the importance of team dynamics, such as not assigning tasks directly to team members. However, the primary focus is on technical issues related to build failures and code debugging, which does not align closely with the core responsibilities and practices of a Scrum Master. The discussion lacks depth in exploring Scrum ceremonies or coaching techniques, leading to a moderate confidence score.",
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Scrum in the context of adding a bug to the sprint backlog and discusses some practices related to Scrum meetings. However, the primary focus is on troubleshooting build issues in TFS 2010, which does not align with the core responsibilities or impact of a Scrum Master. The discussion lacks depth regarding the role of a Scrum Master, techniques for coaching, or fostering team dynamics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1578,6 +1581,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses troubleshooting and resolving issues in a build process, which indirectly relates to competence through the need for skill development and problem-solving capabilities. However, it primarily focuses on technical troubleshooting rather than a broader discussion on competence in Agile or DevOps contexts. The mention of code reviews and defensive programming hints at the importance of competence, but these points are not explored in depth, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:25:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting build failures in Team Foundation Server and does not explicitly discuss Agentic Agility or its principles. While there are elements of problem-solving and accountability, they are not framed within the context of intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals or systems, which is central to Agentic Agility.",
     "level": "Ignored"
   }
 }

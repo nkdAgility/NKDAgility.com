@@ -493,11 +493,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T02:55:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses code reviews and automation in the context of quality assurance, without a clear focus on Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T15:38:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses code reviews and automation in the context of improving quality and speed in software development. While it touches on automated checks and early defect detection, it does not explicitly mention Test First Development principles or practices such as TDD or ATDD. The focus is more on code review processes rather than the foundational concepts of Test First Development, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -829,11 +832,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T02:56:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses code reviews and automation in software development, with no clear focus on Scrum Master responsibilities or practices.",
+    "calculated_at": "2025-04-08T15:38:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on code reviews and automation in software development, with no direct mention of the Scrum Master role or its responsibilities. While it touches on themes of collaboration and quality, it does not align with the core topics related to the Scrum Master, such as facilitating Scrum processes or promoting agile principles.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1536,6 +1542,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses code reviews and automation in software development, which are relevant to improving quality and efficiency. However, it does not explicitly mention the One Engineering System framework or its principles. The focus is primarily on code review practices rather than the integration and standardisation of engineering processes across teams, which is central to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:37:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses code reviews and automation in software development, which touches on aspects of agility but lacks a direct focus on Agentic Agility. While it mentions improving processes and outcomes through automation, it does not explicitly address the intentional shaping of outcomes or the distinction between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

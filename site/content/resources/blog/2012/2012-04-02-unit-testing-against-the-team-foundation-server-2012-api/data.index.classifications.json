@@ -1147,14 +1147,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-11T18:06:19",
+    "calculated_at": "2025-04-08T19:07:16",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 20,
     "final_score": 67.0,
-    "reasoning": "The content discusses Test Driven Development (TDD) and mentions the importance of writing tests before code, which aligns with the principles of Test First Development. However, the primary focus is on specific implementation challenges related to unit testing against the Team Foundation Server API, rather than a comprehensive exploration of TDD principles or practices. The depth of discussion on TDD is limited, primarily addressing personal experiences and challenges rather than broader concepts or benefits associated with Test First Development.",
+    "reasoning": "The content discusses Test Driven Development (TDD) and mentions the importance of writing tests first, which aligns with the principles of Test First Development. However, the focus is primarily on unit testing against a specific API and the challenges faced, rather than a broader discussion on the principles and practices of Test First Development. The depth of discussion on TDD is moderate, but it lacks comprehensive coverage of the key topics outlined in the category definition.",
     "level": "Secondary"
   },
   "Windows": {
@@ -1237,11 +1237,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:43:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:07:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details related to unit testing and Team Foundation Server, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on unit testing and technical challenges related to the Team Foundation Server API, with no direct mention of Scrum Master responsibilities or related concepts. While it touches on aspects of software development, it does not align with the core themes of the Scrum Master role, such as facilitation, coaching, or team dynamics.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1524,6 +1527,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on technical implementation details related to unit testing and authentication with the Team Foundation Server API. While it touches on aspects of Test Driven Development (TDD), which implies a level of competence in software development practices, it does not explicitly discuss the broader themes of continuous learning, skill development, or the importance of competence in Agile or DevOps environments. The discussion lacks depth in exploring how these practices contribute to professionalism or quality outcomes, leading to a lower confidence score in the 'Competence' category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:07:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on unit testing and authentication challenges related to the Team Foundation Server API. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. While there are mentions of adaptability in testing practices, they do not align with the core themes of intentionality and agency in shaping outcomes.",
     "level": "Ignored"
   }
 }

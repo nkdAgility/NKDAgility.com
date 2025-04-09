@@ -532,11 +532,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T11:52:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of gluttony in Agile practices, focusing on backlog management and feature usage, without addressing Test First Development or related testing principles.",
+    "calculated_at": "2025-04-08T16:30:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the pitfalls of gluttony in Agile, focusing on backlog management and sprint planning. It does not mention Test First Development or its principles, nor does it explore testing practices, automated testing, or success criteria, which are central to the category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -880,15 +883,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T21:45:37",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-04-08T16:30:10",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses Agile practices and the importance of backlog management, which is relevant to the Scrum Master role. However, it does not explicitly mention the Scrum Master or delve deeply into their specific responsibilities. The focus on Sprint planning and team dynamics aligns with Scrum principles, but the overall discussion is more general about Agile rather than specifically about the Scrum Master.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile principles and practices, particularly focusing on backlog management and sprint planning, which are relevant to the Scrum Master role. However, it does not explicitly mention the Scrum Master or delve deeply into their specific responsibilities or influence within a Scrum Team. The discussion is more general about Agile practices rather than centred on the Scrum Master, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1602,6 +1605,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Agile practices and the pitfalls associated with them, specifically the concept of 'gluttony' in Agile. While it discusses backlog management and sprint planning, it does not mention or align with the principles of the One Engineering System (1ES). The discussion is centred around Agile methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:30:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile practices and the pitfalls of gluttony in backlog management, which does not directly address the concept of Agentic Agility. While it touches on themes of prioritisation and value delivery, it lacks a clear focus on intentional shaping of outcomes, the distinction between human and AI capabilities, and the deeper principles of Agentic Agility. The discussion is more about general Agile practices rather than the specific transformative capacity of individuals and systems.",
     "level": "Ignored"
   }
 }

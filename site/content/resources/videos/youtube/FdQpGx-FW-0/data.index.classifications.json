@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T07:48:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:27:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the pitfalls of prescriptive Agile frameworks and the importance of principles over rules, without addressing Test First Development or related testing practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile principles and the pitfalls of prescriptive methodologies, with no direct mention of Test First Development or its practices. While it touches on themes of adaptability and collaboration, it does not delve into success criteria, testing practices, or the importance of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -862,12 +865,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T21:28:00",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content discusses Agile principles and critiques prescriptive frameworks like Scrum, but it does not focus specifically on the role or responsibilities of a Scrum Master.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T16:27:01",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of the Scrum Master in the context of Agile transformation, particularly highlighting the importance of adaptability and the pitfalls of prescriptive methodologies. While it does mention the Scrum Master and their impact on team dynamics, the primary focus is on broader Agile principles rather than a detailed exploration of the Scrum Master's responsibilities. The depth of discussion on the Scrum Master is moderate, but the overall emphasis is more on Agile as a whole, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1605,6 +1611,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile methodologies and critiques prescriptive approaches, which diverges from the core principles of the One Engineering System. While it touches on themes of collaboration and adaptability, it does not explicitly mention or focus on the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:26:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the pitfalls of prescriptive methodologies in Agile and advocates for a principles-based approach that empowers individuals and teams. However, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. The focus is more on general Agile practices rather than the intentional shaping of outcomes through autonomy and adaptability.",
     "level": "Ignored"
   }
 }

@@ -781,14 +781,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T16:24:30",
+    "calculated_at": "2025-04-08T15:28:32",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses scaling product development and organisational challenges but does not specifically address the role of a Scrum Master or their responsibilities. While it mentions collaboration and leadership, it lacks direct references to Scrum practices or the Scrum Master's role in facilitating teams and ceremonies.",
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses scaling product development and the challenges associated with it, which are relevant to Scrum practices. However, it does not explicitly mention the role of the Scrum Master or delve into their responsibilities, techniques, or influence on team dynamics. The focus is more on general leadership and organisational strategies rather than the specific role of a Scrum Master within a Scrum Team.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
@@ -1249,14 +1249,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-14T16:24:30",
+    "calculated_at": "2025-04-08T15:28:35",
     "ai_confidence": 12.0,
-    "ai_mentions": 5.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
     "final_score": 12.0,
-    "reasoning": "The content primarily discusses scaling product development and organisational challenges without any explicit mention of Test First Development or its principles. While it touches on collaboration and continuous learning, it does not delve into the specifics of writing tests before code or the benefits of TDD, which are central to the category.",
+    "reasoning": "The content primarily discusses challenges and strategies related to scaling product development, focusing on team dynamics and leadership rather than the principles of Test First Development. There are no explicit mentions of success criteria, testing practices, or the importance of automated testing, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -1905,6 +1905,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses scaling product development and addresses challenges such as alignment and technical debt, which are relevant to engineering practices. However, it primarily focuses on Naked Agility and does not explicitly mention the One Engineering System or its principles. The discussion lacks depth regarding the integration and standardisation of engineering processes, which is central to the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:28:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses scaling product development and the challenges associated with it, such as alignment and technical debt. However, it does not explicitly mention Agentic Agility or its principles. While there are elements of adaptability and alignment with value, the focus is primarily on operational challenges and frameworks rather than on the intentional shaping of outcomes through agency. The depth of discussion on the specific mechanisms of Agentic Agility is limited, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

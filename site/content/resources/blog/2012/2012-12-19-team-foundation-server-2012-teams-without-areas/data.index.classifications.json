@@ -793,11 +793,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T16:29:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:58:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content is mainly focused on configuring Team Foundation Server (TFS) for managing team fields and areas, with no substantial discussion on Test First Development principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses configuring Teams without areas in TFS and does not focus on Test First Development principles. While it briefly mentions automated testing in a hypothetical scenario, it lacks a detailed exploration of Test First practices, success criteria, or the impact on collaboration, which are core to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -874,11 +877,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T16:29:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:58:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of Team Foundation Server (TFS) and team configurations without directly addressing the role or responsibilities of a Scrum Master.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on configuring Teams without areas in TFS, which is more about project management and technical setup rather than the role and responsibilities of a Scrum Master. While it touches on team dynamics and project management, it does not explicitly discuss the Scrum Master's role, responsibilities, or influence on team effectiveness and agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1539,6 +1545,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on configuring Teams without areas in TFS, which is more about technical implementation than discussions on competence. While it touches on aspects of team efficiency and workflow optimisation, it lacks a direct emphasis on continuous learning, skill development, or the professional growth of team members, which are core themes of competence. The depth of discussion is more procedural and technical rather than reflective of competence as a foundational principle.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:58:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on configuring Teams in TFS for project management, lacking any explicit discussion on Agentic Agility principles, intent, or the interplay between human and AI capabilities. It does not address the intentional shaping of outcomes or the transformative capacity of individuals and systems, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -1345,11 +1345,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T13:52:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on the concept of Kaizen and continuous improvement in the context of Kanban, with no mention of Test First Development or related practices.",
+    "calculated_at": "2025-04-08T15:51:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Kaizen and continuous improvement within Scrum and Kanban, with no direct mention of Test First Development principles or practices. While it touches on aspects of improvement and collaboration, it does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1411,12 +1414,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:52:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses the concept of Kaizen and continuous improvement but does not specifically focus on Scrum Master roles or responsibilities.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T15:51:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of Kaizen and its application within Scrum, highlighting the role of Scrum Masters in facilitating continuous improvement during Sprint Retrospectives. However, while it mentions the Scrum Master role, the primary focus is on Kaizen rather than an in-depth exploration of the Scrum Master's responsibilities or influence. The discussion is relevant but not exhaustive, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1569,6 +1575,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the concept of Kaizen within Scrum and Agile methodologies, which does not align with the core principles of the One Engineering System. While it discusses continuous improvement, it does not address the integration or standardisation of engineering processes across teams, which is central to 1ES. The discussion is more about personal experiences and practices in Scrum rather than the unified framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:51:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Kaizen and its application within Scrum and Agile methodologies, focusing on continuous improvement rather than the intentional shaping of outcomes through agency and adaptability. While it touches on themes of improvement and adaptability, it does not explicitly address the principles of Agentic Agility or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

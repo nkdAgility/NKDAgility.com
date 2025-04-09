@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T23:37:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Scrum myths and practices, with no focus on Test First Development or related testing methodologies.",
+    "calculated_at": "2025-04-08T16:00:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum myths and Agile principles, with no direct mention or focus on Test First Development practices, success criteria, or testing methodologies. While it touches on planning and team dynamics, it does not align with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -880,14 +883,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-13T16:34:28",
-    "ai_confidence": 82.0,
+    "calculated_at": "2025-04-08T16:00:04",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 32.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content discusses various myths about Scrum, touching on Scrum events and their purposes, which aligns with the responsibilities of a Scrum Master. However, it does not explicitly focus on the role of the Scrum Master or provide in-depth insights into coaching, mentoring, or team dynamics, leading to a high but not perfect confidence score.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily addresses common misconceptions about Scrum, which indirectly relates to the role of the Scrum Master in facilitating understanding and effective practices within a Scrum Team. However, it does not explicitly discuss the responsibilities or skills of a Scrum Master, nor does it delve deeply into their impact on team dynamics or organisational change. The focus is more on clarifying Scrum principles rather than the Scrum Master's role, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1605,6 +1608,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on debunking myths about Scrum, which is a specific Agile methodology, rather than discussing the One Engineering System (1ES). While it touches on some principles of Agile and Scrum, it does not address the integration, standardisation, or comprehensive framework aspects of 1ES. The discussion lacks depth regarding 1ES and does not provide relevant examples or comparisons, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:00:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum and Agile practices, with no explicit discussion of Agentic Agility or its principles. While it touches on themes of autonomy and adaptability within Scrum, it does not delve into the intentional shaping of outcomes or the distinction between human and AI capabilities, which are central to the category of Agentic Agility.",
     "level": "Ignored"
   }
 }

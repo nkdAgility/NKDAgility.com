@@ -361,12 +361,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T07:20:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T16:19:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Scrum Masters as part of a broader discussion on Agile Teams but does not primarily focus on the Scrum Master role.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile methodologies and the Agile Kata, which is a process improvement framework. However, it does not explicitly mention the role of the Scrum Master or delve into the specific responsibilities and impact of a Scrum Master within a Scrum Team. While there are references to agile transformations and team-level improvements, the focus is more on the Agile Kata rather than the Scrum framework or the Scrum Master's role, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -397,11 +400,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T07:20:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile training and the Agile Kata framework, with no clear focus on Test First Development or related testing principles.",
+    "calculated_at": "2025-04-08T16:19:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Agile Kata and its application in agile transformations, without any explicit mention of Test First Development principles or practices. While it discusses agile processes and team dynamics, it does not address success criteria, testing methodologies, or the importance of testing in the context of development, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Agile Kata and its application in agile transformations, which deviates from the core principles of the One Engineering System. While it mentions agile processes and cultural shifts, it does not discuss the integration or standardisation of engineering practices across teams, nor does it provide insights into the One Engineering System framework itself.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:19:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile transformations and the Agile Kata, but it primarily focuses on process improvement and cultural change rather than the intentional shaping of outcomes through agency. While it touches on themes of adaptability and team dynamics, it lacks a clear distinction between human and AI capabilities, and does not delve into the principles of Agentic Agility or provide specific examples related to the category.",
     "level": "Ignored"
   }
 }

@@ -1321,11 +1321,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T15:26:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:10:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on promoting Scrum training courses and does not discuss Test First Development or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting Scrum training courses and does not discuss Test First Development principles, success criteria, or testing practices. There are no direct mentions of Test First Development, and the alignment with its core themes is minimal, as the content is more about Agile training rather than testing methodologies.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1387,14 +1390,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T20:06:30",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-04-08T16:10:45",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
-    "reasoning": "The content primarily promotes Scrum training courses, including a specific mention of the 'Professional Scrum Master' course. However, it lacks in-depth discussion about the role and responsibilities of a Scrum Master, coaching techniques, or best practices related to Scrum ceremonies. While it aligns with the category by offering training relevant to Scrum Masters, the focus is more on promotional content rather than a substantive exploration of the Scrum Master role.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily promotes Scrum training courses, including those for Scrum Masters, but lacks a detailed discussion on the role and responsibilities of a Scrum Master. While it mentions the Scrum Master role in the context of training, it does not delve into the core themes of the category, such as coaching, mentoring, or the Scrum Master's impact on team dynamics. The focus is more on the promotional aspect rather than an in-depth exploration of the Scrum Master role.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1551,6 +1554,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on promoting Scrum training courses and does not discuss the One Engineering System framework or its principles. There are no direct mentions of 1ES, and the discussion is centred around Agile methodologies rather than the integration and standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:10:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on promoting Scrum training courses and does not explicitly discuss Agentic Agility or its principles. While it mentions Agile skills, it lacks depth in exploring the intentional shaping of outcomes, the distinction between human and AI capabilities, or any mechanisms of Agentic Agility. Overall, the content is more promotional than analytical regarding the category.",
     "level": "Ignored"
   }
 }

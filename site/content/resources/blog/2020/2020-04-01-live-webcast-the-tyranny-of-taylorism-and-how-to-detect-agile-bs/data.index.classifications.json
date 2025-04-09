@@ -775,11 +775,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T20:52:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:28:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily focuses on the history and critique of management practices and Agile adoption, with no mention of Test First Development or related concepts.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the historical context of management practices and critiques the adoption of Agile methodologies, without any direct mention or exploration of Test First Development principles. It lacks focus on success criteria, testing practices, or the role of feedback loops in the context of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -859,11 +862,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T20:52:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:28:07",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses historical management practices and the inadequacies of current Agile adoption without a focus on the Scrum Master role or responsibilities.",
+    "final_score": 22.0,
+    "reasoning": "The content discusses the historical context of management practices and critiques the adoption of Agile methodologies, but it does not explicitly mention the role or responsibilities of a Scrum Master. While it touches on Agile principles, it lacks a direct focus on the Scrum Master role, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1542,6 +1548,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the historical context of management practices, specifically Taylorism, and critiques the adoption of Agile methodologies. It does not mention the One Engineering System or its principles, components, or implementation. The focus is on identifying issues within Agile practices rather than on standardising or integrating engineering processes, which is the core of the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:28:03",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily critiques traditional management practices and highlights the shortcomings of Agile adoption, but it does not explicitly discuss Agentic Agility or its principles. While it touches on the need for feedback loops, it lacks a focus on intentional shaping of outcomes or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

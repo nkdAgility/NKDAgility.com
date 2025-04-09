@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T09:47:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses hierarchies of competence and control in organisational structures, with no clear focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T17:04:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses hierarchies of competence versus control in organisational structures, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. While it touches on the importance of feedback loops, it does not relate this to testing methodologies or the Test First approach.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -862,11 +865,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T09:48:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:04:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses hierarchies of competence versus control without a clear focus on the role or responsibilities of a Scrum Master. While it briefly mentions Agile and Scrum at the end, it does not delve into specific Scrum Master practices or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses hierarchies of competence versus control, which touches on organisational structures and agility but does not explicitly focus on the role of a Scrum Master or their responsibilities. While it mentions concepts relevant to agile practices, such as dynamic leadership and responsiveness to market changes, it lacks a direct connection to the specific duties and influence of a Scrum Master within a Scrum Team. The discussion is more general and does not delve into the nuances of the Scrum framework or the Scrum Master's role.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1596,6 +1602,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses hierarchies of competence versus control, focusing on organisational structures and decision-making processes. It does not mention the One Engineering System or its principles, components, or implementation. The discussion is more about leadership dynamics rather than the integration and standardisation of engineering practices, which is the core focus of the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:04:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses hierarchies of competence versus control, touching on themes of agility and responsiveness to market changes. However, it lacks explicit references to Agentic Agility, such as intentional shaping of outcomes or the distinction between human and AI capabilities. The focus is more on organisational structures rather than the deeper principles of agency and intentionality.",
     "level": "Ignored"
   }
 }

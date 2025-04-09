@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:48:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:05:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the setup of SharePoint and references external posts without focusing on evidence-based management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on setting up SharePoint for enterprise use, discussing deployment strategies and architecture without any reference to Evidence-Based Management principles or metrics. There are no explicit mentions of data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:48:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:05:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses setting up SharePoint and its architecture, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on setting up SharePoint for enterprise deployment, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM framework. The discussion is centred around technical deployment strategies rather than agile practices or product-oriented mindsets.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:49:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:05:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on setting up SharePoint and its architecture, with no clear discussion on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on setting up SharePoint for enterprise use, discussing deployment strategies and architecture. While it touches on collaboration, it does not explicitly address DevOps principles or practices, nor does it delve into the cultural or philosophical aspects of DevOps. The mention of deployment across multiple continents is more related to project management than to the core themes of DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -694,11 +703,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:08:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:05:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on setting up SharePoint for deployment and discusses architecture rather than Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on setting up SharePoint for enterprise deployment, which does not directly address Continuous Delivery principles or practices. While it mentions deployment strategies, it lacks explicit discussions on automation, incremental improvements, or rapid feedback, which are core to Continuous Delivery. The content is more about general deployment rather than the Continuous Delivery framework.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1330,11 +1342,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:08:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:05:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about setting up SharePoint and its deployment architecture, with no focus on Scrum Master responsibilities, practices, or related discussions.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on setting up SharePoint for enterprise use, with no direct mentions or discussions related to the role or responsibilities of a Scrum Master. It does not align with the core themes of the category, such as agile principles, team dynamics, or coaching techniques. The depth of discussion is also minimal, as it primarily addresses technical deployment strategies rather than any aspect of Scrum or the Scrum Master's influence.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1357,11 +1372,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:08:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:05:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses SharePoint setup and architecture, with no mention of Test First Development or related testing practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on setting up SharePoint for enterprise deployment and does not discuss Test First Development principles, success criteria, or testing practices. It lacks any relevant mentions or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1425,6 +1443,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses setting up SharePoint for enterprise use, focusing on deployment architecture rather than any aspects of the Shift-Left Strategy. There are no direct mentions of testing, security, or compliance processes integrated early in the development lifecycle, which are core to the Shift-Left concept. The discussion lacks depth and relevance to the category, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:05:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of setting up SharePoint for a global enterprise, with no explicit discussion of Common Goals or their significance in Agile or DevOps frameworks. While it touches on collaboration, it does not connect this to shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:05:38",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the technical aspects of setting up SharePoint for a global enterprise, with minimal direct discussion of competence or continuous skill development. While it references learning from external sources, it does not delve into the importance of competence in Agile or DevOps contexts, nor does it explore strategies for fostering a culture of competence. The overall emphasis is on deployment strategies rather than on professional growth or capability enhancement.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:05:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on setting up SharePoint for a global enterprise, discussing deployment strategies and architecture. While it touches on the importance of effective planning and learning from external resources, it does not explicitly address Continuous Improvement principles or provide a detailed exploration of related concepts. The discussion lacks depth in terms of Continuous Improvement methodologies or practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:05:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on setting up SharePoint for enterprise use, discussing deployment strategies and architecture. It does not explicitly mention Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI capabilities. The discussion lacks depth and relevance to the category, making it largely unrelated.",
     "level": "Ignored"
   }
 }

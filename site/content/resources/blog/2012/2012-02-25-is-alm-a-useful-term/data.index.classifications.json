@@ -1201,11 +1201,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:09:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:08:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) and Agile methodologies without focusing on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) and Agile practices without a direct focus on Test First Development principles. While it touches on quality and adaptability in software delivery, it does not explicitly mention success criteria, testing practices, or the importance of defining tests before implementation, which are core to Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1285,11 +1288,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:09:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:08:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses ALM (Application Lifecycle Management) and Agile practices without a specific or detailed focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) and Agile practices in a general context, without a specific focus on the role or responsibilities of a Scrum Master. While Agile principles are mentioned, the discussion does not delve into the Scrum Master's influence, techniques, or responsibilities, which are central to the category. Therefore, the content does not align well with the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1576,5 +1582,17 @@
     "final_score": 56.0,
     "reasoning": "The content discusses the importance of Agile practices and quality in software development, which aligns with the concept of competence. It mentions the expectations of professionalism in software development and the necessity for continuous improvement and adaptability. However, while competence is a recurring theme, the focus is more on ALM and Agile methodologies rather than a deep exploration of competence itself, leading to a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:08:44",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses Agile practices and ALM but does not explicitly address Agentic Agility or its principles. While it touches on adaptability and quality in software development, it lacks a focus on intentional shaping of outcomes, accountability, or the interplay between human and AI capabilities. The discussion is primarily about Agile methodologies rather than the specific concept of agency and intentionality in socio-technical environments.",
+    "level": "Ignored"
   }
 }

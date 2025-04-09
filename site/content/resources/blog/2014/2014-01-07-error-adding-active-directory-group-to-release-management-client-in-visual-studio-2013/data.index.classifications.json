@@ -1129,11 +1129,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T11:22:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:50:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses an error related to adding Active Directory groups in Visual Studio, with no focus on Test First Development principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on a specific error encountered in Visual Studio 2013's Release Management Client when adding Active Directory groups. It does not discuss Test First Development principles, success criteria, or testing practices. While it mentions a testing oversight ('slipped through the test matrix'), this is not a discussion on Test First Development itself, but rather a commentary on a specific implementation issue. Therefore, the content does not align with the category's core themes.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1216,11 +1219,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T11:22:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:50:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Active Directory and Visual Studio, with no reference to Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a technical issue related to Visual Studio 2013 and Active Directory, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not discuss responsibilities, techniques, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1491,6 +1497,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a technical issue related to adding Active Directory groups in Visual Studio 2013, with no explicit discussion on competence, continuous learning, or skill development. While it touches on problem-solving and implementation details, these do not align with the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:50:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical issue related to adding Active Directory groups in Visual Studio 2013, with no explicit discussion of Agentic Agility or its principles. While there is a mention of problem-solving and error resolution, it does not align with the core themes of intentional shaping of outcomes, autonomy, or adaptability in socio-technical environments.",
     "level": "Ignored"
   }
 }

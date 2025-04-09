@@ -160,20 +160,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T22:05:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:07:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to SharePoint and TFS, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to SharePoint and TFS without any reference to Evidence-Based Management principles or metrics. It does not address data-informed decision-making or any of the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T22:05:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:07:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to SharePoint and TFS, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to SharePoint and TFS sub-site creation, with no direct mention of Agile methodologies, product management principles, or the Agile Product Operating Model. The focus is on troubleshooting a specific problem rather than exploring any concepts related to APOM.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -316,11 +322,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T22:05:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:07:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to SharePoint and TFS without a clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a technical issue related to SharePoint and TFS (Team Foundation Server) without addressing any core DevOps principles or practices. While it involves aspects of software development and project management, it does not focus on the integration of people, processes, and technology in a DevOps context. The discussion lacks depth in terms of DevOps philosophy, automation, collaboration, or continuous improvement, which are essential to the category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -700,11 +709,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:18:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:07:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily discussing issues related to SharePoint and TFS, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a technical issue related to SharePoint and TFS sub-site creation, with no explicit mention of Continuous Delivery principles or practices. It lacks alignment with the core themes of Continuous Delivery, such as automation, rapid feedback, or software quality. The depth of discussion is focused on troubleshooting a specific problem rather than exploring Continuous Delivery concepts.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1339,11 +1351,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:18:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:07:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content mainly discusses issues related to SharePoint and TFS configuration, with no reference to Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to SharePoint and TFS, with no direct mention of Scrum Master responsibilities or concepts. It does not align with the core themes of the Scrum Master role, nor does it provide any depth on the subject.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1366,20 +1381,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:18:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:07:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error in creating sub-sites in SharePoint 3.0 and does not address Test First Development or related principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses issues related to SharePoint and TFS sub-site creation, with no direct mention or discussion of Test First Development principles, practices, or methodologies. It does not address success criteria, testing practices, or the impact of testing on collaboration, which are core themes of the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:30:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:07:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to SharePoint and TFS, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical issue related to SharePoint and TFS sub-site creation, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it mentions problem-solving, it does not align with the core themes of social technologies, nor does it provide depth in discussing organisational culture or practices that support collaboration.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1431,6 +1452,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a technical issue related to SharePoint and TFS without any reference to the Shift-Left Strategy. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it explore the principles or benefits of the Shift-Left approach. The focus is on troubleshooting a specific error, which does not align with the category's core themes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T21:07:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical issue related to SharePoint and TFS sub-site creation, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it mentions a problem and seeks community input, it does not align with the core themes of shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T21:07:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical issue related to SharePoint and TFS sub-site creation, with no explicit discussion on competence, continuous learning, or skill development. While it may indirectly touch on problem-solving skills, it does not align with the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T21:07:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical issue related to SharePoint and TFS sub-site creation, with no explicit discussion or alignment with Continuous Improvement principles. It does not address any strategies, techniques, or empirical evidence related to enhancing processes or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T21:07:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to SharePoint and TFS sub-site creation, with no explicit mention of Agentic Agility or its principles. While there is a focus on problem-solving, it does not engage with the concepts of autonomy, adaptability, or intentional shaping of outcomes as defined in the category.",
     "level": "Ignored"
   }
 }

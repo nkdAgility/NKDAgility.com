@@ -1162,11 +1162,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:09:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:10:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses branching, merging, and build configurations within Visual Studio 2010, with no mention of Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on code management and build strategies within Visual Studio 2010, with no explicit discussion of Test First Development principles or practices. While it mentions quality software delivery, it does not address success criteria, testing methodologies, or the role of testing in the development process, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1249,11 +1252,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:09:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:10:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses code management and build processes in Visual Studio, with no focus on Scrum Master responsibilities or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010's code management and build features, with no direct mention of the Scrum Master role or its responsibilities. While it discusses software delivery processes, it does not align with the core themes of Scrum or the impact of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1533,6 +1539,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses code management and build strategies within Visual Studio 2010, which indirectly relates to competence through the lens of effective software delivery. However, it lacks a direct focus on continuous learning or skill development, which are core themes of the competence category. The depth of discussion on branching and merging strategies provides some insight into professional practices, but it does not sufficiently address the broader implications of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:10:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on code management and build processes within Visual Studio 2010, discussing branching and merging strategies. It does not address the intentional shaping of outcomes, agency, or the principles of Agentic Agility. There are no explicit mentions of human or AI capabilities in the context of agility, nor does it explore the transformative capacity of individuals or systems. Overall, the content is largely unrelated to the category.",
     "level": "Ignored"
   }
 }

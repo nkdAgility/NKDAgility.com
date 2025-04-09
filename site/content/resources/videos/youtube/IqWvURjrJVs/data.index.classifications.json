@@ -382,11 +382,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T19:28:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:40:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile consultancy and training without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions agile principles and Scrum training, but it does not explicitly discuss the role or responsibilities of a Scrum Master. While it aligns with the broader themes of agility and Scrum, the focus is more on general agile consultancy rather than the specific impact or techniques of a Scrum Master. The depth of discussion is limited, lacking detailed insights into the Scrum Master's role.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -418,11 +421,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T19:29:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:40:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile consultancy and Scrum training without any mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses agile principles and Scrum training, with no direct mention of Test First Development or its core concepts. While it touches on agility, it does not delve into testing practices or the importance of success criteria, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1518,6 +1524,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses agile principles and Scrum, which are not directly related to the One Engineering System framework. While it mentions agility and collaboration, it does not address the specific components or principles of 1ES, nor does it provide any depth on its implementation or impact.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:40:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses agile principles in the context of mushroom foraging and does not explicitly address Agentic Agility or its key topics. While it mentions agility, it lacks a focus on intentional shaping of outcomes, the distinction between human and AI capabilities, or any depth regarding the transformative capacity of individuals and systems.",
     "level": "Ignored"
   }
 }

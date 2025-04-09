@@ -409,14 +409,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T22:34:59",
+    "calculated_at": "2025-04-08T16:39:50",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
-    "ai_alignment": 30,
+    "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 10,
     "final_score": 66.0,
-    "reasoning": "The content discusses the role of coaching and continuous support in enhancing team performance, which aligns with the responsibilities of a Scrum Master. It mentions Scrum ceremonies like Sprints and Retrospectives, indicating a connection to Scrum practices. However, the focus is more on the immersive learning experience rather than a direct exploration of the Scrum Master role, which slightly lowers the confidence score.",
+    "reasoning": "The content discusses the role of coaching and continuous improvement, which are key aspects of a Scrum Master's responsibilities. It mentions the importance of feedback loops and retrospectives, aligning with Scrum practices. However, it does not explicitly define the Scrum Master role or differentiate it from other roles, which limits the depth of discussion. Overall, while the content is relevant, it does not focus solely on the Scrum Master, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Planning": {
@@ -454,11 +454,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T19:20:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:39:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning and coaching in Agile practices, without a clear focus on Test First Development or its principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses an immersive learning experience related to Scrum and agile methodologies, focusing on coaching and feedback loops. While it touches on concepts of continuous improvement and feedback, it does not explicitly mention Test First Development or its principles. The discussion lacks depth in relation to Test First practices, making it only tangentially relevant.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1596,6 +1599,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the EPS immersive learning experience and its relation to Scrum, which is not directly aligned with the One Engineering System framework. While there are mentions of continuous improvement and feedback loops, these concepts are more focused on agile methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES category. The discussion lacks depth regarding the principles and components of 1ES, and does not provide examples or case studies relevant to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:39:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses enhancing team agility through immersive learning and structured feedback, which touches on aspects of adaptability and continuous improvement. However, it primarily focuses on Scrum practices and coaching rather than explicitly addressing the intentional shaping of outcomes or the distinction between human and AI agentic agility. The discussion lacks depth in exploring the core themes of Agentic Agility, such as intent, accountability, and the interplay between human judgement and AI logic.",
     "level": "Ignored"
   }
 }

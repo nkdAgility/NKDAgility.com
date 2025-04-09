@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T18:28:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:38:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the management and optimisation of the Product Backlog in product development, with no clear focus on Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the management and optimisation of a Product Backlog in product development, discussing concepts like lean inventory and future readiness. It does not explicitly mention Test First Development or its principles, nor does it delve into testing practices, automated testing, or success criteria that guide implementation. The discussion is more aligned with product management than with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -859,11 +862,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T18:29:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:38:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Product Backlog and its management, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Product Backlog and its management, which is a key aspect of Scrum but does not explicitly discuss the role of the Scrum Master. While it touches on concepts like transparency and reflection, which are relevant to Scrum practices, it lacks a direct focus on the responsibilities and influence of the Scrum Master. Therefore, while there is some conceptual alignment, the depth of discussion regarding the Scrum Master role is minimal.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1596,6 +1602,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the concept of a Product Backlog in product development, discussing its importance, management, and the balance between current needs and future readiness. However, it does not explicitly mention the One Engineering System (1ES) framework or its principles, components, or integration aspects. The discussion is more aligned with agile methodologies rather than the standardisation and integration of engineering practices that 1ES promotes. Therefore, while there are some tangential connections to engineering practices, the content does not meet the criteria for a strong alignment with the One Engineering System category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:38:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog and reflects on the need for adaptability and future readiness, which aligns with some principles of Agentic Agility. However, it lacks explicit discussions on intentional shaping of outcomes, accountability, or the distinction between human and AI capabilities. The focus is more on product management practices rather than a deep exploration of Agentic Agility.",
     "level": "Ignored"
   }
 }

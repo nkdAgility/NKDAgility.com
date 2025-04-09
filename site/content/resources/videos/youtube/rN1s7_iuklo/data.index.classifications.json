@@ -1384,11 +1384,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T13:55:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:56:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on team empowerment within Agile practices, without any direct discussion on Test First Development or related testing methodologies.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the empowerment of Agile teams and the importance of adaptability in processes, without any direct reference to Test First Development principles or practices. While it touches on continuous improvement and team autonomy, it does not address success criteria, testing methodologies, or the specific practices of Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). Therefore, the alignment with the Test First Development category is minimal.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1447,11 +1450,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:55:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T15:56:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses empowering teams, fostering a culture of continuous improvement, and using retrospectives, which are relevant to Scrum Master practices. However, it does not explicitly focus on the Scrum Master role, making it a secondary theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of empowering Agile teams, which aligns with the Scrum Master's role in fostering a culture of continuous improvement. However, it does not explicitly mention the Scrum Master or delve deeply into their specific responsibilities, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Cycle Time": {
@@ -1606,5 +1612,17 @@
     "final_score": 30.0,
     "reasoning": "The content primarily discusses Agile empowerment and team autonomy, which are not central to the One Engineering System framework. While it touches on themes of flexibility and adaptation, it lacks direct references to 1ES principles, integration of tools, or standardisation across teams. The depth of discussion on Agile practices is significant, but it does not align closely with the core focus of 1ES.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:56:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of empowering Agile teams, which aligns with the principles of Agentic Agility, particularly in terms of autonomy and adaptability. However, it lacks explicit references to the distinction between Human and AI Agentic Agility and does not delve deeply into the mechanisms of AI systems. The focus is primarily on human teams and their empowerment, which, while relevant, does not fully encapsulate the broader category of Agentic Agility.",
+    "level": "Tertiary"
   }
 }

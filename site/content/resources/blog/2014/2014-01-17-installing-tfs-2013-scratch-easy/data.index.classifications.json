@@ -1117,11 +1117,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T11:31:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:49:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on installing and configuring TFS 2013, with no discussion of Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on the installation and configuration of TFS 2013, with no mention of Test First Development principles, success criteria, or testing practices. It does not align with the core themes of the category, nor does it provide any depth on related topics.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1201,11 +1204,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T11:31:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:49:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and configuration of TFS, which is unrelated to the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on installing and configuring TFS 2013, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics of the Scrum Master category, nor does it provide any depth on the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1476,6 +1482,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the technical process of installing TFS 2013, with minimal reference to the concept of competence. While it discusses installation methods, it lacks a clear emphasis on continuous learning, skill development, or the professional implications of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:49:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on the installation and configuration of TFS 2013, with no discussion of Agentic Agility, intentional shaping of outcomes, or the interplay between human and AI capabilities. It lacks any relevant themes or depth related to the category.",
     "level": "Ignored"
   }
 }

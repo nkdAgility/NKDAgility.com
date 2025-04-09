@@ -1183,11 +1183,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:42:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:13:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses consultant experiences and challenges with deployment and build processes, with little to no focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a consultant's experience with deployment processes and tools, with no explicit mention of Test First Development principles or practices. While there is a brief reference to QA processes, it lacks depth and does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1270,11 +1273,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:42:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:13:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses consulting roles, tools and practices related to software deployment, and personal experiences rather than focusing on the Scrum Master role or related responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a consultant's experience with deployment processes and tools, with no direct mention of Scrum Master responsibilities or concepts. While it touches on collaboration and efficiency, it lacks depth in discussing the Scrum framework or the role of a Scrum Master, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1551,6 +1557,18 @@
     "non_ai_confidence": 0,
     "final_score": 32.0,
     "reasoning": "The content discusses a consultant's experience in improving a deployment process, which touches on competence through the mention of training and enhancing efficiency. However, it lacks a focused discussion on continuous learning or the broader implications of competence in Agile or DevOps methodologies. The primary focus is on the specific project and tools used rather than a deep exploration of competence as a foundational principle.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:13:21",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses a consultant's experience with a deployment process and does not explicitly address Agentic Agility. While there are elements of adaptability and problem-solving, the focus is on specific tools and practices rather than the intentional shaping of outcomes or the interplay between human and AI capabilities. The mention of a successful deployment does not delve into the principles of Agentic Agility or provide a detailed exploration of its concepts.",
     "level": "Ignored"
   }
 }

@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T21:33:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:09:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum and Agile methodologies without any mention of Test First Development or related practices such as Test-Driven Development (TDD).",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum and its complexities, with no direct mention of Test First Development principles or practices. While it touches on aspects of agile methodologies, it does not focus on defining success criteria before implementation or the importance of testing in the context of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -871,14 +874,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T01:24:31",
+    "calculated_at": "2025-04-08T17:09:44",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
     "final_score": 62.0,
-    "reasoning": "The content discusses the challenges of mastering Scrum and touches on various aspects of the Scrum framework, including the importance of transparency and the purpose of Scrum events like the sprint review. However, it lacks a direct focus on the specific role and responsibilities of a Scrum Master, which limits its alignment with the category. While it provides some depth in discussing Scrum principles, it does not delve deeply into the Scrum Master's role in facilitating these processes.",
+    "reasoning": "The content discusses the complexities of understanding and mastering Scrum, touching on the role of Scrum in fostering agile principles. However, it does not explicitly focus on the responsibilities or impact of the Scrum Master, which limits its alignment with the category. While it mentions Scrum events and principles, it lacks a detailed exploration of the Scrum Master's role, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1596,6 +1599,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum, an agile framework, rather than discussing the One Engineering System (1ES). While it touches on themes of collaboration and team dynamics, it does not explicitly mention 1ES principles, components, or its impact on software quality and delivery timelines. The discussion is centred around the challenges of mastering Scrum, which is outside the scope of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:09:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum and its complexities, focusing on understanding and mastering the framework rather than the intentional shaping of outcomes through agency and adaptability. While it touches on themes of autonomy and collaboration, it does not explicitly address Agentic Agility or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

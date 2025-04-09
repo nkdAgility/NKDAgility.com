@@ -1222,11 +1222,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-20T18:40:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:31:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss the role or responsibilities of a Scrum Master and focuses primarily on topics related to product management and evidence-based management.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses product development strategies and hypothesis-driven practices but does not explicitly mention the role of a Scrum Master or their responsibilities. While there are elements of agile principles and continuous improvement, the primary focus is on market insights and product value rather than the Scrum framework or the specific role of a Scrum Master.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1375,11 +1378,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-20T18:40:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:30:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on unrealized value, hypothesis-driven development, and feedback loops rather than Test First Development or its principles.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses unrealised value and hypothesis-driven development without directly addressing Test First Development principles. While it touches on validation and feedback loops, it lacks explicit references to Test First practices, success criteria, or the role of testing in the development process.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1470,6 +1476,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the concept of unrealised value in product development and hypothesis-driven practices, which are not directly related to the One Engineering System framework. While there are mentions of product strategy and user feedback, these discussions do not align with the core principles of 1ES, such as standardising and integrating software development practices across teams. The content lacks depth in discussing the integration of tools, processes, or methodologies that are central to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:30:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses product development and the importance of understanding user needs, which aligns with the concept of intentionality in shaping outcomes. However, it lacks explicit references to Agentic Agility, such as the distinction between human and AI capabilities or the mechanisms of AI Agentic Agility. The focus is more on market insights and hypothesis-driven development rather than on the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

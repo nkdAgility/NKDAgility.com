@@ -1117,11 +1117,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:23:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:56:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a network connectivity issue with Hyper-V on Windows 8, which is unrelated to Test First Development or any testing methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses troubleshooting network connectivity issues with Hyper-V on Windows 8, which is unrelated to Test First Development principles. There are no direct mentions of testing practices, success criteria, or any related concepts. The focus is on resolving a technical issue rather than discussing any development methodologies.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1204,11 +1207,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:23:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:56:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a technical issue with Windows 8 and Hyper-V networking, unrelated to Scrum Master responsibilities or Agile practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a technical issue related to Windows 8 and Hyper-V, with no mention or discussion of Scrum Master responsibilities, roles, or related concepts. It does not align with any key topics associated with the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1479,6 +1485,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on troubleshooting a technical issue related to network connectivity in Hyper-V on Windows 8. While it demonstrates some problem-solving skills, it does not explicitly discuss competence in the context of Agile, Scrum, or DevOps methodologies. The mention of personal experience and testing does not align with the core themes of continuous learning or skill development, and the depth of discussion on competence is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:56:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting a technical issue related to network connectivity in Hyper-V on Windows 8. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The content lacks any mention of intentional shaping of outcomes, adaptability, or alignment with values, which are core to the category. Therefore, it scores very low across all dimensions.",
     "level": "Ignored"
   }
 }

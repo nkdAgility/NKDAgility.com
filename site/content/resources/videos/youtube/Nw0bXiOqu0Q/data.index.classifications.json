@@ -523,11 +523,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T03:57:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:11:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Agile methodologies and their benefits during recessions, without a focus on Test First Development or related testing practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses agile methodologies and their benefits during recessions, without a direct focus on Test First Development principles. While it touches on concepts like empirical process control and rapid feedback loops, it does not explicitly mention Test First practices, success criteria, or the distinction between testing and design practices. Therefore, the alignment with the Test First Development category is minimal.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -865,11 +868,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T03:58:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:11:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile methodologies and their benefits during recessions, without a specific focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile methodologies and their relevance during recessions, but it does not focus specifically on the role of the Scrum Master. While it touches on concepts like empirical process control and organisational change, which are relevant to Scrum, it lacks a direct exploration of the Scrum Master's responsibilities, skills, or impact. The mention of Scrum is minimal and does not delve into the nuances of the Scrum Master's role, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1596,6 +1602,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses agile methodologies and their benefits during recessions, without any direct mention or focus on the One Engineering System (1ES). While it touches on themes of adaptability and process improvement, it does not align with the core principles of 1ES, such as integration across teams or standardisation of practices. The depth of discussion is also limited to agile concepts rather than the comprehensive framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:11:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses agile methodologies and their benefits during recessions, focusing on adaptability and value creation. However, it lacks a direct exploration of Agentic Agility as defined, particularly in terms of intentional shaping of outcomes and the distinction between human and AI capabilities. While it touches on themes of autonomy and responsiveness, it does not delve deeply into the principles or mechanisms of Agentic Agility, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

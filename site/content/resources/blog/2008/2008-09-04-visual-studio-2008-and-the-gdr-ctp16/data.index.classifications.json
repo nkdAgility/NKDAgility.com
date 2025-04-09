@@ -1051,11 +1051,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:26:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:42:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Visual Studio 2008 and database import problems without mentioning Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical challenges related to using Visual Studio 2008 with GDR CTP16, focusing on database import issues and dependency problems. There is no mention of Test First Development principles, success criteria, or testing practices, which are central to the category. The discussion lacks any alignment with the core themes of Test First Development, and the depth of discussion is minimal, as it does not explore any relevant concepts or practices.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1243,11 +1246,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:26:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:42:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a technical issue related to Visual Studio and database management, with no reference to Scrum or the role of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical issues related to Visual Studio 2008 and GDR CTP16, with no mention of Scrum, Scrum Masters, or any related concepts. It does not discuss roles, responsibilities, or practices associated with Scrum, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1464,6 +1470,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily discusses technical challenges related to Visual Studio 2008 and GDR CTP16, with a focus on dependency issues and database imports. There is no explicit mention of competence, continuous learning, or skill development. The discussion lacks alignment with the core themes of competence, such as professionalism or quality delivery, and does not provide depth on these topics. Overall, the content is more technical in nature and does not engage with the principles of competence as defined.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:42:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to Visual Studio 2008 and GDR CTP16, focusing on dependency problems and database imports. There are no direct mentions of Agentic Agility, nor does it align with the core themes of intentionality, autonomy, or adaptability. The discussion lacks depth regarding the principles of Agentic Agility, making it irrelevant to the category.",
     "level": "Ignored"
   }
 }

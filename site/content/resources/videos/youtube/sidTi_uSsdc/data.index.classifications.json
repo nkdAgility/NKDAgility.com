@@ -391,14 +391,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T00:12:06",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-04-08T16:58:06",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the concepts of discipline and motivation within the context of Agile and Scrum, highlighting their importance in the Scrum process. However, it does not explicitly focus on the role of the Scrum Master or provide in-depth insights into Scrum Master responsibilities or practices. While it touches on Scrum values and ceremonies, the primary focus is on the broader Agile transformation rather than the specific role of a Scrum Master.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the concepts of discipline and motivation in the context of Agile and Scrum, which aligns with the responsibilities of a Scrum Master in fostering team effectiveness. However, it does not explicitly focus on the Scrum Master's role or responsibilities, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Planning": {
@@ -436,11 +436,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:58:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concepts of discipline and motivation in Agile transformation without mentioning Test First Development or relevant testing practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concepts of discipline and motivation in the context of Agile and Scrum, without any direct reference to Test First Development principles or practices. While it touches on Agile transformation, it does not address success criteria, testing practices, or the importance of testing in the development process, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1569,6 +1572,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the concepts of discipline and motivation within Agile and Scrum contexts, without any direct reference to the One Engineering System (1ES). While it touches on Agile principles, it does not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The discussion is more focused on personal perspectives and general Agile practices rather than the specific framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:58:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concepts of discipline and motivation within Agile practices, without explicitly addressing Agentic Agility or its key themes. While it touches on aspects of team dynamics and performance, it does not explore the intentional shaping of outcomes or the distinction between human and AI capabilities in the context of agility. The focus remains on general Agile principles rather than the specific concept of agency.",
     "level": "Ignored"
   }
 }

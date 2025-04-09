@@ -511,11 +511,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T21:29:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:46:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the Customer Working Agreement and Agile practices without focusing on Test First Development or related testing methodologies.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on establishing a Working Agreement with customers, discussing roles, goals, and agility in project management. It does not explicitly mention Test First Development or its principles, nor does it delve into testing practices, success criteria, or the importance of feedback loops, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -859,14 +862,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T17:47:05",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-04-08T15:46:47",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses aspects of a working agreement that involves customer collaboration and roles, including the importance of a Product Owner, which is relevant to Scrum. However, it lacks a direct focus on the Scrum Master role and does not delve deeply into Scrum practices or ceremonies, leading to a moderate confidence score.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses a workshop for establishing a Working Agreement, which touches on aspects of Scrum, such as roles and customer involvement. However, it lacks a direct focus on the Scrum Master's responsibilities and does not delve deeply into the core themes of the Scrum Master role, such as coaching or facilitating within a Scrum context. The mention of agility and customer roles is relevant but does not sufficiently align with the primary focus of the Scrum Master category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1590,6 +1593,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on establishing a Customer Working Agreement and does not explicitly mention the One Engineering System (1ES) or its principles. While it discusses roles and responsibilities in a project context, it lacks a direct connection to the integration and standardisation of engineering processes that 1ES emphasises. The depth of discussion is moderate, but it does not delve into the core themes of 1ES, such as best practices for implementation or the impact on software quality.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:46:44",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on establishing a Working Agreement in a workshop setting, which involves customer roles and project goals. While it touches on aspects of agility, it does not explicitly discuss Agentic Agility or its principles. The mention of agility is more about the application of Agile practices rather than the intentional shaping of outcomes through autonomy and adaptability. Therefore, the content does not align well with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

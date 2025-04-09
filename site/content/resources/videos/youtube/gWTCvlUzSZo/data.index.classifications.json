@@ -373,14 +373,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T18:08:15",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "calculated_at": "2025-04-08T16:34:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 18,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content explicitly mentions Scrum Masters and discusses the importance of visual engagement in facilitating team interactions, which aligns with the role's responsibilities. However, the focus on camera quality and body language, while relevant, does not delve deeply into broader Scrum practices or methodologies, limiting the overall depth of discussion.",
+    "final_score": 72.0,
+    "reasoning": "The content explicitly discusses the role of a Scrum Master and how tools like a good camera can enhance team engagement, which aligns well with the responsibilities and techniques of a Scrum Master. It provides practical recommendations and insights into improving interactions, demonstrating a solid understanding of the role's impact on team dynamics. However, while the focus is strong, the discussion could delve deeper into broader Scrum principles and practices.",
     "level": "Secondary"
   },
   "Agile Planning": {
@@ -412,11 +412,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T18:09:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:34:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the importance of camera quality for Scrum Masters in team engagement, with no mention of Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the importance of visual engagement for Scrum Masters and does not mention or align with the principles of Test First Development. It focuses on tools for team interaction rather than testing practices or success criteria.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1503,6 +1506,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of visual engagement tools, such as cameras, in team interactions. It does not discuss the One Engineering System framework, its principles, or its implementation. The discussion is centred around personal experiences and recommendations for enhancing virtual meetings, which deviates from the core themes of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:34:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the use of cameras to enhance engagement in Scrum meetings, which does not directly address the concept of Agentic Agility. While it touches on aspects of engagement and adaptability, it lacks explicit discussions on intentional shaping of outcomes, accountability, or the interplay between human and AI capabilities. The content is more about practical tips for Scrum Masters rather than a deep exploration of Agentic Agility principles.",
     "level": "Ignored"
   }
 }

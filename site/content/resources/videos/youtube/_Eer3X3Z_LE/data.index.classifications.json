@@ -379,11 +379,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T07:25:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on the concept of product backlog and does not discuss the role or responsibilities of a Scrum Master.",
+    "calculated_at": "2025-04-08T16:57:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the concept of a product backlog, which is a component of Scrum but does not delve into the specific role or responsibilities of a Scrum Master. While it mentions Scrum and touches on agile principles, the discussion lacks depth regarding the Scrum Master's influence, techniques, or responsibilities. Therefore, it does not align closely with the core themes of the category.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -418,11 +421,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T07:25:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of a product backlog in Agile development, which is not directly related to Test First Development or TDD principles.",
+    "calculated_at": "2025-04-08T16:57:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of a product backlog within Agile and Scrum methodologies, without any direct mention or discussion of Test First Development principles. While it touches on collaboration and prioritisation, it does not address success criteria, testing practices, or the importance of defining criteria before implementation, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1512,6 +1518,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the concept of a product backlog within the Agile and Scrum frameworks, which are not directly related to the One Engineering System. While it touches on collaboration and prioritisation, it does not discuss the principles, components, or implementation of 1ES. The discussion is more about backlog management rather than the integration and standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:57:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of a product backlog within Agile and Scrum methodologies, discussing its role in task prioritisation and team collaboration. While it touches on themes of flexibility and understanding, it does not explicitly address Agentic Agility or its principles, nor does it differentiate between human and AI capabilities in this context. The discussion lacks depth regarding intentional shaping of outcomes, intent, or accountability, which are central to the category of Agentic Agility.",
     "level": "Ignored"
   }
 }

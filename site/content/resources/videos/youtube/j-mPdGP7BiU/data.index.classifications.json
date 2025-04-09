@@ -511,11 +511,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T05:55:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:54:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses assumptions and hypothesis-driven development, with no clear focus on Test First Development or its principles.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of validating assumptions and testing hypotheses in product development, which aligns with the principles of Test First Development. However, it does not explicitly mention Test First Development or its specific practices like TDD or ATDD. The focus is more on general product development strategies rather than a dedicated exploration of Test First methodologies.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -844,11 +847,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T05:56:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:54:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on product development, assumptions, and hypothesis testing, with no clear reference to the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on product development and the management of assumptions and hypotheses, with no direct mention of the Scrum Master role or its responsibilities. While there are elements of agile thinking and iterative processes that could conceptually align with Scrum principles, the discussion lacks depth regarding the specific role of a Scrum Master, their influence on team dynamics, or their responsibilities within a Scrum framework.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1563,6 +1569,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on product development and the management of assumptions and hypotheses, which does not align with the core principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion lacks depth regarding integration or standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:54:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of assumptions and hypotheses in product development, which aligns with the concept of intentional shaping of outcomes. However, it lacks explicit references to Agentic Agility, such as the distinction between human and AI capabilities or the role of intent and accountability. The focus is more on general product development practices rather than a deep exploration of Agentic Agility principles.",
     "level": "Ignored"
   }
 }

@@ -1144,11 +1144,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:46:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:18:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on promoting free training sessions, particularly highlighting a specific event called 'The Full Testing Experience' but does not discuss Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on promoting free training sessions at Northwest Cadence, specifically highlighting Coffee Talks and their topics. While there is a mention of 'The Full Testing Experience' related to Quality Assurance, it does not delve into Test First Development principles or practices. The discussion lacks any substantial connection to the core themes of Test First Development, such as success criteria, TDD, or collaboration among team members. Therefore, the confidence score is very low.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1231,11 +1234,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:46:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:18:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses free training offerings and specific session details that do not relate to the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on free training sessions and Coffee Talks related to ALM and Quality Assurance, with no direct mention of the Scrum Master role or its responsibilities. While there is a slight alignment with the theme of professional development, it lacks depth and specific discussion on Scrum principles or the impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1510,5 +1516,17 @@
     "final_score": 58.0,
     "reasoning": "The content discusses free training sessions aimed at enhancing skills, which aligns with the concept of continuous learning and skill development. However, it lacks a deeper exploration of competence as a principle in Agile or DevOps methodologies, focusing more on the training offerings rather than the broader implications of competence in professional settings.",
     "level": "Tertiary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:18:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting free training sessions and Coffee Talks at Northwest Cadence, with no explicit discussion of Agentic Agility or its principles. While it mentions enhancing skills, it does not address intentional shaping of outcomes, autonomy, or adaptability, which are core to the category. The content lacks depth and relevance to the themes of Agentic Agility.",
+    "level": "Ignored"
   }
 }

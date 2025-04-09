@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T07:34:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:30:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of resource utilisation in Agile and the importance of thinking time for developers, without any mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concept of greed in Agile environments, focusing on resource utilisation and value delivery. It does not mention Test First Development or its principles, nor does it explore topics related to success criteria, testing practices, or the role of testing in Agile methodologies. The discussion is centred around Agile practices rather than the specific focus of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -865,14 +868,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T21:44:46",
+    "calculated_at": "2025-04-08T16:29:59",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 20,
     "final_score": 72.0,
-    "reasoning": "The content discusses the role of a Scrum Master in the context of Agile practices, particularly in relation to fostering team dynamics, trust, and effective communication. While it does not focus exclusively on Scrum Master responsibilities, it provides relevant insights into how Scrum Masters can enhance team performance and promote a healthy Agile environment. The mention of Scrum Masters is direct, but the overall discussion is broader, encompassing general Agile principles and practices.",
+    "reasoning": "The content discusses the role of a Scrum Master in the context of Agile practices, particularly in relation to fostering trust and credibility within teams. While it does mention the Scrum Master explicitly, the primary focus is on the broader implications of greed in Agile rather than a detailed exploration of the Scrum Master's responsibilities. The alignment with key topics is moderate, as it touches on team dynamics and the importance of effective communication, but lacks depth in discussing specific Scrum Master techniques or their influence on organisational change.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1611,6 +1614,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Agile practices and the pitfalls of greed within that framework, without any direct mention or discussion of the One Engineering System (1ES). While it touches on themes of efficiency and value delivery, which are relevant to software development, it does not align with the specific principles or components of 1ES. The discussion is centred around Agile methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:29:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the implications of greed in Agile environments and promotes value-centric approaches, which aligns with the concept of intentionality in shaping outcomes. However, it primarily focuses on traditional Agile practices and does not explicitly address Agentic Agility or differentiate between human and AI capabilities. The depth of discussion on the importance of value delivery and team dynamics contributes to a moderate confidence score, but the lack of direct references to Agentic Agility principles limits its relevance.",
     "level": "Ignored"
   }
 }

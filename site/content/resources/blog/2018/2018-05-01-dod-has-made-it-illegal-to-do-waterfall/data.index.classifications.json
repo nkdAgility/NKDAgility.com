@@ -1195,11 +1195,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T18:36:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:31:46",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the shift from waterfall to agile methodologies in the context of the Department of Defence and the FBI, without a clear focus on Test First Development or its principles.",
+    "final_score": 24.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, highlighting the benefits of iterative development and user involvement. However, it does not explicitly mention Test First Development principles or practices, such as defining success criteria before implementation or the specifics of Test-Driven Development (TDD). While there is some alignment with the concept of iterative testing, the focus is more on agile practices in general rather than the Test First approach specifically.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1279,12 +1282,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T17:31:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition from waterfall to agile methodologies, including references to Scrum practices and the role of Scrum in improving project outcomes, but it primarily focuses on broader agile principles and government procurement changes.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, highlighting the benefits of agile practices and the influence of the DOD on IT projects. While it mentions Scrum in the context of the FBI's project, the primary focus is on the broader implications of agile adoption rather than the specific role and responsibilities of a Scrum Master. The discussion lacks depth regarding the Scrum Master's influence on team dynamics or coaching techniques, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1587,6 +1593,18 @@
     "non_ai_confidence": 20,
     "final_score": 24.0,
     "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies, particularly in the context of the DOD and FBI projects. While it touches on themes of efficiency and iterative processes, it does not explicitly mention the One Engineering System framework or its principles. The focus is more on agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:31:41",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies in the context of the DOD and FBI, focusing on the benefits of agile practices. While it touches on themes of adaptability and iterative processes, it lacks a direct discussion on Agentic Agility, particularly the intentional shaping of outcomes and the distinction between human and AI capabilities. The content does not delve into the principles of Agentic Agility or provide examples that illustrate its transformative capacity.",
     "level": "Ignored"
   }
 }

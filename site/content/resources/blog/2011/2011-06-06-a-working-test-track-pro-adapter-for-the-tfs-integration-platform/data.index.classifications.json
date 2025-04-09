@@ -1162,11 +1162,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T23:37:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:15:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses the creation of a TFS Integration Platform Adapter and does not focus on Test First Development principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the development of a Test Track Pro Adapter for the TFS Integration Platform, focusing on technical implementation details and debugging processes. It does not explicitly mention Test First Development principles, success criteria, or testing methodologies. While there are references to testing in a general sense, they do not align with the core themes of Test First Development, such as TDD or ATDD, nor do they provide depth on the subject.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1246,11 +1249,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T23:37:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:15:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the development of a Test Track Pro Adapter for TFS Integration Platform, which is unrelated to the Scrum Master role or responsibilities in an Agile context.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical implementation of a Test Track Pro Adapter for the TFS Integration Platform, with no direct mention of Scrum Master responsibilities, roles, or related discussions. While it may touch on aspects of project management or team dynamics indirectly, it does not align with the core themes of the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1527,6 +1533,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on technical implementation details of a Test Track Pro Adapter for the TFS Integration Platform, with no explicit discussion on competence, continuous learning, or skill development. While there are mentions of debugging and problem-solving, these do not directly relate to the principles of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:15:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details of a Test Track Pro Adapter for the TFS Integration Platform, with no explicit discussion of Agentic Agility principles, intent, or the interplay between human and AI capabilities. It lacks depth in addressing the transformative capacity of individuals or systems in shaping outcomes intentionally.",
     "level": "Ignored"
   }
 }

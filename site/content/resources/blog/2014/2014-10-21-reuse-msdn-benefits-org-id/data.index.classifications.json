@@ -1111,11 +1111,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T00:19:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:42:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses managing MSDN benefits and subscriptions, which is unrelated to Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on transferring MSDN benefits to an organisational account and does not discuss any principles or practices related to Test First Development. There are no mentions of testing methodologies, success criteria, or any related concepts, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1198,11 +1201,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T00:19:15",
+    "calculated_at": "2025-04-08T17:42:29",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on managing MSDN benefits and subscriptions, with no relevance to Scrum Master roles or responsibilities.",
+    "reasoning": "The content focuses entirely on transferring MSDN benefits to an organisational ID and does not mention the Scrum Master role, responsibilities, or any related concepts. It is unrelated to Scrum or agile methodologies.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1473,6 +1479,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on the technical process of transferring MSDN benefits to an organisational account, with no explicit discussion of competence, continuous learning, or skill development. While it may imply a level of technical capability, it does not engage with the core themes of competence as defined in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:42:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of transferring MSDN benefits to an organisational ID, with no explicit discussion of Agentic Agility or its principles. It lacks any mention of intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

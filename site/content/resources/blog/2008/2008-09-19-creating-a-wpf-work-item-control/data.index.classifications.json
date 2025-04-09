@@ -1096,11 +1096,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:36:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:41:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the creation of a custom WPF work item control for Visual Studio Team System, with no clear focus on Test First Development principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on creating a custom WPF Work Item Control for Visual Studio Team System, with no explicit discussion of Test First Development principles, success criteria, or testing methodologies. While it mentions the implementation of controls that could be part of a testing framework, it lacks depth in discussing how testing is integrated into the development process, thus failing to align with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1291,11 +1294,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:36:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:41:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details of a WPF control and does not relate to the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating a custom WPF Work Item Control for Visual Studio Team System, which is technical in nature and does not discuss the role, responsibilities, or impact of a Scrum Master. There are no direct mentions of Scrum or the Scrum Master role, and the content lacks any alignment with the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1515,6 +1521,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on technical implementation details of creating a WPF Work Item Control, with minimal reference to the concept of competence. While it discusses the development process, it lacks explicit discussions on continuous learning, skill development, or the importance of competence in Agile or DevOps contexts. The technical nature of the content does not align with the core themes of competence, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:41:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating a custom WPF Work Item Control for Visual Studio Team System, which does not directly discuss Agentic Agility or its principles. There are no explicit mentions of intentional shaping of outcomes, autonomy, adaptability, or the interplay between human and AI capabilities. The content is more technical and procedural, lacking the depth and alignment with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

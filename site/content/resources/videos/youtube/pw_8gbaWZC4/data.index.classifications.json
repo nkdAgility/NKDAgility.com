@@ -88,15 +88,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T19:19:42",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-04-08T16:01:52",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses Candan strategies and their application to workflows, with a brief mention of Scrum. However, it primarily focuses on general continuous improvement and transparency rather than the specific responsibilities and practices of a Scrum Master. While there are relevant concepts, the depth of discussion on Scrum Master roles is limited.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Candan strategies and flow metrics, which are not directly related to the Scrum Master role. While it briefly mentions Scrum teams and advocates for integrating flow metrics as a complementary practice, the primary focus is on Candan strategies rather than the responsibilities or impact of a Scrum Master. The discussion lacks depth in exploring the Scrum Master's role, responsibilities, or influence on team dynamics, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
@@ -571,11 +571,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T18:09:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:01:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Candan strategies and flow metrics in Scrum, with no focus on Test First Development or related testing practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Candan strategies and flow metrics for continuous improvement and transparency in workflows, with no direct mention of Test First Development principles or practices. While it touches on aspects of monitoring and improving processes, it does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices. The focus is on workflow efficiency rather than testing methodologies.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1608,6 +1611,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses Candan strategies and flow metrics, which are not directly related to the One Engineering System framework. While there are mentions of improving workflows and transparency, these concepts do not align closely with the core principles of 1ES, such as standardisation and integration across teams. The focus is on a specific methodology rather than the broader integration and standardisation of engineering processes that 1ES advocates.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:01:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses continuous improvement and transparency within workflows, which aligns with some principles of Agentic Agility, such as adaptability and proactive intervention. However, it primarily focuses on Candan strategies and flow metrics without explicitly addressing the intentional shaping of outcomes or differentiating between human and AI capabilities. The discussion lacks depth in exploring the core themes of Agentic Agility, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

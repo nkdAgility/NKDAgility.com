@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T06:44:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:29:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the appropriateness of APS classes for Scrum teams, focusing on training and feedback processes rather than Test First Development principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Applied Professional Scrum (APS) approach and its benefits for Scrum teams, with no direct mention of Test First Development principles. While it discusses the importance of having a working product at the end of iterations, it does not delve into the specifics of defining success criteria or the practices of Test First Development. The discussion lacks depth and detail on the core themes of Test First Development, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -862,14 +865,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T21:41:54",
+    "calculated_at": "2025-04-08T16:29:25",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
-    "ai_depth": 30,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
     "final_score": 71.0,
-    "reasoning": "The content discusses the role of the Scrum Master in the context of the Applied Professional Scrum (APS) approach, highlighting its importance in fostering authentic Scrum practices and team dynamics. It mentions specific exercises like the 'Barnacle Exercise' that are relevant to Scrum Master responsibilities, indicating a strong alignment with the category. However, while it provides valuable insights, the depth of discussion on specific Scrum Master techniques and metrics could be more extensive.",
+    "reasoning": "The content primarily focuses on the Applied Professional Scrum (APS) approach, which is closely related to the role of the Scrum Master. It discusses the importance of Scrum principles, the need for continuous improvement, and the facilitation of Scrum practices, all of which are central to the Scrum Master's responsibilities. However, while it mentions Scrum Mastery and touches on the role's impact, it does not delve deeply into the specific responsibilities or techniques of a Scrum Master, which slightly lowers the depth score. Overall, the content aligns well with the category, but it is more focused on APS rather than the Scrum Master role itself.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1596,6 +1599,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the Applied Professional Scrum (APS) approach and its application within Scrum teams, which is not aligned with the One Engineering System framework. While it discusses Scrum practices, it does not address the principles, integration, or standardisation of engineering processes as outlined in the 1ES category. The mention of APS and Scrum is significant, but it does not relate to the core themes of 1ES, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:29:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Applied Professional Scrum (APS) approach and its application within Scrum teams. While it discusses themes of empowerment and reflection, it does not explicitly address the concept of Agentic Agility or differentiate between human and AI capabilities. The discussion is more aligned with general Agile practices rather than the intentional shaping of outcomes as defined in the category.",
     "level": "Ignored"
   }
 }

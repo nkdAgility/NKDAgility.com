@@ -1129,11 +1129,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T17:51:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:51:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on granting access permissions in Team Foundation Server and troubleshooting, with no mention of Test First Development or related principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on granting access to Team Foundation Server for diagnostic troubleshooting, which is unrelated to Test First Development principles. There are no direct mentions of Test First practices, success criteria, or testing methodologies. The discussion lacks alignment with the core themes of Test First Development and provides minimal depth on any relevant topics.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1216,11 +1219,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T17:51:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:51:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical aspects of granting permissions in Team Foundation Server, which is unrelated to the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of granting access in Team Foundation Server (TFS) and does not discuss the role, responsibilities, or impact of a Scrum Master. There are no direct mentions of Scrum or related concepts, and the discussion lacks depth regarding Scrum practices or principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1491,6 +1497,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on technical instructions for granting access in TFS 2012, with minimal reference to competence or skill development. While it touches on efficiency and problem-solving, it lacks a direct discussion on continuous learning or the broader implications of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:51:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for granting access in TFS 2012 and does not discuss Agentic Agility or its principles. There are no explicit mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is limited to practical troubleshooting without any exploration of the interplay between human agency and AI capabilities.",
     "level": "Ignored"
   }
 }

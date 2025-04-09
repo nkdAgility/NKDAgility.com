@@ -535,11 +535,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T10:21:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on Agile principles and tools rather than the specific responsibilities or practices of a Scrum Master.",
+    "calculated_at": "2025-04-08T17:00:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile principles broadly but does not specifically address the role or responsibilities of a Scrum Master. While it touches on decision-making and fostering a culture of collaboration, it lacks direct references to Scrum Master duties or the impact of a Scrum Master on team dynamics. The focus is more on Agile methodologies in general rather than the specific nuances of the Scrum Master role.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -970,11 +973,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:21:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:00:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Agile principles and practices without discussing Test First Development or related testing methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of Agile principles over tools, with no direct mention of Test First Development or its practices. While it touches on decision-making and adaptability, it does not align with the core themes of Test First Development, such as success criteria or testing methodologies. The depth of discussion is minimal regarding the category, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1551,6 +1557,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile principles and the importance of focusing on foundational concepts rather than tools. It does not mention the One Engineering System (1ES) or its components, nor does it address integration or standardisation of engineering processes, which are central to the 1ES framework. The discussion is more aligned with Agile methodologies rather than the specific principles of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:00:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of principles in Agile but does not explicitly mention Agentic Agility or its key topics. While it touches on adaptability and decision-making, it lacks a clear focus on the intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion is more about general Agile practices rather than the specific concept of agency and intentionality.",
     "level": "Ignored"
   }
 }

@@ -1162,11 +1162,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:07:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:55:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses reserving build agents and handling build workflows in Team Foundation Server, without a clear focus on Test First Development principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses reserving a build agent in Team Foundation Server and does not explicitly mention Test First Development principles, success criteria, or testing practices. While it touches on aspects of build processes, it lacks a focus on the core themes of Test First Development, such as TDD or ATDD, and does not provide depth in discussing testing methodologies.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1252,11 +1255,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:07:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:55:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical details of build agents and Team Foundation Server without any mention of Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical aspects of reserving a build agent in Team Foundation Server, with no mention of Scrum Master responsibilities, agile principles, or team dynamics. It does not align with the core themes of the Scrum Master role, nor does it provide any depth on related topics.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1533,6 +1539,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on technical implementation details related to reserving a build agent in Team Foundation Server, which does not directly address the principles of competence in Agile or DevOps. While there are implications of skill and capability in managing build processes, the discussion lacks explicit references to continuous learning, quality outcomes, or fostering a culture of competence. The content is more about procedural knowledge than the development of professional competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:55:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical aspects of reserving a build agent in Team Foundation Server, discussing specific configurations and code implementations. It does not explicitly address the concept of Agentic Agility, nor does it explore the intentional shaping of outcomes, autonomy, or adaptability in a socio-technical context. The discussion lacks depth in relation to the principles and mechanisms of Agentic Agility, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

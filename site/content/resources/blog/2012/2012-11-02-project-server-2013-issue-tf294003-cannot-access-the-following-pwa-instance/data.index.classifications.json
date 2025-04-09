@@ -1129,11 +1129,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T15:21:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:58:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to Team Foundation Server and Project Server integration, with no mention of Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses resolving a specific error related to Project Server and Team Foundation Server integration, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks alignment with the core themes of Test First Development and provides minimal depth on any related topics.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1216,11 +1219,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T15:22:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:58:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Project Server and Team Foundation Server, with no focus on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to Project Server and Team Foundation Server, with no direct mention of Scrum Master responsibilities or related concepts. It lacks any discussion on Scrum principles, team dynamics, or the role of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1491,6 +1497,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on resolving a technical issue related to Project Server and Team Foundation Server, with no explicit discussion on competence, continuous learning, or skill development. While it touches on the importance of permissions and configurations, it does not align with the core themes of competence as defined in Agile and DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:58:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to Project Server and Team Foundation Server, with no explicit discussion of Agentic Agility or its principles. While there is a mention of permissions and service accounts, these do not align with the core themes of intentionality, adaptability, or the transformative capacity of individuals and systems. The content lacks depth and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

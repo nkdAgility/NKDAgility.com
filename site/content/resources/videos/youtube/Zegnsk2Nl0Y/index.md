@@ -29,6 +29,7 @@ tags:
 - Products and Books
 - Software Development
 - Agile Project Management
+- Scrum Master
 - Collaboration Tools
 - Scrum Team
 - Agile Planning Tools

@@ -1126,11 +1126,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:41:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:12:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum and Visual Studio, with no clear focus on Test First Development or its principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on creating a Scrum team identity and enhancing workflow with Visual Studio 11, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any depth or alignment with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1207,11 +1210,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:41:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:12:14",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses Visual Studio features related to team management but does not focus on the Scrum Master role or responsibilities.",
+    "final_score": 24.0,
+    "reasoning": "The content briefly mentions Scrum in the context of creating a team identity using Visual Studio 11, but it lacks a detailed discussion on the role and responsibilities of a Scrum Master. The focus is more on tools and workflow rather than the Scrum Master's influence or practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1488,6 +1494,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on creating a Scrum team identity using Visual Studio 11, which does not directly address the principles of competence in Agile or DevOps. While there is a mention of enhancing workflow and collaboration, it lacks explicit discussions on continuous learning, skill development, or the importance of competence in delivering quality outcomes. The depth of discussion is minimal, primarily revolving around the features of a tool rather than the underlying principles of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:12:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the use of Visual Studio 11 for team collaboration, with no explicit discussion of Agentic Agility or its principles. It lacks depth in addressing the intentional shaping of outcomes, and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

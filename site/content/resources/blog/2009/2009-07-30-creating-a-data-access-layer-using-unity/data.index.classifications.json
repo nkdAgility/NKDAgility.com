@@ -1132,11 +1132,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:51:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:29:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses implementing a data access layer using Unity, focusing on dependency injection and configuration, without a clear focus on Test First Development or writing tests before code.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on creating a Data Access layer using Unity for dependency injection and does not discuss Test First Development principles. While there is a brief mention of needing to add an InternalsVisibleTo entry for test assemblies, this is not elaborated upon or connected to Test First practices. Overall, the content lacks a clear focus on Test First Development concepts, success criteria, or testing methodologies.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1213,11 +1216,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:51:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:29:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details about creating a data access layer using Unity, without any reference to the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical aspects of creating a Data Access layer using Unity, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the core themes of the Scrum Master category, which involves discussions on facilitation, coaching, or agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1491,6 +1497,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on technical implementation details of creating a Data Access layer using Unity, with no explicit discussion on competence, continuous learning, or skill development. While it touches on aspects of coding practices, it lacks depth in exploring the importance of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:29:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating a Data Access layer using Unity, discussing technical implementation details without addressing the principles of Agentic Agility, such as intentional shaping of outcomes, autonomy, or adaptability. There are no direct mentions of agentic concepts, and the discussion lacks depth in relation to the category.",
     "level": "Ignored"
   }
 }

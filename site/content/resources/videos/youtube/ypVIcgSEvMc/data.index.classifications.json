@@ -361,11 +361,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T22:24:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum Master roles or responsibilities; it focuses on discounts for alumni and general learning support.",
+    "calculated_at": "2025-04-08T16:51:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on a discount offer for alumni and does not discuss the role or responsibilities of a Scrum Master. While it mentions Agile and learning, it lacks any direct references to Scrum Master duties or the impact of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -397,11 +400,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T22:24:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:52:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on offering discounts for alumni and does not discuss Test First Development or related principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a discount for alumni and does not discuss Test First Development principles, success criteria, or any related testing practices. There are no direct mentions or relevant themes that align with the category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1479,6 +1485,18 @@
     "non_ai_confidence": 10,
     "final_score": 6.0,
     "reasoning": "The content primarily focuses on a promotional offer for alumni and does not discuss the One Engineering System or its principles. It mentions Agile and DevOps but does not align with the core themes of 1ES, such as integration of tools or standardisation of processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:51:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting a discount for alumni and does not explicitly discuss Agentic Agility or its principles. While it touches on themes of growth and empowerment, it lacks a clear connection to the intentional shaping of outcomes or the distinction between human and AI capabilities in agility.",
     "level": "Ignored"
   }
 }

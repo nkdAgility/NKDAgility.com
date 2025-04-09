@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T10:11:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the differences between average and great Agile developers, focusing on learning, engagement, and practice rather than Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T16:53:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the personal development and engagement of Agile developers, with no direct mention of Test First Development principles or practices. While it discusses continuous learning and improvement, it does not address success criteria, testing methodologies, or the impact of testing on collaboration, which are core to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -853,11 +856,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T10:13:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:52:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the qualities and practices of developers in an Agile context, without a specific focus on the Scrum Master role or responsibilities.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the qualities of a great Agile developer and touches on concepts like continuous learning and self-directed learning, which are relevant to the Scrum Master role. However, it does not explicitly mention the Scrum Master or delve into the specific responsibilities and impact of the role within a Scrum Team. The focus is primarily on individual developer growth rather than the facilitation and coaching aspects of a Scrum Master.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1596,6 +1602,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on personal development and methodologies related to Agile practices, without discussing the One Engineering System framework or its principles. It lacks direct mentions of 1ES and does not explore integration or standardisation of engineering processes, which are core to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:52:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of self-directed learning and engagement, which aligns with the principles of Agentic Agility. However, it primarily focuses on personal development and does not explicitly address the intentional shaping of outcomes or the distinction between human and AI capabilities. The depth of discussion on related concepts is moderate, but it lacks a direct focus on Agentic Agility as a primary theme.",
     "level": "Ignored"
   }
 }

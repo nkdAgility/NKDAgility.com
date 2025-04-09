@@ -1066,11 +1066,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:24:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:38:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses enhancements and features of the Sticky Buddy application without any mention of Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the features and improvements of the TFS Sticky Buddy application, with no explicit mention of Test First Development principles, success criteria, or testing practices. It lacks any discussion on manual or automated testing, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1255,11 +1258,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:24:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:38:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses application features and enhancements, with no relation to Scrum or the role of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the features and improvements of a software application, TFS Sticky Buddy v2.0, with no direct mention of Scrum Master responsibilities or related concepts. It lacks any discussion on Scrum principles, team dynamics, or the role of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1476,6 +1482,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on the features and improvements of the TFS Sticky Buddy application, with no explicit discussion on competence, continuous learning, or skill development. While there is a mention of working on enhancements, it lacks depth and alignment with the core themes of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:38:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the features and improvements of the TFS Sticky Buddy application, with no explicit discussion of Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content lacks depth and alignment with the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

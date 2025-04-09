@@ -514,11 +514,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:22:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:27:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content invites questions on a broad range of topics without a specific focus on the role of the Scrum Master. It does not discuss Scrum principles, practices, or responsibilities in detail.",
+    "final_score": 30.0,
+    "reasoning": "The content mentions a Scrum Trainer, which indicates a connection to the Scrum framework, but it primarily focuses on a general AMA format without delving into the specific responsibilities or impact of a Scrum Master. The discussion is broad, covering topics from DevOps to Agility, which dilutes the focus on the Scrum Master role specifically.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -919,11 +922,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:22:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:27:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily invites questions on various topics related to DevOps and Agility, with no specific focus on Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on an AMA session regarding DevOps and Agility, with no explicit mention or discussion of Test First Development principles, success criteria, or related practices. It lacks depth and alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1470,6 +1476,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on an AMA session with a Scrum Trainer, discussing topics related to DevOps and Agility, which are not directly aligned with the One Engineering System framework. There are no explicit mentions of 1ES principles, components, or its implementation, and the discussion lacks depth regarding the integration and standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:26:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a live Q&A session about DevOps and Agility, with no explicit discussion of Agentic Agility or its principles. While it mentions agility, it does not delve into the intentional shaping of outcomes or the distinction between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T10:57:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses organizational structure and its impact on agility, with no mention of Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:27:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the challenges of traditional organizational structures in adopting agile practices, with no direct mention of Test First Development principles or practices. While it touches on agility, it does not align with the core themes of Test First Development, such as success criteria, testing methodologies, or the role of testing in software delivery.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -856,11 +859,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T10:58:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:27:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organizational structures and their impact on agility, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges of traditional organizational structures in relation to agility, which indirectly touches on the role of Scrum Masters in fostering agile practices. However, it does not explicitly mention the Scrum Master role or delve into their specific responsibilities, techniques, or impact on team dynamics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1590,6 +1596,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the challenges of traditional organizational structures in relation to Agile methodologies, focusing on the Alpha model and its impact on agility. While it touches on themes of collaboration and decision-making, it does not explicitly mention or align with the principles of the One Engineering System framework, nor does it provide depth on standardising or integrating software development practices across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:27:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the challenges posed by traditional hierarchical structures to agility, which indirectly relates to the concept of Agentic Agility. However, it primarily focuses on organisational structures and leadership rather than explicitly addressing the intentional shaping of outcomes through autonomy and adaptability. While there are mentions of empowering teams and decentralising decision-making, the content lacks a direct exploration of the principles of Agentic Agility and does not differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

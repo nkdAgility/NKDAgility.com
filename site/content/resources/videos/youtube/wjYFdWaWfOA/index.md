@@ -27,8 +27,8 @@ preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
 duration: 299
 isShort: false
 tags:
-- Scrum Team
 - Scrum Master
+- Scrum Team
 - Agile Project Management
 - People and Process
 - Software Development

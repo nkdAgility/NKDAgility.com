@@ -163,20 +163,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:40:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:36:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses TFS deployment and management, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on TFS handover documentation and installation tips, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on management insights, it lacks a clear connection to data-informed decision-making or the core themes of EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:40:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:36:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses TFS deployment and management, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on TFS (Team Foundation Server) installation and management, with no direct mention of agile methodologies or product management principles. It lacks alignment with the core themes of the Agile Product Operating Model, such as continuous delivery or customer-centric value. The depth of discussion is limited to technical aspects of TFS, which do not relate to the APOM framework.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -316,11 +322,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:41:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:36:13",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on TFS deployment and management, lacking a central discussion on DevOps principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on TFS (Team Foundation Server) handover documentation, which is more aligned with project management and software deployment rather than the core principles of DevOps. While there are mentions of installation and management, these do not explicitly discuss DevOps practices such as collaboration, automation, or shared accountability. The depth of discussion is limited to practical tips rather than a philosophical or strategic exploration of DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -700,11 +709,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:53:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:36:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses handover documentation for TFS deployment rather than Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on TFS (Team Foundation Server) handover documentation, installation tips, and management insights, which do not directly address Continuous Delivery principles or practices. While there is a mention of deployment, it lacks a discussion on automation, incremental improvements, or user feedback, which are core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1339,11 +1351,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:53:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:36:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on TFS deployment and management rather than on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on TFS (Team Foundation Server) handover documentation and installation tips, with no direct mention of Scrum or the role of a Scrum Master. It lacks alignment with the core themes of the Scrum Master category, such as facilitating team effectiveness or promoting agile principles. The depth of discussion is also minimal, as it does not explore any relevant topics related to Scrum or the responsibilities of a Scrum Master.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1366,11 +1381,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:53:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:36:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on documentation for TFS deployment and installation challenges, with no mention of Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on TFS handover documentation and installation tips, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks alignment with the core themes of the category and provides minimal depth on any related topics.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1434,6 +1452,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on documentation related to TFS deployment and management, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. It lacks any mention of Shift-Left principles or practices, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:36:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on TFS handover documentation and installation tips, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on management insights, it lacks depth and alignment with the core themes of shared objectives and strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:36:18",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on TFS handover documentation and installation tips, with minimal discussion on competence or continuous skill development. While it touches on management insights, it does not delve into the core themes of competence as defined in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:36:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on TFS handover documentation and installation tips, with no explicit discussion of Continuous Improvement principles. While there is a mention of management insights, it does not align with the core themes of Continuous Improvement, such as empirical evidence or fostering a culture of experimentation. The depth of discussion is minimal, lacking any detailed exploration of Continuous Improvement strategies or practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:36:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on TFS handover documentation and installation tips, with no explicit discussion of Agentic Agility or its principles. It lacks alignment with the core themes of intentionality, adaptability, or the interplay between human and AI capabilities. The depth of discussion is minimal, as it does not explore any relevant concepts related to shaping outcomes or organisational agility.",
     "level": "Ignored"
   }
 }

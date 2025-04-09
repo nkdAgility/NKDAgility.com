@@ -1105,11 +1105,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T21:17:46",
+    "calculated_at": "2025-04-08T17:36:39",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
     "final_score": 1.0,
-    "reasoning": "Content discusses moving OneDrive files and does not relate to Test First Development or its principles.",
+    "reasoning": "The content focuses entirely on moving OneDrive for Business files and does not discuss any principles or practices related to Test First Development. There are no mentions of success criteria, testing methodologies, or any relevant concepts that align with the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1192,11 +1195,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T21:18:02",
+    "calculated_at": "2025-04-08T17:36:41",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on technical details related to managing OneDrive files and does not discuss Scrum Master responsibilities or practices.",
+    "reasoning": "The content focuses entirely on moving OneDrive for Business files and does not mention the role, responsibilities, or any concepts related to a Scrum Master. It is unrelated to Scrum methodologies or practices.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1479,6 +1485,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content focuses on moving OneDrive for Business files and does not discuss the One Engineering System framework, its principles, or any related topics. It is primarily a how-to guide for file management rather than a discussion on engineering practices or integration of tools.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:36:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of moving OneDrive files and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion lacks depth and relevance to the themes of Agentic Agility, making it largely unrelated to the category.",
     "level": "Ignored"
   }
 }

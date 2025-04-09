@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T06:56:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:14:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the application of Scrum and Agile methodologies, with no focus on Test First Development or related testing practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the application of Scrum and does not explicitly discuss Test First Development principles or practices. While it touches on problem-solving and team dynamics within Scrum, it lacks direct references to success criteria, testing methodologies, or the importance of defining tests before implementation, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -868,14 +871,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T02:02:55",
+    "calculated_at": "2025-04-08T17:14:35",
     "ai_confidence": 82.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
     "final_score": 75.0,
-    "reasoning": "The content extensively discusses the application of Scrum principles and practices, particularly in the context of training individuals to become effective Scrum practitioners. It highlights the role of Scrum in addressing dysfunctions within teams and organisations, which aligns closely with the responsibilities of a Scrum Master. The depth of discussion regarding practical encounters with Scrum, the challenges faced in traditional organisations, and the emphasis on coaching and mentoring further supports its relevance to the Scrum Master category. While it does not explicitly mention the Scrum Master role, the focus on facilitating Scrum processes and improving team dynamics indicates a strong alignment with the core themes of the category.",
+    "reasoning": "The content primarily focuses on the APS course, which is designed to teach individuals how to apply Scrum effectively. It discusses the practical application of Scrum, the challenges faced in traditional organisations, and the importance of understanding Scrum principles. While it does not explicitly mention the role of the Scrum Master, it aligns closely with the responsibilities and impact of a Scrum Master in facilitating Scrum practices and fostering a culture of continuous improvement. The depth of discussion on Scrum principles and the challenges of applying Scrum in various contexts further supports a high confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1596,6 +1599,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the APS course and its application of Scrum, which is a specific agile methodology. While it touches on themes of collaboration and problem-solving, it does not discuss the One Engineering System framework, its principles, or its integration across teams. The content lacks direct mentions of 1ES and does not provide depth on its components or best practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:14:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the application of Scrum and does not explicitly discuss Agentic Agility or its principles. While it touches on themes of problem-solving and navigating complexity, it lacks a clear distinction between human and AI capabilities, and does not delve into the intentional shaping of outcomes as defined by Agentic Agility. The discussion is more about Scrum practices than about the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

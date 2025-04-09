@@ -1369,11 +1369,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T13:55:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the importance of user feedback and agile processes, with no mention of test-driven development or related practices.",
+    "calculated_at": "2025-04-08T15:57:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of user feedback in Agile development rather than discussing Test First Development principles. While it touches on aspects of responsiveness and continuous improvement, it does not explicitly mention success criteria, testing practices, or the role of automated testing, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1435,11 +1438,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:55:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses user feedback and product value, without a clear focus on the Scrum Master role or Scrum-specific practices.",
+    "calculated_at": "2025-04-08T15:57:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile principles and the importance of user feedback in product management, which aligns with Scrum practices. However, it primarily focuses on product management rather than the specific role and responsibilities of a Scrum Master. While there are mentions of integrating feedback into Sprints and the role of the Product Owner, the content lacks a direct focus on the Scrum Master’s influence, techniques, or responsibilities, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1602,6 +1608,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Agile product management and user feedback processes, which are not directly related to the One Engineering System framework. While it touches on aspects of efficiency and responsiveness, it lacks explicit discussions on the principles, components, or implementation of 1ES. The content does not provide depth on integration of tools or methodologies that align with the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:57:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the importance of responding to user feedback in Agile development, which aligns with the concept of agility but does not explicitly discuss Agentic Agility or its principles. While it touches on themes of responsiveness and continuous improvement, it lacks a clear distinction between human and AI capabilities, and does not delve into the intentional shaping of outcomes or the mechanisms of AI Agentic Agility. Therefore, while there are relevant elements, the overall focus is more on general Agile practices rather than the specific category of Agentic Agility.",
     "level": "Ignored"
   }
 }

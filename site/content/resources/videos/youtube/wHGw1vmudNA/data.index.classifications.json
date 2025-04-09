@@ -496,11 +496,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T23:28:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:27:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses conflict and collaboration within Agile organisations, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses conflict within agile teams and does not mention Test First Development or its principles. While it touches on collaboration and communication, these themes are not directly related to the Test First Development approach, which focuses on defining success criteria and testing practices. Therefore, the content does not align with the category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -838,11 +841,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T23:29:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:27:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses conflict in organisations but does not specifically address the role or responsibilities of a Scrum Master.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses conflict within agile teams, which is relevant to the Scrum Master's role in facilitating team dynamics and promoting collaboration. However, it does not explicitly mention the Scrum Master or delve deeply into their specific responsibilities, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1554,6 +1560,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses conflict within agile teams, focusing on the nature of conflict, its levels, and management strategies. It does not mention the One Engineering System (1ES) or its principles, components, or implementation. The discussion is centred around agile methodologies rather than the integration and standardisation of engineering processes, which is the core focus of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:27:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses conflict in agile environments, focusing on its dual nature as both constructive and destructive. However, it does not explicitly mention Agentic Agility or its principles. While it touches on themes of collaboration and innovation, it lacks a clear connection to the intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion is more about conflict management than about the proactive agency that characterises Agentic Agility.",
     "level": "Ignored"
   }
 }

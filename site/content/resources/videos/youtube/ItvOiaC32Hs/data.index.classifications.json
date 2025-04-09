@@ -184,11 +184,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:22:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses chaos in Agile teams and organizational alignment, with no reference to Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses chaos in Agile teams and strategies for alignment and communication, with no direct mention of Test First Development principles or practices. While it touches on the importance of clear goals and communication, it does not delve into testing methodologies or the role of success criteria in software development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -649,12 +652,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:22:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses general themes of chaos and alignment within Agile teams without focusing specifically on the role or responsibilities of a Scrum Master.",
-    "level": "Ignored"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the challenges of chaos in Agile teams and offers strategies for alignment and communication, which are relevant to the Scrum Master's role. However, it does not explicitly mention the Scrum Master or delve deeply into their specific responsibilities, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -1590,6 +1596,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on addressing chaos within Agile teams and does not explicitly mention the One Engineering System (1ES) framework or its principles. While it discusses alignment and communication, which are relevant to 1ES, it lacks a direct connection to the integration and standardisation of engineering processes that define 1ES. The discussion is more about Agile practices rather than the comprehensive framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:22:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of alignment and clear goals within Agile teams, which touches on aspects of Agentic Agility. However, it primarily focuses on chaos management and general Agile practices without explicitly addressing the intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals and systems, leading to a lower confidence score.",
     "level": "Ignored"
   }
 }

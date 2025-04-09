@@ -1138,11 +1138,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T11:05:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:46:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses the process of migrating from Google Mail to Office 365, which is unrelated to Test First Development or its associated principles and practices.",
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on the challenges and methods of migrating from Google Mail to Office 365, with no mention or discussion of Test First Development principles, success criteria, or testing practices. It does not align with the core themes of the category, nor does it provide any depth on related topics.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1225,11 +1228,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T11:05:59",
+    "calculated_at": "2025-04-08T17:46:41",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses entirely on migrating email from Google Mail to Office 365 and does not discuss Scrum Master roles, responsibilities, or related practices.",
+    "reasoning": "The content focuses entirely on the technical aspects of migrating from Google Mail to Office 365, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not discuss responsibilities, skills, or the impact of a Scrum Master, nor does it touch on team dynamics or agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1500,6 +1506,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from Google Mail to Office 365, discussing specific methods and challenges encountered during the process. While there are elements of problem-solving and technical skill involved, the discussion does not explicitly address the concept of competence as defined in the category. It lacks a focus on continuous learning, skill development, or fostering a culture of competence, which are central to the category's definition.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:46:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from Google Mail to Office 365, discussing specific methods and challenges without addressing the concept of Agentic Agility. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI capabilities. The discussion lacks depth regarding the principles of Agentic Agility and does not explore the interplay between human judgement and AI logic.",
     "level": "Ignored"
   }
 }

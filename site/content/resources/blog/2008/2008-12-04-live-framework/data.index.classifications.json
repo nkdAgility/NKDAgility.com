@@ -1063,11 +1063,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:43:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:36:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Azure services and WPF application capabilities rather than Test First Development principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Azure and WPF development, focusing on collaboration and application configuration. There are no direct mentions of Test First Development principles, success criteria, or testing practices. The alignment with the core themes of Test First Development is minimal, and the depth of discussion does not provide any relevant insights into the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1255,11 +1258,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:43:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:36:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Azure Services Platform and application development, with no clear relevance to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Azure services and WPF development, with no direct mention of Scrum or the role of a Scrum Master. It lacks alignment with the core themes of the Scrum Master category, focusing instead on technical aspects of application development and collaboration tools. The depth of discussion is minimal regarding any Scrum-related topics.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the potential of Azure for WPF development and focuses on collaboration and app configuration. While it touches on aspects of team interaction, it does not explicitly address competence, continuous learning, or skill development. The discussion lacks depth in relation to the core themes of competence, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:36:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Azure services and WPF development, focusing on collaboration and application configuration. While it touches on themes of collaboration and user interaction, it does not explicitly address Agentic Agility or its principles. The discussion lacks depth regarding intentional shaping of outcomes, accountability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

@@ -1207,11 +1207,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T16:50:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:59:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the use of nested tasks in Agile planning tools and does not address Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the use of nested tasks in TFS 2012 Agile Planning Tools and does not address Test First Development principles, success criteria, or testing practices. It focuses on backlog management and task structuring rather than any testing methodologies or the importance of defining success criteria before implementation.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1291,11 +1294,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T16:50:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:00:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of using Agile Planning Tools in TFS, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses aspects of backlog management and task structuring within an Agile context, which is relevant to Scrum practices. However, it primarily focuses on technical issues related to TFS tools rather than the role and responsibilities of a Scrum Master. The mention of Product Backlog Items (PBIs) and tasks indicates some alignment with Scrum principles, but the depth of discussion on the Scrum Master's influence, coaching, or facilitation is minimal. Overall, while there are relevant elements, the primary focus is not on the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1578,6 +1584,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the use of nested tasks in TFS 2012 Agile Planning Tools, focusing on best practices for backlog management. While it touches on the importance of understanding task breakdowns, it does not explicitly address continuous learning or skill development, which are core to the concept of competence. The discussion is more about tool usage and specific practices rather than fostering a culture of competence or professional development.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:59:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the technical aspects of using nested tasks in TFS 2012 Agile Planning Tools, focusing on practical issues and best practices for backlog management. It does not explicitly address the concept of Agentic Agility, nor does it explore the intentional shaping of outcomes, autonomy, or adaptability in a socio-technical context. The discussion lacks depth in relation to the principles of Agentic Agility and does not differentiate between human and AI capabilities.",
     "level": "Ignored"
   }
 }

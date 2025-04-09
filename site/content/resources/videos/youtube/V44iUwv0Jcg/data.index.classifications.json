@@ -1339,11 +1339,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:53:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses continuous improvement ('Kaizen') without focusing on Test First Development or related testing practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the philosophy of Kaizen and continuous improvement, which does not directly relate to Test First Development principles. While there are mentions of process optimisation and team collaboration, these are not specifically tied to the Test First approach or its practices. The focus is on general improvement rather than the specific testing methodologies outlined in the Test First Development category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1405,11 +1408,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:53:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement without specific focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses continuous improvement, a concept relevant to Scrum and Agile methodologies, but it primarily focuses on Kaizen and its application rather than the specific role and responsibilities of a Scrum Master. While there are mentions of team collaboration and process optimisation, these are not directly tied to the Scrum Master role, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1563,6 +1569,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the concept of Kaizen and continuous improvement within Agile methodologies, particularly Kanban. While it touches on themes of process optimisation and team collaboration, it does not explicitly discuss the One Engineering System framework or its principles. The discussion is more about personal and team growth rather than the integration and standardisation of engineering processes, which is the core of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:53:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the concept of Kaizen, which focuses on continuous improvement and incremental changes. While it touches on themes of adaptability and personal development, it does not explicitly address Agentic Agility or the intentional shaping of outcomes. The discussion lacks a clear distinction between human and AI capabilities, and it primarily revolves around general Agile practices rather than the specific principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

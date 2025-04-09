@@ -181,11 +181,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:35:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the qualities of an agile coach and their role in engaging both technical and leadership aspects in an organization, without mention of Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T16:20:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on hiring an Agile coach and their role in bridging technical and leadership engagement, with no direct mention or discussion of Test First Development principles. While it touches on Agile practices, it does not delve into the specifics of Test First methodologies, success criteria, or testing practices, which are central to the category.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -631,11 +634,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:35:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role and qualifications of an Agile Coach, not specifically focused on the Scrum Master role or responsibilities.",
+    "calculated_at": "2025-04-08T16:20:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of an Agile coach, which overlaps with some responsibilities of a Scrum Master, particularly in facilitating communication and driving Agile practices. However, it primarily focuses on the broader role of an Agile coach rather than the specific responsibilities and impact of a Scrum Master within a Scrum Team. The mention of Scrum Masters is minimal, and the depth of discussion does not delve into the nuances of the Scrum Master's role, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -1548,6 +1554,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on hiring an Agile coach and their role in bridging technical teams and leadership, which does not directly discuss the One Engineering System framework or its principles. While there are mentions of Agile practices, the content lacks a clear connection to the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:20:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the role of an Agile coach in bridging technical and leadership engagement, which touches on aspects of agency and intentionality. However, it primarily focuses on hiring practices and does not delve deeply into the principles of Agentic Agility or differentiate between human and AI capabilities. The discussion lacks explicit references to the transformative capacity of individuals or systems, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

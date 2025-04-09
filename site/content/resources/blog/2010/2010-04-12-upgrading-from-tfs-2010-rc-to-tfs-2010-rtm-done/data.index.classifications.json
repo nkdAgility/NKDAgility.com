@@ -1162,11 +1162,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T01:39:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:23:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content is primarily about upgrading Team Foundation Server, with no significant discussion on Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the upgrade process of TFS 2010 and does not discuss Test First Development principles, success criteria, or testing practices. There are no explicit mentions of Test First methodologies, and the overall discussion lacks depth in relation to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1255,11 +1258,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T01:39:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:23:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses upgrading Team Foundation Server and installation procedures, without reference to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the upgrade process of TFS 2010 and does not mention the role or responsibilities of a Scrum Master. There are no references to Scrum principles, team dynamics, or coaching techniques, which are essential for the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1536,6 +1542,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the technical process of upgrading TFS 2010, with minimal reference to competence or skill development. While it discusses the importance of following procedures and checks during the upgrade, it does not delve into continuous learning, team trust, or professional development, which are core themes of the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:23:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading TFS 2010, with no explicit discussion of Agentic Agility or its principles. While there are mentions of decision-making and configuration, these do not align with the core themes of intentionality and agency in the context of agility.",
     "level": "Ignored"
   }
 }

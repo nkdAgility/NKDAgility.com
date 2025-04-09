@@ -1129,11 +1129,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:03:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:27:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on configuring Visual Studio and Team Foundation Server, with no mention of Test First Development or related principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on configuring Visual Studio 2010 Team Foundation Server and does not discuss Test First Development principles, success criteria, or testing practices. There are no mentions of TDD, ATDD, or any related concepts, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1216,11 +1219,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:03:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:28:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the configuration of Visual Studio Team Foundation Server and does not relate to the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on configuring Visual Studio Team Foundation Server and does not mention the role or responsibilities of a Scrum Master. There is no discussion of Scrum principles, team dynamics, or any related topics that would align with the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1494,6 +1500,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the technical setup of Visual Studio 2010 Team Foundation Server, with minimal discussion on competence or skill development. While it touches on the importance of understanding system requirements and the implications of using outdated software, it lacks a thorough exploration of continuous learning or professional growth, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:27:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical setup of Visual Studio 2010 Team Foundation Server and does not discuss Agentic Agility or its principles. There are no direct mentions of agency, intentionality, or the interplay between human and AI capabilities, which are central to the category. The content lacks depth and relevance to the themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

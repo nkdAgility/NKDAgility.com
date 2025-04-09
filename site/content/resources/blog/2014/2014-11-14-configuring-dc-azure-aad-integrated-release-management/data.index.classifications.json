@@ -1144,11 +1144,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T23:58:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:41:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses configuring a domain controller in Azure and does not address Test First Development or related testing practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on configuring a Domain Controller in Azure for Release Management, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail on automated or manual testing methodologies, making it largely irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1231,11 +1234,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T23:58:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:41:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details related to configuring a domain controller in Azure, with no reference to Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on configuring a Domain Controller in Azure for Release Management, with no direct mention of Scrum Master responsibilities or related topics. While it discusses technical aspects of cloud infrastructure, it does not align with the core themes of the Scrum Master role, such as team dynamics, coaching, or agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1518,6 +1524,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on configuring a Domain Controller in Azure for Active Directory integrated Release Management. While it discusses aspects of cloud infrastructure and virtual machine setup, it does not explicitly mention or align with the principles of the One Engineering System (1ES). The discussion lacks depth regarding integration, standardisation, or best practices related to 1ES, making it peripheral to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:41:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on configuring a Domain Controller in Azure for Release Management, with no explicit discussion of Agentic Agility or its principles. While there are elements of adaptability in the technical setup, the content lacks a clear connection to the intentional shaping of outcomes, human and AI agency, or the transformative capacity of individuals and systems. Overall, it does not meet the criteria for a meaningful discussion on Agentic Agility.",
     "level": "Ignored"
   }
 }

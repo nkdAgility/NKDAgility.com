@@ -163,20 +163,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T22:10:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:09:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical setup and integration of TFS with SharePoint, with no focus on evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical setup and integration of TFS with SharePoint, lacking any explicit discussion or alignment with Evidence-Based Management principles. It does not address data-informed decision-making or metrics related to value delivery, innovation, or empirical decision-making.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T22:10:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:09:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical integration of TFS with SharePoint, with no focus on Agile principles or product-centric development.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on setting up TFS with SharePoint, which is more aligned with traditional project management and technical integration rather than the Agile Product Operating Model. There are no direct mentions of agile principles or product management practices, and the discussion lacks depth in relation to the core themes of APOM.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -319,11 +325,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T22:10:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:09:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of TFS with SharePoint, focusing on project portals rather than DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on setting up TFS (Team Foundation Server) with SharePoint, which is more aligned with project management and integration rather than the core principles of DevOps. While there are elements of collaboration mentioned, the discussion lacks depth in terms of DevOps philosophy, practices, and cultural shifts. The content does not explicitly address key DevOps topics such as automation, shared accountability, or continuous improvement, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -709,11 +718,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:18:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:10:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses setting up Team Foundation Server with SharePoint, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on setting up TFS with SharePoint, which is more about integration and project management rather than Continuous Delivery practices. There are no direct mentions of Continuous Delivery principles, automation, or rapid feedback mechanisms. The discussion lacks depth in terms of Continuous Delivery concepts, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1351,11 +1363,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:18:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:09:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical implementation details related to TFS and SharePoint integration, with no relevance to Scrum Masters or their responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on setting up TFS with SharePoint and does not discuss the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, team dynamics, or the impact of a Scrum Master, which are essential for alignment with the category. The discussion is technical and administrative in nature, lacking any depth related to Scrum practices.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1378,20 +1393,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:18:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:09:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on integrating TFS with SharePoint and does not discuss Test First Development or TDD principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses setting up TFS with SharePoint and does not explicitly mention Test First Development principles or practices. While there are references to testing features, they are not aligned with the core themes of Test First Development, such as defining success criteria or automated testing practices. The focus is on integration and project management rather than on testing methodologies.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:30:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:09:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical integration of TFS with SharePoint, lacking focus on Scrum, Kanban, Lean, or Agile methodologies.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical aspects of setting up TFS with SharePoint, with only brief mentions of collaboration and integration. While it touches on enhancing collaboration for the team, it lacks a deeper exploration of social technologies principles such as self-organisation, collective intelligence, or transparency. The discussion is more technical than conceptual, leading to a low confidence score in alignment with the Social Technologies category.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1443,6 +1464,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the integration of TFS with SharePoint and does not address the Shift-Left Strategy or its principles. There are no explicit mentions of testing, security, or compliance being integrated early in the development process, nor does it provide any depth on the benefits or techniques related to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T21:09:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for setting up TFS with SharePoint, lacking any explicit discussion of Common Goals or their significance in Agile or DevOps. While it mentions collaboration, it does not connect this to shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T21:09:44",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on technical setup and integration of TFS with SharePoint, with minimal discussion on competence or skill development. While it mentions best practices and testing, these are not deeply tied to the principles of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T21:09:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical setup and integration of TFS with SharePoint, with minimal reference to Continuous Improvement principles. While there is a mention of testing and adapting processes, it lacks a comprehensive discussion on Continuous Improvement methodologies or strategies, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T21:09:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical setup and integration of TFS with SharePoint, with no explicit discussion of Agentic Agility or its principles. It lacks any mention of intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

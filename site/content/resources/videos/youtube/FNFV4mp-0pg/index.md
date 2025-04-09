@@ -27,6 +27,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum Master
 - Agile Project Management
 - Scrum Team
 - Agile Leadership
@@ -36,7 +37,6 @@ tags:
 - Team Collaboration
 - Professional Scrum
 - Agile Frameworks
-- Team Motivation
 resourceTypes:
 - video
 categories:

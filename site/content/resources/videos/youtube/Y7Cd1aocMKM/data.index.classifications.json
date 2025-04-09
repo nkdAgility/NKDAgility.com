@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T22:29:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:13:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the effectiveness of scrum training via digital delivery, with no clear focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses digital scrum training and its effectiveness compared to in-person training. It does not explicitly mention Test First Development or its principles, nor does it delve into topics such as success criteria, TDD, or ATDD. The focus is on training techniques and the benefits of digital delivery, which are not aligned with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -862,14 +865,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T01:49:51",
+    "calculated_at": "2025-04-08T17:13:00",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
     "final_score": 57.0,
-    "reasoning": "The content discusses the effectiveness of digital delivery for Scrum training, which indirectly relates to the role of a Scrum Master in facilitating learning and team dynamics. However, it lacks direct mentions of Scrum Master responsibilities, coaching techniques, or specific Scrum ceremonies. The focus is more on training delivery methods rather than the Scrum Master role itself, leading to a moderate confidence score.",
+    "reasoning": "The content discusses digital scrum training and its effectiveness, which is relevant to the Scrum Master role. However, it primarily focuses on training delivery methods rather than the responsibilities and impact of a Scrum Master. While there are mentions of agile practices and training techniques, the depth of discussion on the Scrum Master's role is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -1593,6 +1596,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum training and digital delivery methods, which are not directly related to the One Engineering System framework. While it touches on agile practices, it does not discuss the principles, integration, or standardisation of engineering processes as outlined in the 1ES category. The discussion is more about training techniques and experiences rather than the broader implications of a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:12:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the effectiveness of digital scrum training and various techniques used in training delivery. While it touches on themes of accessibility and engagement, it does not explicitly address the concept of Agentic Agility, nor does it differentiate between human and AI capabilities in the context of agility. The focus remains on training methods rather than the intentional shaping of outcomes, which is central to Agentic Agility.",
     "level": "Ignored"
   }
 }

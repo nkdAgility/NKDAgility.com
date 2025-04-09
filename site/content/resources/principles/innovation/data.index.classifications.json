@@ -469,11 +469,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T20:47:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:43:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Test First Development or related topics; it is vague and lacks relevant information.",
+    "final_score": 4.0,
+    "reasoning": "The content does not mention Test First Development or any related concepts. It is vague and promotional in nature, lacking any discussion on success criteria, testing practices, or the principles of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -790,11 +793,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T20:47:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:43:30",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not mention Scrum or the role of a Scrum Master; it is unrelated to the category.",
+    "final_score": 9.0,
+    "reasoning": "The content does not mention the Scrum Master role or its responsibilities. It lacks any discussion on Scrum principles, techniques, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1461,6 +1467,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content does not mention the One Engineering System or any related concepts. It is vague and lacks any discussion on engineering practices, integration, or standardisation, which are core to the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:43:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content does not explicitly mention Agentic Agility or its key topics. It is vague and promotional in nature, lacking any discussion on intentional shaping of outcomes, autonomy, or adaptability. Therefore, it does not align with the category's focus.",
     "level": "Ignored"
   }
 }

@@ -1171,11 +1171,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:09:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:09:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum practices and health checks, with no focus on Test First Development or related testing concepts.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices and a Scrum Health Check, with no direct mention or discussion of Test First Development principles. While it touches on improvement opportunities, it does not align with the core themes of Test First Development, such as success criteria or testing methodologies. The depth of discussion is minimal and does not provide relevant insights into Test First practices.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1252,14 +1255,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T10:36:01",
+    "calculated_at": "2025-04-08T19:09:17",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
     "final_score": 57.0,
-    "reasoning": "The content discusses a Scrum Health Check, which indirectly relates to the role of a Scrum Master in assessing team practices. However, it lacks direct mentions of the Scrum Master's responsibilities and does not delve deeply into coaching or facilitating Scrum processes. The focus is more on a service offering rather than the Scrum Master's role in fostering team dynamics or improving Agile practices.",
+    "reasoning": "The content discusses a Scrum Health Check, which indirectly relates to the role of a Scrum Master in assessing and improving Scrum practices. However, it lacks direct mentions of the Scrum Master's responsibilities and does not delve deeply into the core themes of the category, such as coaching or facilitating. The focus is more on a service offering rather than a comprehensive discussion of the Scrum Master role.",
     "level": "Tertiary"
   },
   "Transparency": {
@@ -1536,6 +1539,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a Scrum Health Check, which indirectly relates to competence by identifying improvement opportunities. However, it lacks explicit discussions on continuous learning or skill development, and the depth of discussion on competence is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:09:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices and a health check for Scrum implementation, which does not align with the concept of Agentic Agility. While there are brief mentions of improvement opportunities and direction, these do not explicitly connect to the intentional shaping of outcomes or the principles of Agentic Agility. The discussion lacks depth and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

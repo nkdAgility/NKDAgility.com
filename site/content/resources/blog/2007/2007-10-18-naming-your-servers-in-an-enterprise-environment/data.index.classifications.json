@@ -154,20 +154,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:06:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:27:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses server naming conventions in an enterprise environment, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses server naming strategies in enterprise environments, which does not align with the principles of Evidence-Based Management. There are no direct mentions of data-informed decision-making or metrics related to current value, time to market, or innovation capacity. The discussion lacks depth in relation to EBM concepts, focusing instead on practical naming conventions without empirical evidence or strategic management insights.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:06:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:27:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses server naming conventions in an enterprise environment, with no relevance to Agile principles or product-centric development.",
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on server naming strategies in enterprise environments, with no mention or discussion of agile methodologies, product management principles, or the Agile Product Operating Model. It does not align with the core themes of the category, nor does it provide any depth on related topics.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,14 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T07:38:31",
+    "calculated_at": "2025-04-08T20:27:00",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
     "final_score": 22.0,
-    "reasoning": "The content discusses server naming conventions in an enterprise environment, which is tangentially related to DevOps practices, particularly in terms of managing infrastructure. However, it lacks explicit mentions of DevOps principles, automation, or cultural shifts. The discussion is primarily focused on naming strategies rather than the integration of development and operations or continuous delivery practices.",
+    "reasoning": "The content primarily focuses on server naming strategies in enterprise environments, which is a specific operational concern rather than a discussion on DevOps principles. While it touches on aspects of management and organisation that could relate to DevOps, such as the need for consistency and clarity in server identification, it lacks direct references to core DevOps themes like collaboration, automation, or shared accountability. The depth of discussion is limited to naming conventions without exploring broader DevOps practices or cultural shifts.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -700,11 +706,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:08:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:27:23",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses server naming conventions in an enterprise environment, which does not relate to Continuous Delivery principles or practices.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses server naming strategies in enterprise environments, which is unrelated to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion does not align with the core themes such as automation, incremental improvements, or rapid feedback. The depth of discussion is focused on naming conventions rather than any aspect of software delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1339,11 +1348,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:08:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:27:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on server naming conventions and management in enterprise environments with no relation to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on server naming strategies in enterprise environments, with no mention of Scrum, Scrum Masters, or related agile practices. It does not align with the core themes of the Scrum Master role, responsibilities, or impact on team dynamics and organisational change.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1366,11 +1378,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:08:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:27:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content discusses server naming conventions in an enterprise environment without any focus on Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content focuses on server naming strategies in enterprise environments, which is unrelated to Test First Development principles. There are no mentions of testing practices, success criteria, or any related concepts that align with the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1434,6 +1449,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses server naming conventions in an enterprise environment, which is unrelated to the Shift-Left Strategy. There are no direct mentions of testing, security, or compliance processes, nor does it address integrating these aspects earlier in the software development lifecycle. The focus is on server management rather than software quality or development practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:27:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on server naming strategies in enterprise environments, which does not align with the principles of Common Goals in Agile and DevOps. While it discusses the importance of consistency in naming for better identification, it lacks any direct mention of shared objectives, alignment, or strategic goals that guide decision-making within teams. The discussion is more about technical practices rather than the foundational principles of collaboration and accountability that are central to Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:27:06",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses server naming strategies in enterprise environments, which does not directly address the principles of competence in Agile, Scrum, DevOps, or Lean methodologies. While it touches on the need for consistency and meaningful naming conventions, it lacks a focus on continuous learning, skill development, or the professional standards that underpin competence. The discussion is more operational than strategic, failing to explore how these naming conventions impact team trust, quality outcomes, or decision-making processes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:27:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on server naming strategies in enterprise environments, which does not directly relate to Continuous Improvement principles. While it touches on the need for consistency and clarity in naming conventions, it lacks a discussion on processes, empirical evidence, or strategies for fostering a culture of experimentation and learning. The content does not provide insights into how these naming strategies contribute to team effectiveness or organisational processes, which are key aspects of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:27:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses server naming strategies in enterprise environments, which does not align with the principles of Agentic Agility. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability. The focus is on practical naming conventions rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

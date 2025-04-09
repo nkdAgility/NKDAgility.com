@@ -1135,11 +1135,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T23:17:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:39:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to configuring a build agent and does not address Test First Development or its principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses an error related to configuring the Build vNext Agent and does not mention Test First Development principles, success criteria, or testing practices. It focuses on a specific technical issue without any connection to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1222,11 +1225,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T23:17:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:39:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to the Build vNext Agent and Visual Studio, with no reference to Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to configuring a Build vNext Agent and does not mention the role or responsibilities of a Scrum Master. There is no alignment with the core themes of Scrum or agile principles, and the depth of discussion is focused on troubleshooting rather than any aspect of Scrum methodology.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1512,6 +1518,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses a specific error related to configuring the Build vNext Agent and does not mention the One Engineering System or its principles. It focuses on troubleshooting a technical issue rather than the integration and standardisation of engineering processes, which are central to the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:39:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to configuring a build agent and does not address the concept of Agentic Agility. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are core to the category. The focus is on troubleshooting a specific error rather than exploring the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

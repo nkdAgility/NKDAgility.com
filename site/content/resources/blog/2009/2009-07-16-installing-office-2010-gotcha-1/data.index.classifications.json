@@ -1108,11 +1108,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:30:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses issues related to installing Office 2010 and has no relevance to Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses challenges related to installing Office 2010 on a 64-bit system, with no direct mention of Test First Development principles or practices. It does not align with the core themes of Test First Development, such as defining success criteria or discussing testing methodologies. The depth of discussion is focused on installation issues rather than any testing or development practices.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1195,11 +1198,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:08",
+    "calculated_at": "2025-04-08T19:30:17",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on a technical issue related to installing Office software and does not mention Scrum or the role of a Scrum Master.",
+    "reasoning": "The content focuses entirely on the technical challenges of installing Office 2010 on a 64-bit system, with no mention or discussion of Scrum, the role of a Scrum Master, or any related agile principles. It does not align with the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1470,6 +1476,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily discusses technical challenges related to installing Office 2010 on a 64-bit system, which does not directly address the principles of competence in Agile, Scrum, DevOps, or Lean methodologies. While there are mentions of challenges and considerations for installation, these do not align with the core themes of continuous learning, skill development, or professionalism that define the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:30:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical challenges related to installing Office 2010 on a 64-bit system, with no explicit mention of Agentic Agility or its principles. While it touches on issues that could relate to organisational agility, such as upgrade limitations and automation challenges, it does not engage with the core themes of intentionality, autonomy, or adaptability in a socio-technical context. The discussion lacks depth and does not differentiate between human and AI capabilities, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

@@ -523,11 +523,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T10:21:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:01:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses traits and qualities of an Agile Consultant, with limited reference to Scrum or Scrum Master responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the Scrum Master in the context of Agile consulting but does not focus on the specific responsibilities or impact of the Scrum Master role. The primary discussion revolves around the traits of an Agile Consultant, particularly tenacity, which is relevant to Agile but not specifically to the Scrum Master role. The alignment with core themes is minimal, and the depth of discussion on the Scrum Master is lacking, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -946,11 +949,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:21:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:01:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the traits of an Agile Consultant, specifically tenacity, without any mention of Test First Development principles, practices, or related concepts.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on the traits of an Agile Consultant, particularly tenacity, and does not discuss Test First Development principles, success criteria, or testing practices. It lacks any direct mention or relevant alignment with the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1518,6 +1524,18 @@
     "non_ai_confidence": 10,
     "final_score": 6.0,
     "reasoning": "The content primarily focuses on the traits of an Agile Consultant, particularly tenacity, and does not discuss the One Engineering System or its principles. While it mentions Agile, it does not align with the core themes of 1ES, such as integration of tools or processes, nor does it provide any depth on the framework itself.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:01:13",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions traits like tenacity and persistence, which can relate to the concept of agency in a general sense. However, it does not explicitly discuss Agentic Agility or its principles, nor does it differentiate between human and AI capabilities. The focus is primarily on the personal attributes of an Agile Consultant rather than the intentional shaping of outcomes through autonomy and adaptability, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

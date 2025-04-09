@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T14:54:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the balance between speed and stability in software delivery, focusing on the implications of prioritising speed over quality, rather than the principles or practices of Test First Development.",
+    "calculated_at": "2025-04-08T15:32:59",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content discusses the importance of quality over speed in project delivery, which indirectly relates to the principles of Test First Development. However, it does not explicitly mention Test First practices, success criteria, or automated testing methodologies. The focus is more on general project management and ethical considerations rather than the specific practices and benefits of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -631,11 +634,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T14:55:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:33:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the balance between speed and stability in delivery, focusing on business decisions and ethical considerations rather than the specific role or responsibilities of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses delivery management and the balance between speed and quality, which is not directly related to the role of a Scrum Master. While it touches on stakeholder communication and the importance of quality, it lacks explicit references to Scrum principles, the responsibilities of a Scrum Master, or the Scrum framework itself. The discussion is more aligned with general project management rather than the specific role and impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1605,6 +1611,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the importance of quality over speed in project delivery, which is a relevant topic in software development. However, it does not explicitly mention the One Engineering System or its principles. The discussion is more focused on general delivery management practices rather than the integration and standardisation of engineering processes as outlined in the 1ES framework. While there are some relevant themes, such as the impact of quality on software delivery, the overall focus is not aligned with the core topics of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:32:56",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses the importance of balancing speed and stability in project delivery, which touches on aspects of decision-making and accountability. However, it does not explicitly mention Agentic Agility or its principles. The focus is primarily on quality and stakeholder communication rather than the intentional shaping of outcomes through autonomy and adaptability. While there are elements of reflection and ethical choices, the content lacks a clear distinction between human and AI capabilities in the context of agility, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

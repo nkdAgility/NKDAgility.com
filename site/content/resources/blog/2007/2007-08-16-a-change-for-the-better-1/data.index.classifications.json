@@ -160,20 +160,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:55:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:42:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal career move and experiences rather than Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a personal career transition and does not discuss Evidence-Based Management or its key topics. There are no explicit mentions of data-informed decision-making or metrics related to value delivery, innovation, or empirical decision-making.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:55:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:42:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal career move and experiences rather than Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal career transition and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or related topics. The content lacks alignment with the core themes of APOM and provides minimal detail on any relevant concepts.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -316,11 +322,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:56:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:41:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal career move and experiences rather than DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a personal career transition and does not explicitly discuss DevOps principles, practices, or cultural shifts. While there is a mention of embracing new technology, it lacks depth and does not align with the core themes of DevOps such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -697,11 +706,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:13:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:42:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily a personal narrative about a job change and does not discuss Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal career transition and does not discuss Continuous Delivery principles, practices, or related topics. There are no direct mentions of Continuous Delivery, and the alignment with its core themes is minimal, as the content lacks any detail on automation, incremental improvements, or software quality. Overall, it does not meet the criteria for this category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1330,11 +1342,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:13:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:42:03",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal career move and experiences, with no clear focus on Scrum Master roles or responsibilities.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on a personal career transition and does not discuss the role, responsibilities, or impact of a Scrum Master. There are no direct mentions of Scrum or related concepts, and the discussion lacks depth regarding Scrum practices or principles.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1357,11 +1372,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:13:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:42:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on personal career changes and experiences rather than on Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal career transition and does not discuss any principles or practices related to Test First Development. There are no mentions of success criteria, testing methodologies, or any relevant topics that align with the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1425,6 +1443,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on a personal career transition and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor any relevant case studies or tools. The discussion is entirely unrelated to software development processes that align with the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:41:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a personal career transition and does not discuss Common Goals within Agile or DevOps frameworks. While there is a mention of embracing new technology, it lacks explicit references to shared objectives, alignment, or strategic goals that are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:41:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the author's career shift and the desire to expand expertise, which aligns with the concept of competence. However, it lacks a detailed discussion on continuous learning or strategies for fostering a culture of competence, making it more of a personal narrative than a focused discussion on the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:41:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a personal career transition rather than discussing Continuous Improvement principles. While there is a mention of embracing new technology, it lacks depth and does not align with the core themes of Continuous Improvement, such as empirical evidence, team effectiveness, or strategies for integration into processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:41:58",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on a personal career transition and does not explicitly discuss Agentic Agility or its principles. While there is a mention of embracing new technology and expanding expertise, these points are not deeply connected to the intentional shaping of outcomes or the core themes of Agentic Agility. The discussion lacks depth and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

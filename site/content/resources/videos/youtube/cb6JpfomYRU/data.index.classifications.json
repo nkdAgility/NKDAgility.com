@@ -391,14 +391,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-13T15:17:00",
+    "calculated_at": "2025-04-08T16:44:38",
     "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 85.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
     "final_score": 80.0,
-    "reasoning": "The content explicitly discusses the journey of becoming a Scrum Master, focusing on practical applications of Agile principles, community building, and the support network essential for new Scrum Masters. It aligns well with the core themes of the category, such as coaching, mentoring, and fostering a culture of continuous improvement. The depth of discussion is significant, providing insights into real-world applications and the importance of community support, which are crucial for effective Scrum Masters.",
+    "reasoning": "The content primarily focuses on the journey of becoming a Scrum Master, discussing the role's responsibilities, the importance of community support, and practical application of Agile principles. It explicitly mentions the Scrum Master role multiple times and aligns well with the key topics outlined in the category, such as coaching, mentoring, and fostering a culture of continuous improvement. The depth of discussion is substantial, providing insights into training methods and the challenges faced by new Scrum Masters, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Agile Planning": {
@@ -436,11 +436,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T20:31:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:44:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum training and community support, with no focus on Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the application of Agile principles, without explicitly discussing Test First Development or its core concepts. While there are mentions of practical application and community support, these do not align with the specific principles of Test First Development, such as defining success criteria or automated testing practices.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1590,6 +1593,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on becoming a Scrum Master and the application of Agile principles, which are not directly related to the One Engineering System framework. While it discusses community building and practical application, it lacks explicit references to 1ES principles, integration of tools, or standardisation of processes across teams. The discussion is more centred on personal development and Scrum methodology rather than the overarching themes of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:44:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the journey of becoming a Scrum Master and emphasises practical application and community support, which aligns with some principles of Agentic Agility. However, it lacks explicit discussions on intentional shaping of outcomes, the distinction between human and AI capabilities, and does not delve deeply into the mechanisms of Agentic Agility. The focus is more on Agile practices rather than the specific concept of agency and intentionality.",
     "level": "Ignored"
   }
 }

@@ -163,20 +163,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T22:16:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:13:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a feature request for a source control tool, lacking any focus on evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a specific tool (TFS Checkin Notifier) aimed at improving collaboration in source control, which does not directly relate to Evidence-Based Management principles. There are no explicit mentions of empirical decision-making or metrics that assess value delivery, and the discussion lacks depth in terms of EBM concepts.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T22:16:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:13:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a feature request for a source control tool, which is not related to the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a specific tool for source control and collaboration, which does not directly relate to the Agile Product Operating Model. While it touches on collaboration, it lacks a focus on agile principles, product management, or the core themes outlined in the APOM framework.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -316,11 +322,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T22:16:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:13:34",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a feature wish for a source control tool without addressing DevOps principles, practices, or related topics.",
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions collaboration in source control, which is a peripheral aspect of DevOps, but does not delve into the core principles or practices of DevOps. The focus is primarily on a specific tool (TFS Checkin Notifier) rather than the broader philosophy of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -706,11 +715,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:19:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:13:59",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to source control in Team Foundation Server (TFS) and does not address principles or practices of Continuous Delivery.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses a specific tool (TFS Checkin Notifier) aimed at improving collaboration in source control, which is tangentially related to software delivery but does not explicitly address Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion lacks depth in terms of the category's core themes such as automation, incremental improvements, or rapid feedback.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1345,11 +1357,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:19:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:13:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to source control and a proposed add-in for Team Explorer, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical feature related to source control and collaboration tools, with no direct mention of Scrum Master responsibilities or concepts. It lacks alignment with the core themes of the Scrum Master role, such as facilitation, coaching, or team dynamics. The depth of discussion is minimal and does not provide any insights into Scrum practices or the impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1372,20 +1387,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:19:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:13:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a feature related to source control and access management in Team Foundation Server, unrelated to Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a feature for managing file access in source control, which does not relate to Test First Development principles. There are no direct mentions of testing practices, success criteria, or any related concepts. The focus is on collaboration and file management rather than testing methodologies.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:30:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:13:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a feature wish for a source control tool, which is not directly related to Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses a specific tool aimed at enhancing collaboration in source control, which aligns with the category's focus on fostering collaboration and improving decision-making. However, it lacks a broader discussion on social technologies or frameworks, and the depth of exploration into the implications for team dynamics or organisational culture is limited.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1437,6 +1458,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a feature request for a source control tool, focusing on user access and notifications rather than integrating testing, security, or compliance earlier in the software development lifecycle. There are no direct mentions of the Shift-Left Strategy, and the discussion does not align with its core themes or provide any depth on the topic.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T21:13:39",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions collaboration in source control, which is a peripheral aspect of Common Goals, but does not explicitly discuss shared objectives or alignment within Agile or DevOps frameworks. The focus is primarily on a specific tool and its functionality rather than on the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T21:13:40",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses a tool for improving collaboration in source control, which does not directly address the principles of competence in Agile or DevOps. While it touches on the need for better access to files, it lacks explicit discussions on continuous learning, skill development, or the importance of competence in delivering quality outcomes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T21:13:44",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses a specific feature request for a TFS add-in, focusing on improving file access and collaboration in source control. While it hints at enhancing processes, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or a culture of experimentation. The mention of streamlining access does not align with the broader themes of Continuous Improvement, and the depth of discussion is minimal, focusing instead on a singular feature rather than a comprehensive approach to improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T21:13:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a tool for improving collaboration in source control, which does not explicitly address the principles of Agentic Agility. While it touches on aspects of autonomy and adaptability in the context of file access, it lacks a focus on intentional shaping of outcomes or the interplay between human and AI capabilities. The discussion is more about a practical solution rather than a theoretical exploration of Agentic Agility.",
     "level": "Ignored"
   }
 }

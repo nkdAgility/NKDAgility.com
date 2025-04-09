@@ -31,7 +31,8 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Scrum Master
 resourceTypes:
 - video
 categories: []

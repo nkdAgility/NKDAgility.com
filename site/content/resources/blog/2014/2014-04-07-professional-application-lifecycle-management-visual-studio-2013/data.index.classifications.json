@@ -1171,11 +1171,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T11:12:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:47:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the production of a book on Application Lifecycle Management with Visual Studio, without a clear focus on Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Application Lifecycle Management (ALM) with Visual Studio 2013, discussing features and updates rather than the principles of Test First Development. There are no explicit mentions of Test First practices, success criteria, or testing methodologies related to TDD or ATDD. The discussion lacks depth in relation to the core themes of Test First Development, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1255,11 +1258,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T11:12:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:47:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on Application Lifecycle Management and Visual Studio, with only brief mentions of Scrum in the context of ALM tools, lacking detailed discussion on the Scrum Master role or responsibilities.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Application Lifecycle Management and Visual Studio 2013, with only a brief mention of Scrum in the context of software development processes. It does not delve into the role or responsibilities of a Scrum Master, nor does it discuss the core themes associated with the Scrum Master role. The discussion is largely technical and does not align with the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1539,6 +1545,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the effort and expertise involved in producing a comprehensive guide on Application Lifecycle Management, which touches on the importance of competence in delivering quality outcomes. However, it primarily focuses on the book's features and updates rather than a deep exploration of competence as a principle in Agile or DevOps methodologies. The discussion lacks explicit references to continuous learning or strategies for fostering a culture of competence, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:47:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Application Lifecycle Management and Visual Studio 2013, with only brief mentions of agility in the context of software development. It does not explicitly discuss Agentic Agility or its principles, nor does it differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

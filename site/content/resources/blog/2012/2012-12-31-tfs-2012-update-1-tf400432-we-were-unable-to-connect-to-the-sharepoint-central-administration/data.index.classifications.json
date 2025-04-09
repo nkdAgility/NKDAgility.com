@@ -754,11 +754,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T16:29:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:57:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Team Foundation Server and SharePoint connectivity, with no mention of Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server and SharePoint, with no direct mention or discussion of Test First Development principles, practices, or methodologies. It lacks any reference to success criteria, testing practices, or the impact of testing on software delivery, which are core to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -841,11 +844,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T16:29:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:57:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a technical issue related to Team Foundation Server and SharePoint, with no relevance to Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on troubleshooting a specific error related to Team Foundation Server and SharePoint, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the core themes of the Scrum Master category, nor does it provide any depth on the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1485,6 +1491,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server and SharePoint, with no explicit discussion on competence, continuous learning, or skill development. While it may imply a need for technical knowledge, it does not align with the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:57:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server and SharePoint, with no explicit discussion of Agentic Agility or its principles. While there is a mention of configuration and decision-making, it does not align with the core themes of intentional shaping of outcomes or the distinction between human and AI capabilities. The depth of discussion is limited to technical steps for resolving an error, lacking any broader context or exploration of agency.",
     "level": "Ignored"
   }
 }

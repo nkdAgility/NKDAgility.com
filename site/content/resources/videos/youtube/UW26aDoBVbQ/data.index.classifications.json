@@ -394,11 +394,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T17:48:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:32:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product ownership and lean product delivery, with no clear focus on the Scrum Master role.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on product ownership and lean product delivery, with only a brief mention of concepts that could relate to the Scrum Master role, such as collaboration and continuous improvement. However, it lacks a direct discussion of the Scrum Master's responsibilities or influence, leading to a low confidence score in alignment with the category.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -430,11 +433,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T17:48:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses product ownership and lean product delivery, with no focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:32:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses product ownership and lean product delivery, with no explicit mention of Test First Development principles or practices. While it touches on collaboration and feedback loops, these concepts are not specifically tied to the Test First approach, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1566,6 +1572,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on product ownership and lean product delivery, which are not directly related to the One Engineering System framework. While there are mentions of collaboration and alignment with business goals, these concepts are discussed in the context of lean methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES category. The discussion lacks depth regarding the principles and components of 1ES, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:32:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses product ownership and lean product delivery, focusing on alignment with business goals, collaboration, and adaptability. While these themes touch on aspects of agility, they do not explicitly address the concept of Agentic Agility or the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks a clear distinction between human and AI capabilities, and does not delve into the transformative capacity of individuals or systems in a socio-technical context. Therefore, while there are relevant elements, the primary focus remains on product ownership rather than Agentic Agility.",
     "level": "Ignored"
   }
 }

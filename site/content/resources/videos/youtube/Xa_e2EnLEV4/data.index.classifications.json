@@ -499,11 +499,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T23:14:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:02:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of addressing problems and maintaining discipline in processes, with no mention of Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on the pitfalls of ignoring problems in a Kanban strategy, which is unrelated to Test First Development principles. There are no direct mentions of Test First practices, success criteria, or testing methodologies. The discussion is centred around addressing issues in workflow rather than defining success criteria before implementation, which is a core aspect of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -850,11 +853,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T23:15:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:02:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Kanban and general problem-solving behaviours, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban, discussing pitfalls and strategies for addressing problems within that framework. While it touches on themes of team dynamics and problem-solving, it does not explicitly mention the role of a Scrum Master or align with the core responsibilities and impact of a Scrum Master in a Scrum context. Therefore, the confidence score reflects minimal relevance to the Scrum Master category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1560,6 +1566,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content focuses exclusively on Kanban and its pitfalls, without any mention of the One Engineering System or its principles. While it discusses issues related to workflow and process improvement, it does not align with the core themes of 1ES, such as integration across teams or standardisation of practices. The depth of discussion is also limited to Kanban, further distancing it from the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:02:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the pitfalls of ignoring problems within a Kanban strategy, which does not align with the core themes of Agentic Agility. While it discusses the importance of addressing issues and maintaining workflows, it lacks explicit discussions on intentional shaping of outcomes, autonomy, or adaptability in the context of both human and AI systems. The content does not differentiate between human and AI capabilities, nor does it explore the transformative capacity of individuals or systems, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

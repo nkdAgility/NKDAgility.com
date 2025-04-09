@@ -370,12 +370,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T17:23:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:31:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily critiques the use of Lego in training, lacking a clear focus on Scrum Master responsibilities or practices.",
-    "level": "Ignored"
+    "final_score": 57.0,
+    "reasoning": "The content discusses the use of LEGO in Scrum training, which indirectly relates to the role of a Scrum Master in facilitating effective training and understanding of Scrum principles. However, it primarily critiques a specific teaching method rather than focusing on the broader responsibilities and impact of the Scrum Master role. While there are mentions of Scrum methodologies and the importance of maintaining a serious tone in training, the depth of discussion is limited to the critique of LEGO as a tool, lacking a comprehensive exploration of the Scrum Master's role.",
+    "level": "Tertiary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -406,11 +409,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T17:23:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the use of Lego in Scrum training, which is unrelated to Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T16:31:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the use of LEGO in Scrum training, focusing on its appropriateness and effectiveness as a teaching tool. There are no direct mentions of Test First Development principles, nor does it align with the core themes of defining success criteria or testing practices. The discussion lacks depth regarding Test First Development, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1479,6 +1485,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the use of LEGO in Scrum training, which is unrelated to the One Engineering System framework. There are no direct mentions of 1ES principles, components, or its impact on software development practices. The focus is on the appropriateness of a training tool rather than on integration or standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:31:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily critiques the use of LEGO in Scrum training, focusing on the seriousness and appropriateness of training tools rather than discussing Agentic Agility. There are no direct mentions of the category, and the discussion does not align with the core themes of intentionality, autonomy, or adaptability in shaping outcomes. The depth of discussion is minimal, as it does not explore the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

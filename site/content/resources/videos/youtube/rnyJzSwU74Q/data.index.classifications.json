@@ -538,11 +538,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile practices in general and does not focus on the specific role of a Scrum Master.",
+    "calculated_at": "2025-04-08T17:16:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile methodologies and empirical models, which are relevant to the Scrum framework, but it does not explicitly focus on the role of the Scrum Master or their specific responsibilities. While there are mentions of Agile principles that a Scrum Master would promote, the discussion lacks depth regarding the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -976,11 +979,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on the differences between Agile and traditional project management but does not discuss Test First Development or related principles.",
+    "calculated_at": "2025-04-08T17:16:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and their benefits, with no explicit mention of Test First Development principles or practices. While it touches on concepts like visibility and incremental value, these are not directly related to defining success criteria or testing practices, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1563,6 +1569,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Agile methodologies, specifically Scrum and Kanban, without discussing the One Engineering System framework or its principles. While it touches on project success and practices, it does not align with the core themes of 1ES, such as integration of tools and processes across teams or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:16:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile methodologies and their transformative power, but it does not explicitly address Agentic Agility or the intentional shaping of outcomes. While it touches on flexibility and visibility, it lacks a clear distinction between human and AI capabilities, and does not delve into the principles or mechanisms of Agentic Agility. The focus remains on general Agile practices rather than the specific concept of agency and intentionality.",
     "level": "Ignored"
   }
 }

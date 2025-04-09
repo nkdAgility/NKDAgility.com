@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:28:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:17:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Windows SharePoint Services and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation of Windows SharePoint Services and troubleshooting related issues. It does not discuss Evidence-Based Management or its key topics, nor does it provide any empirical evidence or data-informed decision-making insights. The content is largely technical and operational, lacking any connection to the principles of EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:28:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:16:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about installing a software update for SharePoint, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content is focused on installing a software update for Windows SharePoint Services and does not discuss any aspects of the Agile Product Operating Model. There are no mentions of agile methodologies, product management principles, or any related topics that align with the category.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:28:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:16:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of a software service pack for SharePoint, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation of Windows SharePoint Services 3.0 SP1, which is a specific software update. It does not discuss DevOps principles, practices, or cultural shifts. While there are mentions of troubleshooting and installation processes, these do not align with the core themes of DevOps, such as collaboration, automation, or shared accountability. The content lacks depth in discussing any DevOps-related concepts, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -691,11 +700,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:58:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:17:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the installation of SharePoint Service Pack without addressing Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation of a specific software service pack for SharePoint, with no direct mention of Continuous Delivery principles or practices. While it touches on troubleshooting and installation processes, it lacks any discussion on automation, incremental improvements, or the cultural aspects of Continuous Delivery. Therefore, it does not align with the core themes of the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1327,11 +1339,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:58:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:17:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is focused on installing a software update and does not discuss any Scrum Master-related topics or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content is focused on installing a software update for Windows SharePoint Services and does not mention the role or responsibilities of a Scrum Master. There is no discussion of Scrum principles, team dynamics, or any related topics that would align with the category. The content is entirely unrelated to Scrum or the Scrum Master role.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1354,11 +1369,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:58:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:17:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on installing Windows SharePoint Services and troubleshooting related issues, with no mention of Test First Development principles, practices, or related topics.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation of Windows SharePoint Services and troubleshooting related issues. It does not discuss Test First Development principles, success criteria, or any related testing practices. The mention of installation logs and updates is tangential and does not align with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1422,6 +1440,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the installation of a software service pack for SharePoint, with no explicit mention of the Shift-Left Strategy or its principles. It focuses on troubleshooting and user experience rather than integrating testing, security, or compliance early in the development process. Therefore, it does not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:16:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Windows SharePoint Services 3.0 SP1, discussing troubleshooting and technical details. It does not mention or align with the concept of Common Goals in Agile or DevOps, nor does it provide any depth on shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:16:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation process of Windows SharePoint Services 3.0 SP1, with minimal reference to competence or skill development. While there are mentions of familiarity with the installation process, it lacks a substantial discussion on continuous learning, quality outcomes, or fostering a culture of competence, which are key themes in the category. The overall depth of discussion regarding competence is very low, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:16:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Windows SharePoint Services 3.0 SP1, with troubleshooting tips and personal experiences. It does not discuss Continuous Improvement principles, nor does it provide insights into enhancing processes or team effectiveness. The mention of troubleshooting could be tangentially related to improvement, but it lacks depth and alignment with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:16:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation of Windows SharePoint Services 3.0 SP1, discussing troubleshooting and installation issues without any reference to Agentic Agility, intentional shaping of outcomes, or the interplay between human and AI capabilities. It lacks any relevant discussion on the principles or mechanisms of Agentic Agility.",
     "level": "Ignored"
   }
 }

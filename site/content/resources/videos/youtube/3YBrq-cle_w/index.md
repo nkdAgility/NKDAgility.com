@@ -25,9 +25,9 @@ preview: https://i.ytimg.com/vi/3YBrq-cle_w/maxresdefault.jpg
 duration: 132
 isShort: false
 tags:
+- Scrum Master
 - Professional Scrum
 - Scrum Team
-- Scrum Master
 - Agile Project Management
 - Software Development
 - Personal

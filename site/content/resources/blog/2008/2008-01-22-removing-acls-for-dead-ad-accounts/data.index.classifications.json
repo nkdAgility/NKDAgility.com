@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:01:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:09:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Active Directory and .NET programming, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of managing Active Directory permissions and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:01:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:09:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Active Directory and .NET programming, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical aspects of managing Active Directory permissions and does not mention or align with any principles of the Agile Product Operating Model. It lacks any discussion of agile methodologies, product management, or related frameworks, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -313,11 +319,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:01:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:09:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Active Directory and .NET code, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical issue related to managing Active Directory permissions and does not discuss DevOps principles, practices, or cultural shifts. While it touches on infrastructure management, it lacks explicit references to collaboration, automation, or shared accountability, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -700,11 +709,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:15:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:09:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on managing ACLs in Active Directory, unrelated to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on removing ACLs for inactive Active Directory accounts, which is a specific technical task related to infrastructure management rather than Continuous Delivery. There are no direct mentions of Continuous Delivery principles, practices, or related topics. The discussion lacks alignment with the core themes of Continuous Delivery, such as automation in deployment or rapid feedback mechanisms. Overall, the content does not provide substantial detail on Continuous Delivery, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1345,11 +1357,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:15:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:09:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on technical implementation details related to Active Directory and permissions management, without any reference to the Scrum Master role or Scrum practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical aspects of managing Active Directory permissions and does not mention or relate to the role of a Scrum Master or any Scrum-related concepts. There are no discussions on Scrum principles, team dynamics, or the responsibilities of a Scrum Master, which are essential for alignment with the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1372,11 +1387,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:15:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:09:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to removing ACLs in .NET, with no mention of Test First Development or related principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the technical implementation of removing ACLs for inactive Active Directory accounts, with no mention of Test First Development principles, success criteria, or testing practices. It focuses on troubleshooting and coding rather than any testing methodologies or practices related to Test First Development.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1440,6 +1458,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a technical issue related to managing Active Directory permissions and does not address the Shift-Left Strategy or its principles. There are no explicit mentions of integrating testing, security, or compliance early in the development process, nor does it provide any techniques or case studies related to the Shift-Left approach. The focus is on a specific coding problem rather than broader software development practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:09:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical issue related to removing ACLs for inactive Active Directory accounts. It does not discuss or align with the principles of Common Goals in Agile or DevOps, as it lacks any mention of shared objectives, team alignment, or strategic goals. The discussion is centred around a specific technical problem and its solution, which is outside the scope of the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:09:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical issue related to removing ACLs for inactive Active Directory accounts, with no explicit discussion on competence, continuous learning, or skill development. While it demonstrates a practical application of coding skills, it does not align with the core themes of competence as defined in Agile or DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:09:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical issue related to removing ACLs for inactive Active Directory accounts, with no explicit discussion of Continuous Improvement principles. While there is a mention of streamlining infrastructure, it lacks depth and alignment with the core themes of Continuous Improvement, such as empirical evidence, experimentation, or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:09:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of removing ACLs from Active Directory accounts, with no explicit discussion of Agentic Agility or its principles. While there is a mention of problem-solving and adapting code, it does not align with the core themes of intentionality, autonomy, or the transformative capacity of individuals or systems. The content lacks depth in discussing the interplay between human judgement and AI logic, and does not provide any case studies or examples related to Agentic Agility.",
     "level": "Ignored"
   }
 }

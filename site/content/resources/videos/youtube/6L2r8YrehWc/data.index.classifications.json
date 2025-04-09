@@ -394,14 +394,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T17:36:36",
+    "calculated_at": "2025-04-08T16:35:05",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
-    "ai_alignment": 35,
-    "ai_depth": 30,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
     "final_score": 80.0,
-    "reasoning": "The content explicitly discusses the role and responsibilities of a Scrum Master, focusing on their influence rather than authority, which aligns closely with the core themes of the category. It provides a detailed exploration of the Scrum Master's role in fostering team dynamics and building trust, demonstrating a strong understanding of the responsibilities and practices essential for effective Scrum leadership.",
+    "reasoning": "The content explicitly discusses the role and influence of the Scrum Master, highlighting their responsibilities and the distinction between authority and influence. It aligns well with the core themes of the category, providing a detailed exploration of the Scrum Master's impact on team dynamics and organisational change. The depth of discussion is significant, covering various aspects of the Scrum Master's role, which justifies a high confidence score.",
     "level": "Secondary"
   },
   "Agile Planning": {
@@ -439,11 +439,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T18:22:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and influence of the Scrum Master within Agile teams, without any mention of Test First Development or related testing practices.",
+    "calculated_at": "2025-04-08T16:35:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role and influence of the Scrum Master within the Scrum framework, focusing on leadership and team dynamics rather than the principles of Test First Development. There are no direct mentions of Test First practices, success criteria, or testing methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1590,6 +1593,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the role of the Scrum Master within the Scrum framework, discussing leadership and influence rather than the integration and standardisation of engineering processes as outlined in the One Engineering System. There are no direct mentions of 1ES principles, components, or its impact on software quality or delivery timelines, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:35:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of the Scrum Master in fostering team effectiveness and influence without authority, which touches on aspects of agency and accountability. However, it primarily focuses on Scrum practices rather than explicitly addressing Agentic Agility as defined. The discussion lacks depth in exploring the intentional shaping of outcomes and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

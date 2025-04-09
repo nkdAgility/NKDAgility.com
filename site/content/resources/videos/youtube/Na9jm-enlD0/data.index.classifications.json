@@ -529,11 +529,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T04:19:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:34:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses consensus in product development and decision-making processes, with no clear focus on Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the dynamics of consensus in product development, focusing on decision-making and collaboration rather than the principles of Test First Development. There are no direct mentions of success criteria, testing practices, or the importance of automated testing, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -871,14 +874,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T22:04:47",
+    "calculated_at": "2025-04-08T16:33:58",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses consensus in product development, which is relevant to team dynamics and decision-making but does not specifically address the role of a Scrum Master or Scrum practices. While it touches on collaboration and facilitation, it lacks direct references to Scrum ceremonies or the responsibilities of a Scrum Master.",
+    "reasoning": "The content discusses consensus in product development, which is relevant to team dynamics and decision-making, areas that a Scrum Master may influence. However, it does not explicitly mention the Scrum Master role or its specific responsibilities, leading to a low confidence score. The discussion is more focused on general product development rather than the Scrum framework or the Scrum Master's impact.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1605,6 +1608,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the concept of consensus in product development, which is not directly related to the One Engineering System framework. While it touches on collaboration and decision-making, it lacks explicit references to 1ES principles, components, or implementation practices. The focus is on consensus rather than the integration and standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:33:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses consensus in product development, which touches on decision-making and collaboration but does not explicitly address Agentic Agility or its principles. While there are elements of autonomy and adaptability in the context of consensus, the focus is primarily on the dynamics of agreement rather than the intentional shaping of outcomes through agency. The discussion lacks depth in exploring the distinctions between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

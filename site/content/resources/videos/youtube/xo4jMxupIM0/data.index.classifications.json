@@ -193,11 +193,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Scrum Master training and collaboration, with no clear discussion on Test First Development, TDD, or related testing practices.",
+    "calculated_at": "2025-04-08T16:20:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices and double-loop learning rather than discussing Test First Development principles. While it touches on collaboration and iterative processes, it does not explicitly mention success criteria, automated testing, or the core concepts of Test First Development.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -664,14 +667,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T20:56:24",
+    "calculated_at": "2025-04-08T16:20:59",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
-    "ai_alignment": 35,
-    "ai_depth": 30,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 20,
     "final_score": 80.0,
-    "reasoning": "The content explicitly discusses the role of a Scrum Master and the immersive training experience designed to enhance their skills. It covers key themes such as collaboration, continuous improvement, and practical application of Scrum principles, which align well with the responsibilities of a Scrum Master. The depth of discussion is significant, providing insights into double-loop learning and the importance of diverse perspectives in Scrum practices. Overall, the content is highly relevant to the Scrum Master category.",
+    "reasoning": "The content explicitly discusses the role of a Scrum Master and the importance of immersive learning in enhancing their effectiveness. It aligns well with key topics such as continuous improvement, collaboration, and the practical application of Scrum principles. The depth of discussion is significant, providing insights into double-loop learning and the challenges Scrum Masters face, which reinforces the primary focus on the Scrum Master role.",
     "level": "Secondary"
   },
   "Enterprise Agility": {
@@ -1599,6 +1602,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum practices and the Professional Scrum Master (PSM) immersive learning experience, which are not directly related to the One Engineering System framework. While there are mentions of collaboration and learning, these concepts are framed within the context of Scrum rather than the integration and standardisation of engineering processes as outlined in the 1ES category. Therefore, the content does not meet the criteria for a strong alignment with the One Engineering System.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:20:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses double-loop learning, which is a component of Agentic Agility, but it primarily focuses on Scrum practices and immersive learning experiences. While it touches on reflection and collaboration, it does not explicitly address the intentional shaping of outcomes or differentiate between human and AI capabilities in the context of agility. The discussion lacks depth in exploring the broader implications of Agentic Agility, resulting in a moderate confidence score.",
     "level": "Ignored"
   }
 }

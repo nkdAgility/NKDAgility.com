@@ -499,11 +499,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T21:11:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:48:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses self-organization within Scrum teams, which is not directly related to Test First Development principles. There are no explicit mentions of testing practices, success criteria, or the importance of automated testing, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -844,14 +847,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T09:51:02",
-    "ai_confidence": 68.0,
+    "calculated_at": "2025-04-08T15:48:54",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 18.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the concept of self-organization within Scrum teams, which is relevant to the role of the Scrum Master in facilitating team autonomy. However, it lacks detailed exploration of the Scrum Master's specific responsibilities, techniques for coaching, or best practices for Scrum ceremonies, leading to a moderate confidence score.",
+    "final_score": 67.0,
+    "reasoning": "The content explicitly mentions the Scrum Master and discusses their role in facilitating self-organization within Scrum teams. This aligns with the core themes of the category, particularly regarding the Scrum Master's responsibilities in guiding teams. However, the discussion lacks depth and does not cover broader aspects of the Scrum Master's influence or techniques, which limits the overall confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1557,6 +1560,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily discusses self-organization within Scrum teams, which is a specific methodology rather than the broader One Engineering System framework. While it touches on collaboration and autonomy, it lacks direct references to 1ES principles, components, or its impact on software quality and delivery timelines. The discussion is too focused on Scrum to align closely with the core themes of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:48:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions autonomy in the context of self-organizing teams, which aligns with the concept of Agentic Agility. However, it lacks a deeper exploration of intentional shaping of outcomes, the distinction between human and AI capabilities, and does not address the broader implications of Agentic Agility. The focus is primarily on Scrum practices rather than a comprehensive discussion of the category.",
     "level": "Ignored"
   }
 }

@@ -1153,11 +1153,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T03:05:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:29:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content mainly discusses logging Elmah errors into Team Foundation Server and does not touch upon Test First Development or related practices such as Test-Driven Development (TDD), writing tests prior to implementation, or any Agile principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses logging errors in Team Foundation Server using Elmah, which does not directly relate to Test First Development principles. While there are mentions of work items and error handling, there is no focus on defining success criteria, automated testing practices, or the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1240,11 +1243,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T03:05:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:29:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses implementation details of logging errors in TFS and does not focus on Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on logging errors in Team Foundation Server and does not discuss the role, responsibilities, or impact of a Scrum Master. There are no direct mentions of Scrum or related concepts, and the content lacks depth in any relevant discussions pertaining to Scrum Master practices.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1521,6 +1527,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on technical implementation details for logging errors in Team Foundation Server using Elmah. While it touches on aspects of error tracking and development processes, it lacks a direct discussion on competence, continuous learning, or skill development. The mention of enhancing the development process is too vague to be considered a strong alignment with the principles of competence as defined in Agile and DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:29:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical implementation details for logging errors in Team Foundation Server using Elmah, without discussing the intentional shaping of outcomes, autonomy, or adaptability. While it touches on work item creation and management, it does not align with the core themes of Agentic Agility, such as the role of intent or the interplay between human judgement and AI logic.",
     "level": "Ignored"
   }
 }

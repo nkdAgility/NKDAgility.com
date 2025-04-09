@@ -1147,11 +1147,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:54:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:20:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on troubleshooting Active Directory and Team Foundation Server synchronization issues, with no mention or discussion of Test First Development or related testing methodologies.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses issues related to syncing Active Directory groups with Team Foundation Server, focusing on troubleshooting and configuration rather than any principles or practices of Test First Development. There are no direct mentions of success criteria, testing practices, or the role of testing in the development process, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1234,11 +1237,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:54:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:20:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a technical issue regarding Active Directory groups and Team Foundation Server, with no relation to the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to syncing Active Directory with Team Foundation Server, with no direct mention of Scrum Master responsibilities, roles, or related concepts. It lacks any discussion on agile principles, team dynamics, or coaching, which are central to the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1512,6 +1518,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on troubleshooting a technical issue related to Active Directory and Team Foundation Server, with no explicit discussion on competence, continuous learning, or skill development. While it touches on problem-solving and collaboration with a colleague, these aspects do not align with the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:20:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to syncing Active Directory groups with Team Foundation Server, focusing on troubleshooting and solutions. It does not engage with the concept of Agentic Agility, nor does it explore themes of intentionality, autonomy, or adaptability in the context of human or AI agency.",
     "level": "Ignored"
   }
 }

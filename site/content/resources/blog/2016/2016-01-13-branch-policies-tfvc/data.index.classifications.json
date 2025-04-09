@@ -922,11 +922,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T22:59:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:36:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses branch policies and source control management rather than Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses branch policies for TFVC and does not explicitly mention Test First Development or its principles. While there are references to code quality and checks, these are not directly related to the Test First approach, which focuses on defining success criteria and testing practices. The discussion lacks depth in terms of Test First methodologies, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1006,11 +1009,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T22:59:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:36:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses TFVC branch policies and technical implementation, with no clear relevance to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on branch policies for TFVC and does not discuss the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum practices, team dynamics, or agile principles, which are essential for alignment with the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1536,6 +1542,18 @@
     "non_ai_confidence": 20,
     "final_score": 24.0,
     "reasoning": "The content primarily focuses on branch policies for TFVC and does not explicitly discuss the One Engineering System framework or its principles. While there are mentions of improving code quality and streamlining development processes, these are not directly tied to the integration and standardisation of engineering practices as outlined in the 1ES category. The discussion lacks depth regarding the core themes of 1ES, such as collaboration across teams or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:36:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses branch policies for TFVC and does not explicitly address Agentic Agility or its key themes. While there are mentions of intent and policies, they are not framed within the context of intentional shaping of outcomes or the distinction between human and AI capabilities. The focus is on technical implementation rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

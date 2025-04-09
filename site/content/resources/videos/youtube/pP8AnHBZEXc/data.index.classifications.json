@@ -517,12 +517,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:46:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content is an invitation for an open Q&A session covering various topics, including DevOps and Agility, without a specific focus on Scrum Master roles or responsibilities.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T17:25:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the Professional Scrum Foundations class and the PSM I assessment, which includes mentions of Scrum roles, including the Scrum Master. However, while it touches on the responsibilities of the Scrum Master, the primary focus is on the training class and assessment rather than an in-depth exploration of the Scrum Master's role itself. The content provides some relevant insights but lacks a comprehensive discussion on the Scrum Master's impact and techniques, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -928,11 +931,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:46:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a general Q&A session regarding various topics in DevOps and Agile, without specifically addressing Test First Development or its principles.",
+    "calculated_at": "2025-04-08T17:25:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the Professional Scrum Foundations class and the PSM I assessment, discussing Scrum principles and practices without any explicit mention of Test First Development or its core concepts. While it touches on Agile methodologies, it does not delve into the specifics of defining success criteria or the importance of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Professional Scrum Foundations class and the PSM I assessment, discussing Scrum principles and practices rather than the One Engineering System framework. While there are mentions of collaboration and team dynamics, these are framed within the context of Scrum, which is not aligned with the core themes of 1ES. The depth of discussion is centred on Scrum training rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:25:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum principles and practices, with no explicit discussion of Agentic Agility or its key topics. While it touches on teamwork and training, it lacks depth in exploring the intentional shaping of outcomes or the distinction between human and AI capabilities in agility.",
     "level": "Ignored"
   }
 }

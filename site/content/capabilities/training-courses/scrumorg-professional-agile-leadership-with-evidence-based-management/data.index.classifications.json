@@ -361,12 +361,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T00:42:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T17:18:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses concepts related to Agile leadership and briefly mentions Scrum Masters as part of the target audience, but it is primarily focused on Evidence-Based Management rather than the specific role and responsibilities of a Scrum Master.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses a course on Professional Agile Leadership and Evidence-Based Management, which is related to agile principles but does not focus specifically on the role of the Scrum Master. While it mentions the need for understanding Scrum, it does not delve into the responsibilities or impact of a Scrum Master, nor does it provide detailed insights into their role within a Scrum Team. The primary focus is on leadership skills and business agility rather than the specific functions of a Scrum Master.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -397,11 +400,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T00:42:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Evidence-Based Management in Agile leadership, with no clear focus on Test First Development or related principles.",
+    "calculated_at": "2025-04-08T17:18:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on Agile leadership and Evidence-Based Management, with no direct mention or discussion of Test First Development principles, practices, or methodologies. It does not address success criteria, testing practices, or the role of testing in software development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Professional Agile Leadership - Evidence-Based Management (PAL-EBM) course, which is centred around Agile leadership and customer value rather than the One Engineering System framework. While there are elements of improving organisational performance and agility, these do not directly relate to the principles or components of 1ES. The discussion lacks explicit mentions of 1ES, integration of tools and processes, or best practices for implementing a unified engineering system, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:18:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions concepts related to agility and value creation, but it does not explicitly discuss Agentic Agility or its principles. While it touches on the importance of adapting to customer needs and improving outcomes, it lacks a focused exploration of intentional shaping of outcomes, the distinction between human and AI capabilities, or the mechanisms of Agentic Agility. The discussion is more aligned with general Agile practices rather than the specific category of Agentic Agility.",
     "level": "Ignored"
   }
 }

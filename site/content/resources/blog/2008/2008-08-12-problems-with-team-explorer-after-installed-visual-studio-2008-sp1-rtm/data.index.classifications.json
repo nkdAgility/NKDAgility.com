@@ -73,11 +73,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T12:18:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:44:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Team Explorer and Visual Studio, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses troubleshooting issues with Team Explorer in Visual Studio 2008 SP1 RTM, which is not directly related to DevOps principles or practices. While it touches on version control, it lacks a focus on the collaborative, automated, and continuous delivery aspects of DevOps. The mention of version control is too brief and does not explore the cultural or philosophical elements of DevOps.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -109,11 +112,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T12:18:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:44:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Team Explorer and Visual Studio, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to Team Explorer and Visual Studio 2008, with no direct mention or alignment to the Agile Product Operating Model. It focuses on troubleshooting and does not address any principles or practices related to agile methodologies or product management.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -166,11 +172,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T12:19:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:44:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Visual Studio 2008 and Team Explorer, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to Team Explorer and Visual Studio 2008 SP1, with no mention of Evidence-Based Management principles or metrics. It focuses on troubleshooting and personal experiences rather than data-informed decision-making or strategic management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -886,11 +895,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:01:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:45:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Visual Studio 2008 and Team Explorer, which are not about Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses troubleshooting issues with Team Explorer after installing Visual Studio 2008 SP1 RTM, which is unrelated to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion does not align with the core themes of the category, such as automation, rapid feedback, or software quality. The depth of discussion is minimal and focused on a specific technical issue rather than the broader context of Continuous Delivery.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1048,11 +1060,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:01:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:44:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about issues related to Visual Studio and Team Explorer, and does not discuss Test First Development or related principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses troubleshooting issues with Team Explorer after installing Visual Studio 2008 SP1 RTM. It does not mention Test First Development or its principles, nor does it align with the core themes of success criteria, testing practices, or collaboration in software development. The focus is on resolving a specific technical problem rather than on any testing methodologies.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1243,11 +1258,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:01:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:45:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Team Explorer and Visual Studio installation, with no focus on Scrum Master responsibilities or Scrum practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to Visual Studio 2008 and Team Explorer, with no direct mention of Scrum or the role of a Scrum Master. It does not align with the core themes of the category, such as Scrum principles, team dynamics, or coaching. The depth of discussion is focused on troubleshooting software rather than any aspect of Scrum methodology.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1431,6 +1449,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a technical issue related to Team Explorer and Visual Studio 2008 SP1, with no explicit mention of the Shift-Left Strategy or its principles. It focuses on troubleshooting and does not address integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T19:44:42",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on troubleshooting issues with Team Explorer after installing Visual Studio 2008 SP1 RTM. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it mention shared objectives or strategic alignment. The discussion is technical and specific to a software issue, lacking any connection to the broader themes of collaboration or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T19:44:45",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to Visual Studio 2008 SP1 and Team Explorer. While it touches on problem-solving, it does not explicitly discuss competence, continuous learning, or skill development in Agile or DevOps contexts. The mention of accessing version control is relevant but does not align with the core themes of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T19:44:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific issue with Team Explorer after installing Visual Studio 2008 SP1 RTM. While it mentions attempts to resolve the problem, it does not discuss Continuous Improvement principles, nor does it provide insights into processes, team effectiveness, or empirical evidence. The content lacks depth and does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:44:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses troubleshooting issues with Team Explorer after installing Visual Studio 2008 SP1 RTM. It does not mention Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes, autonomy, or adaptability. The focus is on resolving a technical problem rather than engaging with the concepts of agency and intentionality in socio-technical environments.",
     "level": "Ignored"
   }
 }

@@ -535,11 +535,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:35:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:50:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on configuring release management in Team Foundation Server, which is unrelated to the role and responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on TFS release management and does not mention the Scrum Master role or its responsibilities. While it discusses aspects of team configuration and troubleshooting, it lacks any direct connection to Scrum principles or the role of a Scrum Master, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -946,11 +949,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:35:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses configuration for release management in Team Foundation Server (TFS) without reference to Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T17:50:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on configuring release management in TFS, with no explicit discussion of Test First Development principles or practices. While it touches on troubleshooting and setup processes, it lacks any mention of success criteria, testing methodologies, or the importance of testing in the development cycle, which are core to Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1506,6 +1512,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the technical aspects of configuring TFS release management, with limited direct discussion on competence as a foundational principle. While it touches on troubleshooting and structured approaches, it lacks a deeper exploration of continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:50:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of configuring TFS release management, with no explicit discussion of Agentic Agility or its principles. While there are elements of adaptability and problem-solving, they are not framed within the context of intentional agency or the transformative capacity of individuals or systems. The content lacks depth in exploring the interplay between human judgement and AI logic, and does not provide case studies or examples related to Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T01:35:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses challenges in adopting DevOps practices, focusing on risk management and feedback loops, without a clear emphasis on Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T15:52:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses DevOps practices and challenges, with a focus on risk management and feedback loops. While it touches on the importance of testing in production, it does not explicitly address Test First Development principles or practices, nor does it provide in-depth discussion on success criteria or automated testing methodologies like TDD or ATDD.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -862,11 +865,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T01:36:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:52:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses challenges related to adopting DevOps practices, with no clear focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on DevOps practices and challenges, with no direct mention of the Scrum Master role or its responsibilities. While there are themes of feedback and continuous improvement that could conceptually align with agile principles, the discussion does not delve into the specific responsibilities or impact of a Scrum Master within a Scrum Team. Therefore, the confidence score reflects a very low alignment with the category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1611,6 +1617,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses DevOps practices and challenges, with no direct mention of the One Engineering System (1ES). While it touches on themes of integration and feedback loops, these are framed within the context of DevOps rather than the specific principles or components of 1ES. The discussion lacks depth regarding 1ES, focusing instead on the evolution of risk management in a DevOps environment.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:52:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses DevOps practices and challenges, focusing on risk management and feedback loops rather than the intentional shaping of outcomes through agency and adaptability. While it touches on concepts like flexibility and continuous improvement, it does not explicitly address Agentic Agility or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

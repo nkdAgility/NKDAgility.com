@@ -1312,14 +1312,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-11T17:19:58",
-    "ai_confidence": 82.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
+    "calculated_at": "2025-04-08T15:39:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content explicitly discusses Test-Driven Development (TDD) as a core principle, highlighting its importance in creating maintainable architectures and reducing complexity. It aligns well with the key themes of Test First Development, such as writing tests before code and the benefits of improved code quality. The depth of discussion is substantial, covering both TDD and pair programming, and how they contribute to a better development process. Overall, the content is focused on TDD, making it a strong fit for the category.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on Test-Driven Development (TDD), which is a key aspect of Test First Development. It discusses the principles of TDD, such as defining tests before writing code, which aligns well with the core themes of the category. The depth of discussion is substantial, covering the benefits of TDD and pair programming in enhancing code quality and architecture. However, while TDD is a significant part of Test First Development, the content does not extensively cover other aspects like manual testing practices or the broader implications of Test First on collaboration, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Automated Testing": {
@@ -1375,11 +1375,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:40:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses software development practices (TDD and pair programming) without a focus on the Scrum Master role or related responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on test-driven development (TDD) and pair programming, with no direct mention of the Scrum Master role or its responsibilities. While it touches on team dynamics and productivity, it does not align with the core themes of the Scrum Master category, such as coaching, mentoring, or facilitating within a Scrum context. The discussion lacks depth regarding the Scrum Master's influence on organisational change or agility.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1539,6 +1542,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on test-driven development (TDD) and pair programming, which are specific methodologies rather than discussions on the One Engineering System (1ES). While there are mentions of improving code quality and collaboration, these concepts are not directly tied to the principles or components of 1ES. The discussion lacks depth regarding the integration of tools and processes across teams, which is a core aspect of 1ES. Overall, the content does not align with the key topics outlined for the One Engineering System category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:39:55",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses test-driven development (TDD) and pair programming, focusing on software quality and architecture rather than the intentional shaping of outcomes through agency and adaptability. While there are elements of collaboration and strategic choices, the discussion lacks a clear connection to the principles of Agentic Agility, such as intent, accountability, and the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

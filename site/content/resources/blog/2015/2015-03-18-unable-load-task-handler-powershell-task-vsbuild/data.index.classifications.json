@@ -1156,11 +1156,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T22:20:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:38:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to setting up a build system and troubleshooting errors, with no focus on Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses troubleshooting a specific error related to Team Foundation Server's build system, with no direct mention of Test First Development principles or practices. While it touches on build processes, it does not align with the core themes of defining success criteria, automated testing, or collaboration among team members, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1243,11 +1246,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T22:20:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:38:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and build processes, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting a technical issue related to Team Foundation Server and does not discuss the role, responsibilities, or impact of a Scrum Master. There are no direct mentions of Scrum principles or practices, and the discussion lacks depth regarding any Scrum-related topics.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1536,6 +1542,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server (TFS) and does not discuss the principles, components, or implementation of the One Engineering System. While it mentions build systems, it lacks a direct connection to the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:38:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is technical and procedural, lacking any depth or alignment with the themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

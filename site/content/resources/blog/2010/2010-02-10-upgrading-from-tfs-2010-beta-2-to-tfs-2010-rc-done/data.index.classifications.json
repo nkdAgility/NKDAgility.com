@@ -1150,11 +1150,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:02:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:25:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server, with no focus on Test First Development or its principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the upgrade process of TFS 2010 and does not mention Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or focus on the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1240,11 +1243,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:02:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:26:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses upgrading Team Foundation Server (TFS) and technical steps involved, with only a loose mention of Scrum in tags, but zero focus on Scrum Master roles or responsibilities.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical upgrade process of TFS 2010, with minimal mention of Scrum or the role of a Scrum Master. While there is a brief reference to Scrum in the tags and a mention of Scrum training, the main discussion does not align with the responsibilities or impact of a Scrum Master, nor does it delve into any relevant techniques or practices associated with the role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1518,6 +1524,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the technical process of upgrading TFS, with minimal direct discussion of competence or skill development. While it implies a level of expertise in executing the upgrade, it does not delve into continuous learning or the broader implications of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:25:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading TFS and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category.",
     "level": "Ignored"
   }
 }

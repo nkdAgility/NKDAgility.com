@@ -1174,11 +1174,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T10:42:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:45:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses TFS process template migration, focusing on the steps for migrating and customizing templates rather than on Test First Development principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the migration of TFS process templates and does not explicitly mention Test First Development principles, success criteria, or testing practices. While it touches on Agile processes, it lacks a focus on the Test First approach, making it only tangentially related.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1264,11 +1267,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T10:42:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:45:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses TFS process template migration and technical implementation details, with only brief mentions of a Scrum template, lacking a central focus on Scrum Master responsibilities or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the migration of TFS process templates, including references to Scrum templates. However, it primarily focuses on technical implementation rather than the role, responsibilities, or impact of a Scrum Master. While Scrum is mentioned, the discussion lacks depth in exploring the Scrum Master's influence on team dynamics or agile principles, making it a secondary mention rather than a primary focus.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1548,6 +1554,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating TFS process templates, with limited direct discussion on competence or continuous skill development. While it touches on the importance of getting the migration steps right, it lacks a deeper exploration of how these processes contribute to team competence or quality outcomes. The mention of 'best efforts' and 'commitment' hints at professionalism, but overall, the content does not sufficiently align with the core themes of competence as defined in the classification criteria.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:45:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating TFS process templates and does not explicitly discuss Agentic Agility or its principles. While there are mentions of Agile processes, they do not align with the intentional shaping of outcomes or the distinction between human and AI capabilities in the context of agility. The discussion lacks depth regarding the transformative capacity of individuals or systems, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

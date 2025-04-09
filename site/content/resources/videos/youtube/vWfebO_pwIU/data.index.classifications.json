@@ -526,14 +526,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-07T14:08:10",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "calculated_at": "2025-04-08T17:05:00",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the progression of Scrum Masters and the importance of passion and continuous learning in their roles. It touches on the responsibilities of Scrum Masters in fostering team effectiveness and generating value, which aligns with the core themes of the category. However, the discussion lacks depth in specific Scrum practices and techniques, focusing more on personal growth and motivation rather than detailed Scrum methodologies or ceremonies.",
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses the role of the Scrum Master, focusing on their responsibilities and the importance of passion in professional growth. It aligns well with the core themes of the category, such as continuous improvement and the Scrum Master's impact on team effectiveness. The depth of discussion is significant, providing strategies for enhancing Scrum Master skills and emphasising the importance of engagement and learning. Overall, the content is highly relevant to the Scrum Master category.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -940,11 +940,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:22:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:04:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and the importance of passion in professional growth, with no direct mention of Test First Development principles or practices. While it discusses learning and improvement, it does not align with the core themes of Test First Development, such as success criteria, automated testing, or TDD. The discussion lacks depth regarding any testing methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1506,6 +1509,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the role of Scrum Masters and their professional growth, discussing the importance of passion and personal development rather than the One Engineering System framework. There are no direct mentions of 1ES principles, components, or its impact on software quality or delivery timelines. The discussion is centred around Scrum methodologies, which are not aligned with the core themes of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:04:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of passion and personal growth for Scrum Masters, which touches on themes of autonomy and adaptability. However, it lacks a direct focus on Agentic Agility as defined, particularly in terms of intentional shaping of outcomes and the distinction between human and AI capabilities. The discussion is more centred on personal development within Scrum rather than the broader implications of Agentic Agility.",
     "level": "Ignored"
   }
 }

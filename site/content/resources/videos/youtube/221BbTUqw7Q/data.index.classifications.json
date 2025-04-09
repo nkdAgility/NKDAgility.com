@@ -505,11 +505,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T11:55:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum principles and practices, with no mention of Test First Development or related testing methodologies.",
+    "calculated_at": "2025-04-08T16:40:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum principles and practices, with no direct mention or discussion of Test First Development. While it touches on aspects of Scrum that may relate to testing indirectly, it does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices. The depth of discussion is also minimal regarding the Test First approach.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -844,14 +847,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T22:36:49",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-04-08T16:40:01",
+    "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
-    "ai_depth": 25,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses key takeaways from an APS immersive learning experience, focusing on Scrum principles and practices. It directly mentions Scrum and its core fundamentals, aligning well with the responsibilities of a Scrum Master. However, while it provides valuable insights, it lacks in-depth exploration of the Scrum Master's specific role in facilitating these practices, which slightly lowers the depth score.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on insights gained from an APS immersive learning experience, which is directly related to Scrum principles and practices. It discusses the importance of understanding Scrum fundamentals, navigating challenges in Scrum implementation, and clarifying core practices, all of which align well with the responsibilities and impact of a Scrum Master. The depth of discussion is substantial, providing specific takeaways that reflect on the role of Scrum in fostering effective teams. However, while the content is relevant, it does not explicitly mention the Scrum Master role itself, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1563,6 +1566,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum and the APS immersive learning experience, which are not directly related to the One Engineering System framework. While it discusses principles and practices of Scrum, it does not address the integration or standardisation of engineering processes as outlined in the 1ES category. The discussion lacks depth regarding 1ES, and there are no direct mentions or relevant comparisons to the One Engineering System.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:39:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices and insights from an immersive learning experience, with no explicit discussion of Agentic Agility or its principles. While it touches on themes of adaptability and personal reflection, these are framed within the context of Scrum rather than the intentional shaping of outcomes as defined by Agentic Agility.",
     "level": "Ignored"
   }
 }

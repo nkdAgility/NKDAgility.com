@@ -811,11 +811,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T20:55:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:35:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses professionalism in the software industry and critiques poor practices, without a focus on Test First Development or related testing methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses professionalism in the software industry and critiques the lack of understanding of Scrum practices. While it touches on the need for better software delivery, it does not explicitly mention Test First Development principles, success criteria, or testing practices. The focus is more on general agile values and professionalism rather than the specific practices of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -892,15 +895,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T03:48:51",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-04-08T17:35:41",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses professionalism in the software industry and touches on Scrum practices, but it does not focus specifically on the role of the Scrum Master or provide in-depth insights into Scrum ceremonies or coaching techniques. While it mentions Scrum, it does so in a broader context of industry professionalism rather than the specific responsibilities and practices of a Scrum Master.",
-    "level": "Ignored"
+    "final_score": 57.0,
+    "reasoning": "The content discusses professionalism in the software industry and mentions Scrum, but it does not focus specifically on the role of the Scrum Master or their responsibilities. While it touches on values relevant to Scrum, such as commitment and respect, the primary focus is on the broader concept of professionalism rather than the specific duties or impact of a Scrum Master.",
+    "level": "Tertiary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1587,6 +1590,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses professionalism in the software industry and critiques the misuse of Scrum practices, which does not align with the core principles of the One Engineering System. While it touches on values relevant to software development, it lacks direct references to 1ES, integration of tools, or standardisation of processes, making it peripheral to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:35:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses professionalism in the software industry and critiques the 'kalabule' mindset, but it does not explicitly address Agentic Agility or its principles. While it touches on values like courage and respect, which could relate to agency, the focus is primarily on the need for professionalism rather than the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth in exploring the mechanisms of Agentic Agility or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

@@ -85,11 +85,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-13T19:49:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:39:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on technical debt and its impact on value delivery, without specific reference to the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses technical debt and its management, which is relevant to Scrum teams but does not explicitly focus on the role of the Scrum Master. While it touches on themes of team empowerment and agile practices, it lacks a direct examination of the Scrum Master's responsibilities or influence within a Scrum context.",
     "level": "Ignored"
   },
   "Scaling Kanban": {
@@ -547,11 +550,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T19:50:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:39:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical debt and its implications for value delivery, without a focus on Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses technical debt and its management, with no direct mention of Test First Development principles or practices. While it touches on quality and team dynamics, it does not align with the core themes of defining success criteria or the specific practices of Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). The focus is on addressing technical debt rather than on testing methodologies or the importance of testing in the development process.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1545,6 +1551,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on technical debt and its management, discussing strategies for improving product quality and team morale. While it touches on themes relevant to software development, it does not explicitly mention or align with the principles of the One Engineering System framework, nor does it discuss integration or standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:39:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of addressing technical debt and fostering a high-quality product mindset, which aligns with the concept of agility. However, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. The focus is more on general Agile practices and the benefits of managing technical debt rather than on intentional shaping of outcomes through autonomy and adaptability.",
     "level": "Ignored"
   }
 }

@@ -154,20 +154,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:22:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:51:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a new service from Microsoft and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a video service from Microsoft and does not mention Evidence-Based Management or its key topics. There is no alignment with the core themes of EBM, and the depth of discussion is non-existent regarding data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:22:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:51:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a new service from Microsoft and does not relate to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a video service from Microsoft and does not mention or align with any principles of the Agile Product Operating Model. There are no references to agile methodologies, product management, or related concepts, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -307,11 +313,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:23:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:51:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a new service from Microsoft and its comparison to YouTube, with no focus on DevOps principles, practices, or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a video service from Microsoft and its technical implementation details, with no direct mention of DevOps principles, practices, or cultural shifts. It lacks any alignment with the core themes of DevOps, such as collaboration, automation, or shared accountability, and does not provide any depth on these topics.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -685,11 +694,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:53:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:51:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a video service called Soapbox, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a video service from Microsoft and its implementation details, with no direct mention or alignment to Continuous Delivery principles, practices, or discussions. It lacks any depth or relevant context related to software delivery practices.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1315,11 +1327,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:53:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:51:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is entirely focused on a Microsoft service and unrelated to Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a video service from Microsoft and does not mention the Scrum Master role or any related concepts. There is no discussion of Scrum principles, responsibilities, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1342,11 +1357,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:53:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:51:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content expresses opinions about a Microsoft service and does not discuss Test First Development or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a video service from Microsoft and its implementation details, with no mention of Test First Development principles, success criteria, or testing practices. It does not align with the core themes of the category, nor does it provide any depth on the subject matter.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1410,6 +1428,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a Microsoft service called Soapbox and its functionality, with no mention of software development processes, testing, security, or compliance. It does not align with the Shift-Left Strategy, which focuses on integrating these critical processes early in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:51:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a video service from Microsoft and its technical implementation, with no mention of Agile, DevOps, or the concept of Common Goals. It lacks any alignment with the core themes of the category, focusing instead on a product review and technical details.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:51:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a video service from Microsoft and its technical implementation, with no direct mention of competence, continuous learning, or skill development. It lacks alignment with the core themes of the competence category, focusing instead on product features and functionality without any depth related to professional development or quality delivery.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:51:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a video service from Microsoft and its technical implementation, with no mention or alignment to Continuous Improvement principles. It lacks any discussion on processes, team effectiveness, or empirical evidence, which are core to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:51:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a video service from Microsoft and its technical implementation, with no mention of Agentic Agility or its principles. There is no alignment with the core themes of intentionality, autonomy, or adaptability, nor does it provide any depth on the subject matter.",
     "level": "Ignored"
   }
 }

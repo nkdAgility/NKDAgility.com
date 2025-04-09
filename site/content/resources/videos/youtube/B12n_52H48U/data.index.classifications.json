@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T09:25:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:35:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses decision-making in Agile contexts, specifically around pivoting or staying the course, without any focus on Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of a product owner in Agile project management, focusing on decision-making, adaptability, and team engagement. It does not mention Test First Development, success criteria, or any testing practices, which are central to the category. The discussion is more about general Agile principles rather than the specific practices of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -856,14 +859,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T22:13:14",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
+    "calculated_at": "2025-04-08T16:35:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
-    "reasoning": "The content primarily focuses on the role of the Product Owner and does not directly address the responsibilities or practices of a Scrum Master. While it touches on Agile principles, it lacks specific discussions about Scrum ceremonies, team dynamics, or the Scrum Master's role in facilitating processes.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner within Agile project management, which is not the same as the Scrum Master role. While it touches on Agile principles and decision-making, it does not explicitly mention the Scrum Master or their responsibilities. The discussion lacks depth regarding the specific impact and techniques of a Scrum Master, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1600,5 +1603,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Agile project management and the role of a product owner, discussing decision-making in product management rather than the principles or components of the One Engineering System. While it touches on themes of adaptability and feedback, it does not explicitly mention 1ES or its integration and standardisation aspects, leading to a low confidence score.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:35:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 25,
+    "ai_depth": 34,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses decision-making in Agile project management, highlighting the importance of adaptability, reflection, and alignment with strategic goals. While it touches on themes relevant to Agentic Agility, such as the proactive nature of decision-making and the need for a mindset open to change, it does not explicitly differentiate between human and AI capabilities or delve deeply into the mechanisms of AI Agentic Agility. The focus remains primarily on human practices within Agile, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

@@ -523,11 +523,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T04:01:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:07:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of product owners and the APSPOA course, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the APSPOA course and its role in product ownership and leadership within Agile, without any direct reference to Test First Development principles or practices. While it touches on Agile methodologies, it does not address success criteria, testing practices, or the importance of defining criteria before implementation, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -862,11 +865,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T04:02:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:07:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of Product Owners and the APSPOA course, with minimal focus on the Scrum Master role.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner and the APSPOA course, with only brief mentions of Scrum and Agile principles. While it touches on leadership and team alignment, it does not delve into the specific responsibilities or impact of the Scrum Master role, which is the primary focus of the category. The discussion lacks depth regarding Scrum Master techniques, influence on team dynamics, or distinctions from other roles, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1596,6 +1602,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the APSPOA course and its role in product ownership within Agile frameworks, without discussing the One Engineering System or its principles. While it touches on leadership and product direction, it does not align with the core themes of 1ES, such as integration of tools and processes across teams or standardisation in software development practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:07:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the role of product owners and the APSPOA course, which touches on aspects of leadership and decision-making. However, it lacks a direct focus on the principles of Agentic Agility, such as intentional shaping of outcomes and the distinction between human and AI capabilities. The discussion is more about Agile practices and tools rather than a deep exploration of agency and intentionality.",
     "level": "Ignored"
   }
 }

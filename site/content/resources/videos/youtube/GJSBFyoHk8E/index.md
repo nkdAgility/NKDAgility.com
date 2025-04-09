@@ -35,10 +35,10 @@ tags:
 - Scrum Team
 - Agile Planning
 - Agile Project Management
-- Scrum Master
 - Professional Scrum
 - Agile Frameworks
 - Pragmatic Thinking
+- Software Developers
 resourceTypes:
 - video
 categories:

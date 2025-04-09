@@ -508,12 +508,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not address Scrum Master roles, responsibilities, or related practices; it instead discusses individual experiences related to training and resistance to training initiatives.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T17:33:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of understanding Scrum processes and their impact on team dynamics and collaboration, which aligns well with the responsibilities of a Scrum Master. It highlights the transformative power of Scrum and the need for process awareness, which are key themes in the Scrum Master role. However, while it touches on the Scrum framework and its benefits, it does not delve deeply into the specific responsibilities or techniques of a Scrum Master, leading to a slightly lower depth score.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -919,11 +922,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:33:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses training responses and individuals' concerns, without reference to Test First Development or related practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum and process improvement rather than Test First Development. While it touches on collaboration and delivery, it lacks explicit references to success criteria, automated testing, or Test-Driven Development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1473,6 +1479,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses Scrum, which is a specific Agile methodology, rather than the broader principles of the One Engineering System (1ES). While it touches on process improvement and collaboration, it does not explicitly mention 1ES or its components. The focus is on individual experiences and insights related to Scrum, which does not align closely with the core themes of 1ES, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:33:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum and process improvement, with a focus on individual experiences rather than the intentional shaping of outcomes through agency. While it touches on themes of collaboration and understanding processes, it lacks a clear distinction between Human and AI Agentic Agility and does not delve into the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

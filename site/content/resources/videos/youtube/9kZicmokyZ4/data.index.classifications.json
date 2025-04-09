@@ -1366,11 +1366,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T15:05:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:09:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on evidence-based management and measuring impact in Agile environments, but does not address Test First Development or its principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management in Agile environments, focusing on metrics and decision-making rather than the principles of Test First Development. While it touches on the importance of measuring success, it does not explicitly mention Test First practices, success criteria, or the role of testing in the development process.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1432,11 +1435,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T15:05:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:09:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on evidence-based management in Agile environments, which is not specifically related to the role or responsibilities of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses evidence-based management in Agile environments, which is relevant to Scrum but does not focus specifically on the role of the Scrum Master. While it touches on decision-making and continuous improvement—key themes for Scrum Masters—the primary focus is on EBM rather than the responsibilities or influence of a Scrum Master. Therefore, it lacks direct mentions and depth regarding the Scrum Master role.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1593,6 +1599,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on Evidence-Based Management (EBM) within Agile environments, which is not directly related to the One Engineering System (1ES). While it discusses metrics and decision-making processes, it does not address the principles, components, or implementation of 1ES. The discussion is centred on Agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:09:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses evidence-based management in Agile environments, which touches on the importance of data-driven decision-making and adaptability. However, it does not explicitly address the concept of Agentic Agility or differentiate between human and AI capabilities. The focus is more on general Agile practices rather than the intentional shaping of outcomes through agency.",
     "level": "Ignored"
   }
 }

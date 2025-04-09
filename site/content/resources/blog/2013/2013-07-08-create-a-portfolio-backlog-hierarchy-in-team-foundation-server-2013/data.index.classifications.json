@@ -1207,11 +1207,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:58:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:56:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on creating a portfolio backlog hierarchy in Team Foundation Server and customizing work item types, with no mention or discussion of Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server 2013, detailing steps for configuration and customisation. It does not discuss Test First Development principles, success criteria, or testing practices, which are central to the category. The mention of testing is minimal and not aligned with the Test First approach.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1288,11 +1291,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:58:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:56:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical aspects of configuring a Portfolio Backlog hierarchy in Team Foundation Server and does not discuss Scrum Master roles, responsibilities, or related Scrum practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server 2013, which is a technical guide related to project management tools rather than discussing the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum Master responsibilities, techniques, or the impact on team dynamics, which are key topics in the Scrum Master category. The content lacks depth in discussing Scrum principles or the Scrum Master's role, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1578,6 +1584,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on technical instructions for creating a Portfolio Backlog hierarchy in Team Foundation Server 2013. While it touches on aspects of Agile planning and project management, it lacks a direct discussion on competence as defined in the classification. The mention of enhancing agile planning suggests a slight alignment with competence, but the depth of discussion on continuous learning, skill development, or fostering a culture of competence is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:56:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for creating a Portfolio Backlog hierarchy in Team Foundation Server 2013. While it touches on aspects of project management and agile planning, it does not explicitly discuss Agentic Agility or its principles. The content lacks a clear connection to the intentional shaping of outcomes, intent, accountability, or the interplay between human judgement and AI logic, which are central to the category of Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -190,11 +190,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T16:24:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:36:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses estimation and forecasting in software projects without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses software estimation and probabilistic forecasting, which are relevant to agile project management but do not specifically address the role or responsibilities of a Scrum Master. While there are elements that touch on agile principles, the primary focus is on estimation techniques rather than the Scrum Master's influence or practices.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1078,11 +1081,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T16:26:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses estimation and forecasting in software projects, with no clear focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T15:36:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses software estimation and probabilistic forecasting, which are not directly related to Test First Development principles. While it touches on project management and confidence in delivery, it lacks explicit references to success criteria, testing practices, or the Test First approach. Therefore, it does not align well with the category.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1581,6 +1587,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses software estimation and probabilistic forecasting, which are not directly related to the One Engineering System framework. While it touches on project management practices, it does not explicitly mention 1ES principles, components, or integration of tools and processes across teams. The discussion lacks depth regarding the core themes of 1ES, such as standardisation and collaboration across engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:36:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses probabilistic forecasting in software project management, which touches on adaptability and decision-making but lacks a direct focus on Agentic Agility. While it mentions the need for a flexible approach and confidence in outcomes, it does not explicitly address the intentional shaping of outcomes or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

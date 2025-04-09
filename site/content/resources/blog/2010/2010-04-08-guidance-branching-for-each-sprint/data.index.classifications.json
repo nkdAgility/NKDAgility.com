@@ -1198,11 +1198,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:28:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:23:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses branching strategies in Scrum and version control, with no focus on Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses branching strategies within Scrum and version control, with no explicit mention of Test First Development principles or practices. While it touches on aspects of collaboration and project management, it does not align with the core themes of defining success criteria or testing methodologies central to Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1279,14 +1282,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T07:07:09",
+    "calculated_at": "2025-04-08T19:23:43",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
     "final_score": 57.0,
-    "reasoning": "The content discusses branching strategies in the context of Scrum teams, which is relevant to the Scrum Master role. However, it primarily focuses on technical aspects of version control rather than the responsibilities or practices of a Scrum Master. While it mentions Scrum and the importance of merging work for Sprint Reviews, it lacks depth in exploring the Scrum Master's role in facilitating these processes or coaching the team. Therefore, while there is some alignment, the primary focus remains on technical implementation rather than Scrum Master responsibilities.",
+    "reasoning": "The content discusses branching strategies in the context of Scrum sprints, which is relevant to Scrum practices. However, it primarily focuses on technical aspects of version control rather than the role and responsibilities of a Scrum Master. While it mentions Scrum teams and the importance of merging work for Sprint Review, it lacks a detailed exploration of the Scrum Master's influence, coaching techniques, or team dynamics, which are crucial for a higher confidence score in this category.",
     "level": "Tertiary"
   },
   "Transparency": {
@@ -1575,6 +1578,18 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses branching strategies in Scrum, which indirectly relates to competence through the lens of effective practices in software development. However, it primarily focuses on technical implementation rather than the broader themes of continuous learning, skill development, or fostering a culture of competence. While there are mentions of the importance of a good branching strategy, the depth of discussion does not fully align with the core principles of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:23:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses branching strategies in Scrum and version control, which are not directly related to the concept of Agentic Agility. While there are mentions of team collaboration and project management, the focus is on technical practices rather than the intentional shaping of outcomes through autonomy and adaptability. There is no clear distinction made between human and AI capabilities, nor is there a discussion on the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }
 }

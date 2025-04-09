@@ -508,11 +508,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:24:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum Master roles, responsibilities, or coaching methodologies, focusing instead on a general topic about embracing agility.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses agility and the challenges posed by traditional management philosophies like Taylorism, but it does not explicitly mention the role of the Scrum Master or delve into specific responsibilities associated with that position. While it touches on themes relevant to agile practices, such as autonomy and collaboration, it lacks a focused discussion on the Scrum Master's influence or techniques. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -913,11 +916,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:24:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily promotes a meetup session about challenging Taylorism and assessing Agile practices, with no substantial focus on Test First Development.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concept of Taylorism and its impact on agility in the workplace, with no direct mention of Test First Development or its principles. While it touches on themes of collaboration and innovation, it does not delve into success criteria, testing practices, or the specifics of Test First Development, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the concept of Taylorism and its impact on agility, without any direct mention or focus on the One Engineering System framework. While it touches on themes of collaboration and innovation, it does not align with the core principles of 1ES, such as standardisation and integration of software development practices. The discussion is more about challenging existing methodologies rather than implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:24:44",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of autonomy and creativity in the workplace, which aligns with the principles of Agentic Agility. However, it primarily critiques Taylorism and does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. The discussion on metrics and collaboration touches on relevant themes but lacks depth in exploring the intentional shaping of outcomes or the mechanisms of AI Agentic Agility.",
     "level": "Ignored"
   }
 }

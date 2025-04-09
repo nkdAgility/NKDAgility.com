@@ -508,11 +508,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T01:48:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of temperance in Agile, focusing on backlog management and minimising effort, without addressing Test First Development or related testing practices.",
+    "calculated_at": "2025-04-08T16:17:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of temperance in Agile practices, focusing on backlog management and efficiency rather than the principles of Test First Development. There are no direct mentions of success criteria, automated testing, or Test-Driven Development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -856,15 +859,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T20:38:10",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-04-08T16:17:05",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses Agile principles and practices, particularly focusing on backlog management and the concept of 'just enough and no more', which aligns with Scrum practices. However, it does not explicitly mention the role of the Scrum Master or delve deeply into Scrum ceremonies or team dynamics, which are crucial aspects of the Scrum Master role. The discussion is relevant but lacks direct references to the responsibilities and techniques specific to Scrum Masters.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile principles and practices, including backlog management and the importance of balance, which are relevant to Scrum. However, it does not explicitly focus on the role of the Scrum Master or their specific responsibilities, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1566,6 +1569,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Agile practices and the concept of temperance within that framework. While it touches on principles relevant to software development, it does not explicitly discuss the One Engineering System (1ES) or its components, integration, or best practices. The discussion is centred around Agile methodologies rather than the standardisation and integration of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:17:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of temperance in Agile practices, focusing on moderation and efficiency rather than the intentional shaping of outcomes through agency. While it touches on themes of balance and prioritisation, it does not explicitly address Agentic Agility or differentiate between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

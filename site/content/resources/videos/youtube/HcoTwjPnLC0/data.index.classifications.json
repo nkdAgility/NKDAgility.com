@@ -382,11 +382,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:29:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of a Product Owner and does not focus on the responsibilities or practices of a Scrum Master.",
+    "calculated_at": "2025-04-08T16:55:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the distinction between the roles of a Product Owner and an Agile Project Manager, with only a brief mention of the Scrum Master role. While it touches on Agile principles, it does not delve into the responsibilities or impact of a Scrum Master, which is the primary focus of the category. The discussion lacks depth regarding Scrum Master techniques or their influence on team dynamics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -424,11 +427,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:29:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the roles and responsibilities of a product owner in Agile, with no mention of Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:55:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the roles of a Product Owner and an Agile Project Manager, focusing on their differences and responsibilities within the Agile framework. It does not mention Test First Development, success criteria, or any related testing practices, which are essential for alignment with the category. The discussion lacks depth regarding Test First principles, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1539,6 +1545,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the roles of Product Owners and Agile Project Managers within the Agile framework, which is not directly related to the One Engineering System. While it touches on Agile principles, it does not address the integration or standardisation of engineering processes, nor does it provide any insights into the 1ES framework or its implementation.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:55:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the distinction between a Product Owner and an Agile Project Manager, focusing on roles and responsibilities within Agile practices. It does not address the intentional shaping of outcomes, nor does it explore the concepts of autonomy, adaptability, or alignment with value as defined in Agentic Agility. The discussion lacks depth and relevance to the core themes of the category.",
     "level": "Ignored"
   }
 }

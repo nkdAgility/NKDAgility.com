@@ -445,11 +445,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:14:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the skills required for product owners to foster understanding within teams, which is unrelated to Test First Development practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the skills and strategies for product owners to enhance team understanding and communication. It does not explicitly mention Test First Development or its principles, nor does it discuss success criteria, testing practices, or the impact of testing on collaboration. The content is more aligned with general product ownership and team dynamics rather than the specific practices of Test First Development.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -820,11 +823,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:14:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of a Product Owner and skills to enhance team understanding, rather than focusing on the responsibilities and practices of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner rather than a Scrum Master. While it touches on team dynamics and communication, which are relevant to Scrum, it does not explicitly discuss the responsibilities or impact of a Scrum Master. The discussion lacks depth in terms of Scrum-specific practices and the unique role of a Scrum Master in facilitating team effectiveness.",
     "level": "Ignored"
   },
   "Scrum Product Development": {
@@ -1527,6 +1533,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the skills and strategies for product owners to enhance team communication and understanding, which does not directly address the principles or components of the One Engineering System. While there are elements of team dynamics that could tangentially relate to collaboration, the discussion lacks explicit references to 1ES, its integration of tools and processes, or best practices for its implementation.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:13:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of understanding and communication within teams, which touches on aspects of agency and adaptability. However, it lacks explicit references to Agentic Agility, such as intentional shaping of outcomes or the distinction between human and AI capabilities. The focus is primarily on interpersonal skills rather than the broader implications of agency in socio-technical environments.",
     "level": "Ignored"
   }
 }

@@ -1147,11 +1147,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:01:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:56:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses an error in Team Foundation Server and configuration issues, which is unrelated to Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to configuring Planning Tools in TFS 2013, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any alignment with the core themes of Test First Development, such as TDD or ATDD, and does not provide any depth on the topic. Therefore, it is classified with a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1234,11 +1237,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:01:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:56:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Team Foundation Server (TFS) and process templates, with no focus on Scrum Master roles, responsibilities, or relevant practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to Team Foundation Server (TFS) and configuring planning tools, with no direct discussion of the Scrum Master role or its responsibilities. While it briefly mentions the Visual Studio Scrum 3.0 process template, it does not delve into the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles. The content lacks depth and does not provide substantial information relevant to the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1509,6 +1515,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on resolving a specific technical error related to TFS 2013 and configuring Planning Tools. While it touches on aspects of process templates and team fields, it does not explicitly discuss competence, continuous learning, or skill development. The mention of customising process templates could be seen as a minor reference to competence, but it lacks depth and does not align with the core themes of the category. Overall, the content is more technical and procedural rather than focused on the principles of competence in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:56:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to TFS 2013 and configuring Planning Tools. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The content lacks any mention of intentional shaping of outcomes, adaptability, or alignment with values, which are core to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

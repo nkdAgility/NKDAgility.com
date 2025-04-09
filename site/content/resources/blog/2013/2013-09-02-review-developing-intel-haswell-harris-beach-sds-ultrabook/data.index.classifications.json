@@ -1123,11 +1123,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T11:53:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:52:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a review of a laptop and its performance for development, with no mention of Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on a review of a specific laptop and its performance for development purposes, without any discussion of Test First Development principles, success criteria, or testing methodologies. It does not mention TDD, ATDD, or any related practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1210,11 +1213,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T11:53:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:52:58",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses a laptop review and development experience, with no mention of Scrum Master responsibilities or related topics.",
+    "reasoning": "The content focuses entirely on a product review of the Intel Haswell Harris Beach SDS Ultrabook, discussing its performance, features, and development tips for Windows applications. There are no mentions or discussions related to the role, responsibilities, or impact of a Scrum Master, nor does it touch on any Scrum-related concepts or practices. Therefore, it does not align with the category of Scrum Master in any meaningful way.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1488,6 +1494,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on reviewing a specific laptop and its performance for development purposes, rather than discussing competence in the context of Agile, Scrum, or DevOps methodologies. While there are mentions of development and tools, they do not explicitly address continuous learning, skill development, or the professional principles associated with competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:52:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a product review of the Intel Haswell Harris Beach SDS Ultrabook, discussing its performance and features for developers. There are no explicit mentions of Agentic Agility, nor does it explore the intentional shaping of outcomes, autonomy, or adaptability in a socio-technical context. The discussion lacks depth in relation to the principles and mechanisms of Agentic Agility, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

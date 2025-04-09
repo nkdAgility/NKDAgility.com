@@ -1132,11 +1132,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:13:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:55:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses domain migration with TFS, focusing on identity management rather than Test First Development principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the technical aspects of domain migration using TFS and does not mention Test First Development principles, success criteria, or testing practices. It lacks any focus on testing methodologies or the importance of defining criteria before implementation, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1222,11 +1225,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:13:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:55:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details related to domain migration with TFS, with no reference to Scrum Master roles, responsibilities, or Scrum practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of domain migration using TFS and does not discuss the role, responsibilities, or impact of a Scrum Master. There are no direct mentions of Scrum or related concepts, and the discussion lacks depth in any relevant themes associated with the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1497,6 +1503,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the technical process of migrating users between domains using TFS, with limited discussion on the underlying principles of competence. While it touches on the importance of careful management and avoiding pitfalls, it does not delve into continuous learning, skill development, or fostering a culture of competence, which are key aspects of the category. The discussion is more procedural than reflective on competence as a foundational principle.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:55:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating users between domains using TFS, with no explicit discussion of Agentic Agility principles. While it touches on user management and identity preservation, it lacks a clear connection to intentional shaping of outcomes, autonomy, or adaptability in a socio-technical context. The discussion does not differentiate between human and AI capabilities, nor does it explore the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

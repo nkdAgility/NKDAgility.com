@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T10:23:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:07:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Lean and Scrum methodologies, focusing on workflow and project management rather than Test First Development principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of completing tasks and avoiding multitasking within Agile and Scrum frameworks. While it touches on concepts relevant to team efficiency and productivity, it does not explicitly mention Test First Development principles, success criteria, or testing practices. The focus is more on workflow management and prioritisation rather than on testing methodologies or the Test First approach.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -877,14 +880,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T19:45:39",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-04-08T16:07:09",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses the importance of focusing on completing tasks within Scrum teams and highlights the role of the Product Owner in managing priorities, which is relevant to the Scrum Master’s responsibilities. However, it lacks a direct focus on the Scrum Master role itself and does not delve deeply into specific Scrum Master practices or techniques, leading to a moderate confidence score.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of focusing on completing tasks within a Scrum context, highlighting the role of the Product Owner and the principles of limiting work in progress (WIP). However, it primarily centres on productivity and efficiency rather than the specific responsibilities and influence of the Scrum Master. While it touches on Scrum principles, the depth of discussion regarding the Scrum Master role itself is limited.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1611,6 +1614,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses Agile methodologies, specifically Scrum and Lean, focusing on the importance of task completion over multitasking. While it touches on some principles that could align with the One Engineering System, such as efficiency and prioritisation, it does not explicitly discuss the 1ES framework or its components. The discussion is more centred on Agile practices rather than the integration and standardisation of engineering processes as defined by 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:07:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses productivity and efficiency in Agile practices, particularly focusing on the importance of completing tasks rather than starting new ones. However, it does not explicitly mention Agentic Agility or its principles. While there is some alignment with the concept of intentionality in work processes, the discussion lacks depth regarding the distinction between human and AI capabilities, and it primarily revolves around general Agile practices rather than the specific transformative capacity of agency.",
     "level": "Ignored"
   }
 }

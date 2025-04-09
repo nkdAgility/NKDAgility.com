@@ -361,11 +361,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T07:21:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:22:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on an executive-level understanding of Scrum rather than the specific role and responsibilities of a Scrum Master.",
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions Scrum and its adoption, which aligns with the role of a Scrum Master in facilitating understanding and implementation. However, it primarily targets executives and decision-makers rather than focusing on the Scrum Master's responsibilities or techniques. The depth of discussion is limited, as it does not delve into the specific roles or impact of a Scrum Master within a Scrum Team.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -397,11 +400,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T07:21:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:22:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum for Executives and focuses on Scrum principles, roles, and practices without mentioning Test First Development or related topics.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and its adoption by executives, with no direct mention of Test First Development principles or practices. While there may be some indirect relevance to collaboration and team activities, it lacks any discussion on success criteria, testing methodologies, or the importance of defining criteria before implementation, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on Scrum, a specific agile methodology, rather than discussing the One Engineering System (1ES). While it touches on roles and adoption, it does not address the principles, integration, or best practices of 1ES, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:22:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and its adoption, with no explicit discussion of Agentic Agility or its principles. While it addresses roles and responsibilities, it does not delve into the intentional shaping of outcomes or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

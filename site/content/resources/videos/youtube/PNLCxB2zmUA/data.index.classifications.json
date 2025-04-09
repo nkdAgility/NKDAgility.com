@@ -1216,11 +1216,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content does not provide a clear discussion on the role or responsibilities of a Scrum Master; it focuses more on architectural adaptation with unrelated tags.",
+    "calculated_at": "2025-04-08T15:32:05",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses the importance of adapting to changing demands in software development and architectural adaptation, but it does not explicitly mention the role of a Scrum Master or align closely with the core themes of the category. While it touches on team dynamics and fostering a culture of adaptability, it lacks depth in discussing the specific responsibilities and impact of a Scrum Master within a Scrum framework.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1372,11 +1375,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-04-08T15:32:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses architectural adaptation and the importance of incremental changes in software development, without any direct mention or focus on Test First Development principles. While it touches on themes of adaptability and long-term vision, it does not align with the core concepts of defining success criteria or the practices of Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). Therefore, the confidence score reflects a very low relevance to the Test First Development category.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses architectural adaptation and team dynamics in software development but does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on themes of collaboration and long-term vision, it lacks a direct focus on the integration and standardisation of engineering processes that characterise 1ES. The case study provided is relevant but does not connect to the broader framework of 1ES, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:31:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses adaptability and long-term vision in software development, which aligns with some principles of Agentic Agility. However, it lacks explicit mentions of the category and does not differentiate between human and AI capabilities. The focus is more on architectural adaptation rather than intentional shaping of outcomes, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

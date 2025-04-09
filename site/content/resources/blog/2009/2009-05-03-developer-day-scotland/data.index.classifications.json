@@ -1147,11 +1147,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:32:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses various software development topics such as refactoring, MVVM, and dynamic languages but does not focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses various sessions from a developer event, focusing on topics like refactoring, dynamic languages, and design patterns (MVVM). There is no explicit mention of Test First Development principles, success criteria, or testing practices. The content lacks depth in discussing any related concepts, making it largely irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1231,11 +1234,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:33:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses developer sessions and technical topics such as refactoring, coding patterns, and dynamic languages, with no focus on Scrum Master responsibilities or related discussions.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a developer event discussing technical topics such as refactoring, dynamic languages, and design patterns, with no explicit mention of the Scrum Master role or its responsibilities. While there are references to iterative processes and team dynamics, these are not directly tied to the Scrum framework or the specific role of a Scrum Master, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1516,5 +1522,17 @@
     "final_score": 60.0,
     "reasoning": "The content discusses various sessions at Developer Day Scotland that focus on technical skills and knowledge enhancement, particularly in refactoring, dynamic languages, and design patterns. While it does not explicitly mention 'competence', it aligns with the core themes of continuous learning and skill development. The depth of discussion on the importance of refactoring and architectural integrity suggests a commitment to quality outcomes, which is a key aspect of competence. However, the primary focus remains on specific technical topics rather than a broader discussion of competence as a principle.",
     "level": "Tertiary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:32:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical sessions related to software development, such as refactoring and design patterns, without explicitly discussing Agentic Agility or its principles. While there are mentions of improving coding practices and collaboration, these do not align with the core themes of intentionality and agency in shaping outcomes, which are central to Agentic Agility.",
+    "level": "Ignored"
   }
 }

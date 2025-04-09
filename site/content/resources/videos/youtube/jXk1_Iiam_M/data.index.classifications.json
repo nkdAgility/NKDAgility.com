@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T05:33:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:20:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses immersive learning and Scrum Master training, with no focus on Test First Development or related testing practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on immersive learning and Scrum training, with no direct discussion of Test First Development principles or practices. While it touches on concepts like the Definition of Done, it does not align with the core themes of Test First Development, such as defining success criteria before implementation or the role of automated testing. The content lacks depth in relation to the Test First approach, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -871,14 +874,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T15:18:20",
+    "calculated_at": "2025-04-08T16:20:17",
     "ai_confidence": 87.0,
-    "ai_mentions": 4,
-    "ai_alignment": 85.0,
-    "ai_depth": 90.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
     "final_score": 80.0,
-    "reasoning": "The content focuses extensively on the role of Scrum Masters, particularly in the context of immersive learning and practical application of Scrum principles. It discusses specific responsibilities, such as facilitating discussions around the Definition of Done, and highlights the importance of real-time feedback and knowledge sharing among Scrum Masters. The depth of discussion is significant, providing concrete examples and strategies that directly relate to the Scrum Master role, thus aligning well with the category's core themes.",
+    "reasoning": "The content primarily focuses on the role of the Scrum Master in the context of immersive learning, discussing how this training method enhances their effectiveness. It explicitly mentions the Scrum Master role multiple times and provides detailed examples of how they can apply concepts like the Definition of Done. The discussion aligns well with the responsibilities and impact of the Scrum Master, particularly in fostering a culture of continuous improvement and knowledge sharing. However, while the content is rich in practical applications, it could delve deeper into the broader implications of the Scrum Master's influence on organisational change.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1605,6 +1608,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on immersive learning in the context of Scrum training, which is not directly related to the One Engineering System framework. While it discusses team development and practical assignments, it does not address the principles, integration, or standardisation of engineering processes that are central to 1ES. The discussion is more about training methodologies rather than the integration of tools and processes across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:20:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses immersive learning in the context of Scrum training, focusing on practical application and real-time feedback. However, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. While there are elements of autonomy and adaptability in the learning process, the primary focus remains on training methodologies rather than the intentional shaping of outcomes as defined by Agentic Agility.",
     "level": "Ignored"
   }
 }

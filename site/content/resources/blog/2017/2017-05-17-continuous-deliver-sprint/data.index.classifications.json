@@ -1195,11 +1195,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T19:27:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:34:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of Sprints in Scrum and continuous delivery, without focusing on Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of Sprints in Scrum and continuous delivery, without any direct mention or exploration of Test First Development principles. While it touches on aspects of planning and feedback loops, it does not delve into success criteria, testing practices, or the role of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1276,14 +1279,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T03:45:42",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-04-08T17:34:30",
+    "ai_confidence": 82.0,
     "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 35,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses the role of Sprints within the Scrum framework, highlighting their importance in facilitating communication, predictability, and planning. It directly references Scrum ceremonies such as Sprint Planning, Daily Scrum, Sprint Review, and Sprint Retrospective, which are crucial for a Scrum Master. The depth of discussion on how Sprints contribute to the Scrum process and team dynamics aligns well with the responsibilities of a Scrum Master, although it does not focus explicitly on the Scrum Master's role itself.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the role of Sprints within the Scrum framework, highlighting their importance for communication, predictability, and planning. It aligns well with the responsibilities of a Scrum Master in facilitating these processes. The depth of discussion on Sprints and their impact on team dynamics and agile practices indicates a strong focus on Scrum principles, although it does not explicitly mention the Scrum Master role itself. Overall, the content effectively addresses key themes relevant to the Scrum Master category.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1584,6 +1587,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum methodology and its relationship with continuous delivery, which does not align with the core principles of the One Engineering System. While it touches on aspects of software delivery and team communication, it lacks a focus on the integration and standardisation of engineering processes that define 1ES. The discussion is centred around Scrum practices rather than the broader framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:34:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of Sprints in Scrum and continuous delivery, focusing on communication, predictability, and planning. It does not explicitly address the concept of Agentic Agility or its key themes such as intentional shaping of outcomes, the distinction between human and AI capabilities, or the mechanisms of AI Agentic Agility. The discussion is more aligned with general Agile practices rather than the specific intentionality and agency aspects outlined in the category definition.",
     "level": "Ignored"
   }
 }

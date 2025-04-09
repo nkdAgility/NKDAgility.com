@@ -193,11 +193,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T16:06:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:36:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of Minimum Viable Products (MVPs) and entrepreneurship, without a clear focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on funding products and entrepreneurial strategies rather than discussing the role or responsibilities of a Scrum Master. While there are mentions of team dynamics and iterative processes, these are not explicitly tied to Scrum practices or the Scrum Master's role. The discussion lacks depth in relation to Scrum principles and does not address the specific responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1102,11 +1105,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T16:09:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of Minimum Viable Products (MVPs) and entrepreneurship, with no clear focus on Test First Development or related testing practices.",
+    "calculated_at": "2025-04-08T15:36:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on funding products and entrepreneurial strategies rather than discussing Test First Development principles. While it touches on concepts like experimentation and validation, it does not explicitly mention or align with Test First practices such as TDD or success criteria in software development.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1623,6 +1629,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on funding products and entrepreneurial strategies rather than discussing the One Engineering System framework or its principles. While it touches on aspects of product development, it does not align with the core themes of integration, standardisation, or best practices related to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:35:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the entrepreneurial mindset and the importance of iterating on ideas, which aligns with the concept of adaptability in Agentic Agility. However, it lacks explicit mentions of Agentic Agility and does not differentiate between human and AI capabilities. The focus is more on funding and product development rather than the intentional shaping of outcomes through agency.",
     "level": "Ignored"
   }
 }

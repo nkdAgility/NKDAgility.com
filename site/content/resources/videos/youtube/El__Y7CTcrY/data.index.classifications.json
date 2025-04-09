@@ -1252,11 +1252,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T15:05:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning in Scrum training and does not address Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T16:06:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses immersive learning techniques in Scrum training, focusing on teaching methods rather than the principles of Test First Development. While it touches on iterative learning and reflection, it does not explicitly mention success criteria, testing practices, or the core concepts of Test First Development.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1318,12 +1321,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T15:05:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:07:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the immersive learning experience in training, which is not specific to the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "final_score": 71.0,
+    "reasoning": "The content discusses immersive learning in the context of teaching Scrum, which aligns with the role of a Scrum Master in facilitating effective learning and understanding of Scrum principles. However, while it touches on Scrum principles and the teaching approach, it does not delve deeply into the specific responsibilities or broader impact of a Scrum Master, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1476,6 +1482,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on immersive learning techniques within Scrum training, discussing teaching methods rather than the principles or components of the One Engineering System. While it briefly touches on Scrum principles, it does not align with the core themes of 1ES, such as integration of tools or processes across teams, nor does it provide depth on the implementation or impact of a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:06:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses immersive learning in Scrum training, focusing on teaching methods rather than the intentional shaping of outcomes through agency and agility. While it touches on principles like iteration and reflection, it does not explicitly address Agentic Agility or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

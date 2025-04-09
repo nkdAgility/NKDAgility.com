@@ -526,11 +526,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T13:43:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:01:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the application of Scrum and its principles, focusing on adaptability and resilience in project management, without any mention of Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the application of Scrum and the importance of adaptability and resilience in product development. While it touches on elements of the Scrum framework, it does not explicitly mention Test First Development or its principles, such as defining success criteria or the role of testing in the development process. The focus is more on Scrum philosophy rather than the specific practices of Test First Development, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -871,14 +874,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T19:18:47",
+    "calculated_at": "2025-04-08T16:01:40",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 36,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
     "final_score": 75.0,
-    "reasoning": "The content extensively discusses the practical application of Scrum principles, particularly in the context of a mentoring programme. It highlights the role of Scrum in facilitating team dynamics, adaptability, and resilience, which are core responsibilities of a Scrum Master. The narrative includes specific references to Scrum events and the importance of flexibility over rigid adherence to rules, aligning well with the key topics of the category. The depth of discussion is significant, providing insights into real-world challenges and the Scrum framework's adaptability, which are essential for a Scrum Master’s role.",
+    "reasoning": "The content extensively discusses the application of Scrum principles and the role of Scrum in fostering adaptability and resilience within teams. It highlights the importance of empirical decision-making and the Scrum framework, which aligns well with the responsibilities of a Scrum Master. The narrative includes specific examples of Scrum events and challenges faced by teams, demonstrating a deep understanding of Scrum's impact on team dynamics and stakeholder engagement. However, while the Scrum Master role is implied, it is not explicitly the primary focus, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1611,6 +1614,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on Scrum, discussing its principles and practices in a specific context (Minecraft), which does not align with the One Engineering System framework. While it touches on adaptability and resilience, it lacks direct references to 1ES, its components, or its implementation. The discussion is more about Scrum as a methodology rather than the integration and standardisation of engineering processes as required by the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:01:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses adaptability and resilience within the context of Scrum, which aligns with some principles of Agentic Agility. However, it primarily focuses on Scrum practices rather than explicitly addressing the intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals and systems in a socio-technical environment, leading to a moderate confidence score.",
     "level": "Ignored"
   }
 }

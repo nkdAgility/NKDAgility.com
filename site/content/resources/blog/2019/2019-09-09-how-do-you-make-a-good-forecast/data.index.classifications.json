@@ -1195,11 +1195,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T18:18:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:30:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses forecasting in Agile projects and does not address Test First Development or related testing practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses forecasting in agile projects and the use of metrics for predictability, which does not directly relate to Test First Development principles. While it touches on agile methodologies, it lacks explicit references to Test First practices, success criteria, or testing methodologies. The focus is on project management and budgeting rather than on testing or development practices.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1276,12 +1279,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T17:30:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of forecasting within an Agile context, touching on metrics and team dynamics relevant to Scrum, but it primarily focuses on forecasting rather than the Scrum Master role specifically.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses forecasting in agile projects and touches on Scrum principles, but it primarily focuses on metrics and budget planning rather than the specific role and responsibilities of a Scrum Master. While there are references to Scrum teams and the transition towards agility, the discussion lacks a deep exploration of the Scrum Master's influence or techniques for coaching and facilitating within a Scrum context.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1584,6 +1590,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on agile project management and Scrum practices, discussing forecasting and metrics rather than the One Engineering System framework. While it touches on aspects of predictability and team dynamics, it does not explicitly mention 1ES or its principles, nor does it provide a detailed exploration of integration and standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:30:15",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses forecasting in agile projects, focusing on metrics and budget planning. While it touches on aspects of predictability and organisational transition towards agility, it lacks a direct discussion on Agentic Agility principles such as intentional shaping of outcomes, autonomy, or the interplay between human and AI capabilities. The mention of transitioning from project-based to product-based budgeting hints at a broader organisational agility context but does not delve into the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

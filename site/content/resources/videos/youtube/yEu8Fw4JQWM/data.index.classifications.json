@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T22:21:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:59:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the principles of Kanban and the importance of managing work in progress, with no mention of Test First Development or related testing practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concept of 'Less is More' in the context of Agile and Kanban methodologies, focusing on productivity and workflow efficiency. It does not mention Test First Development, success criteria, or any testing practices, which are central to the category. The discussion is more about managing work in progress rather than the principles of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -859,11 +862,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T22:22:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:59:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Kanban principles and work in progress, with no clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the concept of 'Work in Progress' (WIP) and its implications for productivity, which aligns more closely with Kanban principles rather than the specific role and responsibilities of a Scrum Master. While it briefly mentions Agile and hints at Scrum, the focus is not on the Scrum Master role or its impact on team dynamics or organisational change. The discussion lacks depth regarding the Scrum Master's responsibilities, techniques, or influence, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1599,6 +1605,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses the concept of 'Work in Progress' (WIP) within Agile and Kanban methodologies, focusing on productivity and efficiency through minimalism. It does not mention the One Engineering System (1ES) framework, its principles, or its components. The discussion is centred around Agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:59:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concept of 'Less is More' in the context of WIP (Work in Progress) and focuses on productivity and efficiency in Agile methodologies. While it touches on themes of task management and workflow optimisation, it does not explicitly address Agentic Agility or its key topics such as intentional shaping of outcomes, the distinction between human and AI capabilities, or the role of intent and accountability. The discussion is more aligned with general Agile practices rather than the specific concept of agency and intentionality.",
     "level": "Ignored"
   }
 }

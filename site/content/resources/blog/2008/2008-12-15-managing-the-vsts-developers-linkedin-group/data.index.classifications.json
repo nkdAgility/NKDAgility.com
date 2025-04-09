@@ -1057,11 +1057,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:43:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:36:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses management of a LinkedIn group and does not address Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on managing a LinkedIn group and enhancing collaboration among its members, with no direct references to Test First Development principles, success criteria, or testing methodologies. The discussion is unrelated to the core themes of Test First Development, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1246,11 +1249,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:43:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:36:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum roles or practices; it focuses on managing a LinkedIn group related to VSTS developers.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on managing a LinkedIn group for VSTS Developers and does not discuss the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, techniques, or the impact of a Scrum Master on team dynamics or organisational change. The content lacks depth in relation to the Scrum Master category, making it largely irrelevant.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1470,6 +1476,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on managing a LinkedIn group and enhancing collaboration among members, with no direct discussion on competence or skill development. While it mentions the involvement of MVPs, it lacks depth in exploring continuous learning or professional growth, which are key aspects of the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:36:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on managing a LinkedIn group and enhancing collaboration among members, with no explicit discussion of Agentic Agility or its principles. While there is a mention of collaboration, it does not align with the core themes of intentionality, autonomy, or adaptability in shaping outcomes. The depth of discussion is minimal, lacking any detailed exploration of the concepts related to Agentic Agility.",
     "level": "Ignored"
   }
 }

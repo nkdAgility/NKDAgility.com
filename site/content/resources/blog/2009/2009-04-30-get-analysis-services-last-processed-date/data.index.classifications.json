@@ -1114,11 +1114,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:33:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on retrieving data from Analysis Services and does not discuss Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on retrieving the last processed date for SSAS cubes and does not discuss Test First Development principles, success criteria, or testing practices. It lacks any mention of testing methodologies or the importance of defining criteria before implementation, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1201,11 +1204,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:33:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical code implementation related to Analysis Services, without any reference to Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a technical code snippet related to retrieving data from SSAS cubes, with no mention or discussion of Scrum Master responsibilities, roles, or related concepts. It does not align with the core themes of the Scrum Master category, nor does it provide any depth on the subject.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1476,6 +1482,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a technical code snippet for retrieving the last processed date of SSAS cubes, which does not directly address the principles of competence in Agile, Scrum, or DevOps. While it may imply a level of technical skill, it lacks explicit discussions on continuous learning, quality outcomes, or fostering a culture of competence. The mention of performance issues is more about technical efficiency than competence in a professional context.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:33:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical code snippet for retrieving the last processed date of SSAS cubes, with no explicit discussion of Agentic Agility or its principles. While it touches on efficiency in data analysis, it does not engage with the core themes of intentionality, autonomy, or adaptability that define Agentic Agility.",
     "level": "Ignored"
   }
 }

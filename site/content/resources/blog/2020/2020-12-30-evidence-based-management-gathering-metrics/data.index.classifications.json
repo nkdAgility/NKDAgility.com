@@ -523,11 +523,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T21:09:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:20:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Evidence-based Management and metrics in Agile practices, with no clear focus on Test First Development or related testing methodologies.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Evidence-based Management and metrics for measuring value in agile software delivery, without a direct focus on Test First Development principles. While it touches on aspects of agile practices, it does not explicitly mention Test First Development, success criteria, or testing methodologies like TDD or ATDD, which are central to the category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -865,11 +868,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T17:20:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses metrics related to Evidence-based Management within the Scrum framework, which is relevant to the role of a Scrum Master, but it primarily focuses on measurement and organisational improvement rather than the direct responsibilities or practices of a Scrum Master.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses Evidence-based Management within the context of Scrum, highlighting the importance of metrics for measuring value delivery and organisational agility. While it touches on Scrum principles and the role of Scrum in facilitating improvements, it does not focus specifically on the responsibilities or skills of a Scrum Master. The discussion is more about metrics and organisational change rather than the Scrum Master's role in fostering team dynamics or coaching, which limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -1590,6 +1596,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Evidence-based Management within the Scrum framework, focusing on metrics for measuring value delivery in software organisations. While it touches on themes of improvement and measurement, it does not explicitly address the One Engineering System framework or its principles, components, or integration across teams. The discussion is more centred on Scrum practices rather than the standardisation and integration of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:20:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses metrics for Evidence-based Management in software organisations, which touches on aspects of value delivery and organisational improvement. However, it primarily focuses on traditional Agile practices and does not explicitly address the intentional shaping of outcomes through autonomy and adaptability, nor does it differentiate between human and AI capabilities in the context of agility. The discussion lacks depth in exploring the principles of Agentic Agility, leading to a lower confidence score.",
     "level": "Ignored"
   }
 }

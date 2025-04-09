@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:13:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:53:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Visual Basic Workflow projects and assembly versioning, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to assembly versioning in Visual Basic Workflow projects, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and provides minimal depth on any related concepts.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:13:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:53:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Visual Basic and assembly versioning, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a technical issue related to assembly versioning in Visual Basic Workflow projects, with no mention or relevance to the Agile Product Operating Model or its principles. It does not discuss agile methodologies, product management, or any related concepts, making it irrelevant to the specified category.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:14:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:52:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a bug in the Visual Basic compiler related to assembly versioning, which is not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific issue related to assembly versioning in Visual Basic Workflow projects, which does not align with the core principles of DevOps. There are no direct mentions of DevOps concepts such as collaboration, automation, or shared accountability. The discussion lacks depth and does not address any of the key topics outlined in the DevOps category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -691,11 +700,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:55:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:53:22",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an issue with assembly versioning in Visual Basic and does not focus on Continuous Delivery principles or practices.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses a specific issue related to assembly versioning in Visual Basic Workflow projects, which does not directly address Continuous Delivery principles or practices. While it touches on a technical problem that could affect deployment, it lacks a focus on Continuous Delivery concepts such as automation, incremental improvements, or user feedback. The discussion is too narrow and does not explore the broader implications or strategies associated with Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1327,11 +1339,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:55:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:53:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a technical issue related to Visual Basic and assembly versions, not discussing Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a technical issue related to Visual Basic Workflow projects and assembly versioning, with no mention or discussion of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics or responsibilities associated with the Scrum Master role.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1354,11 +1369,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:55:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:53:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses an issue with assembly versioning in Visual Basic projects, which is not related to Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a specific issue related to assembly versioning in Visual Basic Workflow projects, focusing on a manual fix for a compiler bug. It does not mention Test First Development principles, success criteria, or any testing methodologies, nor does it provide any depth on the topic of testing or development practices. Therefore, it aligns very poorly with the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1422,6 +1440,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a specific issue related to assembly versioning in Visual Basic projects, which does not align with the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance earlier in the development process, nor does it provide any insights into the principles or benefits of the Shift-Left approach. The focus is on a technical bug rather than a strategic discussion.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T19:52:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a technical issue related to assembly versioning in Visual Basic Workflow projects, which does not relate to the concept of Common Goals in Agile or DevOps. There are no discussions on shared objectives, alignment, or strategic goals, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T19:53:01",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on a technical issue related to assembly versioning in Visual Basic Workflow projects. While it discusses a problem and a manual fix, it does not explicitly address competence, continuous learning, or skill development. The mention of a bug and its resolution does not align with the core themes of competence, such as professionalism or quality delivery. Overall, the content lacks depth and relevance to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T19:53:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical issue related to assembly versioning in Visual Basic Workflow projects. It does not discuss Continuous Improvement principles, nor does it provide insights into processes, team effectiveness, or empirical evidence. The mention of a bug and a manual fix is more about troubleshooting than about ongoing improvement or adaptation.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:53:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a technical issue related to assembly versioning in Visual Basic Workflow projects, with no discussion of Agentic Agility, intentional shaping of outcomes, or the interplay between human and AI capabilities. It does not address any of the key topics outlined for the category.",
     "level": "Ignored"
   }
 }

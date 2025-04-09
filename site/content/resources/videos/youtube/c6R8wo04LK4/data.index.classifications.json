@@ -376,14 +376,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T11:34:36",
-    "ai_confidence": 52.0,
+    "calculated_at": "2025-04-08T16:50:19",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 40.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 48.0,
-    "reasoning": "The content touches on challenges faced during Scrum adoption, which indirectly relates to the Scrum Master's role in facilitating change and addressing team dynamics. However, it lacks explicit discussion of Scrum Master responsibilities or practices, leading to a moderate confidence score.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the challenges of adopting Scrum, which indirectly relates to the role of a Scrum Master in facilitating change and promoting agile principles. However, it lacks direct mentions of the Scrum Master role and does not delve deeply into the responsibilities or techniques specific to Scrum Masters. The focus is more on general Scrum adoption rather than the specific contributions of a Scrum Master.",
     "level": "Tertiary"
   },
   "Agile Planning": {
@@ -421,11 +421,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T21:57:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:50:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses challenges in adopting Scrum, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses challenges in adopting Scrum, focusing on misconceptions and cultural shifts rather than any principles or practices related to Test First Development. There are no direct mentions of success criteria, testing practices, or the importance of automated testing, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1515,6 +1518,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum adoption and the challenges associated with it, which is not aligned with the One Engineering System framework. There are no direct mentions of 1ES principles, components, or its impact on software quality or delivery timelines. The discussion is centred around Agile methodologies rather than the integration and standardisation of engineering processes, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:50:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the challenges of adopting Scrum and addresses misconceptions about Agile practices. While it touches on themes of adaptability and continuous learning, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. The focus remains on Scrum rather than the intentional shaping of outcomes, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

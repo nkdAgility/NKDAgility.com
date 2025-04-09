@@ -1057,11 +1057,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:24:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:35:30",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 1.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses entirely on personal reflections regarding dyslexia and creativity, with no mention or discussion of Test First Development or related practices.",
+    "final_score": 2.0,
+    "reasoning": "The content focuses on personal experiences with dyslexia and creativity, with no mention or discussion of Test First Development principles, success criteria, or testing practices.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1246,11 +1249,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:24:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:35:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses personal experiences related to dyslexia and learning styles, with no reference to Scrum Master roles, responsibilities, or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content does not discuss the role or responsibilities of a Scrum Master, nor does it touch on any Scrum-related topics. It focuses entirely on personal experiences with dyslexia and creativity, which are unrelated to the Scrum framework or the responsibilities of a Scrum Master.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses personal experiences with dyslexia and creativity, with minimal direct reference to competence in a professional context. While it touches on learning styles and the challenges faced in traditional education, it does not focus on continuous development or demonstrable capability as defined in the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:35:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses personal experiences with dyslexia and creativity, lacking any explicit mention of Agentic Agility or its principles. While it touches on adaptability in learning styles, it does not engage with the intentional shaping of outcomes or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

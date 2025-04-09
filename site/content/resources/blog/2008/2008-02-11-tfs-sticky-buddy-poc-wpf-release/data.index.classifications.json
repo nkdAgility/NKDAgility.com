@@ -163,20 +163,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:35:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:03:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a software release and its usage, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a software release and its features, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks any mention of data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:35:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:03:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a proof of concept release for a software application, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a specific software release related to Team Foundation Server and does not discuss any principles or practices related to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management, or the core themes outlined in the APOM definition. The content is more aligned with project management tools rather than the product-oriented mindset of APOM.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -316,11 +322,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:35:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:03:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a proof of concept release for a specific application without addressing DevOps principles, practices, or related topics.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific software release related to Team Foundation Server and its usage, without discussing the broader principles or practices of DevOps. While it mentions project management and a digital dashboard, it lacks explicit references to DevOps concepts such as collaboration, automation, or shared accountability. The discussion is more about the technical aspects of the software rather than the cultural or philosophical elements of DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -700,11 +709,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:46:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:03:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of a specific proof of concept software application and its features, without addressing the principles or practices of Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific software release (TFS Sticky Buddy POC) and does not discuss Continuous Delivery principles, practices, or related topics. There are no direct mentions of Continuous Delivery, and the content lacks depth in discussing automation, incremental improvements, or user feedback, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1342,11 +1354,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:46:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:03:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a software release related to Team Foundation Server and does not discuss Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical release of a software tool related to Team Foundation Server and does not discuss the role, responsibilities, or impact of a Scrum Master. There are no direct mentions of Scrum or its principles, and the content lacks any depth regarding Scrum practices or the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1369,11 +1384,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:46:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:03:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a release of a software application and does not mention Test First Development, TDD, or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a proof of concept release for a digital dashboard application and does not discuss Test First Development principles, success criteria, or testing practices. There are no mentions of testing methodologies or the importance of defining criteria before implementation, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1437,6 +1455,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the release of a software application and its usage instructions, with no explicit discussion of the Shift-Left Strategy or its principles. It lacks any mention of integrating testing, security, or compliance early in the development process, and does not provide any depth on the topic. Therefore, it does not align with the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:03:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific software release and its features, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it mentions project management, it does not connect to shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:03:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the release of a software tool and its usage instructions, with no explicit discussion of competence, continuous learning, or skill development. While it mentions system requirements and provides a download link, it does not align with the core themes of competence in Agile or DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:03:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a software application and does not discuss Continuous Improvement principles. While it mentions some issues with the current version, it lacks a broader context of ongoing reflection, adaptation, or strategies for improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:03:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a software release for a digital dashboard related to Team Foundation Server, with no explicit discussion of Agentic Agility or its principles. It lacks any mention of intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

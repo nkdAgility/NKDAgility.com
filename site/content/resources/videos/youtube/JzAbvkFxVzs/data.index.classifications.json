@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T05:30:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:12:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses dogma in Agile practices and the importance of pragmatism over strict adherence to rules, without any focus on Test First Development or related testing methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile practices and the importance of focusing on value delivery rather than routine questions in Scrum meetings. It does not explicitly mention Test First Development or its principles, nor does it delve into testing methodologies or practices related to defining success criteria before implementation. The discussion is more about Agile ceremonies and team dynamics, which are not aligned with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -862,14 +865,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T14:27:35",
+    "calculated_at": "2025-04-08T16:12:38",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
     "final_score": 71.0,
-    "reasoning": "The content discusses the role of the Scrum Master in the context of Agile ceremonies, particularly focusing on the daily Scrum and retrospectives. It highlights the importance of the Scrum Master's role in facilitating effective meetings and ensuring the team focuses on value delivery rather than rote responses. However, while the Scrum Master is mentioned and their responsibilities are implied, the content does not delve deeply into specific techniques or best practices for Scrum Masters, which slightly limits the depth of discussion.",
+    "reasoning": "The content discusses the role of the Scrum Master in the context of Agile ceremonies, particularly focusing on the importance of value delivery over rote questioning. It mentions the Scrum Master explicitly and addresses their influence on team dynamics and meeting effectiveness. However, while it touches on relevant themes, the depth of discussion on the Scrum Master's responsibilities and techniques is somewhat limited, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1584,6 +1587,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Agile practices and the pitfalls of routine Agile questions, with no direct mention or focus on the One Engineering System framework. While it touches on team collaboration and efficiency, it does not align with the core principles of 1ES, nor does it provide depth on its components or implementation. The discussion is centred around Agile methodologies rather than the integration and standardisation of engineering processes as defined by 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:12:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile practices and the importance of focusing on value rather than routine questions, which aligns with the concept of intentionality in Agentic Agility. However, it primarily revolves around Agile methodologies without explicitly addressing the principles of Agentic Agility, such as autonomy, adaptability, and the distinction between human and AI capabilities. The discussion lacks depth in exploring these themes, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

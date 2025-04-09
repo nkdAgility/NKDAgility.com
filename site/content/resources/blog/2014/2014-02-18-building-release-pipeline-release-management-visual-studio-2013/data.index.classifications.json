@@ -1195,12 +1195,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 60,
+    "calculated_at": "2025-04-08T17:48:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the importance of unit tests and test automation within the context of a release pipeline, indicating that testing plays a significant role in software development workflows. However, it primarily focuses on the broader topic of release management and continuous delivery rather than solely on Test First Development principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses aspects of a release pipeline and continuous delivery but does not explicitly focus on Test First Development principles. While it mentions unit tests and the importance of feedback, it lacks a clear emphasis on defining success criteria before implementation or the specific practices of Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). The discussion is more about release management and operational practices rather than the core themes of Test First Development.",
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
@@ -1279,11 +1282,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:21:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:48:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses release management and DevOps practices with no clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on building a release pipeline and DevOps practices using Visual Studio 2013, with no direct mention of the Scrum Master role or its responsibilities. While it touches on agile principles, it does not delve into the specific functions or impact of a Scrum Master within a Scrum Team, nor does it discuss coaching, mentoring, or facilitating in a Scrum context.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1576,5 +1582,17 @@
     "final_score": 61.0,
     "reasoning": "The content discusses the importance of continuous delivery and quality in the context of DevOps and Agile methodologies, which aligns with the principles of competence. It touches on the need for skill development and feedback mechanisms within teams, indicating a focus on professionalism and quality delivery. However, while competence is a theme, it is not the primary focus of the content, which is more about the technical aspects of building a release pipeline. Therefore, the confidence score reflects a moderate alignment with the category.",
     "level": "Secondary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:48:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on building a release pipeline and enhancing DevOps practices, with minimal direct discussion of Agentic Agility. While it touches on concepts like feedback and continuous delivery, it does not explicitly address the intentional shaping of outcomes or the distinction between human and AI capabilities in agility.",
+    "level": "Ignored"
   }
 }

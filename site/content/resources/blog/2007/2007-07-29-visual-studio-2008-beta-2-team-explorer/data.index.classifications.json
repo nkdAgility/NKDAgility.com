@@ -163,20 +163,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:26:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:52:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation issues related to Visual Studio 2008 and Team Explorer, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the installation challenges of Visual Studio 2008 Team Explorer and does not address any aspects of Evidence-Based Management. There are no direct mentions of empirical evidence, data-informed decision-making, or any of the key topics outlined in the EBM definition. The focus is on software installation rather than management practices.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:26:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:52:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation issues related to Visual Studio 2008 and Team Explorer, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the installation challenges of Visual Studio 2008 Team Explorer and does not address any principles or practices related to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management, or the core themes outlined in the APOM framework. The focus is on software installation rather than product delivery or agile processes.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -316,11 +322,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:27:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:52:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Visual Studio installation and Team Explorer, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the installation challenges of Visual Studio 2008 Team Explorer and does not engage with any core DevOps principles or practices. While it touches on software development tools, it lacks explicit references to DevOps philosophy, collaboration, automation, or shared accountability, which are central to the category. The focus is on a specific tool rather than the broader DevOps culture or methodologies.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -703,11 +712,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T22:09:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:53:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to the installation of Visual Studio and Team Explorer, without addressing Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the installation challenges of Visual Studio 2008 Team Explorer and does not address any principles, practices, or benefits of Continuous Delivery. It lacks direct mentions of Continuous Delivery concepts and does not align with the core themes of the category, such as automation, incremental improvements, or rapid feedback. The discussion is focused on installation issues rather than software delivery practices.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1336,11 +1348,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T22:09:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:52:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Visual Studio Team Explorer and related installation issues, which are not relevant to the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the installation challenges of Visual Studio 2008 Team Explorer and does not mention the role or responsibilities of a Scrum Master. There is no alignment with the core themes of the Scrum Master category, nor does it provide any depth on related topics. The focus is entirely on software installation rather than Scrum practices.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1363,11 +1378,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T22:09:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:53:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio 2008 and Team Explorer, with no mention of Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the installation challenges of Visual Studio 2008 Team Explorer and does not mention Test First Development principles, success criteria, or any related testing practices. It lacks any relevant detail or focus on the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1431,6 +1449,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the installation of Visual Studio 2008 and the absence of Team Explorer, which is not related to the Shift-Left Strategy. There are no explicit mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:52:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the installation challenges of Visual Studio 2008 Team Explorer and does not address the concept of Common Goals within Agile or DevOps frameworks. While it touches on the need for better software packaging, it lacks explicit discussion of shared objectives, alignment, or strategic goals, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:52:45",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the installation challenges of Visual Studio 2008 Team Explorer and does not focus on competence in terms of skill development or professional growth. While it touches on the need for smoother development experiences, it lacks explicit discussions on continuous learning, quality outcomes, or fostering a culture of competence. The mention of needing to rationalise software does not directly relate to the core themes of competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:52:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content briefly mentions the need for improvement in the installation process of Visual Studio 2008 Team Explorer, suggesting it should be included for a smoother experience. However, it lacks a comprehensive discussion on Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation. The focus is primarily on a specific software installation issue rather than a broader commitment to ongoing improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:52:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the installation challenges of Visual Studio 2008 Team Explorer and does not address any aspects of Agentic Agility. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are core to the category. The discussion is focused on software installation rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

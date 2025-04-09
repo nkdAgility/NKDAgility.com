@@ -511,11 +511,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T20:14:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:05:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the implications of Blocked columns on Kanban boards and their impact on workflow efficiency, with no mention of Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the implications of blocked columns on Kanban boards and their impact on workflow efficiency. It does not mention Test First Development, success criteria, or any related testing practices. The focus is on workflow management rather than testing methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -838,11 +841,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T20:15:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:05:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban boards and their implications on workflow, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Kanban boards and their impact on workflow efficiency, with no direct mention of the Scrum Master role or responsibilities. While it touches on concepts relevant to agile practices, it does not align with the core themes of the Scrum Master category, such as coaching, mentoring, or facilitating within a Scrum context. The depth of discussion is focused on Kanban rather than Scrum, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1569,6 +1575,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the use of Kanban boards and the implications of blocked columns on workflow efficiency. While it touches on aspects of team collaboration and workflow management, it does not explicitly mention the One Engineering System (1ES) framework or its principles. The focus is on Kanban methodology rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:05:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the inefficiencies of Blocked columns in Kanban boards and their impact on workflow, but it does not explicitly address the concept of Agentic Agility or its principles. While it touches on themes of accountability and transparency, it lacks a focus on intentional shaping of outcomes or the distinction between human and AI capabilities in agility.",
     "level": "Ignored"
   }
 }

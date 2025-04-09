@@ -163,20 +163,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T22:03:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:07:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the features and configuration of Team Foundation Server process templates, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the extensibility and configuration of TFS process templates, which does not directly address Evidence-Based Management principles. While there is a mention of configuring processes, it lacks explicit discussion on data-informed decision-making or the key topics outlined in the EBM category. The content is more about practical implementation rather than empirical evidence or metrics.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T22:03:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:06:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Team Foundation Server and its process templates, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the extensibility and configuration of TFS process templates, which is more aligned with traditional project management tools rather than the Agile Product Operating Model. There are no direct mentions of agile principles, product management practices, or the core themes of APOM. The focus is on technical aspects of TFS rather than on agile methodologies or product-oriented mindsets.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -319,11 +325,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T22:04:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:06:36",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the extensibility and configuration of Team Foundation Server process templates, which is not central to DevOps principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on TFS process templates and their configuration, which is more aligned with project management and development processes rather than the core principles of DevOps. While there is a mention of enhancing the development process, it lacks explicit discussions on collaboration, automation, or shared accountability, which are central to DevOps. The depth of discussion is moderate, but it does not delve into the cultural or philosophical aspects of DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -706,11 +715,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:18:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:07:08",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses configuring process templates in Team Foundation Server, which is not directly related to Continuous Delivery principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses TFS process templates and their configuration, which does not directly address Continuous Delivery principles or practices. While there is a mention of enhancing the development process, it lacks explicit references to Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback. The focus is more on process configuration rather than delivery practices.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1345,11 +1357,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:18:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:07:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on Team Foundation Server and process templates rather than Scrum or the responsibilities of a Scrum Master.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses TFS process templates and their configuration, with no direct mention of Scrum Master responsibilities or related concepts. It lacks alignment with the core themes of the Scrum Master role, such as facilitation, coaching, or team dynamics. The depth of discussion is focused on technical aspects of TFS rather than any Scrum-related topics.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1372,20 +1387,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:18:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:07:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Team Foundation Server and its extensibility through process templates, without any mention of Test First Development, TDD, or related testing practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the extensibility and configuration of TFS process templates, with no direct mention of Test First Development principles or practices. While it touches on development processes, it lacks focus on success criteria, testing methodologies, or the collaborative aspects central to Test First Development.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:30:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:06:39",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the extensibility and configuration of Team Foundation Server process templates, with no clear focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the technical aspects of configuring TFS process templates, with minimal discussion on collaboration, decision-making, or value delivery. While it touches on the challenges faced by developers in designing templates, it lacks a clear connection to the core themes of social technologies, such as self-organisation or collective intelligence.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1437,6 +1458,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the extensibility and configuration of Team Foundation Server process templates, with no explicit mention of the Shift-Left Strategy or its principles. While there is a focus on process templates, it does not align with the core themes of integrating testing, security, or compliance early in the development lifecycle. The discussion lacks depth regarding Shift-Left practices, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T21:06:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of configuring TFS process templates and does not discuss Common Goals or their significance in Agile or DevOps. There are no explicit mentions of shared objectives or alignment with strategic goals, and the depth of discussion is limited to personal experiences and technical advice, which does not connect to the principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T21:06:47",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses the configuration of TFS process templates, which implies a level of competence in using the tool. However, it primarily focuses on the technical aspects of TFS rather than the broader themes of continuous learning, skill development, or the importance of competence in Agile or DevOps environments. The mention of developers struggling with design indicates a lack of competence but does not explore strategies for fostering competence or the impact of competence on team dynamics. Overall, while there are elements related to competence, they are not the primary focus of the content.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T21:06:52",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses the extensibility and configuration of TFS process templates, which could relate to improving development processes. However, it lacks explicit references to Continuous Improvement principles, empirical evidence, or a culture of experimentation. The focus is more on technical configuration rather than on ongoing improvement practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T21:06:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the extensibility and configuration of TFS process templates, which does not align with the principles of Agentic Agility. There are no explicit discussions on intentional shaping of outcomes, autonomy, or adaptability, and it lacks depth in exploring the interplay between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

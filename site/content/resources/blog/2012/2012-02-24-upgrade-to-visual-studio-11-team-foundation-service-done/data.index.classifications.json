@@ -1210,11 +1210,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:28:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:08:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the launch of Visual Studio 11 Team Foundation Server and related cloud services, with no focus on Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the upgrade to Visual Studio 11 Team Foundation Service and its benefits, with no explicit mention of Test First Development principles or practices. While it touches on aspects of project management and source control, it does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices. The discussion lacks depth in relation to the category, focusing instead on cloud solutions and user experiences.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1291,11 +1294,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:28:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:08:56",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio 11 Team Foundation Server and its functionalities, which is not directly related to the role of a Scrum Master.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses the upgrade to Visual Studio 11 Team Foundation Service and its features, with no direct mention of the Scrum Master role or its responsibilities. While there are references to project management and team dynamics, they are not explicitly tied to Scrum or the Scrum Master's influence. The focus is on technical aspects and cloud solutions rather than on Scrum principles or practices.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1575,6 +1581,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly touches on the transition to cloud solutions and the ease of use, which implies a level of competence in managing source control and work item tracking. However, it lacks a focused discussion on continuous learning, skill development, or the broader implications of competence in Agile or DevOps methodologies. The mention of customer support and the transition process does not delve deeply into the principles of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:08:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the upgrade to Visual Studio 11 Team Foundation Service and the benefits of cloud solutions, with no explicit mention of Agentic Agility or its principles. While there are elements of adaptability and user experience, the focus is on technical features and customer transitions rather than intentional shaping of outcomes or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

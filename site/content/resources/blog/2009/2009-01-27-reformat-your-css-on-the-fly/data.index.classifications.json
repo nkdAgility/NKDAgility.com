@@ -1075,11 +1075,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:10:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:35:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses handling CSS in a web application without mentioning Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on dynamically reformatting CSS in a .NET environment, with no direct mention of Test First Development principles or practices. While there is a brief mention of testing in the context of feature branches, it does not align with the core themes of Test First Development, such as defining success criteria or discussing TDD/ATDD. The depth of discussion is also minimal, lacking any substantial exploration of testing methodologies.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1267,11 +1270,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:10:52",
+    "calculated_at": "2025-04-08T19:35:11",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses technical implementation details of CSS and .NET, with no relation to Scrum Master roles or responsibilities.",
+    "reasoning": "The content focuses entirely on web development and CSS handling in .NET, with no mention or discussion of the Scrum Master role, responsibilities, or related concepts. It does not align with any key topics associated with the Scrum Master category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1491,6 +1497,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on technical implementation details related to CSS and .NET, with no explicit discussion of competence, continuous learning, or skill development. While it may imply a level of competence in web development, it does not align with the core themes of the 'Competence' category, such as fostering a culture of competence or the impact of competence on decision-making.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:35:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of CSS handling in .NET and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is strictly about web development practices without any connection to the themes of agency or intentionality.",
     "level": "Ignored"
   }
 }

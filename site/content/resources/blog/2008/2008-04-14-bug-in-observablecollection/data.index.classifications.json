@@ -154,20 +154,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:27:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:58:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to ObservableCollection in .NET, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to ObservableCollection in WPF and does not mention or align with the principles of Evidence-Based Management. It lacks any focus on data-informed decision-making or metrics relevant to EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:27:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:58:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses a technical issue related to ObservableCollection and generic types, with no reference to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical issue related to ObservableCollection in WPF and does not mention or align with any principles of the Agile Product Operating Model. It lacks any discussion on agile methodologies, product management, or related frameworks, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:28:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:57:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to ObservableCollection in .NET, with no mention of DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to ObservableCollection in WPF, which is not aligned with DevOps principles. There are no direct mentions of DevOps concepts, and the discussion lacks depth regarding collaboration, automation, or shared accountability, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -694,11 +703,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:38:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:58:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a technical issue related to ObservableCollection and does not discuss Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to ObservableCollection and generics in WPF, which is unrelated to Continuous Delivery. There are no direct mentions of Continuous Delivery principles, practices, or tools, and the discussion lacks depth in any relevant areas. The focus is on a specific coding problem rather than software delivery practices.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1333,11 +1345,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:38:20",
+    "calculated_at": "2025-04-08T19:58:03",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is a technical discussion about programming and does not relate to Scrum Master responsibilities or practices.",
+    "reasoning": "The content focuses entirely on a technical issue related to ObservableCollection in WPF and does not mention or discuss any aspects of the Scrum Master role, responsibilities, or related concepts. It is purely a programming discussion with no relevance to Scrum or agile methodologies.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1360,11 +1375,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:38:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:58:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an issue with ObservableCollection and generics without mentioning Test First Development, Agile methodologies, or related testing practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to ObservableCollection and generics in WPF, with no direct mention or alignment to Test First Development principles. It lacks any discussion on success criteria, testing practices, or the impact of testing on software delivery.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1428,6 +1446,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a technical issue related to the ObservableCollection in .NET, with no mention of testing, security, or compliance processes. It does not align with the core themes of the Shift-Left Strategy, which focuses on integrating these critical processes earlier in the software development lifecycle. The discussion is limited to a specific coding problem and does not provide any depth or context related to Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T19:57:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical issue related to ObservableCollection in WPF and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, and the depth of discussion is limited to a specific coding problem without any connection to broader organisational objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T19:57:54",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on a technical issue related to ObservableCollection and generics in WPF, with no explicit discussion on competence, continuous learning, or skill development. While it touches on problem-solving, it does not align with the core themes of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T19:57:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical issue related to ObservableCollection in WPF and does not discuss Continuous Improvement principles. While it mentions a workaround, it lacks any reference to empirical evidence, data-driven decision-making, or a culture of experimentation, which are core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:57:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical issue related to ObservableCollection in WPF and does not discuss Agentic Agility or its principles. There are no direct mentions of agency, intentionality, or the interplay between human and AI capabilities, which are central to the category. The discussion is limited to a specific coding problem without any broader implications on agility or transformative capacity.",
     "level": "Ignored"
   }
 }

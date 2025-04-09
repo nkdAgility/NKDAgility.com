@@ -547,14 +547,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T14:24:58",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "calculated_at": "2025-04-08T17:06:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses planning and prioritisation within a Scrum context, which is relevant to the Scrum Master's role. However, it primarily focuses on the product backlog and business goals rather than the Scrum Master's specific responsibilities or techniques for coaching and facilitating Scrum ceremonies. While there are mentions of the Scrum team and product owner, the depth of discussion on the Scrum Master’s role is limited, leading to a moderate confidence score.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on effective planning and prioritisation within a Scrum context, which is a crucial aspect of the Scrum Master's role. It discusses aligning work with business goals, stakeholder communication, and maintaining a lean backlog, all of which are relevant to the responsibilities of a Scrum Master. However, while it touches on these themes, it lacks a direct discussion of the Scrum Master's specific influence and techniques for coaching or facilitating, which slightly lowers the depth of discussion. Overall, the content aligns well with the category, but it does not delve deeply into the Scrum Master's unique contributions.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -991,11 +991,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on project management and Agile principles rather than Test First Development.",
+    "calculated_at": "2025-04-08T17:06:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum planning and prioritisation, with no direct mention of Test First Development principles or practices. While it discusses aspects of effective planning and stakeholder communication, it does not address success criteria, testing methodologies, or the importance of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1584,6 +1587,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum practices, including planning and prioritisation, without discussing the One Engineering System framework or its principles. While it touches on aspects of team collaboration and efficiency, it does not align with the core themes of 1ES, such as integration of tools and processes across teams or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:06:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum practices, planning, and prioritisation without explicitly discussing Agentic Agility. While it touches on aligning work with business goals and making data-driven decisions, it lacks a clear exploration of the intentional shaping of outcomes or the distinction between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

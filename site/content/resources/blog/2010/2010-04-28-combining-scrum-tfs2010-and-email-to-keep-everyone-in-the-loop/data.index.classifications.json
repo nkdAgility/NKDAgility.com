@@ -1186,11 +1186,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T01:39:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:21:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum processes and team communication, with no focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses project management practices within a Scrum framework, focusing on email communication and task management in TFS 2010. It does not mention Test First Development principles, success criteria, or testing practices, which are central to the category. The discussion lacks depth and relevance to Test First Development, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1270,14 +1273,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T06:59:53",
+    "calculated_at": "2025-04-08T19:22:02",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
     "final_score": 39.0,
-    "reasoning": "The content discusses the integration of Scrum practices with TFS 2010 and email management, which indirectly relates to the role of a Scrum Master in facilitating communication and collaboration within a team. However, it lacks a direct focus on the responsibilities and techniques specific to Scrum Masters, such as coaching or conducting Scrum ceremonies. The mention of Scrum is present but not central to the discussion, leading to a moderate confidence score.",
+    "reasoning": "The content discusses Scrum in the context of project management and team collaboration, but it does not explicitly focus on the role of the Scrum Master. While it mentions Scrum practices and tools like TFS 2010, it lacks a detailed exploration of the Scrum Master's responsibilities, techniques, or influence on team dynamics. The discussion is more about project management processes rather than the specific role of the Scrum Master, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1563,6 +1566,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the integration of Scrum with TFS2010 and email for project management, focusing on collaboration and communication rather than on the development of competence or skills. While it touches on the importance of following rules and processes, it lacks a direct emphasis on continuous learning or professional development, which are key aspects of competence. The discussion is more about operational efficiency than about fostering a culture of competence or skill enhancement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:21:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum practices and project management tools without addressing the intentional shaping of outcomes or the principles of Agentic Agility. While it mentions the need for better processes and automation, it does not delve into the concepts of autonomy, adaptability, or the interplay between human and AI capabilities in achieving desired outcomes.",
     "level": "Ignored"
   }
 }

@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T12:47:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:49:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses frustrations with SharePoint solutions and Visual Studio, lacking any focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on frustrations related to building SharePoint solutions in Visual Studio, which does not align with the core principles of DevOps. While there is a mention of needing a streamlined development process, it lacks explicit discussions on collaboration, automation, or shared accountability, which are central to DevOps. The content does not delve into any DevOps practices or cultural shifts, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T12:47:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:49:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses frustrations with SharePoint solutions and development processes, with no clear connection to Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on frustrations related to building SharePoint solutions and does not mention or align with the Agile Product Operating Model. It lacks any discussion of agile methodologies, product management principles, or the key topics outlined in the APOM framework.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -166,11 +172,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T12:48:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:49:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses frustrations with SharePoint solutions and development processes, lacking any focus on evidence-based management principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on frustrations related to building SharePoint solutions and does not discuss Evidence-Based Management or its key topics. There are no direct mentions of data-informed decision-making or empirical evidence, and the discussion lacks depth in relation to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -880,11 +889,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:01:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:49:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on frustrations with SharePoint solutions development and lacks any mention of Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on frustrations related to building SharePoint solutions and does not explicitly discuss Continuous Delivery principles or practices. While it hints at the need for a streamlined development process, it lacks direct mentions of automation, incremental improvements, or rapid feedback, which are core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1042,11 +1054,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:01:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:49:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on frustrations with building SharePoint solutions and does not touch on Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on frustrations related to building MOSS Solutions in Visual Studio and does not discuss Test First Development principles, success criteria, or testing practices. There are no direct mentions or relevant themes related to Test First Development, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1231,11 +1246,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:01:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:49:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint solutions and development, not related to Scrum or the role of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on frustrations related to building SharePoint solutions and does not mention the Scrum Master role or any related responsibilities, techniques, or impacts. There is no discussion of Scrum principles or practices, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1416,6 +1434,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on frustrations with SharePoint solutions and the desire for a more streamlined development process in Visual Studio. It does not discuss the Shift-Left Strategy, its principles, or any related practices. The mention of building solutions does not align with the proactive integration of testing, security, or compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T19:49:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on frustrations related to building SharePoint solutions and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth in relation to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T19:49:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on frustrations with building SharePoint solutions and does not discuss competence, continuous learning, or skill development. While it touches on the need for a streamlined process, it lacks explicit references to competence or its importance in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T19:49:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily expresses frustration with the current SharePoint development process and calls for a streamlined solution. While it hints at the need for improvement, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation. The focus is more on personal grievances rather than a structured approach to enhancing processes or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:49:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on frustrations related to building SharePoint solutions and does not discuss Agentic Agility or its principles. There are no explicit mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is more about technical challenges rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

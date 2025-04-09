@@ -475,11 +475,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T09:36:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:29:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the concept of 'fake it till you make it' in a general context, without any reference to Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the phrase 'fake it till you make it' in the context of Agile practices, focusing on confidence and learning rather than the principles of Test First Development. There are no direct mentions of Test First practices, success criteria, or testing methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -799,11 +802,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T09:37:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:29:48",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum roles, responsibilities, or practices; it focuses on the concept of 'fake it till you make it' in a general context.",
+    "final_score": 38.0,
+    "reasoning": "The content briefly touches on Agile principles and the importance of expertise and continuous learning, which are relevant to the Scrum Master role. However, it does not explicitly discuss the responsibilities or impact of a Scrum Master, nor does it delve deeply into Scrum-specific practices or the role's influence on team dynamics. The focus is more on a general Agile mindset rather than the specific functions of a Scrum Master.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the phrase 'fake it until you make it' in the context of Agile practices, focusing on its pros and cons rather than the One Engineering System framework. There are no direct mentions of 1ES principles, components, or its impact on software development. The discussion is more about personal development and team dynamics in Agile, which does not align with the core themes of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:29:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the phrase 'fake it till you make it' in the context of Agile, but it primarily focuses on the limitations and appropriate applications of this mindset rather than on the intentional shaping of outcomes through autonomy and adaptability. While there are elements of learning and development mentioned, they do not directly align with the core themes of Agentic Agility, such as the distinction between human and AI capabilities or the mechanisms of AI Agentic Agility. The discussion lacks depth in exploring the transformative capacity of individuals and systems, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

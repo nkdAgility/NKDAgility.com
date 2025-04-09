@@ -85,11 +85,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-13T18:01:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:01:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Kanban strategies and the use of Azure DevOps, with only brief mentions of Scrum processes without a central focus on the Scrum Master role.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the use of Azure DevOps in the context of a Caman strategy, which is related to agile methodologies but does not focus specifically on the role of the Scrum Master. While there are mentions of Scrum processes and the importance of collaboration, the primary focus is on tools and strategies rather than the responsibilities and impact of a Scrum Master. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Scaling Kanban": {
@@ -565,11 +568,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T18:02:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Kanban strategies and the use of Azure DevOps, with no focus on Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T16:01:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on leveraging Azure DevOps for visualising workflows and establishing shared rules in a Caman strategy. It does not discuss Test First Development principles, success criteria, or testing practices, which are central to the category. While there is a mention of managing work items, it lacks any reference to testing methodologies or the importance of defining success criteria before implementation.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1611,6 +1617,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on leveraging Azure DevOps for a Caman strategy, which is not directly related to the One Engineering System framework. While it touches on collaboration and workflow visualisation, it lacks explicit discussions on the principles, components, or best practices of 1ES. The mention of shared rules and team collaboration is too general and does not delve into the integration and standardisation aspects central to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:01:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on implementing a Caman strategy using Azure DevOps, discussing digital tools and workflow visualisation without explicitly addressing the principles of Agentic Agility. While it touches on collaboration and shared rules, it lacks a clear exploration of intentionality, autonomy, or the distinction between human and AI capabilities in shaping outcomes.",
     "level": "Ignored"
   }
 }

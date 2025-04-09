@@ -493,11 +493,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T04:52:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-04-08T16:26:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the use of story points in Scrum and does not mention Test First Development or its principles. While it touches on Agile practices, it lacks a focus on defining success criteria before implementation or the role of testing in development, which are core to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -838,14 +841,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T21:23:01",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-04-08T16:26:11",
+    "ai_confidence": 72.0,
     "ai_mentions": 15,
-    "ai_alignment": 30,
+    "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the role of story points within Scrum, which is relevant to the responsibilities of a Scrum Master in facilitating team discussions and understanding Agile principles. However, it primarily focuses on the myth surrounding story points rather than the broader responsibilities and practices of a Scrum Master. While it touches on coaching and team dynamics, it lacks in-depth exploration of Scrum ceremonies or the Scrum Master's role in conflict resolution and team collaboration.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the concept of story points within the Scrum framework, which is relevant to the role of a Scrum Master in facilitating team discussions and promoting effective Agile practices. It aligns with the core themes of the category by addressing the importance of communication, understanding team dynamics, and fostering a culture of continuous improvement. However, while it touches on the Scrum Master's influence, it does not delve deeply into their specific responsibilities or techniques, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1542,6 +1545,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum and the use of story points, which are not directly related to the One Engineering System framework. While it discusses Agile practices, it does not address the principles, integration, or implementation of 1ES, nor does it provide insights into standardising engineering processes across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:26:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on debunking myths related to story points in Scrum, which does not align with the core themes of Agentic Agility. While it touches on aspects of team dynamics and the importance of conversation, it lacks explicit discussions on intentional shaping of outcomes, the role of agency, or the interplay between human and AI capabilities. The content is more about Agile practices than about the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

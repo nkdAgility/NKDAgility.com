@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T12:12:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:40:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the costs and impacts of poor quality code, focusing on productivity, brand reputation, and technical debt, without a clear emphasis on Test First Development principles or practices.",
+    "final_score": 31.0,
+    "reasoning": "The content discusses the importance of code quality and the costs associated with poor-quality code, but it does not explicitly mention Test First Development or its principles. While it touches on related themes such as reducing feedback loops and investing in engineering practices, it lacks a direct focus on defining success criteria before implementation or the specific practices of Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). Therefore, the confidence score reflects a low alignment with the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -868,11 +871,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T12:13:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:40:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the costs of poor quality code and its impact on productivity and brand reputation, without a clear focus on the Scrum Master role or related responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the costs associated with poor-quality code and strategies for improving code quality, which does not directly address the role or responsibilities of a Scrum Master. While there are implications for team productivity and morale, the discussion lacks explicit references to Scrum practices, the Scrum Master's influence, or agile principles, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1608,6 +1614,18 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content discusses the importance of code quality and its impact on productivity and brand reputation, which are relevant to the principles of the One Engineering System. However, it does not explicitly mention 1ES or its components, nor does it focus on integration and standardisation of engineering processes. The discussion is more centred on general software quality rather than the specific framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:40:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the costs associated with poor-quality code and strategies for improving code quality. While it touches on themes of productivity and team morale, it does not explicitly address Agentic Agility or the intentional shaping of outcomes through autonomy and adaptability. The focus is more on technical debt and operational efficiency rather than the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

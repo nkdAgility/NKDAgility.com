@@ -529,11 +529,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T02:59:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product discovery and its importance in planning and strategy, with no focus on Test First Development or related testing practices.",
+    "calculated_at": "2025-04-08T15:51:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Product Discovery, discussing its importance, processes, and examples. It does not mention Test First Development or its principles, nor does it align with the core themes of defining success criteria before implementation or the role of testing in development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -880,11 +883,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T03:00:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses product discovery and its processes, with only a brief mention of Scrum and the Product Owner role, which does not align with the central focus on the Scrum Master role.",
+    "calculated_at": "2025-04-08T15:51:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Product Discovery, discussing its importance and processes, with only brief mentions of Scrum in the context of refinement. It does not delve into the role or responsibilities of a Scrum Master, nor does it explore the core themes associated with that role.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1614,6 +1620,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Product Discovery, which is not directly related to the One Engineering System framework. While it touches on aspects of planning and team alignment, it does not discuss the principles, components, or implementation of 1ES. The mention of teams and strategic direction is too vague and does not provide sufficient depth or direct relevance to the core themes of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:51:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Product Discovery, which involves intentional planning and proactive approaches, aligning somewhat with the principles of Agentic Agility. However, it lacks explicit mentions of Agentic Agility, does not differentiate between human and AI capabilities, and primarily focuses on product development rather than the broader implications of agency and intentionality.",
     "level": "Ignored"
   }
 }

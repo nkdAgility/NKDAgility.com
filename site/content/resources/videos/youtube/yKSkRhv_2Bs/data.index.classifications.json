@@ -388,14 +388,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T17:39:45",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-04-08T16:45:27",
+    "ai_confidence": 78.0,
     "ai_mentions": 15,
-    "ai_alignment": 30,
-    "ai_depth": 25,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the importance of APS courses in mastering Scrum practices, which is relevant to the role of a Scrum Master. It mentions the need for teams to understand Scrum and provides insights into training and alignment, which are key responsibilities of a Scrum Master. However, it lacks detailed exploration of specific Scrum Master techniques or practices, leading to a moderate confidence score.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of APS courses in mastering Scrum practices, which directly relates to the role of a Scrum Master. It highlights the need for training and understanding of Scrum, aligning well with the responsibilities of a Scrum Master in facilitating team effectiveness. However, while it touches on key themes, it primarily focuses on the course rather than the Scrum Master's role itself, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Agile Planning": {
@@ -433,11 +433,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T20:48:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:45:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting an APS course related to Scrum methodology, with no direct discussion of Test First Development principles or practices. While it touches on Agile and Scrum concepts, it does not address success criteria, testing practices, or the importance of automated testing, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1581,6 +1584,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the APS (Agile Professional Scrum) course and Scrum methodology, which are not directly related to the One Engineering System framework. While there are mentions of integrating Scrum practices within teams, the discussion lacks a clear connection to the principles of 1ES, such as standardisation and integration of software development practices across teams. The content does not provide substantial detail on the One Engineering System or its components, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:45:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting an APS course related to Scrum practices, which does not directly address the concept of Agentic Agility. While it mentions themes of learning and adaptation, it lacks explicit discussions on intentional shaping of outcomes, the distinction between human and AI capabilities, or the transformative capacity of individuals and systems. The content is more aligned with general Agile practices rather than the specific principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

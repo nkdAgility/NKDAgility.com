@@ -1165,11 +1165,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:28:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:22:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses task descriptions and information sharing within Scrum, and does not mention Test First Development or TDD principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of detailed task descriptions in Scrum, focusing on team collaboration and project integrity. It does not mention Test First Development principles, success criteria, or testing practices, which are central to the category. The discussion is more about task management within Scrum rather than any testing methodologies or practices.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1246,14 +1249,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T06:59:13",
+    "calculated_at": "2025-04-08T19:22:12",
     "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
     "final_score": 61.0,
-    "reasoning": "The content discusses the importance of detailed task descriptions within the Scrum framework, which aligns with the responsibilities of a Scrum Master in ensuring effective communication and collaboration within the team. However, it lacks explicit references to the Scrum Master's role and does not delve deeply into coaching or facilitating Scrum ceremonies, which limits its overall depth and alignment with the category.",
+    "reasoning": "The content discusses the importance of detailed task descriptions within the Scrum framework, which aligns with the responsibilities of a Scrum Master in facilitating effective team collaboration and ensuring project integrity. However, it does not explicitly mention the Scrum Master role or delve deeply into their specific responsibilities, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1542,6 +1545,18 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of detailed task descriptions in Scrum, which indirectly relates to competence by emphasising the need for clarity and thoroughness in task management. However, it does not explicitly address continuous learning, skill development, or the broader implications of competence in Agile methodologies. The focus is more on task integrity and team collaboration rather than on fostering a culture of competence or professional development.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:22:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of detailed task descriptions in Scrum, focusing on team collaboration and project integrity. It does not explicitly mention Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion is more aligned with general Agile practices rather than the specific themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -1129,11 +1129,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:15:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:09:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS synchronization errors and troubleshooting steps, with no reference to Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses a specific sync error in TFS 2010 and troubleshooting steps related to Active Directory, with no direct mention or focus on Test First Development principles, practices, or methodologies.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1216,11 +1219,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:15:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:09:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to the Team Foundation Server (TFS) and Active Directory, with no clear relevance to the Scrum Master role or its responsibilities within the Scrum framework.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS 2010 and identity management, with no direct mention of the Scrum Master role or its responsibilities. The focus is on troubleshooting and technical details rather than Scrum practices or the impact of a Scrum Master on team dynamics.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1494,6 +1500,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to TFS 2010 and Active Directory, with minimal reference to competence in terms of skill development or professional growth. While it demonstrates some problem-solving skills, it does not engage with the broader themes of continuous learning, quality outcomes, or fostering a culture of competence as outlined in the category definition.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:09:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS 2010 and troubleshooting steps for a sync error. It does not address the concept of Agentic Agility, nor does it explore themes of intentionality, autonomy, or adaptability in either human or AI contexts. The focus is on problem-solving within a specific technical framework rather than on shaping outcomes through agency.",
     "level": "Ignored"
   }
 }

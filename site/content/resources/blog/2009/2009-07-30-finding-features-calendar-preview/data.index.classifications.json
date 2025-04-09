@@ -1102,11 +1102,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:51:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:29:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses a feature of Outlook 2010, which is unrelated to Test First Development or its principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a feature of Outlook 2010, specifically the Calendar preview, without any discussion related to Test First Development principles, success criteria, or testing practices. It does not mention testing methodologies or the importance of defining criteria before implementation, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1183,11 +1186,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:51:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:29:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is about a feature of Outlook, which does not relate to Scrum Master roles or Scrum processes.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a feature of Outlook 2010, with no mention of Scrum, Scrum Masters, or related concepts. It does not align with any of the key topics or responsibilities associated with the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1458,6 +1464,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on a feature of Outlook 2010, discussing its utility for checking availability. There are no direct mentions of competence, continuous learning, or skill development, nor does it align with the core themes of the category. The discussion lacks depth regarding competence, making it largely irrelevant to the classification.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:29:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a feature of Outlook 2010, specifically the Calendar preview, which does not relate to the concept of Agentic Agility. There are no direct mentions of agency, intentionality, or the interplay between human and AI capabilities. The discussion lacks depth and relevance to the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

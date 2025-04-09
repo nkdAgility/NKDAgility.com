@@ -523,11 +523,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T05:40:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:36:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses stakeholder engagement during Sprint reviews, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses stakeholder engagement in Scrum Sprint reviews, which is not directly related to Test First Development principles. While it touches on aspects of collaboration and communication, it lacks explicit references to success criteria, testing practices, or the Test First approach. The focus is on stakeholder interaction rather than testing methodologies.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -880,14 +883,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T22:19:26",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "calculated_at": "2025-04-08T16:36:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content primarily discusses the importance of stakeholder engagement during Sprint reviews, which is a key Scrum ceremony. While it does not explicitly mention the role of the Scrum Master, it aligns with the responsibilities of facilitating effective Sprint reviews and fostering collaboration. The depth of discussion on strategies for engagement and communication indicates a solid understanding of Scrum practices, but the lack of direct references to the Scrum Master role limits the overall confidence score.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on stakeholder engagement during Sprint reviews, which is a crucial aspect of the Scrum Master's role. It discusses strategies for effective communication and collaboration, aligning well with the responsibilities of a Scrum Master. However, while it touches on the Scrum framework, it does not delve deeply into the broader responsibilities or impact of the Scrum Master beyond this specific context, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1602,6 +1605,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses stakeholder engagement in Scrum Sprint reviews, which is a specific Agile methodology. It does not mention the One Engineering System (1ES) framework or its principles, components, or implementation strategies. The focus is on enhancing communication and engagement within a Scrum context, which is outside the scope of 1ES discussions.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:36:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses stakeholder engagement in Scrum Sprint reviews, which is more focused on communication and collaboration rather than the intentional shaping of outcomes through autonomy and adaptability as defined by Agentic Agility. While there are elements of alignment with stakeholder interests, the content does not explicitly address the principles of Agentic Agility or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

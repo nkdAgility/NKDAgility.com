@@ -361,12 +361,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T07:21:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Scrum Masters as part of the target audience and touches on quality assurance processes relevant to Agile teams, suggesting a minor but secondary theme related to Scrum Master responsibilities.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-08T17:22:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Azure Test Plans and quality assurance in software development, with minimal reference to the Scrum Master role or its responsibilities. While it mentions an agile team, it does not delve into the specific functions or impact of a Scrum Master, nor does it discuss the core themes associated with the role. Therefore, the confidence score reflects a very low alignment with the Scrum Master category.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -397,12 +400,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T07:21:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T17:22:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses planning and managing software testing using Azure Test Plans, which aligns with quality assurance practices in software development, but does not explicitly focus on Test First Development or its core principles.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions quality assurance and testing tools, but it does not explicitly discuss Test First Development principles or practices. While it touches on collaboration and quality assurance, it lacks a focus on defining success criteria or the specific methodologies associated with Test First Development, such as TDD or ATDD.",
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on Azure Test Plans and their application in agile teams, which is somewhat related to quality assurance in software development. However, it does not explicitly discuss the One Engineering System framework or its principles. While there is a mention of collaboration and quality assurance, the content lacks a direct connection to the integration and standardisation of engineering processes that define 1ES. The depth of discussion on Azure Test Plans is significant, but it does not delve into the broader implications or practices of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:22:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Azure Test Plans and their application in ensuring quality within agile teams. While it mentions collaboration and teamwork, it does not explicitly discuss the intentional shaping of outcomes, nor does it differentiate between human and AI capabilities in the context of agility. The discussion lacks depth regarding the principles of Agentic Agility, making it only tangentially related to the category.",
     "level": "Ignored"
   }
 }

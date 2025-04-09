@@ -523,11 +523,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T23:06:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the roles and responsibilities of product ownership and product management within the context of Scrum, without a focus on Test First Development or related testing practices.",
+    "calculated_at": "2025-04-08T15:55:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the roles of product ownership and product management within the Scrum framework, with a focus on value delivery and iterative cycles. It does not address Test First Development principles, success criteria, or testing practices, which are central to the category. The mention of Scrum may imply some connection to Agile practices, but it lacks any direct reference to testing methodologies or the importance of defining success criteria before implementation.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -877,14 +880,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T18:37:29",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-04-08T15:54:58",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content primarily discusses the roles of product ownership and product management within the Scrum framework, with some references to the product owner's responsibilities in relation to Scrum teams. However, it does not focus on the Scrum Master role or its specific responsibilities, techniques, or practices. While there is some conceptual alignment regarding the importance of value delivery and team dynamics, the depth of discussion on the Scrum Master role is minimal, leading to a moderate confidence score.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the roles of Product Owners and Product Managers within the Scrum framework, rather than focusing on the Scrum Master role. While it touches on Scrum principles and the importance of value delivery, it does not delve into the specific responsibilities or impact of the Scrum Master, which is essential for a higher confidence score in this category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1611,6 +1614,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the roles of product ownership and product management within the Scrum framework, which is not directly related to the One Engineering System. While it touches on concepts of value delivery and iterative cycles, it does not address the integration or standardisation of engineering processes, nor does it provide insights into the principles or components of the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses product ownership and management within the Scrum framework, focusing on value delivery and adaptability. However, it does not explicitly address the concept of Agentic Agility or differentiate between human and AI capabilities. While there are elements of intentionality and adaptability, the primary focus is on Scrum roles rather than the broader implications of Agentic Agility.",
     "level": "Ignored"
   }
 }

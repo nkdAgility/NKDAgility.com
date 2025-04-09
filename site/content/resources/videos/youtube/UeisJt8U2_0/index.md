@@ -38,10 +38,10 @@ tags:
 - Agile Philosophy
 - Pragmatic Thinking
 - Agile Values and Principles
+- Scrum Master
 - Agile Project Management
 - Agile Leadership
 - Software Development
-- Coaching
 resourceTypes:
 - video
 categories:

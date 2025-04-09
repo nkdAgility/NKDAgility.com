@@ -1111,11 +1111,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T08:56:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:41:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on configuring a DNS server in Azure and does not discuss Test First Development or related testing practices at all.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on configuring a DNS server within an Azure Virtual Network, which is unrelated to Test First Development principles. There are no direct mentions of testing practices, success criteria, or any related concepts. The discussion lacks depth in any aspect of Test First Development, making it clear that the content does not align with the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1195,11 +1198,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T08:56:52",
+    "calculated_at": "2025-04-08T17:41:09",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on configuring a DNS server in Azure, which is unrelated to the role or responsibilities of a Scrum Master.",
+    "reasoning": "The content focuses entirely on configuring a DNS server for an Azure Virtual Network, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics or responsibilities associated with the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 10,
     "final_score": 6.0,
     "reasoning": "The content primarily focuses on configuring a DNS server within an Azure Virtual Network, which is a specific technical task unrelated to the principles or discussions surrounding the One Engineering System. There are no direct mentions of 1ES, and the content does not align with the core themes of integration, standardisation, or best practices in software development as outlined in the category description.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:41:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on configuring a DNS server within an Azure Virtual Network, which is a technical task related to cloud infrastructure. There are no direct mentions of Agentic Agility, nor does it discuss the intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI capabilities. The content lacks depth in exploring the principles or mechanisms of Agentic Agility, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

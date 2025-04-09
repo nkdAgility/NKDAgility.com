@@ -1054,11 +1054,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:37:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:35:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about the installation process of Windows 7 and does not mention testing or Test First Development principles.",
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on the process of installing Windows 7 in a virtual environment, with no mention or discussion of Test First Development principles, success criteria, or testing practices. It does not align with the core themes of the category, nor does it provide any depth on related topics.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1243,11 +1246,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:37:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:35:39",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses the installation of Windows 7, which is unrelated to the Scrum Master role or responsibilities.",
+    "reasoning": "The content is entirely focused on the technical process of installing Windows 7 and does not mention or relate to the role, responsibilities, or impact of a Scrum Master in any way. There are no discussions of Scrum principles, team dynamics, or agile methodologies, which are essential for alignment with the Scrum Master category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the technical process of installing Windows 7 in a virtual environment, with no explicit discussion of competence, continuous learning, or skill development. While it may imply some level of technical ability, it does not engage with the core themes of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:35:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on the technical process of installing Windows 7 in a virtual environment, with no discussion of Agentic Agility, intentional shaping of outcomes, or the interplay between human and AI capabilities. It lacks any relevant themes or depth related to the category.",
     "level": "Ignored"
   }
 }

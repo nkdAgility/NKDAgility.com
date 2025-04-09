@@ -34,6 +34,7 @@ tags:
 - Agile Transformation
 - Pragmatic Thinking
 - Software Development
+- Scrum Master
 - Technical Leadership
 - Agile Leadership
 resourceTypes:

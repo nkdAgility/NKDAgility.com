@@ -181,11 +181,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-13T09:57:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:44:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Site Reliability Engineering practices and does not focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Site Reliability Engineering (SRE) and does not explicitly discuss the role or responsibilities of a Scrum Master. While there are mentions of team dynamics and practices that could tangentially relate to agile principles, the core themes of the Scrum Master role are not addressed. The discussion lacks depth regarding Scrum-specific techniques or the influence of a Scrum Master on organisational change.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1033,11 +1036,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T09:59:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:44:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Site Reliability Engineering practices and does not focus on Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Site Reliability Engineering (SRE) and the shift-left movement, which are not directly related to Test First Development principles. There are no explicit mentions of Test First practices, success criteria, or testing methodologies. The focus is on operational practices rather than the testing-first approach, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1524,6 +1530,18 @@
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "The content primarily discusses Site Reliability Engineering (SRE) and its practices, which are not directly related to the One Engineering System (1ES). While there are mentions of engineering practices and team responsibilities, the focus is on SRE principles rather than the integration and standardisation of engineering processes as outlined in the 1ES framework. The discussion lacks depth regarding 1ES and does not provide relevant examples or comparisons, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:44:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Site Reliability Engineering and the shift-left movement, focusing on operational practices rather than the intentional shaping of outcomes through agency and adaptability. There are no explicit mentions of Agentic Agility, and the themes do not align with the core principles of the category. The depth of discussion is minimal, lacking any exploration of human or AI agency in the context of agility.",
     "level": "Ignored"
   }
 }

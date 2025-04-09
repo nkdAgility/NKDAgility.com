@@ -400,14 +400,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T22:55:29",
+    "calculated_at": "2025-04-08T16:44:21",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
     "final_score": 39.0,
-    "reasoning": "The content discusses agile leadership and training, which indirectly relates to the role of a Scrum Master. However, it lacks direct references to Scrum Master responsibilities or practices, focusing more on general agile leadership concepts and training formats. While there is some alignment with the themes of coaching and fostering team dynamics, the depth of discussion on specific Scrum Master duties is limited.",
+    "reasoning": "The content discusses agile leadership and training, which are relevant to the Scrum Master role, but it does not explicitly focus on the responsibilities or impact of a Scrum Master. While it touches on empowering Scrum teams, the primary emphasis is on leadership training rather than the specific functions of a Scrum Master within a Scrum framework.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -445,11 +445,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T20:22:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:44:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile leadership and training formats, with no focus on Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on agile leadership and training methodologies, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. While it touches on themes of continuous growth and adaptation, these are not aligned with the core concepts of Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1593,6 +1596,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on agile leadership and training methodologies rather than the One Engineering System framework. While it discusses aspects of agile practices, it does not explicitly mention 1ES or its principles, components, or implementation strategies. The discussion is more about personal experiences and training formats, which deviates from the core themes of integration and standardisation in engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:44:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile leadership and training but lacks a direct focus on Agentic Agility. While it touches on themes of empowerment and adaptability, it does not explicitly address the intentional shaping of outcomes or differentiate between human and AI capabilities. The depth of discussion on agile leadership practices is present, but it does not align closely with the core principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

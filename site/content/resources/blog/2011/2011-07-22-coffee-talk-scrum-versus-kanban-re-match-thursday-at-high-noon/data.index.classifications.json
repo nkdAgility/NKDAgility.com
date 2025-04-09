@@ -1177,11 +1177,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:06:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:14:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the comparison between Scrum and Kanban methodologies, with no focus on Test First Development or related practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses a debate between Scrum and Kanban methodologies, with no direct mention of Test First Development principles or practices. While it touches on agile processes, it does not align with the core themes of Test First Development, such as success criteria, testing practices, or the role of feedback loops. The discussion lacks depth regarding any testing methodologies, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1261,11 +1264,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:06:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:14:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content mainly discusses a comparison between Scrum and Kanban with a focus on the methodologies rather than the specific role of the Scrum Master.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses a debate between Scrum and Kanban, which is relevant to agile methodologies but does not focus specifically on the role of the Scrum Master. While Scrum is mentioned, the discussion lacks depth regarding the responsibilities, skills, and impact of the Scrum Master. The content does not provide insights into coaching, mentoring, or facilitating within a Scrum context, nor does it explore the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1545,6 +1551,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on a debate between Scrum and Kanban methodologies, with some mention of insights and strategies for enhancing agile processes. However, it lacks a direct discussion on competence, continuous learning, or skill development, which are central to the category. While there is a conceptual alignment in discussing methodologies that could imply competence, the depth of discussion is limited, focusing more on the event and less on the principles of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:14:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a debate between Scrum and Kanban methodologies, which does not directly address the concept of Agentic Agility. While there are mentions of adapting processes to suit needs, this is more about Agile practices than the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth in exploring the principles of Agentic Agility, such as intent, accountability, and the interplay between human judgement and AI logic.",
     "level": "Ignored"
   }
 }

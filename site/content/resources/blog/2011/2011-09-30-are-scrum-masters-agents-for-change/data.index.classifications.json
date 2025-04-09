@@ -1198,11 +1198,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T01:37:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:12:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum and the role of Scrum Masters, without mentioning Test First Development or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of Scrum Masters and the implementation of Scrum methodology, with no direct mention of Test First Development principles or practices. While it touches on the importance of training and change management within Scrum, it does not address success criteria, testing practices, or the relationship between testing and development, which are core to Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1282,14 +1285,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T18:08:04",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 25,
+    "calculated_at": "2025-04-08T19:12:55",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the role of the Scrum Master in detail, including their responsibilities in facilitating Scrum adoption and training. It mentions the importance of experienced individuals in implementing Scrum effectively, aligning well with the core themes of the category. However, while it provides substantial insights, it lacks a comprehensive exploration of specific Scrum practices and metrics, which slightly lowers the depth score.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master as a change agent within organisations, discussing the importance of Scrum Master training and the responsibilities associated with the role. It explicitly mentions the Scrum Master multiple times and aligns well with key topics such as the Scrum Master's influence on organisational change and the need for effective Scrum implementation. The depth of discussion is substantial, providing insights into the training process and the characteristics of effective Scrum Masters, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1579,5 +1582,17 @@
     "final_score": 61.0,
     "reasoning": "The content discusses the role of Scrum Masters in driving change and the importance of training, which aligns with the concept of competence in Agile methodologies. It mentions the need for a firm understanding of Scrum and the value of experienced individuals in implementing change, reflecting the importance of skill development and genuine progress. However, the focus is more on Scrum implementation rather than a deep exploration of competence itself, leading to a moderate confidence score.",
     "level": "Secondary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:12:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of Scrum Masters as change agents, which touches on the concept of agency in facilitating organisational change. However, it primarily focuses on Scrum practices rather than explicitly addressing Agentic Agility principles such as intentional shaping of outcomes, adaptability, or the distinction between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical context.",
+    "level": "Ignored"
   }
 }

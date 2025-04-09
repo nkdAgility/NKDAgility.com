@@ -523,11 +523,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T23:33:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:59:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses team dynamics, engagement, and decision-making in product development, without a clear focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on team dynamics, empowerment, and collaboration in product development, with no explicit mention of Test First Development principles or practices. While it touches on continuous feedback loops, which could relate to testing, it does not delve into the specifics of defining success criteria or the role of testing in the development process.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -880,14 +883,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T19:06:05",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-04-08T15:59:55",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses team dynamics, empowerment, and collaboration, which are relevant to the Scrum Master role. However, it lacks direct references to specific Scrum practices or ceremonies, and while it touches on Agile principles, it does not focus explicitly on the responsibilities of a Scrum Master. The discussion is more general about team engagement and product development rather than the specific role of a Scrum Master.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses team dynamics, empowerment, and collaboration, which are relevant to the Scrum Master's role. However, it lacks direct mentions of the Scrum Master and does not delve deeply into specific Scrum practices or responsibilities. The focus is more on general product development and team morale rather than the specific functions and impact of a Scrum Master.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -1614,6 +1617,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses team empowerment, collaboration, and morale in product development, which are relevant to software engineering practices. However, it does not explicitly mention the One Engineering System or its principles, nor does it focus on the integration and standardisation of engineering processes. The discussion is more centred on team dynamics and personal development rather than the framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:59:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses themes of empowerment, collaboration, and decision-making at the team level, which align with the principles of Agentic Agility. However, it lacks explicit references to the concept itself and does not differentiate between human and AI capabilities. The focus is more on general team dynamics and morale rather than a deep exploration of intentional shaping of outcomes through agency.",
     "level": "Ignored"
   }
 }

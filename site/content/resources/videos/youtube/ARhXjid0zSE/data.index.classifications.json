@@ -187,11 +187,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses feedback and engagement in Scrum, with no clear focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:23:13",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content discusses the importance of feedback and engagement in Agile practices but does not explicitly mention Test First Development or its principles. While it touches on collaboration and stakeholder involvement, it lacks a focus on defining success criteria or testing methodologies, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -652,14 +655,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T14:08:33",
+    "calculated_at": "2025-04-08T16:23:16",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
     "final_score": 60.0,
-    "reasoning": "The content discusses the importance of feedback and engagement within the Scrum framework, which is relevant to the Scrum Master's role in facilitating communication and collaboration. However, it does not delve deeply into specific Scrum Master responsibilities or practices, leading to a moderate confidence score.",
+    "reasoning": "The content discusses the importance of feedback and engagement in Agile practices, which is relevant to the Scrum Master's role in facilitating communication and collaboration within the team. However, it does not explicitly mention the Scrum Master or delve deeply into their specific responsibilities. The focus is more on general Agile principles and the role of the product owner, which detracts from a stronger alignment with the Scrum Master category.",
     "level": "Tertiary"
   },
   "Enterprise Agility": {
@@ -1599,6 +1602,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Agile practices and the importance of feedback and engagement within teams, which are not directly related to the One Engineering System framework. While it touches on themes of collaboration and communication, it does not discuss the principles, components, or implementation of 1ES. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:23:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of feedback and engagement in Agile practices, which touches on aspects of agency and intentionality. However, it primarily focuses on general Agile principles rather than explicitly addressing Agentic Agility or differentiating between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals and systems, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

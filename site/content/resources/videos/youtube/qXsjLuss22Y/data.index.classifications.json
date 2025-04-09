@@ -391,15 +391,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T17:42:39",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "calculated_at": "2025-04-08T16:54:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the concept of a sprint goal, which is a crucial element within the Scrum framework. However, it primarily focuses on the tactical aspect of sprint goals rather than the broader responsibilities and practices of a Scrum Master. While it touches on the importance of goals in guiding team efforts, it lacks a direct exploration of the Scrum Master's role in facilitating these goals or coaching the team. Therefore, while there is some alignment with the category, it does not delve deeply into the responsibilities or practices of a Scrum Master.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses the concept of a sprint goal within the Scrum framework, which is relevant to the role of a Scrum Master. However, it does not explicitly address the responsibilities or influence of the Scrum Master, focusing instead on tactical aspects of Scrum. While it aligns with the Scrum framework, it lacks depth in discussing the Scrum Master's role, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -436,11 +436,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:14:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:54:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Sprint goals and product vision, which are not related to Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, discussing its tactical nature and importance in guiding team efforts. However, it does not mention Test First Development or its principles, nor does it explore any related testing practices. The discussion is centred around Scrum roles and objectives rather than the Test First approach, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1566,6 +1569,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, which is a specific Agile methodology. It does not discuss the One Engineering System (1ES) or its principles, components, or implementation. The discussion is centred around Scrum practices, making it largely irrelevant to the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:54:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, discussing its tactical nature and importance in aligning team efforts. However, it does not explicitly address Agentic Agility or its key themes such as intentional shaping of outcomes, the distinction between human and AI capabilities, or the role of accountability and reflection. The discussion is more about Agile practices rather than the intentionality and agency that characterise Agentic Agility.",
     "level": "Ignored"
   }
 }

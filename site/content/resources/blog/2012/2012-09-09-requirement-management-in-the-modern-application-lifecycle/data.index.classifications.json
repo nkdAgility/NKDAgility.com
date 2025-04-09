@@ -1204,11 +1204,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:47:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:01:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses requirement management using TFS and does not focus on Test First Development or related testing practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses requirement management and tools related to Team Foundation Server (TFS), with no explicit mention of Test First Development principles or practices. While it touches on aspects of agile methodologies, it does not focus on defining success criteria before implementation or the importance of testing in the development process, which are core to Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1288,11 +1291,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:47:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:01:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses requirement management and various tools related to Team Foundation Server, without a clear focus on the responsibilities or practices of a Scrum Master.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on requirement management and tools related to Team Foundation Server (TFS), with no direct mention of the Scrum Master role or its responsibilities. While it touches on agile methodologies, it does not delve into the specific functions or impact of a Scrum Master, nor does it discuss coaching, mentoring, or team dynamics, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1581,6 +1587,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses requirement management tools and practices within the context of Team Foundation Server (TFS) but does not explicitly focus on the concept of competence. While it touches on the need for effective requirement capture and the challenges faced, it lacks a direct emphasis on continuous learning, skill development, or fostering a culture of competence. The discussion is more about tools and processes rather than the underlying principles of professionalism and quality delivery that define competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:00:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on requirement management within the context of Team Foundation Server (TFS) and does not explicitly discuss Agentic Agility or its principles. While it touches on aspects of agility and tools that may enhance productivity, it lacks a clear connection to the intentional shaping of outcomes, autonomy, or the interplay between human and AI capabilities. The discussion is more about tools and practices rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

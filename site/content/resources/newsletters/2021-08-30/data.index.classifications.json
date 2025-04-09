@@ -544,14 +544,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T02:22:20",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-04-08T17:17:42",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content briefly mentions Scrum in the context of workshops and training but lacks a focused discussion on the role and responsibilities of a Scrum Master. While it touches on Agile principles and training techniques, it does not delve into specific Scrum Master practices or the facilitation of Scrum ceremonies, which are central to the category. The overall emphasis is more on training delivery rather than the Scrum Master role itself.",
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions Scrum in the context of workshops and training but does not focus on the role or responsibilities of a Scrum Master. While it discusses agile principles and training techniques, it lacks depth in exploring the Scrum Master's specific impact on team dynamics or organisational change. The primary focus is on training delivery rather than the Scrum Master's role.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -988,11 +988,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T13:07:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:17:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses training delivery methods and workshops related to Agile but does not address Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on training workshops related to agility and Scrum, with no explicit discussion of Test First Development principles or practices. While it mentions concepts like knowledge retention and collaboration, these are not directly tied to the Test First Development category. The content lacks depth and detail on any relevant topics, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1575,6 +1578,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on training workshops related to agility and Scrum, which are not directly aligned with the principles of the One Engineering System. While there are mentions of improving collaboration and knowledge retention, the discussion lacks a clear focus on the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:17:37",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on training and workshops related to agility and Scrum, with limited direct mention of Agentic Agility. While there are elements of adaptability and engagement with customers, the discussion lacks depth in exploring the intentional shaping of outcomes or the distinction between human and AI capabilities. Overall, it does not sufficiently align with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

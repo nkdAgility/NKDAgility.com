@@ -394,14 +394,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T23:16:07",
+    "calculated_at": "2025-04-08T16:47:57",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
     "final_score": 40.0,
-    "reasoning": "The content discusses the differences between a Scrum Master and an Agile Coach, which indirectly relates to the Scrum Master role. However, the primary focus is on the Agile Coach, with only brief mentions of the Scrum Master. The alignment with core themes is moderate, as it touches on knowledge and experience relevant to both roles, but lacks depth in discussing specific Scrum Master responsibilities or practices. Overall, while the Scrum Master is mentioned, the content does not provide substantial insights into the role itself.",
+    "reasoning": "The content discusses the differences between a Scrum Master and an Agile Coach, which is relevant to the Scrum Master role. However, the primary focus is on the Agile Coach, with only brief mentions of the Scrum Master. While it touches on the knowledge and experience required for both roles, it lacks in-depth exploration of the Scrum Master's specific responsibilities and impact within a Scrum Team. Therefore, while there is some alignment with the category, the content does not provide a comprehensive discussion on the Scrum Master role itself.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -436,11 +436,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T21:25:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:48:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the roles and experiences of Agile coaches and Scrum Masters, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the differences between a Scrum Master and an Agile Coach, focusing on their roles and experiences within Agile practices. There is no direct mention of Test First Development principles, success criteria, or testing methodologies. The discussion is centred around Agile roles rather than the specific practices of Test First Development, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1554,6 +1557,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on distinguishing between the roles of Scrum Master and Agile Coach, which are specific to Agile methodologies rather than discussing the One Engineering System framework. There are no direct mentions of 1ES, and the discussion does not align with the core themes of integration and standardisation of engineering processes. The depth of discussion is limited to role definitions and experiences, lacking any reference to the principles or implementation of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:47:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the differences between a Scrum Master and an Agile Coach, focusing on their roles and experiences within Agile practices. It does not explicitly address Agentic Agility or its core themes, such as intentional shaping of outcomes, autonomy, or adaptability. The discussion lacks depth regarding the principles of Agentic Agility and does not differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

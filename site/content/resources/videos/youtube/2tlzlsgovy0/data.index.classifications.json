@@ -1375,11 +1375,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:58:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on understanding product vision and strategic goals rather than Test First Development or related testing practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the importance of understanding product vision and strategic goals within Agile teams, which does not directly relate to Test First Development principles. While it discusses team alignment and decision-making, it lacks explicit references to testing practices, success criteria, or the Test First approach. Therefore, the confidence score reflects minimal relevance to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1441,11 +1444,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:58:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses product vision and strategic goals, but does not focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which is relevant to the Scrum Master's role in fostering team alignment and agility. However, it does not explicitly mention the Scrum Master or delve into specific responsibilities or techniques associated with the role. The focus is more on general agile principles rather than the distinct functions of a Scrum Master.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1603,5 +1609,17 @@
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Agile practices and the importance of product vision, which are not directly related to the One Engineering System framework. While it touches on team alignment and decision-making, it lacks explicit discussions on the principles, components, or implementation of 1ES. The content does not provide depth on integration of tools or processes across teams, nor does it address challenges specific to adopting a unified engineering system.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:58:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which aligns with the principles of Agentic Agility, particularly in fostering team alignment and ownership. However, it lacks explicit references to the concept of Agentic Agility itself and does not differentiate between human and AI capabilities. The focus is more on general Agile practices rather than a deep exploration of intentional shaping of outcomes.",
+    "level": "Tertiary"
   }
 }

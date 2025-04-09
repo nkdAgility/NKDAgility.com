@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T11:09:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:15:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of kindness and empathy in Agile practices, with no focus on Test First Development or related testing methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content focuses on kindness and empathy within Agile practices, discussing customer and team interactions rather than the principles of Test First Development. There are no direct mentions of success criteria, testing practices, or the importance of automated testing, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -856,11 +859,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T11:10:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:15:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of kindness in Agile and its impact on customer and employee relationships, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses kindness and empathy in an Agile context, which indirectly relates to the Scrum Master's role in fostering team collaboration and customer focus. However, it does not explicitly mention the Scrum Master or delve into specific responsibilities or techniques associated with the role, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1578,6 +1584,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses kindness and empathy within Agile practices, focusing on customer and team relationships. It does not mention the One Engineering System or its principles, components, or implementation strategies, which are essential for alignment with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:15:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses kindness and empathy within Agile practices, focusing on customer and team interactions. While it touches on themes of value and collaboration, it does not explicitly address Agentic Agility or the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth in exploring the principles of Agentic Agility, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   }
 }

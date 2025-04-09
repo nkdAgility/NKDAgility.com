@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:24:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:16:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to McAfee and SharePoint, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to McAfee and SharePoint, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and provides minimal detail relevant to the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:24:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:16:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to McAfee and SharePoint, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to McAfee and SharePoint, with no direct mention of Agile methodologies, product management principles, or the Agile Product Operating Model. The focus is on troubleshooting software conflicts rather than any aspects of agile product delivery or management.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:25:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:15:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Microsoft Office SharePoint Server and McAfee, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses issues related to McAfee and SharePoint, focusing on a specific technical problem rather than the broader principles of DevOps. While there is a mention of operations and conflict resolution, it lacks explicit references to DevOps philosophy, practices, or cultural shifts. The discussion does not delve into automation, collaboration, or shared accountability, which are core themes of DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -694,11 +703,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:52:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:16:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on issues with McAfee antivirus and its interaction with SharePoint, not related to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses issues related to McAfee and MOSS 2007, focusing on troubleshooting and performance conflicts rather than Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion lacks alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1330,11 +1342,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:52:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:16:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical issues with SharePoint and antivirus software, with no relation to Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to McAfee and SharePoint, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the core themes of the Scrum Master category, nor does it provide any depth on the subject.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1357,11 +1372,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:52:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:16:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to McAfee and SharePoint, with no mention of Test First Development or related principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses issues related to McAfee and SharePoint, focusing on error messages and troubleshooting rather than any principles or practices of Test First Development. There are no direct mentions of testing methodologies, success criteria, or any related concepts that align with the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1425,6 +1443,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses an issue related to McAfee and SharePoint, focusing on a specific error encountered during installation. There are no direct mentions of the Shift-Left Strategy, nor does it align with its core themes of integrating testing, security, and compliance early in the development process. The discussion lacks depth regarding any Shift-Left practices or methodologies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:15:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to McAfee and SharePoint, with no focus on Common Goals or Agile/DevOps principles. It lacks any mention of shared objectives, alignment, or strategic goals, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:15:56",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses technical issues related to McAfee and SharePoint, with no explicit focus on competence, continuous learning, or skill development. While it touches on problem-solving, it does not align with the core themes of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:15:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses technical issues related to McAfee and SharePoint, focusing on troubleshooting rather than Continuous Improvement principles. There are no explicit mentions of Continuous Improvement, and the discussion lacks alignment with its core themes such as data-driven decision-making or fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:16:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to McAfee and SharePoint, with no explicit mention of Agentic Agility or its principles. It does not address the intentional shaping of outcomes, nor does it differentiate between human and AI capabilities in the context of agility. The focus is on troubleshooting a specific software conflict rather than exploring themes of autonomy, adaptability, or value alignment.",
     "level": "Ignored"
   }
 }

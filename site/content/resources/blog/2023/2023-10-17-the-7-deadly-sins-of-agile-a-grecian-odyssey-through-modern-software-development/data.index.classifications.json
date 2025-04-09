@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T16:14:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:28:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the philosophical parallels between ancient Greek sins and challenges in Agile software development, without focusing on Test First Development or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the philosophical implications of the seven deadly sins in the context of Agile practices, without any direct mention or exploration of Test First Development principles, success criteria, or testing methodologies. While it touches on Agile challenges, it does not align with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -853,11 +856,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T16:15:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:28:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the seven deadly sins in the context of Agile, without a specific focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses agile principles and challenges but does not specifically focus on the role of the Scrum Master. While it touches on themes relevant to agile practices, it lacks direct references to the responsibilities or influence of a Scrum Master, making it more of a general commentary on agile rather than a focused discussion on the Scrum Master role.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1599,6 +1605,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the '7 Deadly Sins of Agile' and draws parallels with ancient Greek philosophy, which does not directly address the principles or components of the One Engineering System. While it discusses challenges in agile practices, it does not mention 1ES, its integration, or standardisation of engineering processes, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:28:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the pitfalls of Agile practices through the lens of ancient Greek philosophy, focusing on human behaviours and challenges rather than the intentional shaping of outcomes or the principles of Agentic Agility. While it touches on themes of adaptability and accountability, it does not explicitly differentiate between human and AI capabilities or delve into the mechanisms of AI Agentic Agility. The discussion lacks depth in exploring the transformative capacity of individuals and systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

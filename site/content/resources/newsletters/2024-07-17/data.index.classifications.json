@@ -85,11 +85,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-13T16:02:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:57:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a product validation and discovery workshop, with no direct discussion of Scrum Master responsibilities or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on a workshop for product validation and discovery, which, while related to agile principles, does not explicitly discuss the role or responsibilities of a Scrum Master. There are mentions of agile and team collaboration, but these are secondary to the main topic of product development. The depth of discussion regarding Scrum Master responsibilities is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Scaling Kanban": {
@@ -571,11 +574,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T16:04:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:57:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a workshop for product validation and discovery, with no mention of Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a workshop for product validation and discovery, emphasising customer-centric development and collaboration. It does not explicitly discuss Test First Development principles, nor does it delve into testing methodologies or practices related to TDD or ATDD. The mention of validation techniques is too general and does not align with the specific focus of Test First Development.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1611,6 +1617,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a workshop related to product validation and discovery within the Scrum framework, which does not directly address the principles or components of the One Engineering System. While there are elements of team collaboration and customer-centric development mentioned, these are not explicitly tied to the 1ES framework or its integration and standardisation goals.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:57:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a workshop for product validation and discovery, emphasising customer-centric development and team collaboration. While it touches on themes of innovation and alignment with customer needs, it does not explicitly discuss Agentic Agility or its principles. The content lacks depth in exploring the intentional shaping of outcomes or the distinction between human and AI capabilities, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

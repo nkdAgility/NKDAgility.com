@@ -190,11 +190,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T15:56:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:35:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses general concepts of continuous improvement and team dynamics without specific reference to the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses concepts related to team ownership and continuous improvement, which are relevant to the Scrum Master's role. However, it does not explicitly mention the Scrum Master or delve into specific responsibilities or techniques associated with the role. The focus is more on financial insights and team dynamics rather than the Scrum framework itself.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1111,11 +1114,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T15:59:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:35:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses fostering a culture of continuous improvement and the importance of financial context in decision-making, with no clear focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on fostering a culture of ownership and financial insight within teams, discussing concepts like continuous improvement and team-level P&L analysis. It does not mention Test First Development, its principles, or practices, nor does it align with the core themes of defining success criteria or testing methodologies. The discussion is more about financial awareness and team dynamics rather than any testing practices.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1624,5 +1630,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on fostering a culture of ownership and financial insight within teams, which does not directly address the principles or components of the One Engineering System. While it touches on continuous improvement and team accountability, it lacks explicit discussions on integration of tools, processes, or methodologies that are central to 1ES. The content does not provide depth on the impact of 1ES or best practices for its implementation, leading to a low confidence score.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:35:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses fostering a culture of ownership and financial insight, which aligns with the principles of Agentic Agility, particularly in terms of autonomy and accountability. However, it lacks explicit mentions of Agentic Agility and does not differentiate between human and AI capabilities. The depth of discussion on the specific mechanisms of Agentic Agility is also limited, focusing more on general team empowerment and financial awareness.",
+    "level": "Tertiary"
   }
 }

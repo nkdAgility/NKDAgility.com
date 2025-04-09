@@ -181,11 +181,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T17:18:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:38:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses engineering culture and technical leadership without specific reference to Scrum Master responsibilities or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses leadership and continuous improvement, which are relevant to the Scrum Master role, but it primarily focuses on technical leadership rather than the specific responsibilities and impact of a Scrum Master. While there are mentions of fostering collaboration and a culture of excellence, the content lacks a direct focus on Scrum practices and the unique role of a Scrum Master within a Scrum Team.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1051,11 +1054,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T17:20:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:38:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on building a culture of engineering excellence without discussing Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content discusses general principles of engineering excellence, technical leadership, and continuous improvement but does not explicitly mention Test First Development or its core concepts. While there are themes of collaboration and iterative improvement, they are not specifically tied to the Test First approach, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1554,6 +1560,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses the importance of technical leadership and fostering a culture of engineering excellence, but it does not explicitly mention the One Engineering System (1ES) or its principles. While there are elements of collaboration and continuous improvement that align with the broader themes of 1ES, the focus is primarily on general engineering practices rather than the specific integration and standardisation of processes that 1ES advocates. Therefore, the confidence score reflects a low direct mention and moderate conceptual alignment with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:38:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of technical leadership and continuous improvement, which aligns with some principles of Agentic Agility, such as adaptability and fostering a culture of excellence. However, it lacks explicit mentions of Agentic Agility and does not differentiate between human and AI capabilities. The focus is more on general engineering practices rather than the intentional shaping of outcomes through agency.",
     "level": "Ignored"
   }
 }

@@ -1198,11 +1198,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:09:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:11:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on the roles and processes around using TFS in software development without a clear emphasis on Test First Development principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content provides a general overview of roles in a software development context, including planning and testing, but does not explicitly discuss Test First Development principles or practices. While it mentions testing strategies, it lacks a focus on defining success criteria before implementation or the specific methodologies associated with Test First Development, such as TDD or ATDD. The discussion is more about the roles and processes in a project rather than a deep dive into Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1279,11 +1282,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:09:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:11:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the roles of Developers, Testers, and Program Managers within the context of Visual Studio ALM, with limited focus on the Scrum Master role.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the roles of developers, testers, and program managers within the context of TFS 2010, with no direct mention of the Scrum Master role or its responsibilities. While it touches on planning and sprint activities, it does not align with the core themes of the Scrum Master category, such as coaching, mentoring, or facilitating Scrum practices. The depth of discussion regarding Scrum Master responsibilities is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1566,6 +1572,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content provides an overview of roles and activities within a project using TFS, which touches on aspects of competence such as planning and execution. However, it lacks explicit discussions on continuous learning, skill development, or the deeper implications of competence in Agile or DevOps contexts. The focus is more on the operational aspects rather than fostering a culture of competence or professional growth.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:10:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the roles and processes within a project management context using TFS 2010, without explicitly discussing Agentic Agility or its principles. While it touches on planning and execution, it lacks a clear connection to the intentional shaping of outcomes or the distinction between human and AI capabilities in agility.",
     "level": "Ignored"
   }
 }

@@ -28,6 +28,7 @@ duration: 59
 isShort: true
 tags:
 - Agile Project Management
+- Scrum Master
 - Scrum Team
 - Agile Frameworks
 - Agile Product Management

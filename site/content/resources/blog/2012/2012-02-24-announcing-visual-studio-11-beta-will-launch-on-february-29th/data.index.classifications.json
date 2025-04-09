@@ -1126,11 +1126,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:03:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:09:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the launch of Visual Studio 11 and related consulting services, with no focus on Test First Development or its principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the launch of Visual Studio 11 Beta and does not discuss Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1207,11 +1210,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:03:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:09:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the launch of Visual Studio 11 and related consulting services, with no clear focus on Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the launch of Visual Studio 11 Beta and does not mention the role or responsibilities of a Scrum Master. There is no alignment with the core themes of the Scrum Master category, and the depth of discussion is minimal, focusing instead on software tools and support services.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the launch of Visual Studio 11 Beta and the associated support from Northwest Cadence. While it mentions the importance of going live and offers consulting services, it does not explicitly discuss competence, continuous learning, or skill development in a meaningful way. The references to support and consulting are too vague to align with the core themes of competence, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:08:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the launch of Visual Studio 11 Beta and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is more about product support and consulting services rather than any form of agility related to agency.",
     "level": "Ignored"
   }
 }

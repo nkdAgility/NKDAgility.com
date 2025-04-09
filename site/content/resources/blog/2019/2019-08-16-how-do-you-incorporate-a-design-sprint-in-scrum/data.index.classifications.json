@@ -1189,11 +1189,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T18:31:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:30:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, with no focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of Design Sprints within the Scrum framework, focusing on team collaboration and refinement processes. It does not explicitly mention Test First Development principles, success criteria, or testing practices. While there are references to team activities and UX work, these do not align with the core themes of Test First Development, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1276,14 +1279,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T03:29:41",
+    "calculated_at": "2025-04-08T17:30:52",
     "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
     "final_score": 66.0,
-    "reasoning": "The content discusses the integration of UX activities within the Scrum framework, which is relevant to the Scrum Master's role in facilitating team collaboration and ensuring adherence to Scrum principles. However, it primarily focuses on the concept of Design Sprints rather than the Scrum Master's responsibilities or practices. While there are mentions of team dynamics and the importance of collaboration, the depth of discussion on the Scrum Master role itself is limited, leading to a moderate confidence score.",
+    "reasoning": "The content discusses the integration of Design Sprints within the Scrum framework, which is relevant to the role of a Scrum Master in facilitating team dynamics and ensuring effective collaboration. It mentions the responsibilities of the Development Team and the importance of refining work throughout the Sprint, aligning with the Scrum Master's role in promoting continuous improvement. However, while it touches on Scrum principles, the primary focus is on the Design Sprint concept rather than a comprehensive exploration of the Scrum Master's responsibilities, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1584,6 +1587,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on integrating Design Sprints within the Scrum framework, discussing roles and practices specific to Scrum rather than the One Engineering System. While it touches on collaboration and team dynamics, it does not explicitly mention or align with the principles of 1ES, nor does it provide depth on standardising or integrating engineering processes across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:30:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on integrating Design Sprints into Scrum, discussing roles and activities within Scrum without addressing the intentional shaping of outcomes or the principles of Agentic Agility. While it touches on collaboration and team dynamics, it lacks a clear connection to the core themes of Agentic Agility, such as autonomy, adaptability, and the distinction between human and AI capabilities.",
     "level": "Ignored"
   }
 }

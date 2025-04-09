@@ -32,6 +32,7 @@ sitemap:
   priority: 0.6
 tags:
 - Competence
+- Scrum Master
 resourceTypes:
 - video
 categories: []

@@ -1147,11 +1147,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:31:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content discusses the release of Visual Studio 2010 and its features but does not focus on Test First Development principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the features of Visual Studio Team System 2010 Beta 1, with a brief mention of testing tools. However, it lacks a direct discussion on Test First Development principles, success criteria, or detailed practices related to TDD or ATDD. The overall emphasis is on the software's capabilities rather than the Test First approach.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1234,11 +1237,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:31:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Visual Studio Team System and its features, with no discussion relevant to Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses features of Visual Studio Team System 2010 and does not mention the role or responsibilities of a Scrum Master. There is no alignment with Scrum principles or practices, and the depth of discussion regarding Scrum Masters is non-existent.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1515,6 +1521,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the features of Visual Studio Team System 2010 Beta 1 and does not discuss competence, continuous learning, or skill development. While it mentions tools that could potentially enhance development, it lacks any explicit discussion on competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:31:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the features of Visual Studio Team System 2010 Beta 1 and does not discuss Agentic Agility or its principles. There are no direct mentions of autonomy, adaptability, or intentional shaping of outcomes, nor does it explore the interplay between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

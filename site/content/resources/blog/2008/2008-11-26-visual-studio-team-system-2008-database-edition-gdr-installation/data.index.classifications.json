@@ -1066,11 +1066,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:25:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:37:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on installation instructions and prerequisites for Visual Studio Team System 2008 Database Edition, with no relevant discussion on Test First Development or TDD principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio Team System 2008 Database Edition and does not discuss any principles or practices related to Test First Development. There are no mentions of success criteria, testing methodologies, or any related concepts that align with the Test First Development category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1258,11 +1261,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:25:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:37:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio Team System and does not relate to the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the installation of Visual Studio Team System 2008 Database Edition and does not mention the Scrum Master role or any related concepts. There is no discussion of Scrum principles, team dynamics, or the responsibilities of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio Team System 2008 Database Edition GDR, providing step-by-step instructions and links to resources. While it may imply a level of competence required for installation, it does not explicitly discuss continuous learning, skill development, or the importance of competence in Agile or DevOps contexts. The mention of needing to uninstall previous versions suggests a basic understanding of software management but lacks depth in discussing competence as a foundational principle.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:37:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio Team System 2008 Database Edition GDR, with no explicit discussion of Agentic Agility or its principles. There are no mentions of autonomy, adaptability, or intentional shaping of outcomes, which are central to the category. The content lacks depth and relevance to the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

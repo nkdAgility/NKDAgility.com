@@ -382,14 +382,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T16:27:06",
+    "calculated_at": "2025-04-08T16:45:44",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
     "final_score": 80.0,
-    "reasoning": "The content explicitly discusses common mistakes made by Scrum Masters, focusing on the importance of avoiding administrative tasks and maintaining the core responsibilities of the role. It aligns well with the key topics of the Scrum Master category, particularly in terms of coaching and mentoring, as well as the emphasis on team effectiveness. The depth of discussion is substantial, providing insights into the pitfalls Scrum Masters face and reinforcing the essence of their role.",
+    "reasoning": "The content explicitly discusses the role of Scrum Masters, particularly focusing on common mistakes they make, such as falling into administrative tasks. It aligns well with the core themes of the category by addressing the responsibilities and the importance of maintaining the Scrum Master's focus on team effectiveness. The depth of discussion is substantial, providing insights into the pitfalls and the essence of the Scrum Master's role, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Agile Planning": {
@@ -421,11 +421,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T20:52:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:45:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of Scrum Masters, focusing on common mistakes related to administrative tasks. It does not mention Test First Development or its principles, nor does it align with the core themes of success criteria, testing practices, or collaboration in software development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1512,6 +1515,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, which is not aligned with the principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion is centred around Agile practices rather than the integration and standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:45:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, particularly regarding administrative tasks. While it touches on the importance of maintaining focus on team effectiveness, it does not explicitly discuss Agentic Agility or its principles. The discussion lacks depth and does not differentiate between human and AI capabilities, nor does it engage with the intentional shaping of outcomes in a meaningful way.",
     "level": "Ignored"
   }
 }

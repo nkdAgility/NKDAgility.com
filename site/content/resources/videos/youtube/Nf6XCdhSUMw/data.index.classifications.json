@@ -502,11 +502,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T23:18:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses evidence-based management and organisational behaviour, with no clear focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T15:53:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses evidence-based management and data-driven decision-making, which are not directly related to Test First Development principles. There are no explicit mentions of Test First practices, success criteria, or testing methodologies. The focus is on organisational management and metrics rather than on testing or development practices.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -841,11 +844,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T23:19:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:53:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses evidence-based management without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses evidence-based management and its impact on decision-making, which is relevant to Scrum principles but does not explicitly focus on the role of the Scrum Master. While it touches on themes of continuous improvement and team engagement, it lacks direct references to the responsibilities and influence of a Scrum Master, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1572,6 +1578,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on evidence-based management and data-driven decision-making, which are not directly related to the One Engineering System framework. While there are mentions of team collaboration and metrics, these concepts are not explicitly tied to the principles or components of 1ES. The discussion lacks depth regarding the integration of tools and processes across teams, which is a core aspect of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:53:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses evidence-based management and the importance of data-driven decision-making, which aligns with some aspects of Agentic Agility, particularly in terms of using data to inform actions. However, it lacks a direct focus on the intentional shaping of outcomes and does not differentiate between human and AI capabilities in the context of agility. The discussion is more about general management practices rather than a deep exploration of Agentic Agility principles.",
     "level": "Ignored"
   }
 }

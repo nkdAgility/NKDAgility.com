@@ -379,12 +379,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T20:35:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content title suggests a focus on Agile principles and collaboration but does not specifically address the role or responsibilities of a Scrum Master, nor does it delve into Scrum practices or ceremonies. Therefore, it is not relevant enough to classify under the Scrum Master category.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T16:44:48",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile and Scrum principles, highlighting collaboration, adaptability, and value delivery, which are relevant to the Scrum Master role. However, it lacks direct mentions of the Scrum Master and does not delve deeply into specific responsibilities or techniques associated with the role. The focus is more on general Agile practices rather than the distinct contributions of a Scrum Master.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -418,11 +421,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T20:35:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles without a focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:44:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile and Scrum principles, focusing on collaboration, adaptability, and value delivery. It does not explicitly mention Test First Development or its core concepts, such as success criteria, TDD, or ATDD. While there are general references to continuous improvement and flexibility, these do not directly align with the Test First Development category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1530,6 +1536,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on collaboration, adaptability, and value delivery. While it touches on themes relevant to software development, it does not explicitly mention or align with the principles of the One Engineering System (1ES). The discussion is centred around Agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:44:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile principles such as collaboration, adaptability, and value delivery, which are relevant to Agentic Agility. However, it lacks a direct focus on the intentional shaping of outcomes and does not differentiate between human and AI capabilities. The discussion is more about general Agile practices rather than the specific concept of agency and intentionality.",
     "level": "Ignored"
   }
 }

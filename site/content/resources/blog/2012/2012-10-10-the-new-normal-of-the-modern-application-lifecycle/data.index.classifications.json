@@ -1207,11 +1207,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T16:55:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:00:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the evolution of software development practices and the importance of agility, without a clear focus on Test First Development or its principles.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the evolution of software development practices and the importance of agility in the modern application lifecycle. While it touches on the need for adaptation and responsiveness to consumer demands, it does not explicitly mention Test First Development principles, success criteria, or specific testing methodologies like TDD or ATDD. The focus is more on general trends and challenges in software delivery rather than the specific practices of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1288,11 +1291,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T16:56:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:00:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the evolution of software development and the impact of consumerisation on IT, without a clear focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 12.0,
+    "reasoning": "The content discusses software development and the evolving landscape of IT but does not focus on the specific role or responsibilities of a Scrum Master. While it mentions agile methodologies, it does not delve into the Scrum Master's influence, techniques, or distinctions from other roles, which are critical for alignment with the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1578,6 +1584,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the evolving landscape of software development and the necessity for organisations to adapt to remain relevant. While it touches on the importance of agility and the need for continuous improvement, it does not explicitly focus on competence as a primary theme. The discussion is more about the changes in the industry and the role of IT rather than a deep exploration of competence, skill development, or strategies for fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:00:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content discusses the evolution of software development and the importance of adapting to change, but it does not explicitly address the concept of Agentic Agility or its principles. While there are mentions of agility and the need for organisations to adapt, the focus is more on general Agile practices and the software lifecycle rather than on intentional shaping of outcomes through autonomy and adaptability. The content lacks depth in discussing the distinctions between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

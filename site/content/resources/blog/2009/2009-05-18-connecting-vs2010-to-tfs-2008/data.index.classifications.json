@@ -1126,11 +1126,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:32:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on connecting Visual Studio to Team Foundation Server and does not discuss Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on connecting Visual Studio 2010 to Team Foundation Server 2008, with no direct mention or discussion of Test First Development principles, practices, or related concepts. It lacks any reference to success criteria, testing methodologies, or the impact of testing on collaboration, which are essential to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1207,11 +1210,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:32:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about connecting Visual Studio to Team Foundation Server, without any mention or relevance to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on connecting Visual Studio 2010 to Team Foundation Server 2008, with no mention of Scrum or the role of a Scrum Master. It does not align with any core themes related to Scrum or the responsibilities of a Scrum Master, and lacks any depth in discussing relevant topics.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on technical instructions for connecting Visual Studio 2010 to Team Foundation Server 2008. While it may imply a level of competence in using these tools, it does not explicitly discuss the concept of competence or its importance in Agile, Scrum, or DevOps methodologies. The discussion lacks depth and does not align with the core themes of continuous learning, skill development, or professionalism.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:32:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on connecting Visual Studio 2010 to Team Foundation Server 2008, with no explicit discussion of Agentic Agility or its principles. It lacks any mention of intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

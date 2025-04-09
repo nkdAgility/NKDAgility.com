@@ -34,9 +34,9 @@ tags:
 - Increment
 - Empirical Process Control
 - Professional Scrum
+- Scrum Master
 - Scrum Team
 - Software Development
-- Scrum Master
 - People and Process
 - Scrum Product Development
 resourceTypes:

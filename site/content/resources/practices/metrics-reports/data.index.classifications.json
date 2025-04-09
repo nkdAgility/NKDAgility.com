@@ -85,11 +85,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-13T15:53:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:45:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses metrics and reporting for teams and projects, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses metrics relevant to team performance and project management, which can be indirectly related to the Scrum Master's role in facilitating team effectiveness. However, it lacks direct mentions of the Scrum Master role and does not delve into the responsibilities or techniques specific to Scrum Masters. The focus is more on metrics rather than the Scrum framework itself, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Scaling Kanban": {
@@ -583,11 +586,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T15:55:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:45:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses metrics and reports related to team and project performance, with no focus on Test First Development or related practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on metrics for team and project performance, discussing customer and employee satisfaction, defect trends, and other performance indicators. It does not explicitly mention Test First Development or its principles, nor does it delve into testing practices or the importance of success criteria in software delivery. The discussion is more aligned with general performance monitoring rather than the specific practices of Test First Development.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1617,6 +1623,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses metrics for team and project performance, which could relate to the One Engineering System's goals of improving efficiency and quality. However, it lacks direct mentions of 1ES principles or components, and the focus is more on general performance metrics rather than the integration and standardisation of engineering processes. The depth of discussion on metrics is substantial, but it does not specifically address the core themes of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:45:09",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on metrics for team and project performance, which does not directly address the intentional shaping of outcomes or the principles of Agentic Agility. While it mentions aspects of team performance and efficiency, it lacks a clear discussion on autonomy, adaptability, or the interplay between human and AI capabilities. The content does not provide depth on the transformative capacity of individuals or systems, nor does it explore the role of intent or accountability, which are central to Agentic Agility.",
     "level": "Ignored"
   }
 }

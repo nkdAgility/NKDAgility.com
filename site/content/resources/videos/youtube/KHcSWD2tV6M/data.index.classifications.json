@@ -184,11 +184,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:36:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:23:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses communication gaps and silence in Agile teams rather than Test First Development or related testing practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses communication gaps in Agile teams and does not explicitly mention Test First Development or its principles. While it touches on collaboration and feedback, it lacks a direct focus on success criteria, testing practices, or the specific methodologies associated with Test First Development.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -634,12 +637,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:36:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:23:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses general communication issues within Agile teams without specifically centering on the responsibilities, skills, or practices of a Scrum Master.",
-    "level": "Ignored"
+    "final_score": 60.0,
+    "reasoning": "The content discusses communication gaps in Agile teams, which is relevant to the Scrum Master's role in fostering open dialogue and collaboration. However, it does not explicitly mention the Scrum Master or delve deeply into their specific responsibilities. The focus is more on general Agile principles rather than the distinct role of a Scrum Master.",
+    "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -1554,6 +1560,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses communication issues within Agile teams, which is not directly related to the One Engineering System framework. While it touches on collaboration and value delivery, it lacks explicit references to 1ES principles, components, or implementation strategies. The discussion is more focused on Agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:23:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses communication gaps in Agile teams, which indirectly relates to the concept of agency and intentionality. However, it primarily focuses on the consequences of silence and strategies for fostering communication rather than explicitly addressing Agentic Agility principles. The mention of alignment and value delivery aligns somewhat with the category, but the depth of discussion on Agentic Agility itself is minimal.",
     "level": "Ignored"
   }
 }

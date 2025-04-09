@@ -163,20 +163,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:03:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:43:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses code upgrades and internal documentation without any reference to Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the upgrade of a Service Manager Factory and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of empirical decision-making or the key topics outlined in the EBM category. The content lacks depth and relevance to the core themes of EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:03:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:43:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses code upgrades and documentation for a managed service factory, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the upgraded Service Manager Factory and its features, with no explicit discussion of the Agile Product Operating Model or its principles. While it mentions internal documentation and code release, these topics do not align with the core themes of APOM, such as product-oriented mindsets or agile methodologies in product management.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -322,11 +328,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:03:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:43:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses code upgrades and internal documentation without a clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the upgraded Service Manager Factory and its features, with no explicit discussion of DevOps principles or practices. While it mentions internal documentation and installation processes, these aspects do not align with the core themes of DevOps, such as collaboration, automation, or shared accountability. The content lacks depth in discussing any DevOps-related concepts, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -706,11 +715,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:53:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:43:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an upgrade and release of code related to a managed service factory without clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content briefly mentions an upgrade and release of code, which could imply some aspects of Continuous Delivery, but it lacks explicit discussion of Continuous Delivery principles, practices, or the role of automation. The focus is more on the features and documentation of a specific service rather than on the broader themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1348,11 +1360,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:53:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:43:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum methodology, roles, or the responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical upgrade of a service manager factory and does not mention the Scrum Master role or its responsibilities. There is no discussion of Scrum principles, team dynamics, or any related topics that would align with the category. The content is more aligned with software development and project management rather than Scrum practices.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1375,11 +1390,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:53:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:43:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses code upgrades and documentation without mentioning Test First Development or related testing principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the upgrade of the Service Manager Factory and does not discuss Test First Development principles, success criteria, or any related testing practices. There are no explicit mentions of testing methodologies or the importance of defining success criteria before implementation, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1443,6 +1461,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses code upgrades and documentation processes related to a managed service factory, with no explicit mention of the Shift-Left Strategy or its principles. It lacks alignment with the core themes of integrating testing, security, or compliance early in the development lifecycle, and does not provide any depth on the topic.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:43:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading a service manager and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, which are central to the category. The discussion is more about features and documentation rather than collaborative goals or team alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:43:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the upgrade and features of the Service Manager Factory, with minimal reference to competence or skill development. While there is mention of internal documentation, it does not delve into continuous learning or the importance of competence in Agile or DevOps contexts. The discussion lacks depth and does not align with the core themes of competence, such as professionalism or quality delivery.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:43:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of an upgraded Service Manager Factory and does not explicitly discuss Continuous Improvement principles. While there is a mention of internal documentation, it lacks depth in exploring how these upgrades contribute to ongoing improvement processes or team effectiveness. The content does not align with the core themes of Continuous Improvement, such as empirical evidence, experimentation, or strategies for integration into organisational processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:43:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading a service manager factory and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content lacks depth and does not align with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

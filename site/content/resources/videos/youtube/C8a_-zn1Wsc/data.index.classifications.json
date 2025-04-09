@@ -1363,11 +1363,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T15:05:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning and cognitive biases in the context of Agile and Scrum, without a focus on Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T16:06:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on immersive learning within Agile and Scrum practices, discussing cognitive biases and the importance of continuous improvement. While it touches on learning by doing, it does not explicitly mention Test First Development principles, success criteria, or testing methodologies, which are central to the category.",
     "level": "Ignored"
   },
   "Increment": {
@@ -1420,12 +1423,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T15:05:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:06:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses immersive learning in Agile but does not focus specifically on the role or responsibilities of a Scrum Master.",
-    "level": "Ignored"
+    "final_score": 71.0,
+    "reasoning": "The content discusses immersive learning in the context of Agile and Scrum, highlighting the role of Scrum practitioners, including Scrum Masters. While it mentions Scrum Masters and their importance in the learning process, the primary focus is on immersive learning techniques rather than the specific responsibilities and impact of the Scrum Master role. The discussion aligns with some core themes, such as continuous improvement and the need for practical application, but lacks depth in exploring the distinct responsibilities and influence of Scrum Masters within a Scrum Team.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -1548,6 +1554,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Agile and Scrum methodologies, discussing immersive learning and cognitive biases rather than the One Engineering System framework. There are no direct mentions of 1ES principles, components, or its impact on software quality or delivery timelines. The discussion is centred around personal development in Agile practices, which does not align with the core themes of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:06:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on immersive learning within Agile and Scrum practices, discussing cognitive biases and the importance of continuous improvement. While it touches on themes of learning and adaptability, it does not explicitly address the concept of Agentic Agility or differentiate between human and AI capabilities. The discussion lacks depth in exploring intentional shaping of outcomes, which is central to the category.",
     "level": "Ignored"
   }
 }

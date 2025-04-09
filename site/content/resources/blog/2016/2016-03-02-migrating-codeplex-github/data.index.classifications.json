@@ -1117,11 +1117,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T21:07:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:36:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, with no focus on Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the process of migrating projects from Codeplex to GitHub, discussing tools and methods for this migration. There is no mention of Test First Development principles, success criteria, or testing practices, which are central to the category. The content does not align with the core themes of Test First Development, nor does it provide any depth on the subject. Therefore, the confidence score is very low.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1204,11 +1207,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T21:08:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:36:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on Scrum Master responsibilities or related topics.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating projects from Codeplex to GitHub, with no direct mention of Scrum Master responsibilities or related concepts. It lacks any discussion on Scrum principles, team dynamics, or the role of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1494,6 +1500,18 @@
     "non_ai_confidence": 20,
     "final_score": 6.0,
     "reasoning": "The content primarily focuses on the process of migrating projects from Codeplex to GitHub, discussing specific tools and methods for this migration. It does not mention or align with the principles of the One Engineering System, such as standardisation, integration of tools across teams, or best practices for software development environments. The discussion is centred around personal experiences and technical steps rather than the broader framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:36:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating projects from Codeplex to GitHub, with no explicit discussion of Agentic Agility or its principles. While there are elements of adaptability in the migration process, the content lacks depth in exploring intentional shaping of outcomes, accountability, or the interplay between human judgement and AI logic. Overall, it does not align with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

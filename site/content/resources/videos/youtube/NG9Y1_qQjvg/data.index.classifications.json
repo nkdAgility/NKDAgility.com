@@ -526,11 +526,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T12:23:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:49:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on installing and configuring Visual Studio 2013 Release Management, which does not relate to the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of setting up release management tools and does not discuss the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, team dynamics, or the influence of a Scrum Master on organisational change, which are key topics in the category. The content lacks depth in relation to Scrum practices, making it largely irrelevant to the Scrum Master classification.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -937,11 +940,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T12:23:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on installation and configuration of release management tools, unrelated to Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T17:49:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of release management tools, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any depth or alignment with the core themes of Test First Development, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1488,6 +1494,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the technical steps for setting up release management tools, with minimal direct discussion on competence or continuous skill development. While it touches on the importance of permissions and effective management, it lacks a deeper exploration of competence as a foundational principle in Agile or DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:49:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical steps for setting up release management tools, with no explicit discussion of Agentic Agility or its principles. While there is a brief mention of simplifying processes, it lacks depth in exploring intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities. Overall, it does not align with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

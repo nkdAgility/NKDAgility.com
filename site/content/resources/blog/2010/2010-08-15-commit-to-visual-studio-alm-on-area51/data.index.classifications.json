@@ -1123,11 +1123,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:54:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:19:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about the proposal for a new community related to Visual Studio ALM and does not discuss Test First Development or its principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the commitment stage of a community proposal for Visual Studio ALM on Area51, with no direct references to Test First Development principles, success criteria, or testing practices. It lacks any substantial discussion on the core themes of Test First Development, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1204,11 +1207,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:54:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:19:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on community engagement for a Visual Studio ALM proposal and does not discuss Scrum Master roles, responsibilities, or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the commitment to a community for Visual Studio ALM and does not mention the role or responsibilities of a Scrum Master. There is no alignment with the core themes of the Scrum Master category, and the depth of discussion is minimal, focusing instead on community engagement and voting processes.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1479,6 +1485,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on promoting a community proposal for Visual Studio ALM on StackExchange, with an emphasis on user engagement and voting. While it touches on the importance of community involvement, it does not explicitly discuss competence, continuous learning, or skill development. The alignment with the core themes of competence is minimal, and the depth of discussion regarding competence is lacking, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:19:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on community engagement and voting for a proposal on StackExchange, lacking any explicit discussion of Agentic Agility principles. While it mentions the need for user commitment and shaping outcomes through voting, it does not delve into the intentional shaping of outcomes, the distinction between human and AI capabilities, or the mechanisms of Agentic Agility. Overall, the content does not align with the core themes of the category.",
     "level": "Ignored"
   }
 }

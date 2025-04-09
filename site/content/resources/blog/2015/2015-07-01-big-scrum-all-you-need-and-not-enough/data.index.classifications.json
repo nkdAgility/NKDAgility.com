@@ -1189,11 +1189,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T21:59:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:37:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses scaling Scrum and Agile practices without focusing on Test First Development or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses scaling Scrum and the challenges associated with it, without any explicit mention or focus on Test First Development principles. While it touches on agile practices and team professionalism, it does not delve into success criteria, testing methodologies, or the importance of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1273,14 +1276,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T03:56:48",
+    "calculated_at": "2025-04-08T17:37:32",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
     "final_score": 61.0,
-    "reasoning": "The content discusses the concept of scaling Scrum and the importance of professional teams, which aligns with the responsibilities of a Scrum Master. However, it lacks direct mentions of the Scrum Master role and specific practices related to Scrum ceremonies or coaching techniques. The depth of discussion on scaling and team dynamics provides some insight, but it does not focus explicitly on the Scrum Master’s contributions.",
+    "reasoning": "The content discusses scaling Scrum and the importance of embodying agile values and principles, which aligns with the Scrum Master's role in promoting agility. However, it lacks direct mentions of the Scrum Master role and does not delve deeply into specific responsibilities or techniques associated with the position. The focus is more on scaling practices rather than the Scrum Master's influence or responsibilities.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1587,6 +1590,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on scaling Scrum and does not directly address the principles or components of the One Engineering System. While it discusses challenges in software development and the need for professional teams, it does not align with the core themes of integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:37:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses scaling Scrum and the challenges associated with it, which does not directly address the concept of Agentic Agility. While there are mentions of values and principles, the focus is on Scrum practices rather than the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth in exploring the distinctions between human and AI capabilities in the context of agility, and it does not provide a clear framework for understanding Agentic Agility.",
     "level": "Ignored"
   }
 }

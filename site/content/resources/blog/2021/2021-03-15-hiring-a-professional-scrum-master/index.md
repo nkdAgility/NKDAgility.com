@@ -24,11 +24,11 @@ aliasesArchive:
 - /hiring-a-professional-scrum-master
 - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 tags:
+- Scrum Master
 - Professional Scrum
 - Scrum Team
 - Software Development
 - People and Process
-- Scrum Master
 - Agile Project Management
 - Technical Leadership
 - Agile Frameworks

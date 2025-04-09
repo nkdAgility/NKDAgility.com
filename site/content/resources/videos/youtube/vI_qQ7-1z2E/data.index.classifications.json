@@ -505,11 +505,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T23:59:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:04:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the PSM II course and the role of a Scrum Master, with no mention of Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the PSM II certification and the role of a Scrum Master, with no direct mention or discussion of Test First Development principles. While it touches on skill development and facilitation techniques, these topics do not align with the core themes of Test First Development, such as success criteria, automated testing, or TDD practices.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -853,14 +856,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T17:45:45",
+    "calculated_at": "2025-04-08T17:04:10",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
-    "ai_alignment": 35,
-    "ai_depth": 30,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 20,
     "final_score": 80.0,
-    "reasoning": "The content primarily focuses on the PSM II course, which is directly related to the development of skills and capabilities as a Scrum Master. It discusses the role of the Scrum Master, the importance of facilitation, and the distinction between validation and skill development. The depth of discussion is significant, as it elaborates on the responsibilities and techniques relevant to Scrum Masters, although it could benefit from more specific examples of Scrum practices. Overall, the content aligns well with the key topics of the Scrum Master category.",
+    "reasoning": "The content primarily focuses on the PSM II certification and its role in developing skills and capabilities as a Scrum Master. It discusses the responsibilities and accountabilities of a Scrum Master, emphasising the importance of facilitation and skill development over mere validation of existing skills. The depth of discussion is significant, providing insights into the course's objectives and methodologies, which align closely with the core themes of the Scrum Master role. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1584,6 +1587,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the PSM II certification and Scrum Master skills, which are not directly related to the One Engineering System framework. While it discusses skill development and facilitation techniques, it does not address the principles, integration, or implementation of 1ES. The discussion is centred around Scrum methodology rather than the standardisation and integration of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:04:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the PSM II certification and its role in skill development for Scrum Masters. While it touches on concepts of accountability and skill enhancement, it does not explicitly address Agentic Agility or its principles. The focus is more on the certification process and facilitation techniques rather than the intentional shaping of outcomes through autonomy and adaptability, which are central to Agentic Agility.",
     "level": "Ignored"
   }
 }

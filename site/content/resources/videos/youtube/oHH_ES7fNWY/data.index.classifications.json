@@ -514,11 +514,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:50:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on configuring emails for Office 365 and does not discuss the Scrum Master role or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on configuring email notifications in a release management system using Office 365, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the core themes of the Scrum Master category, nor does it provide any depth on the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -919,11 +922,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:50:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on configuring emails for an application and does not discuss Test First Development or related principles and practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on configuring email notifications in a release management system using Office 365, with no mention or discussion of Test First Development principles, practices, or related concepts.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1464,6 +1470,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the technical steps for configuring email notifications in a release management system, with no direct discussion of competence or its importance in Agile or DevOps contexts. While it touches on the need for effective communication within a team, it lacks depth in exploring continuous learning, skill development, or the professional standards associated with competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:50:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on configuring email notifications in a release management system and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is practical and technical, lacking any depth related to the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

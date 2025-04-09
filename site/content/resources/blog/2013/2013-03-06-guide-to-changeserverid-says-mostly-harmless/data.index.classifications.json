@@ -1135,11 +1135,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T01:37:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:56:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses the ChangeServerId command in TFS and GUID issues but does not relate to Test First Development or Agile practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the ChangeServerId command in the context of TFS upgrades and GUID issues, which does not relate to Test First Development principles. There are no direct mentions of success criteria, testing practices, or the importance of testing in the development process, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1222,11 +1225,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T01:37:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:56:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about TFS configuration and server management, with no reference to Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical aspects of TFS upgrades and the ChangeServerId command, with no direct mention of Scrum Master responsibilities or related concepts. It lacks any discussion on Scrum principles, team dynamics, or the role of a Scrum Master, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1500,6 +1506,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the technical aspects of using ChangeServerId in TFS upgrades, with minimal discussion on competence or skill development. While it touches on the importance of understanding GUIDs and the implications of misconfigurations, it does not delve into continuous learning, professionalism, or strategies for fostering competence within teams. The discussion lacks depth in relation to the core themes of competence, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:56:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of using ChangeServerId in TFS upgrades, discussing GUID issues and operational commands without addressing the intentional shaping of outcomes, autonomy, or adaptability. It lacks any mention of Agentic Agility principles or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

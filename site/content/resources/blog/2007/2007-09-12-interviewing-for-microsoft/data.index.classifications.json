@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:32:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:33:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal job interview experience and does not address Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a personal experience related to interviewing for a job at Microsoft, discussing challenges and lessons learned in software development and public speaking. There are no direct mentions of Evidence-Based Management principles or metrics, and the discussion does not align with the core themes of EBM such as data-informed decision-making or empirical evidence. The content lacks depth in relation to EBM, making it unsuitable for this category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:32:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:33:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal experience related to job interviews and technical skills, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on a personal experience related to interviewing for a job at Microsoft, discussing technical skills and interview processes rather than any principles or practices related to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management, or the key topics outlined in the APOM framework. The content lacks depth in discussing any relevant concepts, resulting in a very low confidence score for alignment with the category.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -316,11 +322,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:32:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:33:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal experience with job interviews at Microsoft, focusing on the role and responsibilities of an Application Developer Consultant, rather than DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a personal experience related to interviewing for a job at Microsoft, detailing the interview process and the skills required for a specific role. While it touches on software development, it does not explicitly discuss DevOps principles, practices, or cultural shifts. The mention of software development and customer engagement is too peripheral to align with the core themes of DevOps, which emphasises collaboration, automation, and shared accountability.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -706,11 +715,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:08:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:33:42",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and challenges during job interviews, not related to Continuous Delivery principles or practices.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on a personal experience related to interviewing for a job at Microsoft, discussing challenges and lessons learned in software development and public speaking. There are no direct mentions of Continuous Delivery principles, practices, or related topics. The discussion does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or rapid feedback. The depth of discussion regarding Continuous Delivery is virtually non-existent, as the content is centred around personal experiences rather than the delivery practices themselves.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1351,11 +1363,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:08:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:33:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a job interview experience at Microsoft and does not discuss the role or responsibilities of a Scrum Master or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience related to interviewing for a technical role at Microsoft, with no direct mention of Scrum Master responsibilities or concepts. While it touches on software development and technical skills, it does not align with the core themes of the Scrum Master role, such as facilitation, coaching, or team dynamics. The discussion lacks depth regarding Scrum practices or the impact of a Scrum Master, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1378,11 +1393,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:08:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:33:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a job interview experience at Microsoft with no mention of Test First Development, TDD, or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the author's personal experience interviewing for a job at Microsoft, discussing the interview process, challenges faced, and lessons learned in software development and public speaking. There are no direct mentions or discussions related to Test First Development principles, success criteria, or testing practices. The content does not align with the core themes of the category, nor does it provide any depth on the subject matter, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1446,6 +1464,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on a personal experience related to job interviews at Microsoft, discussing roles, responsibilities, and personal reflections. There are no direct mentions of the Shift-Left Strategy, nor does it align with its core themes of integrating testing, security, and compliance early in the software development lifecycle. The discussion lacks depth on any relevant methodologies or practices associated with the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:33:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a personal journey of interviewing for a job at Microsoft, detailing experiences and challenges faced. While it touches on skills and knowledge relevant to the role, it does not explicitly discuss Common Goals or their significance in Agile or DevOps frameworks. The mention of improving oneself and learning from experiences is vague and does not connect to the principles of aligning strategy with execution or shared objectives within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:33:20",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the author's experience interviewing for a job at Microsoft, highlighting the importance of technical knowledge and skills in software development. While it touches on the need for continuous learning and improvement, particularly in areas like CLR and public speaking, the primary focus is on the interview process rather than a deep exploration of competence as a foundational principle. The discussion of learning from feedback and identifying knowledge gaps aligns with the concept of competence, but it lacks depth and direct mentions of competence as a core theme.",
+    "level": "Tertiary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:33:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a personal journey through the interview process at Microsoft, detailing experiences and challenges faced. While there are mentions of learning and self-improvement, these are not explicitly tied to the principles of Continuous Improvement as defined in the category. The discussion lacks depth in terms of strategies or frameworks related to Continuous Improvement, and the overall focus is more on personal anecdotes rather than systematic improvement processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:33:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a personal journey through the interview process at Microsoft, discussing challenges and lessons learned in software development and public speaking. While there are elements of personal growth and adaptability, the content does not explicitly address the principles of Agentic Agility, such as intentional shaping of outcomes or the interplay between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical environment, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

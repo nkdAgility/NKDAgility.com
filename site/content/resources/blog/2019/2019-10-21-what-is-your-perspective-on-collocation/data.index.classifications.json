@@ -1183,11 +1183,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T17:53:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:29:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses collocation in Scrum teams and does not address Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses collocation in Scrum teams and does not address Test First Development principles, success criteria, or testing practices. While it touches on team dynamics, it lacks any direct relevance to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1270,14 +1273,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T03:16:47",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "calculated_at": "2025-04-08T17:29:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the concept of collocation within Scrum teams and touches on the role of the Scrum Master in mitigating challenges faced by distributed teams. While it does not delve deeply into the responsibilities or practices of a Scrum Master, it does highlight the importance of the Scrum Master's role in addressing organisational impediments related to team dynamics. The discussion is relevant but not exhaustive, leading to a moderate confidence score.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of collocation in Scrum teams and highlights the Scrum Master's responsibility in addressing the challenges of distributed teams. It explicitly mentions the Scrum Master and their role in minimising negative impacts and working on organisational impediments. The discussion aligns well with the core themes of the category, particularly regarding the Scrum Master's influence on team dynamics and organisational culture. However, while the content is relevant, it primarily focuses on collocation rather than a broader exploration of the Scrum Master's responsibilities, which slightly limits its depth.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1587,6 +1590,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses collocation within Scrum teams, focusing on communication and team dynamics rather than the principles or practices of the One Engineering System. While it touches on team organisation, it does not address the integration or standardisation of engineering processes, which are core to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:29:14",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses collocation in Scrum teams, focusing on communication and performance rather than the intentional shaping of outcomes through autonomy and adaptability. While it touches on team dynamics and the role of the Scrum Master, it does not explicitly address Agentic Agility or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

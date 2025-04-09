@@ -163,20 +163,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:13:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:48:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses challenges faced during application deployment and documentation issues, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the challenges of application deployment and the issues arising from poor documentation. It does not explicitly mention Evidence-Based Management or its key topics. While there is a focus on the difficulties faced during installation, it lacks any reference to data-informed decision-making or metrics that would align with EBM principles.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:13:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:48:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses challenges related to installation documentation and does not address Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses challenges related to application deployment and documentation issues, which are not aligned with the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or the core themes of APOM. The focus is on installation difficulties rather than product delivery or agile methodologies.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -322,11 +328,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:14:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:48:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses challenges related to installation documentation and the difficulties faced during deployment, without a clear focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses challenges related to application deployment, which is a component of the DevOps process. However, it primarily focuses on the issues of documentation and installation rather than the broader principles of DevOps such as collaboration, automation, or shared accountability. The mention of deployment is too vague and does not delve into the cultural or philosophical aspects of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -709,11 +718,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T22:09:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:48:25",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues with installation documentation and challenges in deploying a complex application, without addressing principles or practices of Continuous Delivery.",
+    "final_score": 22.0,
+    "reasoning": "The content discusses challenges related to application deployment, which is tangentially related to Continuous Delivery. However, it lacks explicit mentions of Continuous Delivery principles, automation, or strategies for improving software quality. The focus is primarily on documentation issues rather than the broader practices and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1345,11 +1357,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T22:09:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:48:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to application deployment and documentation, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses challenges related to application deployment and documentation, with no direct mention of the Scrum Master role or its responsibilities. While there is a brief mention of navigating complex installations, it does not align with the core themes of Scrum or the impact of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1372,11 +1387,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T22:09:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:48:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the challenges of installation documentation and does not address Test First Development or its principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses challenges related to application deployment and documentation, with no explicit mention of Test First Development principles or practices. While it touches on the importance of clear documentation, it does not align with the core themes of Test First Development, such as defining success criteria or the role of testing in the development process.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1440,6 +1458,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the challenges of installation documentation and the difficulties faced by developers, with no explicit mention of the Shift-Left Strategy or its principles. While it touches on issues related to software deployment, it does not align with the core themes of integrating testing, security, or compliance early in the development process. The discussion lacks depth and detail regarding the Shift-Left approach, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:48:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the challenges of application deployment and the issues arising from poor documentation. While it touches on the difficulties faced during the installation process, it does not explicitly mention or align with the concept of Common Goals within Agile or DevOps frameworks. The focus is on personal experiences and frustrations rather than on shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:48:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses challenges related to application deployment and the impact of poor documentation, which indirectly touches on competence. However, it lacks explicit discussions on continuous learning, skill development, or strategies for fostering a culture of competence. The focus is more on the frustrations of installation rather than on the principles of professionalism and quality delivery associated with competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:48:10",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses challenges related to application deployment and documentation but does not explicitly mention Continuous Improvement principles. While it touches on the need for better documentation, it lacks a focus on systematic improvement processes or strategies for fostering a culture of learning and experimentation. The discussion is primarily anecdotal and does not provide depth on Continuous Improvement methodologies or frameworks.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:48:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the challenges of application deployment and the issues arising from poor documentation. It does not explicitly mention Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes through autonomy or adaptability. The focus is on practical difficulties rather than the transformative capacity of individuals or systems, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

@@ -385,14 +385,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T16:23:41",
+    "calculated_at": "2025-04-08T16:34:43",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 20,
     "final_score": 72.0,
-    "reasoning": "The content explicitly mentions the role of a Scrum Master and discusses how digital whiteboards can enhance team collaboration, which aligns with the responsibilities of a Scrum Master. However, while it touches on relevant themes such as engagement and facilitation, the depth of discussion on Scrum-specific practices and metrics is limited, leading to a moderately high confidence score.",
+    "reasoning": "The content explicitly mentions the role of a Scrum Master and discusses how digital whiteboards enhance collaboration within teams, which aligns with the responsibilities of a Scrum Master. However, while it touches on relevant themes such as engagement and facilitation, the primary focus is on the tools rather than a comprehensive exploration of the Scrum Master's role. The depth of discussion on Scrum principles and practices is moderate, leading to a high but not maximum confidence score.",
     "level": "Secondary"
   },
   "Agile Planning": {
@@ -427,11 +427,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T18:17:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:34:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the use of digital whiteboards in Agile collaboration, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the use of digital whiteboards in enhancing collaboration within agile teams. While it touches on aspects of team dynamics and engagement, it does not explicitly discuss Test First Development principles, success criteria, or testing practices. The mention of setting clear objectives is somewhat related but does not delve into the specifics of Test First Development, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1539,6 +1542,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the use of digital whiteboards in Agile collaboration, specifically from a Scrum Master's perspective. While it discusses collaboration and engagement, it does not directly address the principles or components of the One Engineering System (1ES) framework, nor does it explore integration of tools and processes across teams. The discussion is more about personal experiences and recommendations regarding digital tools rather than the standardisation and unification of engineering practices that 1ES entails.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:34:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the use of digital whiteboards in Agile collaboration, which does not directly address the concept of Agentic Agility. While it mentions aspects of engagement and adaptability, it lacks explicit discussions on intentional shaping of outcomes, accountability, or the interplay between human and AI capabilities. The depth of discussion on the tools is significant, but it does not align closely with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -1180,11 +1180,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T08:56:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:25:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on providing training and facilitating virtual classes using Microsoft Teams and Mural, with no discussion on Test First Development or related testing practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on delivering virtual classes using Microsoft Teams and Mural, discussing facilitation techniques and Scrum values. It does not address Test First Development principles, success criteria, or testing practices, which are central to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1270,14 +1273,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T03:04:29",
+    "calculated_at": "2025-04-08T17:25:04",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
-    "ai_depth": 30,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
     "final_score": 72.0,
-    "reasoning": "The content discusses the role of a Scrum Master in facilitating training and creating a safe space for collaboration, which aligns with the responsibilities of a Scrum Master. It also touches on Scrum values and self-organising teams, which are key concepts in the Scrum framework. However, the primary focus is on the use of technology for training rather than on the Scrum Master role itself, leading to a slightly lower confidence score.",
+    "reasoning": "The content discusses the role of the Scrum Master in facilitating Scrum training and creating a safe space for collaboration, which aligns with the responsibilities and impact of a Scrum Master. It mentions Scrum values and self-organising teams, which are core themes of the category. However, while the content is relevant, it primarily focuses on the use of technology for training rather than a comprehensive exploration of the Scrum Master's role, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1584,6 +1587,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on delivering virtual classes using Microsoft Teams and Mural, with a strong emphasis on Scrum training. While it touches on concepts like self-organising teams and collaboration, it does not explicitly discuss the One Engineering System framework or its principles. The discussion is more about practical training methods rather than the integration and standardisation of engineering processes, which is the core of the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:24:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on delivering virtual classes using Microsoft Teams and Mural, with an emphasis on creating a safe space and facilitating self-organising teams. While it touches on concepts related to autonomy and adaptability, it lacks a direct discussion of Agentic Agility principles, such as the intentional shaping of outcomes or the distinction between human and AI capabilities. The depth of discussion on these themes is limited, resulting in a low confidence score for alignment with the category.",
     "level": "Ignored"
   }
 }

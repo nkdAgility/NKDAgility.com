@@ -1378,11 +1378,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the agility of project ecosystems and automation in deployment, but does not primarily address Test First Development or its principles.",
+    "calculated_at": "2025-04-08T15:55:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile practices and the importance of automation and feedback loops, which are relevant to Test First Development. However, it does not explicitly mention Test First Development principles or practices like TDD or ATDD. The focus is more on general Agile methodologies and automation rather than the specific nuances of Test First Development.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1444,12 +1447,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses general Agile practices but does not specifically focus on the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T15:55:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile practices and the importance of streamlining processes to enhance value delivery, which aligns with some Scrum Master responsibilities. However, it lacks a direct focus on the Scrum Master role, techniques for coaching, or the distinctions between Scrum and other methodologies. The mention of a 'Scrum Trainer' provides a slight connection, but overall, the content is more about Agile principles than the specific role of a Scrum Master.",
+    "level": "Tertiary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1608,6 +1614,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses Agile practices and the importance of streamlining processes, which aligns with some principles of the One Engineering System. However, it primarily focuses on Agile methodologies and automation rather than the specific integration and standardisation aspects of 1ES. The mention of CI/CD pipelines and automation is relevant but does not delve deeply into the broader framework of 1ES or its implementation challenges.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:55:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile practices and the importance of automation and feedback loops, which are relevant to the concept of Agentic Agility. However, it primarily focuses on general Agile methodologies and does not explicitly address the intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals and systems in a socio-technical context, leading to a lower confidence score.",
     "level": "Ignored"
   }
 }

@@ -505,11 +505,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T06:15:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses personal experiences and insights related to Azure DevOps, migrations, and DevOps practices, without a focus on Test First Development or its principles.",
+    "calculated_at": "2025-04-08T15:55:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 30,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on personal experiences and insights related to Azure DevOps and migration strategies, with no explicit discussion of Test First Development principles or practices. While there are mentions of automated processes and tools, they do not align with the core themes of Test First Development, such as defining success criteria or the importance of testing methodologies. The content lacks depth in discussing any Test First practices, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -838,11 +841,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T06:16:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:55:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and technical details related to Azure DevOps and DevOps practices, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Azure DevOps and the author's personal journey as a consultant, with no direct mention of the Scrum Master role or its responsibilities. While there are references to team dynamics and improving processes, these are framed within the context of DevOps rather than Scrum specifically. The discussion lacks depth regarding Scrum principles or the specific impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1572,6 +1578,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily focuses on personal experiences and insights related to Azure DevOps, with minimal direct mention of the One Engineering System (1ES). While it discusses integration and tools, it lacks a clear connection to the principles and components of 1ES. The depth of discussion on migration strategies and real-world applications is notable, but it does not sufficiently address the broader themes of standardisation and unification across teams as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:55:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal experiences and practical advice related to Azure DevOps, migration strategies, and tools, without explicitly discussing Agentic Agility or its principles. While there are elements of adaptability and empowerment, they are not framed within the context of intentional outcome shaping or the distinction between human and AI capabilities.",
     "level": "Ignored"
   }
 }

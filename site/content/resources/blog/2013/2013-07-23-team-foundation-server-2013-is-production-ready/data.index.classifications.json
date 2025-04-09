@@ -1201,11 +1201,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T18:44:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:54:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content discusses Team Foundation Server and its transition to Agile practices but does not focus on Test First Development or the principles of writing tests before code.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the production readiness of Team Foundation Server 2013 and its agile journey, with a focus on the challenges faced during upgrades and the importance of building quality into the software. However, it does not explicitly mention Test First Development principles, success criteria, or specific testing practices such as TDD or ATDD. The discussion is more about general agile practices and the evolution of the product rather than a focused exploration of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1285,11 +1288,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T18:44:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:54:51",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Team Foundation Server and its updates with brief mentions of Agile, but does not focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 22.0,
+    "reasoning": "The content briefly touches on agile practices and the challenges of adopting agility, which are relevant to the Scrum Master's role. However, it does not explicitly discuss the responsibilities or impact of a Scrum Master, nor does it delve into techniques for coaching or facilitating within a Scrum context. The focus is primarily on Team Foundation Server and its production readiness, making the Scrum Master category a secondary theme.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1581,6 +1587,18 @@
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content discusses the journey of the Team Foundation Server (TFS) team towards agility and the challenges they faced, which touches on the importance of competence in adapting to Agile methodologies. However, it primarily focuses on the product's readiness and historical context rather than a deep exploration of competence as a principle. While there are mentions of 'undone work' and 'technical debt', the discussion lacks a thorough examination of continuous learning or strategies for fostering competence, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:54:46",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content discusses the journey of the Team Foundation Server (TFS) team towards agility, touching on themes of transparency and the challenges of adopting agile practices. However, it primarily focuses on the technical aspects of TFS and its improvements rather than explicitly addressing the concept of Agentic Agility, such as intentional shaping of outcomes or the interplay between human and AI capabilities. The mention of 'undone work' and 'technical debt' is relevant but does not delve deeply into the principles of Agentic Agility or provide a clear distinction between human and AI roles.",
     "level": "Ignored"
   }
 }

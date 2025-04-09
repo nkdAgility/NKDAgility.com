@@ -175,11 +175,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:35:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:19:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on the role of an agile coach and does not discuss Test First Development or related testing principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the selection of an Agile coach and the importance of flexibility in Agile methodologies. It does not mention Test First Development, its principles, or practices such as TDD or ATDD. The focus is on coaching rather than testing practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -619,11 +622,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:35:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the attributes of an agile coach rather than the specific role and responsibilities of a Scrum Master.",
+    "calculated_at": "2025-04-08T16:19:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the role of an Agile coach rather than the specific responsibilities and impact of a Scrum Master. While it mentions Scrum as one of the frameworks, it does not delve into the Scrum Master's unique role, responsibilities, or influence on team dynamics and organisational change. The focus is on the versatility and adaptability of Agile coaches, which is tangentially related but not central to the Scrum Master role.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -1500,6 +1506,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses the selection of Agile coaches and their methodologies, focusing on the importance of an agnostic approach rather than adhering to a single framework. While it touches on Agile practices, it does not directly address the principles or components of the One Engineering System, nor does it discuss integration or standardisation of engineering processes. Therefore, it has minimal relevance to the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:19:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of adaptability and customisation in Agile coaching, which aligns with the principles of Agentic Agility. However, it primarily focuses on the selection of Agile coaches rather than explicitly addressing the intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals and systems, resulting in a lower confidence score.",
     "level": "Ignored"
   }
 }

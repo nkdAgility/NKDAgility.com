@@ -496,11 +496,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T11:37:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, with no clear focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T15:49:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses traditional management versus evidence-based management, with no direct mention of Test First Development principles or practices. While it touches on decision-making and the importance of data, it does not align with the core themes of Test First Development, such as TDD or success criteria in software delivery. The discussion lacks depth regarding Test First practices, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -832,11 +835,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T11:38:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:49:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, without a clear focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses traditional management versus evidence-based management, with a focus on decision-making processes rather than the specific role and responsibilities of a Scrum Master. While it touches on concepts relevant to agile practices, such as metrics and team dynamics, it does not explicitly address the Scrum Master's role or responsibilities, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1545,6 +1551,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses traditional management versus evidence-based management, which does not align with the core principles of the One Engineering System. There are no direct mentions of 1ES, and the focus is on decision-making practices rather than the integration and standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:49:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses decision-making processes and the shift from traditional to evidence-based management, which touches on aspects of intentionality and data-driven decision-making. However, it lacks a direct focus on Agentic Agility as defined, particularly in differentiating between human and AI capabilities or discussing the transformative capacity of individuals and systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

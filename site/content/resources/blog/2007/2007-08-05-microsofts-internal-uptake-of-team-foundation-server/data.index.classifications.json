@@ -163,20 +163,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:11:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:47:54",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the adoption and internal use of Team Foundation Server at Microsoft, without focusing on evidence-based management principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the internal adoption of Team Foundation Server at Microsoft, focusing on its usage and development rather than on evidence-based management principles. While it mentions metrics like the number of users and projects, it lacks a clear connection to the core themes of Evidence-Based Management, such as empirical decision-making or outcome management.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:11:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:47:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the adoption and internal use of Team Foundation Server at Microsoft, without a clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Microsoft's internal adoption of Team Foundation Server (TFS) and its impact on development teams, without any explicit mention of the Agile Product Operating Model or its principles. While TFS may relate to agile practices, the focus is on the product's adoption rather than on agile methodologies or product management principles. Therefore, the content does not align with the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -328,14 +334,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T07:41:14",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-04-08T20:47:36",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and its adoption within Microsoft, which relates to DevOps practices, particularly in terms of tools that support software development and delivery. However, it lacks a direct focus on broader DevOps principles such as CI/CD, automation, or cultural shifts. The discussion is more about the internal use of a specific tool rather than a comprehensive exploration of DevOps as a whole.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the adoption of Team Foundation Server (TFS) within Microsoft, which is more focused on a specific tool rather than the broader DevOps philosophy. While there are elements of collaboration and internal processes mentioned, the discussion lacks depth in addressing core DevOps principles such as automation, shared accountability, or cultural shifts. The content does not explicitly mention DevOps, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -727,11 +733,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:42:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:48:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about the adoption of Team Foundation Server at Microsoft and does not discuss Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the internal adoption of Team Foundation Server (TFS) at Microsoft, which is related to software development practices but does not explicitly focus on Continuous Delivery principles. While it mentions the use of TFS and its impact on development teams, it lacks a direct discussion on Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback. The alignment with Continuous Delivery is minimal, and the depth of discussion does not provide substantial insights into the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1381,11 +1390,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:42:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:47:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Team Foundation Server adoption at Microsoft, without any direct reference to Scrum Master roles or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Microsoft's internal adoption of Team Foundation Server (TFS) and its impact on development teams, with no direct mention of the Scrum Master role or its responsibilities. While it touches on aspects of team dynamics and software development practices, it does not align with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles. The discussion lacks depth regarding the Scrum Master's influence or techniques, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1408,11 +1420,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:42:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:47:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses Team Foundation Server (TFS) adoption and internal use at Microsoft, without focusing on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Microsoft's internal adoption of Team Foundation Server (TFS) and its impact on development teams, without any explicit mention or discussion of Test First Development principles. While it touches on software development practices, it does not align with the core themes of Test First Development, such as defining success criteria or the role of testing in the development process. The depth of discussion is minimal, focusing instead on the adoption and future of TFS rather than any testing methodologies.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1476,6 +1491,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the adoption of Team Foundation Server (TFS) at Microsoft, focusing on its internal use and development rather than the principles or practices of the Shift-Left Strategy. There are no explicit mentions of integrating testing, security, or compliance earlier in the development process, nor does it provide any techniques or case studies related to Shift-Left practices. The discussion is more about product adoption and internal processes rather than the proactive approach of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:47:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the adoption of Team Foundation Server (TFS) within Microsoft, focusing on its internal use and development. While it touches on aspects of team collaboration and product development, it lacks a direct discussion of Common Goals as defined in the category. The mention of TFS's impact on development teams is relevant but does not explicitly connect to shared objectives or strategic alignment within Agile or DevOps frameworks. The depth of discussion is limited to the operational aspects of TFS rather than exploring the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:47:41",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses the adoption of Team Foundation Server (TFS) within Microsoft, but it primarily focuses on the product's usage and internal adoption rather than on competence as a foundational principle. While there are indirect references to the effectiveness of TFS in development teams, the discussion lacks explicit mentions of continuous learning, skill development, or the fostering of a culture of competence. The depth of discussion is limited, focusing more on product features and adoption statistics rather than on the professional development aspects that underpin competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:47:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Microsoft's internal adoption of Team Foundation Server (TFS) and its impact on development teams, which hints at aspects of Continuous Improvement. However, it lacks a direct focus on the principles of Continuous Improvement, such as empirical evidence, data-driven decision-making, or a culture of experimentation. The discussion is more about the adoption of a specific tool rather than a broader commitment to ongoing improvement practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:47:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the adoption of Team Foundation Server at Microsoft, focusing on its internal use and development efforts. There are no explicit mentions of Agentic Agility or its principles, and the discussion does not align with the core themes of intentionality, autonomy, or adaptability. The content lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

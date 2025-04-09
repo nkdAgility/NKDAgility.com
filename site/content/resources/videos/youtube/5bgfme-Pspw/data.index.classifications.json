@@ -379,12 +379,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of momentum in product delivery and organizational change without specific reference to the Scrum Master role or Scrum practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T16:57:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the concept of momentum in product development and organisational culture, which is relevant to Scrum and agile methodologies. However, it does not explicitly focus on the role of the Scrum Master or delve into their specific responsibilities, techniques, or impact. While it mentions Scrum and agile training, the primary focus is on the general idea of momentum rather than the Scrum Master's role in facilitating team effectiveness or promoting agile principles.",
+    "level": "Tertiary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -415,11 +418,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:57:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses momentum in product delivery and organizational change but does not address Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the concept of momentum in product development and organisational culture, with a focus on agile methodologies. However, it does not explicitly mention Test First Development or its principles, nor does it delve into topics such as success criteria, testing practices, or the role of testing in the development process. The discussion is more about team dynamics and direction rather than the specific practices associated with Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1563,6 +1569,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the concept of 'momentum' in product development and agile methodologies, particularly Scrum. While it touches on themes relevant to team performance and direction, it does not explicitly discuss the One Engineering System framework or its principles. The discussion lacks depth regarding integration, standardisation, or the specific impacts of 1ES, leading to a low confidence score in alignment with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:57:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content discusses 'momentum' in the context of product development and team performance but does not explicitly address Agentic Agility or its key themes. While it touches on the importance of direction and collective movement, it lacks a focus on intentional shaping of outcomes, the distinction between human and AI capabilities, or the mechanisms of Agentic Agility. The discussion is more aligned with general Agile practices rather than the specific concept of agency and intentionality.",
     "level": "Ignored"
   }
 }

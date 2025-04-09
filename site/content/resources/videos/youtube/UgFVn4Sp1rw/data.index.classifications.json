@@ -181,14 +181,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T16:49:28",
+    "calculated_at": "2025-04-08T15:34:42",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses financial aspects of product development and team empowerment but does not explicitly mention the role of a Scrum Master or Scrum practices. While it touches on team dynamics and continuous improvement, it lacks a direct focus on Scrum ceremonies or the specific responsibilities of a Scrum Master.",
+    "reasoning": "The content discusses financial awareness and cost management in product development, which is tangentially related to the Scrum Master's role in facilitating team effectiveness. However, it lacks direct mentions of Scrum practices, responsibilities, or the Scrum Master's influence on team dynamics and organisational change. The focus is primarily on financial metrics rather than Scrum principles or the Scrum Master's specific contributions.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1096,11 +1096,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T15:36:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses cost management and value measurement in software development, with no clear focus on Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T15:34:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on financial aspects of product development rather than discussing Test First Development principles. There are no direct mentions of success criteria, testing practices, or the role of testing in the development process, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1626,6 +1629,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on financial aspects of product development rather than discussing the One Engineering System framework or its principles. While it touches on team empowerment and decision-making, it does not align with the core themes of 1ES, such as integration of tools and processes or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:34:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses financial awareness and decision-making in product development, which touches on aspects of agency and intentionality. However, it primarily focuses on cost management and profitability rather than explicitly addressing the principles of Agentic Agility, such as adaptability and the interplay between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals and systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

@@ -1306,11 +1306,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T13:53:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses workflow management principles rather than Test First Development or related topics.",
+    "calculated_at": "2025-04-08T15:52:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses workflow management principles related to Caman, focusing on clarity, active management, and continuous improvement. It does not mention Test First Development or its core concepts, nor does it provide any detail on testing practices or success criteria, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1372,11 +1375,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:53:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:52:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on general workflow management principles rather than specific Scrum Master roles, responsibilities, or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses workflow management principles that align with agile methodologies, but it does not explicitly mention the role of a Scrum Master or delve into Scrum-specific practices. While there are elements of continuous improvement and team collaboration, the primary focus is on a different framework (Caman) rather than the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1536,6 +1542,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses the Caman workflow management framework, focusing on its principles of clarity, active management, and continuous improvement. While it touches on themes of collaboration and efficiency, it does not explicitly mention or align with the One Engineering System (1ES) framework or its core principles. The discussion is centred around a specific methodology rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:52:36",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses workflow management principles that focus on clarity, active management, and continuous improvement. However, it does not explicitly mention Agentic Agility or its key concepts such as intentional shaping of outcomes, the distinction between human and AI capabilities, or the role of intent and accountability. While there are elements of adaptability and proactive intervention, they are framed within general workflow management rather than the specific context of Agentic Agility.",
     "level": "Ignored"
   }
 }

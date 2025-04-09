@@ -1129,11 +1129,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:48:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:19:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a proof-of-concept for calculating blog post ranks using external data, with minimal reference to tests and no focus on Test First Development principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses an algorithm for ranking blog posts based on social media metrics and does not mention Test First Development principles, success criteria, or testing practices. There is a brief mention of tests, but it lacks depth and relevance to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1216,11 +1219,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:48:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:19:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a technical implementation of ranking blog posts and is not related to Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on ranking blog posts using algorithms and social media metrics, with no mention or discussion of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics or responsibilities associated with the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1491,6 +1497,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a technical implementation of a ranking algorithm for blog posts, discussing data collection and processing rather than the development of skills or competencies. While there are brief mentions of testing and extensibility, these do not align with the core themes of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:19:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on ranking blog posts using an algorithm based on social media metrics and Google Page Rank. While it discusses data collection and algorithmic decision-making, it does not explicitly address the concept of Agentic Agility, nor does it explore the intentional shaping of outcomes through autonomy or adaptability. The discussion lacks depth in relation to the principles of Agentic Agility and does not differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

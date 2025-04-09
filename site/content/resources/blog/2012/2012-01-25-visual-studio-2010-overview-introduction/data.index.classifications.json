@@ -1114,11 +1114,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:44:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:10:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a high-level overview of Visual Studio 2010 and its capabilities, without specific emphasis on Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on an overview of Visual Studio 2010 and its features related to Application Lifecycle Management (ALM). It does not discuss Test First Development principles, success criteria, or any related testing practices. The mention of 'Devs and Testers' is too vague and does not align with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1195,11 +1198,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:44:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:10:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on Visual Studio 2010 and ALM tools rather than Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010 and its features related to Application Lifecycle Management (ALM). There are no direct mentions of the Scrum Master role or its responsibilities, and the discussion does not align with the core themes of Scrum or agile principles. The content lacks depth regarding any Scrum-related topics, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1470,6 +1476,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on an overview of Visual Studio 2010 and its features related to Application Lifecycle Management (ALM). While it may indirectly touch on aspects of competence through the mention of preparing for deeper-dive sessions, it lacks explicit discussions on continuous learning, skill development, or the core themes of competence as defined in Agile and DevOps contexts. The depth of discussion is minimal, primarily serving as an introduction rather than a comprehensive exploration of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:10:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on an overview of Visual Studio 2010 and its features related to Application Lifecycle Management (ALM). There are no direct mentions of Agentic Agility, nor does it discuss the intentional shaping of outcomes, autonomy, or adaptability. The content lacks depth in exploring the principles or mechanisms of Agentic Agility, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

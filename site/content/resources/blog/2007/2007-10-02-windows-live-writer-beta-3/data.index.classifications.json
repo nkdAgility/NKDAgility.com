@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:22:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:30:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to software installation and corporate IT policies, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the challenges of installing Windows Live Writer Beta 3 in a corporate environment, focusing on frustrations with bundled software installations. There are no direct mentions of Evidence-Based Management principles, nor does it align with the core themes such as data-informed decision-making or metrics related to value delivery. The discussion lacks depth regarding any evidence-based practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:22:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:30:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to software installation and corporate IT policies, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the challenges of installing Windows Live Writer Beta 3 in a corporate environment, focusing on software installation issues rather than any principles or practices related to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management, or the core themes outlined in the APOM framework. The discussion is entirely centred on technical frustrations and does not align with the category's focus.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:22:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:29:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to software installation and corporate IT policies, with no clear focus on DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the challenges of installing Windows Live Writer Beta 3 in a corporate environment, focusing on issues related to bundled software installations and corporate IT policies. It does not address any DevOps principles, practices, or cultural shifts, nor does it mention collaboration, automation, or shared accountability, which are core to the DevOps philosophy. Therefore, the content does not align with the DevOps category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -694,11 +703,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:29:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:30:19",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses issues related to software installation and administration, but does not mention Continuous Delivery principles or practices.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses the challenges of installing Windows Live Writer Beta 3 in a corporate environment, focusing on installation issues and frustrations with bundled software. It does not address Continuous Delivery principles, practices, or benefits, nor does it explore automation, incremental improvements, or rapid feedback, which are key topics of the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1330,11 +1342,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:29:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:30:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to software installation and corporate restrictions, without any mention or relevance to Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on the challenges of installing software in a corporate environment and does not mention the Scrum Master role or any related concepts. There is no discussion of Scrum principles, team dynamics, or the responsibilities of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1357,11 +1372,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:29:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:30:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Test First Development or related practices; it focuses on installation issues of Windows Live Writer.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses installation challenges of Windows Live Writer Beta 3 in a corporate environment, with no direct mention or alignment to Test First Development principles. It focuses on frustrations with bundled software installations and does not address any testing practices or success criteria related to software development.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1425,6 +1443,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses issues related to software installation and user experience with Windows Live Writer, with no mention of testing, security, or compliance processes. It does not align with the Shift-Left Strategy, which focuses on integrating these critical processes earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:29:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the challenges of installing Windows Live Writer Beta 3 in a corporate environment, focusing on frustrations with bundled software installations. It does not address any aspects of Common Goals, Agile, or DevOps principles. The discussion is centred around personal experiences and technical issues rather than shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:30:00",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses installation challenges and frustrations with software, which does not directly relate to the principles of competence in Agile, Scrum, DevOps, or Lean methodologies. While there are mentions of team dynamics and problem-solving, these are not framed within the context of competence or skill development, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:30:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the challenges of installing Windows Live Writer Beta 3 in a corporate environment, focusing on frustrations with bundled software installations. While it touches on issues that could relate to process improvement, it does not explicitly mention Continuous Improvement principles or practices. The discussion lacks depth and does not align with the core themes of Continuous Improvement, such as empirical evidence, experimentation, or strategies for enhancing processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:30:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the challenges of installing Windows Live Writer Beta 3 in a corporate environment, focusing on frustrations with bundled software installations. It does not address the concept of Agentic Agility, nor does it explore themes of intentionality, autonomy, or adaptability in shaping outcomes. The discussion is centred around technical issues and corporate policies, lacking any connection to the principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

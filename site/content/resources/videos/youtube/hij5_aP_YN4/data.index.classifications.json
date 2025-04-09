@@ -187,11 +187,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:35:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the role of community in becoming an effective agile coach, without discussing Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:21:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of community and personal growth for Agile coaches, with no direct mention of Test First Development principles or practices. While it touches on feedback and continuous improvement, these concepts are not specifically tied to Test First Development, which emphasises defining success criteria and testing practices. Therefore, the content does not align well with the category.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -637,15 +640,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T20:57:14",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses the importance of community and challenging ideas in the context of agile coaching, which is tangentially related to the role of a Scrum Master. However, it lacks direct mentions of Scrum Master responsibilities, specific Scrum practices, or detailed insights into team dynamics, which are crucial for a higher confidence score in this category.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T16:21:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile coaching and the importance of community, which is relevant to the Scrum Master role but does not focus specifically on the responsibilities or impact of a Scrum Master. While it mentions Scrum in passing, the primary focus is on coaching rather than the Scrum Master role itself, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -1545,6 +1548,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Agile coaching and the importance of community in personal growth, with no direct mention of the One Engineering System (1ES) or its principles. While it touches on themes of continuous improvement and feedback, which are relevant to software development, it does not discuss the integration or standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:21:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of community and feedback for Agile coaches, which touches on aspects of personal growth and adaptability. However, it lacks a direct focus on the intentional shaping of outcomes, the distinction between human and AI capabilities, and does not delve deeply into the principles of Agentic Agility. The primary emphasis is on community dynamics rather than the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

@@ -1126,11 +1126,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:31:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:06:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on installing Eclipse and connecting to TFS, with no discussion on Test First Development or related topics.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on installing Eclipse and connecting it to TFS, with no discussion of Test First Development principles, success criteria, or testing practices. It lacks any mention of automated or manual testing methodologies, making it irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1213,11 +1216,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:31:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:06:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical installation and configuration of Eclipse and TFS, with no relevance to Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for installing Eclipse and connecting to TFS, with no direct mention of Scrum Master responsibilities or related concepts. It lacks any discussion on Scrum principles, team dynamics, or the role of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1491,6 +1497,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the technical steps for installing Eclipse and connecting it to TFS, with minimal reference to competence or skill development. While it mentions being a Java developer and hints at enhancing an ALM strategy, it lacks a detailed discussion on continuous learning, professionalism, or the importance of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:06:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Eclipse and connecting it to TFS, with no explicit discussion of Agentic Agility or its principles. While it touches on aspects of software development, it does not engage with the intentional shaping of outcomes or the interplay between human and AI capabilities, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

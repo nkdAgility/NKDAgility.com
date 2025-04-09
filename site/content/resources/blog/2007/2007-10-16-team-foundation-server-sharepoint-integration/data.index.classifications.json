@@ -160,20 +160,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:08:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:27:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses integration issues between Team Foundation Server and SharePoint, without focusing on evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses integration challenges between Team Foundation Server and SharePoint, focusing on workflow management rather than evidence-based management principles. There are no direct mentions of empirical decision-making or metrics related to current value, time to market, or other key topics of Evidence-Based Management. The discussion lacks depth in relation to the category, making it largely irrelevant.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:08:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:27:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses integration issues between Team Foundation Server and SharePoint, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses integration challenges between Team Foundation Server and SharePoint, focusing on workflow management and work item visibility. It does not address any principles or practices related to the Agile Product Operating Model, nor does it mention agile methodologies or product management concepts. The discussion is centred around technical integration rather than agile product delivery or organisational effectiveness.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -316,11 +322,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:09:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:27:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses integration issues between Team Foundation Server and SharePoint, without a clear focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses integration challenges between Team Foundation Server and SharePoint, focusing on workflow management and work item handling. While it touches on aspects of collaboration and workflow efficiency, it does not explicitly address core DevOps principles such as automation, shared accountability, or continuous improvement. The discussion is more aligned with project management and tool integration rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -700,11 +709,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:08:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:27:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Team Foundation Server and SharePoint integration rather than Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses integration challenges between Team Foundation Server and SharePoint, focusing on workflow management rather than Continuous Delivery principles. While it touches on aspects of work item management, it does not explicitly mention Continuous Delivery or its core themes such as automation, rapid feedback, or incremental improvements.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1333,11 +1345,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:08:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:27:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses integration issues between Team Foundation Server and SharePoint, without reference to the Scrum Master role or related responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses integration challenges between Team Foundation Server and SharePoint, with no direct mention of Scrum or the role of a Scrum Master. It does not align with the core themes of the Scrum Master category, such as facilitating team effectiveness or promoting agile principles. The discussion lacks depth regarding Scrum practices or the responsibilities of a Scrum Master, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1360,11 +1375,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:08:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:27:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses integrating Team Foundation Server with SharePoint and does not mention or relate to Test First Development or its principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses integration challenges between Team Foundation Server and SharePoint, with no explicit mention of Test First Development principles, success criteria, or testing practices. It focuses on workflow enhancements rather than any testing methodologies, making it largely irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1428,6 +1446,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses integration between Team Foundation Server and SharePoint, focusing on workflow and work item management. It does not explicitly mention the Shift-Left Strategy or its principles, nor does it delve into testing, security, or compliance early in the development process. The discussion is more about integration and user experience rather than proactive quality measures, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:27:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses integration challenges between Team Foundation Server and SharePoint, focusing on technical aspects rather than the alignment of strategy and execution within Agile or DevOps frameworks. While it touches on workflows and work items, it does not explicitly address Common Goals or their significance in fostering collaboration and accountability across teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:27:31",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses integration challenges between Team Foundation Server and SharePoint, focusing on workflow management rather than competence in skill development or professional capability. While there are hints at improving workflows, the discussion lacks a direct emphasis on continuous learning, skill development, or the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:27:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses integration challenges and potential enhancements between Team Foundation Server and SharePoint, which touches on improving workflows. However, it lacks a strong focus on Continuous Improvement principles, such as empirical evidence, systematic processes, or a culture of experimentation. The discussion is more about specific integration issues rather than a broader commitment to ongoing improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:27:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses integration challenges between Team Foundation Server and SharePoint, focusing on workflow enhancement and work item management. It does not explicitly address Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes through autonomy or adaptability. The discussion lacks depth in relation to the core themes of Agentic Agility, such as the role of intent, accountability, or the interplay between human judgement and AI logic.",
     "level": "Ignored"
   }
 }

@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T07:45:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of a product owner in marketing and stakeholder engagement, with no focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:14:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the role of marketing in product ownership and does not discuss Test First Development principles, success criteria, or testing practices. It briefly touches on stakeholder engagement and feedback loops but lacks any direct connection to Test First methodologies.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -868,11 +871,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T07:45:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of a Product Owner, with no clear focus on the Scrum Master role.",
+    "calculated_at": "2025-04-08T16:14:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner rather than the Scrum Master. While it touches on aspects of Scrum events like Sprint Reviews, it does not discuss the responsibilities or influence of the Scrum Master, nor does it explore the core themes associated with that role. The mention of Scrum is minimal and secondary to the main topic of product ownership and marketing.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1587,6 +1593,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the role of a Product Owner and the importance of marketing a product vision, which does not align with the core principles of the One Engineering System. While there are mentions of team alignment and stakeholder engagement, these are not discussed in the context of integrating tools and processes across teams or the standardisation of software development practices. The discussion lacks depth regarding the One Engineering System framework and its implementation, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:14:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of a Product Owner in marketing a vision and engaging stakeholders, which touches on aspects of intentionality and alignment. However, it lacks a direct focus on Agentic Agility as defined, particularly in distinguishing between human and AI capabilities or discussing the transformative capacity of individuals and systems. The discussion is more about marketing strategies than the proactive shaping of outcomes through autonomy and adaptability.",
     "level": "Ignored"
   }
 }

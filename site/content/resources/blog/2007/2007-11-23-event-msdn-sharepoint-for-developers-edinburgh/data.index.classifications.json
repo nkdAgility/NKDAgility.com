@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:45:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:22:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a SharePoint event and personal experiences with presentations, lacking focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a SharePoint event and provides insights on specific features and tools related to SharePoint, without any focus on Evidence-Based Management principles or metrics. There are no direct mentions of empirical decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:45:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:21:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint and related technologies, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a SharePoint event and its technical aspects, with no direct mention of the Agile Product Operating Model or its principles. While there are elements of product management in the context of SharePoint, they do not align with the core themes of APOM, such as continuous delivery or evidence-based management.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -319,11 +325,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:46:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:21:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint and related tools, with no focus on DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on SharePoint and related technologies, with no explicit discussion of DevOps principles, practices, or cultural shifts. While there are mentions of development tools and workflows, they do not align with the core themes of DevOps, such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -715,11 +724,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T20:05:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:22:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on SharePoint development and event presentations, with no relevant discussion of Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a SharePoint event and provides insights on SharePoint features and tools, with no explicit mention of Continuous Delivery principles or practices. While there are references to software development tools, they do not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or rapid feedback. The discussion lacks depth in relation to Continuous Delivery, focusing instead on specific SharePoint functionalities.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1354,11 +1366,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T20:05:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:22:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on SharePoint development and does not discuss the Scrum Master role or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a SharePoint event and does not mention the Scrum Master role or its responsibilities. There is no alignment with the core themes of the Scrum Master category, and the depth of discussion is minimal, focusing instead on technical aspects of SharePoint.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1381,11 +1396,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T20:05:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:22:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses SharePoint development and related technologies, with no mention of Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses insights from a SharePoint event, focusing on features and presentations related to SharePoint 2007 and Visual Studio 2008. There is no mention of Test First Development principles, success criteria, or testing practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1449,6 +1467,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a SharePoint event and the presentations given, focusing on features and tools related to SharePoint and Visual Studio. There is no mention of integrating testing, security, or compliance earlier in the software development lifecycle, which are core aspects of the Shift-Left Strategy. The discussion does not align with the principles or benefits of the Shift-Left approach, nor does it provide any depth on the topic.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:21:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a personal experience at a SharePoint event, discussing specific features and insights related to SharePoint 2007 and WSS3.0. While it provides some informative content, it does not address the concept of Common Goals within Agile or DevOps frameworks. There are no explicit mentions of shared objectives, alignment, or strategic goals, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:21:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses insights gained from a technical event, highlighting specific tools and features related to SharePoint. While there are mentions of learning and skill development, the primary focus is on the event's content rather than a broader discussion on competence in Agile or DevOps contexts. The depth of discussion on competence is limited, as it does not explore strategies for fostering a culture of competence or the impact of competence on decision-making.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:21:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific event related to SharePoint development, discussing presentations and insights from speakers. While there are mentions of learning and improvements, these are not framed within the context of Continuous Improvement principles. The discussion lacks depth on key topics such as empirical evidence, data-driven decision-making, or strategies for integrating Continuous Improvement into processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:21:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a SharePoint event and provides insights on specific tools and features without addressing the concept of Agentic Agility, intentional shaping of outcomes, or the interplay between human and AI capabilities. There are no direct mentions of the key topics related to Agentic Agility, and the discussion lacks depth in this area.",
     "level": "Ignored"
   }
 }

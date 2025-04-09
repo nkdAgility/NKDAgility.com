@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T13:05:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses training, team dynamics, and the importance of continuous learning in organisations, without a clear focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:25:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on training and fostering a continuous learning environment for teams, with no direct mention of Test First Development principles or practices. While it discusses the importance of learning and adapting, it does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices. The discussion lacks depth regarding the specific methodologies associated with Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -859,14 +862,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T21:17:45",
+    "calculated_at": "2025-04-08T16:25:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content discusses training and continuous learning, which are relevant to team development but does not specifically address the role of a Scrum Master or Scrum practices. While it touches on leadership and team dynamics, it lacks direct references to Scrum ceremonies, impediment removal, or the specific responsibilities of a Scrum Master.",
+    "reasoning": "The content discusses training and continuous learning, which are relevant to the Scrum Master's role in fostering team development. However, it lacks direct mentions of the Scrum Master role and does not delve deeply into Scrum-specific practices or responsibilities, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1608,6 +1611,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on training and fostering a learning culture within teams, which does not directly address the principles or components of the One Engineering System. While it touches on themes of continuous learning and team improvement, it lacks explicit discussions on integration of tools, processes, or methodologies that are central to 1ES. The content does not provide depth on the impact of a unified engineering system or best practices for its implementation.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:25:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses training and continuous learning as means to empower teams, which aligns with the concept of fostering autonomy and adaptability. However, it lacks explicit references to Agentic Agility and does not differentiate between human and AI capabilities. The focus is more on general leadership and team dynamics rather than the intentional shaping of outcomes through agency.",
     "level": "Ignored"
   }
 }

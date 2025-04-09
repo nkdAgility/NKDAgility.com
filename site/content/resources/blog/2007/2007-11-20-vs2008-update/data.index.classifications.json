@@ -160,20 +160,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:47:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:22:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses software updates and personal experiences with Microsoft products, with no mention of Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses updates related to Visual Studio 2008 and personal experiences with software installation and events. There are no direct mentions of Evidence-Based Management principles, nor does it align with the core themes of data-informed decision-making or metrics related to value delivery. The discussion lacks depth in any relevant topics, focusing instead on technical updates and personal anecdotes.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:47:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:22:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Microsoft Visual Studio 2008 and related events, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses updates related to Visual Studio 2008 and does not mention or align with the Agile Product Operating Model. It focuses on software installation and project management in a traditional context, lacking any reference to agile methodologies or product management principles.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -319,11 +325,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:48:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:22:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio 2008 and related installations, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses updates related to Visual Studio 2008 and Team Explorer, with no explicit mention of DevOps principles or practices. While there is a brief reference to project management and source control, these topics do not align with the core themes of DevOps, such as collaboration, automation, or shared accountability. The discussion lacks depth and does not provide insights into the cultural shifts or practices necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -700,11 +709,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T20:41:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:22:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Visual Studio 2008 installation and an upcoming Microsoft event, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses updates related to Visual Studio 2008 and personal experiences with installation and upgrades. There are no direct mentions of Continuous Delivery principles, practices, or related topics. The focus is on software tools and events rather than the Continuous Delivery process itself, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1339,11 +1351,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T20:41:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:22:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses software installation and upcoming events, with no relevance to Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses updates related to Visual Studio 2008 and does not mention the role or responsibilities of a Scrum Master. There is no alignment with the core themes of the Scrum Master category, and the depth of discussion is minimal, focusing instead on technical updates and personal experiences with software installation.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1366,11 +1381,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T20:41:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:22:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the installation of Visual Studio 2008 and personal experiences related to project management, without any mention of Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses updates related to Visual Studio 2008 and personal experiences with installation and events, with no direct mention or alignment to Test First Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1434,6 +1452,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses updates related to Visual Studio 2008 and personal experiences with installation and events, with no explicit mention or alignment to the Shift-Left Strategy. It lacks any discussion on integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:22:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on updates related to Visual Studio 2008 and personal experiences with software installation and events. There are no explicit discussions on Common Goals, Agile, or DevOps principles. The mention of attending a Microsoft event does not connect to the core themes of shared objectives or alignment within teams, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:22:16",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on updates related to Visual Studio 2008 and personal experiences with software installation and events. While there are brief mentions of project upgrades and attending a Microsoft event, these do not directly address the core themes of competence, such as continuous learning or skill development. The discussion lacks depth and does not explore the importance of competence in a professional context.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:22:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on updates related to Visual Studio 2008 and personal experiences with installation and upgrades. There are no explicit discussions on Continuous Improvement principles, nor does it align with the core themes of the category. The content lacks depth in discussing any strategies or techniques related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:22:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses updates related to Visual Studio 2008 and personal experiences with software installation and events. It does not explicitly mention Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities. The focus is on technical updates rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

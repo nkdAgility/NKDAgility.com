@@ -499,11 +499,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T02:41:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses team competence and management issues, with no focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:25:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses team dynamics and management challenges rather than the principles of Test First Development. While it touches on the importance of training and support, it does not explicitly mention success criteria, testing practices, or the Test First approach. The focus is on addressing incompetence and knowledge gaps within a team, which is not aligned with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -835,11 +838,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T02:42:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:25:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of a Product Owner and team dynamics, with no clear focus on the responsibilities or practices of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner dealing with team performance issues rather than the responsibilities and impact of a Scrum Master. While it briefly touches on concepts relevant to team dynamics and improvement, it lacks a direct discussion of the Scrum Master's role, responsibilities, or techniques. The depth of discussion on related topics is moderate, but the primary focus remains on the Product Owner's perspective, leading to a low confidence score for alignment with the Scrum Master category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1548,6 +1554,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the challenges faced by a product owner with an underperforming team, discussing incompetence and training rather than the principles or practices of the One Engineering System. While it touches on aspects of team dynamics and improvement, it does not explicitly mention 1ES or its components, nor does it provide a structured discussion on integrating tools or processes across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:25:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges of managing an underperforming team and the importance of distinguishing between incompetence and lack of knowledge. While it touches on themes of accountability and proactive intervention, it does not explicitly address Agentic Agility or its principles. The focus is more on team management and performance rather than the intentional shaping of outcomes through autonomy and adaptability, which are central to Agentic Agility.",
     "level": "Ignored"
   }
 }

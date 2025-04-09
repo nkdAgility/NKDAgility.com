@@ -1135,11 +1135,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:03:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:02:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses conflict resolution in TFS Integration Tools and does not mention Test First Development or related concepts like TDD.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses issues related to TFS Integration Tools and conflict resolution during migration processes. It does not mention Test First Development, success criteria, or any related testing practices. The focus is on resolving specific technical problems rather than on the principles or practices of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1222,11 +1225,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:03:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:02:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS Integration Tools and conflict resolution, without reference to Scrum Master responsibilities or themes.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses issues related to TFS Integration Tools and conflict resolution during a migration process. It does not mention the role of a Scrum Master, nor does it align with the core themes of Scrum, such as team dynamics, coaching, or agile principles. The focus is on technical problem-solving rather than any aspect of Scrum methodology.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1504,5 +1510,17 @@
     "final_score": 56.0,
     "reasoning": "The content discusses a personal experience with conflict resolution in TFS Integration Tools, highlighting a learning process and the journey towards improved competence. However, while it touches on the theme of competence, it primarily focuses on specific technical issues and resolutions rather than a broader discussion on continuous learning or skill development in a professional context.",
     "level": "Tertiary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:02:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to TFS Integration Tools and does not explicitly discuss Agentic Agility or its principles. While there are elements of problem-solving and adaptability, they are not framed within the context of intentional outcome shaping or the distinction between human and AI capabilities. The discussion lacks depth and does not engage with the core themes of Agentic Agility.",
+    "level": "Ignored"
   }
 }

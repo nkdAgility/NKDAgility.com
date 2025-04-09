@@ -34,6 +34,7 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Team
+- Scrum Master
 - Agile Project Management
 - People and Process
 - Software Development
@@ -42,7 +43,6 @@ tags:
 - Coaching
 - Agile Frameworks
 - Agile Product Management
-- Agile Transformation
 resourceTypes:
 - video
 categories:

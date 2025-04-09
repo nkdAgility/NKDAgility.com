@@ -568,11 +568,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T14:25:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:30:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses audience-based deployment and modern software delivery practices, with no clear focus on Test First Development or its principles.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses audience-based deployment and its benefits, focusing on real-world testing and feedback loops rather than the principles of Test First Development. While it touches on aspects of testing and deployment strategies, it does not explicitly mention Test First Development practices, success criteria, or the importance of defining tests before implementation. The discussion is more aligned with continuous delivery and deployment strategies than with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -922,11 +925,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T14:26:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:30:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses software deployment strategies and practices, with no clear focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses audience-based deployment and continuous delivery practices, with no direct mention of the Scrum Master role or its responsibilities. While it touches on team dynamics and organisational change, it does not align with the core themes of the Scrum Master category, which focuses on facilitating Scrum processes and promoting agile principles. The discussion lacks depth regarding the specific skills and impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1716,6 +1722,18 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content discusses audience-based deployment and its advantages over traditional environments, which aligns with some principles of modern software delivery. However, it does not explicitly mention the One Engineering System framework or its components, nor does it focus on integration and standardisation across teams, which are core to the 1ES category. The discussion is more centred on deployment strategies rather than the overarching framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:30:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses audience-based deployment and its benefits, which touches on aspects of agility and adaptability. However, it lacks a direct focus on the intentional shaping of outcomes through agency, intent, and the interplay between human and AI capabilities. While it mentions team autonomy and the importance of feedback, it does not delve deeply into the principles of Agentic Agility or provide a clear distinction between human and AI roles in this context.",
     "level": "Ignored"
   }
 }

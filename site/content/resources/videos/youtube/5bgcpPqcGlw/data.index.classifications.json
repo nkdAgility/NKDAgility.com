@@ -607,14 +607,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T03:09:15",
+    "calculated_at": "2025-04-08T17:25:46",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
     "final_score": 11.0,
-    "reasoning": "The content primarily focuses on site reliability engineering and practices within Azure DevOps, with no direct mention of the Scrum Master role or responsibilities. While it touches on Agile principles, it does not delve into Scrum-specific practices or the role of a Scrum Master, leading to a low confidence score.",
+    "reasoning": "The content primarily focuses on Site Reliability Engineering (SRE) and practices within Azure DevOps, with no direct mention of the Scrum Master role or its responsibilities. While there are elements of agile practices discussed, they are not specifically tied to the Scrum framework or the role of a Scrum Master. The discussion lacks depth regarding the Scrum Master's influence on team dynamics or organisational change, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1030,11 +1030,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T12:23:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses site reliability engineering, Azure DevOps practices, and operational strategies, with no clear focus on Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T17:25:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on site reliability engineering and practices related to Azure DevOps, with no explicit discussion of Test First Development principles. While it mentions automation and incident response, these topics do not align with the core themes of Test First Development, such as defining success criteria or the specifics of TDD and ATDD. The content lacks depth in discussing any Test First practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1581,6 +1584,18 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content primarily focuses on site reliability engineering and practices within the Azure DevOps team, which, while related to software development, does not explicitly discuss the One Engineering System framework or its principles. There are mentions of cross-functional teams and automation, which align with some aspects of 1ES, but the overall discussion lacks depth in terms of integration and standardisation of engineering processes as defined by 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:25:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses practices related to site reliability and agility but does not explicitly address the concept of Agentic Agility. While it touches on themes of adaptability and proactive incident management, it lacks a clear focus on intentional shaping of outcomes or the distinction between human and AI capabilities in this context. The discussion is more centred on operational practices rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

@@ -523,11 +523,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T02:05:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:10:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Scrum and user experience in product development, with no clear focus on Test First Development or related practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the integration of UX into Scrum teams and the PSU course's role in addressing gaps in product development. While it touches on agile frameworks and product ownership, it does not explicitly mention Test First Development principles, success criteria, or testing practices. The focus is more on user experience and Scrum rather than on testing methodologies or the Test First approach.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -868,15 +871,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T01:29:49",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-04-08T17:10:31",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses Scrum and its integration with user experience, but it primarily focuses on product development and the role of the Product Owner rather than the specific responsibilities and practices of a Scrum Master. While there are mentions of Scrum, the discussion lacks depth regarding the Scrum Master's role in facilitating Scrum processes or coaching teams.",
-    "level": "Ignored"
+    "final_score": 57.0,
+    "reasoning": "The content discusses Scrum and its integration with UX in product development, which indirectly relates to the role of a Scrum Master. However, it primarily focuses on the PSU course and product ownership rather than the specific responsibilities and impact of a Scrum Master. While there are mentions of Scrum principles, the depth of discussion on the Scrum Master's role is minimal, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1596,6 +1599,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the PSU course and its integration of UX into Scrum teams, which is focused on a specific agile framework rather than the broader principles of the One Engineering System. While there are mentions of integration and collaboration, they are not explicitly tied to the 1ES framework, and the discussion lacks depth regarding the standardisation and unification of engineering processes across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:10:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the PSU course and its integration of UX into Scrum teams, which touches on aspects of decision-making and value creation. However, it primarily focuses on Scrum practices and does not explicitly address the concept of Agentic Agility or differentiate between human and AI capabilities. The discussion lacks depth in exploring the intentional shaping of outcomes, which is central to the category.",
     "level": "Ignored"
   }
 }

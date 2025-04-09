@@ -41,8 +41,8 @@ tags:
 - Agile Product Management
 - Agile Transformation
 - Scrum Product Development
-- Scrum Master
 - Working Software
+- Scrum Master
 resourceTypes:
 - video
 categories:

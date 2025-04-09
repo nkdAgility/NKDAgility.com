@@ -1156,11 +1156,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:54:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:20:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses configuration and management of Team Foundation Server builds and does not address Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the configuration of Team Project Collections and Build Controllers in TFS 2010, with no explicit mention of Test First Development principles, success criteria, or testing practices. It lacks alignment with the core themes of Test First Development and does not provide any depth on related topics.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1243,11 +1246,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:54:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:20:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical configuration of Team Foundation Server (TFS) and build processes, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of Team Foundation Server (TFS) and build configurations, with no direct mention or discussion of the Scrum Master role, responsibilities, or related concepts. It does not align with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles. The content is strictly technical and does not address any aspects of Scrum or the impact of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1527,6 +1533,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on technical instructions for configuring Team Foundation Server (TFS) and does not explicitly discuss competence or its importance in Agile or DevOps contexts. While it touches on aspects of project management and build processes, it lacks a direct connection to continuous learning, skill development, or fostering a culture of competence. The discussion is more about operational procedures than about the principles of professionalism and quality delivery.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:20:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for configuring Team Project Collections and Build Controllers in TFS 2010. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The content lacks any mention of intentional shaping of outcomes, adaptability, or alignment with values, which are core to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -1150,11 +1150,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T23:41:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:15:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a TFS Integration Platform adapter without any significant focus on Test First Development principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the creation of a WIT adapter for TFS Integration Platform, focusing on integration and migration issues rather than the principles of Test First Development. There are no explicit mentions of success criteria, automated testing practices, or the impact of Test First on collaboration, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1234,11 +1237,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T23:41:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:15:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on TFS Integration Platform and technical coding details, without discussion on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to creating a WIT adapter for TFS Integration Platform, with no direct discussion of Scrum Master responsibilities, techniques, or influence on team dynamics. It does not align with the core themes of the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1509,6 +1515,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on technical implementation details and troubleshooting of a TFS Integration Platform Adapter, with minimal direct discussion on competence, continuous learning, or skill development. While there are some references to problem-solving and adapting code, these are not framed within the context of competence as defined in Agile or DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:15:40",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to creating a WIT adapter for TFS Integration Platform, with no explicit discussion of Agentic Agility principles or themes. While there are elements of adaptability in the problem-solving process, the content does not engage with the intentional shaping of outcomes or the interplay between human and AI capabilities in a socio-technical context.",
     "level": "Ignored"
   }
 }

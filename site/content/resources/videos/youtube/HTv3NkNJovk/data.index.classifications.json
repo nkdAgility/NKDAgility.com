@@ -529,11 +529,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T06:40:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:12:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses agile leadership and the comparison between Satya Nadella and Steve Jobs, with no focus on Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses agile leadership and the comparison between Satya Nadella and Steve Jobs, with no direct mention of Test First Development principles or practices. While it touches on agile concepts, it does not delve into the specifics of defining success criteria, testing practices, or the role of testing in software development, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -871,11 +874,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T06:41:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:12:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile leadership in the context of Satya Nadella and Steve Jobs, without a specific focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile leadership and compares two leaders, focusing on their approaches to innovation and organisational culture. While it touches on agile principles, it does not specifically address the role or responsibilities of a Scrum Master, nor does it delve into the nuances of Scrum practices. The mention of agile concepts is present but not central, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1596,6 +1602,18 @@
     "non_ai_confidence": 20,
     "final_score": 6.0,
     "reasoning": "The content primarily discusses agile leadership through the lens of Satya Nadella and Steve Jobs, focusing on their leadership styles rather than the principles or components of the One Engineering System. While it touches on agile methodologies, it does not delve into the integration or standardisation of engineering processes, which are core to 1ES. The discussion lacks depth regarding the specific impacts of a unified engineering system on software quality or delivery timelines.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:12:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses agile leadership through the lens of Satya Nadella and Steve Jobs, touching on themes of decentralised decision-making and innovation. However, it lacks a direct focus on the intentional shaping of outcomes and does not differentiate between human and AI capabilities in the context of agility. While it mentions aspects of agency and adaptability, it does not delve deeply into the principles of Agentic Agility or provide specific examples or mechanisms related to AI systems.",
     "level": "Ignored"
   }
 }

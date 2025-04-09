@@ -1192,14 +1192,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-15T07:08:58",
+    "calculated_at": "2025-04-08T19:23:58",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
+    "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content discusses build failures and the importance of maintaining a passing build, which indirectly relates to testing practices. However, it does not explicitly focus on Test First Development or the principles of writing tests before code. The discussion is more about build management and developer accountability rather than the core themes of TDD or embedding quality through testing prior to implementation.",
+    "reasoning": "The content discusses build management and the importance of maintaining code quality, but it does not explicitly mention Test First Development or its principles. While it touches on the need for tests and the consequences of broken builds, it lacks a focus on defining success criteria before implementation or the specific practices of Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). Therefore, it aligns only tangentially with the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1282,11 +1282,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T01:51:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:24:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on build processes and technical details related to builds and version control, rather than discussing the role, responsibilities, or practices of a Scrum Master.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses build management and code quality, with no direct mention of the Scrum Master role or its responsibilities. While it touches on team dynamics indirectly, it does not align with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1576,5 +1579,17 @@
     "final_score": 56.0,
     "reasoning": "The content discusses the importance of maintaining code quality and the implications of broken builds, which indirectly relates to competence in terms of skill development and quality assurance. However, it lacks a direct focus on continuous learning or strategies for fostering a culture of competence, resulting in a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:23:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses build management and the importance of maintaining code quality, which does not align with the core themes of Agentic Agility. While there are mentions of accountability and ownership in the context of broken builds, the focus is on technical processes rather than the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth regarding the principles of Agentic Agility and does not differentiate between human and AI capabilities.",
+    "level": "Ignored"
   }
 }

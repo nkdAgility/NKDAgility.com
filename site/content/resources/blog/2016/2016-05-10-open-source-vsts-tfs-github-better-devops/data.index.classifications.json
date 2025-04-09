@@ -1168,11 +1168,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T21:03:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:36:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses synchronisation between VSTS and Github, focusing on DevOps practices rather than Test First Development principles.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses synchronisation between VSTS and GitHub for DevOps practices, with no explicit mention of Test First Development principles or practices. While it touches on automation in the context of builds, it does not address success criteria, testing methodologies, or the role of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1255,11 +1258,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T21:03:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:36:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the integration and synchronisation of code between VSTS and GitHub, with no clear focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on synchronising code between VSTS and GitHub for DevOps purposes, with no direct mention of the Scrum Master role or its responsibilities. While it touches on agile practices, it does not delve into the specific functions or impact of a Scrum Master, nor does it discuss coaching, mentoring, or team dynamics, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1551,6 +1557,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on synchronising code between VSTS and GitHub, discussing specific tools and configurations rather than the overarching principles of the One Engineering System. While it touches on aspects of integration and automation, it lacks a comprehensive discussion on the standardisation and unification of software development practices across teams, which is central to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:36:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on synchronising code between VSTS and GitHub for DevOps purposes, lacking explicit discussions on Agentic Agility. While it touches on aspects of autonomy in managing code, it does not delve into the intentional shaping of outcomes or the principles of Agentic Agility. The discussion is more about technical implementation rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

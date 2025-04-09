@@ -1195,14 +1195,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-15T04:24:43",
+    "calculated_at": "2025-04-08T17:44:26",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 20,
     "final_score": 67.0,
-    "reasoning": "The content discusses the importance of having tests defined before coding, which aligns with Test First Development principles. It mentions the need for functional tests to be created upfront and critiques the Bug as Task anti-pattern for promoting low quality and poor communication. However, the primary focus is on the anti-pattern itself rather than a comprehensive exploration of Test First Development, leading to a moderate confidence score.",
+    "reasoning": "The content discusses the importance of having tests defined before coding begins, which aligns with the principles of Test First Development. It mentions the need for functional tests to be created upfront and highlights the negative impact of not following this practice. However, the primary focus of the content is on the Bug as Task anti-pattern and its implications for team dynamics and agile processes, rather than a comprehensive exploration of Test First Development itself. Therefore, while there is a relevant mention and some alignment, the depth of discussion specifically on Test First Development is limited.",
     "level": "Secondary"
   },
   "Windows": {
@@ -1279,11 +1279,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T04:23:54",
-    "ai_confidence": 20,
+    "calculated_at": "2025-04-08T17:44:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 18.0,
-    "reasoning": "While the content discusses some Agile principles and anti-patterns that may relate to team dynamics, it primarily focuses on tooling issues and the Bug as a Task anti-pattern, which do not specifically address the roles, responsibilities, or practices of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the Bug as Task anti-pattern in the context of agile processes, which indirectly relates to the Scrum Master's role in facilitating effective team dynamics and communication. However, it does not explicitly focus on the responsibilities or skills of a Scrum Master, nor does it provide in-depth insights into the Scrum framework itself. The primary focus is on a specific anti-pattern rather than the broader role of the Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1581,6 +1584,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the Bug as Task anti-pattern and its implications on team communication and software quality, which indirectly relates to competence. However, it primarily focuses on process issues rather than the continuous development of skills or the professional growth of team members. While there are mentions of communication and ownership, the depth of discussion on competence as a foundational principle is limited.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:44:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps, focusing on team communication and agile processes. While it touches on issues of ownership and responsibility, it does not explicitly address the principles of Agentic Agility, such as intentional shaping of outcomes or the interplay between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

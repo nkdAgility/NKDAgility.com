@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T02:09:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:02:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the misuse of metrics in Kanban and does not address Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Kanban strategy and metrics, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It does not align with the core themes of Test First Development, nor does it provide any depth on the subject. The content is entirely centred around improving Kanban workflows, making it irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -865,11 +868,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T02:10:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:02:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban implementation and metrics, with no clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban methodology and does not discuss the role or responsibilities of a Scrum Master. While it touches on continuous improvement, it does not align with the core themes of the Scrum Master category, such as coaching or facilitating within a Scrum context.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1584,6 +1590,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on Kanban methodology and its metrics, with no direct mention or discussion of the One Engineering System (1ES). While it touches on aspects of workflow improvement, it does not align with the core themes of 1ES, such as integration across teams or standardisation of practices. The depth of discussion is limited to Kanban-specific practices, further distancing it from the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:02:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban practices and metrics, discussing how to avoid common mistakes and improve workflow efficiency. While it touches on the importance of data-driven decision-making, it does not explicitly address the concept of Agentic Agility or differentiate between human and AI capabilities. The discussion lacks depth in exploring intentional shaping of outcomes or the transformative capacity of individuals and systems, which are central to Agentic Agility.",
     "level": "Ignored"
   }
 }

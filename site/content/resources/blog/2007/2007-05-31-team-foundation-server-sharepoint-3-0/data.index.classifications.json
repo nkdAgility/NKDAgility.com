@@ -160,20 +160,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T22:08:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:09:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical installation and configuration of SharePoint and Team Foundation Server, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical integration between SharePoint and Team Foundation Server, lacking any explicit discussion or alignment with Evidence-Based Management principles. It does not address data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T22:08:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:09:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and configuration of SharePoint and Team Foundation Server, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on integrating SharePoint with Team Foundation Server for project management, which does not align with the Agile Product Operating Model. There are no direct mentions of agile principles, product management practices, or the core themes of APOM. The discussion is centred around technical implementation rather than agile methodologies or product-oriented mindsets.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -313,11 +319,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T22:09:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:09:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and configuration of SharePoint and Team Foundation Server, without a clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on integrating SharePoint 3.0 with Team Foundation Server for project management, which does not directly address DevOps principles or practices. While it mentions tools related to software development, it lacks discussions on collaboration, automation, or cultural shifts that are central to DevOps. The content is more about specific technical implementation rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -697,11 +706,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:18:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:09:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about SharePoint and Team Foundation Server configuration rather than Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the integration of SharePoint 3.0 with Team Foundation Server, focusing on project management rather than Continuous Delivery principles. There are no direct mentions of Continuous Delivery, and the discussion lacks depth in relevant topics such as automation, incremental improvements, or software quality. The content is more aligned with general software development practices and project management rather than the specific practices and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1336,11 +1348,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:18:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:09:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses technical implementation details related to SharePoint and Team Foundation Server, with no reference to Scrum, the role of a Scrum Master, or any Agile-related themes.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on integrating SharePoint with Team Foundation Server and does not discuss the role, responsibilities, or impact of a Scrum Master. There are no direct mentions of Scrum principles or practices, and the discussion lacks depth regarding any Scrum-related topics.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1363,20 +1378,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:18:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:09:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses SharePoint installation and configuration with Team Foundation Server, which is not related to Test First Development or TDD principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the integration of SharePoint 3.0 with Team Foundation Server, focusing on project management and configuration details. There are no direct mentions of Test First Development principles, success criteria, or testing practices. The discussion lacks alignment with the core themes of Test First Development, and the depth of discussion is minimal, primarily revolving around technical setup rather than testing methodologies.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:30:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:09:10",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and configuration of SharePoint and Team Foundation Server, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on technical integration between SharePoint and Team Foundation Server, lacking explicit discussions on collaboration, decision-making, or value delivery. While it hints at project management and intranet site creation, it does not delve into the social frameworks or methodologies that characterise social technologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1428,6 +1449,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the installation and configuration of SharePoint 3.0 and Team Foundation Server, with no explicit mention of the Shift-Left Strategy or its principles. It lacks any discussion on integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy. The focus is on technical setup rather than strategic software development practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T21:09:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical integration between SharePoint and Team Foundation Server, lacking any explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on project management, it does not connect to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T21:09:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical integration between SharePoint and Team Foundation Server, lacking explicit discussions on competence, continuous learning, or skill development. While it touches on project management, it does not delve into the principles of professionalism or quality delivery that define competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T21:09:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical integration between SharePoint and Team Foundation Server, with no explicit discussion of Continuous Improvement principles. While there are mentions of project management and best practices, these are not aligned with the core themes of Continuous Improvement, such as empirical evidence, culture of experimentation, or strategies for enhancing processes. The content lacks depth in discussing Continuous Improvement, making it a secondary topic at best.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T21:09:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical integration between SharePoint and Team Foundation Server, with no explicit discussion of Agentic Agility or its principles. While there is a mention of project management, it does not delve into the intentional shaping of outcomes or the interplay between human and AI capabilities, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

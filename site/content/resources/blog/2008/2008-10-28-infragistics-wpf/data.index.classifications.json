@@ -1069,11 +1069,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:25:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:39:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on using Infragistics WPF controls and does not discuss Test First Development or related principles and practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the use of Infragistics WPF controls and does not mention Test First Development principles, success criteria, or testing practices. It focuses on coding examples and documentation challenges, which are unrelated to the Test First Development category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1261,11 +1264,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:25:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:39:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on Infragistics WPF controls and technical implementation details, with no discussion on Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Infragistics WPF controls and coding examples, with no direct mention of Scrum Master responsibilities or related topics. While there is a brief mention of team dynamics through the use of components, it does not align with the core themes of the Scrum Master role, nor does it provide any depth on the subject.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the use of Infragistics WPF controls and the challenges faced with documentation. While there are mentions of coding and problem-solving, it does not explicitly discuss competence in the context of Agile, Scrum, or DevOps methodologies. The discussion lacks depth regarding continuous learning or skill development, which are key aspects of the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:39:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the use of Infragistics WPF controls and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability. The discussion is centred around coding challenges and practical examples, which do not align with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

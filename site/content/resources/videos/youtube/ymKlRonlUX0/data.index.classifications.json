@@ -496,11 +496,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T22:14:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the limitations and issues with burndown charts in Agile, without addressing Test First Development or related testing practices.",
+    "calculated_at": "2025-04-08T16:13:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily critiques burndown charts and discusses Agile principles, but it does not mention Test First Development or its practices. The focus is on Agile methodologies rather than testing strategies, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -844,11 +847,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T22:15:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily critiques the use of burndown charts and discusses Agile principles without a clear focus on the Scrum Master role or responsibilities.",
+    "calculated_at": "2025-04-08T16:12:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile principles and critiques burndown charts, which are tools often used in Scrum. However, it does not explicitly mention the role of the Scrum Master or delve into their responsibilities, techniques, or influence on team dynamics. While it aligns with some core themes of Agile and empirical decision-making, it lacks a focused discussion on the Scrum Master role itself.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1560,6 +1566,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses Agile methodologies and critiques the use of burndown charts, which are not directly related to the One Engineering System framework. While it touches on themes of adaptability and empirical management, it does not address the principles, components, or implementation of 1ES, nor does it provide insights into integration across teams or best practices for standardisation.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:12:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile practices and critiques burndown charts, focusing on adaptability and empirical management. However, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. The primary focus is on Agile methodologies rather than the intentional shaping of outcomes through agency.",
     "level": "Ignored"
   }
 }

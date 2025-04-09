@@ -1057,11 +1057,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:26:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:40:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on personal achievement and does not discuss Test First Development or related principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the author's recognition as a Team System MVP and does not discuss any principles or practices related to Test First Development. There are no direct mentions of testing methodologies, success criteria, or any related topics that align with the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1246,11 +1249,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:26:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:41:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about personal achievement as a Team System MVP and does not discuss Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the author's recognition as a Team System MVP and does not discuss the role, responsibilities, or impact of a Scrum Master. There are no direct mentions of Scrum or related concepts, and the discussion lacks any depth regarding Scrum practices or principles.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly mentions the author's recognition as a Team System MVP, which implies a level of competence. However, it lacks a detailed discussion on continuous learning, skill development, or the impact of competence on team dynamics. The focus is more on personal achievement rather than the broader implications of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:40:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the author's recognition as a Team System MVP and expresses gratitude towards a peer. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The mention of personal achievement lacks any connection to the intentional shaping of outcomes or the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

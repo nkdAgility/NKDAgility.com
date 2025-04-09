@@ -1102,11 +1102,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:56:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:40:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues with version control and branching within source control, with no focus on Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses issues related to source control and branching in TFS, with no explicit mention of Test First Development principles, success criteria, or testing practices. The focus is on managing branches rather than on testing methodologies or the importance of defining success criteria before implementation.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1303,11 +1306,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:56:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:40:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses issues related to source control and branching, but does not reference Scrum roles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses issues related to source control and branching in TFS, with no direct mention of the Scrum Master role or its responsibilities. While there is a brief reference to team dynamics and resistance to creating work items, it does not delve into the core themes of Scrum Master responsibilities, techniques, or influence on organisational change. The focus is on technical challenges rather than the facilitation and coaching aspects of a Scrum Master.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1527,6 +1533,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a specific issue related to source control management and the challenges faced in a development environment. While it touches on the importance of regaining control and streamlining processes, it does not explicitly address the concept of competence or continuous skill development. The focus is more on the technical aspects of branching and merging in TFS rather than on fostering a culture of competence or professional growth. Therefore, while there is some alignment with the themes of competence, it is not a primary focus of the content.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:40:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses issues related to source control and branching in TFS, with no explicit mention of Agentic Agility or its principles. While there is a focus on regaining control and streamlining processes, it lacks a clear connection to the intentional shaping of outcomes or the distinction between human and AI capabilities in agility. The discussion is more about operational challenges than about the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

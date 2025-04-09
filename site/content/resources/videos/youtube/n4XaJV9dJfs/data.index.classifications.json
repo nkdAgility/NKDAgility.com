@@ -190,11 +190,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum concepts and practices related to complexity, transparency, and the empirical process, but does not focus on Test First Development or TDD principles.",
+    "calculated_at": "2025-04-08T16:21:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile and Scrum principles, particularly around complexity and collaboration, without any direct mention or discussion of Test First Development practices. While it touches on aspects of transparency and adaptation, these are not specifically tied to the Test First Development methodology, which emphasises defining success criteria and testing practices. Therefore, the content does not align well with the category.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -655,14 +658,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T11:25:32",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-04-08T16:21:53",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses key aspects of Scrum, such as transparency, inspection, and adaptation, which are crucial for a Scrum Master. However, it primarily focuses on complexity and empirical processes rather than the specific role and responsibilities of a Scrum Master. While it touches on Scrum artifacts and their importance, it lacks a direct exploration of the Scrum Master's role in facilitating these processes, coaching teams, or conducting Scrum ceremonies.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses Scrum principles and the importance of transparency, inspection, and adaptation, which are relevant to the Scrum Master's role. However, it primarily focuses on Agile Product Strategy and understanding complexity rather than the specific responsibilities and impact of a Scrum Master. While there are mentions of Scrum concepts, the depth of discussion on the Scrum Master's role is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Enterprise Agility": {
@@ -1593,6 +1596,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Agile and Scrum methodologies, discussing complexity and principles like transparency, inspection, and adaptation. While these concepts are relevant to software development, they do not directly address the One Engineering System framework or its integration and standardisation principles. The discussion lacks explicit references to 1ES, its components, or its implementation, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:21:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile and Scrum principles, focusing on complexity and the importance of transparency, inspection, and adaptation. While it touches on themes relevant to Agentic Agility, such as adaptability and collaboration, it does not explicitly address the intentional shaping of outcomes or differentiate between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical context, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

@@ -1123,11 +1123,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:34:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on Windows Azure training and related services, with no mention of Test First Development or TDD principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the Windows Azure Training Kit and its features, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. The content lacks alignment with the core themes of Test First Development and does not provide any depth on the subject.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1204,11 +1207,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:34:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Windows Azure and related technology, with no mention of Scrum Master roles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on Windows Azure and related training materials, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics or responsibilities associated with the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1479,6 +1485,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the Windows Azure Training Kit, which is aimed at skill development through hands-on labs and demos. However, it lacks explicit discussions on the broader themes of competence, such as continuous learning or the impact of competence on team dynamics. While it does mention mastering Azure services, it does not delve deeply into the principles of professionalism or quality delivery, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:34:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the Windows Azure Training Kit and its features, with no explicit discussion of Agentic Agility or its principles. While it mentions services and applications, it does not address the intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI capabilities.",
     "level": "Ignored"
   }
 }

@@ -1099,11 +1099,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:01:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:43:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on integrating IT service management tools and developing applications without discussing Test First Development principles, practices, or related topics.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of Heat ITSM with TFS for support call management, focusing on workflow and productivity enhancements. There are no explicit mentions of Test First Development principles, success criteria, or testing practices. The content lacks depth in discussing any related concepts, making it largely irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1303,11 +1306,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:01:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:43:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on ITSM and TFS technical details, without any discussion related to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the integration of Heat ITSM with TFS for support call management, which is unrelated to the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, the Scrum Master's role, or any related topics. The focus is on technical implementation rather than Scrum practices or team dynamics.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1527,6 +1533,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the integration of Heat ITSM with TFS for support call management, which does not directly address the principles of competence in Agile or DevOps. While there are mentions of development and workflow enhancement, these are secondary to the main topic of tool integration. The discussion lacks depth regarding continuous learning, skill development, or fostering a culture of competence, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:43:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on integrating Heat ITSM with TFS for support call management, which does not directly discuss Agentic Agility. While there are mentions of workflow and productivity, these are not aligned with the core themes of intentional shaping of outcomes or the principles of Agentic Agility. The content lacks depth in discussing the role of intent, accountability, or the interplay between human judgement and AI logic, which are crucial for this category.",
     "level": "Ignored"
   }
 }

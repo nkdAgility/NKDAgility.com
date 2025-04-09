@@ -499,11 +499,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T01:56:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:00:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the transition from DevOps practitioner to consultant, with a focus on personal experiences and insights rather than Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the author's personal journey from DevOps practitioner to consultant, discussing recognition, career transitions, and insights for aspiring consultants. It does not mention Test First Development, its principles, or related practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -832,11 +835,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T01:57:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:00:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the transition from DevOps practitioner to consultant, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the transition from a DevOps practitioner to a consultant, with only brief mentions of Agile concepts. While it touches on themes of expertise and influence, it lacks a direct discussion of the Scrum Master's role, responsibilities, or impact within a Scrum framework. The depth of discussion on Scrum-related topics is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1560,6 +1566,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the personal journey of transitioning from a DevOps practitioner to a consultant, with no direct mention of the One Engineering System (1ES) framework or its principles. While it touches on themes related to Agile and DevOps, it does not discuss integration, standardisation, or the specific components of 1ES. The discussion lacks depth regarding the core topics outlined for the category, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:00:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the transition from a DevOps practitioner to a consultant, focusing on personal experiences and insights rather than explicitly addressing Agentic Agility. While there are elements of autonomy and adaptability in the narrative, the primary focus is on personal journey and recognition rather than the intentional shaping of outcomes through agency. The content lacks a clear distinction between human and AI capabilities, and does not delve into the mechanisms of Agentic Agility or its impact on organisational agility.",
     "level": "Ignored"
   }
 }

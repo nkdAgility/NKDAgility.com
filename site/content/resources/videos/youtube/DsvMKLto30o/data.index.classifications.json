@@ -781,14 +781,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T16:24:30",
+    "calculated_at": "2025-04-08T15:28:50",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses software delivery and organisational challenges but does not focus on the specific role of a Scrum Master or Scrum practices. While it touches on Agile principles and the need for continuous improvement, it lacks direct references to Scrum ceremonies, coaching, or the responsibilities of a Scrum Master. The mention of 'scrumble' is vague and does not provide substantial insight into the Scrum Master role.",
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses continuous delivery and organisational change but does not explicitly mention the role of a Scrum Master or delve into Scrum-specific practices. While it touches on themes of agility and improvement, it lacks a direct focus on the responsibilities and influence of a Scrum Master within a Scrum Team.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
@@ -1249,14 +1249,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-14T16:24:30",
+    "calculated_at": "2025-04-08T15:28:53",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 11.0,
-    "reasoning": "The content discusses the importance of improving software delivery and quality but does not explicitly mention Test First Development or its principles. It focuses more on continuous delivery and organisational challenges rather than the specific practices of writing tests before code, which is central to Test First Development.",
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses continuous delivery and the need for organisational change to simplify software processes. It does not explicitly mention Test First Development or its principles, nor does it delve into testing practices, success criteria, or the role of testing in software delivery. The focus is on overcoming complexity rather than on the Test First approach.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -1905,6 +1905,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses continuous delivery and the need for organisational commitment to improve software processes, which aligns with some principles of the One Engineering System. However, it lacks direct mentions of 1ES, and the focus is more on personal fitness analogies and general software improvement rather than the specific integration and standardisation of engineering practices across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:28:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of organisational commitment and adaptability in achieving continuous delivery, which aligns with the principles of Agentic Agility. However, it lacks explicit mentions of the category and does not differentiate between human and AI capabilities, focusing instead on general software development practices.",
     "level": "Ignored"
   }
 }

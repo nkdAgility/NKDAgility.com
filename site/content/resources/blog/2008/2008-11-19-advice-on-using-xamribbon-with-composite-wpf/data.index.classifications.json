@@ -1075,11 +1075,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:25:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:37:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the integration of WPF controls and does not mention Test First Development, TDD, or related Agile practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on integrating XamRibbon with Composite WPF, providing practical advice and code examples. There is no mention of Test First Development principles, success criteria, or testing practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1267,11 +1270,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:25:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:37:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical implementation details of WPF controls and does not relate to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical advice for integrating specific WPF controls and does not mention the role or responsibilities of a Scrum Master. There is no discussion of Scrum principles, team dynamics, or any related topics that would align with the category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1488,6 +1494,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on technical advice for integrating specific WPF controls and does not discuss competence, continuous learning, or skill development. While it may imply a level of expertise in using the technologies mentioned, it lacks explicit discussions on competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:37:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical advice for integrating specific WPF controls and does not discuss Agentic Agility or its principles. There are no direct mentions of agency, intentionality, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

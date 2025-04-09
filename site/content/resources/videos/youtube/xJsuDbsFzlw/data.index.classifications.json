@@ -388,14 +388,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T17:40:24",
-    "ai_confidence": 82.0,
+    "calculated_at": "2025-04-08T16:47:02",
+    "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
-    "ai_depth": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on Sprint planning, a key Scrum ceremony, and discusses the role of facilitation and coaching, which are central to the Scrum Master’s responsibilities. It provides detailed insights into structuring workshops, engaging teams, and iterating on processes, aligning well with the core themes of the Scrum Master role. The depth of discussion on practical applications and continuous improvement further supports a high confidence score.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on Sprint planning, a key Scrum event, and discusses the facilitation and coaching aspects that align with the Scrum Master's role. It provides insights into structuring workshops and emphasises continuous improvement, which are relevant to the Scrum Master’s responsibilities. However, while it touches on the Scrum Master’s influence, it does not delve deeply into the broader responsibilities or distinctions of the role, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Agile Planning": {
@@ -433,11 +433,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T21:10:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:47:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Sprint planning and Agile practices without mentioning Test First Development or related testing principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Sprint planning within Agile methodologies, discussing workshop structures and team empowerment. It does not explicitly mention Test First Development or its principles, nor does it delve into testing practices, automated testing, or success criteria related to Test First Development. The discussion is more about Agile processes than the specific testing approach outlined in the category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1581,6 +1584,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Sprint planning within Agile methodologies, discussing workshops and practices related to Scrum. It does not address the One Engineering System framework, its principles, or its integration across teams, which are essential for alignment with the category. The discussion is centred on specific Agile practices rather than the broader context of standardising and integrating software development practices as outlined in the 1ES definition.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:46:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Sprint planning within Agile practices, discussing workshop structures and facilitation techniques. While it touches on themes of adaptability and empowerment, it does not explicitly address Agentic Agility or differentiate between human and AI capabilities. The discussion lacks depth in exploring the intentional shaping of outcomes, which is central to the category.",
     "level": "Ignored"
   }
 }

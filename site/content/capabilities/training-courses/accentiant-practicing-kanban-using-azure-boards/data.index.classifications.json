@@ -361,11 +361,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T00:48:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:23:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on Kanban and Azure Boards, with no significant discussion on the Scrum Master role or responsibilities.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Kanban and Azure Boards, with no direct mention of the Scrum Master role or its responsibilities. While it touches on agile principles, it does not align with the core themes of the Scrum Master category, such as coaching, mentoring, or facilitating within a Scrum context. The depth of discussion regarding the Scrum Master is minimal, as the content is centred around a specific course on Kanban rather than the Scrum framework.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -397,11 +400,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T00:48:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Kanban practices using Azure Boards and does not discuss Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T17:23:11",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban and Azure Boards, with no explicit mention of Test First Development principles or practices. While it discusses improving flow and throughput, it does not address success criteria, testing methodologies, or the role of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban and Azure Boards, which are not directly related to the One Engineering System framework. While it discusses improving flow and throughput in software development, it does not address the principles, integration, or best practices of 1ES. The mention of a course on Kanban indicates a secondary focus on agile methodologies rather than the core themes of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:23:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban and Azure Boards, with no explicit discussion of Agentic Agility or its principles. While it touches on improving flow and throughput, it does not address intentional shaping of outcomes, the distinction between human and AI capabilities, or the role of agency in agile practices.",
     "level": "Ignored"
   }
 }

@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:44:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:04:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of connecting to SQL Server using DNS, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on technical instructions for connecting to SQL Server using DNS and does not discuss Evidence-Based Management or its key topics. There are no direct mentions of EBM principles, and the content lacks any alignment with the core themes of data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:44:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:04:53",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on connecting to SQL Server using DNS and does not discuss Agile principles or the Agile Product Operating Model.",
+    "reasoning": "The content focuses entirely on connecting to SQL Server using DNS and does not mention or align with any principles of the Agile Product Operating Model. It discusses technical details related to database connectivity, which is unrelated to agile methodologies or product management.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:44:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:04:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses connecting to SQL Server using DNS and does not address DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on connecting to SQL Server using DNS and discusses technical details related to SPN setup and authentication. It does not address any core DevOps principles, practices, or cultural shifts, nor does it mention collaboration, automation, or shared accountability, which are central to the DevOps philosophy. Therefore, the alignment with the DevOps category is minimal.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -694,11 +703,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:06:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:05:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on connecting to SQL Server using DNS and does not relate to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on connecting to SQL Server using DNS and discusses technical details related to authentication and SPN setup. It does not mention Continuous Delivery or its principles, practices, or benefits, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1333,11 +1345,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:06:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:04:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is entirely focused on technical details related to connecting to a SQL Server, with no reference to Scrum Masters, Agile practices, or related responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical aspects of connecting to SQL Server using DNS, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics or responsibilities associated with the Scrum Master role.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1360,11 +1375,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:06:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:05:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on connecting to SQL Server using DNS and does not discuss Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on connecting to SQL Server using DNS and does not mention or discuss any principles or practices related to Test First Development. There are no references to success criteria, testing methodologies, or any related concepts, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1428,6 +1446,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on connecting to a SQL Server using DNS and discusses technical details related to service principal names (SPNs) and authentication methods. There are no direct mentions of the Shift-Left Strategy, nor does it align with its core themes of integrating testing, security, or compliance early in the software development lifecycle. The discussion lacks depth regarding any Shift-Left practices or principles.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:04:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for connecting to SQL Server using DNS and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no mentions of shared objectives, alignment, or strategic goals, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:04:46",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on technical instructions for connecting to SQL Server using DNS and does not discuss competence, continuous learning, or skill development. While it touches on the necessity of proper setup for authentication, it lacks a broader discussion on competence as defined in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:04:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for connecting to SQL Server using DNS and does not discuss Continuous Improvement principles or practices. There are no direct mentions of Continuous Improvement, and the content lacks alignment with the core themes of the category, such as empirical evidence, experimentation, or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:04:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for connecting to SQL Server using DNS and does not discuss Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content lacks depth in relation to the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

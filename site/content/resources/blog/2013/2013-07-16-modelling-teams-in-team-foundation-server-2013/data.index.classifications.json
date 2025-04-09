@@ -1183,11 +1183,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:06:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:55:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses structuring teams and project management within Team Foundation Server, with no focus on Test First Development or related testing practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on modelling teams and managing projects within Team Foundation Server 2013, with no explicit discussion of Test First Development principles, success criteria, or testing practices. While it briefly touches on automation, it does not connect this to Test First methodologies or provide any relevant depth on the topic.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1267,11 +1270,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:06:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:55:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses primarily on Team Foundation Server 2013 and its features for modeling teams, project management, and source control, without any specific discussion about the role or responsibilities of a Scrum Master.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Team Foundation Server and its functionalities, with no direct mention of the Scrum Master role or its responsibilities. While it discusses team structures and project management, it does not align with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles. The discussion lacks depth regarding the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1551,6 +1557,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the technical aspects of modelling teams and managing projects within Team Foundation Server 2013. While it touches on the importance of structuring teams and managing workflows, it lacks a direct discussion on continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The mention of team structures and roles is relevant but does not delve into fostering a culture of competence or the impact of competence on quality outcomes and trust within teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:55:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of modelling teams and managing projects within Team Foundation Server 2013. While it discusses team structures and project management, it does not explicitly address the concept of Agentic Agility, such as intentional shaping of outcomes, autonomy, or adaptability. The discussion lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical environment, which is central to the category of Agentic Agility.",
     "level": "Ignored"
   }
 }

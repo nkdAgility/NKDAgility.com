@@ -1132,11 +1132,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:22:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:26:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily focuses on SEO permanent redirects and URL management in a web application context, and does not discuss Test First Development or related testing methodologies.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses SEO strategies and URL redirection techniques, with no direct mention or alignment to Test First Development principles, practices, or methodologies.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1216,11 +1219,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:22:54",
+    "calculated_at": "2025-04-08T19:26:23",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
     "final_score": 1.0,
-    "reasoning": "Content primarily focuses on SEO and technical implementation of permanent redirects, with no relevance to Scrum Master roles or responsibilities.",
+    "reasoning": "The content focuses entirely on SEO strategies and URL redirection techniques, with no mention or discussion of Scrum, the role of a Scrum Master, or any related agile practices.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1491,6 +1497,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on technical implementation of SEO strategies and URL redirection, with no explicit discussion on competence, continuous learning, or skill development. While it touches on best practices, it does not align with the core themes of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:26:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on SEO strategies and technical implementations for URL redirection, with no explicit discussion of Agentic Agility or its principles. While there are elements of adaptability in the context of web development, they do not align with the intentional shaping of outcomes as defined in the category.",
     "level": "Ignored"
   }
 }

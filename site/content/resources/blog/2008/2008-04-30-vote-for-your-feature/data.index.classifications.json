@@ -166,20 +166,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:16:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:54:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses feature voting for a software version, lacking focus on evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on soliciting votes for features in a software product, which does not directly discuss Evidence-Based Management principles. While it involves user input, it lacks empirical evidence or metrics related to value delivery, decision-making, or innovation capacity, which are core to EBM. The discussion is more about feature selection rather than data-informed management practices.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:16:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:54:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on gathering votes for features rather than discussing Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on gathering votes for features in a software product, which does not directly discuss the Agile Product Operating Model or its principles. While it hints at customer involvement in product development, it lacks depth in discussing agile methodologies, product management practices, or the transition from project to product ethos.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -331,11 +337,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:16:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:53:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses feature voting for a software project, which does not align with DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on gathering votes for features in a specific software tool, TFS Sticky Buddy, without discussing any DevOps principles, practices, or cultural shifts. There are no direct mentions of DevOps concepts such as collaboration, automation, or shared accountability, and the discussion lacks depth in relation to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -736,11 +745,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:48:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:54:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses feature voting for a specific software version and does not address Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on gathering user votes for features in a software product, which does not directly discuss Continuous Delivery principles or practices. While it touches on user feedback, it lacks depth in discussing automation, incremental improvements, or any strategies related to Continuous Delivery. The mention of versioning does not align with the core themes of Continuous Delivery, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1399,11 +1411,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:48:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:54:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about gathering votes for software features and does not discuss the role, responsibilities, or practices of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on gathering votes for features in a software project, with no direct mention of the Scrum Master role or its responsibilities. While it may touch on aspects of team collaboration, it lacks any substantial discussion on Scrum principles, coaching, or the impact of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1426,11 +1441,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:48:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:54:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on gathering feature requests and voting for new features, without any discussion on Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on gathering votes for feature enhancements in a software project, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any depth or alignment with the core themes of Test First Development, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1494,6 +1512,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on gathering votes for features in a software project, with no explicit discussion of the Shift-Left Strategy or its principles. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on related methodologies or metrics. The content is more about feature prioritisation rather than proactive quality assurance or development practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T19:53:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on soliciting votes for features in a software project, which does not directly discuss the concept of Common Goals within Agile or DevOps frameworks. While it encourages community engagement and input, it lacks explicit references to shared objectives, strategic alignment, or frameworks like OKRs. The discussion is more about feature selection rather than aligning team efforts with overarching goals, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T19:53:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on soliciting votes for features in a software project, which does not directly address the principles of competence in Agile or DevOps. While there is an implicit suggestion of user engagement and feedback, it lacks explicit discussions on continuous learning, skill development, or the importance of competence in delivering quality outcomes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T19:53:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on soliciting votes for features in a software product, which does not directly discuss Continuous Improvement principles. While there is an element of user feedback that could relate to improvement, it lacks depth in discussing systematic processes, empirical evidence, or strategies for fostering a culture of experimentation. The mention of features and voting does not align with the core themes of Continuous Improvement, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:53:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on soliciting votes for features in a software project, which does not explicitly discuss Agentic Agility or its principles. While there is a hint of user engagement and shaping outcomes through voting, it lacks depth and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

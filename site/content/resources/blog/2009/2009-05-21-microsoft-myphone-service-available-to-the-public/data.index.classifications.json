@@ -1108,11 +1108,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T03:05:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:31:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a Microsoft service and does not discuss Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on Microsoft's MyPhone service, discussing its features and usability, with no mention or relevance to Test First Development principles, practices, or methodologies.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1192,11 +1195,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T03:05:31",
+    "calculated_at": "2025-04-08T19:31:09",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is entirely focused on a Microsoft service related to mobile phones and does not mention Scrum, Scrum Master roles, or any Agile principles.",
+    "reasoning": "The content focuses entirely on Microsoft's MyPhone service, discussing its features and functionalities without any reference to Scrum, the role of a Scrum Master, or related agile principles. There are no mentions of Scrum roles, responsibilities, or any relevant discussions that would align with the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the features and functionalities of Microsoft's MyPhone service, with no direct mention of competence, continuous learning, or skill development. While it touches on the ease of use and potential benefits of the service, it does not align with the core themes of competence in Agile or DevOps contexts. The discussion lacks depth and detail regarding any professional development or quality delivery aspects.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:31:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the Microsoft MyPhone service, focusing on its features and usability. There are no direct mentions of Agentic Agility, nor does it explore the intentional shaping of outcomes, autonomy, or adaptability in a socio-technical context. The discussion lacks depth and relevance to the core themes of Agentic Agility, making it largely unrelated to the category.",
     "level": "Ignored"
   }
 }

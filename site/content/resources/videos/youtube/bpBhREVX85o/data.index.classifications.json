@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T08:51:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:11:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum and its role in leadership decision-making, with no mention of Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the Scrum framework and its role in decision-making for leadership teams, without any direct reference to Test First Development principles or practices. While it touches on feedback loops and decision-making, it does not address success criteria, testing methodologies, or the importance of defining criteria before implementation, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -865,12 +868,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T08:51:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:11:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the limitations of Scrum in decision-making for leadership teams, rather than focusing on the role and responsibilities of a Scrum Master.",
-    "level": "Ignored"
+    "final_score": 57.0,
+    "reasoning": "The content discusses the Scrum framework and its implications for leadership teams, but it does not focus specifically on the role of the Scrum Master. While it touches on aspects of Scrum that relate to decision-making and team dynamics, it primarily addresses the responsibilities of leadership rather than the Scrum Master's role in facilitating those processes. The content lacks a detailed exploration of the Scrum Master's responsibilities, techniques, or influence on team dynamics, which are crucial for a higher confidence score in this category.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1593,6 +1599,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum, an agile framework, and its role in decision-making for leadership teams. It does not mention the One Engineering System (1ES) or its principles, components, or implementation. The focus is on Scrum's limitations and benefits rather than on the integration and standardisation of engineering processes, which are core to 1ES. Therefore, the content does not align with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:11:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum as an agile framework and its limitations in decision-making, which does not align with the core themes of Agentic Agility. While it touches on leadership responsibility and the need for strategic vision, it lacks a focus on intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities. The discussion is more about the framework's role rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

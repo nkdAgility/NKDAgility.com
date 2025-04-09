@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T12:08:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concepts of resource efficiency and flow efficiency, with no mention of Test First Development or related practices.",
+    "calculated_at": "2025-04-08T17:08:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses resource efficiency and flow efficiency within Agile processes, with no direct mention or exploration of Test First Development principles. While it touches on Agile practices, it does not align with the core themes of Test First Development, such as success criteria, testing methodologies, or the role of testing in design and collaboration.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -859,11 +862,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T12:08:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:08:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses resource efficiency versus flow efficiency without specific reference to the Scrum Master role or Scrum practices.",
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile concepts and includes hashtags related to Scrum and Scrum Master, but it primarily focuses on the differences between resource efficiency and flow efficiency. While it touches on themes relevant to Agile practices, it does not delve into the specific responsibilities or impact of a Scrum Master, nor does it discuss their role in fostering team dynamics or organisational change. Therefore, the content does not align closely with the core themes of the Scrum Master category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1584,6 +1590,18 @@
     "non_ai_confidence": 30,
     "final_score": 14.0,
     "reasoning": "The content primarily discusses resource efficiency and flow efficiency within Agile processes, which are not directly related to the One Engineering System framework. While it touches on optimisation and team dynamics, it does not explicitly mention 1ES principles, components, or its implementation. The focus is on efficiency concepts rather than the integration and standardisation of engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:08:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses resource efficiency and flow efficiency within Agile practices, without explicitly addressing Agentic Agility or its core themes. While it touches on optimisation and the importance of balancing different approaches, it does not delve into the intentional shaping of outcomes, the role of agency, or the distinction between human and AI capabilities. Therefore, the alignment with the category is minimal.",
     "level": "Ignored"
   }
 }

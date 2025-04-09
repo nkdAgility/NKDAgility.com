@@ -1111,11 +1111,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:51:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:29:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on issues with Visual Studio 2008 and Office 2010, with no discussion of Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to Visual Studio 2008 and Office 2010, with no mention of Test First Development principles, success criteria, or testing practices. It does not align with the core themes of the category, nor does it provide any depth on the subject.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1198,11 +1201,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:51:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:29:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about issues related to Visual Studio 2008 and Office 2010, not discussing Scrum Master responsibilities or Scrum practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a technical issue related to Visual Studio 2008 and Office 2010, with no mention or discussion of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics or responsibilities associated with the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1473,6 +1479,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a technical issue related to Visual Studio 2008 and Office 2010, providing a specific solution to a problem. While it touches on the development experience, it does not explicitly discuss competence, continuous learning, or skill development. The mention of resolving a technical issue does not align with the core themes of competence, and the depth of discussion is limited to a practical fix rather than a broader exploration of professional capability.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:29:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to Visual Studio 2008 and Office 2010, with no mention of Agentic Agility or its principles. It does not address intentional shaping of outcomes, agency, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

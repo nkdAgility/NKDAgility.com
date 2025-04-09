@@ -526,11 +526,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T03:17:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:45:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and does not address Test First Development or related principles.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on immersive learning experiences and does not mention or align with any principles of Test First Development. It discusses educational methodologies without any reference to testing practices or success criteria related to software development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -865,11 +868,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T03:18:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:45:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and does not focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on immersive learning experiences and does not mention the role or responsibilities of a Scrum Master. While there are themes of support and continuous improvement, they are not specifically tied to Scrum or the Scrum Master's influence. The discussion lacks depth regarding Scrum principles or practices.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1593,6 +1599,18 @@
     "non_ai_confidence": 20,
     "final_score": 6.0,
     "reasoning": "The content focuses entirely on immersive learning experiences and does not mention or align with the principles of the One Engineering System. It discusses educational methodologies without any reference to software development practices, integration of tools, or standardisation, which are core to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:45:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses immersive learning experiences and their benefits, with no explicit mention of Agentic Agility or its principles. While there are themes of engagement and adaptability, they do not directly relate to the intentional shaping of outcomes as defined in the category. The focus is on learning methodologies rather than the interplay of human and AI agency.",
     "level": "Ignored"
   }
 }

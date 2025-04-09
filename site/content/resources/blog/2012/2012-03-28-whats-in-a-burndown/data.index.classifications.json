@@ -1189,11 +1189,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:31:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:07:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses burndown charts and their role in Scrum, with no significant focus on Test First Development principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses burndown charts and their role in Agile, focusing on visualising progress and team communication. While it touches on aspects of testing (like Acceptance Tests), it does not explicitly address Test First Development principles or practices. The primary focus is on Scrum processes rather than the Test First approach, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1270,14 +1273,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T05:59:51",
+    "calculated_at": "2025-04-08T19:07:39",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 20,
     "final_score": 67.0,
-    "reasoning": "The content discusses the concept of burndown charts within the context of Scrum, mentioning the Scrum Master in relation to impediments and team dynamics. However, it primarily focuses on the technical aspects of burndown charts rather than the broader responsibilities and practices of a Scrum Master. While there are relevant mentions of the Scrum Master, the depth of discussion on the role itself is limited.",
+    "reasoning": "The content discusses burndown charts and their role in Scrum, mentioning the Scrum Master in the context of raising impediments and facilitating team improvement. However, the primary focus is on the burndown charts themselves rather than the Scrum Master's responsibilities or influence. While there are relevant mentions of the Scrum Master, they are not the central theme of the discussion.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1578,6 +1581,18 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses burndown charts and their role in Agile, which indirectly relates to competence through the lens of team effectiveness and communication. However, it lacks a direct focus on continuous learning or skill development, which are core themes of the competence category. The discussion is more about tools and processes rather than the development of skills and capabilities.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:07:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses burndown charts and their role in Agile practices, focusing on visualising progress and team communication. While it touches on actions teams can take based on burndown data, it does not explicitly address the concept of Agentic Agility or the intentional shaping of outcomes. The discussion lacks depth in exploring the principles of Agentic Agility, such as intent, accountability, or the interplay between human judgement and AI logic.",
     "level": "Ignored"
   }
 }

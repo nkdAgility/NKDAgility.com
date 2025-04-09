@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T22:11:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:10:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses exception handling in Team Foundation Server and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of exception handling in Team Foundation Server and Windows Communication Foundation, with no direct mention or discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T22:11:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:10:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses exception handling in Team Foundation Server and does not relate to Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses exclusively on exception handling in Team Foundation Server and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related topics that align with the category. The content is technical and specific to coding practices, which is unrelated to the core themes of APOM.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -313,11 +319,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T22:11:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:10:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses exception handling in Team Foundation Server and Windows Communication Foundation, which is not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on exception handling in Team Foundation Server and Windows Communication Foundation, which does not align with the core principles of DevOps. While it mentions a tool related to DevOps, it lacks discussions on collaboration, automation, or cultural shifts necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -703,11 +712,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:18:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:10:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses exception handling specific to Team Foundation Server and does not relate to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on exception handling in Team Foundation Server and Windows Communication Foundation, with no direct mention or discussion of Continuous Delivery principles, practices, or related topics. It lacks alignment with the core themes of Continuous Delivery, such as automation, rapid feedback, or cultural aspects. The depth of discussion is also minimal, as it is narrowly focused on a specific technical issue rather than broader Continuous Delivery concepts.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1345,11 +1357,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:18:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:10:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details related to Team Foundation Server and exception handling, with no mention of the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical aspects of handling exceptions in Team Foundation Server and does not mention or align with any Scrum Master responsibilities, roles, or principles. There is no discussion of Scrum practices, team dynamics, or agile methodologies, which are essential for the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1372,20 +1387,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:18:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:10:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses handling exceptions in Team Foundation Server and does not address Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on exception handling in Team Foundation Server and does not discuss Test First Development principles, success criteria, or testing practices. There are no direct mentions of Test First Development, and the content lacks depth in relation to the category's core themes.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:30:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:10:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses exception handling in Team Foundation Server and does not relate to Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical aspects of exception handling in Team Foundation Server and Windows Communication Foundation, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it mentions coding practices, it does not align with the core themes of social technologies, such as self-organisation or collective intelligence.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1437,6 +1458,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses exception handling in relation to Team Foundation Server and does not address the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance earlier in the development process, nor does it provide any techniques or case studies related to the Shift-Left approach. The focus is on a specific technical issue rather than the broader principles of Shift-Left.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T21:10:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of exception handling in Team Foundation Server and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T21:10:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses handling exceptions in Team Foundation Server, which relates to skill development in coding. However, it lacks a broader discussion on continuous learning or the importance of competence in Agile or DevOps contexts. The focus is primarily on a technical solution rather than fostering a culture of competence or professional development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T21:10:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on exception handling in Team Foundation Server and does not discuss Continuous Improvement principles or practices. There are no direct mentions of Continuous Improvement, and the content lacks alignment with the core themes such as empirical evidence, team effectiveness, or strategies for improvement. The depth of discussion is limited to technical coding solutions, which do not contribute to the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T21:10:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on exception handling in Team Foundation Server and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is technical and specific to coding practices, lacking any alignment with the themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

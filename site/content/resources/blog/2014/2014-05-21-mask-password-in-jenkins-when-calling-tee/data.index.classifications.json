@@ -1135,11 +1135,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T10:42:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:46:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on masking passwords in Jenkins and does not discuss Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses how to mask passwords in Jenkins for security purposes, which is unrelated to Test First Development principles. There are no direct mentions of success criteria, testing practices, or the Test First approach. The focus is on a specific technical solution rather than the broader concepts of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1219,11 +1222,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T10:42:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:46:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on Jenkins and technical details related to password masking, with no relevance to Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of Jenkins and password management, with no direct mention of Scrum Master responsibilities or related concepts. It lacks any discussion on Scrum principles, team dynamics, or the role of a Scrum Master, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1500,6 +1506,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on a technical solution for masking passwords in Jenkins, which is more about a specific tool and its configuration rather than discussing competence in terms of continuous learning or skill development. While there are brief mentions of the importance of security and some problem-solving, these do not align closely with the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:46:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical solution for masking passwords in Jenkins, which does not align with the principles of Agentic Agility. While there is a mention of security and configuration, it lacks discussions on intentional shaping of outcomes, autonomy, or adaptability in a socio-technical context. The content does not differentiate between human and AI capabilities, nor does it explore the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

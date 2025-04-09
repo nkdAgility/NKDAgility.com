@@ -1180,11 +1180,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T17:32:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions Test Driven Development (TDD) as part of the general Test First movement, but the primary focus is on Scrum practices and workflow across Sprint boundaries.",
+    "final_score": 59.0,
+    "reasoning": "The content briefly mentions Test Driven Development (TDD) as part of the Test First movement, which aligns with the category. However, the primary focus is on Scrum practices and the flow of work across Sprint boundaries, with limited depth on Test First principles. The discussion lacks comprehensive exploration of success criteria, automated testing, or the impact of Test First on collaboration, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Windows": {
@@ -1261,14 +1264,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T03:34:03",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "calculated_at": "2025-04-08T17:32:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the Scrum framework and the role of the Scrum Master in facilitating Scrum processes, particularly regarding the flow of work across Sprint boundaries. It touches on key Scrum events like Sprint Planning and Sprint Review, which are relevant to the Scrum Master’s responsibilities. However, the focus is more on technical practices and Continuous Delivery rather than on the Scrum Master’s role in coaching or team dynamics, leading to a moderate confidence score.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the Scrum framework and the role of the Scrum Master in facilitating effective Scrum practices, particularly around the concept of work flowing across Sprint boundaries. It addresses the importance of maintaining the Sprint Goal and the Definition of Done, which are crucial responsibilities of a Scrum Master. The discussion includes insights into how Scrum principles can be applied to enhance team efficiency and value delivery, aligning well with the core themes of the category. However, while it provides substantial detail, it also references Kanban practices, which slightly detracts from its primary focus on the Scrum Master role.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1587,6 +1590,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses Scrum practices and methodologies, particularly around the flow of work across Sprint boundaries. While it touches on concepts like Continuous Delivery and transparency, it does not focus on the One Engineering System framework or its principles. The discussion is more aligned with Scrum than with the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:32:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum practices and the flow of work across Sprint boundaries, which does not directly address the concept of Agentic Agility. While there are mentions of team efficiency and value delivery, these are framed within traditional Agile practices rather than the intentional shaping of outcomes through autonomy and adaptability as defined in Agentic Agility. The focus is on Scrum mechanics rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

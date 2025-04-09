@@ -1081,14 +1081,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-17T14:33:07",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-04-08T15:28:04",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses the Definition of Done (DoD) and mentions Test-Driven Development (TDD) as part of engineering practices. However, the primary focus is on the DoD and its evolution within Scrum teams rather than a comprehensive exploration of Test First Development principles. While TDD is included, it is not the main topic, leading to a moderate confidence score.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) and its evolution, which indirectly relates to Test First Development principles, particularly in the context of quality assurance and the importance of defining success criteria. However, the primary focus is on the DoD and Scrum practices rather than explicitly on Test First Development methodologies like TDD or ATDD. While there are mentions of automated testing and quality standards, the overall discussion does not deeply engage with the core themes of Test First Development, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Customer Feedback Loops": {
@@ -1717,14 +1717,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-17T14:35:53",
+    "calculated_at": "2025-04-08T15:28:07",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
     "final_score": 66.0,
-    "reasoning": "The content discusses the Definition of Done (DoD) within the context of Scrum Teams, touching on the Scrum Master's role in facilitating quality standards and team practices. However, it primarily focuses on technical aspects and organisational perspectives rather than the Scrum Master's responsibilities, coaching techniques, or team dynamics. While there are relevant mentions of Scrum principles, the depth of discussion on the Scrum Master role is limited.",
+    "reasoning": "The content discusses the Definition of Done (DoD) within the context of Scrum Teams, highlighting the importance of aligning quality standards with organisational goals. While it touches on Scrum principles and the role of teams, it lacks a direct focus on the Scrum Master’s responsibilities, techniques, and influence on team dynamics or organisational change. The discussion is relevant but does not delve deeply into the specific role of the Scrum Master, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Working Software": {
@@ -1905,6 +1905,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the Definition of Done (DoD) within the context of Scrum, focusing on its evolution and organisational alignment. While it touches on quality standards and practices that could relate to a unified engineering system, it does not explicitly address the One Engineering System framework or its principles. The discussion is more centred on Scrum methodologies rather than the integration and standardisation of engineering processes across teams, which is the core focus of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:28:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) in the context of Scrum and organisational goals, but it primarily focuses on technical quality standards and practices rather than the intentional shaping of outcomes through autonomy and adaptability. While there are elements of alignment with organisational objectives, the discussion lacks a clear emphasis on the transformative capacity of individuals and systems, which is central to Agentic Agility. The content does not differentiate between human and AI capabilities in this context, nor does it explore the role of intent and reflection in achieving desired outcomes.",
     "level": "Ignored"
   }
 }

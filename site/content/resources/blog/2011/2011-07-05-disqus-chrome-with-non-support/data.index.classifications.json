@@ -1108,11 +1108,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:06:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:14:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on a technical issue with a commenting system and does not discuss Test First Development or related principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses troubleshooting issues with Disqus comments in Chrome and does not mention Test First Development or its principles. There is no alignment with the core themes of Test First Development, such as success criteria, testing practices, or collaboration among team members. The depth of discussion is focused on a specific technical issue rather than any testing methodology.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1192,11 +1195,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:06:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:14:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses technical issues related to a blog commenting system and does not address any aspects of the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to Disqus comments not loading in Chrome, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics of the Scrum Master category, and the discussion is focused on troubleshooting a specific software problem rather than any aspects of Scrum or agile methodologies.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses technical issues related to Disqus comments not loading in Chrome, which does not align with the principles of competence in Agile, Scrum, DevOps, or Lean methodologies. There are no direct mentions of continuous learning, skill development, or professionalism, and the discussion lacks depth on any related themes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:14:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to Disqus comments not loading in Chrome, with no explicit mention of Agentic Agility or its principles. While there is a minor element of seeking solutions and troubleshooting, it does not align with the core themes of intentional shaping of outcomes, autonomy, or adaptability in socio-technical environments. The focus is on a specific technical problem rather than a broader discussion of agency or agility.",
     "level": "Ignored"
   }
 }

@@ -1204,11 +1204,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:41:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:11:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum roles and practices without a focus on Test First Development principles.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Scrum practices and principles, with a focus on the implementation of Scrum rather than Test First Development. While it briefly mentions the importance of automated testing in the context of delivering working software, it does not delve into the core concepts of Test First Development, such as defining success criteria or the specifics of TDD or ATDD. The discussion lacks depth and does not align with the key topics outlined for Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1285,14 +1288,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T06:18:09",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-04-08T19:11:55",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the role of the Scrum Master as part of a checklist for effective Scrum implementation, indicating a direct mention. It aligns with the category by addressing the responsibilities of the Scrum Master in ensuring adherence to Scrum practices. However, the depth of discussion is limited, focusing more on general Scrum principles and practices rather than an in-depth exploration of the Scrum Master's role.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of the Scrum Master as part of a checklist for effective Scrum practices, indicating a direct mention. However, the primary focus is on the broader concept of Scrum and its evolving practices rather than an in-depth exploration of the Scrum Master's responsibilities or influence. While it aligns with some core themes, such as the importance of the Scrum Master in the Scrum framework, the depth of discussion on the Scrum Master specifically is limited.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1584,6 +1587,18 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of adhering to Scrum principles and provides a checklist for evaluating Scrum practices, which indirectly relates to competence in terms of skill development and quality delivery. However, the primary focus is on the Scrum framework rather than a deep exploration of competence as a standalone concept. The mention of needing to improve performance and the reference to practices that enhance Scrum effectiveness suggest a connection to competence, but it lacks a thorough examination of continuous learning or professional development.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:11:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum practices and the evolving landscape of Scrum, with a focus on a checklist for ensuring adherence to Scrum principles. While it touches on adaptability, it does not explicitly address the concept of Agentic Agility or the intentional shaping of outcomes through autonomy and alignment with values. The discussion lacks depth in exploring the distinctions between human and AI capabilities in the context of agility, and it does not provide insights into the transformative capacity of individuals or systems. Therefore, the content's relevance to Agentic Agility is minimal.",
     "level": "Ignored"
   }
 }

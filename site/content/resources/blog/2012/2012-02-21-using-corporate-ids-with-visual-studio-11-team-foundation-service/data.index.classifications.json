@@ -1126,11 +1126,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:54:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:09:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on managing Live IDs with Visual Studio Team Foundation Service and does not discuss Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses managing Live IDs for Visual Studio 2012 Team Foundation Service, with no mention of Test First Development principles, success criteria, or testing practices. It does not align with the core themes of the category, nor does it provide any depth on related topics.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1210,11 +1213,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:54:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:09:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of Live IDs with Visual Studio and Team Foundation Service, with no mention of Scrum, Scrum Master roles, or related Agile practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on managing Live IDs and user authentication within Visual Studio 2012 Team Foundation Service, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not discuss Scrum principles, team dynamics, or any responsibilities associated with a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1485,6 +1491,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on managing Live IDs for Visual Studio 2012 Team Foundation Service, which does not directly address the principles of competence in Agile, Scrum, DevOps, or Lean methodologies. While there are mentions of user management and authentication, these do not align with the core themes of continuous learning, skill development, or fostering a culture of competence. The discussion lacks depth and does not provide substantial insights into competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:09:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on managing Live IDs within Visual Studio 2012 Team Foundation Service, discussing technical aspects of user authentication and domain management. It does not address the concept of Agentic Agility, nor does it explore themes of intentionality, autonomy, or adaptability in the context of human or AI agency.",
     "level": "Ignored"
   }
 }

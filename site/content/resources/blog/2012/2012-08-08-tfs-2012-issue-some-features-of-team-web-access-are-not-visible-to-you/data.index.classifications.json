@@ -1120,11 +1120,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:52:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:03:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no mention of Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses licensing issues related to TFS 2012 and does not mention Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1207,11 +1210,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:52:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:03:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no clear focus on Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses licensing issues related to TFS 2012 and does not mention the role or responsibilities of a Scrum Master. It lacks any direct references to Scrum principles, team dynamics, or the impact of a Scrum Master, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS 2012 and licensing requirements. While it touches on the necessity of having the correct licenses for accessing features, it does not delve into the broader themes of competence, such as continuous learning, skill development, or fostering a culture of competence. The discussion is more about administrative tasks rather than the development of capabilities or professionalism within teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:03:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS 2012 and licensing requirements. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The mention of administrative roles and permissions is tangential and does not align with the core themes of intentionality or proactive engagement in outcomes.",
     "level": "Ignored"
   }
 }

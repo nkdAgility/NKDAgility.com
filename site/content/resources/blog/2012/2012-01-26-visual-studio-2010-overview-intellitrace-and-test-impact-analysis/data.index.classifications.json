@@ -1174,14 +1174,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-15T06:10:44",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-04-08T19:10:23",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses automated testing and regression testing, which are related to Test First Development, but it does not explicitly mention writing tests before code or the principles of TDD. The focus is more on tools like IntelliTrace and Test Impact Analysis rather than the core concepts of Test First Development. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the category.",
+    "final_score": 39.0,
+    "reasoning": "The content discusses automated testing and regression testing, which are relevant to Test First Development, but it does not explicitly mention the principles or practices of Test First Development itself. The focus is more on tools like IntelliTrace and Test Impact Analysis rather than on defining success criteria or the broader implications of Test First practices. While there is some alignment with the themes of automated testing and the need for prioritisation in testing, the depth of discussion does not fully explore the core concepts of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1261,11 +1261,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:26:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:10:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio features and tools, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical aspects of Visual Studio 2010, specifically IntelliTrace and Test Impact Analysis, which are tools for bug fixing and regression testing in Agile environments. While it mentions Agile teams, it does not discuss the role or responsibilities of a Scrum Master, nor does it delve into the core themes associated with the Scrum Master role. Therefore, the content does not align well with the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1545,6 +1548,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses tools like IntelliTrace and Test Impact Analysis that can enhance bug fixing and regression testing in Agile environments. However, it does not explicitly address the concept of competence or continuous skill development. While it touches on improving processes, it lacks a deeper exploration of how these tools contribute to team competence or professional growth, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:10:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on tools and techniques for bug fixing and regression testing in Agile environments, without explicitly discussing the concept of Agentic Agility. While it mentions Agile teams and the need for prioritisation in testing, it does not delve into the intentional shaping of outcomes or the principles of Agentic Agility. The discussion lacks depth and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

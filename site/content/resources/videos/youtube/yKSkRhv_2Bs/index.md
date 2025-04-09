@@ -31,6 +31,7 @@ sitemap:
 tags:
 - Software Development
 - Scrum Product Development
+- Scrum Master
 resourceTypes:
 - video
 categories:

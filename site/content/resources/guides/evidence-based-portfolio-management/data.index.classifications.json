@@ -532,11 +532,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T14:02:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:48:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on business agility and management practices rather than Test First Development or related testing methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses business agility and evidence-based portfolio management, with no explicit mention of Test First Development principles or practices. It does not align with the core themes of Test First Development, such as success criteria, testing practices, or collaboration among development roles. The discussion lacks depth regarding any aspect of Test First Development, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -880,11 +883,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T14:03:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:48:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses agile approaches and business agility without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 39.0,
+    "reasoning": "The content discusses agile approaches and the need for agility beyond teams, which aligns with the broader principles of Scrum. However, it does not explicitly mention the role of the Scrum Master or delve into specific responsibilities or techniques associated with that role. The focus is more on organisational agility rather than the Scrum Master’s influence or practices.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1614,6 +1620,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content discusses agile approaches and business agility but does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on improving responsiveness and competitiveness, it lacks a direct focus on the integration and standardisation of engineering processes that characterise 1ES. The discussion is more about agile practices at a broader organisational level rather than the specific framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:48:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses business agility and the need for agile principles to extend beyond teams, but it does not explicitly address the concept of Agentic Agility or its key themes such as intentional shaping of outcomes, the distinction between human and AI capabilities, or the role of intent and accountability. The focus is more on general agile practices rather than the specific transformative capacity associated with Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -526,11 +526,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T04:41:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:35:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Sprint reviews and stakeholder feedback, with no focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on managing feedback during Sprint reviews in an Agile context, with no direct mention of Test First Development principles or practices. While it discusses stakeholder engagement and product alignment, it does not address success criteria, testing methodologies, or the importance of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -877,14 +880,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T22:15:39",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-04-08T16:35:51",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses the role of Scrum Masters in navigating harsh feedback during Sprint reviews, which is a key Scrum ceremony. It highlights the importance of communication, collaboration, and stakeholder engagement, aligning with Scrum Master responsibilities. However, while it mentions Scrum Masters, the focus is more on feedback management rather than a deep exploration of Scrum Master practices or techniques.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of Scrum Masters in navigating harsh feedback during Sprint reviews, which is a key Scrum event. It mentions the importance of stakeholder engagement and communication, aligning with the Scrum Master's responsibilities. However, the focus is more on the feedback process rather than a comprehensive exploration of the Scrum Master's role, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1599,6 +1602,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Sprint reviews within Agile methodologies, discussing how to handle feedback rather than the principles or components of the One Engineering System. While it touches on collaboration and stakeholder engagement, it does not delve into the integration or standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:35:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses navigating harsh feedback in Sprint reviews, focusing on adaptability and stakeholder engagement, which aligns with some principles of Agentic Agility. However, it lacks a direct mention of the concept and does not differentiate between human and AI capabilities, nor does it delve deeply into the intentional shaping of outcomes. The primary focus remains on Agile practices rather than the broader implications of Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -1174,11 +1174,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T10:22:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:44:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses migrating source control from Perforce to Git and related practices, without any focus on Test First Development or writing tests prior to code implementation.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the migration process from Perforce to Git, discussing version control systems and related practices. While it briefly touches on the importance of building solutions and managing dependencies, it does not explicitly address Test First Development principles, success criteria, or testing methodologies. The discussion lacks depth in relation to the core themes of Test First Development, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1258,11 +1261,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T10:22:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:44:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses technical aspects of migrating source control from Perforce to Git, without any focus on Scrum Master roles or Scrum practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from Perforce to Git, with no direct mention of the Scrum Master role or its responsibilities. While it briefly touches on team dynamics by mentioning Development and Business Teams, it lacks any substantial discussion on Scrum principles, coaching, or the Scrum Master's influence on organisational change. Overall, the content does not align with the core themes of the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1542,6 +1548,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from Perforce to Git, with limited direct discussion on competence. While it touches on the need for understanding and adapting to new workflows, it lacks a thorough exploration of continuous learning or skill development, which are central to the competence category. The depth of discussion on the migration process is substantial, but it does not sufficiently connect to the broader themes of competence in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:44:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from Perforce to Git, discussing specific tools and processes without addressing the intentional shaping of outcomes, autonomy, or adaptability in the context of Agentic Agility. There are no explicit mentions of the principles or mechanisms of Agentic Agility, nor does it explore the interplay between human judgement and AI logic. The discussion is largely procedural and lacks depth in relation to the category.",
     "level": "Ignored"
   }
 }

@@ -388,11 +388,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:28:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses general Agile principles and the concept of 'less is more' but does not specifically focus on the role, responsibilities, or practices of a Scrum Master.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile principles and practices, which are relevant to Scrum, but it does not explicitly mention the role of the Scrum Master or delve into their specific responsibilities. While it touches on concepts like backlog refinement and sprint planning, which are part of Scrum, the primary focus is on the broader Agile philosophy of 'Less is More' rather than the Scrum Master's role in facilitating these practices.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -433,11 +436,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:28:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and the concept of doing less value-added work, with no clear focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the principle of 'Less is More' in Agile methodologies, focusing on value maximisation and waste minimisation. It does not explicitly mention Test First Development or its core principles, nor does it delve into testing practices, success criteria, or the role of testing in Agile. The discussion is more aligned with general Agile practices rather than the specific focus of Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1557,6 +1563,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile methodologies and the principle of 'Less is More', which are not directly related to the One Engineering System. While there are some mentions of efficiency and productivity, these concepts are framed within the context of Agile rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:28:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the principle of 'Less is More' within Agile practices, focusing on maximising value and minimising waste. However, it does not explicitly mention Agentic Agility or its key themes such as intentional shaping of outcomes, the distinction between human and AI capabilities, or the role of accountability and reflection. While there is some alignment with the concept of value creation, the discussion lacks depth and does not engage with the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

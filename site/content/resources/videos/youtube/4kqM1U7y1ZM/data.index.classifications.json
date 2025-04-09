@@ -412,14 +412,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-14T23:17:08",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-04-08T16:48:09",
+    "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content explicitly discusses the role of a Scrum Master in transforming a Scrum team, focusing on strategies for continuous delivery, team empowerment, and the importance of organisational support. It aligns well with the core themes of the category, such as coaching, facilitating team collaboration, and fostering a culture of continuous improvement. The depth of discussion is substantial, providing specific strategies and insights into the Scrum Master's responsibilities, although it could benefit from more detailed exploration of Scrum ceremonies and metrics.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the role of a Scrum Master in transforming a Scrum team, focusing on strategies for continuous delivery, team empowerment, and the importance of organisational support. It aligns well with the core themes of the category, such as the Scrum Master's responsibilities and their influence on team dynamics. The depth of discussion is substantial, providing detailed strategies and insights into the Scrum Master's role in fostering a culture of agility and continuous improvement.",
     "level": "Secondary"
   },
   "Agile Planning": {
@@ -460,11 +460,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T21:29:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:48:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses strategies for transforming a Scrum team and achieving continuous delivery, without a focus on Test First Development principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses strategies for transforming a Scrum team and focuses on continuous delivery, value clarity, and empowerment. While it touches on aspects of feedback loops, it does not explicitly mention Test First Development principles or practices such as TDD or ATDD. The discussion lacks depth in relation to the core themes of Test First Development, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1587,6 +1590,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on Scrum practices and strategies for team transformation rather than discussing the One Engineering System (1ES) framework. While it touches on concepts like continuous delivery and team empowerment, it lacks direct references to 1ES principles, components, or its integration across teams. The discussion is more about Agile methodologies and Scrum rather than the standardisation and integration of engineering processes that 1ES emphasises.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:48:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses strategies for transforming a Scrum team, focusing on continuous delivery and empowerment. While it touches on themes of autonomy and adaptability, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. The discussion is primarily centred on Agile practices rather than the intentional shaping of outcomes, leading to a lower confidence score.",
     "level": "Ignored"
   }
 }

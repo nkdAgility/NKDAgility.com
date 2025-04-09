@@ -1060,11 +1060,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:10:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:34:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses personal experiences with purchasing and using a laptop, with no relevance to Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on personal experiences related to purchasing a laptop and does not mention or discuss any principles of Test First Development. There are no references to testing practices, success criteria, or any related concepts, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1249,11 +1252,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:10:49",
+    "calculated_at": "2025-04-08T19:34:47",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on personal experiences with a laptop and operating system choices, with no relevance to Scrum or the role of a Scrum Master.",
+    "reasoning": "The content focuses entirely on personal experiences related to purchasing a laptop and does not mention Scrum, the role of a Scrum Master, or any related concepts. There is no discussion of Scrum principles, team dynamics, or organisational change, which are central to the Scrum Master category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1470,6 +1476,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the personal experience of purchasing a laptop and does not discuss competence in any meaningful way. There are no direct mentions of skill development, quality outcomes, or professional growth, which are central to the concept of competence. The discussion is casual and lacks depth regarding any relevant themes, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:34:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the personal experience of purchasing a laptop and does not address any concepts related to Agentic Agility. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are core to the category. The focus is on consumer behaviour rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

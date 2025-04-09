@@ -184,11 +184,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T17:25:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:38:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses quality engineering and the concept of shift left, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the shift-left approach in software development and quality assurance, with no direct mention of the Scrum Master role or its responsibilities. While it touches on collaboration and team dynamics, it does not align with the core themes of the Scrum Master category, such as facilitating Scrum processes or promoting agile principles. The discussion lacks depth regarding the specific impact of a Scrum Master, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1042,15 +1045,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-14T17:12:04",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-04-08T15:38:53",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content briefly mentions the concept of 'shift left', which aligns with the idea of integrating quality early in the development process, a principle related to Test First Development. However, it does not explicitly discuss Test-Driven Development (TDD) or the specific practices of writing tests before code. The discussion lacks depth and detail on the principles, benefits, and tools associated with Test First Development, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the 'shift left' approach, which aligns with some principles of Test First Development, such as early QA involvement and continuous feedback. However, it does not explicitly mention Test First Development or its specific practices like TDD or ATDD. The focus is more on quality assurance rather than the detailed methodologies of Test First Development, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -1527,6 +1530,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily discusses the 'shift-left' approach in quality assurance, which, while relevant to software development, does not explicitly mention or focus on the One Engineering System (1ES). The principles of early QA integration and collaboration are touched upon, but they do not align closely with the core themes of 1ES, such as standardisation and integration across teams. The depth of discussion is limited to the shift-left methodology without connecting it to the broader framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:38:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the shift-left approach in software development, which promotes proactive quality assurance and collaboration. However, it does not explicitly mention Agentic Agility or its principles. While there are elements of autonomy and adaptability in the shift-left methodology, the focus is primarily on quality assurance rather than the intentional shaping of outcomes through agency. The discussion lacks depth in exploring the distinctions between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

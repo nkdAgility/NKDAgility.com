@@ -529,11 +529,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T23:11:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:51:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on product development, user value, and collaboration rather than Test First Development principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content discusses product development and structured learning but does not explicitly mention Test First Development or its principles. While it touches on concepts like user value and collaboration, these are not directly related to the Test First approach, which focuses on defining success criteria and testing practices. The discussion lacks depth in relation to Test First Development, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -874,11 +877,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T23:12:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:51:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on product development and user value rather than the specific role and responsibilities of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses product development and collaboration but does not explicitly mention the role of a Scrum Master or its specific responsibilities. While there are themes of collaboration and continuous improvement that align with Scrum principles, the primary focus is on structured learning and product development rather than the Scrum Master role itself.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1611,6 +1617,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on product development and structured learning, discussing user value, waste reduction, and collaboration. While these topics are relevant to software development, they do not specifically address the principles or components of the One Engineering System (1ES). There are no direct mentions of 1ES, and the discussion lacks depth regarding integration of tools and processes or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:51:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses enhancing user value, reducing waste, and improving collaboration in product development, which aligns with some principles of Agentic Agility, such as intentional shaping of outcomes and adaptability. However, it lacks explicit mentions of Agentic Agility, does not differentiate between human and AI capabilities, and does not delve deeply into the core themes of the category. The focus remains more on general product development practices rather than the specific concept of agency and intentionality.",
     "level": "Ignored"
   }
 }

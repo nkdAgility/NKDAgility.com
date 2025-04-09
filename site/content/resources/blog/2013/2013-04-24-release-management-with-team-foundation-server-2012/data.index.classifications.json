@@ -1198,11 +1198,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:30:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:54:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses release management and deployment strategies, with no clear focus on Test First Development or Test-Driven Development principles.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses release management and automation techniques but does not explicitly focus on Test First Development principles. While it mentions the importance of quality output and automated testing, it lacks a detailed exploration of success criteria, TDD, or ATDD, which are central to Test First Development. The discussion is more about deployment processes than the testing practices that guide development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1282,11 +1285,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:30:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:54:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses release management practices and tools, with no clear focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on release management strategies and tools related to Team Foundation Server 2012, with no direct discussion of the Scrum Master role or its responsibilities. While it touches on aspects of team dynamics and quality output, it does not align with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1579,5 +1585,17 @@
     "final_score": 70.0,
     "reasoning": "The content discusses the importance of professional development teams creating quality outputs and the necessity for continuous improvement in release management processes. It highlights the need for competence in deploying applications and maintaining quality, which aligns well with the core themes of the 'Competence' category. The depth of discussion on automation, risk reduction, and the responsibilities of development teams further supports this classification.",
     "level": "Secondary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:54:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on release management strategies and automation techniques within Team Foundation Server 2012, lacking explicit discussions on Agentic Agility. While it touches on aspects of team autonomy and the importance of quality output, it does not delve into the intentional shaping of outcomes or the interplay between human and AI capabilities, which are central to the concept of Agentic Agility.",
+    "level": "Ignored"
   }
 }

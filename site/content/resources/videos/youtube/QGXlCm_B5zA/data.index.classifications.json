@@ -532,14 +532,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T12:19:49",
-    "ai_confidence": 82.0,
+    "calculated_at": "2025-04-08T17:08:56",
+    "ai_confidence": 87.0,
     "ai_mentions": 18,
-    "ai_alignment": 35,
-    "ai_depth": 30,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
-    "reasoning": "The content primarily focuses on the role of the Scrum Master, discussing their responsibilities and the importance of enabling teams rather than performing administrative tasks. It highlights the need for Scrum Masters to provide services to both the team and the organisation, aligning well with the core themes of the category. The depth of discussion is substantial, as it explores the implications of the Scrum Master's role in fostering accountability and improving team dynamics. However, while the content is rich in insights, it could benefit from more structured exploration of specific Scrum ceremonies and techniques for coaching.",
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of a Scrum Master, discussing insights from the Advanced PSM course that aim to enhance the understanding and practice of Scrum. It explicitly mentions the Scrum Master role multiple times and delves into the services provided to the team, Product Owner, and organisation, aligning well with the core themes of the category. The depth of discussion is substantial, providing practical advice and reflections on the Scrum Master's impact on team dynamics and organisational agility.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -964,11 +964,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:22:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of a Scrum Master and the PSM II course, with no mention of Test First Development, TDD, or related testing practices.",
+    "calculated_at": "2025-04-08T17:08:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of a Scrum Master, discussing insights from the Advanced PSM course. It does not mention Test First Development or its principles, nor does it explore topics related to success criteria, testing practices, or the impact of testing on collaboration. The discussion is centred around Scrum practices rather than the Test First Development methodology.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1539,6 +1542,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the role and responsibilities of a Scrum Master, discussing insights from the Advanced PSM course. While it touches on aspects of team dynamics and organisational challenges, it does not explicitly mention or align with the principles of the One Engineering System framework. The discussion is centred around Scrum methodology rather than the integration and standardisation of engineering processes, which is the core of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:08:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of a Scrum Master and touches on themes of empowerment, accountability, and team autonomy, which are relevant to Agentic Agility. However, it primarily focuses on Scrum practices rather than explicitly addressing the intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals and systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

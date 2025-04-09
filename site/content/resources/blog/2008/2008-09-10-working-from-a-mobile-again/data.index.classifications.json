@@ -1057,11 +1057,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:26:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:41:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses personal work from a mobile device and does not relate to Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the challenges of working from a mobile device and managing TFS work items offline. It does not mention Test First Development, its principles, or any related practices. The focus is on mobile productivity rather than testing methodologies or development practices.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1246,11 +1249,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:26:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:41:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal work preferences and tools for mobile productivity without any reference to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses working from a mobile device and managing TFS work items, with no direct mention of Scrum Master responsibilities or related concepts. It lacks any discussion on Scrum principles, team dynamics, or the role of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily discusses the challenges of working from a mobile device and managing work items offline, which does not directly address the principles of competence in Agile or DevOps. While there is a mention of productivity, it lacks a focus on continuous learning, skill development, or the professional standards associated with competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:41:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the challenges of working from a mobile device and managing work items offline, which does not align with the core themes of Agentic Agility. There are no explicit mentions of intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI capabilities. The focus is on practical solutions for mobile productivity rather than on the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

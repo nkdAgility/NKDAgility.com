@@ -1108,11 +1108,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:51:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:29:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about installing Office 2010 and troubleshooting installation issues, with no relation to Test First Development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the installation process of Office 2010 and does not mention or relate to Test First Development principles, success criteria, or testing practices. It lacks any discussion on testing methodologies or practices, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1195,11 +1198,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:51:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:30:02",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on installing Office 2010 and does not relate to Scrum Master roles or responsibilities.",
+    "reasoning": "The content is entirely focused on the installation process of Office 2010 and does not mention or relate to the role, responsibilities, or any concepts associated with a Scrum Master. There is no discussion of Scrum principles, team dynamics, or agile methodologies, which are essential for the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1470,6 +1476,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation process of Office 2010 and does not discuss competence, continuous learning, or skill development. While there is a mention of productivity, it is not tied to the principles of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:29:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Office 2010 and does not discuss Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is entirely practical and technical, lacking any alignment with the themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

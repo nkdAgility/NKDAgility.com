@@ -1201,15 +1201,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-15T05:24:13",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-04-08T18:56:59",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions Acceptance Test Driven Development (ATDD) and discusses improvements in test management features within Visual Studio ALM. However, it lacks a comprehensive exploration of Test First Development principles, practices, and tools. The focus is more on new features rather than a detailed discussion of TDD or the benefits of writing tests before code.",
-    "level": "Ignored"
+    "final_score": 41.0,
+    "reasoning": "The content briefly mentions Acceptance Test Driven Development (ATDD) and discusses improvements in test management tools, which aligns with some aspects of Test First Development. However, the primary focus is on Visual Studio ALM features rather than a comprehensive discussion of Test First principles. The depth of discussion on Test First practices is limited, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Windows": {
     "category": "Windows",
@@ -1285,11 +1285,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:35:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:57:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Visual Studio ALM features and improvements, with no reference to Scrum Master roles, responsibilities, or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses enhancements in Visual Studio ALM and features related to version control and test management, with no direct mention of the Scrum Master role or its responsibilities. While there are references to Kanban, which is a part of agile methodologies, the focus is not on the Scrum Master or their impact on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1578,6 +1581,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily discusses new features in Visual Studio ALM and improvements in tools rather than focusing on competence, continuous learning, or skill development. While there are mentions of quality enablement and process improvements, these are not deeply tied to the concept of competence as defined in the category. The discussion lacks a strong emphasis on the importance of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:56:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses enhancements in Visual Studio ALM, focusing on features like Git support and web-based test management. While it touches on aspects of agility in software development, it does not explicitly address the concept of Agentic Agility, nor does it explore the intentional shaping of outcomes or the interplay between human and AI capabilities. The discussion lacks depth in relation to the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

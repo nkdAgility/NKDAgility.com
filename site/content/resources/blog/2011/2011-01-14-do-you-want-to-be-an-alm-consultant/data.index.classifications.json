@@ -1183,11 +1183,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:18:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:17:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of an ALM consultant and related responsibilities, without a focus on Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on a job advertisement for an ALM Consultant position, discussing qualifications and responsibilities without any direct mention or discussion of Test First Development principles. While it touches on software development and best practices, it does not align with the core themes of Test First Development, such as defining success criteria or the role of testing in the development process.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1267,11 +1270,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:18:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:18:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a job opportunity for an ALM Consultant, mentioning Agile only in the context of software development methods without focusing specifically on the Scrum Master role or responsibilities.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of an ALM Consultant, with only a brief mention of Scrum in the context of training and consulting. It does not delve into the specific responsibilities or impact of a Scrum Master, nor does it discuss the core themes associated with the Scrum Master role. The discussion lacks depth and does not align with the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1561,5 +1567,17 @@
     "final_score": 60.0,
     "reasoning": "The content discusses the role of an ALM Consultant, highlighting the need for expertise, training, and mentoring, which aligns with the concept of competence. However, while it mentions skills and experience, it lacks a deeper exploration of continuous learning or strategies for fostering a culture of competence, which limits its overall alignment with the category.",
     "level": "Tertiary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:17:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a job advertisement for an ALM Consultant, detailing responsibilities and qualifications without discussing Agentic Agility or its principles. While it mentions roles that may involve some level of autonomy and adaptability, it does not explicitly address the intentional shaping of outcomes or the distinction between human and AI capabilities in this context.",
+    "level": "Ignored"
   }
 }

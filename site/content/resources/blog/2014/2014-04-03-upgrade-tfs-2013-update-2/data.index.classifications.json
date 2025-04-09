@@ -1195,11 +1195,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T11:12:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:47:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the features and updates of Team Foundation Server 2013 Update 2, including various enhancements to backlog management, test management, release management, and version management, rather than focusing on Test First Development principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the features and benefits of upgrading to TFS 2013 Update 2, with a focus on backlog, test, and release management. While it briefly mentions test management features, it does not delve into the principles or practices of Test First Development, nor does it discuss success criteria or the role of testing in the development process. The overall emphasis is on the upgrade process and new features rather than on Test First Development methodologies.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1285,11 +1288,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T11:12:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:47:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical features and updates related to Team Foundation Server (TFS) and does not focus on the role, responsibilities, or practices of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the features and benefits of upgrading to TFS 2013 Update 2, focusing on backlog, test, and release management. There are no direct mentions of the Scrum Master role or its responsibilities, and the discussion does not align with the core themes of the Scrum Master category. The content lacks depth regarding Scrum practices or the influence of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1566,6 +1572,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the features and benefits of upgrading to TFS 2013 Update 2, with little emphasis on competence as defined in the Agile and DevOps context. While it discusses improvements in backlog, test, and release management, it does not delve into continuous learning, skill development, or the professional growth of teams, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:47:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects and features of TFS 2013 Update 2, with no explicit discussion of Agentic Agility or its principles. While it touches on aspects of development processes, it does not engage with the intentional shaping of outcomes or the interplay between human and AI capabilities, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

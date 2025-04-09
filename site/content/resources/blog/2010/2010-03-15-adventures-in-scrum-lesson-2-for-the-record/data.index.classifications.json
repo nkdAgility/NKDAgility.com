@@ -1189,11 +1189,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:06:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:24:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum roles, events, and team dynamics, without any clear focus on Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum practices and team dynamics rather than focusing on Test First Development principles. While it touches on communication and alignment, it does not explicitly mention success criteria, testing practices, or the importance of defining tests before implementation, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1273,14 +1276,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T07:13:04",
-    "ai_confidence": 72.0,
-    "ai_mentions": 60.0,
-    "ai_alignment": 80.0,
-    "ai_depth": 70.0,
+    "calculated_at": "2025-04-08T19:24:49",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the Scrum framework and the roles within a Scrum team, specifically mentioning the Scrum Master and the dynamics involving the Product Owner. It highlights a learning experience related to Scrum practices, which aligns well with the responsibilities of a Scrum Master. The depth of discussion includes specific events and reflections on the Scrum process, indicating a strong engagement with the category. However, while the Scrum Master is mentioned, the focus is more on the team's experience rather than a detailed exploration of the Scrum Master's role, which slightly lowers the confidence score.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the Scrum framework and the role of the Scrum Master within a Scrum Team, particularly in the context of a failed Sprint and communication issues. However, while the Scrum Master is mentioned, the focus is more on the challenges faced during the Sprint rather than a detailed exploration of the Scrum Master's responsibilities or techniques. The discussion is relevant but lacks depth in addressing the core themes of the Scrum Master role.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1576,5 +1579,17 @@
     "final_score": 50.0,
     "reasoning": "The content discusses the learning experiences of a Scrum team, highlighting the importance of clear communication and understanding roles within the Scrum framework. While it does not explicitly mention 'competence', it aligns with the core themes of continuous learning and the necessity for skill development in Agile environments. The depth of discussion regarding the implications of misunderstandings and the need for clarity in roles suggests a moderate level of engagement with the concept of competence.",
     "level": "Tertiary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:24:45",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses Scrum practices and the challenges faced during a Sprint, with a focus on communication and alignment within the Scrum framework. While there are elements of intent and accountability mentioned, they are not explored in the context of Agentic Agility. The discussion lacks depth regarding the principles of Agentic Agility and does not differentiate between human and AI capabilities, leading to a low confidence score.",
+    "level": "Ignored"
   }
 }

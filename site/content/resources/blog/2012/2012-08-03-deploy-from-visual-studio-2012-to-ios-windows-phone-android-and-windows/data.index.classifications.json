@@ -1189,11 +1189,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:30:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:03:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses application deployment and development across multiple platforms without addressing Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on deploying applications across multiple platforms using Visual Studio 2012, with no explicit discussion of Test First Development principles, success criteria, or testing practices. It lacks any mention of TDD, ATDD, or the importance of testing in the development process, making it largely irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1276,11 +1279,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:30:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:03:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses technical details about application development and deployment using Visual Studio and does not relate to the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on deploying applications using Visual Studio across multiple platforms, with no direct mention of Scrum Master responsibilities or related concepts. While it touches on aspects of application lifecycle management (ALM) and value delivery, it does not align with the core themes of the Scrum Master role, such as coaching, facilitating, or promoting agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1560,6 +1566,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the technical aspects of deploying applications across multiple platforms using Visual Studio 2012. While it touches on the need for trained developers and mentions the benefits of a holistic build process, it lacks a direct discussion on continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The depth of discussion on competence-related themes is minimal, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:03:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on deploying applications across multiple platforms using Visual Studio, which does not directly address the concept of Agentic Agility. While it mentions the ability to streamline development and deliver value, it lacks explicit discussions on intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI agency. The content does not differentiate between human and AI capabilities, nor does it explore the principles of Agentic Agility in depth.",
     "level": "Ignored"
   }
 }

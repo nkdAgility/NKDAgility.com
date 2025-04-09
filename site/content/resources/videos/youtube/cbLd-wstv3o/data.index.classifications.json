@@ -1348,11 +1348,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on discovering unrealized value and metrics related to product management, rather than principles or practices of Test First Development.",
+    "calculated_at": "2025-04-08T16:08:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and unrealized value in product development, with no direct mention of Test First Development principles or practices. While it touches on metrics and continuous improvement, it does not align with the core themes of Test First Development, such as defining success criteria before implementation or the role of testing in the development process.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1417,11 +1420,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product value and evidence-based management metrics rather than the Scrum Master role or responsibilities.",
+    "calculated_at": "2025-04-08T16:08:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in identifying unrealized value in products, which is relevant to Scrum practices. However, it does not explicitly focus on the Scrum Master role or its responsibilities. While there are mentions of product backlog and stakeholder engagement, the primary focus is on product management rather than the Scrum Master’s influence or techniques. The depth of discussion on Scrum Master-specific topics is limited, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1575,6 +1581,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and unrealized value in product development, which are not directly related to the One Engineering System framework. While there are mentions of metrics and product backlogs, these concepts do not align with the core themes of 1ES, such as integration of tools and processes across teams or standardisation of engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:08:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the concept of unrealized value and the use of Evidence-Based Management (EBM) to identify and act on gaps in product value. However, it primarily focuses on metrics and practical approaches rather than explicitly addressing Agentic Agility principles such as intentional shaping of outcomes, the distinction between human and AI capabilities, or the role of accountability and reflection. While there are elements of adaptability and proactive intervention, the discussion lacks depth in exploring the transformative capacity of individuals and systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

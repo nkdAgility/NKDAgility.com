@@ -1204,11 +1204,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T18:49:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:32:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum implementation and organisational change rather than Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum and agile transformation within organisations, focusing on collaboration and empowerment rather than the principles of Test First Development. While it touches on the importance of understanding processes and roles in software development, it does not explicitly mention Test First practices, success criteria, or the significance of testing methodologies. The discussion lacks depth in relation to Test First Development, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1291,11 +1294,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T18:49:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-08T17:32:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role of Scrum Masters in training and facilitating Scrum practices within organisations, highlighting their responsibilities and the impact of their coaching on team dynamics.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of the Scrum Master in training and facilitating Scrum practices within an organisation, highlighting the importance of Scrum in fostering collaboration and agile transformation. It explicitly mentions training Scrum Masters and addresses misconceptions about Scrum, which aligns well with the responsibilities and impact of a Scrum Master. However, while the content is rich in examples and experiences related to Scrum, it does not delve deeply into the specific techniques or skills of a Scrum Master, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1585,5 +1591,17 @@
     "final_score": 31.0,
     "reasoning": "The content primarily discusses Scrum and its implementation within organisations, focusing on agile transformation rather than the One Engineering System framework. While there are mentions of collaboration and organisational change, the discussion does not explicitly address the principles or components of 1ES, nor does it provide detailed insights into integrating tools and processes across teams. The content is more aligned with Scrum practices than with the standardisation and integration goals of 1ES.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:32:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the implementation of Scrum and the empowerment of individuals within an organisation, which aligns with the concept of Agentic Agility. However, it primarily focuses on Scrum practices and does not explicitly define or deeply explore the principles of Agentic Agility. While there are mentions of empowerment and collaboration, the content lacks a thorough examination of the intentional shaping of outcomes or the distinction between human and AI capabilities in this context.",
+    "level": "Tertiary"
   }
 }

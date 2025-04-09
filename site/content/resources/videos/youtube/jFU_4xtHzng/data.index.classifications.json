@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T05:52:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:08:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses training formats and learning processes, with no clear focus on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the benefits of a specific training format in Agile environments, focusing on learning efficiency rather than the principles of Test First Development. While it touches on concepts of continuous learning and iterative processes, it does not explicitly mention Test First Development practices, success criteria, or testing methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -859,12 +862,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T05:53:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:08:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses training formats and learning processes, with only a brief mention of Agile and Scrum concepts.",
-    "level": "Ignored"
+    "final_score": 56.0,
+    "reasoning": "The content discusses training formats that could be relevant to Scrum training, mentioning the Scrum Master in hashtags. However, the primary focus is on training design and learning efficiency rather than the specific role and responsibilities of a Scrum Master. The connection to Scrum Master duties is indirect and lacks depth in discussing their impact or techniques.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1596,6 +1602,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses training formats in Agile environments, specifically the benefits of four half days versus two full days. While it touches on concepts like resource and flow efficiency, it does not directly address the principles or components of the One Engineering System framework, nor does it provide insights into integration, best practices, or challenges related to 1ES. The focus remains on training methodologies rather than the standardisation and integration of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:08:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the benefits of a specific training format in Agile environments, focusing on learning efficiency rather than the intentional shaping of outcomes through agency. While it touches on concepts like continuous learning and reflection, it does not explicitly address Agentic Agility or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

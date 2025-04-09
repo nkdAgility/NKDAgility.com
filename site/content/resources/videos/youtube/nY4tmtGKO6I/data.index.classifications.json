@@ -223,11 +223,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:35:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-04-08T16:18:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum principles and the role of a Scrum Master, with no direct mention of Test First Development or its practices. While it discusses concepts like continuous learning and collaboration, these are not specific to Test First Development, which emphasises defining success criteria and testing practices. Therefore, the content does not align well with the category.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -658,15 +661,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-07T13:17:11",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
+    "calculated_at": "2025-04-08T16:18:32",
+    "ai_confidence": 92.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content explicitly discusses the role of a Scrum Master, focusing on their responsibilities in educating new teams about Scrum principles and values. This aligns well with the core themes of the category, particularly in terms of coaching and mentoring. The depth of discussion is moderate, providing insights into the importance of a Scrum Master's knowledge and accountability, but it could benefit from more detailed exploration of specific techniques or practices.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses the role and responsibilities of a Scrum Master, including teaching, facilitating, and fostering a culture of continuous improvement. It directly addresses key topics such as empiricism, Scrum values, and the importance of creating a safe environment for team members. The depth of discussion is significant, providing practical strategies and personal insights that align closely with the core themes of the Scrum Master role.",
+    "level": "Primary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -1536,6 +1539,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum methodology, discussing roles, values, and practices specific to Scrum teams. While it touches on collaboration and learning, it does not explicitly mention or align with the principles of the One Engineering System (1ES). The discussion is centred around Scrum rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:18:26",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the role of a Scrum Master, with limited direct discussion of Agentic Agility. While it touches on themes of adaptability and continuous learning, it does not explicitly address the intentional shaping of outcomes or differentiate between human and AI capabilities in the context of agility. The depth of discussion is more aligned with general Agile practices rather than the specific principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

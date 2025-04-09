@@ -373,11 +373,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T21:37:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:48:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the rewarding aspects of being a Scrum developer, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the perspective of a Scrum Developer rather than the role of a Scrum Master. While it touches on themes of teamwork and meaningful work, it lacks direct discussion of the Scrum Master's responsibilities, techniques, or influence on team dynamics. The mention of Scrum is brief and does not delve into the core themes associated with the Scrum Master role.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -412,11 +415,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T21:37:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:48:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the rewarding aspects of being a Scrum developer without addressing Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the emotional and motivational aspects of being a Scrum developer, discussing the importance of meaningful work rather than addressing any principles or practices related to Test First Development. There are no direct mentions of testing methodologies, success criteria, or the role of testing in the development process, which are crucial for alignment with the Test First Development category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1524,6 +1530,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the personal experiences and motivations of a Scrum developer, discussing the joy and meaning derived from Scrum practices. It does not address the One Engineering System framework, its principles, or its integration with other processes, which are essential for alignment with the category. The discussion is centred around individual perspectives rather than the standardisation and integration of engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:48:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of meaningful work and the satisfaction derived from creating impactful projects, which aligns with the principles of Agentic Agility. However, it lacks explicit references to the concepts of autonomy, adaptability, and the distinction between human and AI capabilities. The focus is primarily on personal satisfaction in Scrum development rather than a comprehensive exploration of Agentic Agility.",
     "level": "Ignored"
   }
 }

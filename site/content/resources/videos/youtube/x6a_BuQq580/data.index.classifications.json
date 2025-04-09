@@ -484,11 +484,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T20:16:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:40:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses migration processes and challenges related to cloud services, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on cloud migration strategies and does not discuss Test First Development principles, success criteria, or testing practices. While it mentions planning and communication, these are not specific to Test First Development, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -808,11 +811,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T20:18:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:40:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps migration processes and challenges, with no clear focus on Scrum Master responsibilities or related topics.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on cloud migration strategies and does not discuss the role or responsibilities of a Scrum Master. While it touches on planning and communication, which are relevant to agile practices, it lacks direct references to Scrum principles or the Scrum Master's influence on team dynamics and organisational change.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1512,6 +1518,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on cloud migration strategies and concerns, particularly regarding Azure DevOps, without discussing the One Engineering System framework or its principles. While it touches on planning and tools, it does not align with the core themes of 1ES, such as integration of processes across teams or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:40:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on cloud migration processes and does not explicitly discuss Agentic Agility or its principles. While it touches on planning and communication, these aspects do not align with the core themes of intentional shaping of outcomes or the distinction between human and AI capabilities in agility.",
     "level": "Ignored"
   }
 }

@@ -1171,14 +1171,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-15T06:51:18",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-04-08T19:19:46",
+    "ai_confidence": 12.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content briefly mentions 'Database Testing and Deployment Verification' as part of the Visual Studio 2010 Database Guide, which aligns with the concept of testing in software development. However, it does not explicitly discuss Test First Development or its principles, nor does it delve into the practices of writing tests before code. The focus is more on guidance for using Visual Studio rather than on the Test First Development methodology itself.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the Visual Studio 2010 Database Guide, discussing project management, source control, and deployment automation. While it briefly mentions 'Database Testing and Deployment Verification', it does not delve into Test First Development principles or practices, nor does it discuss success criteria or the role of testing in the context of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1261,11 +1261,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T01:04:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:19:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses Visual Studio and database management tools, which do not relate to the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010 and its database management features, with no direct mention of Scrum or the role of a Scrum Master. It does not align with the core themes of the Scrum Master category, such as facilitating team effectiveness or promoting agile principles. The discussion lacks depth regarding Scrum practices or the responsibilities of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1542,6 +1545,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on providing practical guidance and resources for using Visual Studio 2010, which indirectly supports competence through hands-on labs and real-world scenarios. However, it lacks explicit discussions on continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The mention of contributors and community involvement hints at a collaborative effort towards competence but does not delve deeply into the principles of professionalism or quality delivery.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:19:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on practical guidance for using Visual Studio 2010, with no explicit discussion of Agentic Agility or its principles. While it touches on project management and collaboration, it does not address the intentional shaping of outcomes or the distinction between human and AI capabilities in agility.",
     "level": "Ignored"
   }
 }

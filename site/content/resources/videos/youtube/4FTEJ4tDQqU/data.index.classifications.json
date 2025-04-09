@@ -562,14 +562,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T01:20:02",
+    "calculated_at": "2025-04-08T17:09:20",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
     "final_score": 61.0,
-    "reasoning": "The content discusses the author's journey towards embracing Agile and Scrum, highlighting the principles of Scrum and its impact on organisational culture. However, it primarily focuses on personal experiences and insights rather than explicitly detailing the role and responsibilities of a Scrum Master. While there are mentions of Scrum, the depth of discussion on Scrum Master-specific practices and techniques is limited.",
+    "reasoning": "The content discusses the author's journey towards embracing Agile and Scrum, highlighting the principles of Scrum and its impact on organisational culture. However, while Scrum is mentioned, the primary focus is on personal experiences and the transition to Agile and DevOps rather than a detailed exploration of the Scrum Master's role or responsibilities. The discussion lacks depth in terms of specific Scrum Master techniques or the influence of the Scrum Master on team dynamics.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1003,11 +1003,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:22:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses experiences with Agile and DevOps, but does not mention Test First Development or related testing practices.",
+    "calculated_at": "2025-04-08T17:09:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Agile and Scrum practices, with a focus on personal experiences and transitions in project management. It does not explicitly mention Test First Development or its principles, nor does it delve into testing practices, success criteria, or the role of testing in Agile methodologies. The discussion is more about the author's journey and insights into Agile rather than a focused exploration of Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1593,6 +1596,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on personal experiences with Agile and Scrum, discussing the author's journey and insights rather than the One Engineering System framework. While it touches on themes of process improvement and collaboration, it does not explicitly mention 1ES or its principles, components, or implementation strategies. The discussion is more about Agile methodologies and personal reflections than about standardising and integrating engineering practices across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:09:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile and Scrum practices, focusing on personal experiences and transitions rather than explicitly addressing Agentic Agility. While it touches on themes of autonomy and adaptability, it lacks a clear distinction between human and AI capabilities and does not delve into the intentional shaping of outcomes as defined in the category.",
     "level": "Ignored"
   }
 }

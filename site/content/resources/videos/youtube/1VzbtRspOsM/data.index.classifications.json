@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T12:04:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning for agile leaders and does not address Test First Development or related principles.",
+    "calculated_at": "2025-04-08T16:19:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses immersive learning for agile leadership and does not explicitly mention Test First Development or its principles. While it touches on practical applications and feedback, it lacks a direct focus on testing methodologies or the importance of success criteria in software development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -862,12 +865,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T12:05:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning for agile leaders without a specific focus on the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T16:19:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses agile leadership and the PAL-E class, which includes elements relevant to Scrum Masters, such as fostering collaboration and implementing agile principles. However, it does not explicitly focus on the Scrum Master role or its specific responsibilities, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1606,5 +1612,17 @@
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on agile leadership and immersive learning experiences, specifically the PAL-E class, without discussing the One Engineering System framework or its principles. While it touches on collaboration and leadership practices, it does not align with the core themes of 1ES, such as standardisation and integration of software development practices across teams.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:19:20",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the challenges and transformative potential of aspiring agile leaders, emphasising the importance of reflection, practical application, and peer feedback, which aligns with the principles of Agentic Agility. However, it primarily focuses on leadership training rather than explicitly differentiating between human and AI capabilities or deeply exploring the mechanisms of AI Agentic Agility. The discussion is relevant but not exhaustive, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

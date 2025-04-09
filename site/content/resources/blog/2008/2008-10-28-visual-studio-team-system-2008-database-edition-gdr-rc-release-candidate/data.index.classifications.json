@@ -1066,11 +1066,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:44:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:39:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the release announcement of a software product and does not discuss Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the release of a software product and its documentation, with no direct mention or discussion of Test First Development principles, practices, or related concepts. It lacks any reference to success criteria, testing methodologies, or the impact of testing on software delivery, which are essential for alignment with the Test First Development category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1255,11 +1258,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:44:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:39:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses software release candidate details and documentation, with no relevance to Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on Visual Studio Team System and its features, with no mention or discussion of the Scrum Master role, responsibilities, or related concepts. It does not align with any key topics associated with the Scrum Master category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1479,6 +1485,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the release of a software product and its documentation, with no explicit discussion of competence, continuous learning, or skill development. It lacks any alignment with the core themes of the competence category, and there is minimal depth regarding professional development or quality outcomes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:39:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the release of a software product and its documentation, with no discussion of Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category.",
     "level": "Ignored"
   }
 }

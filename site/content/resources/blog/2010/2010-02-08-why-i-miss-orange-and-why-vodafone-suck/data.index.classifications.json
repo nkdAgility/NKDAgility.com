@@ -1111,11 +1111,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:29:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:26:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is a personal rant about customer service experiences and does not discuss Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on a personal experience with customer service and does not mention any principles or practices related to Test First Development. There are no discussions of success criteria, testing methodologies, or software development practices, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1192,11 +1195,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:29:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:26:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses personal grievances with a mobile service provider and does not relate to Scrum Master responsibilities or Agile practices.",
+    "final_score": 4.0,
+    "reasoning": "The content does not discuss the role or responsibilities of a Scrum Master, nor does it touch on any related concepts or themes. It focuses entirely on a personal experience with a mobile service provider, which is unrelated to Scrum or agile methodologies.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on a personal experience with customer service and does not discuss competence in any meaningful way. There are no direct mentions of continuous learning, skill development, or professionalism, which are essential to the category of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:26:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience with customer service and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is anecdotal and lacks depth in relation to the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

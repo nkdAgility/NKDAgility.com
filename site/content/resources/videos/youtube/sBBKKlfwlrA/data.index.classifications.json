@@ -541,12 +541,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:16:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses scaling Scrum and addressing challenges with multiple teams rather than focusing on the specific role and responsibilities of a Scrum Master.",
-    "level": "Ignored"
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on scaling Scrum and the Scaled Professional Scrum course, which indirectly relates to the role of a Scrum Master. While it discusses challenges and techniques relevant to Scrum, it does not explicitly address the responsibilities or influence of the Scrum Master. The mention of Scrum principles and practices aligns with the category, but the depth of discussion on the Scrum Master's role is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -994,11 +997,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses scaling challenges in Scrum and does not focus on Test First Development or any related testing practices.",
+    "calculated_at": "2025-04-08T17:16:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on scaling Scrum and does not discuss Test First Development principles, success criteria, or testing practices. While it touches on challenges and techniques related to Scrum, it lacks any direct mention or detailed exploration of Test First Development concepts.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1584,6 +1590,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on scaling Scrum and the Scaled Professional Scrum course, which are not directly related to the One Engineering System framework. While there are mentions of challenges and practices in scaling, the discussion does not align with the core principles of 1ES, such as integration of tools and processes across teams or standardisation in software development. The content lacks depth in discussing 1ES specifically, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:16:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on scaling Scrum and does not explicitly discuss Agentic Agility or its principles. While it touches on themes like self-management and accountability, these are framed within the context of Scrum practices rather than the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth regarding the distinction between human and AI capabilities, and there are no case studies or examples illustrating Agentic Agility in practice.",
     "level": "Ignored"
   }
 }

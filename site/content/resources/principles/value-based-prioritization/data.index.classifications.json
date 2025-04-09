@@ -517,11 +517,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T20:54:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:48:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses value-based prioritization in Scrum, which is unrelated to Test First Development principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses value-based prioritization in the context of Scrum, focusing on stakeholder value rather than the principles of Test First Development. There are no direct mentions of testing practices, success criteria, or the importance of automated testing, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -865,11 +868,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T20:54:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:48:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses value-based prioritization in relation to product backlog management, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions the Scrum team and prioritization, which are relevant to the Scrum Master role, but it does not explicitly discuss the responsibilities or influence of the Scrum Master. The focus on value delivery aligns with Scrum principles, but lacks depth in exploring the Scrum Master's role in facilitating this process.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1575,6 +1581,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily discusses value-based prioritization within a Scrum context, which does not directly address the principles or components of the One Engineering System. While it touches on prioritization, it lacks explicit mentions of 1ES, integration of tools, or best practices related to the unified engineering framework. The focus is on stakeholder value rather than the standardisation and integration of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:48:27",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content briefly touches on value delivery, which is a component of Agentic Agility, but it lacks explicit discussion on intentional shaping of outcomes, autonomy, or adaptability. It primarily focuses on value-based prioritization without addressing the broader themes of agency or the distinction between human and AI capabilities.",
     "level": "Ignored"
   }
 }

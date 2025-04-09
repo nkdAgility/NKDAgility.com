@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:44:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:00:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal blog category simplification and suggestions for improvements, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal blog organisation and user experience improvements, with no direct mention or alignment to Evidence-Based Management principles or metrics.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:44:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:00:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal blog category simplification and does not relate to Agile principles or product development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on simplifying blog categories for better organisation and user experience, which does not relate to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM framework. The discussion is more about personal blog management rather than organisational effectiveness or product delivery.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:44:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:59:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal blog category management and does not relate to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on simplifying blog categories for better organisation and user experience, which does not relate to DevOps principles or practices. There are no direct mentions of DevOps concepts, and the discussion lacks any depth or alignment with the core themes of DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -688,11 +697,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:18:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:00:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily discussing the simplification of blog categories, which is unrelated to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on simplifying blog categories for better organisation and user experience, which does not relate to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion lacks any alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1318,11 +1330,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:18:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:00:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses personal blog simplification and organization, with no focus on Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on simplifying blog categories and enhancing user experience, with no direct mention or relevant discussion of the Scrum Master role or its responsibilities. The themes of Scrum, agile principles, or team dynamics are absent, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1345,20 +1360,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:18:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:00:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses simplifying blog categories and does not address Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on simplifying blog categories and enhancing user experience, with no direct mention or relevance to Test First Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:29:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:00:00",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal blog category simplification and does not focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on personal blog organisation and user experience improvements, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it touches on enhancing user experience, it lacks depth and alignment with the core themes of social technologies, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1410,6 +1431,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on simplifying blog categories and does not discuss any aspects of the Shift-Left Strategy in software development. There are no direct mentions or relevant themes related to integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T21:00:02",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on personal experiences related to simplifying blog categories and enhancing user experience, which does not align with the principles of Common Goals in Agile and DevOps. There are no direct mentions of shared objectives, strategic alignment, or frameworks like OKRs, and the discussion lacks depth on any relevant topics.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T21:00:05",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on simplifying blog categories for better organisation and user experience, which does not directly relate to the concept of competence in Agile, Scrum, DevOps, or Lean methodologies. There are no explicit mentions of continuous learning, skill development, or professionalism, and the discussion lacks depth regarding the principles of competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T21:00:07",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions simplifying blog categories, which could relate to improving user experience, but it lacks a clear focus on Continuous Improvement principles. There are no discussions on empirical evidence, data-driven decision-making, or strategies for integrating Continuous Improvement into processes. The content is more about personal organisation rather than a systematic approach to improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T21:00:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on simplifying blog categories for better organisation and user experience, which does not align with the principles of Agentic Agility. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability in a socio-technical context. The discussion lacks depth and relevance to the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

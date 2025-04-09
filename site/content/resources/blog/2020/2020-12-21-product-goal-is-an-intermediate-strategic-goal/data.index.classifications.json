@@ -520,11 +520,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T21:17:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:20:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses strategic goals, business practices, and the importance of experimentation in Agile, without a focus on Test First Development or related testing methodologies.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses setting product goals and agile practices, with a focus on experimentation and outcomes rather than the principles of Test First Development. There are no explicit mentions of Test First practices, success criteria, or testing methodologies, which are central to the category. The discussion is more aligned with general agile principles and product management rather than the specific focus on testing before development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -850,11 +853,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T21:18:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:20:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses strategic goals and business practices without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile principles and the importance of adapting management practices, which aligns with the Scrum Master's role in fostering agility. However, it does not explicitly mention the Scrum Master or delve deeply into their specific responsibilities, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1591,5 +1597,17 @@
     "final_score": 12.0,
     "reasoning": "The content primarily discusses product goals and agile methodologies, with a focus on experimentation and strategic objectives. While it touches on themes relevant to software development, it does not explicitly mention or align with the core principles of the One Engineering System framework. The discussion lacks depth regarding integration, standardisation, or specific practices related to 1ES, leading to a low confidence score.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:20:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of setting product goals and adapting to business changes, which aligns with the principles of Agentic Agility. It mentions the need for experimentation, accountability, and a focus on outcomes over outputs, reflecting the core themes of intentionality and adaptability. However, while it touches on these concepts, it does not explicitly differentiate between Human and AI Agentic Agility, nor does it delve deeply into the mechanisms of AI systems. The discussion is more focused on organisational practices rather than a thorough exploration of Agentic Agility as a primary focus.",
+    "level": "Tertiary"
   }
 }

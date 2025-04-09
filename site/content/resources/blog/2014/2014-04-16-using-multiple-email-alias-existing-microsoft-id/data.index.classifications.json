@@ -1105,11 +1105,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T11:09:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:47:05",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
     "final_score": 1.0,
-    "reasoning": "Content discusses managing email aliases for a Microsoft ID and does not pertain to Test First Development or related testing practices.",
+    "reasoning": "The content focuses entirely on managing email aliases with a Microsoft ID and does not discuss any principles or practices related to Test First Development. There are no mentions of success criteria, testing methodologies, or any relevant topics that align with the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1189,11 +1192,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T11:09:48",
+    "calculated_at": "2025-04-08T17:47:07",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum Master roles, responsibilities, or related topics; it focuses on managing email aliases with Microsoft ID.",
+    "reasoning": "The content focuses entirely on managing email aliases with a Microsoft ID and does not discuss any aspects related to the role, responsibilities, or impact of a Scrum Master. There are no mentions of Scrum principles, team dynamics, or agile methodologies, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1464,6 +1470,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on managing email aliases with a Microsoft ID, which does not directly relate to the principles of competence in Agile, Scrum, DevOps, or Lean methodologies. While there is a brief mention of managing accounts and simplifying online experiences, it lacks a discussion on continuous learning, skill development, or the importance of competence in delivering quality outcomes. The content does not provide depth or detail on fostering a culture of competence or inspecting and adapting skills over time.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:47:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on managing multiple email aliases with a Microsoft ID, which does not relate to the intentional shaping of outcomes or the principles of Agentic Agility. There are no direct mentions of agency, adaptability, or the interplay between human and AI capabilities. The discussion lacks depth and relevance to the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

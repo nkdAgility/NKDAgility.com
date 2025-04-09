@@ -1051,11 +1051,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:04:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:36:42",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on describing the SkyDrive service and its features, without any mention of Test First Development or related practices.",
+    "reasoning": "The content focuses entirely on the features and benefits of SkyDrive, a cloud storage service, without any mention or discussion of Test First Development principles, practices, or related topics.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1240,11 +1243,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:04:47",
+    "calculated_at": "2025-04-08T19:36:44",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content discusses features of SkyDrive and various Windows Live services, with no mention of Scrum, Scrum Masters, or Agile methodologies.",
+    "reasoning": "The content is entirely focused on SkyDrive, a cloud storage service, and does not mention or discuss any aspects related to the role or responsibilities of a Scrum Master. There is no alignment with the key topics outlined for the Scrum Master category, nor is there any depth of discussion on the subject. Therefore, it does not meet the criteria for classification under this category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1461,6 +1467,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the features and functionalities of SkyDrive, with no direct mention or discussion of competence, continuous learning, or skill development. It lacks alignment with the core themes of the competence category, focusing instead on product features and services.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:36:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the features and integration of SkyDrive with Windows Live services, with no explicit mention of Agentic Agility or its principles. It lacks any discussion on intentional shaping of outcomes, human or AI agency, or the transformative capacity of individuals and systems. The focus is on storage capabilities rather than agility or agency.",
     "level": "Ignored"
   }
 }

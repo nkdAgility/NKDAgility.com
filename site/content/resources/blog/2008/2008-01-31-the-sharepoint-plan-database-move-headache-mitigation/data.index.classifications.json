@@ -160,20 +160,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:52:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:05:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of moving SQL Server databases related to SharePoint, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical strategies for migrating SQL Server databases in SharePoint, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on the challenges of database management, it lacks any reference to data-informed decision-making or the core themes of EBM, such as current value or empirical decision-making.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:52:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:05:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of moving SQL Server databases related to SharePoint, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical strategies for migrating SQL Server databases in SharePoint, with no direct mention of agile methodologies, product management principles, or the Agile Product Operating Model. It lacks alignment with the core themes of APOM and does not provide any depth related to agile practices or product delivery.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -313,11 +319,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:53:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:05:05",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges of moving SQL Server databases in relation to SharePoint, without a clear focus on DevOps principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on strategies for migrating SQL Server databases in the context of SharePoint, which does not align with the core principles of DevOps. While there is a mention of using a local SQL server and considerations for database management, the discussion lacks explicit references to DevOps practices such as collaboration, automation, or shared accountability. The content does not delve into the cultural or philosophical aspects of DevOps, nor does it provide depth on any related topics, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -697,11 +706,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:36:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:05:31",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges of moving SQL Server databases for SharePoint and does not focus on Continuous Delivery principles or practices.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on strategies for migrating SQL Server databases in SharePoint, which does not directly address Continuous Delivery principles or practices. While there is a mention of simplifying processes, it lacks explicit discussions on automation, incremental improvements, or rapid feedback, which are core to Continuous Delivery. The content is more about database management than software delivery practices.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1336,11 +1348,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:36:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:05:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SQL Server database migration related to SharePoint, with no mention of Scrum or Scrum Master roles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical strategies for managing SQL Server migrations in SharePoint, with no direct mention of Scrum or the role of a Scrum Master. It lacks alignment with the core themes of the Scrum Master category, such as team dynamics, coaching, or agile principles. The depth of discussion is also minimal, as it does not explore any relevant aspects of Scrum or the responsibilities of a Scrum Master.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1363,11 +1378,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:36:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:05:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges and plans related to moving SQL Server databases for SharePoint, with no mention of Test First Development principles, practices, or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses strategies for migrating SQL Server databases in SharePoint, with no explicit mention of Test First Development principles, success criteria, or testing practices. The focus is on technical implementation rather than testing methodologies, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1431,6 +1449,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the technical challenges of moving SQL Server databases in relation to SharePoint, with no explicit mention of the Shift-Left Strategy or its principles. The focus is on operational tasks rather than integrating testing, security, or compliance early in the development process, which is central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:05:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical strategies for migrating SQL Server databases in SharePoint, with no explicit discussion of Common Goals or their significance in Agile or DevOps frameworks. While it touches on project execution, it lacks alignment with the core themes of shared objectives and strategic alignment, and does not provide depth on the topic of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:05:10",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on technical strategies for migrating SQL Server databases in SharePoint, with minimal reference to competence or continuous skill development. While it discusses a plan and potential challenges, it lacks a clear emphasis on the principles of competence, such as professionalism, trust, or quality outcomes in a team context.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:05:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on strategies for mitigating database migration issues in SharePoint, which does not directly address Continuous Improvement principles. While there is a mention of planning and potential testing, it lacks a broader discussion on empirical evidence, team effectiveness, or a culture of experimentation. The content is more about a specific technical challenge rather than an ongoing practice of reflection and adaptation.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:05:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical strategies for migrating SQL Server databases in SharePoint, with no explicit discussion of Agentic Agility or its principles. While there is a mention of planning and intent in the migration process, it lacks depth and does not address the broader themes of agency, adaptability, or the interplay between human and AI capabilities. Overall, the content does not align with the category's focus on intentional shaping of outcomes.",
     "level": "Ignored"
   }
 }

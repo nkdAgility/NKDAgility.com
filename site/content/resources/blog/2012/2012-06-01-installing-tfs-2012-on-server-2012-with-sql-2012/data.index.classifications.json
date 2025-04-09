@@ -1156,11 +1156,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:34:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:06:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation and configuration of TFS 2012, SQL Server 2012, and Windows Server 2012, with no mention of Test First Development or related testing practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012, SQL Server 2012, and Windows Server 2012. It does not discuss Test First Development principles, success criteria, or any testing methodologies. There are no mentions of automated or manual testing practices, nor any alignment with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1246,11 +1249,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:34:55",
+    "calculated_at": "2025-04-08T19:06:47",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and configuration of TFS, SQL Server, and Windows Server, with no focus on Scrum Master responsibilities or practices.",
+    "reasoning": "The content focuses entirely on the installation and configuration of TFS 2012, Windows Server 2012, and SQL Server 2012, with no mention of Scrum, Scrum Master roles, or related agile practices. It does not discuss any responsibilities, skills, or impacts of a Scrum Master, nor does it touch on team dynamics or stakeholder engagement, which are key topics in the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1527,6 +1533,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the technical steps for installing TFS 2012, SQL Server 2012, and Windows Server 2012. While it does touch on the importance of having a well-configured environment for demos, it lacks a direct discussion on competence as defined in the category. There are no explicit mentions of continuous learning, skill development, or fostering a culture of competence. The content is more about practical installation procedures rather than the underlying principles of professionalism and quality delivery.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:06:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical installation process of TFS 2012, SQL Server 2012, and Windows Server 2012. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. There are no mentions of intentional shaping of outcomes, adaptability, or alignment with values, which are core to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -379,14 +379,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T14:34:11",
+    "calculated_at": "2025-04-08T16:35:15",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 10,
     "final_score": 79.0,
-    "reasoning": "The content explicitly discusses the role of Scrum Masters and their use of liberating structures to enhance team dynamics and meeting effectiveness. It provides detailed strategies for Scrum Masters to implement these tools, aligning closely with the responsibilities and practices expected of a Scrum Master. The depth of discussion on how to utilise these structures in meetings further supports a high confidence score.",
+    "reasoning": "The content explicitly discusses the role of Scrum Masters and their use of liberating structures to enhance team dynamics and meeting effectiveness. It provides a detailed exploration of how Scrum Masters can implement these tools, aligning well with the responsibilities and impact of the Scrum Master role. The focus on practical techniques and the transformation of meetings indicates a strong alignment with the core themes of the category.",
     "level": "Secondary"
   },
   "Agile Planning": {
@@ -421,11 +421,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T18:26:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:35:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum Masters and the use of liberating structures to enhance team collaboration and meeting effectiveness. It does not discuss Test First Development principles, success criteria, or testing practices, which are central to the category. The mention of Agile and Scrum is too general and does not align with the specific themes of Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1530,6 +1533,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum and the use of liberating structures within Agile practices, which are not directly related to the One Engineering System framework. While there are mentions of improving collaboration and effectiveness, these concepts are not explicitly tied to the principles or components of 1ES. The discussion lacks depth regarding the integration of tools and processes across teams, which is a core aspect of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:35:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices and tools, specifically liberating structures, without explicitly discussing Agentic Agility or its core themes. While it touches on enhancing team dynamics and purposeful meetings, it lacks a clear connection to the intentional shaping of outcomes or the distinction between human and AI capabilities in agility.",
     "level": "Ignored"
   }
 }

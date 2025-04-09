@@ -502,11 +502,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T06:31:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:41:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on competence and personal development within organizations, with no mention of Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the importance of competence and creating a culture of learning within organizations, with no direct mention or focus on Test First Development principles, practices, or methodologies. It lacks any reference to success criteria, testing practices, or the role of testing in software development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -826,11 +829,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T06:33:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:41:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses competence and personal development in organisations, without specific reference to the Scrum Master role or Scrum practices.",
+    "final_score": 11.0,
+    "reasoning": "The content discusses the importance of competence and creating a culture of learning and growth within organisations, but it does not explicitly mention the role of a Scrum Master or align closely with Scrum principles. While there are themes of team dynamics and continuous improvement, they are not specifically tied to the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1548,6 +1554,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the importance of competence and employee well-being in organisations, which does not directly relate to the One Engineering System framework. While it touches on themes of continuous learning and team dynamics, it lacks explicit references to 1ES principles, integration of tools, or standardisation of engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:41:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of competence and continuous learning in organisations, which aligns with the broader themes of adaptability and value creation. However, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. The focus is more on general organisational success rather than the intentional shaping of outcomes through agency.",
     "level": "Ignored"
   }
 }

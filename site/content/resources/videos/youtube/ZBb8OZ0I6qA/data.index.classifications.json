@@ -190,12 +190,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T14:53:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:01:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses backlog management and hierarchical structures in Agile, without a clear focus on the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "final_score": 66.0,
+    "reasoning": "The content discusses backlog management within the context of Scrum, highlighting the importance of agility and value delivery, which are key themes for a Scrum Master. However, it primarily focuses on backlog structure rather than the broader responsibilities and influence of the Scrum Master role. While it mentions Scrum practices, the discussion lacks depth regarding the Scrum Master's specific responsibilities and techniques for coaching or facilitating, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -787,11 +790,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T18:05:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses backlog management and the issues with hierarchical structures in Agile practices, without any mention of Test First Development or related testing methodologies.",
+    "calculated_at": "2025-04-08T16:01:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses backlog management in Scrum and Kanban practices, focusing on the structure and prioritisation of tasks rather than on Test First Development principles. There are no direct mentions of testing practices, success criteria, or the role of testing in the development process, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1599,6 +1605,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on backlog management within Scrum and Kanban frameworks, discussing the benefits of a flat structure over a hierarchical one. While it touches on concepts relevant to agile practices, it does not explicitly mention or align with the principles of the One Engineering System (1ES). The discussion is centred around specific methodologies rather than the integration and standardisation of engineering processes across teams, which is the core focus of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:01:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses backlog management and the benefits of a flat structure, which indirectly relates to agility and value delivery. However, it does not explicitly address Agentic Agility or its key topics, such as intentional shaping of outcomes or the distinction between human and AI capabilities. The focus is primarily on practical Scrum and Kanban practices rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

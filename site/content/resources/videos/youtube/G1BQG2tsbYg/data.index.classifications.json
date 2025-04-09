@@ -526,11 +526,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T07:18:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:42:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses business predictability and Agile principles without a focus on Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile principles and their role in achieving business predictability, without any direct mention or focus on Test First Development practices. While it touches on aspects of Agile that could relate to testing, it does not delve into the specifics of defining success criteria or the importance of testing methodologies, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -874,11 +877,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T07:20:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses business predictability and Agile principles without a specific focus on the role or responsibilities of a Scrum Master.",
+    "calculated_at": "2025-04-08T15:42:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile principles and their role in achieving predictability in business, which is relevant to the Scrum Master role. However, it does not explicitly focus on the responsibilities or impact of a Scrum Master, nor does it delve deeply into Scrum-specific practices or the nuances of the Scrum Master's influence on team dynamics. The mention of Agile methodologies is present, but the discussion lacks a direct connection to the Scrum Master role, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1620,6 +1626,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Agile principles and their role in achieving business predictability, without explicitly discussing the One Engineering System framework or its components. While it touches on systems and processes, it does not align closely with the core themes of 1ES, such as integration across teams or standardisation of practices. The discussion lacks depth regarding 1ES and does not provide relevant case studies or comparisons, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:42:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile principles and their role in achieving predictability, touching on themes of empowerment and adaptability. However, it lacks a focused discussion on Agentic Agility, particularly the intentional shaping of outcomes and the distinction between human and AI capabilities. The primary emphasis is on general Agile practices rather than the specific concept of agency and intentionality.",
     "level": "Ignored"
   }
 }

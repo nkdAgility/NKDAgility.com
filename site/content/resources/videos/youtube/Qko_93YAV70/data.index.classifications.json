@@ -1321,11 +1321,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T13:54:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:53:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Caman and its relationship with Scrum, without focusing on Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Caman and its relationship with Scrum, focusing on process optimisation and transparency. It does not mention Test First Development, its principles, or practices, nor does it provide any depth on testing methodologies. The discussion is centred around workflow improvement rather than the specific practices of Test First Development.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1387,11 +1390,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:54:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:53:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Caman and its application to systems, with only a brief mention of Scrum, making it not relevant enough to classify under Scrum Master.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses Caman in relation to Scrum but does not focus on the role or responsibilities of a Scrum Master. While it mentions Scrum, it primarily centres on Caman as a tool for process optimisation, lacking a detailed exploration of Scrum Master duties or their impact on team dynamics and organisational change.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1545,6 +1551,18 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses Caman and its relationship with Scrum, without addressing the core principles or components of the One Engineering System. While it touches on process optimisation and transparency, it does not delve into the integration of tools or methodologies specific to 1ES, nor does it provide any insights into its implementation or impact on software quality. Therefore, the content does not align well with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:53:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Caman as a tool for process optimisation and transparency, which indirectly relates to the principles of Agentic Agility. However, it lacks explicit mentions of Agentic Agility, intent, or the distinction between human and AI capabilities. The focus is primarily on Caman and Scrum rather than on intentional shaping of outcomes or the transformative capacity of individuals and systems.",
     "level": "Ignored"
   }
 }

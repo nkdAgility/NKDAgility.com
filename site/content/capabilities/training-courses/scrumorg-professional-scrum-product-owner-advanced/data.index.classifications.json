@@ -361,11 +361,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T07:21:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:19:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on the role of the Product Owner and does not center on the responsibilities or practices of a Scrum Master.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner rather than the Scrum Master. While it mentions Scrum, it does not discuss the responsibilities or impact of the Scrum Master, nor does it align with the key topics outlined for the Scrum Master category. The discussion is centred on enhancing Product Owner skills, which is a different role within the Scrum framework.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -397,11 +400,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T07:21:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:19:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the role of a Product Owner in Scrum, with no mention of Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on enhancing Product Owner skills within a Scrum framework, with no explicit discussion of Test First Development principles or practices. While there may be indirect references to validation and stakeholder value, these do not align closely with the core themes of Test First Development, such as success criteria or testing methodologies.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Professional Scrum Product Owner (PSPO-A) course, which is centred around Scrum practices rather than the One Engineering System framework. While there are elements of collaboration and stakeholder value, these do not directly relate to the principles or components of 1ES. The discussion lacks depth regarding integration of tools and processes across teams, best practices for implementing 1ES, or any case studies related to 1ES, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:19:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a training course for Product Owners, discussing Scrum roles and exercises without explicitly addressing Agentic Agility or its principles. While there are elements of autonomy and value delivery mentioned, they are not explored in the context of intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion lacks depth and does not engage with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

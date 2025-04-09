@@ -1195,11 +1195,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:42:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:13:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on Scrum adoption and its challenges rather than discussing test-driven development principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the challenges of adopting Scrum and the importance of training and mentoring in Agile transformation. It does not explicitly mention Test First Development or its principles, nor does it delve into success criteria, testing practices, or the benefits of fast feedback loops that are central to Test First Development. The focus is on Scrum as a framework rather than on testing methodologies.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1276,14 +1279,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T06:25:00",
+    "calculated_at": "2025-04-08T19:13:18",
     "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
     "final_score": 66.0,
-    "reasoning": "The content discusses the challenges of adopting Scrum and the importance of training and mentoring, which are relevant to the Scrum Master role. However, it lacks a direct focus on the specific responsibilities and practices of a Scrum Master, leading to a moderate confidence score.",
+    "reasoning": "The content discusses the challenges of adopting Scrum and highlights the importance of training, mentoring, and dedication, which are crucial aspects of a Scrum Master's role. It also touches on the need for change management and the Scrum framework's impact on team dynamics and organisational culture. However, while it mentions the Scrum Master indirectly, it does not focus explicitly on the role itself, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1579,5 +1582,17 @@
     "final_score": 75.0,
     "reasoning": "The content discusses the challenges of adopting Scrum and highlights the importance of training, mentoring, and dedication in achieving competence within teams. It addresses the need for continuous learning and skill development, which aligns with the core themes of competence. However, while competence is a significant aspect of the discussion, it is not the primary focus, as the content also delves into broader challenges and dynamics of Scrum adoption.",
     "level": "Secondary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:13:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the challenges of adopting Scrum and the need for training and mentoring, which are more aligned with general Agile practices rather than the specific concept of Agentic Agility. While there are mentions of change and adaptation, they do not explicitly focus on the intentional shaping of outcomes or the distinction between human and AI capabilities in this context.",
+    "level": "Ignored"
   }
 }

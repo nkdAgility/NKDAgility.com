@@ -27,6 +27,7 @@ preview: https://i.ytimg.com/vi/nY4tmtGKO6I/maxresdefault.jpg
 duration: 30
 isShort: true
 tags:
+- Scrum Master
 - Agile Project Management
 - Scrum Values
 - Scrum Team
@@ -36,7 +37,6 @@ tags:
 - Software Development
 - Coaching
 - Agile Transformation
-- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

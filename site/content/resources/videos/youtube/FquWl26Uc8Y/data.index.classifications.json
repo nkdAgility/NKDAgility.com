@@ -175,11 +175,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T17:21:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:38:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of technical debt and coding practices, with no clear focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical debt and code quality, with no direct mention of the Scrum Master role or responsibilities. While it touches on team dynamics and accountability, it does not align with the core themes of the Scrum Master category, such as facilitation, coaching, or promoting agile principles. The discussion lacks depth regarding the Scrum Master's influence on team effectiveness or organisational change.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1021,12 +1024,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T17:24:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concepts of technical debt and the implications of shipping bad code, without a focus on Test First Development or related practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-08T15:38:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 30,
+    "final_score": 41.0,
+    "reasoning": "The content discusses the importance of quality in code and mentions automated testing as a strategy to improve code quality. However, it does not explicitly focus on Test First Development principles or practices, such as defining success criteria before implementation or the specific methodologies like TDD or ATDD. The discussion on technical debt and code quality is relevant but secondary to the core themes of Test First Development.",
+    "level": "Tertiary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -1491,6 +1497,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily focuses on technical debt and code quality, which are important aspects of software development but do not directly address the One Engineering System framework or its principles. While there are mentions of improving processes like code reviews and automated testing, these are not explicitly tied to the integration and standardisation of engineering practices across teams as outlined in the 1ES category. The discussion lacks a clear connection to the broader themes of 1ES, such as collaboration across teams or the impact of a unified engineering system on software delivery timelines.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:38:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical debt and code quality, with a strong emphasis on accountability and improvement within development teams. While it touches on themes of responsibility and proactive measures, it does not explicitly discuss Agentic Agility or differentiate between human and AI capabilities in the context of agility. The discussion lacks depth regarding the intentional shaping of outcomes and does not align closely with the core principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

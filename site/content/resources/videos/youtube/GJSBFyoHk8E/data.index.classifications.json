@@ -388,14 +388,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T17:42:24",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "calculated_at": "2025-04-08T16:53:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on the process of creating a Sprint Goal, which is a key aspect of Scrum. It discusses the role of the Scrum team in this process, indicating a direct mention of Scrum practices. However, it lacks a detailed exploration of the Scrum Master's specific responsibilities or techniques for coaching, which would enhance its alignment with the category. The depth of discussion is moderate, providing insights into the strategic and tactical considerations but not delving deeply into the Scrum Master's role in facilitating these discussions.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on the Scrum team's process of creating a sprint goal, which is a key aspect of the Scrum framework. It discusses the importance of collaboration, strategic and tactical directions, and stakeholder value, all of which align with the responsibilities of a Scrum Master in facilitating team effectiveness. However, while the Scrum Master role is implied, it is not explicitly mentioned, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Agile Planning": {
@@ -430,11 +430,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:01:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the process of creating a sprint goal within a Scrum team, which is unrelated to Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T16:53:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the process of creating sprint goals within a Scrum framework, which does not directly address Test First Development principles. While it touches on collaboration and strategic planning, it lacks explicit discussions on success criteria, testing practices, or the importance of defining criteria before implementation, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1563,6 +1566,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum practices, specifically the creation of sprint goals, which is not aligned with the principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion lacks depth regarding integration or standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:53:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Scrum framework and the process of creating sprint goals, which does not directly address the concept of Agentic Agility. While there are elements of intentionality and value creation in the discussion of sprint goals, the content lacks explicit references to the principles of Agentic Agility, such as the distinction between human and AI capabilities or the mechanisms of AI Agentic Agility. Overall, the discussion is more aligned with general Agile practices rather than the specific themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

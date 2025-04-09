@@ -514,11 +514,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T04:31:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:54:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on experimentation, collaboration, and understanding user needs rather than on Test First Development principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on product development strategies, experimentation, and collaboration, with no explicit mention of Test First Development principles or practices. While it touches on concepts like user feedback and iterative processes, it does not align with the core themes of defining success criteria or the specific methodologies associated with Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -859,11 +862,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T04:32:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:54:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on product development and experimentation rather than the specific role and responsibilities of a Scrum Master.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile principles and collaboration, which are relevant to the Scrum Master role, but it does not explicitly mention the Scrum Master or delve into their specific responsibilities. The focus is more on product development strategies rather than the Scrum Master's influence or techniques.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1608,6 +1614,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on product development strategies, experimentation, and collaboration, which are not directly related to the One Engineering System framework. While there are mentions of Agile principles, the discussion does not delve into the integration or standardisation of engineering processes as required by the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:54:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses concepts related to agility and user value but lacks a direct focus on Agentic Agility. While it touches on adaptability and decision-making, it does not explicitly address the intentional shaping of outcomes or differentiate between human and AI capabilities. The discussion is more about general product development strategies rather than the specific principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

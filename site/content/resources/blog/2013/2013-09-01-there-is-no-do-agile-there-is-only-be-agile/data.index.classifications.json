@@ -1198,12 +1198,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T17:53:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content briefly discusses TDD and test-first methods in the context of Agile practices, but the primary focus is on broader concepts of Agile adoption and organizational change rather than specifically on Test First Development.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions TDD and test-first methods, indicating some awareness of Test First Development principles. However, the primary focus is on broader agile practices and organisational change rather than a detailed exploration of Test First Development itself. The discussion lacks depth in terms of specific methodologies or success criteria related to Test First Development, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
@@ -1285,12 +1288,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T17:53:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content discusses Agile principles and practices, it predominantly focuses on broader Agile concepts rather than specifically outlining the responsibilities and techniques of a Scrum Master. However, it does touch upon helping organizations and teams understand and adopt Agile practices, which can be relevant to the Scrum Master's role.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of deep organisational change and the mindset required for true agility, which aligns with the Scrum Master's role in fostering a culture of continuous improvement. It mentions practices that a Scrum Master might encourage, such as 'Communities of Practice' and 'go see', which are relevant to the Scrum framework. However, the primary focus is more on general agile principles rather than specifically on the Scrum Master role, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1585,5 +1591,17 @@
     "final_score": 70.0,
     "reasoning": "The content discusses the importance of deep organisational change and the need for continuous learning and skill development in Agile environments. It highlights the distinction between merely following Agile practices and genuinely embodying Agile principles, which aligns with the core themes of competence. The author emphasises the need for hands-on experience and the development of capabilities within teams, indicating a strong focus on competence. However, while the content is rich in insights, it does not delve deeply into specific strategies for fostering a culture of competence or methods for inspecting and adapting competence over time, which slightly lowers the depth score.",
     "level": "Secondary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:53:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of being agile rather than merely doing agile, which touches on the concept of intentionality in shaping outcomes. However, it primarily focuses on general Agile practices and organisational change without explicitly addressing the principles of Agentic Agility or differentiating between human and AI capabilities. The depth of discussion on the transformative capacity of individuals is present, but it lacks a clear exploration of AI Agentic Agility mechanisms or case studies, leading to a moderate confidence score.",
+    "level": "Ignored"
   }
 }

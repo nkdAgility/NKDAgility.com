@@ -196,11 +196,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T15:23:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:34:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses deployment strategies and technical debt, with no clear focus on the Scrum Master role or related responsibilities.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses deployment practices and their impact on code quality, which is relevant to agile methodologies but does not explicitly mention the role of a Scrum Master or their responsibilities. While it touches on concepts like iterative development and continuous improvement, it lacks a direct focus on the Scrum Master role, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1111,11 +1114,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T15:26:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the benefits of frequent deployments and managing technical debt, without a clear focus on Test First Development or related testing practices.",
+    "calculated_at": "2025-04-08T15:34:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the benefits of frequent deployments and their impact on code quality, but it does not explicitly mention Test First Development or its principles. While it touches on concepts like feedback loops and iterative development, which are relevant to Test First practices, the primary focus is on deployment frequency rather than on defining success criteria or testing methodologies. Therefore, the alignment and depth of discussion are limited.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1626,6 +1632,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses the benefits of frequent deployments and their impact on code quality, which aligns with some principles of the One Engineering System, such as improving efficiency and collaboration. However, it does not explicitly mention 1ES or its components, nor does it delve into integration of tools or processes across teams, which are key aspects of the category. The focus is more on deployment practices rather than a unified engineering framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:33:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the benefits of frequent deployments and their impact on code quality, user feedback, and team confidence. However, it primarily focuses on Agile practices and does not explicitly address the concept of Agentic Agility or the intentional shaping of outcomes through autonomy and adaptability. While there are elements of adaptability and accountability mentioned, they are not deeply explored in the context of Agentic Agility, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

@@ -400,11 +400,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T21:06:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of Product Owners rather than the responsibilities or practices of a Scrum Master.",
+    "calculated_at": "2025-04-08T16:46:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner rather than the Scrum Master. While it touches on agile principles and the importance of empowerment within a Scrum context, it does not explicitly mention the Scrum Master or their responsibilities. The focus is on the challenges faced by Product Owners, which is a secondary topic to the Scrum Master role. Therefore, the confidence score reflects a low alignment with the primary focus of the category.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -442,11 +445,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T21:06:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges faced by product owners in a PSPO course, focusing on their roles and responsibilities rather than Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T16:46:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the role and challenges of Product Owners in agile environments, with no direct mention or discussion of Test First Development principles, practices, or methodologies. It focuses on empowerment and accountability rather than testing practices, making it largely irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1590,6 +1596,18 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the role of Product Owners within the context of a PSPO course, discussing their challenges and empowerment rather than the principles or practices of the One Engineering System. There are no direct mentions of 1ES, and the discussion does not align with the core themes of integration and standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:46:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners in asserting control and influence, which touches on themes of agency and empowerment. However, it primarily focuses on the role of the Product Owner within Agile practices rather than explicitly addressing Agentic Agility as a concept. The discussion lacks depth in exploring the intentional shaping of outcomes and does not differentiate between human and AI capabilities, leading to a lower confidence score.",
     "level": "Ignored"
   }
 }

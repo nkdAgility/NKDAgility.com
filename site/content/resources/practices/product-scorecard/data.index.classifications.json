@@ -172,11 +172,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-13T09:25:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:43:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not mention Scrum Master responsibilities or related topics; it appears to focus on product management rather than Scrum practices.",
+    "final_score": 11.0,
+    "reasoning": "The content does not explicitly mention the Scrum Master role or its responsibilities. It lacks any discussion of Scrum principles, techniques for coaching or facilitating, or the impact of the Scrum Master on team dynamics. The focus appears to be on resource details rather than Scrum-related topics, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -997,11 +1000,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T09:28:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T15:43:25",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not mention Test First Development or related principles; it appears to focus on a different topic entirely.",
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention Test First Development or its principles. It lacks any discussion on success criteria, testing practices, or related topics, focusing instead on incomplete resource details.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1461,6 +1467,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content does not explicitly mention the One Engineering System or its principles. It appears to focus on resource details without any discussion on integration, standardisation, or software development practices related to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T15:43:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content does not explicitly mention Agentic Agility or its key themes. It appears to focus on resource details without addressing intentional shaping of outcomes, autonomy, or adaptability, which are central to the category.",
     "level": "Ignored"
   }
 }
