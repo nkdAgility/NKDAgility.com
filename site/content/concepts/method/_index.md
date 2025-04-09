@@ -1,34 +1,55 @@
 ---
 title: Method
-date: 2025-03-19T12:18:08Z
-trustpilot: false
-description: A structured, step-by-step way of achieving a specific outcome (e.g., Test-Driven Development, Value Stream Mapping, A/B Testing, Feature Branching)
+date: 2025-04-09T15:00:00
+description: A method is a structured procedure or technique employed to achieve specific goals, often involving a series of defined steps or actions to solve problems or implement solutions.
 Instructions: |-
   **Use this category only for discussions on Method.**  
-  The Method category encompasses structured, systematic approaches designed to achieve specific outcomes within Agile, DevOps, and Lean frameworks. This category focuses on methodologies that provide clear, repeatable processes to enhance efficiency, quality, and collaboration in software development and project management.
+  This category focuses on the structured, step-by-step procedures used to achieve specific goals within Agile, Lean, DevOps, and other contexts. Methods define the practices and actions needed to implement frameworks or solve specific problems.
 
   **Key Topics:**
-  - Test-Driven Development (TDD): Principles and practices for writing tests before code to ensure quality and functionality.
-  - Value Stream Mapping: Techniques for visualising and analysing the flow of materials and information to identify waste and improve processes.
-  - A/B Testing: Methods for comparing two versions of a product to determine which performs better based on user feedback and data.
-  - Feature Branching: Strategies for managing code changes in version control systems to facilitate parallel development and integration.
-  - Continuous Integration/Continuous Deployment (CI/CD): Practices that automate the integration and deployment of code changes to enhance delivery speed and reliability.
-  - Lean Methodologies: Approaches that focus on maximising value by minimising waste, inspired by Lean manufacturing principles.
-  - Agile Estimation Techniques: Methods for estimating effort and time in Agile projects, such as Planning Poker and T-shirt sizing.
+  - The Scrum method and its specific procedures for delivering value
+  - The Kanban method for visualising and managing work
+  - Lean principles and their methodical approach to reducing waste
+  - Extreme Programming (XP) practices and their iterative cycles
+  - Methods for iterative and incremental development
+  - Agile planning and estimation techniques
+  - Continuous feedback and improvement loops as methods
+  - How methods enhance collaboration, transparency, and decision-making
 
-  **Strictly Exclude:**
-  - Discussions on unrelated frameworks or philosophies that do not pertain to structured methodologies.
-  - Misinterpretations of the core principles of Agile, DevOps, or Lean that deviate from established theories and practices.
-  - General discussions on software development that lack a focus on specific methodologies or structured approaches.
+  **Strictly exclude:**
+  - General discussions on frameworks or philosophies
+  - Misinterpretations of methods as broader philosophies or values
+  - Content that focuses on tools or software rather than the structured procedural approach
 headline:
   cards: []
   title: Method
-  subtitle: A systematic approach to achieving desired results through proven techniques and frameworks for effective project execution.
-  content: A structured approach to achieving specific outcomes through iterative processes and empirical techniques. Posts should explore frameworks for workflow optimisation, continuous improvement, and performance measurement, emphasising collaboration, adaptability, and the integration of feedback to enhance project delivery and organisational effectiveness.
-  updated: 2025-03-19T12:18:10Z
+  subtitle: Structured procedures and techniques for achieving goals through systematic steps in Agile, Lean, and DevOps environments.
+  content: A method is a structured, step-by-step approach used to achieve specific outcomes. It provides clear, repeatable processes for problem-solving, product development, and improvement within a system.
+  updated: 2025-04-09T15:00:00
 sitemap:
   filename: sitemap.xml
-  priority: 0.5
+  priority: 0.7
+BodyContentGenDate: 2025-04-09T15:00:00
+ClassificationType: concepts
+ClassificationContentOrigin: AI
+trustpilot: false
 
 ---
+**Method** refers to a structured, step-by-step approach used to achieve specific goals within a system. Unlike **frameworks**, which offer broader structures and guidelines, methods are focused on **detailed procedures** and **actions** that enable teams to implement solutions or solve problems.
 
+In **Agile**, **Lean**, and **DevOps** environments, methods play a crucial role in **guiding** teams through systematic steps that support **collaborative work**, **value delivery**, and **continuous improvement**. Methods are often employed to **optimise workflows**, **manage iterative development**, and **measure progress**.
+
+For instance, in the **Scrum** method, teams follow a set sequence of events—**Sprint Planning**, **Daily Scrum**, **Sprint Review**, and **Sprint Retrospective**—to manage work in short, repeatable cycles, continuously adapting to changing requirements. Similarly, the **Kanban** method helps teams visualise their workflow, limit work in progress, and ensure that work is completed efficiently.
+
+Methods are essential for ensuring **consistency and predictability** in outcomes. They break down complex processes into manageable tasks, allowing teams to execute with precision and adapt in real-time to feedback.
+
+In **Lean**, the method of identifying and eliminating waste ensures teams focus on delivering the most value with the least amount of effort, enabling continuous improvement. In **DevOps**, methods like **Continuous Integration** and **Continuous Delivery** enable teams to release high-quality software rapidly and reliably.
+
+It is important to distinguish **methods** from **frameworks** and **practices**:
+
+- **Frameworks** like Scrum or Kanban provide the **structural foundation** for teams, outlining roles and events, but they do not prescribe specific methods for every action.
+- **Practices**, such as Pair Programming or Test-Driven Development (TDD), are individual techniques that are part of the broader methods teams adopt.
+
+By following structured methods, teams can increase **efficiency**, ensure **alignment**, and consistently deliver value to customers. These methods empower teams to be proactive, iterative, and adaptable in their approach to problem-solving, ultimately leading to improved performance and outcomes.
+
+A method is not rigid; it can be tailored to fit the **unique context** of a team or project, allowing teams to continuously refine their approach while maintaining a clear, systematic path toward achieving their goals.
