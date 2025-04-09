@@ -1117,11 +1117,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:57:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:01:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on remotely upgrading an operating system for parents and does not discuss Test First Development, TDD, or related principles and practices.",
+    "final_score": 6.0,
+    "reasoning": "The content focuses entirely on upgrading an operating system remotely and does not discuss any principles or practices related to Test First Development. There are no mentions of success criteria, testing methodologies, or any related concepts, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1210,11 +1213,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:57:20",
+    "calculated_at": "2025-04-08T19:01:54",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses upgrading an operating system remotely, with no relevance to the Scrum Master role or related topics.",
+    "reasoning": "The content focuses entirely on upgrading an operating system remotely and does not discuss any aspects related to the role, responsibilities, or impact of a Scrum Master. There are no mentions of Scrum principles, team dynamics, or agile methodologies, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1485,6 +1491,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the practical steps for upgrading an operating system remotely, with minimal reference to the concept of competence. While it touches on the technical skills required for remote support, it lacks a deeper discussion on continuous learning, skill development, or the professional implications of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:01:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the practical steps of upgrading an operating system remotely, with no explicit discussion of Agentic Agility principles such as intentional shaping of outcomes, autonomy, or adaptability. While there is a mention of helping parents remotely, it lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

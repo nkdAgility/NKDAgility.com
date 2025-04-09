@@ -1132,11 +1132,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:51:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:28:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses solely on updating a command line parser and related implementation details without any mention of Test First Development or TDD principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on enhancing a command line parser in VB.NET, discussing implementation details and code examples without any reference to Test First Development principles, success criteria, or testing practices. There is no mention of TDD, ATDD, or any related testing methodologies, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1219,11 +1222,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:51:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:28:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on updating a command line parser and does not discuss Scrum Master roles, responsibilities, or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on enhancing command line applications in VB.NET and does not mention the role or responsibilities of a Scrum Master, nor does it discuss any Scrum-related concepts or practices.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1497,6 +1503,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on technical implementation details of a command line parser in VB.NET, with no explicit discussion on competence, continuous learning, or skill development. While it demonstrates coding skills, it does not align with the core themes of competence as defined in Agile, Scrum, DevOps, or Lean methodologies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:28:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on enhancing command line applications and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is technical and specific to command line parsing without any connection to the themes of agency or agility.",
     "level": "Ignored"
   }
 }

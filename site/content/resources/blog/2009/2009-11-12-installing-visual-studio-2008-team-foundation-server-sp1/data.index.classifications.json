@@ -1138,11 +1138,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:46:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:27:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses primarily on the installation process of Visual Studio and Team Foundation Server, including a release plan and a test plan after installation, without discussing the principles or practices of Test First Development or Test-Driven Development.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, with a detailed release plan and troubleshooting advice. While it includes a test plan, it does not discuss Test First Development principles, success criteria, or the role of testing in guiding design and implementation. The mention of a test plan is too brief and lacks depth in relation to Test First Development concepts.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1228,11 +1231,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:46:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:27:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical installation processes of Team Foundation Server and does not discuss the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation of Visual Studio 2008 Team Foundation Server SP1, with no direct mention of the Scrum Master role or its responsibilities. While there is a brief mention of team dynamics in the context of installation challenges, it does not align with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles. The depth of discussion is limited to technical installation procedures, which are unrelated to the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1506,6 +1512,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the technical process of installing Visual Studio 2008 Team Foundation Server SP1, with no explicit discussion on competence or continuous skill development. While it touches on the challenges faced during installation, it does not align with the core themes of competence, such as professionalism, trust, or quality outcomes. The depth of discussion is limited to procedural steps rather than fostering a culture of competence or inspecting and adapting skills.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:27:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, with no explicit discussion of Agentic Agility or its principles. While there are mentions of planning and execution, these do not align with the core themes of intentionality, autonomy, or adaptability in shaping outcomes. The content lacks depth in exploring the interplay between human and AI capabilities, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

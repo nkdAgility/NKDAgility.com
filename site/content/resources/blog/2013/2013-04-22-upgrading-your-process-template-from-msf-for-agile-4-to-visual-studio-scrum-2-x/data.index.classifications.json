@@ -1171,11 +1171,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:59:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:54:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on migrating process templates in Visual Studio Scrum, without any mention of Test First Development principles or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on upgrading process templates in Visual Studio Scrum, with no direct mention of Test First Development principles or practices. It lacks discussions on success criteria, testing methodologies, or the impact of testing on collaboration, which are core themes of the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1255,11 +1258,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:59:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:54:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses upgrading process templates in Visual Studio, with little to no focus on the roles, responsibilities, or practices of a Scrum Master.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading process templates in Visual Studio Scrum, with minimal direct mention of the Scrum Master role or its responsibilities. While it references Scrum templates, it does not discuss the Scrum Master's influence, coaching, or facilitation techniques, which are core themes of the category. The depth of discussion is largely technical and procedural, lacking any exploration of the Scrum Master's impact on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1539,6 +1545,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the technical process of upgrading a process template in Visual Studio, with limited direct discussion on competence. While it touches on the importance of careful execution and maintaining data integrity, it lacks a deeper exploration of continuous learning, skill development, or fostering a culture of competence, which are central to the category. The mention of ensuring proper setup and understanding of customisations hints at competence but does not delve into the broader implications of professional development or quality delivery.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:54:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading a process template in Visual Studio Scrum, with no explicit discussion of Agentic Agility or its principles. While it touches on aspects of adaptability in the context of upgrading templates, it lacks depth and does not address the intentional shaping of outcomes, human versus AI capabilities, or the transformative capacity of individuals and systems.",
     "level": "Ignored"
   }
 }

@@ -154,20 +154,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:16:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:12:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of returning anonymous types in VB.NET and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on returning an anonymous type in VB.NET and does not discuss Evidence-Based Management or its key topics. There are no direct mentions or relevant concepts related to EBM, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:16:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:12:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses returning an anonymous type in VB.NET and does not relate to Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on returning an anonymous type in VB.NET, with no mention or relevance to the Agile Product Operating Model. It does not discuss any principles, practices, or frameworks related to agile methodologies or product management.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -307,11 +313,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:17:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:12:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses returning an anonymous type in VB.NET and does not relate to DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on returning an anonymous type in VB.NET, which is a programming topic unrelated to DevOps principles or practices. There are no direct mentions of DevOps concepts, and the discussion lacks any alignment with the core themes of collaboration, automation, or continuous improvement that define DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -691,11 +700,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:31:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:12:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses returning anonymous types in VB.NET and C#, without any mention of Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on returning an anonymous type in VB.NET, which is a specific programming technique. It does not discuss Continuous Delivery principles, practices, or any related topics. The mention of improving the development process is too vague and does not align with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1324,11 +1336,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:31:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:12:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical aspects of VB.NET and anonymous types, with no mention of Scrum roles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical aspects of returning an anonymous type in VB.NET, with no mention or discussion of Scrum Master responsibilities, roles, or related concepts. It does not align with the core themes of the Scrum Master category, nor does it provide any depth on the subject.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,11 +1366,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:31:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:12:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of anonymous types in VB.NET and C#, with no clear focus on Test First Development or related testing practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on returning an anonymous type in VB.NET, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1419,6 +1437,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses returning an anonymous type in VB.NET and does not mention or align with the principles of the Shift-Left Strategy. There is no focus on integrating testing, security, or compliance earlier in the software development lifecycle, nor does it provide any relevant techniques or case studies related to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:12:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical aspect of returning an anonymous type in VB.NET, with no direct mention or discussion of Common Goals, Agile, or DevOps principles. It lacks alignment with the core themes of the category and does not provide any depth related to shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:12:28",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on a technical aspect of returning an anonymous type in VB.NET, which does not directly address the principles of competence in Agile, Scrum, or DevOps. While it mentions enhancing coding skills, it lacks a thorough discussion on continuous learning, skill development, or the impact of competence on team dynamics and quality outcomes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:12:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical aspect of returning an anonymous type in VB.NET, with no direct discussion or alignment with Continuous Improvement principles. It lacks any mention of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:12:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on returning an anonymous type in VB.NET, with no discussion of Agentic Agility or its principles. It lacks any mention of intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

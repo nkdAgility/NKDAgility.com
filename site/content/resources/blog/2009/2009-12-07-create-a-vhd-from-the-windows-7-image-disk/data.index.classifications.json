@@ -1120,11 +1120,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:23:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:26:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses creating a VHD from a Windows 7 image and does not mention Test First Development or related topics.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on creating a VHD from a Windows 7 image disk, detailing a step-by-step process without any mention of Test First Development principles, success criteria, or testing practices. It lacks any discussion on automated or manual testing, making it irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1210,11 +1213,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:23:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:26:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical steps for creating a VHD from a Windows image, with no relation to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content is focused entirely on technical instructions for creating a VHD from a Windows 7 image disk, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the core themes of the Scrum Master category, nor does it provide any depth or relevant discussion on the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1485,6 +1491,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a technical process for creating a VHD from a Windows 7 image disk, with no explicit discussion of competence, continuous learning, or skill development. While it may imply a level of technical competence required to perform the task, it does not delve into the principles of professionalism, quality delivery, or the importance of competence in Agile or DevOps contexts. Therefore, it aligns very minimally with the category of 'Competence'.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:26:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for creating a VHD from a Windows 7 image disk. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The content lacks any mention of intentional shaping of outcomes, adaptability, or alignment with values, which are core to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

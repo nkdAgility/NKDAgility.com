@@ -1189,11 +1189,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:56:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:05:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on migrating and consolidating Team Project Collections in TFS, with no clear discussion on Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses strategies for consolidating Team Projects in TFS and does not mention Test First Development principles, success criteria, or testing practices. It lacks any focus on automated or manual testing methodologies, making it largely irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1273,11 +1276,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:56:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:05:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses technical migration processes and tooling related to Team Foundation Server (TFS), with no clear focus on Scrum Master roles, responsibilities, or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical aspects of consolidating Team Projects in TFS and does not explicitly discuss the role or responsibilities of a Scrum Master. While it mentions the Visual Studio Scrum 2.0 process template, it lacks depth in exploring the Scrum Master's influence on team dynamics, coaching, or agile principles, which are key topics in the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1557,6 +1563,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on technical processes related to consolidating Team Projects in TFS, with limited direct discussion on competence as a foundational principle. While it touches on aspects of skill development and process improvement, it lacks a thorough exploration of continuous learning, professionalism, or the impact of competence on team dynamics and quality outcomes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:05:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical aspects of consolidating Team Projects in TFS, with no explicit discussion of Agentic Agility principles or the intentional shaping of outcomes. While it touches on process improvements and strategies, it lacks depth in exploring autonomy, adaptability, or the interplay between human and AI capabilities in achieving desired outcomes.",
     "level": "Ignored"
   }
 }

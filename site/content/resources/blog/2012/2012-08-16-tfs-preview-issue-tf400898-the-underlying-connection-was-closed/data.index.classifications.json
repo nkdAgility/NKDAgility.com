@@ -1141,11 +1141,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:22:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:02:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a technical issue related to TFS and does not discuss Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a specific issue related to TFS Preview and does not mention Test First Development or its principles. There is no focus on success criteria, testing practices, or collaboration among team members, which are core themes of the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1228,11 +1231,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:22:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:02:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical issues related to Team Foundation Server without any reference to the Scrum Master role or Scrum practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server (TFS) and does not mention the role or responsibilities of a Scrum Master. There is no alignment with the core themes of Scrum or agile principles, and the depth of discussion is focused on troubleshooting rather than Scrum practices.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1509,6 +1515,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a technical issue related to TFS Preview and troubleshooting steps, with minimal reference to competence or skill development. While it discusses problem-solving and technical details, it does not align with the core themes of competence in Agile or DevOps, such as continuous learning or fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:02:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS Preview and does not engage with the concept of Agentic Agility. While it touches on problem-solving and handling glitches, it lacks explicit discussions on intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI agency.",
     "level": "Ignored"
   }
 }

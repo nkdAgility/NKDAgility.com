@@ -1069,11 +1069,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:43:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:40:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses list synchronization and does not address Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical implementation of syncing lists in .NET, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any reference to automated or manual testing methodologies, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1261,11 +1264,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:43:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:40:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical implementation details of list synchronization and does not relate to the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a technical implementation of syncing lists in .NET, with no mention or discussion of Scrum Master responsibilities, roles, or related concepts. It does not align with the core themes of the Scrum Master category, nor does it provide any depth on the subject.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on a technical implementation of syncing lists in .NET, which does not directly address the concept of competence in Agile or DevOps. While it mentions enhancing coding skills, this is a brief reference and lacks depth in discussing continuous learning or professional development. The core themes of competence, such as quality outcomes and fostering a culture of competence, are not present in the content.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:40:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical implementation of syncing lists in .NET, with no explicit discussion of Agentic Agility or its principles. While there is a mention of adapting data management practices, it lacks depth and does not address the intentional shaping of outcomes, human or AI agency, or the broader implications of agility in socio-technical environments.",
     "level": "Ignored"
   }
 }

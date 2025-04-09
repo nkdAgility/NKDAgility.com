@@ -1150,11 +1150,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:54:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses migration from TF Service to TF Server using the TFS Integration Platform, with no significant focus on Test First Development practices or principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the migration process from TF Service to TF Server using the TFS Integration Platform, focusing on user account mapping and compliance issues. There is no explicit mention of Test First Development principles, success criteria, or testing practices. The discussion lacks depth in relation to the Test First Development category, making it largely irrelevant to the topic.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1237,11 +1240,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:55:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses migration processes related to Team Foundation Server and does not focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TF Service to TF Server, with no direct mention of the Scrum Master role or its responsibilities. While it touches on user accounts and data management, it does not align with the core themes of Scrum or the impact of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1515,6 +1521,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from TF Service to TF Server, with minimal direct discussion on competence or skill development. While it touches on the need for planning and understanding user mappings, it lacks a deeper exploration of continuous learning or the role of competence in achieving quality outcomes. The mention of planning and forethought suggests some alignment with competence, but it is not the primary focus of the content.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:54:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TF Service to TF Server, with no explicit discussion of Agentic Agility or its principles. While there are mentions of compliance and user mapping, these do not align with the core themes of intentionality, autonomy, or adaptability in shaping outcomes. The content lacks depth in exploring the transformative capacity of individuals or systems, and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

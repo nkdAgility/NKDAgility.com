@@ -1147,11 +1147,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:28:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:15:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues related to data querying and TFS Integration rather than Test First Development principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses technical challenges related to data retrieval and query optimisation in the context of a specific software integration. It does not explicitly mention Test First Development principles, success criteria, or testing practices. While there are elements of debugging and data handling, these do not align with the core themes of Test First Development, which focuses on defining success criteria and the role of testing in the development process.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1231,11 +1234,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:28:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:15:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to data querying and does not mention Scrum, the Scrum Master role, or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical challenges related to data retrieval in a software integration context, with no direct mention of Scrum Master responsibilities or related concepts. While there may be a tangential connection to agile practices through the mention of workflow optimisation, the focus is not on the role of a Scrum Master or the key topics outlined in the category description.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1518,6 +1524,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily discusses technical challenges and solutions related to data retrieval in a specific software context. While it touches on problem-solving and debugging, it lacks a direct focus on competence as defined in Agile and DevOps methodologies. The discussion does not explicitly address continuous learning, skill development, or the broader implications of competence in team dynamics or quality delivery.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:15:10",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses technical challenges related to data retrieval and query optimisation within a specific software context. While there are elements of problem-solving and adaptation, the focus is not on the intentional shaping of outcomes or the principles of Agentic Agility. The discussion lacks explicit references to agency, intent, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

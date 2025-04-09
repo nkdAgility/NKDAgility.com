@@ -1195,11 +1195,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T01:51:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:23:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum and Team Foundation Server without focusing on Test First Development practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and Team Foundation Server, with no explicit discussion of Test First Development principles or practices. While it mentions project planning and requirements gathering, it does not address success criteria, testing methodologies, or the importance of automated testing, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1276,11 +1279,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T01:51:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:23:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the use of Scrum within the context of Team Foundation Server, without a specific focus on the role and responsibilities of a Scrum Master.",
+    "final_score": 39.0,
+    "reasoning": "The content discusses Scrum in the context of Team Foundation Server (TFS) and Visual Studio ALM tools, but it does not focus specifically on the role of the Scrum Master. While it mentions Scrum practices and tools, it lacks a detailed exploration of the Scrum Master's responsibilities, skills, or impact on team dynamics and organisational change. The discussion is more about implementing Scrum with TFS rather than the Scrum Master's role within that framework.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1560,6 +1566,18 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses Scrum and its implementation with TFS 2010, which indirectly relates to competence through the emphasis on effective project management and software development practices. However, it lacks a direct focus on continuous learning or skill development, which are key aspects of the competence category. The depth of discussion on Scrum practices provides some insight into competence but does not fully align with the core themes outlined in the category definition.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:23:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices and tools related to Team Foundation Server, without discussing the intentional shaping of outcomes or the principles of Agentic Agility. It lacks depth in exploring the distinctions between human and AI capabilities, and does not address the core themes of autonomy, adaptability, or alignment with value.",
     "level": "Ignored"
   }
 }

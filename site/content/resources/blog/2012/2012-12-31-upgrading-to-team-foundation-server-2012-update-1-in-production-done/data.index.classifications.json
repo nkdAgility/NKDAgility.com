@@ -1156,11 +1156,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T17:35:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:57:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on upgrading Team Foundation Server rather than on Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server 2012 Update 1, providing practical advice and checklists for installation and configuration. It does not discuss Test First Development principles, success criteria, or testing practices, which are central to the category. The mention of backups and configurations is tangential and does not align with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1246,11 +1249,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T17:35:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:57:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses exclusively on the upgrade process for Team Foundation Server, with no mention of Scrum roles, responsibilities, or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server, with no direct mention of the Scrum Master role or its responsibilities. While it may touch on themes relevant to project management, it does not align with the core topics of Scrum Master discussions, such as coaching, team dynamics, or agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1524,6 +1530,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, with minimal direct discussion on competence or skill development. While it implies the need for expertise in handling upgrades, it does not delve into continuous learning or the broader implications of competence in Agile or DevOps contexts. The depth of discussion is largely procedural, lacking a focus on fostering a culture of competence or the impact of competence on team dynamics.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:57:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, with no explicit discussion of Agentic Agility or its principles. It lacks any mention of intentional shaping of outcomes, autonomy, or adaptability, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

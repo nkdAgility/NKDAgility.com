@@ -1201,11 +1201,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:54:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:21:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on structuring and organizing files and projects in Team Foundation Server without discussing Test First Development or related testing practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on file layout and version control practices in TFS, with no explicit discussion of Test First Development principles or practices. While it mentions automated builds, it does not connect this to Test First methodologies like TDD or ATDD, nor does it discuss success criteria or testing practices in detail.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1285,14 +1288,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T06:56:50",
+    "calculated_at": "2025-04-08T19:21:26",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
+    "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content briefly mentions Scrum in the context of branching strategies for Scrum teams, but it primarily focuses on technical implementation details related to version control and project structure. There is minimal discussion of the Scrum Master's role, responsibilities, or practices, which are central to the category. The content lacks depth in exploring the themes relevant to Scrum Masters, such as coaching, team dynamics, or Scrum ceremonies.",
+    "reasoning": "The content briefly mentions Scrum in the context of branching strategies for Scrum Teams, but it primarily focuses on file layout and version control practices in TFS. The discussion lacks depth regarding the role and responsibilities of a Scrum Master, and does not explore the core themes of the category, such as coaching, mentoring, or facilitating within a Scrum context.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1575,6 +1578,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on file layout and version control practices in TFS, which are technical aspects of software development. While it touches on maintaining a structured approach that could imply a level of competence, it does not explicitly discuss continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The depth of discussion is limited to practical guidance without exploring the underlying principles of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:21:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on file layout and version control practices in TFS, with no explicit discussion of Agentic Agility or its principles. While it touches on aspects of project management and development workflows, it does not engage with the intentional shaping of outcomes or the distinction between human and AI capabilities in agility. The content lacks depth in discussing the transformative capacity of individuals or systems, which is central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

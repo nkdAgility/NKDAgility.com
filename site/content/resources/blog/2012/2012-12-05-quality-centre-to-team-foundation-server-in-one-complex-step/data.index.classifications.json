@@ -772,11 +772,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T15:06:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:58:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses migration and synchronization tools for Quality Centre to Team Foundation Server, with no mention or relevant discussion of Test First Development principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses tools for migrating from Quality Centre to Team Foundation Server, focusing on migration and synchronisation rather than the principles of Test First Development. There are no explicit mentions of Test First practices, success criteria, or testing methodologies related to Test First Development. The discussion lacks depth in terms of the core themes of the category, such as TDD or ATDD, and does not provide insights into the impact of Test First on collaboration or feedback loops.",
     "level": "Ignored"
   },
   "Windows": {
@@ -856,11 +859,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T15:06:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:58:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses tools and methods for migrating data between software systems, with no clear relation to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on tools for migrating from Quality Centre to Team Foundation Server, with no direct mention of the Scrum Master role or its responsibilities. While it briefly touches on concepts relevant to Agile and ALM, it does not align with the core themes of the Scrum Master category, such as coaching, team dynamics, or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1521,6 +1527,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on tools for migrating from Quality Centre to Team Foundation Server, with minimal discussion on competence or skill development. While it touches on the need for experienced consultants for certain tools, it does not delve into the importance of continuous learning or the role of competence in delivering quality outcomes, which are key themes of the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:58:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on tools for migrating from Quality Centre to Team Foundation Server, discussing various software solutions and their capabilities. It does not explicitly address the concept of Agentic Agility, nor does it explore themes such as intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI systems. The discussion is more about technical migration processes rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

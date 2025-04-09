@@ -1111,11 +1111,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:46:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:29:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the release of Windows 7 and personal experiences with the OS, with no mention of Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the release of Windows 7 and does not discuss any principles or practices related to Test First Development. There are no mentions of success criteria, testing methodologies, or any relevant topics that align with the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1195,11 +1198,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:46:48",
+    "calculated_at": "2025-04-08T19:29:03",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily focused on Windows 7 and does not discuss Scrum or Scrum Master topics.",
+    "reasoning": "The content focuses entirely on the release of Windows 7 and does not mention Scrum, the role of a Scrum Master, or any related concepts. It is unrelated to the responsibilities, skills, or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1470,6 +1476,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the release of Windows 7 and its comparison to Vista, with no discussion of competence, skill development, or related Agile and DevOps principles. It lacks any direct mention of competence and does not align with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:28:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the release of Windows 7 and compares it to Vista, with no mention of Agentic Agility or its principles. It lacks any discussion on intentional shaping of outcomes, autonomy, or adaptability, which are central to the category.",
     "level": "Ignored"
   }
 }

@@ -27,6 +27,7 @@ tags:
 - Install and Configuration
 - System Configuration
 - Practical Techniques and Tooling
+- Software Development
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

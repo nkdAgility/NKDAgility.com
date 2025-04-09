@@ -154,20 +154,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:38:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:35:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal experience with delivering a technical presentation, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience of delivering a presentation on peer-to-peer applications with WCF, with no direct mention or discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and provides minimal depth on any related topics.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:38:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:35:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal experience related to delivering a technical presentation on WCF, with no focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience related to delivering a presentation on developing peer-to-peer applications with WCF. There are no direct mentions of the Agile Product Operating Model or its principles. The discussion does not align with the core themes of APOM, such as product management or agile methodologies, and lacks depth in any relevant topics.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -313,11 +319,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:38:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:35:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal experience with delivering a presentation on WCF, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience related to delivering a presentation on peer-to-peer applications with WCF, with no direct mention of DevOps principles or practices. While there is a brief reference to Visual Studio Team System, which could tangentially relate to DevOps tools, the overall discussion lacks alignment with the core themes of DevOps, such as collaboration, automation, or shared accountability. The depth of discussion is minimal, as it centres on presentation delivery rather than any DevOps-related content.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -697,11 +706,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:53:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:35:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on the personal experience of giving a presentation about developing peer-to-peer applications with WCF, and does not address Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on a personal experience of delivering a presentation on peer-to-peer applications with WCF, with no direct mention of Continuous Delivery principles or practices. While there is a brief reference to technical content, it does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or user feedback. The discussion lacks depth regarding Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1330,11 +1342,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:53:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:35:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is mainly focused on a technical presentation about WCF and does not discuss Scrum Master responsibilities or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience related to delivering a technical presentation on WCF, with no direct mention of Scrum or the role of a Scrum Master. While there is a brief mention of presenting and technical challenges, it does not align with the core themes of the Scrum Master category, such as facilitating team effectiveness or promoting agile principles. The discussion lacks depth regarding Scrum practices or the responsibilities of a Scrum Master.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1357,11 +1372,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:53:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:35:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a presentation on developing peer-to-peer applications using WCF, with no focus on Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience of delivering a presentation on peer-to-peer applications with WCF, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. The content lacks any relevant detail or alignment with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1425,6 +1443,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on a personal experience related to delivering a presentation on developing peer-to-peer applications with WCF. There are no direct mentions of the Shift-Left Strategy, nor does it discuss any principles, techniques, or benefits related to integrating testing, security, or compliance early in the software development lifecycle. The content lacks depth and relevance to the category, making it unsuitable for classification under the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:35:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience related to delivering a presentation on peer-to-peer applications with WCF. It does not discuss Common Goals, Agile, or DevOps principles, nor does it provide any insights into aligning strategy with execution. The mention of a presentation does not connect to the core themes of Common Goals, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:35:23",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly touches on the author's experience with delivering a presentation, which hints at the importance of competence in communication. However, it primarily focuses on personal anecdotes and challenges faced during the presentation rather than discussing competence in a structured or detailed manner. There is minimal direct mention of continuous learning or skill development, and the overall depth of discussion on competence is very limited.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:35:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a personal experience of delivering a presentation on peer-to-peer applications with WCF. It does not explicitly discuss Continuous Improvement principles, nor does it align with the core themes of the category. The mention of learning from past presentation experiences is too vague and lacks depth to be considered a meaningful discussion on Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:35:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience of delivering a presentation on peer-to-peer applications with WCF. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The mention of challenges in presentation delivery does not align with the intentional shaping of outcomes or the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

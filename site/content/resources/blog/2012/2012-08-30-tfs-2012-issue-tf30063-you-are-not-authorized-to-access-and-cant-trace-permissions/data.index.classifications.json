@@ -1126,11 +1126,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:50:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:01:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses permission issues related to Team Foundation Server and SharePoint, with no mention of Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses permission issues related to TFS 2012 and SharePoint, with no direct mention or alignment to Test First Development principles. It does not address success criteria, testing practices, or any related concepts, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1213,11 +1216,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:50:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:01:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses permissions issues in TFS and SharePoint and does not relate to Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to permissions in TFS 2012 and SharePoint 2010, with no direct mention of Scrum or the role of a Scrum Master. It does not align with the core themes of the Scrum Master category, such as facilitating team effectiveness or promoting agile principles. The discussion lacks depth regarding Scrum practices or the responsibilities of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1488,6 +1494,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific error related to permissions in TFS 2012 and does not discuss competence in terms of skill development, quality outcomes, or professional growth. While it touches on the importance of permissions, it lacks a broader discussion on continuous learning or the role of competence in Agile or DevOps environments.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:01:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting permission issues in TFS 2012 and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is technical and specific to a software issue, lacking any connection to the broader themes of agency or agility.",
     "level": "Ignored"
   }
 }

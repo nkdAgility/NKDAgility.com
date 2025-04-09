@@ -1060,11 +1060,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:37:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:38:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a development event rather than Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting an event and does not mention or discuss any principles or practices related to Test First Development. There is no reference to success criteria, testing methodologies, or any relevant topics that align with the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1249,11 +1252,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:37:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:38:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum Master roles, responsibilities, or related topics; it is primarily about a developer event.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a developer event and does not mention the Scrum Master role or its responsibilities. There is no discussion of Scrum principles, techniques, or the impact of a Scrum Master, indicating a lack of relevance to the category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1470,6 +1476,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on promoting an event and does not discuss competence, continuous learning, or any related themes. There are no explicit mentions of competence or its importance in Agile or DevOps contexts, and the depth of discussion is minimal, lacking any relevant detail.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:38:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a developer event and does not discuss Agentic Agility or its principles. There are no direct mentions of agency, intentionality, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

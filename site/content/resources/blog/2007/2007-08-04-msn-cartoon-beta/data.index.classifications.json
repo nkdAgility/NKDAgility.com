@@ -160,20 +160,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:16:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:50:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a Microsoft Avatar service and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on creating custom avatars using a specific application, with no mention or discussion of Evidence-Based Management principles, metrics, or data-informed decision-making.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:16:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:49:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a Microsoft Avatar service and its usage, with no relevance to Agile principles or product operating models.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on creating custom avatars using a specific application, with no mention or discussion of agile methodologies, product management principles, or the Agile Product Operating Model. It does not align with any of the key topics outlined in the category definition.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -313,11 +319,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:17:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:49:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a Microsoft Avatar service and the process of creating custom avatars, which is unrelated to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on creating custom avatars using a specific Microsoft tool, with no mention or discussion of DevOps principles, practices, or cultural shifts. It does not align with any key topics related to DevOps, such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -691,11 +700,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:53:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:50:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a Microsoft Avatar service and instructions for using it, with no relevance to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating custom avatars using the MSN Cartoon Beta service, with no direct mention or discussion of Continuous Delivery principles, practices, or related topics. The content does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality. It lacks depth in discussing any relevant aspects of Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1324,11 +1336,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:53:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:50:00",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses a Microsoft Avatar service and does not mention Scrum, Scrum Masters, or related topics.",
+    "reasoning": "The content focuses entirely on creating custom avatars using a Microsoft tool and does not mention the Scrum Master role, responsibilities, or any related concepts. There is no discussion of Scrum principles, team dynamics, or organisational change, which are central to the Scrum Master category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,11 +1366,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:53:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:50:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses creating custom avatars in a cartoon service and does not mention Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on creating custom avatars using the MSN Cartoon Beta service, with no mention or discussion of Test First Development principles, success criteria, or testing practices. It does not align with the core themes of the category, and the depth of discussion is minimal, as it is primarily a guide for using a specific application.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1419,6 +1437,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content focuses entirely on creating custom avatars using a Microsoft tool, with no mention or discussion of software development processes, testing, security, or compliance. It does not align with the principles or benefits of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:49:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating custom avatars using the MSN Cartoon Beta service. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it mention any shared objectives or strategic alignment. The discussion is entirely centred around a personal project and lacks any connection to team collaboration or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:49:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating custom avatars using a specific tool, with no direct mention or discussion of competence, continuous learning, or skill development. While there is a brief mention of learning Chinese, it does not align with the core themes of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:49:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating custom avatars using a specific tool, with no direct mention or discussion of Continuous Improvement principles. While there is a brief mention of learning and creativity, it does not align with the core themes of Continuous Improvement, such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is limited to procedural steps for using the avatar service, lacking any strategic insights or reflections on process enhancement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:49:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating custom avatars using a specific application, with no direct mention of Agentic Agility or its principles. While there is a slight alignment in the sense of creativity and user autonomy in avatar creation, it lacks depth and relevance to the core themes of Agentic Agility, such as intentional shaping of outcomes or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

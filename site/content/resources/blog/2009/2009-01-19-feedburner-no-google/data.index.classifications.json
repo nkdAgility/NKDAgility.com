@@ -1054,11 +1054,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:10:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:35:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about the migration of Feedburner to Google and does not discuss Test First Development or related principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the transition from Feedburner to Google and does not mention Test First Development or its principles. There is no alignment with the core themes of Test First Development, and the depth of discussion is minimal, focusing instead on feed management rather than software development practices.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1246,11 +1249,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:10:53",
+    "calculated_at": "2025-04-08T19:35:17",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses Feedburner and its migration to Google, with no relevance to Scrum Master role or responsibilities.",
+    "reasoning": "The content focuses entirely on the transition from Feedburner to Google, discussing technical aspects of feed URLs and performance. It does not mention the Scrum Master role, agile principles, or any related topics, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the transition from Feedburner to Google and the technical aspects of updating feed URLs. It does not explicitly mention competence or related themes such as continuous learning, skill development, or professionalism. The focus is on a specific technical process rather than on the principles of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:35:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the transition from Feedburner to Google, focusing on technical aspects of updating feed URLs. There are no direct mentions of Agentic Agility, and the themes of intentionality, autonomy, or adaptability are not present. The discussion lacks depth and relevance to the category.",
     "level": "Ignored"
   }
 }

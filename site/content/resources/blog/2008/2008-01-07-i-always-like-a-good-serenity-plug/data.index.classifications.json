@@ -154,20 +154,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:10:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:13:50",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily about a quiz related to characters from the show Serenity, with no relevance to Evidence-Based Management principles or practices.",
+    "reasoning": "The content is focused on a quiz related to characters from the show 'Serenity' and does not discuss any aspects of Evidence-Based Management. There are no mentions of empirical evidence, data-informed decision-making, or any of the key topics associated with EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:10:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:13:41",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily about a quiz related to Serenity characters and does not discuss Agile principles or the Agile Product Operating Model.",
+    "reasoning": "The content is entirely focused on a quiz related to characters from the 'Serenity' universe, with no mention or discussion of agile methodologies, product management principles, or any related topics that align with the Agile Product Operating Model. It does not address any of the key topics outlined in the category description.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -307,11 +313,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:11:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:13:25",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on a quiz about Serenity characters and does not discuss any DevOps principles, practices, or related topics.",
+    "reasoning": "The content is focused on a quiz related to characters from the 'Serenity' universe, with no mention or discussion of DevOps principles, practices, or cultural shifts. It does not align with any key topics of the DevOps category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -685,11 +694,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:43:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:13:57",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on a quiz related to characters from the 'Serenity' franchise, which is unrelated to Continuous Delivery principles or practices.",
+    "reasoning": "The content is entirely focused on a quiz related to characters from the 'Serenity' universe, with no mention or discussion of Continuous Delivery principles, practices, or related topics. It does not align with any of the key themes outlined for the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1315,11 +1327,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:43:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:13:45",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses a quiz about fictional characters and does not relate to Scrum Masters or their responsibilities.",
+    "reasoning": "The content is entirely focused on a quiz related to characters from the 'Serenity' universe, with no mention or discussion of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1342,11 +1357,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:43:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:13:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Test First Development and focuses on a quiz about Serenity characters.",
+    "final_score": 4.0,
+    "reasoning": "The content is entirely focused on a quiz related to characters from the show 'Serenity' and does not mention or discuss any principles or practices related to Test First Development. There are no references to testing methodologies, success criteria, or any relevant topics that align with the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1410,6 +1428,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content does not discuss the Shift-Left Strategy or any related concepts. It focuses on a quiz about characters from the 'Serenity' universe, which is unrelated to software development processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:13:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a quiz related to characters from the 'Serenity' universe, which is entirely unrelated to the principles of Common Goals in Agile and DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, and the discussion lacks any depth or relevance to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:13:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a quiz related to characters from the 'Serenity' universe, with no discussion of competence, skill development, or any related themes. It does not align with the principles of professionalism or quality delivery, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:13:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content is focused on a quiz about Serenity characters and does not discuss Continuous Improvement principles or related topics. There are no direct mentions or relevant themes present, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:13:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a quiz related to characters from the 'Serenity' universe, with no explicit discussion of Agentic Agility or its principles. There are no mentions of autonomy, adaptability, or intentional shaping of outcomes, which are central to the category. The content lacks depth and alignment with the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -1126,11 +1126,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T03:05:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:31:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses connecting Visual Studio to TFS and is focused on tooling and compatibility, without mention of Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on connecting Visual Studio 2008 to TFS 2010, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail on automated or manual testing methodologies, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1213,11 +1216,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T03:05:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:31:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on connecting Visual Studio to TFS and is unrelated to Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on connecting Visual Studio to TFS, which is unrelated to the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, the Scrum Master's role, or any related discussions. The content does not align with the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1491,6 +1497,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on technical instructions for connecting Visual Studio 2008 to TFS 2010, with minimal discussion on competence or skill development. While it touches on backward compatibility and mentions the importance of connection for Business Intelligence teams, it lacks a thorough exploration of continuous learning, quality outcomes, or fostering a culture of competence, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:30:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for connecting Visual Studio 2008 to TFS 2010, with no explicit discussion of Agentic Agility or its principles. While it touches on aspects of software integration, it does not address intentional shaping of outcomes, agency, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

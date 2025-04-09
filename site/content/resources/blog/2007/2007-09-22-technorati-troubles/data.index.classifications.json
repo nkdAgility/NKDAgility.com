@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:23:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:31:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues with Technorati and personal blog management, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses personal challenges with Technorati, focusing on URL redirects and invalid tags, which are not related to Evidence-Based Management. There are no direct mentions of EBM concepts, and the discussion lacks any alignment with the key topics outlined in the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:23:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:31:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues with Technorati and does not relate to Agile principles or product development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses issues related to Technorati and blogging, with no direct mention or alignment to the Agile Product Operating Model. It lacks any relevant discussion on agile methodologies, product management principles, or the key topics outlined in the APOM framework.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:23:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:30:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues with Technorati and personal blog management, which are not related to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses issues related to Technorati, a blogging platform, focusing on URL redirects and invalid tags. There is no mention of DevOps principles, practices, or cultural shifts, nor does it align with the core themes of collaboration, automation, or shared accountability. The discussion is entirely centred on personal blogging challenges, which are unrelated to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -688,11 +697,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:29:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:31:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues with Technorati and personal blog claims, which are unrelated to Continuous Delivery principles and practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses issues related to Technorati, specifically URL redirects and invalid tags, which are not relevant to Continuous Delivery. There are no direct mentions of Continuous Delivery principles, practices, or related topics, and the discussion lacks depth in any aspect of software delivery or automation.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1321,11 +1333,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:29:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:31:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to Technorati and blog management, which is unrelated to the responsibilities or practices of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on issues related to Technorati and blogging, with no mention or discussion of Scrum Master roles, responsibilities, or related concepts. It does not align with any key topics associated with the Scrum Master category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1348,11 +1363,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:29:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:31:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on issues with Technorati and does not discuss Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses issues related to Technorati, including URL redirects and invalid tags, which are unrelated to Test First Development principles. There are no direct mentions of testing practices, success criteria, or any relevant concepts from the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1416,6 +1434,54 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content discusses issues related to Technorati and personal blog claims, with no reference to software development processes, testing, security, or compliance. It does not align with the Shift-Left Strategy in any way.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:30:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses personal challenges with Technorati, focusing on URL redirects and invalid tags, which are unrelated to the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth in relation to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:30:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to Technorati, such as URL redirects and invalid tags, without any reference to competence, continuous learning, or skill development. It lacks a focus on the principles of professionalism and quality delivery, which are central to the category of Competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:30:55",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses personal challenges with Technorati, focusing on specific technical issues rather than Continuous Improvement principles. There are no direct mentions of Continuous Improvement concepts, and the discussion lacks depth in relation to the category's themes. While there is a hint of problem-solving, it does not align with the broader strategies or philosophies of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:30:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to Technorati, such as URL redirects and invalid tags, without any reference to Agentic Agility or its principles. There is no mention of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The focus is on troubleshooting rather than on the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

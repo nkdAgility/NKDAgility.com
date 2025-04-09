@@ -160,20 +160,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:12:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:47:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Hosted Team Foundation Server and does not address Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the challenges and solutions related to Hosted Team Foundation Server (TFS) without any explicit mention of Evidence-Based Management principles. It does not address any of the key topics outlined in the EBM category, such as current value, time to market, or empirical decision-making. The focus is on technical issues and project partitioning rather than data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:12:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:46:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Team Foundation Server and its hosting capabilities, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Hosted Team Foundation Server (TFS) and its challenges, which are related to project management rather than the Agile Product Operating Model. There are no direct mentions of agile principles, product management practices, or the core themes of APOM. The focus is on technical issues with TFS and upcoming improvements, which do not align with the category's emphasis on customer-centric value delivery and product-oriented mindsets.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -319,11 +325,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:13:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:46:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Team Foundation Server (TFS) and its hosting capabilities, without a clear focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Hosted Team Foundation Server (TFS) and its challenges, which are more aligned with project management and specific tools rather than the broader DevOps philosophy. While there are mentions of project partitioning and hosting solutions, these do not directly address the core principles of DevOps such as collaboration, automation, or shared accountability. The discussion lacks depth in exploring how these issues relate to the DevOps culture or practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -706,11 +715,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T22:09:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:47:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses issues related to the Hosted Team Foundation Server and its limitations, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Hosted Team Foundation Server (TFS) and its challenges, with no explicit mention of Continuous Delivery principles or practices. While it touches on project partitioning and upcoming improvements, these topics do not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or incremental improvements. The discussion lacks depth and detail regarding Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1342,11 +1354,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T22:09:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:46:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about Team Foundation Server and its hosting issues, not related to Scrum Masters or Scrum practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Hosted Team Foundation Server (TFS) and its challenges, with no direct mention of the Scrum Master role or its responsibilities. While it touches on project management tools, it does not align with the core themes of Scrum or the Scrum Master's influence on team dynamics or organisational change. The discussion lacks depth regarding Scrum practices, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1369,11 +1384,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T22:09:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:47:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to Hosted Team Foundation Server (TFS) and does not address any principles or practices of Test First Development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the challenges and solutions related to Hosted Team Foundation Server (TFS) without any reference to Test First Development principles, success criteria, or testing practices. It focuses on project partitioning and hosting issues rather than any testing methodologies or practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1437,6 +1455,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses issues related to Hosted Team Foundation Server (TFS) and does not mention the Shift-Left Strategy or its principles. There is no alignment with the core themes of integrating testing, security, or compliance early in the development process, nor does it provide any depth on these topics. The focus is on project partitioning and hosting challenges, which are unrelated to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:46:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the challenges and solutions related to Hosted Team Foundation Server, focusing on project partitioning and technical issues rather than the alignment of strategy with execution or shared objectives within Agile and DevOps frameworks. There are no direct mentions of Common Goals, and the discussion lacks depth in relation to the category's core themes.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:46:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the challenges and solutions related to Hosted Team Foundation Server, focusing on project partitioning and upcoming improvements. While it touches on issues that may indirectly relate to competence, such as the need for separate instances for different business areas, it does not explicitly discuss continuous learning, skill development, or the core themes of competence in Agile or DevOps environments. The discussion lacks depth and does not provide substantial insights into fostering a culture of competence or the impact of competence on decision-making.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:46:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the challenges and solutions related to Hosted Team Foundation Server, with a focus on project partitioning and upcoming improvements. While it touches on the need for better solutions, it does not explicitly address Continuous Improvement principles or provide a detailed discussion on the topic. The mention of improvements is too vague and does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:46:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the challenges and solutions related to Hosted Team Foundation Server, with no explicit mention of Agentic Agility or its principles. It does not address the intentional shaping of outcomes, nor does it differentiate between human and AI capabilities in the context of agility. The focus is on technical issues rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

@@ -1147,11 +1147,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:57:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:05:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on TFS Integration Tools and troubleshooting during code review processes, with no significant discussion on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses an error related to the TFS Integration Tools and does not explicitly mention Test First Development principles or practices. While it touches on checks and validations during the code review process, it lacks a focus on defining success criteria, automated testing, or the collaborative aspects of Test First Development. The discussion is more about troubleshooting than about the Test First approach.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1234,11 +1237,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:57:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:05:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on TFS Integration Tools and error handling during code reviews, without any reference to Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS Integration Tools and does not mention the role or responsibilities of a Scrum Master. There is no alignment with the core themes of Scrum or agile principles, and the depth of discussion is limited to troubleshooting a specific error, which is unrelated to Scrum practices.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1515,6 +1521,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on a technical issue related to TFS Integration Tools and does not explicitly discuss competence or its importance in Agile or DevOps contexts. While it touches on problem-solving and workarounds, these aspects are not deeply connected to the principles of continuous learning, skill development, or professionalism that define competence. The discussion lacks depth and does not align with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:05:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical issue related to TFS Integration Tools and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is limited to troubleshooting a specific error without exploring the broader implications of agency or agility.",
     "level": "Ignored"
   }
 }

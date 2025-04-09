@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T12:30:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:45:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses URL redirection and ASP.NET handlers, which are not related to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on implementing a URL redirect handler in ASP.NET, which is a technical implementation detail rather than a discussion on DevOps principles or practices. There are no direct mentions of DevOps concepts such as collaboration, automation, or shared accountability. The content lacks depth in discussing any DevOps-related themes, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T12:30:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:46:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation of URL redirection in ASP.NET, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on implementing a URL redirect handler in ASP.NET, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM category. The discussion is technical and specific to web development, lacking any connection to the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -169,11 +175,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T12:30:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:46:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation of URL redirection in ASP.NET, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical implementation details of URL redirection in ASP.NET, with no mention or alignment to Evidence-Based Management principles or practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -895,11 +904,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:40:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:46:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses URL redirection in a web application and does not cover Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the implementation of a URL redirect handler in ASP.NET, which is focused on web development rather than Continuous Delivery practices. There are no direct mentions of Continuous Delivery principles, automation, or related strategies. The content lacks depth in discussing any relevant Continuous Delivery topics, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1060,11 +1072,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:40:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:46:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses a web redirect handler implementation without any reference to Test First Development or related concepts like TDD, unit tests, or Agile practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on implementing a URL redirect handler in ASP.NET, with no explicit discussion of Test First Development principles, success criteria, or testing practices. It lacks any mention of automated or manual testing, and does not align with the core themes of the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1252,11 +1267,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:40:52",
+    "calculated_at": "2025-04-08T19:46:14",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily about technical implementation details related to web development and does not discuss the role of the Scrum Master or related topics.",
+    "reasoning": "The content focuses entirely on technical implementation details related to URL redirection in ASP.NET, with no mention or discussion of Scrum Master responsibilities, roles, or related agile principles.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1437,6 +1455,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses URL redirection and HTTP handlers in ASP.NET, with no mention or alignment to the Shift-Left Strategy. It does not address testing, security, or compliance in the software development lifecycle, which are core aspects of the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T19:45:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details of a URL redirect handler in ASP.NET, with no explicit discussion of Common Goals, Agile, or DevOps principles. While it touches on user considerations, it lacks any connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T19:45:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details of URL redirection in ASP.NET, with no explicit discussion on competence, continuous learning, or skill development. While it demonstrates technical capability, it does not align with the core themes of competence as defined in Agile, Scrum, DevOps, or Lean methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T19:46:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details of URL redirection in ASP.NET, with no explicit discussion or alignment with Continuous Improvement principles. It lacks any mention of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:46:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on implementing a URL redirect handler in ASP.NET, with no explicit discussion of Agentic Agility or its principles. While there is a mention of user consideration in the context of URL management, it does not align with the core themes of intentional shaping of outcomes, autonomy, or adaptability. The technical details provided do not delve into the transformative capacity of individuals or systems, nor do they explore the interplay between human judgement and AI logic.",
     "level": "Ignored"
   }
 }

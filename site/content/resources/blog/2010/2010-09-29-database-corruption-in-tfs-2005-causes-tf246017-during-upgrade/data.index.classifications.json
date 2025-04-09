@@ -1138,11 +1138,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T01:08:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:18:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content mainly discusses database upgrade issues related to TFS, not Test First Development or TDD principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses a specific error encountered during an upgrade of TFS 2005 to TFS 2010, focusing on database corruption and resolution steps. It does not mention Test First Development principles, success criteria, or any related testing practices. The discussion is technical but does not align with the core themes of Test First Development, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1225,11 +1228,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T01:08:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:18:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to database corruption in Team Foundation Server (TFS) and does not address Scrum Master roles, responsibilities, or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to upgrading TFS (Team Foundation Server) and does not mention the role or responsibilities of a Scrum Master. There is no alignment with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles. The depth of discussion is focused on database errors and resolutions, which are unrelated to Scrum practices.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1500,6 +1506,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on a technical issue related to upgrading TFS and resolving a specific error. While it demonstrates a level of competence in troubleshooting and problem-solving, it does not explicitly discuss the broader themes of continuous learning, skill development, or the importance of competence in Agile or DevOps environments. The mention of using commands like 'dbcc checkdb' indicates some level of technical skill, but it lacks depth in exploring how this relates to professional competence or team dynamics.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:18:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to upgrading TFS and resolving a specific error. It does not address the concept of Agentic Agility, nor does it explore themes such as intentional shaping of outcomes, autonomy, or adaptability. The focus is on troubleshooting and technical resolution rather than on the principles or mechanisms of Agentic Agility.",
     "level": "Ignored"
   }
 }

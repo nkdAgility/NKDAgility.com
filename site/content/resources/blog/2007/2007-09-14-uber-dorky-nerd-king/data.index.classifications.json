@@ -154,20 +154,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:29:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:32:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily personal and does not discuss Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on personal identity and self-expression rather than any aspects of Evidence-Based Management. There are no direct mentions or relevant themes related to data-informed decision-making or metrics that assess value delivery.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:29:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:32:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily personal and does not discuss Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on personal identity and self-expression related to being a nerd, with no mention or relevance to the Agile Product Operating Model or its principles. It does not discuss any key topics associated with APOM, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -307,11 +313,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:29:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:32:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily personal and does not discuss any DevOps principles, practices, or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on personal identity and geek culture, with no direct mentions or alignment to DevOps principles, practices, or discussions.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -685,11 +694,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:53:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:32:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily a personal post and does not discuss Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on personal identity and geek culture, with no relevant discussion on Continuous Delivery principles, practices, or tools.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1315,11 +1327,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:53:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:32:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is mostly personal and humorous, lacking any relevant discussion on the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on personal identity and geek culture, with no mention or relevance to the role of a Scrum Master or any related concepts. It does not discuss Scrum principles, responsibilities, or any related themes, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1342,11 +1357,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:53:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:32:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Test First Development and focuses on personal identity rather than software practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on personal identity and geek culture, with no relevant discussion on Test First Development principles, practices, or methodologies.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1410,6 +1428,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content does not discuss any aspects of the Shift-Left Strategy, focusing instead on a personal anecdote and unrelated topics. There are no mentions of software development processes, testing, security, or compliance.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:32:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal identity and self-expression rather than discussing any common goals within Agile or DevOps frameworks. There are no direct mentions of shared objectives or alignment strategies, and the discussion lacks depth on the principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:32:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal identity and self-expression related to being a nerd, with no direct discussion of competence, skill development, or professional growth. It lacks any substantial alignment with the core themes of competence in Agile, Scrum, DevOps, or Lean methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:32:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on personal identity and self-expression within a nerd culture context, with no discussion of Continuous Improvement principles, methodologies, or practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:32:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on personal identity and self-expression within a nerd culture context, with no discussion of Agentic Agility, intentional shaping of outcomes, or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

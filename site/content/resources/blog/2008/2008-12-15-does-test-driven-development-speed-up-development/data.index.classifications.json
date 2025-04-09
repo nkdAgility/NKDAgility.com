@@ -1108,14 +1108,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-11T10:44:20",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-04-08T19:36:22",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content explicitly discusses test-driven development (TDD) and its benefits, which aligns with the principles of Test First Development. However, it lacks a comprehensive exploration of the topic, focusing more on the advantages rather than the detailed processes or tools involved. The mention of TDD is significant, but the overall depth and breadth of discussion do not fully meet the criteria for a high confidence score.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses test-driven development (TDD), which is a key aspect of Test First Development. However, while it mentions the benefits of TDD, it lacks a comprehensive exploration of the principles and practices of Test First Development as a whole. The discussion is somewhat surface-level, focusing on productivity and complexity reduction without delving into success criteria, collaboration, or the transition from manual to automated testing. Therefore, while there is a clear connection to the category, it does not fully meet the depth and breadth required for a higher confidence score.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -1306,11 +1306,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:56:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:36:25",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on test-driven development and its benefits, not on the role or responsibilities of a Scrum Master.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses test-driven development (TDD) and its impact on software productivity, with no direct mention of the Scrum Master role or related responsibilities. While it touches on themes of productivity and complexity, these are not aligned with the core topics of the Scrum Master category, such as facilitation, coaching, or team dynamics. The discussion lacks depth regarding the Scrum framework or the influence of a Scrum Master, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1530,6 +1533,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses test-driven development (TDD) and its impact on software productivity, which indirectly relates to competence through the lens of skill development and quality outcomes. However, it does not explicitly focus on the broader themes of competence as defined in the category, such as continuous learning or fostering a culture of competence. The discussion is more centred on TDD's benefits rather than on the development of professional capabilities or the importance of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:36:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses test-driven development (TDD) and its benefits in software productivity, which does not directly address the concept of Agentic Agility. While it touches on adaptability and reducing complexity, it lacks explicit discussions on intentional shaping of outcomes, the distinction between human and AI capabilities, or the transformative capacity of individuals and systems. Therefore, the content does not align well with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -1138,11 +1138,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T01:18:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:20:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to ghost build controllers in Team Foundation Server and their deletion, with no mention of Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses issues related to ghost build controllers in Team Foundation Server (TFS) and does not address any principles or practices of Test First Development. There are no mentions of success criteria, testing methodologies, or the impact of testing on collaboration, which are core to the Test First Development category. The focus is on troubleshooting and managing build controllers rather than on testing practices.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1222,11 +1225,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T01:18:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:21:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on technical issues related to Team Foundation Server and build controllers, and does not discuss the role or responsibilities of a Scrum Master within the Scrum framework.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to Team Foundation Server and ghost build controllers, with no direct mention of Scrum Master responsibilities or related concepts. It lacks any discussion on Scrum principles, team dynamics, or the role of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1500,6 +1506,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on troubleshooting ghost build controllers in Team Foundation Server, which is a technical issue rather than a discussion on competence. While there are mentions of problem-solving and technical skills, these are not explicitly tied to the principles of competence in Agile or DevOps. The discussion lacks depth in terms of continuous learning or fostering a culture of competence, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:20:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to ghost build controllers in Team Foundation Server, focusing on troubleshooting and database management. It does not address the principles of Agentic Agility, such as intentional shaping of outcomes, autonomy, or adaptability. There are no explicit mentions of human or AI agency, nor does it explore the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

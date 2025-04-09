@@ -145,11 +145,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T09:32:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:28:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS installation and server configuration, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical issues related to TFS installation and does not discuss Evidence-Based Management or its key topics. There are no direct mentions of empirical decision-making or metrics related to value delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Organisational Psychology": {
@@ -259,11 +262,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:32:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:28:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS installation and network configurations, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical issues related to TFS installation in large networks, with no direct mention of Agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any discussion of the core themes associated with APOM, such as product-oriented mindsets or continuous delivery, and provides minimal detail relevant to the category.",
     "level": "Ignored"
   },
   "Events and Presentations": {
@@ -349,11 +355,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:33:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:27:50",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation issues related to TFS and network configurations, without a clear focus on DevOps principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on troubleshooting TFS installation issues related to proxy servers and DNS errors, which does not align with the core principles of DevOps. While it touches on aspects of team setup, it lacks explicit discussions on collaboration, automation, or shared accountability, which are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "One Engineering System": {
@@ -415,11 +424,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T10:22:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:28:12",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content centers around troubleshooting installation issues with TFS, not Continuous Delivery principles or practices.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on troubleshooting TFS installation issues in large networks, which does not directly address Continuous Delivery principles or practices. There are no explicit mentions of Continuous Delivery, and the discussion lacks depth in relevant topics such as automation, incremental improvements, or user feedback. Overall, the content is more about setup and configuration rather than the Continuous Delivery process.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -556,11 +568,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T10:22:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:28:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation and configuration issues related to TFS and proxy servers, with no mention of test-first development or its principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting TFS installation issues related to proxy servers and does not discuss any principles or practices of Test First Development. There are no mentions of success criteria, testing practices, or the impact of testing on collaboration, which are core themes of the category.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -1258,11 +1273,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T10:22:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:28:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about TFS installation issues and does not discuss the Scrum Master role or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical issues related to TFS installation and does not discuss the role, responsibilities, or impact of a Scrum Master. There are no direct mentions of Scrum or related concepts, and the discussion lacks depth regarding any Scrum-related themes.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1384,11 +1402,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:31:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:27:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS installation and network configurations, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical issues related to TFS installation and network configurations, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it mentions team access, it does not delve into the principles or methodologies that promote collaboration or value delivery within organisations.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1440,6 +1461,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses installation issues related to TFS in a network environment, with no explicit mention of the Shift-Left Strategy or its principles. It does not address testing, security, or compliance early in the development process, nor does it provide any techniques or case studies related to the Shift-Left approach. The focus is on technical troubleshooting rather than software development practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T21:27:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical issues related to TFS installation and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the depth of discussion is limited to troubleshooting technical problems without connecting to broader organisational objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T21:27:57",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on technical installation issues related to TFS and does not discuss competence, continuous learning, or skill development. While it provides practical guidance, it lacks any reference to the principles of professionalism or quality delivery that are central to the concept of competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T21:27:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting TFS installation issues and does not discuss Continuous Improvement principles or practices. There are no direct mentions of Continuous Improvement, nor does it align with the core themes such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is limited to technical solutions without any reference to broader improvement strategies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T21:28:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical issues related to TFS installation and does not discuss Agentic Agility or its principles. There are no direct mentions of agency, intentionality, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

@@ -1198,11 +1198,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T23:37:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:16:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Scrum processes, roles, and sprint planning without a focus on Test First Development principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses Scrum practices and team dynamics without a direct focus on Test First Development principles. While it touches on aspects of estimation and user stories, it lacks explicit references to success criteria, automated testing, or Test-Driven Development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1279,14 +1282,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T06:39:24",
+    "calculated_at": "2025-04-08T19:16:38",
     "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
     "final_score": 71.0,
-    "reasoning": "The content discusses the role of a Scrum Coach and the dynamics of a Scrum team during their first sprint, which aligns with the responsibilities of a Scrum Master. It touches on coaching, team collaboration, and Scrum ceremonies, but lacks a comprehensive exploration of the Scrum Master's role and practices. The discussion is somewhat detailed but does not delve deeply into the nuances of Scrum Master responsibilities.",
+    "reasoning": "The content discusses the role of a Scrum Coach and the dynamics of a Scrum team, highlighting the importance of guidance and effective practices in Scrum. It provides insights into Scrum processes, such as sprint planning and estimation techniques, which are relevant to the responsibilities of a Scrum Master. However, while the Scrum Master role is a significant focus, the content does not delve deeply into the broader impact of the Scrum Master on organisational change or continuous improvement, which slightly limits its depth.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1585,5 +1588,17 @@
     "final_score": 65.0,
     "reasoning": "The content discusses experiences and insights from a Scrum team, touching on the importance of having a Scrum Coach and the team's learning journey. However, while it mentions aspects of competence, such as the need for skill development and the impact of guidance on team performance, it does not delve deeply into the principles of competence as defined in the category. The focus is more on the Scrum process and team dynamics rather than a thorough exploration of competence itself.",
     "level": "Secondary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:16:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum practices and experiences without explicitly addressing the concept of Agentic Agility. While it touches on team dynamics and decision-making, it lacks a focus on intentional shaping of outcomes, accountability, or the interplay between human and AI capabilities. The discussion is more about Agile methodologies rather than the transformative capacity of individuals or systems in a socio-technical context.",
+    "level": "Ignored"
   }
 }

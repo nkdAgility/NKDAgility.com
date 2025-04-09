@@ -1159,11 +1159,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T16:46:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:59:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues related to Team Foundation Build and MVC project configurations, with no focus on Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses a specific error related to Team Foundation Build 2012 and does not address Test First Development principles. There are no explicit mentions of success criteria, testing practices, or the impact of testing on collaboration, which are core to the Test First Development category. The focus is on resolving a technical issue rather than on testing methodologies or practices.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1249,11 +1252,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T16:46:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:59:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and MVC projects, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to Team Foundation Build and MVC projects, with no direct mention of Scrum Master responsibilities, roles, or related concepts. It lacks any discussion on agile principles, team dynamics, or coaching, which are essential for the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1533,6 +1539,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on resolving a technical issue related to Team Foundation Build 2012 and does not explicitly discuss competence, continuous learning, or skill development. While it touches on problem-solving and troubleshooting, these aspects are not framed within the context of competence as defined in Agile or DevOps methodologies. The discussion lacks depth in exploring the importance of competence in delivering quality outcomes or fostering a culture of continuous improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:59:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to Team Foundation Build 2012 and does not discuss Agentic Agility or its principles. There are no explicit mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is technical and procedural, lacking depth in the context of agency and intentionality.",
     "level": "Ignored"
   }
 }

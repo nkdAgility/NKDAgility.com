@@ -163,20 +163,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:58:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:43:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the upgrade of a development environment and integration with SharePoint, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the upgrade of a development environment and does not mention Evidence-Based Management or its key topics. It lacks any empirical evidence or data-informed decision-making discussions, focusing instead on technical aspects of software installation and integration.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:58:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:43:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the upgrade of Team Foundation Server and related technical aspects, with no focus on Agile principles or product-centric development.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the upgrade of Team Foundation Server (TFS) and Visual Studio, with no explicit mention of the Agile Product Operating Model or its principles. While it touches on project capabilities, it does not align with the core themes of transitioning to a product-oriented mindset or agile methodologies in product management. The discussion lacks depth regarding APOM, focusing instead on technical aspects of software development tools.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -316,11 +322,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:59:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:42:56",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the upgrade of Team Foundation Server and integration with SharePoint, which does not align with the core principles of DevOps.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the upgrade of Team Foundation Server (TFS) and Visual Studio, which are tools related to software development but do not explicitly address DevOps principles or practices. While there is a mention of integration and project capabilities, the focus is on specific software rather than the broader DevOps philosophy, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -703,11 +712,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:16:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:43:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses the upgrade and use of Team Foundation Server and Visual Studio 2005, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses an upgrade to Team Foundation Server (TFS) and the use of Visual Studio 2005, with no explicit mention of Continuous Delivery principles or practices. While it touches on aspects of software development, it lacks a focus on the core themes of Continuous Delivery, such as automation, incremental improvements, or user feedback. The discussion is superficial and does not provide depth on Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1342,11 +1354,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:16:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:43:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on upgrading a development environment and technical implementation details, not on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the upgrade of a development environment and does not mention the role or responsibilities of a Scrum Master. There is no alignment with Scrum principles or discussions on team dynamics, coaching, or organisational change, which are central to the Scrum Master category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1369,11 +1384,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:16:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:43:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses upgrading TFS and creating a project in Visual Studio, with no focus on Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses an upgrade to Team Foundation Server and Visual Studio, with no explicit mention of Test First Development principles, success criteria, or testing practices. It lacks any depth or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1437,6 +1455,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the upgrade of a development environment and mentions tools like TFS and Visual Studio, but it does not address the Shift-Left Strategy or its principles, benefits, or techniques. There is no focus on integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. Therefore, the confidence score is very low.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:42:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a personal experience with upgrading a development environment and does not discuss Common Goals or their significance in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth on the topic. Overall, it deviates significantly from the core concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:43:02",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the technical upgrade of a development environment and the use of specific tools, with minimal discussion on competence or continuous skill development. While there is a mention of creating a new project, it lacks depth in exploring the importance of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:43:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the upgrade process of TFS2008 and the use of Visual Studio 2005, with no explicit discussion on Continuous Improvement principles. While there is a mention of enhancing the development environment, it lacks depth and does not align with the core themes of Continuous Improvement, such as empirical evidence, team effectiveness, or a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:43:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the upgrade of a development environment and does not explicitly mention Agentic Agility or its key themes. There is no focus on intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is more about technical upgrades and project capabilities rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

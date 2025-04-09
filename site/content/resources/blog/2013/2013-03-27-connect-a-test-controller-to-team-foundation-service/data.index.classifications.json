@@ -1153,11 +1153,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:10:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:55:28",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses connecting a Test Controller to Team Foundation Service and the steps involved in configuration, without focusing on Test First Development principles or practices.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses connecting a Test Controller to Team Foundation Service, focusing on configuration and deployment rather than the principles of Test First Development. While it touches on automated testing, it lacks a clear emphasis on defining success criteria or the broader concepts of Test First Development, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1240,11 +1243,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:10:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:55:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses connecting a Test Controller to Team Foundation Service and does not relate to Scrum Master responsibilities or roles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of connecting a Test Controller to Team Foundation Service, with no direct mention of Scrum Master responsibilities or related concepts. It lacks discussion on Scrum principles, team dynamics, or the role of a Scrum Master, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1524,6 +1530,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the technical process of connecting a Test Controller to Team Foundation Service, with minimal discussion on competence or skill development. While it touches on configuration and troubleshooting, it lacks a deeper exploration of continuous learning or the importance of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:55:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for connecting a Test Controller to Team Foundation Service, with no explicit discussion of Agentic Agility or its principles. While there is a mention of configuration and deployment, it lacks depth in exploring intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities. Overall, it does not align with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -1192,12 +1192,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T18:55:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "While the content discusses agile practices and the importance of engineering practices, it does mention testing in relation to improving practices. However, Test First Development is not the central focus of the content.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile practices and the importance of good engineering practices but does not explicitly focus on Test First Development principles. While it mentions the need for working software and touches on technical debt, it lacks a clear emphasis on defining success criteria before implementation or the specifics of Test-Driven Development (TDD) and Acceptance Test-Driven Development (ATDD). The discussion is more about Scrum and Agile methodologies rather than the Test First approach itself.",
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
@@ -1273,14 +1276,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T05:19:58",
+    "calculated_at": "2025-04-08T18:55:39",
     "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
     "final_score": 72.0,
-    "reasoning": "The content discusses the role of the Scrum Master in relation to team performance and the importance of effective retrospectives, which aligns with the responsibilities of a Scrum Master. However, it also delves into broader Agile practices and technical debt, which detracts from a focused discussion on the Scrum Master role specifically.",
+    "reasoning": "The content discusses the role of the Scrum Master in relation to Scrum's effectiveness and the importance of good engineering practices. It explicitly mentions the Scrum Master as accountable for guiding the team and highlights the need for effective retrospectives, which aligns with the responsibilities of a Scrum Master. However, while it touches on these aspects, the primary focus is on the insufficiency of Scrum and engineering practices rather than a comprehensive exploration of the Scrum Master's role, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1585,5 +1588,17 @@
     "final_score": 73.0,
     "reasoning": "The content discusses the importance of good engineering practices and the role of effective Scrum Masters in ensuring team success, which aligns with the principles of competence. However, while it touches on these themes, the primary focus is more on the critique of Scrum and Agile methodologies rather than a deep exploration of competence itself. The discussion on technical debt and the need for continuous improvement hints at competence but lacks a thorough examination of skill development and mastery.",
     "level": "Secondary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:55:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the insufficiency of Scrum and the importance of engineering practices in Agile methodologies. While it touches on accountability and the need for effective Scrum Masters, it does not explicitly address the concept of Agentic Agility or its principles. The focus is more on Agile practices rather than the intentional shaping of outcomes through autonomy and adaptability, which are central to Agentic Agility.",
+    "level": "Ignored"
   }
 }

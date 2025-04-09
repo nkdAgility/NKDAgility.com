@@ -1144,11 +1144,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:39:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:08:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server and Visual Studio, with no mention of Test First Development or related principles and practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on upgrading Team Foundation Server and does not discuss Test First Development principles, success criteria, or testing practices. There are no mentions of TDD, ATDD, or any related concepts, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1234,11 +1237,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:39:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:08:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of upgrading TFS and does not relate to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on upgrading Team Foundation Server and does not mention the role or responsibilities of a Scrum Master. There is no discussion of Scrum principles, team dynamics, or coaching techniques, which are essential to the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1512,6 +1518,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the technical steps required to upgrade from TFS 2010 to Visual Studio 2012 Team Foundation Server. While it may imply a level of competence in handling software upgrades, it does not explicitly discuss the importance of continuous learning, skill development, or the role of competence in delivering quality outcomes. The discussion lacks depth regarding the foundational principles of competence in Agile or DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:08:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are core to the category. The content lacks depth in discussing any relevant themes related to Agentic Agility.",
     "level": "Ignored"
   }
 }

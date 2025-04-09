@@ -1207,11 +1207,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T17:09:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:00:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses virtual labs and their integration with development and operations, without a clear focus on Test First Development principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses virtual labs and their role in the application lifecycle, touching on automated testing and the complexities of modern application development. However, it does not explicitly focus on Test First Development principles or practices. While there are mentions of testing and automation, the primary focus is on the challenges and solutions related to virtual environments rather than on defining success criteria or the Test First approach itself.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1294,11 +1297,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T17:09:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:00:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses virtual labs and application lifecycle management, with no clear focus on the Scrum Master role or related responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses virtual labs and their role in the application lifecycle, with no direct mention of the Scrum Master role or its responsibilities. While it touches on agile development, it does not align with the core themes of the Scrum Master category, such as coaching, team dynamics, or organisational change. The discussion lacks depth regarding the Scrum Master's influence or practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1575,6 +1581,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges faced by Development and Operations teams in modern application development, touching on the need for skills and capabilities to manage complexity. However, it primarily focuses on the technical aspects of virtual labs and automation rather than explicitly addressing continuous learning or the development of competence as a foundational principle. While there are mentions of the need for skilled workers and the complexities of automation, the depth of discussion on competence itself is limited.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:00:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the use of virtual labs in the application lifecycle, focusing on operational challenges and automation in development and testing. While it touches on agility and the need for adaptability, it does not explicitly address the intentional shaping of outcomes or the principles of Agentic Agility. The discussion lacks depth in exploring the distinctions between human and AI capabilities, intent, or accountability, which are central to the category.",
     "level": "Ignored"
   }
 }

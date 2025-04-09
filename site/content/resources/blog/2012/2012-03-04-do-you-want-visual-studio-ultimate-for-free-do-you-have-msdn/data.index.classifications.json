@@ -1117,11 +1117,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:28:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:07:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on MSDN licensing and benefits for developers, with no clear discussion on Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses MSDN subscriptions and their benefits for developers, with no direct mention or alignment to Test First Development principles. It lacks any discussion on success criteria, testing practices, or the impact of testing on software delivery.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1201,11 +1204,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:28:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:07:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on MSDN subscriptions and software licensing for developers, with no relevant discussion on Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses MSDN subscriptions and their benefits for developers, with no direct mention of Scrum Master roles or responsibilities. It does not align with the core themes of the Scrum Master category, such as facilitating team effectiveness or promoting agile principles. The discussion lacks depth regarding Scrum practices or the impact of a Scrum Master on team dynamics.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1479,6 +1485,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the benefits of MSDN subscriptions for developers, which indirectly relates to competence by enhancing development skills. However, it primarily focuses on licensing and usage rights rather than the broader themes of continuous learning, skill development, or fostering a culture of competence. The depth of discussion on competence is limited, as it does not explore strategies for skill enhancement or the impact of competence on team dynamics.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:07:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses MSDN subscriptions and their benefits for developers, with no explicit mention of Agentic Agility or its principles. While there is a brief reference to individual licensing, it does not align with the core themes of intentionality, adaptability, or the interplay between human and AI capabilities. The focus is on software licensing rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

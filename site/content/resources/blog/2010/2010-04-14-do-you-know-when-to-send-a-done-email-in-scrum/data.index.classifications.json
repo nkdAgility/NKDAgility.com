@@ -1174,11 +1174,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T01:39:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:22:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses email communication in Scrum, with no focus on Test First Development or related principles.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the process of sending 'done' emails in Scrum, which is not directly related to Test First Development. While it mentions criteria for completion, it lacks a focus on defining success criteria before implementation or the principles of Test First Development. The discussion is more about communication and task completion rather than testing practices or methodologies.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1255,14 +1258,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T07:02:40",
-    "ai_confidence": 72.0,
-    "ai_mentions": 60.0,
-    "ai_alignment": 80.0,
-    "ai_depth": 70.0,
+    "calculated_at": "2025-04-08T19:22:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the practice of sending 'done' emails within the context of Scrum, which relates to the responsibilities of a Scrum Master in ensuring team communication and adherence to Scrum principles. It provides specific guidelines for both task and story completion, which aligns with the Scrum Master’s role in facilitating team processes. However, while it touches on important aspects of Scrum, it does not delve deeply into the broader responsibilities or coaching techniques of a Scrum Master, hence the score reflects a strong but not comprehensive alignment.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the practice of sending 'done' emails within the Scrum framework, which relates to communication and task completion. However, it does not explicitly focus on the role of the Scrum Master or their responsibilities. While it touches on team dynamics and validation of work, it lacks depth in exploring the Scrum Master's influence or techniques for coaching and facilitating. Therefore, while it is relevant to Scrum, it does not fully align with the primary focus of the Scrum Master category.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1551,6 +1554,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the procedural aspect of sending a 'done' email in Scrum, which is more about communication than competence. While it touches on the importance of validating the quality of work completed, it does not delve deeply into continuous learning, skill development, or the broader implications of competence in Agile methodologies. The discussion lacks substantial detail on fostering a culture of competence or the impact of competence on team dynamics and decision-making.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:22:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the procedural aspects of sending 'done' emails in Scrum, which does not align with the concept of Agentic Agility. It lacks discussions on intentional shaping of outcomes, autonomy, or adaptability, and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

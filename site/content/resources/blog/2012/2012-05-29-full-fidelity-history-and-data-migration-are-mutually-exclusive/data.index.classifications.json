@@ -1168,11 +1168,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:38:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:06:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses data migration challenges and compliance requirements, with no clear focus on Test First Development or related testing practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses data migration challenges and compliance requirements, with no explicit mention of Test First Development principles or practices. While it touches on the importance of traceability and compliance, it does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices. The discussion lacks depth regarding Test First methodologies, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1252,11 +1255,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:38:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:07:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses data migration challenges and technical requirements, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses data migration challenges in Team Foundation Server (TFS) and does not mention the role or responsibilities of a Scrum Master. While it touches on compliance and tractability, it lacks any direct relevance to Scrum practices or the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1530,6 +1536,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of data migration and the importance of maintaining compliance and tractability, which indirectly relates to competence in terms of ensuring quality and trust in software systems. However, it does not explicitly focus on continuous learning or skill development, nor does it provide in-depth strategies for fostering a culture of competence. The primary focus is on technical challenges rather than the broader implications of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:06:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the technical challenges of data migration and compliance in software systems, without explicitly addressing the concept of Agentic Agility. While it touches on decision-making and the importance of tractability, it lacks a focus on intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI agency. The discussion is more about procedural aspects rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

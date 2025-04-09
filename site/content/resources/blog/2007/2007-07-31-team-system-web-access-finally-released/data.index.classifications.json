@@ -163,20 +163,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:19:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:50:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release and features of Team System Web Access, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the release of a software tool and its features, with no explicit mention of Evidence-Based Management principles or metrics. While it touches on usability and stability, it lacks a focus on data-informed decision-making or empirical evidence, which are central to EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:19:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:50:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release and features of Team System Web Access and related technical issues, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the release of Team System Web Access and its features, with no explicit mention of the Agile Product Operating Model or its principles. While it touches on usability and stability, it does not align with the core themes of transitioning to a product-oriented mindset or agile methodologies in product management. The discussion lacks depth regarding APOM, focusing instead on specific product features and issues.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -325,14 +331,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T07:42:09",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-04-08T20:50:34",
+    "ai_confidence": 25.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
-    "ai_depth": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content briefly mentions Team System Web Access and TFS, which are tools related to DevOps, but it primarily focuses on personal experiences and issues encountered with these tools rather than discussing DevOps principles, practices, or cultural shifts. The discussion lacks depth in terms of DevOps concepts and does not provide a comprehensive view of the integration of people, processes, and tools in a DevOps context.",
+    "final_score": 22.0,
+    "reasoning": "The content discusses the release of Team System Web Access and its features, which are related to development tools but does not explicitly address DevOps principles or practices. While it mentions TFS (Team Foundation Server), which is a tool often used in DevOps environments, the focus is primarily on usability and specific issues rather than on the broader DevOps philosophy, such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -715,11 +721,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T22:09:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:51:02",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features and issues related to Team System Web Access and Team Foundation Server, which are not central to Continuous Delivery principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the release of Team System Web Access and its features, with no explicit mention of Continuous Delivery principles or practices. While it touches on usability and stability improvements, it lacks a focus on automation, incremental delivery, or user feedback, which are core themes of Continuous Delivery. The discussion is more about a specific product release rather than the broader practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1357,11 +1366,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T22:09:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:50:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Team System Web Access and related technical issues, with no clear reference to Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the release of Team System Web Access and its features, with no direct mention of the Scrum Master role or its responsibilities. While it touches on aspects of project management and usability, it does not align with the core themes of Scrum or the impact of a Scrum Master. The discussion lacks depth regarding Scrum practices or the influence of a Scrum Master on team dynamics.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1384,11 +1396,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T22:09:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:50:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on the release and features of Team System Web Access and issues related to work item management, with no mention of Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the release and features of Team System Web Access, with no explicit mention of Test First Development principles, success criteria, or testing practices. It focuses on usability improvements and issues related to TFS, which are not aligned with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1452,6 +1467,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the release of Team System Web Access and personal experiences with its features and issues. There are no explicit mentions of the Shift-Left Strategy, nor does it align with its core themes of integrating testing, security, or compliance early in the development process. The discussion lacks depth regarding any Shift-Left practices or methodologies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:50:36",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the release and features of Team System Web Access, with personal experiences and technical issues rather than discussing Common Goals in Agile or DevOps. While it mentions TFS and work item notifications, it does not connect these to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:50:40",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the release and features of Team System Web Access, focusing on usability improvements rather than on competence, continuous learning, or skill development. While there are mentions of issues and solutions related to the software, these do not directly address the core themes of competence as defined in the category. The discussion lacks depth in exploring how these tools contribute to professional development or quality outcomes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:50:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a software tool and its features, with minimal discussion on Continuous Improvement principles. While there are mentions of stability and usability enhancements, these do not align with the core themes of Continuous Improvement, such as empirical evidence or strategies for fostering a culture of experimentation. The depth of discussion is limited to personal experiences and issues encountered, lacking a broader context of continuous improvement practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:50:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the release of Team System Web Access and its features, with no explicit mention of Agentic Agility or its principles. It focuses on usability improvements and technical issues rather than the intentional shaping of outcomes or the interplay between human and AI capabilities. Therefore, it does not align with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

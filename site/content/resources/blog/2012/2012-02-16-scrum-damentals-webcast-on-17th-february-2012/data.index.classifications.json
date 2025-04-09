@@ -1192,11 +1192,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:09:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:09:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, with no focus on Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum methodologies and challenges rather than discussing Test First Development principles. There are no explicit mentions of Test First practices, success criteria, or testing methodologies related to TDD or ATDD. The discussion is centred around Scrum implementation strategies, which do not align with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1279,14 +1282,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T06:07:51",
+    "calculated_at": "2025-04-08T19:09:32",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
     "final_score": 61.0,
-    "reasoning": "The content discusses the complexities and challenges of Scrum, which aligns with the responsibilities of a Scrum Master. However, it lacks direct mentions of the Scrum Master role and does not delve deeply into specific practices or techniques relevant to Scrum Masters, resulting in a moderate confidence score.",
+    "reasoning": "The content discusses advanced Scrum strategies and challenges, which aligns with the responsibilities of a Scrum Master. However, it does not explicitly mention the Scrum Master role or its specific responsibilities, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1572,6 +1575,18 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses advanced Scrum strategies and challenges, which indirectly relates to competence in terms of skill development and overcoming obstacles in Scrum implementation. However, it lacks explicit discussions on continuous learning or the importance of competence as a foundational principle. The depth of discussion on challenges and strategies provides some insight into competence but does not fully align with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:09:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices and challenges, which are not directly related to the concept of Agentic Agility. While it discusses implementation strategies and challenges, it does not explicitly mention the intentional shaping of outcomes, autonomy, or adaptability in the context of Agentic Agility. The discussion lacks depth in exploring the principles or mechanisms of Agentic Agility, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

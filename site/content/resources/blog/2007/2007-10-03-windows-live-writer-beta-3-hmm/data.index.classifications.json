@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:15:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:29:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Windows Live Writer and does not address Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses personal experiences with Windows Live Writer Beta 3 and does not mention Evidence-Based Management or its key topics. There is no alignment with the core themes of EBM, and the depth of discussion is minimal, focusing instead on troubleshooting and download links.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:15:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:29:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Windows Live Writer and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a personal experience with Windows Live Writer Beta 3, discussing support issues and download links. It does not mention or align with any principles of the Agile Product Operating Model, nor does it provide any depth on related topics.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:15:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:29:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Windows Live Writer and troubleshooting, with no focus on DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a specific software application (Windows Live Writer) and personal experiences related to its support and download issues. There are no direct mentions of DevOps principles, practices, or cultural shifts, and the discussion does not align with the core themes of DevOps such as collaboration, automation, or shared accountability. The content lacks depth in any relevant DevOps context.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -691,11 +700,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T20:42:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:29:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about troubleshooting issues with Windows Live Writer and does not discuss Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a personal experience with Windows Live Writer Beta 3, focusing on troubleshooting and download issues. There are no direct mentions of Continuous Delivery principles, practices, or related topics. The discussion lacks any alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality. Overall, the content does not provide any depth on the subject, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1327,11 +1339,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T20:42:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:29:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on issues related to Windows Live Writer and troubleshooting software, with no mention of Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on Windows Live Writer and does not mention the Scrum Master role or any related concepts. It discusses technical support and download issues, which are unrelated to Scrum or agile methodologies.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1354,11 +1369,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T20:42:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:29:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on troubleshooting and downloading issues related to Windows Live Writer, without any mention of Test First Development or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses issues related to Windows Live Writer Beta 3 and does not mention or align with any principles of Test First Development. It focuses on troubleshooting and download links rather than testing practices or development methodologies.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1422,6 +1440,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses issues related to Windows Live Writer and does not mention or align with the principles of the Shift-Left Strategy in software development. It focuses on troubleshooting and downloading software rather than integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:29:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience with Windows Live Writer Beta 3 and does not discuss any aspects related to Common Goals in Agile or DevOps. There are no mentions of shared objectives, alignment, or strategic goals, which are central to the category. The discussion is anecdotal and technical, lacking any connection to the principles outlined in the Common Goals definition.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:29:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a personal experience with Windows Live Writer Beta 3 and does not address any aspects of competence, continuous learning, or skill development. It lacks direct mentions of competence and does not align with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:29:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting and sharing experiences related to Windows Live Writer Beta 3, with no substantial discussion on Continuous Improvement principles or practices. It lacks direct mentions of continuous improvement concepts, does not align with the core themes of the category, and provides minimal depth on any related topics.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:29:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a personal experience with Windows Live Writer Beta 3 and does not address any aspects of Agentic Agility. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, nor does it explore the interplay between human and AI capabilities. The focus is on troubleshooting and support rather than on the principles or mechanisms of Agentic Agility.",
     "level": "Ignored"
   }
 }

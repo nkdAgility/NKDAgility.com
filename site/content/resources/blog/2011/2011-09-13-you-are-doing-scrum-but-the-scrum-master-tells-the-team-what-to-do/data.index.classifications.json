@@ -1195,11 +1195,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:03:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:13:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content discusses Scrum roles and responsibilities but does not mention Test First Development or related practices like Test-Driven Development.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master and the importance of self-organisation within a Scrum team. While it touches on aspects of team dynamics and accountability, it does not directly address Test First Development principles, success criteria, or testing practices. The focus is on Scrum methodology rather than the specific practices of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1282,14 +1285,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T06:26:38",
+    "calculated_at": "2025-04-08T19:13:34",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
-    "ai_depth": 34,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
     "final_score": 80.0,
-    "reasoning": "The content explicitly discusses the role and responsibilities of the Scrum Master, emphasising the importance of servant leadership and self-organisation within the Scrum framework. It provides detailed insights into the Scrum Master's role in facilitating team dynamics, coaching, and ensuring the Development Team's autonomy. The depth of discussion is significant, covering various aspects of the Scrum Master's responsibilities and contrasting them with traditional project management roles. Overall, the content aligns closely with the key topics outlined for the Scrum Master category.",
+    "reasoning": "The content primarily focuses on the role of the Scrum Master, explicitly discussing their responsibilities and the importance of empowering the Development Team. It aligns well with key topics such as the distinction between the Scrum Master and Project Manager, the facilitation of self-organisation, and the Scrum Master's role in fostering team dynamics. The depth of discussion is significant, providing detailed insights into the Scrum Master's influence on team accountability and decision-making processes.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1585,5 +1588,17 @@
     "final_score": 70.0,
     "reasoning": "The content discusses the role of the Scrum Master in empowering the Development Team, emphasising the importance of knowledge and skills for self-organisation, which aligns with the principles of competence. It provides detailed insights into how competence is fostered through self-organisation and accountability, although it primarily focuses on Scrum roles rather than broader competence strategies.",
     "level": "Secondary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:13:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of the Scrum Master and the importance of self-organisation within a Scrum team, which touches on themes of autonomy and accountability. However, it primarily focuses on Scrum practices rather than explicitly addressing Agentic Agility as a concept. The discussion lacks depth in exploring the intentional shaping of outcomes and does not differentiate between human and AI capabilities, leading to a lower confidence score.",
+    "level": "Ignored"
   }
 }

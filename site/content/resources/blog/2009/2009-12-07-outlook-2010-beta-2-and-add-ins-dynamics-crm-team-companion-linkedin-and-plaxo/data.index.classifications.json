@@ -1129,11 +1129,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:46:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:26:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Outlook 2010 add-ins and their compatibility issues, with no mention of Test First Development or related testing practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the compatibility of Outlook 2010 with various add-ins and does not mention Test First Development or its principles. There is no focus on success criteria, testing practices, or any related concepts, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1216,11 +1219,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:46:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:26:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Outlook add-ins and technical issues unrelated to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the compatibility of Outlook 2010 with various add-ins, including Dynamics CRM, LinkedIn, and Team Companion. There are no direct mentions of the Scrum Master role or its responsibilities, nor does it align with the core themes of Scrum or agile principles. The discussion lacks depth regarding any Scrum-related topics, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1491,6 +1497,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the compatibility and functionality of Outlook 2010 with various add-ins, without discussing the concept of competence in terms of skill development or professionalism. While there are mentions of user experience and functionality, these do not align with the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:26:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the compatibility of Outlook 2010 with various add-ins, focusing on technical details and user experiences. It does not address the concept of Agentic Agility, nor does it explore themes of intentionality, autonomy, or adaptability in shaping outcomes. The discussion is centred around software functionality rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

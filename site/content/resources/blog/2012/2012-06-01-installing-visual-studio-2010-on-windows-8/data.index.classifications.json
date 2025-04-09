@@ -1123,11 +1123,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:31:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:06:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on installing Visual Studio 2010 on Windows 8 and does not discuss test first development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation of Visual Studio 2010 on Windows 8, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of Test First Development, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1210,11 +1213,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:31:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:06:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses software installation and technical details unrelated to Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the installation of Visual Studio 2010 on Windows 8, with no mention of Scrum, Scrum Masters, or related agile practices. It does not discuss any responsibilities, skills, or impacts of a Scrum Master, nor does it touch on team dynamics or stakeholder engagement. Therefore, it does not align with the category at all.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1488,6 +1494,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the technical process of installing Visual Studio 2010 on Windows 8, with minimal reference to competence in terms of skill development or professional growth. While it touches on the use of VMs and the efficiency of installations, it lacks a direct discussion on continuous learning, quality outcomes, or fostering a culture of competence, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:06:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Visual Studio 2010 on Windows 8, with no explicit discussion of Agentic Agility or its principles. While there are mentions of personal preferences and experiences related to software installation, these do not align with the core themes of intentionality, adaptability, or the interplay between human and AI capabilities. The content lacks depth in discussing any aspect of Agentic Agility, resulting in a very low confidence score.",
     "level": "Ignored"
   }
 }

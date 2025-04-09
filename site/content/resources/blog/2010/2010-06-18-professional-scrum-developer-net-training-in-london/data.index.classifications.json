@@ -1198,12 +1198,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T19:20:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content briefly discusses Test Driven Development (TDD) as part of a broader training on Scrum practices, but it is primarily focused on delivering software in a Scrum framework rather than emphasizing Test First Development as a core theme.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses the Professional Scrum Developer course, which includes elements of Test First Development, particularly through the mention of Test Driven Development (TDD) as a design tool. However, the primary focus of the content is on Scrum practices and the course structure rather than a dedicated exploration of Test First Development principles. While there are relevant mentions and some depth regarding TDD, the overall emphasis is more on Scrum and Agile methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Windows": {
     "category": "Windows",
@@ -1282,11 +1285,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T19:20:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the Professional Scrum Developer course which includes aspects related to Scrum roles and ceremonies, making Scrum Master a secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on a training course for software developers using the Scrum framework, with only brief mentions of the Scrum Master role. While it discusses Scrum principles and team dynamics, it lacks in-depth exploration of the Scrum Master's responsibilities, techniques, or influence on organisational change, which are key aspects of the category.",
     "level": "Tertiary"
   },
   "Transparency": {
@@ -1582,5 +1588,17 @@
     "final_score": 70.0,
     "reasoning": "The content primarily focuses on a training course designed to enhance skills in Scrum and .NET development. It discusses the importance of self-organising teams and the necessity for participants to commit to collaborative work, which aligns with the principles of competence. However, while it mentions skill development and teamwork, it lacks a deeper exploration of continuous learning and the broader implications of competence in Agile methodologies. The discussion is more promotional than analytical, which limits its depth.",
     "level": "Secondary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:20:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a Scrum Developer training course, discussing roles, practices, and tools within the Scrum framework. While it mentions self-organising teams, it does not explicitly address the concept of Agentic Agility or its principles. The discussion lacks depth regarding intentional shaping of outcomes, accountability, or the interplay between human and AI capabilities, which are central to the category.",
+    "level": "Ignored"
   }
 }

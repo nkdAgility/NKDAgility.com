@@ -163,20 +163,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:01:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:26:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and configuration of TFS 2008, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing TFS 2008, including setup and troubleshooting, with no direct mention of Evidence-Based Management principles or metrics. It lacks any discussion on data-informed decision-making or the core themes of EBM, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:01:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:26:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and configuration of TFS 2008, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses exclusively on the installation and configuration of TFS 2008, with no mention of agile methodologies, product management principles, or the Agile Product Operating Model. It does not discuss any relevant topics such as transitioning to a product ethos or operational stability in product delivery.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -319,11 +325,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:02:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:25:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and configuration of TFS 2008, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2008, which is a specific tool rather than a discussion on DevOps principles or practices. While it touches on aspects of deployment and integration, it lacks a broader discussion on collaboration, automation, or shared accountability that are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -706,11 +715,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T20:41:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:26:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and configuration process of TFS 2008, which is not related to Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2008, with no direct discussion of Continuous Delivery principles or practices. While it touches on deployment processes, it lacks depth in exploring automation, incremental improvements, or user feedback, which are core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1348,11 +1360,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T20:41:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:26:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on installing and configuring TFS 2008 and does not address any topics related to Scrum Masters or their role.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the installation and configuration of TFS 2008, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not discuss responsibilities, techniques, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1375,11 +1390,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T20:41:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:26:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on the installation and configuration of TFS 2008, without discussing Test First Development or related principles and practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2008, with no explicit discussion of Test First Development principles, success criteria, or testing practices. While it mentions creating a project, it does not delve into the testing methodologies or practices associated with Test First Development.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1443,6 +1461,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation and configuration of TFS 2008, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. It lacks any mention of Shift-Left principles or practices, and the details provided are more about technical setup rather than strategic approaches to software development.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:25:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing TFS 2008, including setup and troubleshooting, without discussing any shared objectives or alignment with Agile or DevOps principles. There are no direct mentions of Common Goals, and the discussion lacks depth in relation to the category's core themes.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:25:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing TFS 2008, including setup and troubleshooting. While it demonstrates some level of expertise, it does not explicitly discuss competence in the context of Agile, Scrum, or DevOps methodologies. The mention of 'expert tips' is vague and does not delve into continuous learning or skill development, which are key themes of the competence category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:25:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing TFS 2008, including setup and troubleshooting, with no explicit discussion of Continuous Improvement principles or practices. While there are mentions of problem-solving during the installation process, these do not align with the broader themes of Continuous Improvement, such as fostering a culture of experimentation or integrating improvement strategies into organisational processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:26:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing TFS 2008, including setup and troubleshooting, without any discussion of Agentic Agility principles, intent, or the interplay between human and AI capabilities. It does not address the intentional shaping of outcomes or the transformative capacity of individuals or systems, which are central to the category.",
     "level": "Ignored"
   }
 }

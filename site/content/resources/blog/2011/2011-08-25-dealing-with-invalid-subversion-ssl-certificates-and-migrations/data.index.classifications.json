@@ -1123,11 +1123,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T23:00:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:13:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on migrating data from Subversion to TFS, detailing troubleshooting issues, not on Test First Development or TDD principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses issues related to migrating from Subversion to TFS, focusing on SSL certificate errors and troubleshooting migration tools. There is no mention of Test First Development principles, success criteria, or testing practices, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1207,11 +1210,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T23:00:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:13:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is focused on technology migration issues and troubleshooting between Subversion and TFS, with no mention of Scrum roles, practices, or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical issues related to migrating from Subversion to TFS, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not discuss responsibilities, skills, or the impact of a Scrum Master, nor does it touch on agile principles or team dynamics.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on technical issues related to migrating from Subversion to TFS, specifically addressing SSL certificate errors. While it touches on problem-solving and troubleshooting, it does not explicitly discuss competence in the context of Agile, Scrum, or DevOps methodologies. The mention of needing to accept certificates could imply a basic level of competence in using version control tools, but this is not the primary focus of the content. Overall, the discussion lacks depth and alignment with the core themes of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:13:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical issues related to migrating from Subversion to TFS 2010, specifically addressing SSL certificate errors. There is no discussion of Agentic Agility, intentional shaping of outcomes, or the interplay between human and AI capabilities. The content lacks any relevant themes or depth related to the category.",
     "level": "Ignored"
   }
 }

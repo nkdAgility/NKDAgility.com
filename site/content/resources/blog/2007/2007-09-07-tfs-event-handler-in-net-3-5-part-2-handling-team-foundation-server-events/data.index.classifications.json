@@ -163,20 +163,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:36:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:35:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on technical implementation details of a Team Foundation Server Event Handler in .NET, with no discussion of Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details of a TFS Event Handler in .NET 3.5, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks any references to data-informed decision-making, current value metrics, or empirical decision-making, which are central to the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:36:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:34:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the implementation of a Team Foundation Server Event Handler in .NET, focusing on technical details rather than Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating a TFS Event Handler in .NET 3.5, discussing technical implementation details without any reference to Agile methodologies, product management principles, or the Agile Product Operating Model. There are no mentions of product-oriented mindsets, continuous delivery, or any of the key topics associated with the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -325,14 +331,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T07:38:55",
+    "calculated_at": "2025-04-08T20:34:43",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
+    "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily focuses on creating a Team Foundation Server Event Handler in .NET, which is more aligned with software development and integration rather than the broader principles of DevOps. While it touches on aspects of automation and integration, it lacks a comprehensive discussion on DevOps practices, cultural shifts, or metrics that define the category. The mention of TFS and WCF indicates some relevance to DevOps tools, but the overall focus is not on enhancing collaboration or continuous delivery, which are core to DevOps.",
+    "reasoning": "The content primarily focuses on creating a TFS Event Handler in .NET 3.5, which is more aligned with software development and integration rather than the broader DevOps philosophy. While it touches on aspects of automation and integration, it lacks a comprehensive discussion on key DevOps principles such as collaboration, shared accountability, and continuous improvement. The mention of TFS and event handling does not explicitly connect to the core themes of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -718,11 +724,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:53:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:35:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the creation and management of a Team Foundation Server (TFS) event handler in .NET, which is not directly related to Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on creating a TFS Event Handler in .NET 3.5, which is more about event handling and integration rather than Continuous Delivery practices. While it touches on aspects of automation and integration, it does not explicitly discuss Continuous Delivery principles, practices, or benefits. The discussion lacks depth in relation to Continuous Delivery, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1366,11 +1375,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:53:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:35:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on technical details of handling events in Team Foundation Server (TFS) and does not discuss the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating a TFS Event Handler in .NET 3.5, with no direct mention of the Scrum Master role or its responsibilities. While it discusses technical aspects of event handling, it does not align with the core themes of Scrum or the role of a Scrum Master, such as coaching, facilitating, or promoting agile principles.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1393,11 +1405,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:53:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:35:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content focuses on creating a Team Foundation Server Event Handler in .NET and does not discuss Test First Development or related principles such as Test-Driven Development (TDD).",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on creating a TFS Event Handler in .NET 3.5, discussing technical implementation details without addressing Test First Development principles, success criteria, or testing practices. There are no explicit mentions of Test First methodologies, and the discussion lacks depth in relation to the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1461,6 +1476,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on creating a Team Foundation Server Event Handler in .NET, detailing technical implementation aspects without discussing the Shift-Left Strategy or its principles. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it provide insights into the benefits or methodologies associated with the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:34:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical implementation details of a TFS Event Handler in .NET 3.5, with no explicit discussion of Common Goals, Agile, or DevOps principles. While it may touch on aspects of team collaboration indirectly through the context of TFS, it lacks a clear connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:34:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical implementation details of a TFS Event Handler in .NET 3.5, with no explicit discussion on competence, continuous learning, or skill development. While it may imply a level of competence in software development, it does not engage with the core themes of the 'Competence' category as defined.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:34:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical implementation details of a TFS Event Handler in .NET 3.5, with no explicit discussion of Continuous Improvement principles. While there are elements of enhancing development workflows, the content lacks a clear connection to the core themes of Continuous Improvement, such as empirical evidence, culture of experimentation, or strategies for integrating improvement into processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:34:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details of a TFS Event Handler in .NET 3.5, with no explicit discussion of Agentic Agility or its principles. It lacks any mention of intentional shaping of outcomes, autonomy, adaptability, or the interplay between human and AI capabilities. The content does not align with the core themes of Agentic Agility, and the depth of discussion is minimal, focusing instead on coding and technical configurations.",
     "level": "Ignored"
   }
 }

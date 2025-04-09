@@ -1177,11 +1177,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T23:27:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:15:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the implementation and automation aspects of the Tfs Automation Platform without addressing Test First Development, TDD principles, or related testing practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the implementation of automation for managing queries in the TFS Automation Platform, focusing on iteration management rather than the principles of Test First Development. There are no explicit mentions of success criteria, testing practices, or the role of testing in the development process, which are central to the Test First Development category. The discussion lacks depth in relation to the key topics outlined for Test First Development, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1258,11 +1261,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T23:27:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:15:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details related to the Tfs Automation Platform and does not address Scrum Master responsibilities, coaching, or team dynamics.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the implementation of automation within the TFS Automation Platform, focusing on technical aspects and query management across sprints. While it touches on concepts related to iterations, it does not explicitly mention the role or responsibilities of a Scrum Master, nor does it engage with the core themes of Scrum Master discussions such as coaching, team dynamics, or organisational change. The content lacks depth in relation to the Scrum Master role, making it only tangentially relevant.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1539,6 +1545,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the implementation of automation in the TFS Automation Platform, focusing on technical details and processes rather than on the development of skills or continuous learning. While there are some references to the need for efficiency and resilience in managing queries, these do not explicitly connect to the broader themes of competence, such as skill development or fostering a culture of competence. The discussion lacks depth in exploring how competence impacts team dynamics or decision-making.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:15:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the implementation of automation within the TFS Automation Platform, focusing on technical details and operational efficiency rather than the intentional shaping of outcomes through agency and adaptability. While there are elements of automation that could relate to agility, the discussion lacks a clear connection to the principles of Agentic Agility, such as intent, accountability, and the interplay between human judgement and AI logic.",
     "level": "Ignored"
   }
 }

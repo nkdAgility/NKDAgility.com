@@ -1051,11 +1051,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:04:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:39:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses blogging and personal contributions, which is unrelated to Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on the journey of bloggers and does not mention Test First Development or its principles. There is no discussion of success criteria, testing practices, or any related topics, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1240,11 +1243,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:04:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:39:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum Master roles, responsibilities, or related practices. It focuses on blogging and personal contributions.",
+    "final_score": 4.0,
+    "reasoning": "The content does not mention the Scrum Master role or its responsibilities at all. It focuses on the journey of bloggers, which is unrelated to Scrum or agile methodologies. There is no conceptual alignment with the key topics outlined for the Scrum Master category, and the depth of discussion is non-existent regarding Scrum principles.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1461,6 +1467,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content briefly mentions blogging and encourages participation, but it does not discuss competence, skill development, or any related themes. The focus is on personal stories rather than professional growth or quality delivery.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:39:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on encouraging individuals to share their voices in the blogosphere, which does not explicitly discuss Agentic Agility or its principles. While there is a mention of individuals contributing to knowledge, it lacks depth and alignment with the core themes of intentionality, adaptability, or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

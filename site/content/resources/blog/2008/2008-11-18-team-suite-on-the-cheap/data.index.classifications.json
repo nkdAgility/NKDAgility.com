@@ -1069,11 +1069,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:27:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:38:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a promotional offer for Visual Studio Team System rather than Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on promoting a discount for Visual Studio Team System 2008 and enhancing collaboration through the use of tools, without any direct mention or discussion of Test First Development principles, practices, or methodologies.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1264,11 +1267,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:27:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:38:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is mostly about Visual Studio Team System and its components, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a software product (Visual Studio Team System 2008) and does not discuss the role, responsibilities, or impact of a Scrum Master. There are no direct mentions of Scrum or related concepts, and the discussion lacks depth regarding any Scrum-related themes.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1488,6 +1494,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on promoting a software upgrade and does not discuss competence, continuous learning, or skill development. While it mentions enhancing collaboration, it does not delve into the principles of competence as defined in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:38:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a software upgrade for Visual Studio Team System, with no explicit discussion of Agentic Agility or its principles. While it mentions collaboration and development processes, these are general Agile practices and do not specifically address the intentional shaping of outcomes or the distinction between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

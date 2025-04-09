@@ -1126,11 +1126,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:29:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:27:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio 2010 Team Foundation Server, with no mention or focus on Test First Development or related testing principles and practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Team Foundation Server and does not discuss Test First Development principles, success criteria, or testing practices. There are no mentions of testing methodologies or practices related to Test First Development, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1213,11 +1216,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:29:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:27:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum, the role of a Scrum Master, or related Agile practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the installation of Visual Studio 2010 Team Foundation Server and does not mention the role or responsibilities of a Scrum Master. There is no discussion of Scrum principles, team dynamics, or any related topics that would align with the category. The content is technical and procedural, lacking any relevance to Scrum or the Scrum Master's influence.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1491,6 +1497,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Team Foundation Server, with no direct discussion of competence or related themes such as continuous learning, skill development, or professionalism. While it provides a step-by-step guide, it lacks depth in exploring the importance of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:27:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on the installation process of Visual Studio 2010 Team Foundation Server and does not discuss Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content is primarily technical and procedural, lacking any depth or alignment with the themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

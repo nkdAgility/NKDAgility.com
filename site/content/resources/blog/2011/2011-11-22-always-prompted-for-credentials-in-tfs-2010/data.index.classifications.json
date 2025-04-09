@@ -1120,11 +1120,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:11:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:11:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses issues related to TFS setup and user authentication, without any mention of Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses issues related to authentication in TFS 2010 and does not mention Test First Development or its principles. There is no alignment with the core themes of Test First Development, such as success criteria, testing practices, or collaboration among team members. The depth of discussion is focused on troubleshooting a specific technical issue rather than exploring any aspects of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1207,11 +1210,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:11:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:11:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical issues related to TFS authentication and Active Directory, which are unrelated to Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on troubleshooting an issue related to TFS 2010 and Active Directory, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on troubleshooting a technical issue related to TFS 2010 and Active Directory, with no explicit discussion of competence, continuous learning, or skill development. While it provides practical steps for resolving a problem, it does not align with the core themes of competence in Agile or DevOps environments.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:11:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting credential prompts in TFS 2010 and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is technical and procedural, lacking any depth or alignment with the themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

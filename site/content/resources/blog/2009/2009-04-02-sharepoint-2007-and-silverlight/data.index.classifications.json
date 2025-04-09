@@ -1123,11 +1123,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:33:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on Sharepoint and Silverlight development, with no discussion on Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the integration of SharePoint 2007 and Silverlight, discussing practical development skills and resources. There are no direct mentions of Test First Development principles, success criteria, or testing practices. The discussion lacks alignment with the core themes of Test First Development, and the depth of discussion is minimal, as it does not delve into any relevant testing methodologies or practices.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1210,11 +1213,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:33:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses primarily on SharePoint and Silverlight development, with no relevant discussion on the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on SharePoint 2007 and Silverlight, with no mention of Scrum, Scrum Masters, or related agile practices. It does not align with any of the key topics associated with the Scrum Master role, nor does it provide any depth or discussion relevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1485,6 +1491,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a specific book about SharePoint 2007 and Silverlight, discussing its practical applications and coding aspects. While it touches on enhancing development skills, it does not explicitly address the broader themes of competence, such as continuous learning or the importance of skill development in Agile or DevOps contexts. The discussion lacks depth regarding the principles of professionalism and quality delivery, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:33:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the integration of SharePoint 2007 and Silverlight, discussing practical development skills and resources. There are no direct mentions of Agentic Agility, nor does it align with the core themes of intentionality, autonomy, or adaptability. The discussion lacks depth regarding the transformative capacity of individuals or systems in socio-technical environments.",
     "level": "Ignored"
   }
 }

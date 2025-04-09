@@ -1156,11 +1156,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T23:50:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:16:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses hosting and server-side components of the Tfs Automation Platform, without addressing Test First Development concepts or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses hosting options for the TFS Automation Platform and server-side components, with no direct mention or exploration of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1243,11 +1246,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T23:50:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:16:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about hosting and managing the TFS Automation Platform with no reference to Scrum roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses hosting options for the TFS Automation Platform and does not mention the role or responsibilities of a Scrum Master. It lacks any direct references to Scrum principles, team dynamics, or the impact of a Scrum Master on organisational change, which are essential for alignment with the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1521,6 +1527,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily discusses hosting options for the TFS Automation Platform and does not focus on competence in terms of skill development or professionalism. While it touches on functionality and server-side components, it lacks explicit discussions on continuous learning, quality outcomes, or fostering a culture of competence. The mention of user support and functionality loss hints at operational competence but does not delve into the principles of competence as defined in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:16:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses hosting options for the TFS Automation Platform and does not explicitly address Agentic Agility or its principles. While there are mentions of functionality and server-side components, these do not align with the core themes of intentionality, adaptability, or the transformative capacity of individuals and systems. The discussion lacks depth regarding the interplay between human judgement and AI logic, and does not provide examples or case studies related to Agentic Agility.",
     "level": "Ignored"
   }
 }

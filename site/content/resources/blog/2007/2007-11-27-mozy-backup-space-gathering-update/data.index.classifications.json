@@ -154,20 +154,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:41:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:21:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal referrals and experiences with a backup service, lacking any focus on evidence-based management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences with a backup service and referral bonuses, lacking any discussion on evidence-based management principles or metrics. It does not align with the core themes of EBM, such as data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:41:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:21:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about personal referrals for a backup service and does not discuss Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses personal experiences with Mozy backup space and referrals, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any relevant topics outlined in the APOM definition. The focus is entirely on a personal quest for storage space, lacking any depth or alignment with the category.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -307,11 +313,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:41:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:20:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with a backup service and referral bonuses, which is unrelated to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences with a backup service and referral bonuses, with no direct mention of DevOps principles, practices, or cultural shifts. It lacks any discussion on collaboration, automation, or shared accountability, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -685,11 +694,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:08:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:21:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with a backup service and referral bonuses, which is unrelated to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences with a backup service and referral bonuses, with no direct mention or discussion of Continuous Delivery principles, practices, or related topics. It lacks any relevant depth or alignment with the category's core themes.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1315,11 +1327,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:08:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:21:03",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on personal referrals and online backup services, with no mention of Scrum or the role of a Scrum Master.",
+    "reasoning": "The content is entirely focused on personal experiences with a backup service and does not mention or relate to the role, responsibilities, or impact of a Scrum Master in any way. There are no discussions of Scrum principles, team dynamics, or agile methodologies, which are essential for alignment with the Scrum Master category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1342,11 +1357,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:08:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:21:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses referral bonuses and personal experiences with a backup service, which is unrelated to Test First Development or its principles.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on personal experiences with Mozy backup space and referrals, with no mention or discussion of Test First Development principles, success criteria, or testing practices. It does not align with the core themes of the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1410,6 +1428,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses personal experiences with a backup service and referral bonuses, with no mention of software development processes, testing, security, or compliance. It does not align with the Shift-Left Strategy in any meaningful way.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:20:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal efforts to gain free storage space through referrals for a backup service. It does not discuss or align with the principles of Common Goals in Agile or DevOps, such as shared objectives, team alignment, or strategic commitments. The mention of referrals is more about individual gain rather than collective goals or team collaboration, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:20:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on gathering referrals for a backup service and does not discuss competence, continuous learning, or skill development. There are no direct mentions of competence or related themes, and the depth of discussion is minimal, primarily revolving around personal experiences with the service.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:20:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences with a referral programme for Mozy backup space, lacking any substantial discussion on Continuous Improvement principles. While there is a mention of maximising online backup experience, it does not align with the core themes of Continuous Improvement, such as data-driven decision-making or fostering a culture of experimentation. The content does not provide depth or detail on Continuous Improvement strategies or practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:20:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences with a referral programme for a backup service, lacking any discussion on intentional shaping of outcomes, autonomy, or adaptability. It does not address the principles of Agentic Agility or differentiate between human and AI capabilities.",
     "level": "Ignored"
   }
 }

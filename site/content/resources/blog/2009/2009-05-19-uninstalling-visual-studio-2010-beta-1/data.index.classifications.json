@@ -1114,11 +1114,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:31:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on uninstalling Visual Studio 2010 and discusses issues related to .NET 4.0, with no mention or discussion of Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content focuses on uninstalling Visual Studio 2010 and troubleshooting related issues, with no discussion of Test First Development principles, success criteria, or testing practices. It does not align with the core themes of the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1201,11 +1204,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:31:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is focused on the uninstallation of Visual Studio software and does not discuss Scrum Master responsibilities, practices, or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on uninstalling Visual Studio 2010 Beta 1 and does not mention the role or responsibilities of a Scrum Master, nor does it discuss any related concepts or practices within the Scrum framework. There is no relevance to Scrum or agile methodologies.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1479,6 +1485,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the technical process of uninstalling Visual Studio 2010 Beta 1, with minimal reference to competence or skill development. While it touches on troubleshooting and problem-solving, these aspects are not explicitly linked to the broader themes of competence in Agile or DevOps contexts. The discussion lacks depth and does not foster a culture of continuous learning or professional development.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:31:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical process of uninstalling Visual Studio 2010 Beta 1, with no explicit discussion of Agentic Agility or its principles. While there are elements of problem-solving and adaptability in the author's approach, these do not align with the core themes of intentionality and agency in shaping outcomes as defined in the category.",
     "level": "Ignored"
   }
 }

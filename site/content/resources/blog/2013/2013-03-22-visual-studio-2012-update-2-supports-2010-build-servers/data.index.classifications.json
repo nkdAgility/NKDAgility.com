@@ -1153,11 +1153,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:12:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:55:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the compatibility of Visual Studio and Team Foundation Server versions, with no focus on Test First Development or related principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the integration of Visual Studio 2012 with 2010 Build Servers, focusing on upgrade paths and configuration details. It does not mention Test First Development principles, success criteria, or any testing methodologies related to Test First practices. The discussion is centred around build infrastructure rather than testing strategies, leading to a very low confidence score in relation to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1240,11 +1243,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:12:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:55:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical upgrade of Visual Studio and Team Foundation Server, with no mention of Scrum or the role of the Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical aspects of Visual Studio and Team Foundation Server, with no direct mention of Scrum Master responsibilities or related concepts. It lacks any discussion on agile principles, team dynamics, or the role of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1515,6 +1521,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the technical aspects of integrating Visual Studio 2012 with 2010 Build Servers, discussing upgrade paths and configuration details. While it touches on the challenges of upgrading workflows, it does not explicitly address the concept of competence or continuous skill development in a professional context. The discussion lacks depth in relation to the principles of competence, such as fostering a culture of learning or the impact of competence on team dynamics.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:55:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of integrating Visual Studio 2012 with 2010 Build Servers, discussing upgrade paths and configuration details. It does not address the concept of Agentic Agility, nor does it explore themes of intentionality, autonomy, or adaptability in the context of human or AI agency.",
     "level": "Ignored"
   }
 }

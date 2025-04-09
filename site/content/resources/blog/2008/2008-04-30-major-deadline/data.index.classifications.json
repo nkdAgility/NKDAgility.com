@@ -163,20 +163,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:18:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:54:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal project involving SharePoint migration and development challenges, without any focus on evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the challenges of managing a SharePoint migration project and does not focus on Evidence-Based Management principles. While there are mentions of project management and innovation, there is no explicit discussion of empirical evidence, metrics, or data-informed decision-making that are central to EBM. The content lacks depth in relation to the key topics outlined for EBM, such as current value, time to market, or outcome management.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:18:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:54:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a project involving SharePoint migration and technical challenges, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the challenges of managing a SharePoint migration project, focusing on project management issues rather than the Agile Product Operating Model. There are no direct mentions of agile principles, product management practices, or the core themes of APOM. The discussion is centred around project deadlines and technical challenges, lacking depth in agile methodologies or product-oriented mindsets.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -325,11 +331,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:18:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:54:15",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a project involving SharePoint migration and personal experiences, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses a SharePoint migration project, focusing on challenges and solutions related to project management rather than DevOps principles. While there are elements of urgency and collaboration implied, the core themes of DevOps, such as automation, shared accountability, and continuous improvement, are not explicitly addressed. The discussion lacks depth in relation to DevOps practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -718,11 +727,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:48:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:54:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on a project involving SharePoint migration and custom development, with no clear discussion on Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the challenges of managing a SharePoint migration project and does not explicitly mention Continuous Delivery principles or practices. While there are elements of project management and urgency in deployment, the focus is on problem-solving within a specific project context rather than on Continuous Delivery as a disciplined practice. The discussion lacks depth in terms of Continuous Delivery concepts, automation, or cultural aspects, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1381,11 +1393,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:48:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:54:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical challenges related to SharePoint and project deadlines without any specific references to the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a SharePoint migration project and the challenges faced in managing it. There are no direct mentions of the Scrum Master role or its responsibilities. While there are elements of project management and urgency, the content does not align with the core themes of the Scrum Master category, such as facilitating team effectiveness or promoting agile principles. The discussion lacks depth regarding Scrum practices or the influence of a Scrum Master on team dynamics.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1408,11 +1423,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:48:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:54:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges of migrating and managing a SharePoint Portal, with no mention of Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the challenges of managing a SharePoint migration project and does not mention Test First Development principles, success criteria, or any testing methodologies. It focuses on project management and technical issues rather than the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1476,6 +1494,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a project involving SharePoint migration and the challenges faced, with no explicit mention of the Shift-Left Strategy or its principles. While there are elements of project management and deadlines, the focus is not on integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T19:54:18",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the challenges of managing a SharePoint migration project and the urgency of meeting a deadline. While it touches on project management aspects, it lacks explicit discussions on Common Goals within Agile or DevOps frameworks. The mention of a deployment schedule hints at alignment with objectives, but it does not delve into the significance of shared goals or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T19:54:21",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses a project involving SharePoint migration and the challenges faced, but it primarily focuses on the project management aspects and technical difficulties rather than on competence as a foundational principle. While there are hints of skill development and problem-solving, the discussion lacks depth in exploring continuous learning or the role of competence in delivering quality outcomes. The mention of being the only .NET developer in EMEA suggests a level of competence, but it is not the primary focus of the content.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T19:54:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses a project involving SharePoint migration and the challenges faced, but it does not explicitly mention Continuous Improvement principles. While there is some alignment with the themes of adaptation and problem-solving, the focus is primarily on project management and immediate solutions rather than a systematic approach to Continuous Improvement. The depth of discussion on Continuous Improvement concepts is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:54:30",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the challenges of managing a SharePoint migration project and the urgency of meeting a deadline. While it touches on problem-solving and adapting to project demands, it lacks explicit discussions on Agentic Agility principles such as intentional shaping of outcomes, the role of intent, or the interplay between human and AI capabilities. The focus is more on project management and technical challenges rather than on the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

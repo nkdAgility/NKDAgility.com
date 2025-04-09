@@ -1204,11 +1204,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:30:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:55:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on organizational and design considerations for using Team Foundation Server 2012, with no clear discussion of Test First Development or related topics like Test-Driven Development (TDD).",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the management and organisational aspects of using Team Foundation Server 2012, focusing on team structures, project hierarchies, and administrative workflows. It does not explicitly mention Test First Development principles, success criteria, or testing practices, which are central to the category. While there are references to automation and workflows, they are not framed within the context of testing or quality assurance, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1288,11 +1291,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:30:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:55:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses Team Foundation Server (TFS) and its design considerations for managing projects and teams. It does not specifically address the role or responsibilities of a Scrum Master or any related Scrum practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Team Foundation Server (TFS) and its management practices rather than discussing the role or responsibilities of a Scrum Master. While it briefly touches on agile concepts, it does not delve into the specific functions or impact of a Scrum Master within a Scrum Team, nor does it provide any substantial insights into coaching, mentoring, or facilitating in a Scrum context.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1575,6 +1581,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses best practices and design considerations for managing a Team Project in TFS 2012, which indirectly touches on competence through the need for effective organisation and workflow management. However, it lacks a direct focus on continuous learning, skill development, or the core themes of competence as defined in Agile and DevOps contexts. The depth of discussion on related topics is moderate, but it does not sufficiently explore the principles of professionalism and quality delivery.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:55:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on best practices for managing a Team Project in TFS 2012, discussing design considerations and technical restrictions. While it touches on aspects of team organisation and flexibility, it does not explicitly address the concept of Agentic Agility, such as intentional shaping of outcomes or the interplay between human and AI capabilities. The discussion lacks depth in exploring the principles of Agentic Agility, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   }
 }

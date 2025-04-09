@@ -1345,20 +1345,26 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T15:39:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:59:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical integration of Project Server and Team Foundation Server, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on integrating Project Server with Team Foundation Server, discussing technical installation and configuration steps. While it briefly touches on project management concepts, it does not explicitly mention the role or responsibilities of a Scrum Master, nor does it delve into Scrum practices or principles. Therefore, it lacks direct mentions and depth in relation to the Scrum Master category.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T15:39:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:59:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, without any mention of Test First Development principles or practices.",
+    "final_score": 8.0,
+    "reasoning": "The content primarily focuses on integrating Project Server 2013 with Team Foundation Server 2012, discussing installation and configuration processes without any mention of Test First Development principles, success criteria, or testing practices. It lacks any relevant discussions on manual or automated testing, making it largely irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Software Developers": {
@@ -1581,6 +1587,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, with limited discussion on competence. While it touches on the importance of solid agile processes, it does not delve deeply into continuous learning, skill development, or the role of competence in delivering quality outcomes. The mention of agile processes is brief and does not explore strategies for fostering a culture of competence or the impact of competence on decision-making.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:58:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, lacking explicit discussions on Agentic Agility. While it touches on project management and collaboration, it does not delve into the intentional shaping of outcomes, autonomy, or adaptability as defined in the category. The mention of agile processes is too general and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

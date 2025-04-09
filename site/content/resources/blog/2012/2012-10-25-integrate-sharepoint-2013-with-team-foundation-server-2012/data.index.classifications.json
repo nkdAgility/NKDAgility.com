@@ -1159,11 +1159,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T16:37:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:59:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the integration of SharePoint 2013 with Team Foundation Server 2012, with no mention of Test First Development principles or practices.",
+    "final_score": 8.0,
+    "reasoning": "The content primarily focuses on integrating SharePoint 2013 with Team Foundation Server 2012, discussing installation and configuration steps without any reference to Test First Development principles, success criteria, or testing practices.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1246,11 +1249,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T16:38:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:59:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on integrating SharePoint with Team Foundation Server, with no clear discussion on the role or responsibilities of a Scrum Master.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2013 with Team Foundation Server 2012, with only a brief mention of Scrum in the context of enabling Scrum dashboards. The discussion lacks depth regarding the role and responsibilities of a Scrum Master, and does not align with the core themes of the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1527,6 +1533,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the technical integration of SharePoint 2013 with Team Foundation Server 2012, providing step-by-step instructions and troubleshooting tips. While there are brief mentions of the need for updates and configuration, it lacks a substantial discussion on continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The emphasis is on practical execution rather than on fostering a culture of competence or professional growth.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:59:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2013 with Team Foundation Server 2012, lacking any discussion on the intentional shaping of outcomes, autonomy, or adaptability. It does not address the principles of Agentic Agility or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

@@ -1123,11 +1123,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:10:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:24:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses new features in Visual Studio, Silverlight, ASP.NET MVC, and Windows Phone 7, without a clear focus on Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses new features and updates related to Visual Studio, Silverlight, ASP.NET MVC, and Windows Phone 7, with no explicit mention or focus on Test First Development principles, practices, or methodologies. While there is a brief mention of TDD in relation to ASP.NET MVC, it is not the main focus of the content, which is more about product features and personal experiences at an event.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1207,11 +1210,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:10:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:24:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses various technical aspects related to software development and tools without any reference to the Scrum Master role or Scrum practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a technology event featuring Scott Guthrie discussing Visual Studio, Silverlight, and Windows Phone, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics or responsibilities associated with the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1485,6 +1491,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the features and updates of Visual Studio 2010, Silverlight 4, and Windows Phone 7, without discussing the concept of competence or its relevance to Agile, Scrum, or DevOps methodologies. While there are mentions of development tools and practices, they do not connect to the principles of continuous learning or skill development that define competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:24:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Scott Guthrie's presentation about Visual Studio 2010, Silverlight 4, and Windows Phone 7, with no explicit discussion of Agentic Agility or its principles. While there are mentions of software development and tools, these do not align with the core themes of intentionality, autonomy, or adaptability in shaping outcomes, which are central to Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -1087,11 +1087,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:37:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:40:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a hosted service offering for TFS (Team Foundation Server) without any reference to Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses hosted TFS solutions and related services without any mention of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or focus on the Test First approach, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1282,11 +1285,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:37:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:40:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses TFS hosting services and technical details, with no focus on Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses hosted TFS solutions and does not mention the role or responsibilities of a Scrum Master. There is minimal conceptual alignment with Scrum principles, and the depth of discussion regarding Scrum Masters is virtually non-existent.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1506,6 +1512,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a hosted TFS service and its features, with minimal discussion on competence or skill development. While it mentions support and training, these are not explored in depth or connected to the broader themes of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:40:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a hosted TFS service and its features, with no explicit mention of Agentic Agility or its principles. While it touches on aspects of productivity and service offerings, it lacks a focus on intentional shaping of outcomes, autonomy, or adaptability, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

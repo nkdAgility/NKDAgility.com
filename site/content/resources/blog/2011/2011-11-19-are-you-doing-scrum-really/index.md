@@ -34,10 +34,10 @@ tags:
 - Scrum Product Development
 - Professional Scrum
 - People and Process
-- Scrum Master
 - Agile Product Management
 - News and Reviews
 - Software Developers
+- Agile Transformation
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-3-3.png

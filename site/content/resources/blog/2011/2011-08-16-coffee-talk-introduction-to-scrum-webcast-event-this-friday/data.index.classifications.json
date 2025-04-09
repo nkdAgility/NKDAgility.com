@@ -1171,11 +1171,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:42:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:14:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and processes, focusing on the Scrum framework rather than Test First Development principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum, discussing its roles and processes without any mention of Test First Development principles or practices. There is no explicit discussion of success criteria, testing methodologies, or the importance of testing in the context of Scrum, which is essential for alignment with the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1252,14 +1255,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T06:28:29",
+    "calculated_at": "2025-04-08T19:14:05",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
     "final_score": 62.0,
-    "reasoning": "The content discusses Scrum and its roles, indicating a focus on the Scrum framework. However, it primarily serves as an introduction to Scrum rather than a detailed exploration of the Scrum Master role specifically. While it mentions Scrum roles and processes, it lacks in-depth discussion on the responsibilities and practices of a Scrum Master, which limits its alignment with the category.",
+    "reasoning": "The content discusses Scrum and its roles, indicating a focus on the Scrum framework. However, while it mentions Scrum roles, it does not delve deeply into the specific responsibilities or impact of the Scrum Master. The discussion is more about an introductory event rather than a detailed exploration of the Scrum Master's role, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1542,6 +1545,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on introducing Scrum and its roles, which are related to Agile practices. However, it lacks a direct discussion on competence as a foundational principle. While it mentions enhancing agile practices and boosting team performance, it does not delve into continuous learning, skill development, or the importance of competence in delivering quality outcomes. The depth of discussion is limited to an introduction rather than a thorough exploration of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:14:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum methodology and its roles, processes, and practices, which are not directly related to the concept of Agentic Agility. While it discusses agile practices, it does not explicitly mention or explore the intentional shaping of outcomes, autonomy, or adaptability in the context of Agentic Agility. The discussion lacks depth regarding the principles and mechanisms of Agentic Agility, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

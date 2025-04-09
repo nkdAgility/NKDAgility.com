@@ -1129,11 +1129,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:46:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:00:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on promotional aspects of Team Companion and its license giveaway, with no discussion on Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a product (Team Companion) and does not discuss any principles or practices related to Test First Development. There are no mentions of success criteria, testing methodologies, or any relevant topics that align with the category.",
     "level": "Ignored"
   },
   "Scaled Agile": {
@@ -1183,11 +1186,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:46:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:00:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a software tool (Team Companion) and its licensing, without any relevant mention of Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a product (Team Companion) and does not discuss the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, team dynamics, or the impact of a Scrum Master, which are essential for alignment with the category.",
     "level": "Ignored"
   },
   "Continuous Integration": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on promoting a software tool and does not discuss competence, continuous learning, or skill development. While it mentions a product that may enhance team collaboration, it lacks any substantial discussion on the principles of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:00:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a product and providing instructions on how to obtain a free licence for Team Companion. It does not discuss Agentic Agility, its principles, or any related concepts. The mention of enhancing TFS experience is too vague and does not align with the core themes of intentionality or agency.",
     "level": "Ignored"
   }
 }

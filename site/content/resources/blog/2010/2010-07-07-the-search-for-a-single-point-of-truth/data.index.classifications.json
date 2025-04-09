@@ -1126,11 +1126,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T01:06:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:20:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content mainly discusses contact synchronization and related software tools, with no focus on Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses strategies for syncing contacts across various platforms, which is unrelated to Test First Development principles. There are no direct mentions of testing practices, success criteria, or any related concepts that align with the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1213,11 +1216,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T01:06:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:20:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses personal experiences with contact synchronization tools and services, which is unrelated to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on contact syncing strategies and tools, with no mention or relevance to the role or responsibilities of a Scrum Master. It does not discuss any Scrum principles, team dynamics, or agile methodologies, which are essential for the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1488,6 +1494,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses strategies for syncing contacts across various platforms, which does not directly relate to the concept of competence in Agile, Scrum, DevOps, or Lean methodologies. While there are mentions of tools and services, there is no focus on continuous learning, skill development, or the professional principles associated with competence. The discussion lacks depth and does not align with the key topics outlined in the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:20:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses strategies for syncing contacts across various platforms, which does not align with the core themes of Agentic Agility. While there are mentions of achieving a 'single point of truth' and some elements of intentionality in managing contacts, the focus is on technical solutions rather than the transformative capacity of individuals or systems in a socio-technical environment. There is no substantial discussion on the principles of Agentic Agility, nor does it differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

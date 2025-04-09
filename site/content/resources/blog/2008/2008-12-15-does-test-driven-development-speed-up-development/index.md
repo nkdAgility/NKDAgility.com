@@ -33,7 +33,6 @@ tags:
 - Engineering Practices
 - Technical Excellence
 - Software Developers
-- Test First Development
 - Technical Mastery
 categories:
 - Engineering Excellence

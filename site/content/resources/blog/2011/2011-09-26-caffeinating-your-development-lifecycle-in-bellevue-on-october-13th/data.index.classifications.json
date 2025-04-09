@@ -1201,11 +1201,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:42:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:13:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on an event for discussions related to Agile and Application Lifecycle Management, but does not specifically address Test First Development or related concepts like Test-Driven Development.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on an event promoting Agile discussions and live demonstrations of Visual Studio, with no explicit mention of Test First Development principles or practices. While it briefly touches on Application Lifecycle Management (ALM), it does not delve into the specifics of Test First methodologies, success criteria, or testing practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1288,11 +1291,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:42:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:13:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on an event about Application Lifecycle Management and Agile discussions, rather than specifically addressing the role and responsibilities of a Scrum Master.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on an event promoting Agile discussions and live demos, but it does not explicitly mention the role of a Scrum Master or delve into the responsibilities, skills, or impact associated with that role. While Agile principles are briefly referenced, the discussion lacks depth and does not align with the core themes of the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1578,6 +1584,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Agile discussions and practical advice related to development processes, which aligns with the concept of competence. However, it lacks a detailed exploration of continuous learning, skill development, or the impact of competence on team dynamics. The focus is more on promoting an event rather than a thorough discussion of competence as a foundational principle.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:12:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on an event promoting Agile discussions and live demos, but it does not explicitly mention Agentic Agility or its principles. While there are references to Agile practices, they do not delve into the intentional shaping of outcomes or the distinction between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

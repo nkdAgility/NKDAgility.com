@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:48:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:01:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with updating a mobile operating system and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a personal experience with updating a mobile operating system, lacking any direct mention or alignment with Evidence-Based Management principles. It does not address data-informed decision-making or any of the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:48:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:01:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses updating a mobile operating system and personal experiences with ROMs, which is unrelated to the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on updating a mobile operating system and does not mention or align with any principles of the Agile Product Operating Model. It lacks any discussion of agile methodologies, product management, or related concepts.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:48:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:01:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses updating a mobile operating system and personal experiences with ROMs, which is unrelated to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses updating a mobile operating system and personal experiences with ROMs, which does not align with the principles or practices of DevOps. There are no direct mentions of DevOps concepts, and the discussion lacks depth or relevance to the category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -691,11 +700,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T22:06:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:01:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses updating a phone's operating system and ROM cooking, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses updating a mobile operating system and personal experiences with ROMs, which does not align with the principles or practices of Continuous Delivery. There are no direct mentions of Continuous Delivery concepts, and the discussion lacks depth on any related topics such as automation, incremental improvements, or software quality.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1330,11 +1342,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T22:06:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:01:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 1.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on updating mobile software and does not relate to Scrum Masters or their responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content is entirely focused on a technical discussion about updating a mobile operating system and does not mention or relate to the role of a Scrum Master or any Scrum-related concepts. There are no direct mentions of Scrum, agile principles, or the responsibilities of a Scrum Master, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1357,20 +1372,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T22:06:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:01:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on phone updates and custom ROMs, with no relation to Test First Development or Agile practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses updating a mobile operating system and personal experiences with ROMs, which is unrelated to Test First Development principles. There are no direct mentions of testing practices, success criteria, or any related concepts, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:29:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:01:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with updating a mobile operating system and does not relate to Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on updating a mobile operating system and personal experiences with ROMs, which does not align with the themes of collaboration, decision-making, or value delivery in organisations. There are no direct mentions of social technologies or their principles, and the discussion lacks depth in relation to the category.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1422,6 +1443,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses personal experiences with updating a mobile operating system and does not address any aspects of the Shift-Left Strategy in software development. There are no mentions of testing, security, or compliance processes, nor any techniques or methodologies related to integrating these elements early in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T21:01:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences and technical details related to updating a mobile operating system. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T21:01:31",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on personal experiences with updating a mobile operating system and does not explicitly discuss competence in the context of Agile, Scrum, or DevOps. While there are mentions of needing some background knowledge to perform updates, this is not a central theme, and the discussion lacks depth regarding continuous learning or skill development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T21:01:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal experiences with updating a mobile operating system, which does not align with the principles of Continuous Improvement. While there are mentions of updates and improvements, they are anecdotal and lack a structured discussion on processes, empirical evidence, or strategies for fostering a culture of experimentation and learning. The content does not provide depth or detail on Continuous Improvement methodologies or their impact on team effectiveness.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T21:01:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on updating a mobile operating system and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI systems. The discussion is technical and practical, lacking any alignment with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

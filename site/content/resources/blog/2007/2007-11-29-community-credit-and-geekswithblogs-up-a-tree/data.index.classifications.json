@@ -154,20 +154,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:36:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:19:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of two platforms and does not address Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the integration of GeeksWithBlogs and Community Credit, with no explicit mention of Evidence-Based Management or its core themes. It lacks any relevant metrics, empirical decision-making, or discussions on value delivery, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:36:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:19:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of two platforms without any reference to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the integration of two platforms, GeeksWithBlogs and Community Credit, with no relevant discussion on Agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any direct mentions or alignment with the key topics outlined in the category description.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:36:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:19:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of two platforms without any reference to DevOps principles, practices, or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the integration of two platforms, GeeksWithBlogs and Community Credit, without any mention or discussion of DevOps principles, practices, or cultural shifts. It lacks direct references to DevOps concepts such as collaboration, automation, or shared accountability, and does not provide any depth on the topic. Therefore, it does not align with the DevOps category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -688,11 +697,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T20:05:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:19:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the integration of GeeksWithBlogs and Community Credit, with no relevant discussion on Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the integration of two platforms, GeeksWithBlogs and Community Credit, without any reference to Continuous Delivery principles, practices, or related topics. There are no explicit mentions of automation, testing, deployment, or any of the key themes associated with Continuous Delivery. The focus is on a celebratory announcement rather than a discussion of software delivery practices.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1318,11 +1330,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T20:05:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:19:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Scrum or the role of Scrum Master, focusing instead on the integration of two online platforms.",
+    "final_score": 4.0,
+    "reasoning": "The content does not mention the Scrum Master role or its responsibilities at all. It focuses on the integration of two platforms, which is unrelated to Scrum principles or the role of a Scrum Master. There is no discussion of Scrum practices, team dynamics, or organisational change, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1345,11 +1360,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T20:05:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:19:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses integration between GeeksWithBlogs and Community Credit, with no mention of Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the integration of two platforms, GeeksWithBlogs and Community Credit, without any reference to Test First Development principles, success criteria, or testing practices. It lacks any relevant discussion on testing methodologies or practices, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1413,6 +1431,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. It focuses on the integration of two platforms, which is unrelated to software development processes or the proactive measures associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:19:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the integration of two platforms, GeeksWithBlogs and Community Credit, without discussing any common goals or alignment strategies relevant to Agile or DevOps. There are no explicit mentions of shared objectives or strategic alignment, and the discussion lacks depth in relation to the principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:19:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the integration of two platforms, GeeksWithBlogs and Community Credit, without any discussion on competence, skill development, or related themes. There are no direct mentions of competence or its importance in Agile or DevOps contexts, and the depth of discussion is minimal, lacking any relevant detail.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:19:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the integration of two platforms, GeeksWithBlogs and Community Credit, without discussing any principles or practices related to Continuous Improvement. There are no direct mentions of improvement strategies, empirical evidence, or a culture of experimentation, which are essential for this category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:19:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the integration of two platforms, GeeksWithBlogs and Community Credit, without any discussion of Agentic Agility or its principles. There are no direct mentions of autonomy, adaptability, or intentional shaping of outcomes, and the overall theme does not align with the core topics of Agentic Agility.",
     "level": "Ignored"
   }
 }

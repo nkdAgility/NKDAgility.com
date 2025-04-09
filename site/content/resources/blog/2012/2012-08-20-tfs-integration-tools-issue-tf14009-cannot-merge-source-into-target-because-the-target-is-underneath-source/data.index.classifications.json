@@ -1138,11 +1138,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:10:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:02:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a specific error related to TFS migration and does not mention Test First Development, TDD, or related principles and practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a specific error related to TFS integration and source code migration, with no direct mention or discussion of Test First Development principles, practices, or methodologies. It focuses on troubleshooting and workarounds for a technical issue rather than the importance of defining success criteria or testing practices before implementation. Therefore, it aligns very poorly with the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1225,11 +1228,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:10:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:02:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on TFS integration tools and specific technical issues related to source code migration, with no mention or discussion of Scrum Master roles, responsibilities, or Agile practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS integration and error handling, with no direct mention of Scrum Master responsibilities, roles, or practices. It lacks alignment with the core themes of the Scrum Master category, focusing instead on a specific technical problem and its solutions.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1503,6 +1509,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a technical issue related to TFS integration and error resolution, with no explicit discussion on competence, continuous learning, or skill development. While it does touch on problem-solving strategies, these are not framed within the context of competence as defined in Agile or DevOps methodologies. The depth of discussion is limited to technical workarounds rather than fostering a culture of competence or professional growth.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:02:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a specific technical issue related to TFS integration and error handling, with no explicit discussion of Agentic Agility or its principles. While there are elements of problem-solving and adaptability in the proposed workarounds, they do not align with the core themes of intentionality and agency in shaping outcomes. The content lacks depth in exploring the interplay between human and AI capabilities, and does not provide insights into organisational agility or value creation.",
     "level": "Ignored"
   }
 }

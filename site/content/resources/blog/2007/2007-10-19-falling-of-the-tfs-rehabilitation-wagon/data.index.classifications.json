@@ -163,20 +163,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:04:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:26:50",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the deployment and customization of TFS for project management, lacking a focus on evidence-based management principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the implementation of TFS for project management, focusing on technical aspects and challenges rather than evidence-based management principles. While there is a mention of metrics and tracking, it lacks a clear emphasis on data-informed decision-making or the core themes of EBM such as current value, time to market, or empirical decision-making.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:04:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:26:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the deployment and customization of TFS for project management, without a focus on Agile principles or product-centric development.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the implementation of TFS (Team Foundation Server) for project management, which is more aligned with traditional project management practices rather than the Agile Product Operating Model. While there are mentions of project management and tracking, there is no explicit discussion of agile methodologies, product management principles, or the core themes of the Agile Product Operating Model. The focus is on TFS and SharePoint integration, which does not align with the category's requirements.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -328,14 +334,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T07:38:02",
+    "calculated_at": "2025-04-08T20:26:17",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses the deployment of TFS (Team Foundation Server) and its use in project management, which is tangentially related to DevOps practices. However, it lacks a direct focus on core DevOps principles such as CI/CD, automation, or cultural shifts. The mention of TFS and project tracking does not sufficiently align with the broader themes of DevOps, and the depth of discussion is limited to specific implementation details without addressing the integration of development and operations or the collaborative aspects of DevOps.",
+    "reasoning": "The content primarily discusses the implementation of TFS (Team Foundation Server) for project management, which is more aligned with project management tools rather than the broader DevOps philosophy. While there are mentions of tracking and customization, the focus is not on the core principles of DevOps such as collaboration, automation, or shared accountability. The discussion lacks depth in exploring how these tools contribute to the DevOps culture or practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -724,11 +730,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T20:41:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:26:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and customization of TFS (Team Foundation Server) for project management and does not focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the implementation of TFS (Team Foundation Server) for project management, which does not directly address Continuous Delivery principles or practices. While it mentions project tracking and some aspects of software management, it lacks a focus on Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback. The discussion is more about project management challenges rather than the delivery of software in reliable cycles.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1372,11 +1381,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T20:41:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:26:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the deployment of TFS (Team Foundation Server) and related technical implementations, with no clear focus on the role of a Scrum Master or Scrum practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the implementation of TFS (Team Foundation Server) for project management, focusing on technical aspects and challenges rather than the role of a Scrum Master. There are no direct mentions of Scrum principles, the responsibilities of a Scrum Master, or any related coaching or facilitation techniques. The discussion is more aligned with project management tools and their functionalities, which does not fit the Scrum Master category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1399,11 +1411,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T20:41:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:26:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the implementation and customization of TFS for project management, with no focus on Test First Development or related principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the implementation of TFS for project management and does not address Test First Development principles, success criteria, or testing practices. It lacks direct mentions of Test First concepts and does not provide any depth on the topic.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1467,6 +1482,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the deployment and customization of TFS (Team Foundation Server) for project management, without any explicit mention or discussion of the Shift-Left Strategy. It lacks focus on integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy. The content does not provide any techniques, case studies, or metrics related to Shift-Left practices, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:26:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the implementation of TFS for project management, focusing on technical challenges and solutions rather than aligning strategy with execution or shared objectives. While it mentions project management, it does not explicitly address Common Goals or their significance in Agile or DevOps frameworks. The discussion lacks depth in connecting individual contributions to organisational missions, which is central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:26:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the implementation of TFS for project management, focusing on technical aspects and challenges rather than on competence as a foundational principle. While there are mentions of requirements and customization, the discussion lacks a clear emphasis on continuous learning, skill development, or the role of competence in delivering quality outcomes. The content does not delve deeply into strategies for fostering a culture of competence or inspecting and adapting competence over time.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:26:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the implementation of TFS for project management, which touches on aspects of process improvement and adaptation. However, it lacks a strong focus on Continuous Improvement principles, such as empirical evidence, a culture of experimentation, or detailed strategies for integrating these practices into organisational processes. The mention of customisation and tracking capabilities hints at improvement but does not delve into the broader themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:26:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the implementation of TFS for project management, focusing on technical aspects and challenges rather than the intentional shaping of outcomes or the principles of Agentic Agility. While there are mentions of adapting TFS to meet project needs, the discussion lacks a clear focus on autonomy, adaptability, or the transformative capacity of individuals and systems, which are central to Agentic Agility.",
     "level": "Ignored"
   }
 }

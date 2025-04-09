@@ -1075,11 +1075,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:23:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:36:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on removing a dead solution deployment in SharePoint, which is unrelated to Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on resolving deployment issues in MOSS 2007 and does not discuss Test First Development principles, success criteria, or testing practices. It is entirely unrelated to the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1273,11 +1276,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:23:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:36:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on technical implementation details related to Microsoft Office SharePoint Server and does not discuss the role of a Scrum Master or related Scrum topics.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical instructions for removing a solution deployment in MOSS 2007, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the core themes of the Scrum Master category, nor does it provide any depth on the subject.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1497,6 +1503,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on a technical procedure for removing a solution deployment in MOSS 2007, with no explicit discussion on competence, continuous learning, or skill development. While it may imply a level of competence in handling deployment issues, it does not engage with the core themes of the category, such as fostering a culture of competence or the importance of ongoing skill development.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:36:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a technical guide for resolving deployment issues in MOSS 2007, with no explicit discussion of Agentic Agility or its principles. It lacks any mention of intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

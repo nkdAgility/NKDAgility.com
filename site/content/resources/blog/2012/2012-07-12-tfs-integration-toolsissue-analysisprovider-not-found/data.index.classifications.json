@@ -1126,11 +1126,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:09:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:05:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an issue related to TFS Integration Tools and .NET framework compatibility, with no mention of Test First Development or related concepts such as Test-Driven Development (TDD).",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS Integration Tools and does not discuss Test First Development principles, success criteria, or testing practices. There are no mentions of automated or manual testing, nor any alignment with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1213,11 +1216,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:09:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:05:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about technical issues related to TFS Integration Tools and .NET Framework, with no mention of Scrum or the Scrum Master role.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical issue related to TFS Integration Tools and does not discuss any aspects of the Scrum Master role, responsibilities, or related concepts. There are no direct mentions of Scrum or the Scrum Master, and the content lacks any depth or alignment with the key topics outlined for the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1488,6 +1494,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on a technical issue related to TFS Integration Tools and provides a workaround for a specific error. While it implies a level of competence in troubleshooting and resolving technical problems, it does not explicitly discuss the broader themes of continuous learning, skill development, or the importance of competence in Agile or DevOps environments. The mention of upgrading .NET settings suggests some level of technical capability but lacks depth and alignment with the core principles of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:05:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical issue related to TFS Integration Tools and does not discuss Agentic Agility or its principles. There are no direct mentions of agency, intentionality, or the interplay between human and AI capabilities. The content lacks depth in discussing any relevant themes associated with Agentic Agility.",
     "level": "Ignored"
   }
 }

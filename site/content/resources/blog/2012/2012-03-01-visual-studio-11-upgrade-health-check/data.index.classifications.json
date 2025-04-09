@@ -1141,11 +1141,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:04:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:08:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on upgrading Visual Studio and Team Foundation Server, with no clear discussion on Test First Development practices or principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on upgrading to Visual Studio 11 and does not discuss Test First Development principles, success criteria, or testing practices. It briefly mentions Scrum but does not align with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1225,11 +1228,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:04:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:08:11",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Visual Studio 11 and its Team Foundation Server, with only a brief mention of a 'Scrum Health Check' without further elaboration on Scrum Master roles or responsibilities.",
+    "final_score": 14.0,
+    "reasoning": "The content briefly mentions a 'Scrum Health Check' but does not discuss the role or responsibilities of a Scrum Master. The focus is primarily on upgrading to Visual Studio 11 and does not align with the core themes of the Scrum Master category. There is minimal depth regarding Scrum practices or the impact of a Scrum Master on team dynamics.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1503,6 +1509,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the upgrade process for Visual Studio 11 and the associated Health Check services. While it mentions helping teams prepare for the transition, it does not explicitly discuss competence in terms of continuous learning, skill development, or the core themes outlined in the category. The mention of 'helping teams' is vague and does not delve into the depth of competence as defined in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:08:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a health check for upgrading to Visual Studio 11 and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content is more aligned with technical support and upgrade processes rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

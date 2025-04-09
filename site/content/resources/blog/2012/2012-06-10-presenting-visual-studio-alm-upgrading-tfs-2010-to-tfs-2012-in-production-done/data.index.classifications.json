@@ -1204,11 +1204,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:31:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:06:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the deployment and features of TFS and Visual Studio, with no clear focus on Test First Development principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses upgrading TFS and Visual Studio ALM, with a focus on management presentations and Agile methodologies. It does not explicitly mention Test First Development principles, success criteria, or testing practices, which are central to the category. The discussion lacks depth on any relevant topics related to Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1288,11 +1291,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:31:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:06:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses TFS and Visual Studio ALM features and deployment, with only a brief mention of agile methodology but no specific focus on the Scrum Master role.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on upgrading TFS and Visual Studio ALM, with only a brief mention of Agile principles. While it touches on process improvement and continuous value delivery, it lacks a direct discussion of the Scrum Master's role, responsibilities, or influence within a Scrum context. The content does not delve into the specific skills or techniques relevant to a Scrum Master, nor does it explore team dynamics or stakeholder engagement in a Scrum framework.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1581,6 +1587,18 @@
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content discusses the upgrade process of TFS and the importance of understanding its capabilities, which touches on competence in terms of skill development and knowledge sharing. However, while it mentions Agile and process improvement, the primary focus is on the technical aspects of TFS rather than a deep exploration of competence as a foundational principle in Agile or DevOps. The discussion lacks a thorough examination of continuous learning or strategies for fostering a culture of competence, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:06:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on upgrading TFS and presenting its features, with only brief mentions of Agile practices. While it discusses process improvement and value delivery, it lacks a clear focus on the intentional shaping of outcomes through autonomy and adaptability, which are central to Agentic Agility. The discussion does not differentiate between human and AI capabilities in the context of agility, nor does it explore the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }
 }

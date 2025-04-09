@@ -1156,11 +1156,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:54:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:16:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses achievements and personal reflections on being an MVP, with no focus on Test First Development or related principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the author's recognition as an MVP and their blogging efforts related to Team Foundation Server (TFS). It does not discuss Test First Development principles, success criteria, or any related testing practices. The mention of documenting problems and solutions does not align with the core themes of Test First Development, which emphasises defining success criteria before implementation. Overall, the content lacks any substantial connection to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1243,11 +1246,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:54:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:17:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not discuss any aspects of the Scrum Master role or responsibilities, focusing instead on personal achievements and goals related to blogging and Team Foundation Server.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on an individual's recognition as a Visual Studio ALM MVP and their contributions to the community through blogging about Team Foundation Server (TFS). There are no direct mentions of the Scrum Master role, nor does it discuss Scrum principles, responsibilities, or the impact of a Scrum Master on team dynamics or organisational change. The content lacks depth in relation to the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1524,6 +1530,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the author's efforts to document problems and share knowledge through blogging, which aligns with the idea of continuous learning and skill development. However, it lacks a focused discussion on competence as a foundational principle, and the depth of exploration into strategies for fostering a culture of competence is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:16:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the author's personal achievements and contributions to the Visual Studio ALM community, with no explicit discussion of Agentic Agility or its principles. While there are elements of sharing knowledge and community engagement, these do not align with the core themes of intentionality, autonomy, or adaptability as defined in the category. The content lacks depth in discussing the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }
 }

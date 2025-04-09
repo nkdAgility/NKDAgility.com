@@ -1102,11 +1102,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:30:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Project Natal and does not relate to Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a product launch related to Xbox and does not mention or discuss any principles or practices related to Test First Development. There are no references to success criteria, testing methodologies, or any relevant topics that align with the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1183,11 +1186,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:09",
+    "calculated_at": "2025-04-08T19:30:38",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses a product release relevant to gaming, with no mention of Scrum Master responsibilities, roles, or related Agile practices.",
+    "reasoning": "The content is entirely focused on a product launch related to Xbox and does not mention the Scrum Master role or any related concepts. There is no discussion of Scrum principles, responsibilities, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1458,6 +1464,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content focuses on the launch of a gaming product and does not discuss any aspects related to competence, continuous learning, or professional development. It lacks any direct mentions or alignment with the key topics outlined in the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:30:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the launch of a gaming product and does not discuss any aspects of Agentic Agility, such as intentional shaping of outcomes, autonomy, or adaptability. There are no direct mentions or relevant themes related to the category, resulting in a very low confidence score.",
     "level": "Ignored"
   }
 }

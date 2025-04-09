@@ -1111,11 +1111,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T01:39:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:23:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on the process of uninstalling and installing Visual Studio 2010 without any discussion of Test First Development, TDD, or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on upgrading Visual Studio 2010 and does not mention Test First Development or its principles. There is no discussion of success criteria, testing practices, or any related concepts, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1198,11 +1201,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T01:39:32",
+    "calculated_at": "2025-04-08T19:23:18",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on upgrading Visual Studio 2010 and does not discuss Scrum Master roles or responsibilities.",
+    "reasoning": "The content focuses entirely on upgrading Visual Studio 2010, with no mention of Scrum, Scrum Masters, or related agile practices. It does not discuss any responsibilities, skills, or impacts of a Scrum Master, nor does it touch on team dynamics or organisational change. Therefore, it does not align with the category at all.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1473,6 +1479,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on the technical process of upgrading Visual Studio 2010, with no explicit discussion of competence, continuous learning, or skill development. While it touches on the importance of having the right tools for development, it does not delve into the broader themes of competence as defined in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:23:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on upgrading Visual Studio 2010, providing installation instructions and personal experiences. It does not discuss Agentic Agility, its principles, or any related concepts, making it irrelevant to the category.",
     "level": "Ignored"
   }
 }

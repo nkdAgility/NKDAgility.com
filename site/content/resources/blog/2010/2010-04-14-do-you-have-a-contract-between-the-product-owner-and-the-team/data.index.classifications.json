@@ -1189,11 +1189,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T01:51:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:23:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the concept of a Sprint Contract in Scrum, which is unrelated to Test First Development principles and practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the concept of a Sprint Contract in Scrum, focusing on the relationship between the Product Owner and the implementation team. While it touches on aspects of project delivery and quality standards, it does not explicitly address Test First Development principles, such as defining success criteria or the role of testing in the development process. The discussion lacks depth in relation to Test First practices, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1273,14 +1276,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T07:03:55",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "calculated_at": "2025-04-08T19:23:10",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the relationship between the Product Owner and the implementation team, which is relevant to the Scrum Master role in facilitating collaboration and ensuring adherence to Scrum principles. However, it primarily focuses on the concept of a Sprint Contract rather than the broader responsibilities and practices of a Scrum Master. While it touches on important aspects of Scrum, such as scope and quality, it lacks a detailed exploration of the Scrum Master's specific contributions and techniques for coaching or facilitating Scrum ceremonies.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of a Sprint Contract between the Product Owner and the Team, which is relevant to Scrum practices. However, it primarily focuses on the relationship between the Product Owner and the Team rather than the Scrum Master's role. While it touches on collaboration and clarity, it lacks a detailed exploration of the Scrum Master's responsibilities, techniques, or influence on team dynamics, which are crucial for a higher confidence score in this category.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1575,6 +1578,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the concept of a Sprint Contract, which indirectly relates to competence by emphasising the importance of clarity and commitment in roles within a Scrum team. However, it primarily focuses on the contractual relationship rather than on continuous learning, skill development, or the broader implications of competence in Agile methodologies. The discussion lacks depth in exploring how competence impacts quality outcomes or team trust, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:23:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concept of a Sprint Contract in Scrum, focusing on the relationship between the Product Owner and the implementation Team. While it touches on collaboration and clarity, it does not explicitly address Agentic Agility or its principles. The discussion lacks depth regarding intentional shaping of outcomes, accountability, or the interplay between human judgement and AI logic, which are central to the category.",
     "level": "Ignored"
   }
 }

@@ -163,20 +163,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:39:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:20:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Microsoft's Identity Lifecycle Manager and its functionalities, without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Microsoft's Identity Lifecycle Manager 2007 and its functionalities related to user identity management. While it touches on operational efficiency and security, it does not explicitly mention Evidence-Based Management principles or metrics. The focus is on a specific tool rather than on data-informed decision-making or empirical evidence in management practices.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:39:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:20:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Microsoft's Identity Lifecycle Manager 2007 and its functionalities, which are unrelated to the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses Microsoft's Identity Lifecycle Manager 2007, focusing on user identity management and operational efficiency. It does not mention or align with the Agile Product Operating Model or its principles, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -319,11 +325,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:39:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:20:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Microsoft's Identity Lifecycle Manager and its functionalities, which are not directly related to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Microsoft's Identity Lifecycle Manager 2007, focusing on user identity management and operational efficiency. While it touches on automation and improving operational processes, it does not explicitly address DevOps principles, such as collaboration, shared accountability, or continuous improvement. The discussion lacks depth in relation to the core themes of DevOps, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -706,11 +715,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T20:09:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:20:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Identity Lifecycle Manager 2007 and identity management solutions, which are unrelated to Continuous Delivery principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Microsoft's Identity Lifecycle Manager 2007 and its capabilities in user identity management, which does not directly relate to Continuous Delivery principles or practices. While there are mentions of automation and operational efficiency, these are not framed within the context of Continuous Delivery. The focus is on identity management rather than software delivery cycles, testing, or deployment strategies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1348,11 +1360,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T20:09:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:20:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Microsoft's Identity Lifecycle Manager and identity management systems, which are unrelated to the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on Microsoft's Identity Lifecycle Manager 2007 and its capabilities for user identity management, with no mention or discussion of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics outlined for the Scrum Master category, nor does it provide any depth on the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1375,11 +1390,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T20:09:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:20:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses identity management systems and does not address Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Microsoft's Identity Lifecycle Manager 2007 and its capabilities in user identity management. It does not mention Test First Development, its principles, or any related practices. The focus is on operational efficiency and security rather than testing methodologies or development practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1443,6 +1461,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Microsoft's Identity Lifecycle Manager and its capabilities for managing user identities across various systems. While it touches on compliance and operational efficiency, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The focus is on identity management rather than integrating testing, security, or compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:20:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Microsoft's Identity Lifecycle Manager 2007 and its functionalities related to user identity management. While it touches on operational efficiency and collaboration, it does not explicitly address the concept of Common Goals within Agile or DevOps frameworks. The focus is on technical details and benefits of a specific software solution rather than aligning strategy with execution or fostering collaboration towards shared objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:20:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Microsoft's Identity Lifecycle Manager 2007 and its functionalities related to user identity management. While it touches on operational efficiency and security, it does not explicitly address the concept of competence or continuous skill development. The focus is more on technical features and benefits rather than on fostering a culture of competence or professional growth, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:20:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Microsoft's Identity Lifecycle Manager 2007 and its functionalities for user identity management. While it touches on operational efficiency and automation, it does not explicitly discuss Continuous Improvement principles or practices. The mention of improving operational efficiency is too vague and does not align with the core themes of Continuous Improvement, such as empirical evidence, culture of experimentation, or strategies for integration into organisational processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:20:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Microsoft's Identity Lifecycle Manager 2007 and its functionalities related to user identity management. While it touches on operational efficiency and automation, it does not explicitly address the principles of Agentic Agility, such as intentional shaping of outcomes, autonomy, or adaptability. The focus is on technical implementation rather than the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

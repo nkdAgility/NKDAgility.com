@@ -154,20 +154,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:32:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:54:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses software factories and does not address Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses software factories and their importance in development practices, with no direct mention of Evidence-Based Management principles or metrics. While it touches on enhancing understanding, it lacks a focus on empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:32:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:54:22",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses software factories without a clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses software factories and their importance in development practices, with no direct mention of the Agile Product Operating Model or its core principles. While there may be a tangential relationship to agile methodologies, the focus is not on product management or the specific themes outlined in the APOM framework.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -307,11 +313,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:33:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:54:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses software factories without a clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses software factories, which are not directly related to the core principles of DevOps. While there is a mention of enhancing development practices, it lacks explicit references to DevOps concepts such as collaboration, automation, or shared accountability. The discussion does not delve into the cultural shifts or practices necessary for effective DevOps implementation, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -688,11 +697,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T22:10:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:54:35",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses software factories and their benefits, without a focus on Continuous Delivery principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses software factories without any explicit mention of Continuous Delivery principles or practices. While it touches on enhancing development practices, it lacks a direct focus on the core themes of Continuous Delivery, such as automation, incremental improvements, or rapid feedback. The discussion is superficial and does not provide any depth related to Continuous Delivery, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1318,11 +1330,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T22:10:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:54:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses software factories and does not reference Scrum, Scrum Master roles, or related Agile practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses software factories and their importance in development practices, with no direct mention of the Scrum Master role or related responsibilities. It lacks alignment with the core themes of the Scrum Master category, focusing instead on a different topic altogether. The depth of discussion is minimal and does not provide any relevant insights into Scrum or the role of a Scrum Master.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1345,20 +1360,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T22:10:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:54:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses software factories and does not reference Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses software factories and their importance in development practices, with no direct mention or alignment to Test First Development principles. It lacks any discussion on success criteria, testing practices, or the role of collaboration in software delivery.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:28:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:54:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses software factories and does not focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on software factories, which are technical practices rather than social technologies. While it briefly mentions enhancing development practices, it lacks explicit discussion on collaboration, decision-making, or value delivery within organisations. The content does not align with the core themes of social technologies, and the depth of discussion is minimal, primarily summarising a post without engaging with the underlying social frameworks.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1410,6 +1431,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses software factories without any explicit mention or discussion of the Shift-Left Strategy. It lacks alignment with the core themes of integrating testing, security, or compliance early in the development process, and does not provide any depth on the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:54:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses software factories and their importance in development practices, without explicitly addressing Common Goals or their significance in Agile and DevOps. There are no direct mentions of shared objectives, alignment, or frameworks like OKRs, which are central to the category. The discussion lacks depth and does not connect to the principles of Agile, Scrum, or DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:54:15",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses software factories and their role in enhancing development practices, but it does not explicitly mention competence or its importance in Agile, Scrum, or DevOps contexts. While there is a suggestion of improving understanding and accessibility, it lacks a direct focus on continuous learning, skill development, or the professional principles associated with competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:54:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content briefly mentions software factories and their importance in enhancing development practices, but it does not explicitly discuss Continuous Improvement principles or provide any depth on the topic. The focus is more on accessibility and understanding rather than on empirical evidence, experimentation, or measurable advancements, which are core to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:54:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses software factories and their importance in development practices, with no explicit mention of Agentic Agility or its core themes. It lacks depth and does not address the intentional shaping of outcomes, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

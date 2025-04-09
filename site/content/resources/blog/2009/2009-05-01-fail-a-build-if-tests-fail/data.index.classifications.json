@@ -1159,14 +1159,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-15T07:24:13",
+    "calculated_at": "2025-04-08T19:33:17",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content briefly discusses a technical implementation related to failing builds when tests fail, which is tangentially related to Test First Development. However, it lacks explicit discussion on the principles of TDD, the process of writing tests before code, or the benefits of Test First Development. The focus is more on a specific configuration in TFS2008 rather than a comprehensive exploration of the category's core themes.",
+    "reasoning": "The content discusses configuring TFS2008 to fail builds when tests fail, which relates to ensuring quality in the development process. However, it does not explicitly mention Test First Development principles or practices. The focus is more on build management rather than the broader concepts of defining success criteria or the role of testing in the development lifecycle. While there is a connection to testing, it lacks depth and does not engage with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1249,11 +1249,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T03:05:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:33:19",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly focuses on technical implementation details of build processes in TFS 2008 and does not address Scrum Master roles, responsibilities, or practices.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on configuring TFS2008 for build management and does not discuss the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, team dynamics, or the impact of a Scrum Master, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1536,6 +1539,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly mentions quality in the development process, which relates to competence, but it primarily focuses on a technical configuration for TFS2008 without a deeper exploration of continuous learning, skill development, or the broader implications of competence in Agile or DevOps environments.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:33:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for configuring TFS2008 to manage build failures based on test results. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The mention of quality in development is too vague and does not align with the core themes of intentionality or agency.",
     "level": "Ignored"
   }
 }

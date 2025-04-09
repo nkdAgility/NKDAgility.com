@@ -1168,11 +1168,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:29:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:27:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses a migration process related to Team Foundation Server and does not focus on Test First Development or related practices such as Test-Driven Development (TDD).",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the migration process to Visual Studio 2010 Team Foundation Server, detailing team roles and steps taken during the migration. While it briefly mentions 'tested the deployment,' it lacks a comprehensive discussion on Test First Development principles, success criteria, or testing methodologies. The overall emphasis is on migration rather than the Test First approach.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1258,11 +1261,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:29:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:27:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses a technical migration process related to Team Foundation Server, with no clear focus on Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical migration process related to Visual Studio Team Foundation Server, with no explicit mention of the Scrum Master role or its responsibilities. While it discusses team efforts, it does not align with the core themes of Scrum Master discussions, such as coaching, facilitating, or promoting agile principles. The depth of discussion is also minimal, as it lacks any detailed exploration of Scrum practices or the impact of a Scrum Master on team dynamics.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1539,6 +1545,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on a specific migration process and team efforts without explicitly discussing competence as a foundational principle. While it mentions teamwork and preparation, it lacks a detailed exploration of continuous learning, skill development, or the impact of competence on quality outcomes. The discussion is more about the execution of a project rather than the underlying principles of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:27:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific migration process to Visual Studio 2010 Team Foundation Server, detailing the steps taken and team roles involved. While it mentions teamwork and preparation, it does not explicitly discuss Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes in a socio-technical context. The discussion lacks depth in relation to the key topics outlined for Agentic Agility, such as intent, accountability, or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

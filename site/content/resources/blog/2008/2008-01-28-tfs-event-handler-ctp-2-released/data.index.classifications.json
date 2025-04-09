@@ -163,20 +163,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:56:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:08:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of a software application and its functionalities, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a software tool (TFS Event Handler CTP 2) and its functionalities, with no explicit discussion of Evidence-Based Management principles or metrics. While there is a mention of seeking feedback, it does not align with the core themes of EBM such as data-informed decision-making or empirical evidence. The content lacks depth in discussing any relevant EBM concepts.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:56:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:08:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of a software tool and its functionalities, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the release of a software tool (TFS Event Handler) and its functionalities, with no explicit mention of the Agile Product Operating Model or its principles. While there is a brief reference to testing and feedback, which could tangentially relate to agile practices, the focus remains on technical details and product release rather than on agile methodologies or product management principles.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -319,11 +325,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:56:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:08:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of a software tool (TFS Event Handler) and its setup, with no clear focus on DevOps principles, practices, or cultural shifts.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a specific tool (TFS Event Handler) and its functionalities, with minimal discussion on DevOps principles or practices. While it mentions managing TFS events, it does not delve into the collaborative, automated, or accountable aspects of DevOps. The discussion lacks depth in terms of how this tool fits into a broader DevOps philosophy, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -709,11 +718,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:26:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:08:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of a specific software version and event handling in TFS, without a focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the release of a specific version of the TFS Event Handler and its functionalities, without explicitly addressing Continuous Delivery principles or practices. While there is a mention of testing and feedback, it lacks a comprehensive exploration of Continuous Delivery concepts such as automation, incremental improvements, or cultural aspects. The focus is more on the tool and its setup rather than on the delivery process itself.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1357,11 +1369,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:26:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:08:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical details of TFS Event Handler and setup, with no clear relevance to the role of Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the release of a software tool related to TFS Event Handler, with no direct mention of Scrum or the role of a Scrum Master. It lacks alignment with the core themes of the Scrum Master category, such as facilitating team effectiveness or promoting agile principles. The depth of discussion is also minimal, focusing instead on technical details of the software rather than any aspects related to Scrum or the responsibilities of a Scrum Master.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1384,11 +1399,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:26:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:08:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release and setup of TFS Event Handler without mentioning Test First Development or related practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the release of a software tool (TFS Event Handler CTP 2) and its functionalities, with no explicit mention of Test First Development principles or practices. While there is a brief mention of testing the application in a production environment, it lacks depth and does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1452,6 +1470,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the release of a software tool (TFS Event Handler) and its functionalities, with no explicit mention of the Shift-Left Strategy or its principles. While there is a brief mention of testing in a production environment, it does not align with the core themes of integrating testing, security, or compliance early in the development process. The discussion lacks depth regarding Shift-Left practices, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:08:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a software tool (TFS Event Handler CTP 2) and its functionalities, with no explicit discussion of Common Goals, Agile, or DevOps principles. While there is a mention of seeking feedback, it does not connect to the broader themes of alignment or shared objectives within teams. The content lacks depth in discussing how these goals relate to the overall mission of an organisation.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:08:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a software tool and its functionalities, with minimal discussion on competence, continuous learning, or skill development. While there is a mention of testing and feedback, it does not delve into the principles of competence as defined in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:08:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a software tool (TFS Event Handler CTP 2) and its functionalities, with minimal discussion on Continuous Improvement principles. While there is a mention of seeking feedback and bug fixing, which could relate to improvement, it lacks a structured approach to Continuous Improvement practices or methodologies. The overall emphasis is on product release rather than a culture of ongoing enhancement or empirical evidence-driven decision-making.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:08:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the release of a software tool (TFS Event Handler) and its functionalities, with no explicit discussion of Agentic Agility or its principles. While there is a mention of user feedback and testing, it does not delve into the intentional shaping of outcomes or the interplay between human and AI capabilities, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

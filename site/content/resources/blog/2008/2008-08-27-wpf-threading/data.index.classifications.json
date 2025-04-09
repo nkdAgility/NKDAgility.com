@@ -1054,11 +1054,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:01:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:43:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses WPF threading issues and does not address Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on WPF threading solutions and multi-threading skills in .NET, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of the Test First Development category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1246,11 +1249,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:01:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:43:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on WPF threading and technical implementation details, with no relevant discussion on the Scrum Master role.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on WPF threading solutions and does not mention the Scrum Master role or any related concepts. It lacks any discussion on Scrum principles, responsibilities, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on WPF threading solutions and multi-threading skills in .NET, which are technical skills rather than discussions on competence in the context of Agile, Scrum, or DevOps. While there is a mention of enhancing skills, it lacks a direct discussion on continuous learning, professionalism, or the broader implications of competence within teams or organisations.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:43:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on WPF threading solutions and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is technical and specific to multi-threading in .NET, lacking any connection to the themes of agency or agility.",
     "level": "Ignored"
   }
 }

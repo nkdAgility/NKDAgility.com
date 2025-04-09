@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:15:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:53:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint Designer custom workflow activities and personal project updates, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses SharePoint Designer custom workflows and specific activities related to them, with no explicit mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any depth in discussing how empirical evidence could enhance project outcomes.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:15:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:53:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint Designer custom workflow activities and personal projects, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses SharePoint Designer custom workflows and does not mention or align with the Agile Product Operating Model. It focuses on technical solutions rather than agile principles or product management practices.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:15:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:53:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint Designer and custom workflow activities, which are not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on SharePoint Designer custom workflows and specific activities related to it, with no explicit discussion of DevOps principles, practices, or cultural shifts. While there is a mention of streamlining processes, it does not align with the core themes of DevOps such as collaboration, automation, or shared accountability. The depth of discussion is limited to personal experiences with specific tools, which does not contribute to a broader understanding of DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -691,11 +700,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:00:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:53:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of SharePoint Designer and specific CodePlex projects, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses SharePoint Designer custom workflows and specific activities related to them, with no direct mention of Continuous Delivery principles or practices. While there is a focus on enhancing project capabilities, it does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or incremental improvements. The discussion lacks depth regarding Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1330,11 +1342,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:00:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:53:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on SharePoint workflows and technical implementations, with no clear relation to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on SharePoint Designer custom workflows and does not mention the role or responsibilities of a Scrum Master. There is no discussion of Scrum principles, team dynamics, or any related topics that would align with the category. The content is entirely unrelated to the Scrum Master role.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1357,11 +1372,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:00:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:53:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on SharePoint projects and personal experiences with custom workflow activities, with no mention of Test First Development or related principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses SharePoint Designer custom workflows and does not mention Test First Development principles, success criteria, or any related testing practices. It lacks any relevant detail or focus on the Test First approach.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1425,6 +1443,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a personal project related to SharePoint Designer and does not mention or align with the principles of the Shift-Left Strategy. There is no discussion of integrating testing, security, or compliance early in the development process, nor does it provide any techniques, case studies, or tools related to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T19:53:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal experiences and technical details related to SharePoint Designer workflows, without discussing the concept of Common Goals or their significance in Agile or DevOps frameworks. There are no explicit mentions of shared objectives or alignment strategies, and the depth of discussion is limited to personal project updates rather than organisational performance or team collaboration.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T19:53:29",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on specific SharePoint Designer custom workflows and personal project experiences, with minimal direct mention of competence or continuous skill development. While there is a hint of problem-solving and project enhancement, it lacks a thorough exploration of competence as a foundational principle in Agile or DevOps methodologies. The discussion does not delve into the importance of continuous learning or the impact of competence on team dynamics or quality outcomes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T19:53:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses enhancements to SharePoint Designer workflows, which implies a focus on improving processes. However, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or a culture of experimentation. The mention of creating new activities suggests a desire for improvement but does not delve into systematic strategies or frameworks associated with Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:53:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on SharePoint Designer custom workflows and specific technical issues related to them. While there is a mention of enhancing capabilities and streamlining processes, it lacks a direct discussion on Agentic Agility, its principles, or its impact on organisational agility. The content does not differentiate between human and AI capabilities, nor does it explore the intentional shaping of outcomes, which are key aspects of the category.",
     "level": "Ignored"
   }
 }

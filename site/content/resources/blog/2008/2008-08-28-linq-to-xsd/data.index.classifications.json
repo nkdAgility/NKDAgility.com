@@ -1063,11 +1063,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:01:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:42:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses LINQ to XSD, which is unrelated to Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses LINQ to XSD and its features for C# projects, with no mention of Test First Development principles, success criteria, or testing practices. It does not align with the core themes of the category, nor does it provide any depth on the subject.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1252,11 +1255,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:01:26",
+    "calculated_at": "2025-04-08T19:42:33",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses technical implementation details unrelated to Scrum Master roles or responsibilities.",
+    "reasoning": "The content focuses entirely on LINQ to XSD and its application in C# projects, with no mention or discussion of the Scrum Master role, responsibilities, or related concepts. It does not align with any of the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1476,6 +1482,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on the technical aspects of using LINQ to XSD in C# projects, with no explicit discussion of competence, continuous learning, or skill development. While it may imply a level of competence in using the tool, it does not align with the core themes of the 'Competence' category, such as fostering a culture of competence or the importance of ongoing skill development.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:42:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on LINQ to XSD for C# projects, discussing its features and usage without any reference to Agentic Agility, intentional shaping of outcomes, or the interplay between human and AI capabilities. It lacks any relevant discussion on the principles or mechanisms of Agentic Agility.",
     "level": "Ignored"
   }
 }

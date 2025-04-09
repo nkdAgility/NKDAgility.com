@@ -1084,11 +1084,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:43:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:38:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of an application using WPF and does not address any aspects of Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the development of a specific application (TFS Sticky Buddy 2.0) and discusses features and modular design without any mention of Test First Development principles, success criteria, or testing practices. There is no alignment with the core themes of Test First Development, and the depth of discussion is minimal, lacking any relevant detail on testing methodologies.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1273,11 +1276,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:43:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:38:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development of a software application with technical implementation details, which do not relate to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the development of a software application and does not mention the Scrum Master role or its responsibilities. There is no discussion of Scrum principles, team dynamics, or any related topics that would align with the category. The content is more technical and product-oriented, lacking any connection to the Scrum framework.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1494,6 +1500,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the development of a software application and mentions technical aspects such as modular design and implementation of specific frameworks. However, it lacks explicit discussions on competence, continuous learning, or skill development. The alignment with the core themes of competence is minimal, and the depth of discussion does not provide substantial insights into the principles of professionalism or quality delivery.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:38:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the development of a software application, discussing features and technical implementation without addressing the principles of Agentic Agility. There are no explicit mentions of intentional shaping of outcomes, autonomy, or adaptability, nor does it differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

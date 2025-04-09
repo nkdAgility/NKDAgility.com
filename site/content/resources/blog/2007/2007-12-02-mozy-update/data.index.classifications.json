@@ -154,20 +154,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:33:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:18:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with online storage and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses personal experiences with online storage management and does not mention Evidence-Based Management or its key topics. It lacks any empirical evidence or data-informed decision-making discussions.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:33:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:18:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal storage updates and does not relate to Agile principles or product development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on personal storage management and does not mention or align with any principles of the Agile Product Operating Model. It discusses Mozy storage expansion and backup strategies, which are unrelated to agile methodologies or product management.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:33:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:18:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal storage and usage of Mozy, with no relevant DevOps topics addressed.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal experiences with online storage management and does not discuss any DevOps principles, practices, or cultural shifts. There are no direct mentions of DevOps concepts, and the discussion lacks depth in relation to the category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -688,11 +697,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:08:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:18:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with Mozy's online storage rather than Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences with online storage management and does not discuss Continuous Delivery principles, practices, or related topics. There are no direct mentions of Continuous Delivery, and the themes of automation, incremental improvements, or software quality are absent.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1318,11 +1330,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:08:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:18:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss the Scrum Master role or related topics; it focuses on a personal update regarding online storage services.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on personal storage management and does not mention the Scrum Master role or any related concepts. There is no discussion of Scrum principles, team dynamics, or any relevant responsibilities of a Scrum Master.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1345,11 +1360,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:08:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:18:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is about online storage and personal file management, with no relation to Test First Development or testing practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on personal experiences with online storage management and does not mention Test First Development or its principles. There is no discussion of success criteria, testing practices, or any related concepts, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1413,6 +1431,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses personal storage and usage of Mozy, with no mention of software development processes, testing, security, or compliance. It does not align with the Shift-Left Strategy in any meaningful way.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:18:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences with online storage management and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, strategic alignment, or team collaboration, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:18:40",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on personal storage management and the use of Mozy for online backups. While it touches on efficiency and ease of use, it does not explicitly discuss competence in the context of Agile, Scrum, or DevOps methodologies. The mention of tips for efficient storage management is too vague and does not align with the core themes of continuous learning or skill development. Overall, the content lacks depth and direct relevance to the principles of competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:18:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal experiences with expanding online storage and optimising backup strategies, which does not align with the principles of Continuous Improvement. While there are mentions of efficiency and management, these are not discussed in the context of systematic improvement or organisational processes, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:18:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal storage management and does not discuss Agentic Agility or its principles. There are no explicit mentions of intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI systems. The discussion is centred around practical tips for using a storage service, which does not align with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

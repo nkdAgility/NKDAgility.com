@@ -1114,11 +1114,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:41:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:12:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are unrelated to Test First Development principles and practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating a Team Project in Visual Studio 11 and does not discuss Test First Development principles, success criteria, or any related testing practices. It lacks any direct mention or alignment with the core themes of Test First Development, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1195,11 +1198,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:41:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:12:22",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on creating a Team Project in Visual Studio, without discussing the role or responsibilities of a Scrum Master.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on creating a Team Project using Visual Studio 11, with no explicit discussion of the Scrum Master's role or responsibilities. While it mentions 'Scrum' in the title, it does not delve into the core themes of the Scrum Master category, such as facilitation, coaching, or team dynamics. The content lacks depth and does not provide any substantial information related to the Scrum Master, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1473,6 +1479,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the technical process of creating a Team Project using Visual Studio 11, with minimal reference to competence or the principles of continuous learning and skill development. While it may imply some level of competence in using the tool, it does not explicitly discuss the importance of competence in Agile or DevOps contexts, nor does it provide depth on fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:12:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating a Team Project using Visual Studio 11 and discusses agile project setup in a general sense. It does not explicitly mention Agentic Agility or its principles, nor does it delve into the intentional shaping of outcomes, human or AI capabilities, or any related concepts. The discussion is more about practical steps in a Scrum context rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

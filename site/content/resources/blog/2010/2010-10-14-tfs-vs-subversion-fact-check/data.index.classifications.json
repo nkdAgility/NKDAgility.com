@@ -1141,11 +1141,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:46:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:18:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses a comparison between TFS and Subversion in the context of version control, and does not focus on Test First Development or related practices.",
+    "final_score": 8.0,
+    "reasoning": "The content primarily discusses the differences between TFS and Subversion, focusing on version control features and user experiences. It does not mention Test First Development principles, success criteria, or testing practices, which are central to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1228,11 +1231,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:46:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:18:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on comparing source control systems (TFS and Subversion) and does not discuss the role, responsibilities, or practices of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the differences between TFS and Subversion, focusing on version control systems rather than the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum practices, team dynamics, or the Scrum Master's influence on organisational change, which are key topics in the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1503,6 +1509,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on comparing TFS and Subversion, discussing specific features and user experiences rather than addressing competence in Agile, Scrum, or DevOps contexts. While there are mentions of user challenges and solutions, these do not directly relate to the continuous development or professionalism aspects of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:18:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the differences between TFS and Subversion, focusing on technical aspects of version control systems rather than the intentional shaping of outcomes or the principles of Agentic Agility. There are no direct mentions of agency, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

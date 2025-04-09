@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:04:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:10:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses suggestions for a community platform and does not address Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on user feedback and suggestions for improving a community platform, lacking any explicit discussion on Evidence-Based Management principles or metrics. It does not address data-informed decision-making or empirical evidence, which are central to EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:04:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:10:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses suggestions for a community platform and does not address Agile principles or product-centric development.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on user feedback and suggestions for improving a community platform, which does not directly relate to the Agile Product Operating Model. While there are elements of user experience and feature enhancement, these do not align with the core principles of APOM, such as product-oriented mindset or continuous delivery. The discussion lacks depth and does not mention agile methodologies or product management practices.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:04:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:10:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses community feedback and suggestions for a platform, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on user feedback and suggestions for improving a community platform, with no explicit discussion of DevOps principles, practices, or cultural shifts. While there are mentions of user experience and community engagement, these do not align with the core themes of DevOps, such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -694,11 +703,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:22:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:10:44",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses community feedback and feature suggestions related to a platform, with no mention or relevance to Continuous Delivery principles or practices.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on user feedback and suggestions for improving a community platform, which does not directly address Continuous Delivery principles or practices. While there are mentions of enhancing features and user experience, these discussions do not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or software quality. The content lacks depth in discussing Continuous Delivery concepts, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1333,11 +1345,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:22:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:10:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum Master role, responsibilities, or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses feedback and suggestions for a community platform, with no direct mention of Scrum or the role of a Scrum Master. While there may be a tangential connection to team dynamics through community engagement, it lacks any substantial discussion on Scrum principles, responsibilities, or the impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1360,11 +1375,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:22:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:10:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses suggestions for community features and user services, with no focus on Test First Development or related testing methodologies.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on community feedback and suggestions for improving a platform, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1428,6 +1446,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses suggestions for a community platform, focusing on user contributions, profile management, and SEO improvements. There is no mention of integrating testing, security, or compliance earlier in the software development lifecycle, which are core aspects of the Shift-Left Strategy. The discussion does not align with the principles or benefits of the Shift-Left approach, nor does it provide any depth on related tools or methodologies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:10:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on user feedback and suggestions for improving a specific platform, Community Credit. While it encourages community engagement, it does not explicitly discuss or align with the principles of Common Goals in Agile or DevOps. The suggestions provided are more about feature enhancements and user experience rather than shared objectives or strategic alignment within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:10:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on suggestions for improving a community platform rather than discussing competence in Agile, Scrum, or DevOps contexts. While there are mentions of user experience and moderation, these do not directly relate to the principles of competence, continuous learning, or skill development. The discussion lacks depth and does not align with the core themes of competence as defined.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:10:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses suggestions for enhancing a community platform, which aligns with the idea of improving user experience. However, it lacks a structured approach to Continuous Improvement principles, such as empirical evidence or systematic methodologies. The focus is more on user feedback rather than a comprehensive strategy for ongoing improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:10:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on user feedback and suggestions for improving a community platform, lacking any explicit discussion on Agentic Agility or its principles. While there are elements of user autonomy in suggesting improvements, the content does not delve into the intentional shaping of outcomes or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

@@ -1105,11 +1105,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:46:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:30:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific application for Twitter and user experience; it is not related to Test First Development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a specific application for Twitter on Windows Mobile and does not mention Test First Development or related concepts. It lacks any discussion on testing practices, success criteria, or software development methodologies.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1189,11 +1192,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:46:40",
+    "calculated_at": "2025-04-08T19:30:32",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily about a Twitter client app and does not discuss Scrum or the role of a Scrum Master.",
+    "reasoning": "The content focuses entirely on a software application for Twitter and does not discuss any aspects related to the role or responsibilities of a Scrum Master. There are no mentions of Scrum principles, team dynamics, or any relevant topics that align with the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1464,6 +1470,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on a specific software application for Twitter and does not discuss competence, continuous learning, or skill development in any meaningful way. There are no direct mentions of competence or related themes, and the depth of discussion is minimal, focusing instead on personal experience with the software.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:30:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a specific software application for Twitter and does not discuss Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category.",
     "level": "Ignored"
   }
 }

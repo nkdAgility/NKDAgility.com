@@ -1117,11 +1117,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:48:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:19:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installing and using Android on an HD2 device, with no focus on Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on running Android on a specific device and does not discuss Test First Development principles, success criteria, or testing practices. There are no mentions of testing methodologies or practices related to Test First Development, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1204,11 +1207,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:48:28",
+    "calculated_at": "2025-04-08T19:19:40",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses running Android on a mobile device and is unrelated to the Scrum Master role.",
+    "reasoning": "The content focuses entirely on running Android on a specific mobile device and does not mention Scrum, the role of a Scrum Master, or any related concepts. It is unrelated to the responsibilities, skills, or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1479,6 +1485,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on technical instructions for running Android on a specific device, with no explicit discussion of competence, continuous learning, or skill development. While it touches on user experience and troubleshooting, these aspects do not align with the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:19:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on running Android on a specific device and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are core to the category. The discussion is technical and practical, lacking any exploration of the interplay between human and AI capabilities or the transformative capacity of individuals and systems.",
     "level": "Ignored"
   }
 }

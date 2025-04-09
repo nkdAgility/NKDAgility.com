@@ -1162,11 +1162,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:25:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues related to building a Silverlight application in Team Foundation Server, not focused on Test First Development principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on troubleshooting build issues with Silverlight applications in Team Foundation Build Services, without any explicit discussion of Test First Development principles, success criteria, or testing practices. While it touches on build processes, it does not align with the core themes of Test First Development, such as TDD or ATDD, nor does it provide depth in these areas.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1249,11 +1252,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:25:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical issues related to building a Silverlight application using Team Foundation Build Services, with only a minor mention of a retrospective, which is not central to the role of a Scrum Master.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical issues related to building Silverlight applications using Team Foundation Build Services, with no substantial discussion on the role or responsibilities of a Scrum Master. While there is a brief mention of a retrospective, it does not delve into Scrum Master practices or principles, making the alignment with the category very weak.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1530,6 +1536,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on technical challenges and solutions related to building Silverlight applications using Team Foundation Build Services. While it touches on aspects of competence, such as the need for specific skills and knowledge to resolve build issues, it does not explicitly discuss continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The depth of discussion is limited to problem-solving rather than fostering a culture of competence or professional growth.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:25:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical issues related to building Silverlight applications using Team Foundation Build Services, with no explicit discussion of Agentic Agility or its principles. While there are mentions of problem-solving and adapting to challenges, these do not align with the core themes of intentionality and agency in shaping outcomes. The content lacks depth in exploring the interplay between human and AI capabilities or the transformative capacity of individuals and systems.",
     "level": "Ignored"
   }
 }

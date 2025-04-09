@@ -1129,11 +1129,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:22:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:26:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses an issue with sending emails and its resolution through IIS configuration, which does not relate to Test First Development or its principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on resolving an IIS SMTP service error related to email delivery, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks alignment with the core themes of the category and provides minimal depth on any relevant topics.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1216,11 +1219,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:22:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:26:16",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses a technical issue with email sending in IIS, which is unrelated to Scrum or the role of a Scrum Master.",
+    "reasoning": "The content focuses entirely on resolving a technical issue related to IIS SMTP Service and does not mention or discuss any aspects of the Scrum Master role, responsibilities, or related agile principles. There is no alignment with the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1491,6 +1497,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on resolving a technical issue related to IIS SMTP Service configuration. While it implies a need for competence in troubleshooting and configuring server settings, it does not explicitly discuss continuous learning, skill development, or the broader themes of competence as defined in Agile and DevOps contexts. The discussion lacks depth and does not provide strategies for fostering a culture of competence or inspecting and adapting skills over time.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:26:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to IIS SMTP service and does not discuss Agentic Agility or its principles. There are no direct mentions of agency, intentionality, or the interplay between human and AI capabilities. The content lacks depth in relation to the category, making it largely irrelevant.",
     "level": "Ignored"
   }
 }

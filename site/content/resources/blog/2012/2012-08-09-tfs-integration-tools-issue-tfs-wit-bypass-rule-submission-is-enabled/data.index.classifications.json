@@ -1141,11 +1141,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:30:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:03:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to TFS Integration and permissions, with no mention of Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses resolving a specific issue related to TFS WIT bypass-rule submission and does not mention Test First Development principles, success criteria, or testing practices. It lacks any relevant discussion on manual or automated testing, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1228,11 +1231,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:30:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:03:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical details related to TFS Integration Tools and not the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS Integration and does not mention the role or responsibilities of a Scrum Master. There is no alignment with Scrum principles or practices, and the depth of discussion is focused on troubleshooting rather than any aspect of Scrum or agile methodologies.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1506,6 +1512,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on resolving a technical issue related to TFS Integration and does not explicitly discuss competence or continuous skill development. While it touches on the necessity of using specific tools and commands, it lacks a broader discussion on the importance of competence in Agile or DevOps contexts. The mention of using command line tools could imply a level of skill, but it does not delve into the principles of professionalism or quality delivery that define the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:03:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to TFS Integration and does not discuss Agentic Agility or its principles. There are no explicit mentions of autonomy, adaptability, or intentional shaping of outcomes, nor does it differentiate between human and AI capabilities in the context of agility. The discussion is strictly technical and procedural, lacking any alignment with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

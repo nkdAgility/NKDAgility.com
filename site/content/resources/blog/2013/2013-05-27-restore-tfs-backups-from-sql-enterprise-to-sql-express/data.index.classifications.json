@@ -1132,11 +1132,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:37:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:53:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to restoring TFS backups in SQL Server environments, focusing on features of SQL Server editions, rather than test-driven development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses restoring TFS backups from SQL Enterprise to SQL Express, focusing on SQL Server features and troubleshooting errors. It does not mention Test First Development principles, success criteria, or testing practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1216,11 +1219,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:37:28",
+    "calculated_at": "2025-04-08T18:53:11",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses entirely on SQL Server backup and restoration processes, without any mention of Scrum or the role of a Scrum Master.",
+    "reasoning": "The content focuses entirely on technical aspects of restoring TFS backups from SQL Server Enterprise to SQL Express, with no mention of Scrum, the role of a Scrum Master, or any related agile principles. It does not discuss responsibilities, skills, or the impact of a Scrum Master, nor does it touch on team dynamics or stakeholder engagement.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1491,6 +1497,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on technical instructions for restoring TFS backups and troubleshooting SQL Server issues. While it touches on the need for understanding SQL Server editions and their features, it does not explicitly discuss competence in the context of Agile, Scrum, or DevOps methodologies. The discussion lacks depth regarding continuous learning or skill development, which are key aspects of the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:53:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for restoring TFS backups from SQL Enterprise to SQL Express, with no explicit discussion of Agentic Agility or its principles. While it touches on problem-solving and adaptability in a technical context, it does not engage with the core themes of intentionality, agency, or the interplay between human and AI capabilities. Therefore, it aligns very minimally with the category.",
     "level": "Ignored"
   }
 }

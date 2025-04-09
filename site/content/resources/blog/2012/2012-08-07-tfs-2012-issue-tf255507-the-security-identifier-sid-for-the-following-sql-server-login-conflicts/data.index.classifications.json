@@ -1117,11 +1117,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:30:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:03:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a specific error encountered in TFS 2012 installation related to SQL Server login conflicts, without any mention of Test First Development or related testing practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a specific error related to TFS 2012 and SQL Server login conflicts, with no mention of Test First Development principles, success criteria, or testing practices. It focuses on troubleshooting and solutions rather than any aspect of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1204,11 +1207,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:30:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:03:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS and SQL Server, with no relevance to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a technical issue related to TFS 2012 and SQL Server, with no mention or discussion of Scrum Master roles, responsibilities, or related concepts. It does not align with any key topics associated with the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1479,6 +1485,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS 2012 and SQL Server, with no direct discussion of competence, continuous learning, or skill development. While it provides detailed steps for troubleshooting, it does not align with the core themes of competence as defined in the category. The mention of expertise in the description is too vague and does not contribute significantly to the discussion of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:03:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS 2012 and SQL Server, with no discussion of Agentic Agility principles, intent, or the interplay between human and AI capabilities. It lacks any mention of the core themes associated with Agentic Agility, making it irrelevant to the category.",
     "level": "Ignored"
   }
 }

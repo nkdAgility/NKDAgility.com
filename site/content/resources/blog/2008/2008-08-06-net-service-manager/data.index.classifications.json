@@ -73,11 +73,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T12:29:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:45:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the creation and use of a .NET Service Manager, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific tool, the .NET Service Manager, and its functionalities. There are no explicit discussions on DevOps principles, practices, or cultural shifts. While it mentions creating APIs and services, it lacks alignment with core DevOps themes such as collaboration, automation, or shared accountability. The depth of discussion is minimal, primarily describing the tool rather than its implications in a DevOps context.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -109,11 +112,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T12:29:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:45:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the creation and availability of a .NET Service Manager, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical tool for service management in .NET, with no explicit discussion of Agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any relevant themes or depth related to the category.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -163,11 +169,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T12:29:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:45:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the creation and use of a .NET Service Manager, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical tool, the .NET Service Manager, and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of EBM concepts such as current value, time to market, or empirical decision-making. The content lacks any depth or alignment with the key topics outlined for EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -883,11 +892,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:01:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:45:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a service manager for handling local and remote services, without discussing Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a tool for managing services rather than discussing Continuous Delivery principles or practices. There are no explicit mentions of Continuous Delivery, and the discussion lacks depth in relation to the category's key topics. While it hints at software development, it does not align with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1045,11 +1057,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:01:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:45:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on the creation and use of a Service Manager in .NET, with no mention of Test First Development or TDD principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the .NET Service Manager tool and its functionalities, with no explicit discussion of Test First Development principles, success criteria, or testing practices. It lacks any mention of automated or manual testing, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1234,11 +1249,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:01:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:45:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a .NET Service Manager and does not discuss Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical tool related to .NET service management, with no direct mention of Scrum or the role of a Scrum Master. It lacks alignment with the core themes of the Scrum Master category, such as facilitating team effectiveness or promoting agile principles. The depth of discussion is minimal and does not provide any insights into Scrum practices or the responsibilities of a Scrum Master.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1419,6 +1437,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the creation and availability of a .NET Service Manager, focusing on its functionality and uses without any mention of integrating testing, security, or compliance earlier in the software development lifecycle. There is no alignment with the core themes of the Shift-Left Strategy, and the depth of discussion is minimal, lacking any relevant detail on the topic.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T19:45:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical tool, the .NET Service Manager, and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth regarding the category's core themes.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T19:45:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical tool, the .NET Service Manager, and its functionalities. While it mentions the creation and updating of the service, it does not explicitly discuss competence, continuous learning, or skill development. The alignment with the core themes of competence is minimal, as the content lacks depth in discussing professionalism, trust, or quality outcomes. Overall, the content does not meet the criteria for a strong focus on competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T19:45:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the introduction and promotion of a software tool, the .NET Service Manager, without any explicit discussion of Continuous Improvement principles. While it mentions updating and enhancing the tool, it lacks a structured approach to Continuous Improvement, empirical evidence, or a culture of experimentation. The content does not align with the key topics outlined for Continuous Improvement, such as data-driven decision-making or strategies for integrating improvement into processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:45:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical tool for service management in .NET, with no explicit discussion of Agentic Agility or its principles. It lacks any mention of intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

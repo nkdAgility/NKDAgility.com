@@ -160,20 +160,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:25:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:52:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical installation issues related to .NET Framework and Visual Studio, with no relevance to Evidence-Based Management.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on technical instructions for installing the .NET Framework and does not discuss Evidence-Based Management or its principles. There are no direct mentions of data-informed decision-making or any related metrics, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:25:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:52:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of .NET Framework and Visual Studio, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the installation of the .NET Framework and Visual Studio, with no mention or discussion of agile methodologies, product management principles, or the Agile Product Operating Model. It does not align with any of the key topics outlined for the category.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -313,11 +319,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:25:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:52:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of the .NET Framework and troubleshooting related to Visual Studio, with no focus on DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation of the .NET Framework and troubleshooting related to Visual Studio, which does not align with the core principles of DevOps. There are no direct mentions of DevOps practices, principles, or cultural shifts, and the discussion lacks depth in any relevant DevOps context.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -697,11 +706,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T22:16:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:52:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process for the .NET Framework, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of the .NET Framework 3.5 Beta 2 on Vista, which is a technical guide rather than a discussion on Continuous Delivery. There are no direct mentions of Continuous Delivery principles, practices, or related topics. The content lacks alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or user feedback. Overall, it provides minimal depth regarding Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1336,11 +1348,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T22:16:39",
+    "calculated_at": "2025-04-08T20:52:31",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on installing .NET Framework and related technical details, with no mention of Scrum or Scrum Master roles.",
+    "reasoning": "The content focuses entirely on technical instructions for installing the .NET Framework and does not mention the Scrum Master role or any related concepts. There is no discussion of Scrum principles, team dynamics, or the responsibilities of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1363,11 +1378,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T22:16:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:52:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on installation procedures for .NET Framework and Visual Studio, with no mention of Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on installation instructions for the .NET Framework and does not discuss Test First Development principles, success criteria, or testing practices. It lacks any relevant mentions or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1431,6 +1449,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on troubleshooting the installation of the .NET Framework and does not discuss any aspects of the Shift-Left Strategy, such as early integration of testing or security in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:52:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for installing the .NET Framework and troubleshooting related issues. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it mention shared objectives or strategic alignment. The content is strictly technical and lacks any connection to the themes outlined in the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:52:22",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on technical instructions for installing software rather than discussing competence in Agile, Scrum, or DevOps contexts. While it does touch on problem-solving and troubleshooting, these aspects are not directly related to the principles of competence as defined in the category. The discussion lacks depth and does not align with the core themes of continuous learning or skill development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:52:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for installing the .NET Framework and troubleshooting related issues. It does not discuss Continuous Improvement principles, nor does it reflect on processes or team effectiveness. The mention of troubleshooting could be tangentially related to improvement, but it lacks depth and alignment with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:52:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on the installation process of the .NET Framework 3.5 Beta 2 on Vista, providing step-by-step instructions and troubleshooting tips. There are no discussions related to Agentic Agility, intentional shaping of outcomes, or the interplay between human and AI capabilities. The content does not align with the core themes of the category.",
     "level": "Ignored"
   }
 }

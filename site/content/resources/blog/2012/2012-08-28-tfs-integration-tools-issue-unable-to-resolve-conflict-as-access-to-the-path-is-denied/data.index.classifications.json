@@ -1132,11 +1132,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:54:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:01:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about resolving permission issues in TFS Integration Tools and does not discuss Test First Development or its principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses resolving access issues related to TFS Integration Tools and does not mention Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1219,11 +1222,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:54:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:01:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical issues related to TFS Integration Tools, with no mention of Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to TFS Integration Tools and does not mention the role or responsibilities of a Scrum Master. There is no discussion of Scrum principles, team dynamics, or coaching, which are central to the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1497,6 +1503,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS Integration Tools and does not explicitly discuss competence or its importance in Agile or DevOps contexts. While it touches on permissions and configuration, which could relate to competence in a very indirect way, it lacks a clear emphasis on continuous learning, skill development, or the broader implications of competence within teams or organisations.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:01:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to TFS Integration Tools and does not discuss Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is strictly about permissions and conflict resolution, lacking any depth or alignment with the themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

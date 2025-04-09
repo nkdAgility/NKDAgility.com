@@ -1060,11 +1060,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:11:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:37:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on Windows Live ID and OpenID, with no discussion of Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the integration of Windows Live ID with OpenID, focusing on authentication processes rather than any principles or practices related to Test First Development. There are no direct mentions of success criteria, testing practices, or the role of testing in software development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1249,11 +1252,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:11:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:37:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on Microsoft Live ID and OpenID authentication, with no relevance to Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on Windows Live ID and OpenID integration, with no mention or discussion of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics outlined for the Scrum Master category, nor does it provide any depth on the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1470,6 +1476,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the integration of Windows Live ID with OpenID, focusing on technical setup and user experience rather than on competence, continuous learning, or skill development. There are no explicit mentions of competence or its related themes, and the depth of discussion does not provide insights into professional growth or quality delivery.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:37:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the integration of Windows Live ID with OpenID, focusing on technical setup and user experience. It does not address the principles of Agentic Agility, such as intentional shaping of outcomes, autonomy, or adaptability. There are no explicit mentions of human or AI agency, nor does it explore the transformative capacity of individuals or systems in socio-technical environments.",
     "level": "Ignored"
   }
 }

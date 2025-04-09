@@ -1069,11 +1069,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:25:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:38:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of Power Tools for Visual Studio Team System without mentioning Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the release of Power Tools for Visual Studio Team System 2008 and does not mention Test First Development or its principles. There is no alignment with the core themes of Test First Development, such as success criteria, testing practices, or collaboration among team members. The discussion lacks depth regarding any relevant practices or methodologies related to Test First Development.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1258,11 +1261,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:25:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:38:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Visual Studio Team System and Power Tools, with no reference to Scrum Master roles or activities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Power Tools for Visual Studio Team System and does not mention the Scrum Master role or its responsibilities. There is no alignment with the core themes of the Scrum Master category, and the discussion lacks any depth related to Scrum practices or principles.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1479,6 +1485,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the release of Power Tools for Visual Studio Team System 2008 and does not explicitly discuss competence or its related themes. While there is a mention of involvement in a trial, it lacks depth in exploring continuous learning, skill development, or the impact of competence on team dynamics. Overall, the content does not align with the core principles of competence as defined.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:38:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the release of Power Tools for Visual Studio Team System 2008 and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion lacks depth and relevance to the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

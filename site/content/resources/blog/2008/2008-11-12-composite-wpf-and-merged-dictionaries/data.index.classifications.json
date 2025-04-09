@@ -1069,11 +1069,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:24:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:38:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on WPF, themes, and resource management, with no discussion about Test First Development or associated testing practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses managing themes and resource files in WPF applications, focusing on practical code solutions. There is no mention of Test First Development principles, success criteria, or testing practices, which are central to the category. The content lacks any depth or alignment with the key topics outlined for Test First Development.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1261,11 +1264,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:24:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:38:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details related to WPF and composite resource dictionaries, which are not related to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of WPF and resource management, with no direct mention of Scrum Master responsibilities or related concepts. It lacks any discussion on Scrum principles, team dynamics, or the role of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on technical implementation details related to WPF and resource management, with no explicit discussion of competence, continuous learning, or skill development. While it may imply a level of competence through the sharing of coding solutions, it does not engage with the core themes of the 'Competence' category as defined.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:38:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of managing themes and resource files in WPF applications, with no explicit discussion of Agentic Agility or its principles. It lacks any mention of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content does not differentiate between human and AI capabilities in the context of agility, nor does it provide any depth on the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:21:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:17:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to the installation of Microsoft Office Servers and does not address Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to the installation of Microsoft Office Servers SP1, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any depth in discussing these concepts.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:21:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:17:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation issues related to Microsoft Office Servers and SharePoint, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the installation and troubleshooting of Microsoft Office Servers Service Pack 1, with no references to agile methodologies, product management principles, or the Agile Product Operating Model. It does not discuss any relevant topics or concepts related to the category.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:22:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:17:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to the installation of Microsoft Office Servers and SharePoint, which does not align with DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting the installation of Microsoft Office Servers SP1 and does not discuss any DevOps principles, practices, or cultural shifts. There are no direct mentions of DevOps concepts such as collaboration, automation, or shared accountability, and the depth of discussion is limited to installation issues rather than any broader DevOps context.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -694,11 +703,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:47:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:17:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content revolves around the installation issues of Microsoft Office Servers Service Pack 1 and does not discuss Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting issues related to the installation of Microsoft Office Servers SP1, with no direct mention of Continuous Delivery principles or practices. While there are references to installation processes, they do not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or incremental improvements. The discussion lacks depth and does not explore any relevant strategies or tools associated with Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1336,11 +1348,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:47:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:17:29",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on technical issues related to Microsoft Office Servers and SharePoint, with no mention of Scrum or the Scrum Master role.",
+    "reasoning": "The content focuses entirely on technical issues related to the installation of Microsoft Office Servers and does not mention the role or responsibilities of a Scrum Master, nor does it discuss any Scrum-related concepts or practices.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1363,11 +1378,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:47:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:17:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on installation and troubleshooting of Microsoft Office Servers, with no mention of Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the installation and troubleshooting of Microsoft Office Servers SP1, with no direct mention of Test First Development principles or practices. While there is a brief mention of testing in the context of troubleshooting, it does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices. The discussion lacks depth and focus on the Test First approach.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1431,6 +1449,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the installation process of Microsoft Office Servers Service Pack 1 and related issues, with no explicit mention of the Shift-Left Strategy or its principles. While there are references to testing and troubleshooting, they are not framed within the context of integrating these processes earlier in the software development lifecycle, which is central to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:17:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting and installation issues related to Microsoft Office Servers SP1, with no explicit discussion of Common Goals, Agile, or DevOps principles. While there are mentions of processes and logs, they do not connect to the foundational principles of aligning strategy with execution or shared objectives within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:17:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific software installation issue, lacking any direct discussion of competence, continuous learning, or skill development. While it touches on problem-solving, it does not align with the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:17:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting installation issues related to Microsoft Office Servers SP1, with no direct mention of Continuous Improvement principles or practices. While there are elements of problem-solving and learning from errors, these are not framed within the context of Continuous Improvement methodologies or strategies. The discussion lacks depth and does not align with the core themes of Continuous Improvement, such as data-driven decision-making or fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:17:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting and installation issues related to Microsoft Office Servers, with no explicit discussion of Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are core to the category. The content lacks depth and relevance to the themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

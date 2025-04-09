@@ -1156,15 +1156,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-11T17:01:40",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 75.0,
+    "calculated_at": "2025-04-08T19:25:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the process of creating unit tests and integration tests using MSTest, which aligns with the principles of Test First Development. It provides detailed examples of how to set up tests before running code, including the use of attributes and configurations necessary for testing web services. However, while it covers practical aspects of testing, it does not explicitly discuss the broader principles of Test-Driven Development (TDD) or its benefits in the context of Agile methodologies, which slightly lowers the alignment score.",
-    "level": "Secondary"
+    "final_score": 41.0,
+    "reasoning": "The content discusses testing web services using MSTest, which includes some aspects of Test First Development, such as creating unit tests and ensuring tests pass in different environments. However, it lacks a strong focus on defining success criteria before implementation and does not delve deeply into the principles of Test First Development, such as TDD or ATDD. The discussion is more about practical testing challenges rather than the overarching philosophy of Test First Development.",
+    "level": "Tertiary"
   },
   "Windows": {
     "category": "Windows",
@@ -1246,11 +1246,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T01:39:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:25:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical details related to testing web services and does not focus on Scrum Master responsibilities, coaching, or team dynamics.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on technical aspects of testing web services using MSTest and Team Foundation Build Services, with no direct mention of the Scrum Master role or its responsibilities. While there is a brief mention of 'Scrum' in the tags, it is not discussed in the context of the Scrum Master's role or impact. The content lacks any substantial alignment with the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1530,6 +1533,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on technical implementation details for testing web services using MSTest, with minimal direct discussion on competence or skill development. While it touches on problem-solving and the importance of understanding testing frameworks, it lacks a broader discussion on continuous learning or fostering a culture of competence, which are key themes in the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:25:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of testing web services using MSTest and Team Foundation Build Services, with no explicit discussion of Agentic Agility or its principles. While there are mentions of problem-solving and adapting testing strategies, these do not align with the core themes of intentionality, autonomy, or the transformative capacity of individuals and systems as defined in the category.",
     "level": "Ignored"
   }
 }

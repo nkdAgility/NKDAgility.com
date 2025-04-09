@@ -76,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T12:41:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:47:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to MSBuild and unit testing, without a clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific error related to MSBuild and TFS, discussing a technical issue rather than the broader principles or practices of DevOps. While it touches on aspects of the development process, it lacks explicit discussions on collaboration, automation, or shared accountability, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T12:42:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:48:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical error related to MSBuild and unit testing, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical error related to MSBuild and unit testing, with no direct mention of Agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any relevant discussion on transitioning to a product ethos or agile processes, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -172,11 +178,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T12:42:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:48:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical error related to MSBuild and unit testing, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses a technical error related to MSBuild and unit testing, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and does not provide any depth on these topics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -901,11 +910,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:01:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:48:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to MSBuild and Accessor files in Unit Test projects, without any focus or relevance to Continuous Delivery practices or principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a specific error related to MSBuild and unit testing, without addressing Continuous Delivery principles, practices, or benefits. It lacks direct mentions of Continuous Delivery and does not explore relevant topics such as automation, rapid feedback, or cultural aspects associated with Continuous Delivery.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1069,11 +1081,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:01:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:48:12",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on an error in MSBuild related to a Unit Test project, without discussing the principles of Test First Development or TDD as a primary topic.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses a specific error related to MSBuild and Accessors in Unit Tests, which does not directly address the principles of Test First Development. While it mentions Unit Tests, it lacks a focus on defining success criteria or the broader concepts of Test First practices. The discussion is more about troubleshooting a technical issue rather than exploring the Test First Development methodology.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1261,11 +1276,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:01:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:48:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a technical issue related to MSBuild and does not discuss any aspects of the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical error related to MSBuild and unit testing, with no direct mention of Scrum Master responsibilities or related concepts. It lacks any discussion on Scrum principles, team dynamics, or the role of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1449,6 +1467,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a specific error related to MSBuild and unit testing without addressing the Shift-Left Strategy. There are no direct mentions of integrating testing or security earlier in the development process, nor does it explore the principles or benefits of the Shift-Left approach. The focus is on troubleshooting a technical issue rather than on strategic software development practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T19:47:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific technical error related to TFS and MSBuild, with no discussion of Common Goals, Agile, or DevOps principles. It lacks any mention of shared objectives or alignment strategies, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T19:47:58",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on a technical error related to MSBuild and does not discuss competence, continuous learning, or skill development. While it touches on resolving a specific issue, it lacks a broader discussion on the importance of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T19:48:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific technical error related to MSBuild and does not discuss Continuous Improvement principles or practices. While it mentions enhancing the development process, it lacks a clear connection to the core themes of Continuous Improvement, such as empirical evidence, culture of experimentation, or strategies for organisational integration.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:48:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical error related to MSBuild and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content lacks depth and relevance to the themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

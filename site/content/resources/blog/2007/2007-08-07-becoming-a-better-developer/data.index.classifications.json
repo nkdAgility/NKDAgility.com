@@ -160,20 +160,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:07:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:46:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal development and experiences as a developer, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal development tips for becoming a better developer, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on personal insights and experiences, it lacks any empirical evidence or data-informed decision-making related to management practices.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:07:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:46:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal development and experiences of a developer, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal development as a developer, discussing study habits, tools, and personal experiences rather than any principles or practices related to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management, or the key topics outlined in the APOM framework. The content does not align with the core themes of the category, and the depth of discussion is minimal, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -322,11 +328,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:07:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:45:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal development and experiences as a developer, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal development as a software developer, discussing study habits, tools, and personal experiences rather than DevOps principles. While it briefly mentions TFS (Team Foundation Server), it does not delve into any core DevOps themes such as collaboration, automation, or shared accountability. The overall discussion lacks depth and relevance to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -712,11 +721,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:29:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:46:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on personal development as a software developer, discussing study plans, hardware needs, and community engagement, with no central theme related to Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal development tips for becoming a better developer, with no explicit discussion of Continuous Delivery principles or practices. While it mentions tools like TFS, it does not delve into automation, testing, or deployment strategies that are central to Continuous Delivery. The overall theme is more about personal growth and experiences rather than the structured practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1354,11 +1366,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:29:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:46:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on personal development and programming topics rather than the specific role and responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal development as a developer, discussing study habits, tools, and personal experiences. It does not mention the role of a Scrum Master or any related responsibilities, techniques, or impacts on team dynamics or organisational change. The discussion is centred around individual growth rather than the facilitation of a Scrum Team or agile principles.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1381,11 +1396,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:29:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:46:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on personal development and experiences, with no clear discussion on Test First Development or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal development tips for becoming a better developer, with no explicit discussion of Test First Development principles or practices. While it touches on studying and tools, it lacks any mention of success criteria, testing methodologies, or the importance of testing in the development process, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1449,6 +1467,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on personal development and experiences of a developer, with no explicit discussion of the Shift-Left Strategy or its principles. While it touches on topics relevant to software development, it does not address integrating testing, security, or compliance earlier in the development process, nor does it provide any techniques, case studies, or tools related to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:45:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal development tips and experiences of the author, with no explicit discussion of Common Goals within Agile or DevOps frameworks. While there are mentions of personal objectives, they do not connect to shared organisational goals or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:45:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses personal development as a developer, including studying for certifications and sharing insights about dyslexia. While it touches on the importance of skill development, it lacks a focused discussion on competence as a foundational principle in Agile or DevOps. The mention of studying and personal growth aligns somewhat with the concept of competence, but the depth and explicit focus on continuous learning and professional capability are limited.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:46:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal development and practical tips for becoming a better developer, rather than discussing Continuous Improvement as a systematic approach. While there are elements of self-reflection and personal growth, they do not align with the structured principles of Continuous Improvement, such as empirical evidence or organisational processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:46:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal development tips for becoming a better developer, with no explicit discussion of Agentic Agility or its principles. While there are mentions of personal insights and adaptability, these do not align with the core themes of intentionality and agency in shaping outcomes. The depth of discussion is minimal, lacking any detailed exploration of the interplay between human and AI capabilities or the mechanisms of Agentic Agility.",
     "level": "Ignored"
   }
 }

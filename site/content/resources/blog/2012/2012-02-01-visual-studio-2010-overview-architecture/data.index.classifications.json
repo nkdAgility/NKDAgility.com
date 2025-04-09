@@ -1129,11 +1129,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:17:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:09:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses architecture and design concepts without any mention of Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010's architecture and tools for project visualization and standards enforcement, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1210,11 +1213,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:17:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:09:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio architecture and design concepts, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010 and its architectural tools, with no direct mention of Scrum or the role of a Scrum Master. While it discusses team collaboration and standards, these topics are not specifically aligned with the responsibilities or impact of a Scrum Master within a Scrum framework.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1485,6 +1491,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the features of Visual Studio 2010 and its tools for project architecture, with only a brief mention of team standards. While it touches on aspects of team collaboration and maintaining project architecture, it lacks a direct discussion on competence, continuous learning, or skill development, which are central to the category. The depth of discussion is minimal, primarily listing features rather than exploring the implications for competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:09:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010's tools for project architecture and team collaboration, with no explicit discussion of Agentic Agility or its principles. While there is a mention of team standards and collaboration, it does not align with the core themes of intentionality, autonomy, or adaptability in shaping outcomes. The depth of discussion is limited to technical features rather than exploring the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

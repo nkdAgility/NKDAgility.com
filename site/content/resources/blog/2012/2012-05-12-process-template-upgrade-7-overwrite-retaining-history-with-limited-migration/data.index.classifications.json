@@ -1174,11 +1174,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:31:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:07:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses upgrading and managing process templates in Team Foundation Server, which is not focused on Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on upgrading a TFS process template and does not discuss Test First Development principles, success criteria, or testing practices. It lacks any mention of automated or manual testing methodologies, making it irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1258,11 +1261,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:31:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:07:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses technical aspects of upgrading process templates in Team Foundation Server (TFS), without a clear focus on the Scrum Master role or related responsibilities within a Scrum framework.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on upgrading a TFS process template and does not discuss the role or responsibilities of a Scrum Master. While it briefly mentions Agile and Scrum templates, it lacks depth in exploring the Scrum Master's influence, techniques, or responsibilities, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1542,6 +1548,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on technical instructions for upgrading a TFS process template, with minimal discussion on competence or skill development. While it touches on the importance of testing and understanding the implications of changes, it lacks a deeper exploration of continuous learning or professional growth, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:07:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for upgrading a process template in TFS, with no explicit discussion of Agentic Agility or its principles. While there are mentions of maintaining continuity and adapting work items, these do not align with the core themes of intentionality, autonomy, or the transformative capacity of individuals and systems. The content lacks depth in exploring the interplay between human judgement and AI logic, and does not provide case studies or examples related to Agentic Agility.",
     "level": "Ignored"
   }
 }

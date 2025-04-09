@@ -1084,11 +1084,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:43:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:37:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of an event handler for Team Foundation Server, which is unrelated to the principles or practices of Test First Development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the release of a TFS Event Handler and its features, with no explicit mention of Test First Development principles, success criteria, or testing practices. It lacks any alignment with the core themes of Test First Development, focusing instead on notifications and workflow improvements in Team Foundation Server.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1276,11 +1279,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:43:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:37:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a software tool related to Team Foundation Server and does not discuss Scrum Master responsibilities or themes.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a software tool related to Team Foundation Server and does not mention the role or responsibilities of a Scrum Master. There is no alignment with the core themes of Scrum or agile principles, and the depth of discussion is minimal, focusing instead on technical features and functionalities.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1503,6 +1509,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the release of a software tool (TFS Event Handler v1.1) and its features, with no explicit discussion on competence, continuous learning, or skill development. While it mentions streamlining workflows, it does not delve into the importance of competence in Agile or DevOps contexts, nor does it provide strategies for fostering a culture of competence. The content lacks depth in discussing how the tool contributes to professional capability or quality outcomes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:37:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the release of a software tool for Team Foundation Server, discussing its features and improvements. There is no explicit mention of Agentic Agility, nor does it align with the core themes such as intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities. The discussion lacks depth regarding the principles of Agentic Agility, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

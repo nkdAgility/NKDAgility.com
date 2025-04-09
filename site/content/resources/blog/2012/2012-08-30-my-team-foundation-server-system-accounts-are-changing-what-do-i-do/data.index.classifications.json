@@ -1129,11 +1129,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:53:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:01:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on changing service accounts for Team Foundation Server, which is unrelated to Test First Development or TDD principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on managing service accounts for Team Foundation Server (TFS) and does not discuss any principles or practices related to Test First Development. There are no mentions of success criteria, testing methodologies, or the impact of testing on software delivery, which are core to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1216,11 +1219,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:53:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:01:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on managing service accounts in Team Foundation Server and does not discuss Scrum Master roles, responsibilities, or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on managing service accounts for Team Foundation Server (TFS) and does not discuss any aspects related to the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, team dynamics, or the Scrum Master's influence on organisational change, which are key topics in the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1491,6 +1497,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on managing service accounts in TFS 2012, which does not directly address the principles of competence in Agile or DevOps. While it mentions the importance of managing accounts effectively, it lacks a discussion on continuous learning, skill development, or fostering a culture of competence. The content is more operational and procedural rather than strategic or developmental.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:01:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on managing service accounts in Team Foundation Server (TFS) and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is technical and procedural, lacking any exploration of the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

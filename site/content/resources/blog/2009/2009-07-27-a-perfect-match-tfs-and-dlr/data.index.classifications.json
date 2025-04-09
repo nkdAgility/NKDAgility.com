@@ -1150,11 +1150,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:28:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:29:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues and solutions related to Team Foundation Server and Dynamic Language Runtime, without a focus on Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS) check-in policies and the Dynamic Language Runtime (DLR), with no explicit mention of Test First Development principles or practices. While it touches on development processes, it does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices. The discussion lacks depth regarding any testing methodologies, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1234,11 +1237,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:28:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:29:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about Team Foundation Server and technical implementation details, with no direct relevance to the Scrum Master role.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical aspects of Team Foundation Server and development processes, with no direct mention of Scrum or the role of a Scrum Master. It lacks alignment with the core themes of the Scrum Master category, such as facilitation, coaching, or team dynamics. The depth of discussion is focused on technical implementation rather than Scrum principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1518,6 +1524,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly touches on the author's personal experience and challenges with learning new technologies (IronPython, IronRuby) and mentions the need for skill development in the context of implementing a solution. However, it primarily focuses on technical implementation details and does not deeply engage with the principles of competence as defined in the category. The discussion lacks a strong emphasis on continuous learning or the broader implications of competence in Agile or DevOps environments.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:29:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses technical aspects of streamlining TFS check-in policies and does not explicitly address Agentic Agility or its core themes. While there is a mention of simplifying processes, it lacks a focus on intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI agency.",
     "level": "Ignored"
   }
 }

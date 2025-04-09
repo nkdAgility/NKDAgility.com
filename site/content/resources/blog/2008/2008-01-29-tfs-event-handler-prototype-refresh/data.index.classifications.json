@@ -163,20 +163,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:54:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:08:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses bug fixes and features of a software prototype, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the TFS Event Handler Prototype, focusing on bug fixes and enhancements to workflow. It does not explicitly mention Evidence-Based Management or its key topics. While there are references to improving team processes, these are not grounded in empirical evidence or metrics, which is essential for EBM. The discussion lacks depth and does not align with the core themes of EBM, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:54:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:08:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses bug fixes and features related to a specific software prototype, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific technical implementation of a TFS Event Handler, discussing bug fixes and enhancements to a prototype. It does not explicitly mention the Agile Product Operating Model or its principles. While there are references to team workflows and notifications, these are not aligned with the core themes of APOM, such as product management practices or continuous delivery. The discussion lacks depth regarding the Agile framework, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -319,11 +325,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:54:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:07:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses bug fixes and features related to a specific TFS Event Handler, with no clear focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific tool (TFS Event Handler) and its functionalities, which does not directly align with the core principles of DevOps. While there are mentions of enhancing workflows and fixing bugs, these are more focused on tool usage rather than the broader DevOps philosophy of collaboration, automation, and shared accountability. The discussion lacks depth in terms of DevOps concepts and does not provide a comprehensive exploration of the cultural shifts or practices necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -709,11 +718,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:11:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:08:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses bugs related to TFS Event Handler Prototype release and installation procedures, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a specific prototype related to TFS Event Handlers, focusing on bug fixes and enhancements to a tool rather than the principles or practices of Continuous Delivery. While there are mentions of improving workflows and sending notifications, these do not directly address Continuous Delivery concepts such as automation, rapid feedback, or incremental improvements. The discussion lacks depth in relation to Continuous Delivery, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1369,11 +1381,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:11:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:08:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of TFS Event Handler and does not relate to Scrum Master roles or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a technical prototype related to TFS Event Handlers and does not mention the role or responsibilities of a Scrum Master. There is no alignment with the core themes of Scrum or agile principles, and the depth of discussion is focused on technical implementation rather than Scrum practices.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1396,11 +1411,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:11:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:08:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses TFS Event Handler and associated bugs without any mention of Test First Development principles, practices, or related topics.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the TFS Event Handler Prototype, focusing on bug fixes and enhancements to workflow. There is no explicit mention of Test First Development principles, success criteria, or testing practices. The content lacks alignment with the core themes of Test First Development, and the depth of discussion is minimal, as it does not delve into any related testing methodologies or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1464,6 +1482,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses bug fixes and event handler functionalities in TFS without any explicit mention of the Shift-Left Strategy. While it touches on aspects of software development, it does not align with the core themes of integrating testing, security, or compliance early in the development process. The discussion lacks depth regarding the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:07:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on fixing bugs and enhancing a specific software prototype, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it mentions team workflows and event handlers, these topics do not connect to the foundational principles of aligning strategy with execution or shared objectives. The content lacks depth and detail on the category, making it largely irrelevant to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:07:55",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on fixing bugs and enhancing a specific software prototype, with minimal discussion on competence or continuous skill development. While it mentions the importance of documentation and invites ideas for event handlers, it does not delve into the core themes of competence such as continuous learning or professional development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:07:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on fixing bugs and enhancing a specific software prototype, which does not directly discuss Continuous Improvement principles. While there are elements of workflow enhancement and suggestions for new event handlers, these are not framed within a broader context of Continuous Improvement or organisational processes. The discussion lacks depth in terms of empirical evidence, data-driven decision-making, or a culture of experimentation, which are key aspects of the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:07:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on fixing bugs and enhancing a specific software prototype, with no explicit discussion of Agentic Agility principles. While it mentions improving workflows, it lacks a clear connection to intentional shaping of outcomes or the distinction between human and AI capabilities. The depth of discussion is limited to practical implementation details rather than theoretical exploration of Agentic Agility.",
     "level": "Ignored"
   }
 }

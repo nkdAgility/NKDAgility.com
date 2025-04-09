@@ -1069,11 +1069,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:01:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:40:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses workflow management in SharePoint, which does not align with Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on enabling user interaction with workflows in MySite, discussing permissions and task management. It does not mention Test First Development principles, success criteria, or any testing methodologies, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1267,11 +1270,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:01:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:40:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on managing permissions and workflows in SharePoint, which does not relate to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on enabling user interaction with workflows in MySite, discussing permissions and task lists. It does not mention the role of a Scrum Master, nor does it align with the core themes of Scrum or agile principles. The discussion is more about technical implementation rather than the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1494,6 +1500,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on technical instructions for enabling user interaction with workflows on MySite, which does not directly address the concept of competence. While there are implications of collaboration and permissions that could relate to team effectiveness, the discussion lacks explicit references to continuous learning, skill development, or the professional principles outlined in the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:40:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on enabling user interaction with workflows in MySite, discussing permissions and task management. While it touches on collaboration, it lacks explicit discussions on Agentic Agility principles, intent, or the interplay between human and AI capabilities. The content does not delve into the transformative capacity of individuals or systems, nor does it provide depth on the intentional shaping of outcomes, which are central to the category.",
     "level": "Ignored"
   }
 }

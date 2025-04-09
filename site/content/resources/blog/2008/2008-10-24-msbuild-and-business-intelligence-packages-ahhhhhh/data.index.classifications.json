@@ -1102,11 +1102,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:25:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:39:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses challenges related to automated build and testing of Business Intelligence solutions, lacking a focus on the principles and practices of Test First Development or Agile methodologies.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses challenges related to automating testing and deployment of Business Intelligence packages, which touches on aspects of testing but does not explicitly focus on Test First Development principles. While it mentions unit testing and automation, it lacks a clear emphasis on defining success criteria before implementation or the structured approach of Test First Development. The discussion is more about the challenges faced rather than a detailed exploration of Test First practices.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1300,11 +1303,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:25:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:39:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses automated build and deployment issues for Business Intelligence solutions, without any mention of Scrum Master roles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on challenges related to automating Business Intelligence builds and does not discuss the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, team dynamics, or the Scrum Master's influence on organisational change, which are key aspects of the category. The discussion is technical and specific to BI solutions, lacking any relevance to Scrum practices.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1530,6 +1536,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses challenges in automating Business Intelligence builds and highlights the need for solutions, which indirectly relates to competence in terms of skill development and problem-solving. However, it lacks a direct focus on continuous learning or the broader implications of competence in Agile or DevOps contexts. The depth of discussion is primarily technical and does not explore the cultural or strategic aspects of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:39:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the challenges of automating Business Intelligence builds and does not explicitly mention Agentic Agility or its principles. While it touches on issues related to automation and problem-solving, it lacks a focus on intentional shaping of outcomes, autonomy, or adaptability in the context of Agentic Agility. The discussion is more about technical challenges than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

@@ -1126,11 +1126,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:26:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on setting up and configuring Windows Server 2012 Core, with no discussion on Test First Development principles, practices, or related topics.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on setting up and managing Windows Server 2012 Core, with no direct mention of Test First Development principles, success criteria, or testing practices. It lacks any discussion on automated or manual testing methodologies, making it irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1213,11 +1216,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:26:56",
+    "calculated_at": "2025-04-08T18:56:46",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on Windows Server 2012 Core setup and management, with no relevant discussion about Scrum Master roles or responsibilities.",
+    "reasoning": "The content focuses entirely on technical aspects of setting up and managing Windows Server 2012 Core, with no mention of Scrum, the role of a Scrum Master, or any related agile principles. It does not discuss responsibilities, skills, or the impact of a Scrum Master, nor does it touch on team dynamics or stakeholder engagement.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1488,6 +1494,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on technical instructions for setting up Windows Server 2012 Core, with minimal discussion on competence or continuous learning. While it touches on the necessity of understanding command-line operations, it lacks a deeper exploration of skill development, professionalism, or the impact of competence on team dynamics and quality outcomes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:56:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical instructions for setting up and managing Windows Server 2012 Core, with no explicit discussion of Agentic Agility or its principles. While there are elements of autonomy in server management, the content lacks depth in exploring intentional shaping of outcomes, accountability, or the interplay between human judgement and AI logic.",
     "level": "Ignored"
   }
 }

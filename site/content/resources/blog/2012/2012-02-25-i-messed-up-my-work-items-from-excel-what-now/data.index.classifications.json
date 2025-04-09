@@ -1138,11 +1138,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:31:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:08:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues and solutions related to work item management in TFS and Excel, with no focus on Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses issues related to managing work items in TFS after bulk editing in Excel, with no direct mention or discussion of Test First Development principles, practices, or methodologies. It focuses on error recovery and data management rather than testing strategies or success criteria, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1222,11 +1225,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:31:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:08:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on issues related to bulk editing in Excel and TFS work items, rather than discussing the Scrum Master role, responsibilities, or practices within the Scrum framework.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting issues related to TFS work items and Excel, with no direct mention of the Scrum Master role or its responsibilities. While it touches on work item management, it does not align with the core themes of Scrum Master discussions, such as coaching, facilitating, or promoting agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1500,6 +1506,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on troubleshooting and solutions for errors in TFS work items due to Excel mistakes. While it touches on the need for careful data management, it does not explicitly discuss continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The discussion is more about practical problem-solving rather than fostering a culture of competence or professional growth.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:08:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting and recovering from errors in TFS work items after bulk editing in Excel. It does not discuss the intentional shaping of outcomes, agency, or the principles of Agentic Agility. While it touches on the need for careful data management, it lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }
 }

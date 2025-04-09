@@ -1117,11 +1117,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T23:56:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:17:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation and use of multiple versions of Microsoft Project, which is unrelated to Test First Development or Agile practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the challenges and workarounds of running multiple versions of Microsoft Project, with no direct mention or alignment to Test First Development principles. It lacks any discussion on success criteria, testing practices, or collaboration among development roles, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1204,11 +1207,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T23:56:49",
+    "calculated_at": "2025-04-08T19:17:28",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
     "final_score": 1.0,
-    "reasoning": "Content discusses technical aspects of Microsoft Project and its versions, with no relevance to the role or responsibilities of a Scrum Master.",
+    "reasoning": "The content focuses entirely on technical aspects of running multiple versions of Microsoft Project, with no mention of Scrum, the role of a Scrum Master, or any related agile principles. It does not discuss responsibilities, skills, or the impact of a Scrum Master, nor does it touch on team dynamics or stakeholder engagement.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1479,6 +1485,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily discusses technical challenges and workarounds related to running multiple versions of Microsoft Project. While it touches on user understanding and potential issues, it does not focus on continuous learning, skill development, or the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:17:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical challenges and workarounds related to running multiple versions of Microsoft Project. It does not address the intentional shaping of outcomes, agency, or the principles of Agentic Agility. The focus is on practical issues rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

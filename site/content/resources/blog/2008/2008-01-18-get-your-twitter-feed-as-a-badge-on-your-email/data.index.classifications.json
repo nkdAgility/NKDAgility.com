@@ -154,20 +154,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:03:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:10:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses embedding a Twitter feed into an email, which is unrelated to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on displaying a Twitter feed in an email signature and does not discuss any aspects of Evidence-Based Management. There are no direct mentions of EBM concepts, and the content lacks any alignment with the key topics outlined for the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:03:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:10:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on embedding a Twitter feed in an email and does not discuss Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on displaying a Twitter feed in an email signature using FeedBurner, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any relevant topics outlined in the APOM framework. The content lacks any depth or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -307,11 +313,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:03:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:09:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses embedding a Twitter feed in HTML, which is unrelated to DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on displaying a Twitter feed in an email signature using FeedBurner, which is unrelated to DevOps principles, practices, or cultural shifts. There are no direct mentions of DevOps, and the discussion does not align with any core themes of the category. The content lacks depth in relation to DevOps topics.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -685,11 +694,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:43:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:10:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on embedding a Twitter feed in an email and does not discuss Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on displaying a Twitter feed in an email, which is unrelated to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion does not align with any of the key topics outlined for this category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1315,11 +1327,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:43:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:10:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on embedding a Twitter feed in emails and does not relate to Scrum Master responsibilities or Scrum framework.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on displaying a Twitter feed in an email and does not mention Scrum, the role of a Scrum Master, or any related concepts. It lacks any discussion of Scrum principles, responsibilities, or techniques relevant to the Scrum Master role.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1342,11 +1357,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:43:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:10:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on embedding Twitter feeds in email, which is unrelated to Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on displaying a Twitter feed in an email and does not mention or relate to Test First Development principles, success criteria, or testing practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1410,6 +1428,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content is focused on embedding a Twitter feed into an email and does not discuss any aspects of software development, testing, security, or compliance. It lacks any mention of the Shift-Left Strategy or its principles, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:09:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a technical guide for displaying a Twitter feed in an email signature, which does not relate to the principles of Common Goals in Agile or DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth on any relevant topics.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:10:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical guide for displaying a Twitter feed in an email, with no direct mention of competence or its related themes. It lacks depth in discussing continuous learning, skill development, or professionalism, which are essential to the category of competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:10:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical guide for displaying a Twitter feed in an email signature, with no direct mentions or discussions related to Continuous Improvement principles. It lacks alignment with the core themes of Continuous Improvement, such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is minimal, as it only provides a brief overview of a technical process without any connection to the Continuous Improvement framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:10:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on displaying a Twitter feed in an email signature and does not discuss any aspects of Agentic Agility, such as intentional shaping of outcomes, autonomy, or adaptability. It lacks any mention of human or AI capabilities in the context of agility, making it irrelevant to the category.",
     "level": "Ignored"
   }
 }

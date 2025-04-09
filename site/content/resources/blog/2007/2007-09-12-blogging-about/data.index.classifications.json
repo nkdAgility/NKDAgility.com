@@ -160,20 +160,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:33:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:34:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and job transitions, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal reflections and career transitions, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks any mention of data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:33:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:34:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and technical topics unrelated to the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal reflections and experiences related to career transitions and technical topics such as TFS and Visual Studio. There are no direct mentions or discussions of the Agile Product Operating Model or its principles, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -319,11 +325,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:33:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:33:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and job transitions, with only brief mentions of TFS, which does not align with core DevOps principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal reflections and career transitions, with only brief mentions of TFS (Team Foundation Server) and Visual Studio. While these tools are related to software development and may have some relevance to DevOps practices, the overall discussion lacks a clear focus on DevOps principles, such as collaboration, automation, or shared accountability. The content does not delve into the cultural shifts or practices necessary for effective DevOps implementation, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -709,11 +718,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:53:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:34:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses personal experiences, job transitions, and unrelated software technologies, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal reflections and career transitions, with only brief mentions of TFS (Team Foundation Server) and related activities. It lacks a direct discussion on Continuous Delivery principles, practices, or benefits, and does not delve into automation, incremental improvements, or user feedback, which are core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1345,11 +1357,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:53:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:34:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content mainly shares personal experiences, job transitions, and technical topics without any focus on Scrum Masters or related discussions.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal reflections and experiences related to career transitions and technical topics such as TFS and Visual Studio. There are no direct mentions of the Scrum Master role or its responsibilities, and the discussion does not align with the core themes of Scrum or agile principles. The content lacks depth in discussing any relevant aspects of the Scrum Master role.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1372,11 +1387,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:53:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:34:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal updates and experiences rather than any concepts related to Test First Development or Test-Driven Development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on personal reflections and career transitions, with no explicit discussion of Test First Development principles or practices. It lacks any mention of success criteria, testing methodologies, or the impact of testing on software delivery, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1440,6 +1458,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on personal experiences and job transitions, with no explicit discussion of the Shift-Left Strategy or its principles. While there are mentions of software development tools and processes, they do not align with the core themes of integrating testing, security, or compliance early in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:33:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal reflections and career transitions rather than discussing Common Goals within Agile or DevOps frameworks. While there are mentions of TFS and Visual Studio, these are not connected to the principles of shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:33:54",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 40.0,
+    "reasoning": "The content briefly touches on the author's commitment to improving their knowledge and skills, particularly in relation to CLR and TFS, which aligns with the theme of continuous learning. However, the primary focus is on personal reflections and career transitions rather than a deep exploration of competence as a foundational principle in Agile or DevOps methodologies. The discussion lacks depth in terms of strategies for fostering a culture of competence or the impact of competence on decision-making.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:33:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal reflections and career transitions rather than Continuous Improvement principles. While there are mentions of learning and upgrading skills, these are not framed within a Continuous Improvement context or methodology. The discussion lacks depth and does not provide empirical evidence or strategies related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:33:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal reflections and career transitions, with no explicit discussion of Agentic Agility or its principles. While there are mentions of learning and adapting, these are not framed within the context of intentional outcome shaping or the interplay between human and AI capabilities. The content lacks depth and detail on the key topics associated with Agentic Agility.",
     "level": "Ignored"
   }
 }

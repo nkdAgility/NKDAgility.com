@@ -1132,11 +1132,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:32:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content mainly discusses dependency injection in ASP.NET and WPF, with no focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Dependency Injection in ASP.NET and does not explicitly mention Test First Development or its principles. While it touches on testing cycles, it lacks a focus on defining success criteria or the Test First approach. The discussion is more about implementation details rather than the testing philosophy itself.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1219,11 +1222,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:32:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation of dependency injection in ASP.NET without any reference to Scrum Master responsibilities or the Scrum framework.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical implementation of Dependency Injection in ASP.NET and does not mention or discuss any aspects related to the role or responsibilities of a Scrum Master. There is no alignment with the core themes of the category, and the depth of discussion is limited to technical details, making it irrelevant to the Scrum Master classification.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1500,6 +1506,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on technical implementation details of Dependency Injection in ASP.NET using Unity. While it touches on aspects of flexibility and efficiency, it does not explicitly discuss competence, continuous learning, or skill development. The discussion lacks depth in relation to the principles of professionalism and quality delivery, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:32:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on implementing Dependency Injection in ASP.NET using Unity, which is a technical discussion about software development practices. It does not explicitly mention Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI systems. The discussion lacks depth regarding the transformative capacity of individuals or systems, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

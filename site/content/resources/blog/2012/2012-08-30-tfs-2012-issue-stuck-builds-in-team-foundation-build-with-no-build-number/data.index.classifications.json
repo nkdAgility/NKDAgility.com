@@ -1162,11 +1162,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:51:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:01:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on resolving issues with Team Foundation Build and server configurations, with no discussions on Test First Development or related principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses troubleshooting issues related to Team Foundation Server builds, with no explicit mention of Test First Development principles or practices. It lacks alignment with the core themes of Test First Development, such as defining success criteria or discussing testing methodologies like TDD or ATDD. The depth of discussion is focused on resolving a specific technical issue rather than exploring the broader concepts of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1252,11 +1255,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:51:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:01:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and build processes, with no relevance to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting issues related to Team Foundation Server and build processes, with no direct mention of the Scrum Master role or its responsibilities. While there is a brief mention of team dynamics in the context of resolving technical issues, it does not align with the core themes of the Scrum Master category, such as coaching, mentoring, or promoting agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1539,6 +1545,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on troubleshooting a technical issue with TFS 2012 builds, lacking explicit discussions on competence, continuous learning, or skill development. While it demonstrates problem-solving skills, it does not align with the core themes of competence as defined in Agile and DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:01:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting issues with Team Foundation Server builds, lacking any discussion on Agentic Agility principles, intent, or the interplay between human and AI capabilities. It does not address the intentional shaping of outcomes or the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

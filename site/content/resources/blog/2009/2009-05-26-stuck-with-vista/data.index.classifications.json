@@ -1114,11 +1114,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:30:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on Windows Vista and its service packs, with no discussion of Test First Development principles, practices, or related topics.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses Windows Vista and its Service Pack 2, with no mention of Test First Development principles, success criteria, or testing practices. It does not align with the core themes of the category, nor does it provide any depth on the subject.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1201,11 +1204,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:13",
+    "calculated_at": "2025-04-08T19:30:54",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses technical issues related to Windows Vista and its updates, with no relevance to Scrum Master roles or responsibilities.",
+    "reasoning": "The content focuses entirely on Windows Vista and its service packs, with no mention or discussion of Scrum, the role of a Scrum Master, or any related agile principles. It does not align with the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1476,6 +1482,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses Windows Vista and its Service Pack 2, focusing on technical issues and personal experiences rather than on competence in Agile, Scrum, DevOps, or Lean methodologies. There are no direct mentions of competence or related themes such as continuous learning or skill development.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:30:50",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content focuses entirely on Windows Vista and its Service Pack 2, discussing technical issues and solutions related to the operating system. There is no mention of Agentic Agility, intentional shaping of outcomes, or the interplay between human and AI capabilities. The discussion is strictly about software updates and personal experiences with the operating system, which does not align with the category's focus.",
     "level": "Ignored"
   }
 }

@@ -160,20 +160,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T22:12:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:10:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation of a WCF service and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on technical implementation details of creating a WCF Service Host and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of EBM concepts, and the content lacks any alignment with the key topics outlined for EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T22:12:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:10:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical implementation of a WCF service, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on creating a WCF Service Host programmatically, which is a technical implementation detail related to .NET services. It does not mention or align with any principles of the Agile Product Operating Model, such as product management, agile methodologies, or customer-centric value delivery. The discussion is strictly technical and does not touch upon any of the key topics outlined in the APOM category.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -313,11 +319,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T22:12:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:10:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on creating a WCF service host programmatically, which is not related to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating a WCF Service Host programmatically, which is a technical implementation detail related to .NET services. It does not discuss DevOps principles, practices, or cultural shifts, nor does it mention collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The content lacks any significant alignment with the key topics outlined for the DevOps category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -703,11 +712,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:18:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:10:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on creating a WCF Service Host programmatically, discussing technical implementation details rather than Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating a WCF Service Host programmatically, detailing technical aspects of service configuration and binding in .NET. It does not discuss Continuous Delivery principles, practices, or related topics, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1345,11 +1357,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:19:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:10:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on technical implementation details related to creating a WCF Service Host and does not discuss the Scrum Master role, responsibilities, or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on creating a WCF Service Host programmatically, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics outlined for the Scrum Master category, and lacks any depth or relevant discussion on the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1372,20 +1387,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:19:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:10:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the implementation details of creating a WCF Service Host programmatically without any mention of Test First Development or related testing practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on creating a WCF Service Host programmatically, discussing technical implementation details without any reference to Test First Development principles, success criteria, or testing practices. There is no mention of TDD, ATDD, or any related concepts, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:30:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:10:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical implementation of a WCF service, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of creating a WCF Service Host programmatically, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. It lacks alignment with the core themes of the category and does not provide any depth on social frameworks or methodologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1437,6 +1458,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on creating a WCF service programmatically, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. While there are mentions of security in the context of service binding, it does not align with the core themes of the Shift-Left Strategy, which requires a broader and more proactive approach to software quality and development processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T21:10:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details of creating a WCF Service Host programmatically, with no explicit discussion of Common Goals, Agile, or DevOps principles. It lacks alignment with the core themes of shared objectives or strategic alignment, and provides minimal depth on any related concepts.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T21:10:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical implementation details for creating a WCF Service Host programmatically. While it demonstrates a level of expertise in the subject matter, it does not explicitly discuss competence in the context of Agile, Scrum, or DevOps methodologies. The discussion lacks depth regarding continuous learning, skill development, or the importance of competence in delivering quality outcomes, which are key themes of the category. Therefore, the confidence score reflects a minimal connection to the concept of competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T21:10:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details for creating a WCF Service Host programmatically. It does not discuss Continuous Improvement principles, nor does it align with the key topics outlined for this category. There are no mentions of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning, which are essential for the Continuous Improvement classification.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T21:10:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details of creating a WCF Service Host, with no explicit discussion of Agentic Agility or its principles. While there is a minor mention of adaptability in the context of service creation, it does not align with the core themes of intentionality, agency, or the interplay between human and AI capabilities. Overall, the content lacks depth and relevance to the category.",
     "level": "Ignored"
   }
 }

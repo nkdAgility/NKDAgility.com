@@ -1204,11 +1204,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T03:05:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:12:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses primarily on the role and responsibilities of the Product Owner in Scrum, without any discussion on Test First Development or its principles.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the role of Product Owners in Scrum and their responsibilities regarding backlog management. While it touches on aspects of agile development, it does not explicitly address Test First Development principles, success criteria, or testing practices. The focus is on Scrum roles rather than the Test First approach, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1285,11 +1288,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T03:05:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:12:38",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of the Product Owner, without focusing on the Scrum Master role or related topics.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner within the Scrum framework, discussing their responsibilities and challenges. While it touches on Scrum principles, it does not directly address the role or responsibilities of the Scrum Master, which is the primary focus of the category. The mention of Scrum practices is secondary to the discussion of the Product Owner's role, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1582,5 +1588,17 @@
     "final_score": 56.0,
     "reasoning": "The content discusses the role of the Product Owner in Scrum, touching on aspects of responsibility and accountability, which are related to competence. However, it primarily focuses on the challenges and dynamics of the role rather than explicitly addressing continuous learning, skill development, or fostering a culture of competence. The discussion lacks depth in exploring how competence impacts decision-making or quality outcomes, leading to a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:12:33",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the role of Product Owners in Scrum, focusing on backlog management and value maximisation. While it touches on accountability and the need for autonomy in decision-making, it does not explicitly address the concept of Agentic Agility or differentiate between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals or systems in shaping outcomes intentionally.",
+    "level": "Ignored"
   }
 }

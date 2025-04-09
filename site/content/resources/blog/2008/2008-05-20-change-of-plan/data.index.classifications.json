@@ -154,20 +154,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:03:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:49:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses project planning and technical implementation details, with no focus on evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the evolution of a SharePoint project and focuses on debugging and testing, which does not align with the principles of Evidence-Based Management. There are no explicit mentions of empirical evidence or data-informed decision-making, and the discussion lacks depth regarding the key topics of EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:03:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:49:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development and testing of a system related to SharePoint, without a clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a SharePoint project and the author's reflections on debugging and testing, with no explicit mention of Agile methodologies or the Agile Product Operating Model. While there is a focus on project evolution, it does not align with the core themes of APOM, such as product-oriented mindsets or continuous delivery. The discussion lacks depth and detail related to the principles of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:04:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:49:31",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development and testing of a system related to SharePoint, without a clear focus on DevOps principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content briefly touches on debugging and testing within the context of a SharePoint project, which could relate to DevOps practices. However, it lacks explicit discussions on core DevOps principles such as collaboration, automation, or shared accountability. The focus is primarily on the evolution of a specific project rather than the broader DevOps philosophy, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -694,11 +703,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:41:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:49:55",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the decision-making around a specific project related to SharePoint and does not focus on Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content briefly touches on debugging and testing, which are relevant to Continuous Delivery, but it lacks a clear focus on the principles and practices of Continuous Delivery itself. The discussion is more about the evolution of a project rather than the delivery process, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1336,11 +1348,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:41:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:49:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on technical project details related to SharePoint, with no relevant discussion on Scrum Master roles or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a SharePoint project and the author's reflections on system design and debugging, with no explicit mention of Scrum or the role of a Scrum Master. While there may be an indirect connection to project management, it lacks the core themes and depth related to the responsibilities and impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1363,11 +1378,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:41:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:49:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses implementation plans for a system without a focus on Test First Development principles or related practices.",
+    "final_score": 30.0,
+    "reasoning": "The content briefly touches on testing and debugging but does not explicitly discuss Test First Development principles or practices. While it mentions the importance of testing in the context of a SharePoint project, it lacks a clear focus on defining success criteria or the structured approach of Test First Development. The discussion is more about the evolution of a project rather than a detailed exploration of Test First methodologies.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1431,6 +1449,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content briefly touches on debugging and testing but does not explicitly discuss the Shift-Left Strategy or its principles. It lacks a focus on integrating testing, security, or compliance early in the development process, and does not provide any depth or detail related to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T19:49:34",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the author's personal reflections on a SharePoint project, focusing on debugging and testing rather than on shared objectives or alignment within teams. While there is a mention of the project's evolution, it lacks explicit discussions on Common Goals, their significance, or how they relate to Agile or DevOps principles. The content does not provide depth or detail on the category, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T19:49:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the importance of debugging and testing in the context of a SharePoint project, which can relate to competence in terms of skill development and quality outcomes. However, it lacks explicit discussions on continuous learning, strategies for fostering competence, or the impact of competence on decision-making. The focus is more on project evolution rather than a deep exploration of competence as a foundational principle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T19:49:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses a change in approach to a SharePoint project, indicating some level of reflection and adaptation. However, it lacks explicit discussions on Continuous Improvement principles, such as empirical evidence or a structured approach to enhancing processes. The focus is more on debugging and testing rather than a comprehensive strategy for continuous improvement, which limits its alignment with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:49:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content briefly touches on rethinking an approach and debugging, which could imply some level of adaptability. However, it lacks explicit discussions on intentional shaping of outcomes, autonomy, or the principles of Agentic Agility. The focus is primarily on technical aspects of a SharePoint project rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

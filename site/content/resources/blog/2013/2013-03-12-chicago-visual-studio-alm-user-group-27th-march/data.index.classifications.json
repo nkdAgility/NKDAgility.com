@@ -1165,11 +1165,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:24:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:56:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a demonstration at a Visual Studio ALM User Group meeting, discussing features unrelated to Test First Development, such as Kanban columns and work item tagging.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on a user group meeting discussing Kanban, Work Item Tags, and Visual Studio features, with no direct mention or discussion of Test First Development principles, practices, or related topics. It lacks any depth or alignment with the core themes of Test First Development, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1246,11 +1249,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:24:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:56:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on a demonstration of Visual Studio features and does not discuss Scrum or the role of a Scrum Master.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a user group event focused on Visual Studio and Kanban, with no direct mention of the Scrum Master role or its responsibilities. While it touches on agile concepts like Kanban, it does not align with the core themes of the Scrum Master category, such as coaching, mentoring, or facilitating Scrum practices. The depth of discussion is minimal, as it is more about a specific event rather than the role of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1527,6 +1533,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on an event announcement and technical features of Visual Studio, with minimal direct discussion of competence. While it touches on topics relevant to Agile practices, such as Kanban, it lacks a thorough exploration of continuous learning or skill development, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:56:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a user group meeting discussing Visual Studio features, specifically Kanban and Work Item Tags, without any mention of Agentic Agility or its principles. It lacks any discussion on intentional shaping of outcomes, human or AI agency, or the transformative capacity of individuals and systems.",
     "level": "Ignored"
   }
 }

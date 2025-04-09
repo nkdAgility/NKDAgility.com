@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:47:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:39:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a new search tool and personal experiences with it, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a new search tool for dyslexic users, focusing on its features and usability. There are no direct mentions of Evidence-Based Management principles, nor does it align with the core themes such as data-informed decision-making or metrics related to value delivery. The discussion lacks depth regarding any empirical evidence or strategic management practices.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:47:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:39:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a new search tool and its features, with no relevance to Agile principles or product operating models.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a search tool for dyslexic users, with no direct mentions or relevant discussions about the Agile Product Operating Model. It lacks alignment with the core themes of APOM, such as product management principles or agile methodologies, and provides minimal detail on any related concepts.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -316,11 +322,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:48:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:39:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a new search tool and its features, with no relevance to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a search tool designed for dyslexic users, with no mention of DevOps principles, practices, or cultural shifts. It does not discuss collaboration, automation, or any other key topics related to DevOps, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -700,11 +709,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:08:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:39:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a new search front end from Microsoft, focusing on its features and usability, with no relevance to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a new search tool, Tafiti, and its features for dyslexic users. There are no direct mentions of Continuous Delivery, nor does it align with the core themes such as automation, incremental improvements, or software quality. The discussion lacks depth regarding Continuous Delivery principles, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1333,11 +1345,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:08:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:39:19",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on a search engine tool and does not discuss Scrum or the role of a Scrum Master.",
+    "reasoning": "The content focuses entirely on a search tool designed for dyslexic users and does not mention or discuss any aspects related to the role, responsibilities, or impact of a Scrum Master. There is no alignment with the key topics outlined for the Scrum Master category, nor is there any depth of discussion regarding Scrum practices or principles.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1360,11 +1375,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:08:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:39:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not discuss Test First Development or related topics; it focuses on a search engine and its features, with no mention of testing practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a search tool for dyslexic users and does not discuss any principles or practices related to Test First Development. There are no mentions of success criteria, testing methodologies, or any relevant practices that align with the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1428,6 +1446,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content focuses on a new search tool and its usability features, with no discussion of software development processes, testing, security, or compliance. It does not align with the Shift-Left Strategy in any meaningful way.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:39:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a new search tool for dyslexic users, discussing its features and personal experiences with it. There are no mentions of Common Goals, Agile, or DevOps principles, nor does it provide any depth on aligning strategies or objectives within teams. The discussion is entirely centred around a product review, which does not relate to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:39:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a search tool for dyslexic users, focusing on its features and usability. There is no mention of competence, continuous learning, or skill development, which are central to the category. The discussion does not align with the core themes of competence, and the depth of discussion is minimal, as it lacks any substantive exploration of professional skills or capabilities.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:39:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a new search tool, Tafiti, and its features for dyslexic users. While it discusses usability and user experience, it does not engage with the principles of Continuous Improvement, such as empirical evidence, data-driven decision-making, or strategies for enhancing processes. The discussion lacks depth and does not align with the core themes of Continuous Improvement, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:39:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a search tool designed for dyslexic users, focusing on its features and usability. There are no explicit mentions of Agentic Agility, nor does it engage with the core themes of intentionality, autonomy, or adaptability in a socio-technical context. The discussion lacks depth regarding the transformative capacity of individuals or systems, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

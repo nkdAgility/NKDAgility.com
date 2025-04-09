@@ -1057,11 +1057,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:01:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:38:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a product related to TFS and does not mention Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a tool for cloning projects and enhancing disaster recovery in TFS, with no explicit discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1246,11 +1249,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:01:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:38:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss the Scrum Master role or relevant Scrum concepts; it is primarily about a TFS product.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on TFS Data Manager, a tool for project management and disaster recovery, with no direct mention of Scrum Master responsibilities or related concepts. It lacks any discussion on Scrum principles, team dynamics, or the role of a Scrum Master, indicating a very low relevance to the category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1467,6 +1473,18 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on a tool for project management and disaster recovery in TFS, with no explicit discussion of competence, continuous learning, or skill development. While it hints at enhancing capabilities, it does not delve into the principles of professionalism or quality delivery that define the category of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:38:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a tool for cloning projects and enhancing disaster recovery in TFS, with no explicit discussion of Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content lacks depth and does not engage with the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

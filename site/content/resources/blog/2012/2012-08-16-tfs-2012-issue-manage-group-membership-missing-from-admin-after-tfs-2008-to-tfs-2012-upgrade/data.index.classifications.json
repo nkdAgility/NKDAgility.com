@@ -1138,11 +1138,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:03:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to permissions management in Team Foundation Server rather than Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses an issue related to permissions in TFS after an upgrade, with no direct mention of Test First Development principles, success criteria, or testing practices. It focuses on troubleshooting and solutions rather than any testing methodologies or development practices.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1225,11 +1228,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:03:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on TFS, permissions management, and specific technical issues unrelated to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS (Team Foundation Server) and does not mention the role or responsibilities of a Scrum Master. There is no alignment with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles. The depth of discussion is focused on troubleshooting and permissions management, which is unrelated to Scrum practices.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1500,6 +1506,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on a technical issue related to permissions in TFS after an upgrade, with no explicit discussion on competence or continuous skill development. While it touches on the need for proper permissions, it does not delve into the broader themes of competence, such as continuous learning or fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:02:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to permissions in TFS after an upgrade. It does not discuss Agentic Agility, nor does it explore themes of intentionality, autonomy, or adaptability. The content lacks any mention of human or AI agency, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

@@ -1102,11 +1102,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:06:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:28:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about a colleague's personal blogging experience and does not discuss Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content focuses on a personal journey in corporate blogging and does not mention Test First Development or its principles. There is no discussion of success criteria, testing practices, or any related topics, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1183,11 +1186,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:06:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:28:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss any aspects of the Scrum Master role or responsibilities; it is about a personal blog entry unrelated to Scrum.",
+    "final_score": 4.0,
+    "reasoning": "The content does not discuss the role or responsibilities of a Scrum Master, nor does it touch on any related themes such as agile principles or team dynamics. It focuses entirely on a colleague's blogging journey and SQL Server functions, which are unrelated to the Scrum framework.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1458,6 +1464,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a personal journey of a colleague in corporate blogging, with no explicit discussion of competence, continuous learning, or skill development. While it mentions a blog post about SQL Server functions, it does not delve into the importance of competence in Agile or DevOps contexts, nor does it provide any strategies for fostering a culture of competence. Therefore, the alignment with the category is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:28:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal journey in corporate blogging and does not discuss Agentic Agility or its principles. There are no direct mentions of autonomy, adaptability, or intentional shaping of outcomes, nor does it explore the interplay between human and AI capabilities. The discussion is unrelated to the core themes of the category.",
     "level": "Ignored"
   }
 }

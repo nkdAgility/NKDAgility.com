@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:20:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:30:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal story related to deep vein thrombosis and a petition for health management changes, lacking focus on evidence-based management principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses a personal story related to deep vein thrombosis (DVT) advocacy and a petition for better screening, which does not align with the principles of Evidence-Based Management. There are no direct mentions of empirical evidence or data-informed decision-making, and the focus is on personal experiences rather than management practices or metrics relevant to EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:20:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:30:36",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on deep vein thrombosis and a related petition, with no relevance to Agile principles or product development.",
+    "reasoning": "The content focuses entirely on deep vein thrombosis (DVT) advocacy and personal experiences related to a petition for better screening and awareness. It does not mention or discuss any aspects of the Agile Product Operating Model, nor does it align with its principles or themes. Therefore, it is completely unrelated to the category.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -316,11 +322,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:21:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:30:23",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on personal experiences and advocacy related to deep vein thrombosis, with no relevance to DevOps principles or practices.",
+    "reasoning": "The content focuses entirely on deep vein thrombosis (DVT) advocacy and personal experiences related to health issues, with no mention or discussion of DevOps principles, practices, or cultural shifts. It does not align with any key topics of the DevOps category, such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -694,11 +703,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:08:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:30:45",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on deep vein thrombosis awareness and advocacy, with no relevance to Continuous Delivery principles or practices.",
+    "reasoning": "The content focuses entirely on deep vein thrombosis (DVT) advocacy and personal experiences related to health issues, with no mention or discussion of Continuous Delivery principles, practices, or related topics.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1324,11 +1336,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:08:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:30:38",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily about deep vein thrombosis (DVT) and a related petition, with no mention of Scrum processes, roles, or responsibilities.",
+    "reasoning": "The content is entirely focused on deep vein thrombosis (DVT) advocacy and does not mention the role or responsibilities of a Scrum Master, nor does it discuss any related concepts or themes. There is no relevance to Scrum or agile methodologies, making it completely misaligned with the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,11 +1366,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:08:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:30:43",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on deep vein thrombosis and a personal petition related to health, with no relevance to Test First Development or related software development practices.",
+    "reasoning": "The content is entirely focused on deep vein thrombosis (DVT) advocacy and does not mention or relate to Test First Development principles, practices, or discussions in any way.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1419,6 +1437,54 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content discusses a personal story related to deep vein thrombosis (DVT) and a petition for health management changes, which is entirely unrelated to software development processes or the Shift-Left Strategy. There are no mentions of testing, security, compliance, or any relevant methodologies that align with the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:30:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a personal advocacy effort related to deep vein thrombosis (DVT) and does not address the principles of Common Goals within Agile or DevOps frameworks. While there is a mention of a petition and collective action, it lacks a clear connection to shared objectives that guide decision-making in a team or organisational context. The focus is on personal experiences and advocacy rather than strategic alignment or operational frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:30:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a personal story related to deep vein thrombosis (DVT) advocacy and does not focus on the principles of competence, continuous learning, or skill development. While there is a mention of the family's efforts to improve DVT screening, it lacks a direct connection to the core themes of competence in Agile, Scrum, or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:30:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on advocacy for better screening and awareness of deep vein thrombosis (DVT) rather than discussing Continuous Improvement principles. While there is a mention of changes to management and protocols, it lacks a structured approach to Continuous Improvement, empirical evidence, or a culture of experimentation. The discussion is more about personal advocacy and awareness rather than systematic enhancements in processes or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:30:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a family's advocacy for better screening and awareness of deep vein thrombosis (DVT). While it touches on themes of intent and proactive engagement, it does not explicitly address Agentic Agility or its principles. The focus is on a specific health issue rather than the broader concepts of agency and intentionality in socio-technical environments.",
     "level": "Ignored"
   }
 }

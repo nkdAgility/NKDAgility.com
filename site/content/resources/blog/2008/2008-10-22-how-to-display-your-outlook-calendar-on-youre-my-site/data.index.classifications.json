@@ -1054,11 +1054,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:25:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:40:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses enabling Outlook calendar features on a My Site and does not address Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on configuring a web part in SharePoint to display an Outlook calendar, with no mention or discussion of Test First Development principles, success criteria, or testing practices. It does not align with any of the key topics outlined for the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1246,11 +1249,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:25:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:40:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical configuration of Outlook calendar in SharePoint, which is unrelated to the role of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on configuring an Outlook calendar within SharePoint, with no mention or discussion of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics outlined for the Scrum Master category, nor does it provide any depth on the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1470,6 +1476,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on a technical guide for displaying an Outlook calendar on a SharePoint site. It does not discuss competence, continuous learning, or skill development, which are central to the category. There are no direct mentions of competence or related themes, and the depth of discussion is limited to procedural instructions without any connection to professional development or quality delivery.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:40:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on a technical guide for displaying an Outlook calendar on a SharePoint site, with no discussion of Agentic Agility principles, intent, or the interplay between human and AI capabilities. It does not address the intentional shaping of outcomes or any related themes.",
     "level": "Ignored"
   }
 }

@@ -160,20 +160,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:39:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:36:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the hosted TFS service and user feedback, lacking a focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Microsoft's hosted TFS and user needs without a focus on evidence-based management principles. While it touches on project management features, it lacks explicit references to empirical decision-making or metrics that align with the core themes of Evidence-Based Management.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:39:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:36:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses hosted TFS and its features, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Microsoft's hosted options for TFS and user needs, with a focus on project management features rather than the Agile Product Operating Model. While it touches on aspects of product management, it does not explicitly mention agile methodologies or the principles of the Agile Product Operating Model. The discussion lacks depth in relation to the core themes of APOM, such as continuous delivery, operational stability, or evidence-based management.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -319,11 +325,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:39:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:35:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses hosted TFS and its marketability, with no clear focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Microsoft TFS and its hosted options, which are related to project management and software development. However, it does not explicitly address DevOps principles or practices. While there are mentions of user needs and project management features, the focus is primarily on TFS rather than the broader DevOps philosophy, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -709,11 +718,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:08:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:36:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Microsoft TFS and its hosting options, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Microsoft's hosted TFS options and user needs, with no explicit mention of Continuous Delivery principles or practices. While it touches on project management features, it lacks a focus on automation, incremental improvements, or rapid feedback, which are core themes of Continuous Delivery. The discussion is more about user feedback and product evolution rather than the disciplined practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1348,11 +1360,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:08:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:36:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Team Foundation Server and its hosting options, with no focus on Scrum Master responsibilities or Agile practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Microsoft TFS and its hosted options, with no direct mention of the Scrum Master role or its responsibilities. While it touches on project management features, it does not align with the core themes of Scrum or the impact of a Scrum Master. The discussion lacks depth regarding Scrum practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1375,11 +1390,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:08:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:36:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content discusses Microsoft TFS and its features but is unrelated to Test First Development or its principles.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses Microsoft's hosted TFS and project management features, with no direct mention of Test First Development principles or practices. It lacks alignment with the core themes of Test First Development, such as success criteria, testing methodologies, or collaboration among development roles. The depth of discussion is minimal and does not provide any relevant insights into Test First Development.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1443,6 +1461,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the hosted model for Team Foundation Server (TFS) and does not explicitly mention the Shift-Left Strategy or its principles. While it touches on aspects of software development, it lacks a focus on integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy. The discussion is more about TFS features and marketability rather than proactive quality assurance or early integration of critical processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:35:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Microsoft's evolution of TFS and user needs, with minimal focus on aligning strategy with execution or shared objectives within Agile or DevOps frameworks. While it touches on project management features, it lacks a clear connection to the principles of Common Goals, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:35:51",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses Microsoft's TFS and its hosted options, with a focus on user needs and project management features. While there are brief mentions of user feedback and the need for improvements, it lacks a direct discussion on competence, continuous learning, or skill development. The alignment with the core themes of competence is minimal, and the depth of discussion does not provide substantial insights into the principles of professionalism or quality delivery.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:35:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Microsoft's evolution of TFS and user needs, which hints at a desire for improvement. However, it lacks a direct focus on Continuous Improvement principles, such as empirical evidence or structured methodologies. The mention of user feedback and potential enhancements suggests some alignment with the category, but the depth of discussion is limited and does not provide substantial insights into Continuous Improvement practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:35:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Microsoft's evolution of TFS and user needs without explicitly addressing Agentic Agility. While it touches on user feedback and project management, it lacks a focus on intentional shaping of outcomes, autonomy, or adaptability, which are core to the category. The discussion does not differentiate between human and AI capabilities in the context of agility, nor does it provide depth on the principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

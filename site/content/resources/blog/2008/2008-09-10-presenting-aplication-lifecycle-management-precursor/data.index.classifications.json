@@ -1063,11 +1063,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:36:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:41:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about Application Lifecycle Management and personal presentation experiences, with no relevant discussion of Test First Development.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses a personal experience related to preparing for a presentation on Application Lifecycle Management (ALM) and does not mention Test First Development or its principles. There is no discussion of success criteria, testing practices, or any related concepts that align with the Test First Development category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1252,11 +1255,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:36:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:41:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Application Lifecycle Management and preparation for presentations, with no relevant focus on Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Application Lifecycle Management (ALM) and personal experiences related to presentations, with no direct mention of the Scrum Master role or its responsibilities. While there is a brief mention of team dynamics in the context of preparing for a presentation, it does not align with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1473,6 +1479,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly touches on the author's anxiety regarding their knowledge and preparation for a presentation on Application Lifecycle Management (ALM). However, it primarily focuses on personal experiences and feelings rather than discussing competence in a structured or detailed manner. The mention of feeling unprepared and the need for improvement hints at the importance of competence, but it lacks depth and does not explore the broader implications of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:41:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a personal experience related to preparing for a presentation on Application Lifecycle Management (ALM) and does not explicitly address the concept of Agentic Agility. While there are elements of personal intent and adaptability in the author's approach to the presentation, these are not framed within the context of Agentic Agility. The focus is more on the author's anxiety and preparation rather than on intentional shaping of outcomes or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

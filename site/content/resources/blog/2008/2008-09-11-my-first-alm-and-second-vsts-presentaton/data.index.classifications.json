@@ -1063,11 +1063,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:26:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:41:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content discusses personal experiences with presentations and a job role in technology consultancy, with no mention of Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on personal reflections regarding presentations and does not discuss Test First Development principles, success criteria, or testing practices. There are no direct mentions or relevant themes related to the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1252,11 +1255,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:26:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:41:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal presentation experiences and does not relate to the Scrum Master role or Scrum framework.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses personal experiences related to ALM and VSTS presentations, with no direct mention of Scrum Master responsibilities or concepts. While there are references to preparation and delivery, these do not align with the core themes of the Scrum Master role, such as coaching, facilitating, or promoting agile principles. The discussion lacks depth regarding Scrum practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1473,6 +1479,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the speaker's preparation and delivery of presentations, which hints at competence in communication. However, it lacks a focused discussion on continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The reflections are more personal and anecdotal rather than providing a structured analysis of competence as a principle.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:41:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal reflections regarding presentations and the speaker's experiences, with no explicit discussion of Agentic Agility or its principles. While there are elements of adaptability and personal insight, they do not align with the core themes of intentionality and agency in shaping outcomes. The content lacks depth and detail on the subject matter, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

@@ -154,20 +154,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:00:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:44:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with SkyDrive and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the use of Windows Live SkyDrive for file management and blogging, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and provides minimal depth on any related topics.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:00:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:44:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with SkyDrive and does not relate to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the use of Windows Live SkyDrive for file uploads and personal blogging, with no relevant mention of agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any connection to the core themes outlined in the category description.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -307,11 +313,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:00:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:44:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with SkyDrive and file uploads, with no focus on DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the use of Windows Live SkyDrive for file uploads and personal blogging, with no direct mention of DevOps principles, practices, or cultural shifts. It lacks any alignment with the core themes of DevOps, such as collaboration, automation, or shared accountability, and does not provide any depth on these topics.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -685,11 +694,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:53:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:45:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses personal experiences with SkyDrive and file management rather than principles or practices of Continuous Delivery.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the use of Windows Live SkyDrive for file uploads and personal blogging, with no direct mention or exploration of Continuous Delivery principles, practices, or related topics. It lacks any depth or alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1315,11 +1327,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:53:48",
+    "calculated_at": "2025-04-08T20:44:51",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily focused on the usage of SkyDrive and personal experiences, with no relevance to Scrum Master roles or responsibilities.",
+    "reasoning": "The content focuses entirely on Windows Live SkyDrive and its functionalities, with no mention or discussion of Scrum Master roles, responsibilities, or related concepts. It does not align with any key topics associated with the Scrum Master category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1342,11 +1357,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:53:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:44:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about personal experiences with using SkyDrive and file management, with no mention of Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content focuses on the use of Windows Live SkyDrive for file uploads and personal blogging, with no mention or discussion of Test First Development principles, success criteria, or testing methodologies.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1410,6 +1428,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the usability of Windows Live SkyDrive and personal experiences with file uploads, with no mention or alignment to the Shift-Left Strategy or its principles.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:44:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal experiences with Windows Live SkyDrive, discussing its ease of use and personal file management. There are no explicit mentions of Common Goals, Agile, or DevOps principles, and the discussion lacks depth regarding strategic alignment or team collaboration.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:44:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the usability of Windows Live SkyDrive Beta for file uploads and personal blogging, with no direct mention of competence or its related themes. While it touches on the ease of use and potential improvements, it lacks depth in discussing continuous learning, skill development, or professionalism, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:44:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the usability of Windows Live SkyDrive Beta for file uploads and personal blogging, with no substantial discussion on Continuous Improvement principles or practices. It briefly mentions a desire for enhanced features but lacks any empirical evidence, strategies, or alignment with Continuous Improvement methodologies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:44:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the usability of Windows Live SkyDrive Beta for file uploads and personal blogging, with no explicit mention of Agentic Agility or its principles. The focus is on personal experience rather than the intentional shaping of outcomes or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

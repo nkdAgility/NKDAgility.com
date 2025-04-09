@@ -1051,11 +1051,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:01:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:42:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is about compatibility in Internet Explorer 8 and does not relate to Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on enabling compatibility mode in Internet Explorer 8, which is unrelated to Test First Development principles. There are no direct mentions of testing practices, success criteria, or any related concepts, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1243,11 +1246,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:01:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:42:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses web compatibility issues related to IE8 and does not address any aspects of the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on enabling compatibility mode in Internet Explorer 8, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics or responsibilities associated with the Scrum Master role.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1464,6 +1470,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on enabling compatibility mode in Internet Explorer 8, which is unrelated to the principles of competence in Agile, Scrum, DevOps, or Lean methodologies. There are no direct mentions of competence, continuous learning, or skill development, and the discussion lacks depth on any relevant topics. Overall, it does not align with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:42:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on enabling compatibility mode in Internet Explorer 8, which is unrelated to the concept of Agentic Agility. There are no direct mentions of agency, intentionality, or the interplay between human and AI capabilities. The discussion is purely technical and does not engage with the core themes of the category.",
     "level": "Ignored"
   }
 }

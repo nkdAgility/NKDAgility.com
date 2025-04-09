@@ -154,20 +154,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:29:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:58:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the addition of a developer to a project and does not address Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the addition of a developer to a project and does not explicitly mention Evidence-Based Management or its key topics. There is no focus on data-informed decision-making, metrics, or empirical evidence, which are central to EBM. The discussion is more about team dynamics and project updates rather than strategic management practices.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:29:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:58:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses team member additions and project updates without focusing on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the addition of a developer to a specific project and does not discuss any principles or practices related to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management, or the key topics outlined in the category definition. The discussion is more about team dynamics and individual contributions rather than a structured approach to product delivery or agile practices.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:29:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:58:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the addition of a developer to a project and does not focus on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the addition of a developer to a specific project, with no explicit discussion of DevOps principles, practices, or cultural shifts. While it mentions development, it lacks any reference to collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The content does not delve into any of the key topics outlined for the DevOps category, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -694,11 +703,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:58:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:58:40",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on the addition of a new developer to a project and does not discuss Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on the addition of a developer to a project and does not explicitly discuss Continuous Delivery principles, practices, or related topics. While there is a mention of enhancing development, it lacks depth and does not align with the core themes of Continuous Delivery such as automation, incremental improvements, or user feedback.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1327,11 +1339,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:58:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:58:33",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum, the role of a Scrum Master, or related topics. It focuses on a specific project and team members without reference to Scrum practices or responsibilities.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on the addition of a developer to a project and does not discuss the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, team dynamics, or the impact of a Scrum Master, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1354,11 +1369,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:58:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:58:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses a development project and the addition of a tester to the team, with no focus on Test First Development or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the introduction of a new developer to a project and does not discuss Test First Development principles, success criteria, or testing practices. While it mentions a tester, it lacks any substantial connection to the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1422,6 +1440,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the addition of a developer to a project and expresses excitement about their testing background. However, it does not explicitly mention the Shift-Left Strategy or its principles, benefits, or techniques. The focus is on team dynamics rather than integrating testing or security early in the development process, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T19:58:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the introduction of a new team member to a project, with little to no discussion on shared objectives or alignment with strategic goals. While it mentions the project and the addition of a developer, it lacks any exploration of how this aligns with broader organisational goals or Agile principles.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T19:58:23",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions the addition of a developer to a project, which implies a focus on enhancing team capability. However, it lacks explicit discussions on continuous learning, skill development, or the importance of competence in delivering quality outcomes. The depth of discussion is minimal, primarily revolving around the excitement of a new team member rather than a thorough exploration of competence as a principle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T19:58:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content briefly mentions the addition of a new team member to a project, which could imply a potential for improvement. However, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or strategies for enhancing processes. The focus is primarily on the individual joining the team rather than on systematic improvement practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:58:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the addition of a developer to a project and does not explicitly discuss Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion lacks depth and does not provide any insights into the interplay between human and AI capabilities or the transformative capacity of individuals and systems.",
     "level": "Ignored"
   }
 }

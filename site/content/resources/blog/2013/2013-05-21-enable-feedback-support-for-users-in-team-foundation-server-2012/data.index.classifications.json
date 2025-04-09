@@ -1153,11 +1153,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T18:44:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:53:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses enabling feedback support in Team Foundation Server 2012, with no focus on Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on enabling feedback support in Team Foundation Server 2012, discussing configurations and permissions without any reference to Test First Development principles, success criteria, or testing practices. It lacks any mention of automated or manual testing methodologies, making it largely irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1240,11 +1243,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T18:44:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:53:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses enabling feedback support in Team Foundation Server 2012, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on enabling feedback support in Team Foundation Server 2012, which is unrelated to the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum practices, roles, or the impact of a Scrum Master on team dynamics or organisational change. The discussion is technical and specific to software configuration, lacking any connection to Scrum principles or the Scrum Master's influence.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1518,6 +1524,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on technical configurations for enabling feedback support in Team Foundation Server 2012. While it touches on aspects of user permissions and settings, it does not explicitly discuss competence, continuous learning, or skill development. The discussion lacks depth in relation to the principles of professionalism and quality delivery, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:53:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on enabling feedback support in Team Foundation Server 2012, which does not align with the principles of Agentic Agility. There are no explicit discussions on intentional shaping of outcomes, autonomy, or adaptability. The content lacks depth in exploring the transformative capacity of individuals or systems, and it does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

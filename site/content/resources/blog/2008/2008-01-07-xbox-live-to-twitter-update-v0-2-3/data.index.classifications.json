@@ -154,20 +154,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:14:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:12:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an application update and personal development in .NET, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on updates to an application related to Xbox Live and Twitter, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks any mention of data-informed decision-making or the key topics outlined in the EBM category. The content is more about software updates and personal development rather than management practices.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:14:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:12:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses updates to an application and technical functionalities, with no focus on Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on updates to an application related to Xbox Live and Twitter, with no explicit discussion of agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any mention of key topics associated with APOM, such as product-oriented mindsets or continuous delivery, and does not provide any depth or alignment with the category's core themes.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -307,11 +313,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:15:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:11:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an application update and personal development experiences, with no focus on DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on updates to an application related to Xbox Live and Twitter, with no explicit discussion of DevOps principles, practices, or cultural shifts. It lacks any mention of collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The content is more aligned with software development and application features rather than the DevOps category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -691,11 +700,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:42:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:12:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an update to an application, focusing on customization features and UI improvements, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on updates to an application and personal development experiences, with no explicit discussion of Continuous Delivery principles, practices, or related topics. It lacks any mention of automation, incremental improvements, or user feedback, which are core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1330,11 +1342,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:42:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:12:11",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on an Xbox Live to Twitter application update and does not discuss anything related to the role or responsibilities of a Scrum Master.",
+    "reasoning": "The content focuses entirely on an update for an Xbox Live to Twitter application, discussing features and technical aspects of the app. There are no mentions of Scrum, Scrum Masters, or related concepts, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1357,11 +1372,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:42:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:12:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an update to an application and exploration of .NET functionality without any mention of Test First Development principles, practices, or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on updates to an application and does not discuss Test First Development principles, success criteria, or testing practices. There are no direct mentions of testing methodologies or the importance of defining criteria before implementation, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1425,6 +1443,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses an application update and personal development experiences with .NET, lacking any mention or discussion of the Shift-Left Strategy or its principles. There is no alignment with the core themes of integrating testing, security, or compliance early in the development process, nor does it provide any depth on these topics.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:11:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on updates to an application and personal development experiences, with no explicit discussion of Common Goals, Agile, or DevOps principles. It lacks alignment with the core themes of the category and provides minimal detail relevant to the concept.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:12:01",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content briefly touches on improving UI skills and exploring .NET functionality, which relates to personal competence development. However, it lacks a focused discussion on competence as a foundational principle in Agile, Scrum, DevOps, or Lean methodologies. The primary focus is on application updates rather than on continuous learning or professional development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:12:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on updates to an application and personal development in UI skills, with only a brief mention of improving functionality. It lacks a structured discussion on Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation, which are essential for a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:12:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on updates to an application and does not discuss Agentic Agility or its principles. There are no explicit mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is more about technical updates and personal exploration rather than any transformative capacity or alignment with values.",
     "level": "Ignored"
   }
 }

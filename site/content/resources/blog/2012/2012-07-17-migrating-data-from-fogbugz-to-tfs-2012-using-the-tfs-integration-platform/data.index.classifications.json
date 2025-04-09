@@ -1153,11 +1153,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:31:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:05:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the technical aspects of migrating data from FogBugz to TFS and setting up a custom adapter, without focusing on Test First Development or TDD principles.",
+    "final_score": 8.0,
+    "reasoning": "The content primarily focuses on migrating data from FogBugz to TFS 2012 using a custom adapter, with no explicit discussion of Test First Development principles, success criteria, or testing practices. It lacks any mention of automated testing, TDD, or collaboration among team roles, which are core to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1240,11 +1243,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:31:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:05:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on technical implementation details of data migration and does not discuss the role, responsibilities, or practices of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of migrating data between systems and does not discuss the role, responsibilities, or impact of a Scrum Master. There are no direct mentions of Scrum principles or practices, and the discussion lacks depth regarding any Scrum-related topics.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1521,6 +1527,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on technical details related to migrating data and configuring tools, with minimal direct discussion on competence or skill development. While it implies a level of expertise in using the TFS Integration Platform, it does not explicitly address continuous learning, quality outcomes, or fostering a culture of competence, which are key themes in the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:05:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical details related to migrating data from FogBugz to TFS 2012, with no explicit discussion of Agentic Agility or its principles. While there are mentions of adapting tools and processes, these do not align with the core themes of intentionality, autonomy, or the transformative capacity of individuals and systems as defined in the category.",
     "level": "Ignored"
   }
 }

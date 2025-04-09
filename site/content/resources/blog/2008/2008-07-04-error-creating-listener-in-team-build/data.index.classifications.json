@@ -73,11 +73,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T12:39:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:47:28",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to permissions in a build environment, which does not align with the core principles of DevOps.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to permissions in Team Build, which is more aligned with operational troubleshooting than the broader principles of DevOps. While it touches on aspects of access rights and service accounts, it lacks a discussion on collaboration, automation, or cultural shifts that are central to DevOps. The mention of 'service account' and 'Build Agent' indicates a technical context but does not delve into the philosophy or practices of DevOps.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -109,11 +112,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T12:39:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:47:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to permissions in IIS and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on resolving a technical error related to permissions in Team Build and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related concepts. The content lacks depth and relevance to the category, making it unsuitable for classification under the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -169,11 +175,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T12:39:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:47:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical error related to permissions in a build environment, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a technical error related to permissions in Team Build, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and provides minimal depth on any related concepts.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -892,11 +901,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:50:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:47:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on specific error handling in a build environment and service account permissions rather than Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily addresses a specific error related to permissions in Team Build, which is a technical issue rather than a discussion on Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the content does not align with the core themes such as automation, incremental improvements, or rapid feedback. The depth of discussion is limited to troubleshooting a specific problem, lacking any broader context or exploration of Continuous Delivery concepts.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1054,11 +1066,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:50:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:47:45",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily addresses an error encountered during a testing process, which is related to access permissions rather than discussing Test First Development principles, practices, or methodologies.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses resolving a specific error related to permissions in Team Build, with no explicit mention of Test First Development principles or practices. While it touches on running tests, it does not align with the core themes of defining success criteria, automated testing practices, or the collaborative aspects of Test First Development. The discussion lacks depth and detail on the category, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1249,11 +1264,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:50:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:47:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical implementation issues unrelated to Scrum roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to permissions in a build environment, with no direct mention of Scrum Master responsibilities or concepts. It lacks alignment with the core themes of the Scrum Master role, such as facilitation, coaching, or team dynamics. The depth of discussion is limited to a specific technical problem, making it irrelevant to the Scrum Master category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1437,6 +1455,54 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily discusses a specific error related to permissions in a build environment, which does not directly address the principles or practices of the Shift-Left Strategy. While it mentions testing, it does not explore integrating testing or security earlier in the development lifecycle, nor does it provide any depth on the benefits or methodologies associated with the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T19:47:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a technical error related to permissions in Team Build, with no explicit discussion of Common Goals or their significance in Agile or DevOps. It lacks alignment with the core themes of shared objectives and strategic alignment, and provides minimal detail relevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T19:47:33",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on resolving a technical error related to permissions in Team Build, which does not directly discuss competence or its principles. While it touches on the need for appropriate permissions, it lacks a broader discussion on continuous learning, skill development, or the importance of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T19:47:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical error related to permissions in Team Build, with no explicit discussion of Continuous Improvement principles. While it touches on problem-solving, it lacks the broader themes of reflection, adaptation, or empirical evidence that characterise Continuous Improvement. The mention of 'expert tips' does not align with the category's focus on systematic enhancement or organisational processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:47:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a technical error related to permissions in a build environment. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The mention of permissions and service accounts is tangential and does not align with the core themes of intentionality, adaptability, or value creation associated with Agentic Agility.",
     "level": "Ignored"
   }
 }

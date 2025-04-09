@@ -166,20 +166,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:37:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:58:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses challenges in adopting specific tools and technologies rather than focusing on evidence-based management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges of promoting TFS over other tools like Jira and Subversion, focusing on personal experiences and team dynamics rather than on evidence-based management principles. There are no explicit mentions of metrics, data-informed decision-making, or the core themes of EBM. The discussion lacks depth in relation to empirical evidence or strategic improvements, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:37:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:57:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses challenges in adopting specific tools (TFS, Jira) rather than focusing on Agile principles or the Agile Product Operating Model.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges of promoting TFS over Jira and Subversion, focusing on project management rather than the Agile Product Operating Model. There are no direct mentions of agile principles, product management practices, or the core themes of APOM. The discussion is centred around tool adoption and team dynamics, which does not align with the key topics of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -322,11 +328,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:38:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:57:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses challenges in adopting specific tools (TFS, Jira) and the lack of support from stakeholders, rather than focusing on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the challenges of promoting TFS over Jira and Subversion, focusing on project management and team dynamics rather than the core principles of DevOps. While there are mentions of integration and collaboration, these are not explored in the context of DevOps philosophy or practices. The discussion lacks depth in terms of DevOps concepts such as automation, shared accountability, or continuous improvement, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -715,11 +724,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T22:09:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:58:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses challenges in gaining adoption for Visual Studio Team System and issues with project management tools, but does not address Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the challenges of promoting TFS over Jira and Subversion, focusing on project management and team dynamics rather than Continuous Delivery principles. While it mentions integration and work item tracking, it lacks a direct focus on Continuous Delivery practices, automation, or the benefits of rapid feedback and validation from users.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1354,11 +1366,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T22:09:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:58:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses challenges with software tools and team dynamics but does not focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the challenges of promoting TFS over Jira and Subversion, focusing on project management and team dynamics rather than the specific role and responsibilities of a Scrum Master. While there are mentions of team dynamics, the discussion does not align with the core themes of the Scrum Master role, such as facilitating Scrum practices or promoting agile principles. The depth of discussion regarding Scrum Master responsibilities is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1381,20 +1396,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T22:09:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:58:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content predominantly discusses challenges in adopting tools like TFS, Jira, and Subversion, without a focus on Test First Development or related principles.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the challenges of promoting TFS over Jira and Subversion, focusing on project management and team dynamics rather than the principles of Test First Development. There are no direct mentions of success criteria, testing practices, or the impact of Test First on collaboration, which are core themes of the category. The discussion lacks depth and relevance to Test First Development, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:29:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:57:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses challenges in adopting Visual Studio Team System and competing tools like Jira and Subversion, without a focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses challenges in promoting TFS over Jira and Subversion, touching on team dynamics and project management. However, it primarily focuses on the author's struggles with tool adoption rather than exploring the underlying social frameworks or methodologies that enhance collaboration and decision-making. While there are mentions of team dynamics, the discussion lacks depth in addressing the principles of self-organisation, transparency, or collective intelligence, which are central to the category of Social Technologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1446,6 +1467,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses challenges in adopting Visual Studio Team System and competing tools like Jira and Subversion. It does not explicitly mention the Shift-Left Strategy or its principles, nor does it address integrating testing, security, or compliance early in the development process. The focus is on project management and tool adoption rather than on proactive quality assurance or early integration of critical processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:57:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the author's struggles with promoting TFS over other tools, which does not directly address the concept of Common Goals. While there are mentions of team dynamics and the need for alignment, these are not explored in depth or connected to the principles of Agile or DevOps. The discussion lacks a clear focus on shared objectives or strategic alignment, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:57:36",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses challenges in promoting TFS over Jira and Subversion, focusing on team dynamics and project management rather than on competence itself. While there are mentions of difficulties in gaining support and the need for effective arguments, these do not directly address the principles of competence, such as continuous learning or skill development. The discussion lacks depth in exploring how competence impacts decision-making or quality outcomes, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:57:38",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the challenges of promoting TFS over Jira and Subversion, focusing on team dynamics and project management rather than Continuous Improvement principles. While there are hints of reflection on the effectiveness of tools and processes, the discussion lacks a clear commitment to incremental advancements or a culture of experimentation, which are central to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:57:56",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the challenges of promoting TFS over other tools like Jira and Subversion, focusing on team dynamics and project management rather than the intentional shaping of outcomes through autonomy and adaptability. While there are elements of struggle and lobbying for support, the discussion lacks a clear connection to the principles of Agentic Agility, such as intent, accountability, or the interplay between human judgement and AI logic. The content does not provide substantial detail on the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }
 }

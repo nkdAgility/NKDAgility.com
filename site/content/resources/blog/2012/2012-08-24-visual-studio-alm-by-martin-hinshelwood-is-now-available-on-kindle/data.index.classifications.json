@@ -1108,11 +1108,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:00:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:01:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not mention Test First Development or related concepts; it is primarily about a blog's availability on Kindle.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a book about Visual Studio ALM and does not discuss any principles or practices related to Test First Development. There are no direct mentions of success criteria, testing methodologies, or any relevant topics that align with the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1189,11 +1192,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:00:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:02:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum Masters or their responsibilities; it focuses on a Kindle publication.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a book related to Application Lifecycle Management (ALM) and does not mention the Scrum Master role or its responsibilities. There is no discussion of Scrum principles, techniques, or the impact of a Scrum Master, indicating a lack of relevance to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1464,6 +1470,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on promoting a book about ALM (Application Lifecycle Management) without discussing competence, continuous learning, or any related themes. There are no direct mentions or relevant discussions that align with the principles of competence in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:01:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a book about Visual Studio ALM and does not discuss Agentic Agility or its related concepts. There are no direct mentions or relevant themes present.",
     "level": "Ignored"
   }
 }

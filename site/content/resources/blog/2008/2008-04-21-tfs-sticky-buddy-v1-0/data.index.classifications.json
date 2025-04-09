@@ -163,20 +163,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:20:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:55:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the TFS Sticky Buddy application and its functionalities, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a software tool for visualising TFS Work Items and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of data-informed decision-making or the key topics outlined in the EBM category. The discussion is more about the functionality of the tool rather than its application in evidence-based management.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:20:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:55:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a software application related to TFS and does not focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a specific tool for visualising TFS Work Items and does not discuss any principles or practices related to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management, or the core themes outlined in the APOM definition. The discussion is centred around project management tools rather than a product-oriented mindset.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -319,11 +325,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:21:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:55:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the TFS Sticky Buddy application and its functionalities, with no significant discussion on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific tool for visualising TFS Work Items, which is more aligned with project management than the core principles of DevOps. While it mentions Team Foundation Server (TFS), it does not discuss DevOps philosophies, practices, or cultural shifts. The discussion lacks depth in terms of DevOps concepts such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -709,11 +718,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:05:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:55:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the TFS Sticky Buddy application and its features, which are related to work item management and not Continuous Delivery principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific tool for visualising TFS Work Items and does not discuss Continuous Delivery principles, practices, or benefits. There are no direct mentions of Continuous Delivery, and the content lacks alignment with the core themes of the category, such as automation, incremental improvements, or rapid feedback. The depth of discussion is limited to the tool's features and usage, which are unrelated to Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1357,11 +1369,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:05:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:55:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a software application for TFS, with no reference to Scrum Master responsibilities or related concepts.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a software tool for visualising TFS Work Items and does not discuss the role, responsibilities, or impact of a Scrum Master. There are no direct mentions of Scrum or related concepts, and the discussion lacks depth regarding Scrum practices or principles.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1384,11 +1399,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:05:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:55:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the functionality and usage of the TFS Sticky Buddy application, with no mention of Test First Development principles, practices, or any related topics.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a tool for visualising TFS Work Items and does not discuss Test First Development principles, success criteria, or testing practices. There are no explicit mentions of Test First methodologies, and the discussion lacks depth in relation to the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1452,6 +1470,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the TFS Sticky Buddy application, detailing its features and usage without any explicit discussion of the Shift-Left Strategy. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any insights into the principles or benefits of the Shift-Left approach. The content lacks depth in relation to the category, making it largely irrelevant to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T19:55:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a specific tool for visualising TFS Work Items and does not discuss the concept of Common Goals within Agile or DevOps frameworks. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth in relation to the principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T19:55:38",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on a software tool for visualising TFS Work Items and does not discuss competence, continuous learning, or skill development. While it mentions the use of templates and project management, these aspects do not align with the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T19:55:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the features and usage of the TFS Sticky Buddy application, with no explicit discussion on Continuous Improvement principles. While it mentions project management and customization, it lacks a connection to the core themes of Continuous Improvement, such as empirical evidence, experimentation, or team effectiveness. The depth of discussion is limited to technical details about the application, further indicating a weak alignment with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:55:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a software tool for visualising TFS Work Items and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are core to the category. The discussion is centred around technical specifications and usage instructions, lacking any depth or alignment with the themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

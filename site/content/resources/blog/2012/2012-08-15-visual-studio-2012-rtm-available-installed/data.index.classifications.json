@@ -1201,11 +1201,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T23:39:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:03:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses the installation and features of Visual Studio 2012 and Team Foundation Server, without a clear focus on Test First Development practices or principles.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the installation and features of Visual Studio 2012 and Team Foundation Server, with no explicit discussion on Test First Development principles or practices. While it briefly mentions 'Unit Testing' and 'Continuous Integrations', these are not explored in the context of Test First Development, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1291,11 +1294,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T23:39:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:03:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Visual Studio 2012 and Team Foundation Server installation, upgrade processes, and features, with no relevant discussion about the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation and features of Visual Studio 2012 and Team Foundation Server, with no direct mention of the Scrum Master role or its responsibilities. While there are references to agile processes, they are not elaborated upon in the context of a Scrum Master, making the alignment with the category very weak.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1572,6 +1578,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly touches on the importance of upgrading tools and mentions the need for training, which relates to competence. However, it primarily focuses on installation processes and features of Visual Studio 2012, lacking a deeper exploration of continuous learning or skill development in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:03:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation and features of Visual Studio 2012 and Team Foundation Server, with no explicit discussion of Agentic Agility or its principles. While there are mentions of adaptability and development processes, these are not framed within the context of intentional outcome shaping or the specific themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -1126,11 +1126,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:30:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to upgrading TFS and SQL collation conflicts, with no mention of Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses issues related to upgrading TFS and SQL collation conflicts, with no direct mention of Test First Development principles or practices. It lacks any discussion on success criteria, testing methodologies, or the impact of testing on collaboration, which are core themes of the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1213,11 +1216,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:30:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS installation and SQL Server, without reference to Scrum Master responsibilities or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical issues related to upgrading TFS and SQL collation conflicts, with no mention or discussion of the Scrum Master role or related responsibilities. It does not align with any core themes of the Scrum Master category, nor does it provide any depth on the subject. Therefore, it is classified with a very low confidence score.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1491,6 +1497,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on technical issues related to upgrading TFS and SQL collation conflicts. While it touches on problem-solving, it does not explicitly discuss competence, continuous learning, or skill development in Agile or DevOps contexts. The discussion lacks depth and does not align with the core themes of competence, such as professionalism or quality delivery.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:30:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical issues related to upgrading TFS and SQL collation conflicts, with no explicit discussion of Agentic Agility or its principles. While there is a mention of problem-solving, it does not align with the core themes of intentionality, autonomy, or adaptability in the context of Agentic Agility.",
     "level": "Ignored"
   }
 }

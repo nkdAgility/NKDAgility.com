@@ -1108,11 +1108,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:34:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an upcoming event and does not mention Test First Development or related concepts.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on an event announcement for Developer Day Scotland, with no direct mentions or discussions related to Test First Development principles, practices, or concepts. It lacks any alignment with the core themes of the category, such as success criteria, testing methodologies, or collaboration among development roles. The depth of discussion is also non-existent regarding Test First Development, as the content does not delve into any relevant topics.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1189,11 +1192,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:34:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not mention Scrum Master responsibilities or topics; it discusses an event with speakers.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on an event for developers and does not mention the Scrum Master role or its responsibilities. There is no discussion of Scrum principles, techniques, or the impact of a Scrum Master, indicating a lack of relevance to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1464,6 +1470,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on promoting an event for developers, with no explicit discussion of competence, continuous learning, or related themes. It lacks depth and alignment with the principles of competence in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:33:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting an event for developers and does not discuss Agentic Agility or its principles. There are no direct mentions of the category, and the themes of autonomy, adaptability, or intentional shaping of outcomes are absent. The content lacks depth and relevance to the category.",
     "level": "Ignored"
   }
 }

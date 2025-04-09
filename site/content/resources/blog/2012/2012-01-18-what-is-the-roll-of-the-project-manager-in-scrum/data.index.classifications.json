@@ -1192,11 +1192,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:41:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:11:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the roles of Project Managers, Product Owners, and Scrum Masters in Scrum, which is unrelated to Test First Development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the roles of Project Managers, Product Owners, and Scrum Masters within the Scrum framework, with no direct mention or exploration of Test First Development principles, practices, or methodologies. It does not address success criteria, testing practices, or the impact of testing on collaboration, which are core to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1273,14 +1276,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T06:14:24",
+    "calculated_at": "2025-04-08T19:11:11",
     "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
     "final_score": 63.0,
-    "reasoning": "The content discusses the role of the Scrum Master in relation to Project Managers, highlighting the transition from traditional Project Management to Scrum roles. While it mentions the Scrum Master and touches on their responsibilities, the primary focus is on the Project Manager's role and the comparison between the Product Owner and Scrum Master. The discussion lacks depth in exploring the Scrum Master's specific practices and techniques, resulting in a moderate confidence score.",
+    "reasoning": "The content discusses the role of the Scrum Master in relation to Project Managers and highlights the responsibilities and challenges faced by Scrum Masters. While it does not delve deeply into the Scrum Master's techniques or influence on organisational change, it does provide a clear distinction between the roles of Project Manager and Scrum Master, aligning with the category's core themes. The discussion is substantial enough to warrant a moderate confidence score.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1569,6 +1572,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the evolving roles of Project Managers in Scrum, touching on the need for individuals to transition to roles like Product Owner or Scrum Master, which implies a need for competence in these areas. However, the primary focus is on the roles themselves rather than a deep exploration of competence as a foundational principle. The discussion lacks detailed strategies for fostering competence or continuous learning, which are key aspects of the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:11:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the roles of Project Managers within Scrum, focusing on the transition to Product Owner or Scrum Master roles. While it touches on themes of autonomy and change, it does not explicitly address Agentic Agility or its principles. The discussion lacks depth regarding intentional shaping of outcomes and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

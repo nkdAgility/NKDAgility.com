@@ -154,20 +154,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:17:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:48:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal experience related to career opportunities and visa issues, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal career journey and experiences related to employment opportunities with Microsoft. It does not discuss Evidence-Based Management principles, metrics, or data-informed decision-making. The mention of a career change and visa challenges is anecdotal and lacks any connection to the core themes of EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:17:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:48:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal career experience and visa issues, with no relevance to Agile principles or product development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal career journey as a .Net developer and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related topics that align with the category. The content lacks depth and relevance to the Agile Product Operating Model, making it unsuitable for classification under this category.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:18:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:48:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal career experiences and visa issues, with no focus on DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the author's personal career journey as a .Net developer and an opportunity with Microsoft, with no explicit discussion of DevOps principles, practices, or cultural shifts. While it mentions a career change and visa challenges, these topics do not align with the core themes of DevOps, such as collaboration, automation, or shared accountability. The content lacks depth and detail regarding DevOps, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -688,11 +697,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:53:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:48:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal career story and challenges faced in obtaining a position, with little relevance to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the author's personal career journey and experiences with Microsoft, with no direct mention or discussion of Continuous Delivery principles, practices, or related topics. It lacks any relevant detail or alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1318,11 +1330,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:53:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:48:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal career experience and visa issues, with no relevance to the Scrum Master role.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the author's personal journey as a .Net developer and their interactions with Microsoft regarding employment opportunities. There are no direct mentions of the Scrum Master role, nor does it discuss any relevant concepts or responsibilities associated with Scrum. The content lacks depth in relation to Scrum practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1345,11 +1360,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:53:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:48:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses a personal experience related to a potential job opportunity and visa issues, with no mention of Test First Development or related concepts.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the author's personal career journey and experiences with Microsoft, with no direct mention or discussion of Test First Development principles, practices, or related topics. It lacks any alignment with the core themes of Test First Development, such as success criteria, testing methodologies, or collaboration among development teams.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1413,6 +1431,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on a personal career experience and does not discuss any aspects of the Shift-Left Strategy, such as integrating testing or security early in the development process. There are no relevant mentions or alignment with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:48:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the author's personal journey and experiences as a .Net developer, discussing career changes and visa challenges. It does not explicitly mention or align with the principles of Common Goals in Agile or DevOps, nor does it provide any depth on shared objectives or strategic alignment within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:48:33",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on a personal journey and career opportunities rather than discussing competence in the context of Agile, Scrum, or DevOps. While there is a mention of being a .Net developer, it lacks explicit discussions on continuous learning, skill development, or the importance of competence in delivering quality outcomes. The depth of discussion is limited to personal experiences and does not explore the core themes of competence in a professional setting.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:48:35",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on a personal career journey and experiences related to job opportunities and visa challenges, with no explicit discussion of Continuous Improvement principles or practices. While there is a mention of navigating career changes, it lacks depth and alignment with the core themes of Continuous Improvement, such as empirical evidence, team effectiveness, or strategies for organisational processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:48:38",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on a personal journey and career opportunities rather than discussing Agentic Agility. While there are elements of personal agency in navigating career changes, the discussion lacks explicit references to the principles of Agentic Agility, such as intentional shaping of outcomes or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

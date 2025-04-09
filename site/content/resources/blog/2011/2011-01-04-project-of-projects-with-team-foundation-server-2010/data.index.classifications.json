@@ -1186,11 +1186,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:44:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:18:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the organization and management of projects in Team Foundation Server, without any mention of Test First Development or related testing practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses best practices for structuring projects in Team Foundation Server 2010, focusing on areas, iterations, source code, work item queries, and builds. It does not mention Test First Development principles, success criteria, or testing practices, which are central to the category. The discussion lacks depth and relevance to Test First Development, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1270,11 +1273,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:44:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:18:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Team Foundation Server setup and project management practices without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses best practices for using Team Foundation Server 2010, focusing on project structuring and management rather than the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, the Scrum Master's role, or related coaching and facilitation techniques. The discussion lacks depth in terms of Scrum-related content, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1557,6 +1563,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses best practices for using Team Foundation Server 2010, focusing on project structuring and efficiency. While it touches on aspects of competence, such as the importance of intuitive project setup and maintaining consistency, it lacks a direct focus on continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The discussion is more about practical implementation than fostering a culture of competence or professional growth.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:18:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on best practices for using Team Foundation Server 2010, discussing project structuring and management techniques. While it touches on aspects of collaboration and efficiency, it does not explicitly address the principles of Agentic Agility, such as intentional shaping of outcomes, the role of intent, or the interplay between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical environment, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

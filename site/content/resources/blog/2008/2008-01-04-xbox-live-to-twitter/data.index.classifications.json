@@ -154,20 +154,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:17:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:14:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal project related to Xbox and Twitter integration, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical application for connecting Xbox Live updates to Twitter, with no direct mention or discussion of Evidence-Based Management principles. It lacks alignment with the core themes of EBM, such as data-informed decision-making or metrics related to value delivery. The depth of discussion is minimal, as it does not explore any empirical evidence or management strategies.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:18:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:14:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal experience with developing an application for Xbox Live updates, with no relevance to Agile principles or product-centric development.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical application related to Xbox Live and Twitter integration, with no direct mentions or discussions of the Agile Product Operating Model or its principles. The themes of product management, agile methodologies, or organisational effectiveness are absent, indicating a very low relevance to the specified category.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -307,11 +313,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:18:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:14:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an application for Xbox Live updates to Twitter, with no focus on DevOps principles, practices, or tools.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating a custom application to connect Xbox Live updates to Twitter, which does not align with the core principles of DevOps. There are no direct mentions of DevOps concepts such as collaboration, automation, or shared accountability. The discussion is centred around application development and troubleshooting, lacking any depth in DevOps-related themes.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -688,11 +697,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:49:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:14:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on an application for Xbox and Twitter integration, which is not related to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating a custom application to connect Xbox Live updates to Twitter, which does not relate to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion lacks alignment with key topics such as automation, incremental improvements, or software quality. The depth of discussion is minimal and does not explore any relevant Continuous Delivery concepts.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1324,11 +1336,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:49:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:14:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses application development unrelated to Scrum or the role of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a technical application related to Xbox Live and Twitter integration, with no mention or discussion of Scrum, Scrum Masters, or related agile principles. It does not align with any of the key topics associated with the Scrum Master role, nor does it provide any depth on the subject.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,11 +1366,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:49:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:14:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on developing an application for Xbox Live, mentioning troubleshooting and creating a front end, but does not discuss Test First Development, TDD, or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating a custom application to connect Xbox Live updates to Twitter, with no discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1419,6 +1437,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses an application for Xbox Live updates to Twitter, with no mention of software development processes, testing, security, or compliance. It does not align with the Shift-Left Strategy, as it focuses on a specific application issue rather than integrating critical processes early in development.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:14:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical solution for connecting Xbox Live updates to Twitter, with no discussion of shared objectives, alignment, or strategic goals within Agile or DevOps frameworks. It lacks any mention of Common Goals, and the themes presented do not relate to the principles outlined in the category description.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:14:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical solution for connecting Xbox Live updates to Twitter, with no explicit discussion of competence, continuous learning, or skill development. While there is a mention of troubleshooting and creating a custom application, these aspects do not align with the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:14:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical solution for connecting Xbox Live updates to Twitter, with no discussion of Continuous Improvement principles, methodologies, or practices. It lacks any mention of empirical evidence, data-driven decision-making, or a culture of experimentation, which are essential for the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:14:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a technical solution for connecting Xbox Live updates to Twitter, with no discussion of Agentic Agility principles, intent, or the interplay between human and AI capabilities. It lacks any meaningful exploration of the category's core themes.",
     "level": "Ignored"
   }
 }

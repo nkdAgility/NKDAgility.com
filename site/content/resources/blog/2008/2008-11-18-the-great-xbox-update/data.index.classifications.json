@@ -1051,11 +1051,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:37:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:38:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about an Xbox update, with no relevant discussion on Test First Development or related practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on an Xbox update and does not mention Test First Development or any related concepts. It lacks any discussion of testing practices, success criteria, or software development methodologies, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1240,11 +1243,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:37:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:38:04",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily about an Xbox update and does not reference any Scrum Master themes or related responsibilities.",
+    "reasoning": "The content focuses entirely on an Xbox update and does not mention the Scrum Master role or any related concepts. It lacks any discussion of Scrum principles, responsibilities, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1461,6 +1467,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses an Xbox update and does not address any aspects of competence, continuous learning, or skill development. It lacks any relevant discussion on Agile, Scrum, DevOps, or Lean methodologies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:38:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses an Xbox update, focusing on new features and user experience, with no mention of Agentic Agility or its principles. It lacks any discussion on intentional shaping of outcomes, autonomy, or adaptability, which are central to the category.",
     "level": "Ignored"
   }
 }

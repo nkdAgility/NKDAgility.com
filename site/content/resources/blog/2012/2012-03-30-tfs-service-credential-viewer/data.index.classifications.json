@@ -1123,11 +1123,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:00:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:07:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about the TFS Service Credential Viewer and its functionalities, with no clear discussion on Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the TFS Service Credential Viewer and its functionality for managing credentials in Team Foundation Service. There are no direct mentions of Test First Development principles, success criteria, or testing practices. The discussion is centred around credential management and application usage, which does not align with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1210,11 +1213,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:00:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:07:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical details about using TFS Service Credential Viewer without any reference to Scrum, Scrum Masters, or related Agile roles and practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the TFS Service Credential Viewer, which is a tool for managing credentials in Team Foundation Service. It does not mention the role of a Scrum Master, nor does it discuss any Scrum-related concepts, responsibilities, or practices. Therefore, it does not align with the category of Scrum Master in any meaningful way.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1485,6 +1491,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the TFS Service Credential Viewer and its functionality, with no explicit discussion on competence, continuous learning, or skill development. While it mentions prerequisites and troubleshooting, these do not align with the core themes of competence in Agile or DevOps environments.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:07:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the TFS Service Credential Viewer, detailing its functionality and installation process. There are no explicit discussions on Agentic Agility, nor does it explore themes such as intentional shaping of outcomes, autonomy, or adaptability. The content lacks depth in addressing the principles or mechanisms of Agentic Agility, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

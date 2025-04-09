@@ -1150,11 +1150,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:15:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:13:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content is primarily focused on an upcoming course about testing tools and practices, without a clear emphasis on Test First Development or its principles.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily promotes a course on testing tools and methodologies without a clear focus on Test First Development principles. While it mentions aspects of testing and automation, it lacks explicit discussions on defining success criteria or the core themes of Test First Development. The depth of discussion is limited to course details and does not delve into the philosophy or practices of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1237,11 +1240,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:15:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:13:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a testing course and does not mention Scrum Masters or their roles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a training course for testers using Visual Studio and does not mention the Scrum Master role or its responsibilities. There is minimal conceptual alignment with Scrum principles, and the depth of discussion regarding Scrum Masters is virtually non-existent.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1518,6 +1524,18 @@
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content discusses a training course aimed at enhancing skills in testing software, which aligns with the concept of competence through skill development. However, it primarily focuses on the course details rather than a broader discussion on competence as a foundational principle in Agile or DevOps. The mentions of understanding workflows and managing testing activities indicate some alignment with competence, but the depth of discussion is limited to course specifics rather than a comprehensive exploration of competence in a professional context.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:13:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a training course for software testing and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content lacks depth and alignment with the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

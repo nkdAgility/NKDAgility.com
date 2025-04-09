@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:05:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:45:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with Windows Vista updates and performance, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses performance and reliability updates for Windows Vista, focusing on personal experiences with the updates rather than any evidence-based management principles. There are no direct mentions of empirical decision-making, metrics, or the core themes of Evidence-Based Management. The discussion lacks depth and relevance to the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:05:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:45:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses performance updates for Windows Vista and personal experiences with the operating system, with no relevance to Agile principles or product operating models.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on Windows Vista updates and their impact on performance and reliability, with no mention of agile methodologies, product management, or the Agile Product Operating Model. It does not align with any of the key topics outlined for the category.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -313,11 +319,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:06:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:45:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with Windows Vista updates and performance, with no relevance to DevOps principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses performance and reliability updates for Windows Vista, with no explicit mention of DevOps principles, practices, or cultural shifts. It focuses on personal experiences with software updates rather than the integration of people, processes, and technology in a DevOps context. Therefore, it does not align with the core themes of the DevOps category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -694,11 +703,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:53:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:45:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses updates to Windows Vista performance and reliability, which is unrelated to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses performance and reliability updates for Windows Vista, with no explicit mention of Continuous Delivery principles, practices, or related topics. It focuses on personal experiences with software updates rather than the structured practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1327,11 +1339,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:53:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:45:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Windows Vista updates and performance, with no relevance to Scrum or the Scrum Master role.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on Windows Vista updates and performance, with no mention or discussion of Scrum, Scrum Masters, or related agile principles. It does not align with any key topics associated with the Scrum Master role.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1354,11 +1369,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:53:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:45:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Windows Vista updates and performance, with no relation to Test First Development or its principles.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on performance and reliability updates for Windows Vista, with no mention of Test First Development principles, success criteria, or testing practices. It does not align with the core themes of the category, nor does it provide any depth on related topics.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1422,6 +1440,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses performance updates for Windows Vista and personal experiences with the operating system, with no mention of testing, security, compliance, or any Shift-Left Strategy principles. It does not align with the core themes of the category, nor does it provide any depth on the topic.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:45:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the performance and reliability updates for Windows Vista, focusing on personal experiences with the updates rather than any alignment with Agile or DevOps principles. There are no direct mentions of Common Goals, and the discussion lacks any connection to shared objectives or strategic alignment within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:45:33",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses performance updates for Windows Vista and personal experiences with the operating system, with no explicit mention of competence, continuous learning, or skill development. While there is a brief reference to running Visual Studio 2008, it does not connect to the core themes of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:45:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses performance and reliability updates for Windows Vista, focusing on personal experiences with the updates rather than any principles of Continuous Improvement. There are no explicit mentions of Continuous Improvement concepts, and the discussion lacks depth in relation to the category's key topics.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:45:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses performance updates for Windows Vista and personal experiences with the software, with no mention of Agentic Agility or its principles. It lacks any discussion on intentional shaping of outcomes, autonomy, or adaptability, which are central to the category.",
     "level": "Ignored"
   }
 }

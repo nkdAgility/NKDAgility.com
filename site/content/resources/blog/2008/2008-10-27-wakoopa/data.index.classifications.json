@@ -1048,11 +1048,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:37:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:39:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses an application for logging usage statistics and does not relate to Test First Development or related principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses an application for tracking software usage and does not mention or align with any principles of Test First Development. There are no references to success criteria, testing practices, or any related concepts, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1237,11 +1240,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:37:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:39:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on an application for tracking software usage and does not discuss Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses an application for tracking software usage and does not mention the role or responsibilities of a Scrum Master. There is no alignment with the core themes of the category, and the depth of discussion is minimal, focusing instead on personal usage of the app and related statistics.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1458,6 +1464,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the Wakoopa application for tracking software usage and does not discuss competence, continuous learning, or skill development. While it mentions productivity, it lacks a direct connection to the principles of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:39:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses an application for tracking software usage and does not address the principles or themes of Agentic Agility. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, nor does it differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

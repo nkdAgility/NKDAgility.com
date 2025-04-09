@@ -1165,11 +1165,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:31:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:06:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the process of upgrading TFS, migration of data, and related challenges, with no focus on Test First Development principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on upgrading TFS and migrating data from VSS, with no explicit discussion of Test First Development principles or practices. While there are mentions of testing in the context of trial upgrades, it lacks depth and alignment with the core themes of Test First Development, such as defining success criteria or automated testing practices.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1255,11 +1258,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:31:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:06:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on upgrading TFS and technical migration processes, with no relevance to Scrum Master responsibilities or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on technical aspects of upgrading TFS and migrating data, with no direct mention of the Scrum Master role or its responsibilities. While there is a brief reference to upgrading to a Scrum process template, it lacks depth and does not align with the core themes of the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1539,6 +1545,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS and migrating data, with minimal direct discussion on competence or continuous skill development. While it touches on the importance of planning and executing upgrades, it lacks a deeper exploration of how these activities contribute to team competence or professional growth.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:05:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS and migrating data, with no explicit discussion of Agentic Agility principles, intent, or the interplay between human and AI capabilities. It lacks depth in exploring the transformative capacity of individuals or systems in shaping outcomes.",
     "level": "Ignored"
   }
 }

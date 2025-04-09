@@ -1114,11 +1114,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:32:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses UML support in Visual Studio 2010 and lacks any mention of Test First Development principles, practices, or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the UML support in Visual Studio 2010, with no direct mention of Test First Development principles or practices. It lacks alignment with the core themes of Test First Development, such as success criteria, testing methodologies, or collaboration among team members. The depth of discussion is minimal and does not provide any relevant insights into Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1195,11 +1198,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:32:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio 2010 and UML, with no mention or relevance to Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on Visual Studio 2010 and its support for UML, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics outlined for the Scrum Master category, nor does it provide any depth or relevant discussion on the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1470,6 +1476,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the features of Visual Studio 2010 and its support for UML, with only a brief mention of the author's personal UML skills. There is no substantial discussion on continuous learning, skill development, or the role of competence in Agile or DevOps environments, which are central to the category. The focus is more on the tool itself rather than on competence as a foundational principle.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:32:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Visual Studio 2010's support for UML, with no explicit mention of Agentic Agility or its principles. While there is a brief reference to the potential for improvements in UML features, it does not engage with the core themes of intentionality, autonomy, or adaptability that define Agentic Agility.",
     "level": "Ignored"
   }
 }

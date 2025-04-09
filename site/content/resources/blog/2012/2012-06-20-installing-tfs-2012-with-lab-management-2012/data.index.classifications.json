@@ -1156,11 +1156,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:31:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:06:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content focuses primarily on the installation and configuration of TFS and Lab Management, with no clear discussion of Test First Development practices or principles.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with minimal reference to Test First Development principles. While there are mentions of testing and configuration, the discussion lacks a clear emphasis on defining success criteria or the structured practices associated with Test First Development, such as TDD or ATDD.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1246,11 +1249,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:31:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:06:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is heavily focused on technical installation and configuration of TFS 2012 and Lab Management, with no discussion on Scrum roles, responsibilities, or Agile principles related to the Scrum Master role.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing and configuring TFS 2012 and Lab Management, with no direct mention of the Scrum Master role or its responsibilities. While it may touch on aspects of team collaboration indirectly, it does not align with the core themes of the Scrum Master category, such as coaching, mentoring, or facilitating Scrum practices.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1527,6 +1533,18 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the technical steps involved in installing TFS 2012 and Lab Management, with minimal discussion on competence or skill development. While there are references to the need for proper configuration and troubleshooting, these are not explored in the context of continuous learning or professional growth, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:06:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical installation and configuration of TFS 2012 and Lab Management, with no explicit discussion of Agentic Agility principles, intent, or the interplay between human and AI capabilities. It lacks depth in addressing the transformative capacity of individuals or systems in shaping outcomes intentionally.",
     "level": "Ignored"
   }
 }

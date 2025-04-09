@@ -154,20 +154,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:53:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:41:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about personal information and does not discuss Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content is primarily a personal introduction and does not discuss Evidence-Based Management or its key topics. There are no direct mentions or relevant metrics, and the focus is on personal experiences rather than data-informed decision-making.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:53:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:41:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about personal information and does not discuss Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content is a personal introduction and does not discuss any aspects of the Agile Product Operating Model. It lacks direct mentions, alignment with key topics, and depth of discussion related to the category.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:53:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:40:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about personal information and does not discuss DevOps principles, practices, or related topics.",
+    "final_score": 4.0,
+    "reasoning": "The content is primarily a personal introduction and does not discuss any DevOps principles, practices, or cultural shifts. There are no direct mentions of DevOps or related concepts, and the focus is on the author's personal journey rather than on collaboration, automation, or shared accountability in a DevOps context.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -688,11 +697,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:29:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:41:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is a personal introduction and does not discuss Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content is a personal introduction and does not discuss Continuous Delivery or any related principles, practices, or tools. It focuses on the author's background and personal experiences, which are unrelated to the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1318,11 +1330,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:29:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:41:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on personal information and does not discuss the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the personal journey and experiences of Martin Hinshelwood, with no direct mention of Scrum Master responsibilities, roles, or related concepts. It lacks any discussion on Scrum principles, team dynamics, or organisational change, which are essential to the category. Therefore, it does not align with the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1345,11 +1360,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:29:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:41:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is a personal introduction and does not discuss any concepts related to Test First Development.",
+    "final_score": 4.0,
+    "reasoning": "The content is primarily a personal introduction and does not discuss any principles or practices related to Test First Development. There are no mentions of testing methodologies, success criteria, or any relevant topics that align with the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1413,6 +1431,54 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is a personal introduction and does not discuss any aspects of the Shift-Left Strategy or its principles, benefits, or methodologies. It focuses solely on the author's background and personal experiences, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:40:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal information and experiences of Martin Hinshelwood, with no explicit discussion of Common Goals, Agile, or DevOps principles. It lacks alignment with the core themes of the category and does not provide any depth on the subject matter.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:40:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal background and experiences without any explicit discussion of competence, continuous learning, or skill development. While there is a mention of adapting over time, it lacks depth and does not align with the core themes of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:41:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal background and experiences, with minimal mention of Continuous Improvement principles. While there is a brief reference to adapting the content over time, it lacks substantial discussion on the core themes of Continuous Improvement, such as empirical evidence, team effectiveness, or strategies for organisational processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:41:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on personal background and experiences of Martin Hinshelwood, with no explicit discussion of Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities. The content lacks depth and relevance to the category, making it unsuitable for classification under Agentic Agility.",
     "level": "Ignored"
   }
 }

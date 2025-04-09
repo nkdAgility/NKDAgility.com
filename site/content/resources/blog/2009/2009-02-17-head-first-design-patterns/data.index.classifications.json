@@ -1123,11 +1123,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:34:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses design patterns and learning principles, with no focus on Test First Development or related concepts.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the 'Head First Design Patterns' book and its approach to learning, particularly for individuals with dyslexia. It does not mention Test First Development, its principles, or any related practices. The focus is on educational techniques rather than software development methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1207,11 +1210,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:34:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a book on design patterns and learning principles, with no focus on Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a book about design patterns and learning techniques, with no direct mention of Scrum or the role of a Scrum Master. It does not align with the core themes of the category, such as Scrum responsibilities or agile principles, and lacks depth in discussing any relevant topics.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1482,6 +1488,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content discusses a book that enhances learning for developers, particularly those with dyslexia, but it does not explicitly address the concept of competence in terms of continuous skill development or professionalism. While it touches on effective learning techniques, it lacks a direct focus on competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:34:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the learning techniques of a specific book, 'Head First Design Patterns', and how it aids individuals with dyslexia. There are no direct mentions of Agentic Agility, nor does it align with the core themes of intentionality, autonomy, or adaptability in socio-technical environments. The focus is on educational methods rather than the transformative capacity of individuals or systems in shaping outcomes.",
     "level": "Ignored"
   }
 }

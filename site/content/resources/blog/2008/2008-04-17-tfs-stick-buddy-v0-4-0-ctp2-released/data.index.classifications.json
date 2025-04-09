@@ -163,20 +163,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:23:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:56:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release and features of a software tool, TFS Stick Buddy, without any focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a software tool (TFS Stick Buddy) and its features, with no explicit discussion of Evidence-Based Management principles or metrics. While it mentions project management and work item display, it does not align with the core themes of EBM such as empirical decision-making or value delivery.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:23:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:56:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release and features of a software tool (TFS Sticky Buddy) without any focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a software tool (TFS Stick Buddy) and its features related to project management. It does not discuss the Agile Product Operating Model or its principles, nor does it align with the key topics outlined for the category. The mention of project management is too general and does not specifically relate to agile methodologies or product management practices.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -322,11 +328,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:24:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:56:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the release and features of a specific software tool (TFS Sticky Buddy) without discussing DevOps principles, practices, or related topics.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a specific tool (TFS Stick Buddy) for project management, with no explicit discussion of DevOps principles or practices. While it touches on aspects of work item management, it does not align with the core themes of DevOps such as collaboration, automation, or shared accountability. The depth of discussion is limited to the features of the tool rather than any DevOps philosophy.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -712,11 +721,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:12:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:56:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of a specific software tool (TFS Stick Buddy) and its features rather than principles, practices, or methodologies of Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a specific software version (TFS Stick Buddy v0.4.0 CTP2) and its features, without discussing Continuous Delivery principles, practices, or benefits. There are no direct mentions of Continuous Delivery, and the discussion lacks depth in terms of automation, incremental improvements, or user feedback, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1372,11 +1384,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:12:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a software tool (TFS Sticky Buddy) and its functionality, with no relevant focus on Scrum Master responsibilities, coaching, or Scrum processes.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the release of a software tool (TFS Stick Buddy) and does not discuss the role, responsibilities, or impact of a Scrum Master. There are no direct mentions of Scrum or related concepts, and the discussion lacks depth regarding any Scrum-related themes.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1399,11 +1414,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:12:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:56:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on the release and features of the TFS Sticky Buddy tool, without discussing Test First Development, TDD principles, or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the release of a software tool (TFS Stick Buddy) and its features, with no explicit discussion of Test First Development principles, success criteria, or testing practices. While it mentions quality control in passing, it does not delve into the core themes of Test First Development, such as TDD or ATDD, nor does it provide any depth on the subject.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1467,6 +1485,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the release of a software tool (TFS Stick Buddy) and its features, with no explicit discussion of the Shift-Left Strategy. While there is a brief mention of quality control, it does not delve into integrating testing, security, or compliance early in the development process, nor does it provide any techniques, case studies, or tools related to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T19:56:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a software tool (TFS Stick Buddy) and its features, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it mentions project management and work item customisation, these topics do not connect to the core themes of aligning strategy with execution or shared objectives. The content lacks depth in discussing how these features contribute to organisational performance or team alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T19:56:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a software tool, TFS Stick Buddy, and its features. While it mentions aspects of project management and customisation, it does not explicitly discuss competence, continuous learning, or skill development. The connection to the category of competence is minimal and lacks depth, making it a secondary theme rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T19:56:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the release of a software tool (TFS Stick Buddy) and its features, with no explicit discussion on Continuous Improvement principles. While there are mentions of customisation and user feedback, these are not explored in the context of Continuous Improvement methodologies or strategies. The content lacks depth in discussing how the tool contributes to ongoing enhancements or team effectiveness, which are core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:56:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the release of a software tool (TFS Stick Buddy) and its features, with no explicit discussion of Agentic Agility or its principles. While there are mentions of customisation and project management, these do not align with the core themes of intentionality, autonomy, or adaptability in shaping outcomes. The content lacks depth in exploring the interplay between human and AI capabilities, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

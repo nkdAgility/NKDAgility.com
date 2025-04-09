@@ -154,20 +154,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:24:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:31:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on personal experiences related to pregnancy and blogging, with no discussion of Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a personal journey related to motherhood and does not discuss any aspects of Evidence-Based Management. There are no direct mentions of the category, and the themes of the content do not align with the principles of data-informed decision-making or empirical evidence.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:24:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:31:21",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily about personal experiences related to pregnancy and blogging, with no relevance to Agile principles or product development.",
+    "reasoning": "The content focuses entirely on personal experiences related to motherhood and does not mention or align with any aspects of the Agile Product Operating Model. There are no discussions on agile methodologies, product management principles, or any related topics.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:25:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:31:10",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on personal experiences related to pregnancy and blogging, with no relevance to DevOps principles or practices.",
+    "reasoning": "The content focuses entirely on personal experiences related to motherhood and does not mention or align with any DevOps principles, practices, or discussions.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -688,11 +697,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:29:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:31:29",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily about a personal journey related to pregnancy and blogging, with no relevance to Continuous Delivery principles or practices.",
+    "reasoning": "The content focuses entirely on personal experiences related to motherhood and does not mention or discuss any aspects of Continuous Delivery, such as software delivery practices, automation, or related principles. It is unrelated to the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1318,11 +1330,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:29:13",
+    "calculated_at": "2025-04-08T20:31:24",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences related to pregnancy and does not reference Scrum or the role of a Scrum Master.",
+    "reasoning": "The content focuses entirely on personal experiences related to motherhood and does not mention Scrum, the role of a Scrum Master, or any related concepts. There is no discussion of Scrum principles, team dynamics, or organisational change, which are central to the Scrum Master category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1345,11 +1360,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:29:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:31:27",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily about personal life and does not address software development or Test First Development principles.",
+    "reasoning": "The content focuses entirely on personal experiences related to motherhood and does not mention or relate to Test First Development principles, success criteria, or any testing methodologies.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1413,6 +1431,54 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content focuses on a personal journey related to pregnancy and blogging, with no discussion of software development processes, testing, security, or compliance. It does not mention the Shift-Left Strategy or its principles, making it entirely unrelated to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:31:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal journey related to motherhood and does not discuss any aspects of Common Goals, Agile, or DevOps. There are no explicit mentions of shared objectives or alignment with strategic goals, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:31:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on personal experiences related to motherhood and does not discuss competence, continuous learning, or any related themes. It lacks any mention or alignment with the principles of professionalism and quality delivery.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:31:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on personal experiences related to motherhood and does not discuss Continuous Improvement principles or practices. There are no direct mentions or relevant themes that align with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:31:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on personal experiences related to motherhood and does not discuss Agentic Agility or its principles. There are no mentions of autonomy, adaptability, or intentional shaping of outcomes, which are central to the category.",
     "level": "Ignored"
   }
 }

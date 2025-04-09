@@ -1114,11 +1114,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:01:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:05:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on installation issues and runtime conflicts related to Visual Studio and Office 2013, with no mention of Test First Development or related practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses an issue related to the installation of Office 2013 and its impact on Visual Studio 2012, focusing on error messages and workarounds. There is no mention of Test First Development principles, success criteria, or testing practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1201,11 +1204,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:01:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:05:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical issues related to Visual Studio and Office installations without any reference to Scrum Master's roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a technical issue related to Office 2013 and Visual Studio 2012, with no mention or discussion of Scrum Master roles, responsibilities, or related concepts. It does not align with any key topics associated with the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1476,6 +1482,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a technical issue related to software installation and compatibility, with no direct mention of competence, continuous learning, or skill development. While it touches on resolving a specific problem, it does not align with the core themes of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:05:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to the installation of Office 2013 and its impact on Visual Studio 2012. There are no direct mentions of Agentic Agility, nor does it explore themes such as autonomy, adaptability, or intentional shaping of outcomes. The focus is on troubleshooting a specific software conflict, which does not align with the principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

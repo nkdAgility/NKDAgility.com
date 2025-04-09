@@ -1120,11 +1120,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:32:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of .NET 4.0 and its features, with no mention of Test First Development principles, practices, or related topics.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the installation process of .NET 4.0 Beta 1 and discusses its features and improvements. There is no mention of Test First Development principles, success criteria, or any testing practices, either manual or automated. The content does not align with the core themes of Test First Development and lacks depth in discussing any related concepts.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1204,11 +1207,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:32:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on the installation of the .NET framework, which does not relate to the Scrum Master role or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the installation of .NET 4.0 Beta 1 and does not mention the role or responsibilities of a Scrum Master. There is no discussion of Scrum principles, team dynamics, or any related topics that would align with the category. Therefore, it does not meet the criteria for classification under 'Scrum Master'.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1479,6 +1485,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the installation process of .NET 4.0 Beta 1 and discusses its features, but it does not address the concept of competence in Agile, Scrum, or DevOps contexts. There are no explicit mentions of continuous learning, skill development, or the importance of competence in delivering quality outcomes. The discussion lacks depth regarding the principles of professionalism and quality delivery, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:32:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses solely on the installation process of .NET 4.0 Beta 1 and does not discuss any aspects of Agentic Agility, such as intentional shaping of outcomes, autonomy, or adaptability. It lacks any mention of human or AI capabilities in the context of agility, making it irrelevant to the category.",
     "level": "Ignored"
   }
 }

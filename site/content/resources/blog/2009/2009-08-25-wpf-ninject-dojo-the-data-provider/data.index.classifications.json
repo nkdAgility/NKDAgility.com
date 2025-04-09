@@ -1126,11 +1126,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:06:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:28:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses dependency injection in WPF applications without any mention of Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses dependency injection in WPF applications using Ninject, with no explicit mention of Test First Development principles, success criteria, or testing practices. It lacks alignment with the core themes of Test First Development, focusing instead on implementation details of a DataSourceProvider without addressing testing methodologies or practices.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1210,11 +1213,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:06:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:28:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses dependency injection in WPF and Ninject, with no relation to the role or responsibilities of a Scrum Master.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on WPF and dependency injection using Ninject, with no mention or discussion of Scrum, the role of a Scrum Master, or any related agile principles. It does not align with the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1491,6 +1497,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on technical implementation details of WPF and Ninject for dependency injection, with minimal reference to competence or skill development. While it discusses the use of dependency injection, it does not delve into continuous learning, professional development, or the broader implications of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:28:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details of WPF dependency injection using Ninject, with no explicit discussion of Agentic Agility or its principles. While there are elements of adaptability in the context of software development, the content does not engage with the intentional shaping of outcomes or the interplay between human and AI capabilities, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

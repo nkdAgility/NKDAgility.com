@@ -1144,11 +1144,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:51:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:29:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about retrieving and listing files changed in a particular iteration using API calls, with no mention of Test First Development principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on listing files changed under a specific iteration using TFS API calls, which does not relate to Test First Development principles. There are no direct mentions of success criteria, testing practices, or the importance of testing in the development process. The discussion lacks depth and does not align with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1231,11 +1234,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:51:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:29:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on technical implementation details and API usage related to file changes under an Iteration, with no discussion about the Scrum Master role or responsibilities.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to TFS API calls for version control, with no direct mention of Scrum Master responsibilities or concepts. It lacks alignment with the core themes of the Scrum Master role, such as facilitation, coaching, or team dynamics. The depth of discussion is limited to coding practices, which are unrelated to the Scrum framework.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1515,6 +1521,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on a technical implementation of listing files changed under a specific iteration using TFS API calls. While it briefly touches on the author's coding practices and acknowledges the need for improvement, it does not explicitly discuss competence in the context of Agile, Scrum, or DevOps methodologies. The mention of creating a proper command line utility suggests a recognition of the need for skill development, but this is not the main focus of the content. Overall, the discussion lacks depth and direct alignment with the core themes of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:29:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical implementation of listing files changed under a specific iteration using TFS API calls. It does not explicitly discuss Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes, autonomy, or adaptability. While there is a brief mention of creating a command line utility in the future, this does not align with the core themes of Agentic Agility, which requires a deeper exploration of intent and proactive engagement.",
     "level": "Ignored"
   }
 }

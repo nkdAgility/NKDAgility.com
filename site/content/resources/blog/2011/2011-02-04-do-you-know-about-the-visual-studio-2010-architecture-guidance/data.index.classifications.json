@@ -1138,11 +1138,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:18:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:17:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio 2010 Architectural Guidance and tools, with no mention of Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Visual Studio 2010 Architecture Guidance, focusing on practical tips and tools for developers. It does not mention Test First Development, its principles, or related practices such as TDD or ATDD. The discussion lacks any alignment with the core themes of Test First Development, and the depth of discussion is minimal, as it does not delve into any relevant testing methodologies.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1219,11 +1222,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:18:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:17:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on Visual Studio 2010 Architecture Guidance and does not relate to Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on Visual Studio 2010 Architecture Guidance and does not mention the Scrum Master role or any related concepts. There is no discussion of Scrum principles, responsibilities, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1500,6 +1506,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions enhancing development skills and provides practical guidance, which aligns with the concept of competence. However, it lacks a deep discussion on continuous learning or the broader implications of competence in Agile or DevOps contexts. The focus is primarily on specific tools and guidance rather than on the foundational principles of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:17:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010 Architecture Guidance, providing practical tips and tools for developers. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The mention of guidance and practical tips is too general and does not align with the specific themes of intentionality and agency in shaping outcomes.",
     "level": "Ignored"
   }
 }

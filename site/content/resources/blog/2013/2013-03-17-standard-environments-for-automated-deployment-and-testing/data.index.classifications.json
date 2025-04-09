@@ -1186,11 +1186,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:17:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:56:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses standard environments for automated deployment and testing, along with tools like Visual Studio and Team Foundation Server, without focusing on the principles of Test First Development or writing tests before code.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses automated deployment and testing within the context of Visual Studio 2012 TFS, but it does not explicitly focus on Test First Development principles. While it mentions automated tests and the importance of environments for testing, it lacks a clear emphasis on defining success criteria before implementation or the specific practices of Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). The discussion is more about deployment processes and environment management rather than the core concepts of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1279,11 +1282,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:17:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses automated deployment and testing environments in Visual Studio Team Foundation Server, without any clear connections to the Scrum Master role, responsibilities, or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on automated deployment and testing within Visual Studio and TFS, with no direct mention of the Scrum Master role or its responsibilities. While it touches on aspects of DevOps and software delivery, it does not align with the core themes of Scrum or the influence of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1563,6 +1569,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the technical aspects of setting up automated deployment and testing environments in Visual Studio 2012 TFS. While it touches on the importance of standardisation and consistency in deployment processes, it lacks a direct discussion on continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The mention of 'standardisation' and 'deployment pipeline' hints at competence but does not delve into fostering a culture of competence or the impact of competence on team dynamics and quality outcomes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T18:56:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on automated deployment and testing processes within Visual Studio and TFS, discussing technical details and mechanisms without addressing the intentional shaping of outcomes, agency, or the principles of Agentic Agility. It lacks explicit mentions of autonomy, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

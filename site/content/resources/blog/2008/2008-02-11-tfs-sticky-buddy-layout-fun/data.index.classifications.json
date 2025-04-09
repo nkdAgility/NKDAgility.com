@@ -157,20 +157,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:38:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:02:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and challenges with UI layout in software development, lacking any focus on evidence-based management principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the development challenges of a software application using Windows Forms and WPF, with no explicit discussion of Evidence-Based Management principles or metrics. While there are mentions of learning curves and development processes, these do not align with the core themes of EBM, such as data-informed decision-making or value delivery metrics.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:38:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:02:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses layout issues and personal experiences with Windows Forms and WPF, with no clear connection to Agile principles or the Agile Product Operating Model.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the technical challenges of developing a Windows Forms and WPF application, with no explicit discussion of agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any relevant themes or depth related to the category, making it largely irrelevant to the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "News and Reviews": {
@@ -310,11 +316,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:39:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:02:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses layout issues and personal experiences with Windows Forms and WPF, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the development challenges faced while working with Windows Forms and WPF for a specific project, TFS Sticky Buddy. It does not discuss DevOps principles, practices, or cultural shifts, nor does it mention collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The content is more aligned with software development and UI design rather than DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -694,11 +703,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:06:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:02:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses layout issues in Windows Forms and WPF development, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the challenges of developing a specific application using Windows Forms and WPF, with no direct mention of Continuous Delivery principles or practices. While there are some references to development processes, they do not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or rapid feedback. The discussion lacks depth regarding Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1348,11 +1360,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:06:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:02:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on technical implementation details of a Windows Forms and WPF application, and does not mention or relate to the Scrum Master role or responsibilities.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on technical challenges related to developing a software application using Windows Forms and WPF. It does not mention the role of a Scrum Master, nor does it discuss any Scrum-related concepts or practices. The discussion is centred around coding and UI layout issues, which are unrelated to the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1375,11 +1390,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:06:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:02:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses layout issues and experiences with Windows Forms and WPF, with no mention of Test First Development principles or practices.",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the challenges and experiences of developing a user interface for the TFS Sticky Buddy application using Windows Forms and WPF. It does not mention Test First Development principles, success criteria, or any testing practices, either manual or automated. The focus is on layout issues and personal experiences rather than on testing methodologies or the importance of defining success criteria before implementation.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1443,6 +1461,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses personal experiences with UI layout in Windows Forms and WPF, with no mention of testing, security, or compliance processes. It does not align with the core themes of the Shift-Left Strategy, which focuses on integrating these critical processes earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:02:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the author's personal experiences and challenges with developing a specific application using Windows Forms and WPF. It does not discuss Common Goals, Agile, or DevOps principles, nor does it connect individual contributions to organisational objectives. The mention of 'TFS Sticky Buddy' and layout issues is more about technical challenges rather than aligning strategy with execution or fostering collaboration.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-08T20:02:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the author's inexperience and learning curve with Windows Forms and WPF, indicating a personal journey of skill development. However, it primarily focuses on the challenges of layout design rather than a broader discussion on competence in a professional context. The mention of learning and improvement is present but lacks depth and does not align closely with the core themes of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:02:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the author's personal experiences and challenges with developing a software application using Windows Forms and WPF. While there are elements of learning and adaptation present, the discussion does not explicitly address Continuous Improvement principles or strategies. The content lacks a structured approach to improvement, empirical evidence, or a culture of experimentation, which are key aspects of the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:02:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the author's personal experiences and challenges with developing a user interface using Windows Forms and WPF. It does not explicitly discuss Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes through autonomy or adaptability. The mention of learning curves and personal reflections is too vague and does not align with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

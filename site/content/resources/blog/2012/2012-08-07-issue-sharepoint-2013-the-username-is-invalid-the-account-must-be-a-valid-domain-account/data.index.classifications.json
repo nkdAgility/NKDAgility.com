@@ -1117,11 +1117,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:30:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:03:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses SharePoint configuration issues and solutions, with no relevance to Test First Development or related testing practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a specific SharePoint configuration issue and does not discuss Test First Development principles, success criteria, or testing practices. There are no mentions of testing methodologies or the importance of defining criteria before implementation, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1204,11 +1207,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:30:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:03:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to SharePoint 2013 configuration, not Scrum Master roles or responsibilities.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on resolving a technical issue related to SharePoint 2013 and does not mention or discuss any aspects of the Scrum Master role, responsibilities, or related concepts. It is unrelated to Scrum methodology or the responsibilities of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1479,6 +1485,18 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on resolving a technical issue related to SharePoint 2013 configuration. While it provides a step-by-step guide, it does not discuss competence, continuous learning, or skill development in Agile or DevOps contexts. The mention of using PowerShell commands indicates a level of technical skill but does not align with the broader themes of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:03:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to SharePoint 2013 configuration and does not discuss Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content lacks depth and relevance to the themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

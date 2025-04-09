@@ -1192,11 +1192,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T23:10:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:14:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the upgrades of Team Foundation Server and related processes, with no focus on Test First Development principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on upgrading Team Foundation Server and SharePoint, with no direct discussion or alignment with Test First Development principles. It lacks mentions of success criteria, testing practices, or any related methodologies, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1282,11 +1285,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T23:10:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:14:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily revolves around upgrading Team Foundation Server and related technical processes, with only brief mention of Scrum for Team System templates. There is no clear, central discussion on the Scrum Master role, responsibilities, or Scrum practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server and SharePoint, with only brief mentions of the Scrum for Team System process templates. It lacks a detailed discussion on the role, responsibilities, or impact of a Scrum Master, and does not engage with the core themes of Scrum Master discussions such as coaching, mentoring, or team dynamics.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1566,6 +1572,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the technical aspects of upgrading software systems, specifically TFS and SharePoint, with minimal direct discussion on competence or skill development. While it touches on the need for knowledge in handling upgrades, it lacks a deeper exploration of continuous learning or the role of competence in achieving quality outcomes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:14:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical aspects of upgrading software systems and does not discuss Agentic Agility or its principles. There are no explicit mentions of intentional shaping of outcomes, autonomy, or adaptability, which are core to the category. The content lacks depth in discussing the interplay between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }
