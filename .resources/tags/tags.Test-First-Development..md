@@ -1,5 +1,7 @@
 ---
 title: Test First Development
+ClassificationType: tags
+ClassificationContentOrigin: human
 date: 2025-03-25T07:40:33Z
 trustpilot: false
 description: Test First is a practice that defines success before implementation. It supports manual and automated testing, with a strong preference for automation to improve flow and quality.
@@ -28,7 +30,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 concepts:
-- Method
+- Practice
 
 ---
 **Test First** is a modern engineering practice that anchors the delivery of working software in clarity, confidence, and quality. It is a shift-left strategy where tests are defined *before* implementation begins, guiding design and enabling faster feedback loops.

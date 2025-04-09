@@ -1,5 +1,7 @@
 ---
 title: Product Management
+ClassificationType: categories
+ClassificationContentOrigin: human
 trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Product Management is the strategic discipline of balancing customer needs, business goals, and technical feasibility to maximise product value. It involves defining vision, prioritising opportunities, and guiding development efforts to ensure alignment with market demands and organisational objectives. Effective Product Management enables teams to deliver impactful solutions, adapt to change, and drive continuous value delivery through evidence-based decision-making and cross-functional collaboration.

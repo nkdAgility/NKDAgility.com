@@ -1,5 +1,7 @@
 ---
 title: Definition of Done
+ClassificationType: tags
+ClassificationContentOrigin: human
 trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Ensure transparency and quality with the Definition of Done (DoD). Align teams on what it means for work to be truly complete.
@@ -30,7 +32,7 @@ sitemap:
   priority: 0.7
 
 ---
-The **Definition of Done (DoD)** establishes a shared understanding of what constitutes a **completed and releasable** product increment. It ensures that all work meets a **minimum quality standard**, providing transparency, consistency, and the ability to make **empirical decisions** based on real-world feedback.
+The **Definition of Done (DoD)** is an artifact that establishes a shared understanding of what constitutes a **completed and releasable** product increment. It ensures that all work meets a **minimum quality standard**, providing transparency, consistency, and the ability to make **empirical decisions** based on real-world feedback.
 
 This document outlines the **Organisational Definition of Done**, which applies across all teams, as well as **team-specific extensions** that may be necessary based on product requirements. It also highlights why the DoD is essential for **transparency, adaptation, and ensuring that every increment is valuable, verifiable, and production-ready**.
 

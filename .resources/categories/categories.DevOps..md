@@ -1,5 +1,7 @@
 ---
 title: DevOps
+ClassificationType: categories
+ClassificationContentOrigin: human
 date: 2025-03-20T11:04:38Z
 description: DevOps is a philosophy that unites people, processes, and technology to deliver continuous value, fostering collaboration, automation, and shared accountability.
 Instructions: |-

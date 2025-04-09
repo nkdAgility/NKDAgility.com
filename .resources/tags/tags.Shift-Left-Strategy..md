@@ -1,5 +1,7 @@
 ---
 title: Shift-Left Strategy
+ClassificationType: tags
+ClassificationContentOrigin: human
 date: 2025-03-17T14:46:11Z
 trustpilot: false
 description: A **Shift-Left Strategy** brings testing, security, and compliance earlier in development, reducing defects, accelerating feedback, and improving quality for faster, more reliable delivery.
@@ -26,7 +28,7 @@ headline:
   content: A proactive approach integrates essential processes such as testing, security, and compliance early in the development lifecycle. This strategy enhances software quality and reliability by minimising defects, fostering rapid feedback, and ensuring that teams can deliver value more efficiently. Topics include risk management, continuous integration, and quality assurance.
   updated: 2025-03-17T14:46:14Z
 concepts:
-- Method
+- Practice
 sitemap:
   filename: sitemap.xml
   priority: 0.7

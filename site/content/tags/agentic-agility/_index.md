@@ -1,5 +1,7 @@
 ---
 title: Agentic Agility
+ClassificationType: tags
+ClassificationContentOrigin: human
 date: 2025-04-07T12:39:49Z
 trustpilot: false
 description: Agentic Agility is the ability to deliberately shape outcomes through autonomy, adaptability, and alignment with value. It applies to both human practitioners and AI systems operating within socio-technical environments.
@@ -30,11 +32,11 @@ headline:
   updated: 2025-04-07T12:39:52Z
 sitemap:
   filename: sitemap.xml
-  priority: 0.9
+  priority: 0.7
 concepts:
-  - Principle
----
+- Capability
 
+---
 **Agentic Agility** is the capacity—human or AI—to take intentional, adaptive action within a system of work to improve outcomes and align with evolving goals. It transforms passive responsiveness into **purposeful intervention**.
 
 There are **two distinct expressions** of Agentic Agility:

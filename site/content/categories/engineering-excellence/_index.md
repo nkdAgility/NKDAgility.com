@@ -1,5 +1,7 @@
 ---
 title: Engineering Excellence
+ClassificationType: categories
+ClassificationContentOrigin: human
 trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Promoting high standards in software craftsmanship and development practices.
@@ -27,7 +29,8 @@ headline:
   subtitle: Fostering superior software practices and craftsmanship for sustainable development and continuous improvement.
   content: Cultivating a culture of quality in software development, this classification emphasises practices that enhance collaboration, efficiency, and adaptability. Topics include process optimisation, team dynamics, continuous feedback, and the integration of metrics to inform decision-making, fostering an environment of ongoing learning and improvement.
   updated: 2025-02-13T12:04:48Z
-concepts: []
+concepts:
+- Capability
 sitemap:
   filename: sitemap.xml
   priority: 0.7
