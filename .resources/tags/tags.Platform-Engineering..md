@@ -1,5 +1,7 @@
 ---
 title: Platform Engineering
+ClassificationType: tags
+ClassificationContentOrigin: human
 trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: Platform Engineering is the practice of designing, building, and maintaining internal platforms that enable developers to deliver value independently, reliably, and at pace.
@@ -28,7 +30,7 @@ headline:
   content: A discipline centred on creating robust internal platforms that enhance developer efficiency and streamline application lifecycles. Posts should explore self-service capabilities, standardised tools, automated workflows, and the integration of practices that foster collaboration, continuous improvement, and effective resource management within software development teams.
   updated: 2025-02-13T21:02:31Z
 concepts:
-- Practice
+- Capability
 sitemap:
   filename: sitemap.xml
   priority: 0.7

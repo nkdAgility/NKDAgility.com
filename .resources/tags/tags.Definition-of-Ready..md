@@ -1,5 +1,7 @@
 ---
 title: Definition of Ready
+ClassificationType: tags
+ClassificationContentOrigin: human
 trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Ensuring backlog items meet a clear, actionable standard before sprint planning.
@@ -34,12 +36,14 @@ aliasesArchive:
 - /practices/Definition-of-Ready-DoR.html
 - /learn/agile-delivery-kit/practices/definition-of-ready-dor
 concepts:
-- Practice
+- Artifact
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 
 ---
+Definition of Ready (DoR) is an artifact.
+
 From the perspective of Scrum, the idea of Ready, as applied to a Backlog Item, represents everyone's (Developers, Product Owner, & Stakeholders) understanding of what is needed to implement that Backlog Item. Since this is subjective and not objective, having a definition of what constitutes ready is not possible.
 
 The danger of having a defined definition of Ready (DoR) is:

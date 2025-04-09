@@ -2,7 +2,7 @@
 title: Value
 ClassificationType: concepts
 ClassificationContentOrigin: hybrid
-date: 2025-04-09T15:00:00
+date: 2025-04-09T14:00:00
 trustpilot: false
 description: Value represents the deeply held beliefs that shape decision-making, culture, and behaviours within organisations, especially in Agile, DevOps, and Lean contexts.
 Instructions: |-
@@ -26,11 +26,11 @@ headline:
   title: Value
   subtitle: Deeply held beliefs that guide ethical decision-making, shape behaviours, and foster a collaborative and adaptive culture.
   content: Value represents the philosophical foundation of behaviour and decision-making within organisations, shaping culture and promoting principles such as transparency, respect, and continuous improvement.
-  updated: 2025-04-09T15:00:00
+  updated: 2025-04-09T14:00:00
 sitemap:
   filename: sitemap.xml
   priority: 0.7
-BodyContentGenDate: 2025-04-09T15:00:00
+BodyContentGenDate: 2025-04-09T14:00:00
 
 ---
 **Value** represents the deeply held **beliefs** and **principles** that shape the way individuals and organisations think, act, and collaborate. These values form the **foundation** for decision-making and behaviours, influencing everything from leadership and accountability to team dynamics and culture. In the context of Agile, Scrum, DevOps, and Lean, values are not about **immediate outcomes** or **performance metrics**; they represent **enduring principles** that guide how work is approached, how people interact, and how ethical decisions are made.

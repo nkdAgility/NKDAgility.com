@@ -1,5 +1,7 @@
 ---
 title: Continuous Delivery
+ClassificationType: tags
+ClassificationContentOrigin: human
 date: 2025-03-21T13:37:32Z
 trustpilot: false
 description: Continuous Delivery is the practice of frequently delivering small increments of valuable product directly to real users, enabling rapid feedback, validation, and continuous improvement from the very first iteration.

@@ -1,5 +1,7 @@
 ---
 title: Competence
+ClassificationType: tags
+ClassificationContentOrigin: human
 date: 2025-03-21T14:44:55Z
 trustpilot: false
 description: Competence is a first principle that demands continuous development and demonstrable capability. It is the foundation of professionalism—without it, there can be no trust, no quality, and no real progress.

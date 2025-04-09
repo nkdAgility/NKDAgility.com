@@ -1,5 +1,7 @@
 ---
 title: Evidence Based Management
+ClassificationType: tags
+ClassificationContentOrigin: human
 date: 2025-03-21T14:44:46Z
 trustpilot: false
 ResourceId: dN0v6E1KsNd
